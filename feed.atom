@@ -1,521 +1,409 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-29T14:13:34.148Z</id>
+    <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-29T14:13:34.148Z</updated>
+    <updated>2022-09-29T14:22:09.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
+    <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Building Your Security Strategy (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2022/09/ten-principles-consider-building-security-strategy-case-study/</id>
-        <link href="https://smashingmagazine.com/2022/09/ten-principles-consider-building-security-strategy-case-study/"/>
-        <updated>2022-09-29T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Wix security experts share ten “security by design” principles that emerged from their work in keeping the Wix platform secure. If you’re a developer, these tried-and-true principles can help you build your own secure applications.]]></summary>
+        <title type="html"><![CDATA[DPG komt met nieuwe advertenties die enkel nog firstpartytracking bevatten]]></title>
+        <id>https://tweakers.net/nieuws/201730</id>
+        <link href="https://tweakers.net/nieuws/201730/dpg-komt-met-nieuwe-advertenties-die-enkel-nog-firstpartytracking-bevatten.html"/>
+        <updated>2022-09-29T13:50:41.000Z</updated>
+        <summary type="html"><![CDATA[Uitgever DPG Media komt vanaf 1 oktober met een nieuwe vorm van online advertenties. Het Seamless Ads-systeem laat advertenties meer lijken op redactionele content. Op termijn moet dat de controversiële IAB-cookiepop-up vervangen, maar de ads bevatten nog wel firstpartytracking.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Wix Security Team)</name>
+            <name>Tijs Hofmans</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parameters vs Arguments in JavaScript – What's the Difference?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/"/>
-        <updated>2022-09-28T21:18:15.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is one of the most popular programming languages out there for web development. The dynamic values passed in a JavaScript function can change when the function gets called in another location in the code. The keywords we use to name these data are parameters and arguments, but some developers]]></summary>
+        <title type="html"><![CDATA[Mozilla Thunderbird 102.3.1]]></title>
+        <id>https://tweakers.net/downloads/61858</id>
+        <link href="https://tweakers.net/downloads/61858/mozilla-thunderbird-10231.html"/>
+        <updated>2022-09-29T13:45:37.000Z</updated>
+        <summary type="html"><![CDATA[De Mozilla Foundation heeft versie 102.3.1 van Thunderbird uitgebracht. Thunderbird is een opensourceclient voor e-mail en nieuwsgroepen, met features als ondersteuning voor verschillende mail- en newsaccounts, een spamfilter, spellingscontrole en een aanpasbaar uiterlijk. In versie 102 heeft Mozilla onder meer de gebruikersinterface en het adresboek een opfrisbeurt gegeven, is het importeren en exporteren van gebruikersaccounts eenvoudiger gemaakt en is het chat-protocol Matrix toegevoegd. In deze update zijn verder nog de volgende verbeteringen aangebracht: Changes]]></summary>
         <author>
-            <name>Segun Ajibola</name>
+            <name>Bart van Klaveren</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Code a 2D Game Using JavaScript, HTML, and CSS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-code-a-2d-game-using-javascript-html-and-css/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-code-a-2d-game-using-javascript-html-and-css/"/>
-        <updated>2022-09-28T19:29:45.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript can be a surprisingly good programming language to use for creating 2D games. Especially games you want to be playable on almost any device.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a 2D game using JavaScript, HTML, CSS,]]></summary>
+        <title type="html"><![CDATA[Israëlisch aftapsysteem Nederlandse politie is al vier jaar 'onwerkbaar']]></title>
+        <id>https://tweakers.net/nieuws/201720</id>
+        <link href="https://tweakers.net/nieuws/201720/israelisch-aftapsysteem-nederlandse-politie-is-al-vier-jaar-onwerkbaar.html"/>
+        <updated>2022-09-29T13:09:39.000Z</updated>
+        <summary type="html"><![CDATA[Het Israëlische opsporingssysteem van de Nederlandse politie om verdachten en criminelen te monitoren, werkt sinds de aankoop in 2019 niet naar behoren. Het systeem is naar verluidt zelfs onwerkbaar. Volgens de politiediensten lopen hierdoor mensen gevaar.]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>Jay Stout</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GIFs Without the .gif: The Most Performant Image and Video Options Right Now]]></title>
-        <id>https://css-tricks.com/?p=373484</id>
-        <link href="https://css-tricks.com/gifs-without-the-gif-the-most-performant-image-and-video-options-right-now/"/>
-        <updated>2022-09-28T13:09:11.000Z</updated>
-        <summary type="html"><![CDATA[So you want an auto-playing looping video without sound? In popular vernacular this is the very meaning of the word GIF. The word has stuck around but the image format itself is ancient and obsolete. Twitter, for example, has …
-GIFs Without the .gif: The Most Performant Image and Video Options Right Now originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Mp3tag 3.18]]></title>
+        <id>https://tweakers.net/downloads/61856</id>
+        <link href="https://tweakers.net/downloads/61856/mp3tag-318.html"/>
+        <updated>2022-09-29T13:07:28.000Z</updated>
+        <summary type="html"><![CDATA[Florian Heidenreich heeft versie 3.18 van Mp3tag uitgebracht. Met dit programma kunnen de metatags van de gangbaarste muziekformaten worden aangepast. Ondersteuning is aanwezig voor ID3v1, ID3v2.3, ID3v2.4, mp4, wma, Vorbis-comments en Ape-tags. Verder kunnen de bestandsnamen aan de hand van die tags worden aangepast en kunnen playlists worden gegenereerd. Sinds versie 3.15 is er ook een aparte 64bit-versie beschikbaar. De changelog voor deze uitgave ziet er als volgt uit: New:]]></summary>
         <author>
-            <name>Ollie Williams</name>
+            <name>Bart van Klaveren</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phone Numbers For Web Designers]]></title>
-        <id>https://smashingmagazine.com/2022/09/phone-numbers-web-designers/</id>
-        <link href="https://smashingmagazine.com/2022/09/phone-numbers-web-designers/"/>
-        <updated>2022-09-28T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The customer journey is not limited to a website alone. Simply by combining the world of website design and telephony, far better results can be obtained for your organization. And thanks to the similarities and mutual benefits, it is an easy step to take.]]></summary>
+        <title type="html"><![CDATA[Twitch beperkt toegang vanaf alternatieve browsers om bots te stoppen]]></title>
+        <id>https://tweakers.net/nieuws/201724</id>
+        <link href="https://tweakers.net/nieuws/201724/twitch-beperkt-toegang-vanaf-alternatieve-browsers-om-bots-te-stoppen.html"/>
+        <updated>2022-09-29T12:06:01.000Z</updated>
+        <summary type="html"><![CDATA[Streamingdienst Twitch beperkt de toegang vanaf andere browsers dan Microsoft Edge, Google Chrome en Mozilla Firefox. Dat doet het Amazon-dochterbedrijf om bots te kunnen opsporen en blokkeren. Gebruikers van andere browsers kunnen mogelijk niet inloggen.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Onno Westra)</name>
+            <name>Arnoud Wokke</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Test Your Express.js and Mongoose Apps with Jest and SuperTest]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-test-in-express-and-mongoose-apps/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-in-express-and-mongoose-apps/"/>
-        <updated>2022-09-27T23:26:16.000Z</updated>
-        <summary type="html"><![CDATA[Testing is a vital part of software development. The sooner you start testing, the better.  In this article, I'll show you how to write tests for your NodeJs/ExpressJS and MongoDB/Mongoose applications with Jest and Supertest. Let's get started First let's set up a demo Express.js app. Let's say we]]></summary>
+        <title type="html"><![CDATA[Gebruikers hebben dit voorjaar bijna 12 miljard video's op TikTok geplaatst]]></title>
+        <id>https://tweakers.net/nieuws/201722</id>
+        <link href="https://tweakers.net/nieuws/201722/gebruikers-hebben-dit-voorjaar-bijna-12-miljard-videos-op-tiktok-geplaatst.html"/>
+        <updated>2022-09-29T11:55:56.000Z</updated>
+        <summary type="html"><![CDATA[Gebruikers van TikTok hebben dit voorjaar ongeveer 11,9 miljard video's op het platform geplaatst. Dat is af te leiden uit statistieken die TikTok zelf heeft gepubliceerd. De cijfers gaan over video's die zijn verwijderd.]]></summary>
         <author>
-            <name>Rakesh Potnuru</name>
+            <name>Arnoud Wokke</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Node.js Server-Side JavaScript – What is Node Used For?]]></title>
-        <id>https://www.freecodecamp.org/news/node-js-server-side-javascript-what-is-node-used-for/</id>
-        <link href="https://www.freecodecamp.org/news/node-js-server-side-javascript-what-is-node-used-for/"/>
-        <updated>2022-09-27T21:34:58.000Z</updated>
-        <summary type="html"><![CDATA[The release of Node.js in 2009 by Ryan Dahl increased the scope of what developers could do with JavaScript. Prior to that, you could only use JavaScript on the client side (the browser) or frontend of web applications. With Node.js, developers can create server side applications, command line tools, and]]></summary>
+        <title type="html"><![CDATA[OpenAI stelt AI-tool Dall E open voor het brede publiek]]></title>
+        <id>https://tweakers.net/nieuws/201716</id>
+        <link href="https://tweakers.net/nieuws/201716/openai-stelt-ai-tool-dall-e-open-voor-het-brede-publiek.html"/>
+        <updated>2022-09-29T11:46:41.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI heeft Dall E opengesteld voor het brede publiek. Hierdoor verdwijnt de wachtlijst om de bèta van de AI-tool te gebruiken. Het onderzoekslaboratorium schrijft dat het contentfilters heeft verbeterd en nieuwe systemen heeft geïmplementeerd om misbruik tegen te gaan.]]></summary>
         <author>
-            <name>Ihechikara Vincent Abba</name>
+            <name>Jay Stout</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use the Command Line Interface – for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-the-cli-beginner-guide/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-cli-beginner-guide/"/>
-        <updated>2022-09-27T21:11:32.000Z</updated>
-        <summary type="html"><![CDATA[There's a lot to learn when you're getting into tech. But fortunately there are some skills that you can use across different programming languages, operating systems, and tools.  And knowing how to use the command line interface (also known as the command prompt or terminal, depending on your operating]]></summary>
+        <title type="html"><![CDATA[Meta neemt maatregelen tegen app die 'originele Instagram-ervaring' belooft]]></title>
+        <id>https://tweakers.net/nieuws/201714</id>
+        <link href="https://tweakers.net/nieuws/201714/meta-neemt-maatregelen-tegen-app-die-originele-instagram-ervaring-belooft.html"/>
+        <updated>2022-09-29T10:36:03.000Z</updated>
+        <summary type="html"><![CDATA[Meta neemt maatregelen tegen 'the OG App', een deze week uitgekomen app die gebruikers de originele gebruikservaring van Instagram belooft. Apple heeft de app intussen uit de App Store gehaald.]]></summary>
         <author>
-            <name>Maybell Obadoni</name>
+            <name>Arnoud Wokke</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Debug Your Python Code with the Python Debugger (pdb)]]></title>
-        <id>https://www.freecodecamp.org/news/debugging-in-python-using-pdb/</id>
-        <link href="https://www.freecodecamp.org/news/debugging-in-python-using-pdb/"/>
-        <updated>2022-09-27T17:50:42.000Z</updated>
-        <summary type="html"><![CDATA[Debugging tools are at the heart of any programming language. And as a developer, it's hard to make progress and write clean code unless you know your way around these tools. This article will help you get acquainted with one such tool: The Python Debugger (pdb) [https://docs.python.org/3/library/pdb.html#:~:text=The%20module%20pdb%20defines%20an,context%20of%20any%20stack%20frame] Note that this]]></summary>
+        <title type="html"><![CDATA[Dit zijn de games die je kunt spelen op het Tweakers Huisfeestje]]></title>
+        <id>https://tweakers.net/plan/3694</id>
+        <link href="https://tweakers.net/plan/3694/dit-zijn-de-games-die-je-kunt-spelen-op-het-tweakers-huisfeestje.html"/>
+        <updated>2022-09-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[De dagen kunnen inmiddels worden afgeteld; over iets minder dan twee weken vindt de tweede editie van het Tweakers Huisfeestje plaats. Eerder zijn de activiteiten in de Workshop-area - namelijk extreme overclocking en een cursus solderen - uitgebreid aan bod gekomen. Dit keer richten we ons op de diverse game-areas.]]></summary>
         <author>
-            <name>Jagruti Tiwari</name>
+            <name>Wout Funnekotter</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Implement Vertical Scrolling in React Using react-router-hash-link]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-implement-vertical-scrolling-in-react-using-react-router-hash-link/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-vertical-scrolling-in-react-using-react-router-hash-link/"/>
-        <updated>2022-09-27T17:42:42.000Z</updated>
-        <summary type="html"><![CDATA[Smooth scrolling is a feature that makes webpages more usable and allows for a better user scrolling experience in most browsers. Implementing a smooth page scroll while using react-router-dom has been a problem in React.js. So this article, you are going to learn how to implement smooth vertical scrolling using]]></summary>
+        <title type="html"><![CDATA[Providers in Europa bereiden zich voor op lange stroomonderbrekingen]]></title>
+        <id>https://tweakers.net/nieuws/201712</id>
+        <link href="https://tweakers.net/nieuws/201712/providers-in-europa-bereiden-zich-voor-op-lange-stroomonderbrekingen.html"/>
+        <updated>2022-09-29T09:57:47.000Z</updated>
+        <summary type="html"><![CDATA[Providers in onder meer Duitsland en Frankrijk bereiden zich voor op een scenario waarin er niet genoeg stroom is in een land. De meeste mobiele zendmasten hebben een back-up, maar die werkt vaak slechts een halfuur tot een paar uur.]]></summary>
         <author>
-            <name>Edeh Israel Chidera</name>
+            <name>Arnoud Wokke</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Information Systems? Definition for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-information-systems-definition-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-information-systems-definition-for-beginners/"/>
-        <updated>2022-09-27T16:43:54.000Z</updated>
-        <summary type="html"><![CDATA[You may have heard the term "information systems" as a type of degree some people get from a college or university. Or maybe you've heard it as a general term used to describe information and communication systems in general. Information systems are more than a degree or a general term.]]></summary>
+        <title type="html"><![CDATA[Amazon presenteert slimme wekker die op onbekende wijze slaap registreert]]></title>
+        <id>https://tweakers.net/nieuws/201710</id>
+        <link href="https://tweakers.net/nieuws/201710/amazon-presenteert-slimme-wekker-die-op-onbekende-wijze-slaap-registreert.html"/>
+        <updated>2022-09-29T09:36:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon heeft op een eigen evenement de Halo Rise aangekondigd, een slimme wekker die op onbekende wijze bijhoudt hoe de gebruiker ademt. Het apparaat, ontworpen om naast het bed te staan, heeft geen microfoons of camera's.]]></summary>
         <author>
-            <name>Kolade Chris</name>
+            <name>Arnoud Wokke</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Five Data-Loading Patterns To Boost Web Performance]]></title>
-        <id>https://smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/</id>
-        <link href="https://smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/"/>
-        <updated>2022-09-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You don’t need a framework for everything, but if you use one, this article will help you use it in the most performant way.]]></summary>
+        <title type="html"><![CDATA[Fairphone begint met aanbieden refurbished modellen voor lagere prijs]]></title>
+        <id>https://tweakers.net/nieuws/201708</id>
+        <link href="https://tweakers.net/nieuws/201708/fairphone-begint-met-aanbieden-refurbished-modellen-voor-lagere-prijs.html"/>
+        <updated>2022-09-29T09:24:33.000Z</updated>
+        <summary type="html"><![CDATA[De Nederlandse smartphonemaker Fairphone is begonnen met het aanbieden van refurbished modellen van zijn Fairphone 3 uit 2019. Het is voor het eerst dat de fabrikant opgeknapte telefoons gaat aanbieden.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Agustinus Theodorus)</name>
+            <name>Arnoud Wokke</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Java Programming (version 17)]]></title>
-        <id>https://www.freecodecamp.org/news/learn-java-programming/</id>
-        <link href="https://www.freecodecamp.org/news/learn-java-programming/"/>
-        <updated>2022-09-27T13:37:06.000Z</updated>
-        <summary type="html"><![CDATA[Java has been one of the most popular programming languages for a long time. It is considered a general-purpose, concurrent, strongly typed, class-based object-oriented language. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you the Java programming language. This course is perfect for beginners.]]></summary>
+        <title type="html"><![CDATA[Chrome stopt medio 2023 met ondersteuning Manifest V2-extensies zoals adblockers]]></title>
+        <id>https://tweakers.net/nieuws/201706</id>
+        <link href="https://tweakers.net/nieuws/201706/chrome-stopt-medio-2023-met-ondersteuning-manifest-v2-extensies-zoals-adblockers.html"/>
+        <updated>2022-09-29T09:10:17.000Z</updated>
+        <summary type="html"><![CDATA[Extensies die werken met Manifest V2 verdwijnen in januari 2024 uit de Chrome Web Store. Vanaf volgend jaar experimenteert Chrome met het uitzetten van ondersteuning voor Manifest V2. Veel adblockers hebben moeite met de overstap naar Manifest V3.]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>Arnoud Wokke</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Named Element IDs Can Be Referenced as JavaScript Globals]]></title>
-        <id>https://css-tricks.com/?p=373209</id>
-        <link href="https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/"/>
-        <updated>2022-09-27T12:58:21.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that DOM elements with IDs are accessible in JavaScript as global variables? It’s one of those things that’s been around, like, forever but I’m really digging into it for the first time.
-If this is the first …
-Named Element IDs Can Be Referenced as JavaScript Globals originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Google brengt dit najaar gecombineerd zoeken met tekst en foto uit in Nederlands]]></title>
+        <id>https://tweakers.net/nieuws/201696</id>
+        <link href="https://tweakers.net/nieuws/201696/google-brengt-dit-najaar-gecombineerd-zoeken-met-tekst-en-foto-uit-in-nederlands.html"/>
+        <updated>2022-09-29T08:55:58.000Z</updated>
+        <summary type="html"><![CDATA[Google brengt zijn functie 'multisearch', waarbij gebruikers tekst en foto's kunnen combineren in een zoekopdracht, uit in het Nederlands. Het werkt sinds dit voorjaar in het Engels en daar komen dit najaar 70 talen bij.]]></summary>
         <author>
-            <name>Matteo Mazzarolo</name>
+            <name>Arnoud Wokke</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux for Hackers – Basics for Cybersecurity Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/linux-basics/</id>
-        <link href="https://www.freecodecamp.org/news/linux-basics/"/>
-        <updated>2022-09-26T23:20:22.000Z</updated>
-        <summary type="html"><![CDATA[Time to learn how to use the operating system of the average hacker 🐧. In this article, we will take a little tour of:  * The Linux operating system  * Package management  * The Linux file structure  * The Command Line Interface And you get to]]></summary>
+        <title type="html"><![CDATA[Qled-tv's Amazon hebben 'ambient mode' die tv automatisch aanzet]]></title>
+        <id>https://tweakers.net/nieuws/201702</id>
+        <link href="https://tweakers.net/nieuws/201702/qled-tvs-amazon-hebben-ambient-mode-die-tv-automatisch-aanzet.html"/>
+        <updated>2022-09-29T07:53:07.000Z</updated>
+        <summary type="html"><![CDATA[Amazon heeft zijn Fire Omni Qled-tv's aangekondigd. De tweede generatie Omni-smart-tv's van Amazon heeft een 'ambient mode', die met sensors probeert te detecteren of er mensen de woonkamer binnenlopen en aan de hand daarvan de tv aanzet.]]></summary>
         <author>
-            <name>Daniel Iwugo</name>
+            <name>Arnoud Wokke</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create Wavy Shapes & Patterns in CSS]]></title>
-        <id>https://css-tricks.com/?p=373403</id>
-        <link href="https://css-tricks.com/how-to-create-wavy-shapes-patterns-in-css/"/>
-        <updated>2022-09-26T13:13:30.000Z</updated>
-        <summary type="html"><![CDATA[The wave is probably one of the most difficult shapes to make in CSS. We always try to approximate it with properties like border-radius and lots of magic numbers until we get something that feels kinda close. And that’s before …
-How to Create Wavy Shapes & Patterns in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Razer komt over twee weken met gaminghandheld Edge 5G]]></title>
+        <id>https://tweakers.net/nieuws/201700</id>
+        <link href="https://tweakers.net/nieuws/201700/razer-komt-over-twee-weken-met-gaminghandheld-edge-5g.html"/>
+        <updated>2022-09-29T06:06:17.000Z</updated>
+        <summary type="html"><![CDATA[Fabrikant Razer komt over twee weken met zijn eigen gaminghandheld Edge 5G. De fabrikant zal de handheld aankondigen op zijn eigen evenement RazerCon op 15 oktober. Het apparaat zal gericht zijn op gamestreaming.]]></summary>
         <author>
-            <name>Temani Afif</name>
+            <name>Arnoud Wokke</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet SmashingConf New York 🇺🇸 (Oct 10&ndash;13)]]></title>
-        <id>https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/</id>
-        <link href="https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/"/>
-        <updated>2022-09-26T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[SmashingConf NYC is back! A friendly, inclusive conference for designers and front-end engineers who can’t wait to learn and be inspired. October 10–13, 2022. Get your ticket!]]></summary>
+        <title type="html"><![CDATA[Instagram maakt ban van account Pornhub permanent]]></title>
+        <id>https://tweakers.net/nieuws/201698</id>
+        <link href="https://tweakers.net/nieuws/201698/instagram-maakt-ban-van-account-pornhub-permanent.html"/>
+        <updated>2022-09-29T05:34:18.000Z</updated>
+        <summary type="html"><![CDATA[Instagram heeft het account van pornosite Pornhub definitief verbannen van zijn platform. Daarmee is de tijdelijke ban van drie weken geleden permanent geworden. Pornhub beschuldigt Instagram van het hanteren van dubbele standaarden.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>Arnoud Wokke</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Customize WordPress Block Theme Cover Templates with Dynamic Post Feature Images]]></title>
-        <id>https://css-tricks.com/?p=373057</id>
-        <link href="https://css-tricks.com/how-to-customize-wordpress-block-theme-cover-templates-with-dynamic-post-feature-images/"/>
-        <updated>2022-09-23T16:15:19.000Z</updated>
-        <summary type="html"><![CDATA[If we browse the WordPress theme directory, a majority of themes showcase cover images. It is a feature in popular demand. The cover page trend is true even in the block theme directory screenshots as well.
-Let’s consider the …
-How To Customize WordPress Block Theme Cover Templates with Dynamic Post Feature Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Tweakers Podcast #236 - AMD-cpu's, Intel-cpu's en vriendelijkere tweakers]]></title>
+        <id>https://tweakers.net/geek/201676</id>
+        <link href="https://tweakers.net/geek/201676/tweakers-podcast-236-amd-cpus-intel-cpus-en-vriendelijkere-tweakers.html"/>
+        <updated>2022-09-29T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Deze keer praten Wout Funnekotter, Jurian Ubachs, Daan van Monsjou en Saskia Schoonebeek over DJ-gear voor beginners, DLSS 3.0, browsers, tanden poetsen, Google Pixel-telefoons die naar Nederland zouden komen, nieuwe cpu's van Intel en AMD en Vriendelijker Tweakers.]]></summary>
         <author>
-            <name>Ganesh Dahal</name>
+            <name>Arnoud Wokke</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lessons Learned As A Designer-Founder]]></title>
-        <id>https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/</id>
-        <link href="https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/"/>
-        <updated>2022-09-23T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Dave Feldman shares his lessons learned and the experiments has done as a multidisciplinary designer-founder-CEO at an early-stage startup. Let’s take a look at what it is that makes a great design process for teams of any size.]]></summary>
+        <title type="html"><![CDATA[Amazon presenteert eerste Kindle-tablet met pen om op te schrijven]]></title>
+        <id>https://tweakers.net/nieuws/201694</id>
+        <link href="https://tweakers.net/nieuws/201694/amazon-presenteert-eerste-kindle-tablet-met-pen-om-op-te-schrijven.html"/>
+        <updated>2022-09-29T04:57:37.000Z</updated>
+        <summary type="html"><![CDATA[Amazon heeft zijn eerste Kindle met meegeleverde stylus gepresenteerd. De fabrikant prijst de Kindle Scribe aan als een e-reader, waarop gebruikers ook kunnen schrijven. Daarmee gaat Amazon de concurrentie aan met onder meer ReMarkable en Huawei.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Dave Feldman)</name>
+            <name>Arnoud Wokke</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Web is Good Now]]></title>
-        <id>https://css-tricks.com/?p=373652</id>
-        <link href="https://css-tricks.com/the-web-is-good-now/"/>
-        <updated>2022-09-22T22:07:22.000Z</updated>
-        <summary type="html"><![CDATA[The video of Chris Coyier’s talk at CascadiaJS 2022 is now available. It’s his first in-person talk in more than two years, so it’s great to see our good friend back on stage slinging gems on what makes the web …
-The Web is Good Now originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Plex Media Server 1.29.0.6244]]></title>
+        <id>https://tweakers.net/downloads/61854</id>
+        <link href="https://tweakers.net/downloads/61854/plex-media-server-12906244.html"/>
+        <updated>2022-09-29T04:40:23.000Z</updated>
+        <summary type="html"><![CDATA[Versie 1.29.0.6244 van Plex Media Server is verschenen. Deze versie was eerder al voor houders van de betaalde PlexPass beschikbaar, maar kan inmiddels door iedereen worden gedownload. Plex Media Server is een mediaserver voor Windows, Linux, FreeBSD, macOS en diverse nas-apparaten. De software kan content serveren aan clients op dezelfde machine, binnen het lokale netwerk of via internet. Clientsoftware is beschikbaar voor de eerdergenoemde besturingssystemen maar content kan ook worden bekeken op bijvoorbeeld iOS, Android, Google TV en Chromecast. Het programma is gratis te gebruiken en heeft daarnaast PlexPass, een betaalde dienst die toegang tot 'premium features' en eerder tot nieuwe versies geeft. Sinds versie 1.28.0.5999 zijn de volgende veranderingen en verbeteringen aangebracht:]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>Bart van Klaveren</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Made an Icon System Out of CSS Custom Properties]]></title>
-        <id>https://css-tricks.com/?p=373111</id>
-        <link href="https://css-tricks.com/how-i-made-an-icon-system-out-of-css-custom-properties/"/>
-        <updated>2022-09-22T15:17:21.000Z</updated>
-        <summary type="html"><![CDATA[SVG is the best format for icons on a website, there is no doubt about that. It allows you to have sharp icons no matter the screen pixel density, you can change the styles of the SVG on hover …
-How I Made an Icon System Out of CSS Custom Properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[EMDB 5.12]]></title>
+        <id>https://tweakers.net/downloads/61852</id>
+        <link href="https://tweakers.net/downloads/61852/emdb-512.html"/>
+        <updated>2022-09-29T04:24:06.000Z</updated>
+        <summary type="html"><![CDATA[Versie 5.12 van EMDB is uitgekomen. EMDB, wat staat voor Eric's Movie Database, is een gratis programma waarmee een filmcollectie kan worden beheerd. Hoewel de download maar zo'n 5,5MB groot is, beschikt het programma over uitgebreide functionaliteit. Zo kan relevante informatie van onlinedatabases als IMDb, MovieMeter, TMDb en TheTVDB worden opgehaald, kan worden bijgehouden welke films uitgeleend zijn en kunnen films die op de harde schijf staan direct vanuit het programma gestart worden. EMDB kan worden gebruikt in diverse talen, waaronder in het Nederlands. In deze uitgave zijn de volgende veranderingen en verbeteringen doorgevoerd: Changes in release 5.12:]]></summary>
         <author>
-            <name>Louis Hoebregts</name>
+            <name>Bart van Klaveren</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Things I Wish I Had Known About Angular When I Started]]></title>
-        <id>https://smashingmagazine.com/2022/09/angular-guide/</id>
-        <link href="https://smashingmagazine.com/2022/09/angular-guide/"/>
-        <updated>2022-09-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’re considering learning Angular, this article sums up what William Juan wished he knew when he started, including the mistakes made and lessons learned the hard way.]]></summary>
+        <title type="html"><![CDATA[Notepad++ 8.4.6]]></title>
+        <id>https://tweakers.net/downloads/61850</id>
+        <link href="https://tweakers.net/downloads/61850/notepad++-846.html"/>
+        <updated>2022-09-29T04:16:41.000Z</updated>
+        <summary type="html"><![CDATA[Versie 8.4.6 van Notepad++ is uitgekomen. Deze uitgebreide teksteditor heeft diverse mogelijkheden die vooral voor programmeurs handig zijn, zoals syntax-highlighting voor onder andere C, C++, Java, HTML, XML en PHP. Ook biedt het programma de mogelijkheid om meer dan één document tegelijk te bewerken of één document op twee verschillende plaatsen te onderhouden. Wie de nieuwste versie wil gebruiken, moet deze zelf downloaden. De ingebouwde updater van Notepad++ biedt updates namelijk pas een week na hun verschijnen aan, om eventuele ernstige bugs nog te kunnen oplossen. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Notepad++ v8.4.6 bug/regression-fixes and new features:]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (William Juan)</name>
+            <name>Bart van Klaveren</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Rules vs. CSS Rulesets]]></title>
-        <id>https://css-tricks.com/?p=373639</id>
-        <link href="https://css-tricks.com/css-rules-vs-css-rulesets/"/>
-        <updated>2022-09-21T21:53:44.000Z</updated>
-        <summary type="html"><![CDATA[The latest spec:
-A style rule is a qualified rule that associates a selector list with a list of property declarations and possibly a list of nested rules. They are also called rule sets in CSS2.
-Louis Lazaris:
-As the above quote from W3C indicates, it seems 
-…
-CSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[[Plus] Europese regels maken smartphones repareerbaarder, maar er is ook kritiek]]></title>
+        <id>https://tweakers.net/nieuws/200662</id>
+        <link href="https://tweakers.net/nieuws/200662/europese-regels-maken-smartphones-repareerbaarder-maar-er-is-ook-kritiek.html"/>
+        <updated>2022-09-29T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Er komen nieuwe Europese regels aan om smartphones verplicht repareerbaarder te maken. Die regels zijn inmiddels in een vergevorderd stadium, maar er is uit diverse hoeken kritiek op hoe de regels precies in elkaar zitten.]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>Arnoud Wokke</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Designing Better Inline Validation UX]]></title>
-        <id>https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/</id>
-        <link href="https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/"/>
-        <updated>2022-09-21T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Inline validation in web forms is useful when it works, but frustrating when it fails. Too often it leads to an endless stream of disruptive error messages or dead-ends without any chance of getting out. Let’s fix it.]]></summary>
+        <title type="html"><![CDATA[Monster Hunter-achtige game Wild Hearts komt uit op 17 februari 2023]]></title>
+        <id>https://tweakers.net/nieuws/201692</id>
+        <link href="https://tweakers.net/nieuws/201692/monster-hunter-achtige-game-wild-hearts-komt-uit-op-17-februari-2023.html"/>
+        <updated>2022-09-28T18:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Electronic Arts en Koei Tecmo hebben Wild Hearts onthuld. De game, waarvan de gameplay doet denken aan de Monster Hunter-serie van Capcom, moet op 17 februari 2023 uitkomen voor de PlayStation 5, Xbox Series S/X en pc. Het spel gaat 70 euro kosten.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>Loïs Franx</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Checkerboard Background… But With Rounded Corners and Hover Styles]]></title>
-        <id>https://css-tricks.com/?p=373167</id>
-        <link href="https://css-tricks.com/css-checkerboard-background-but-with-rounded-corners-and-hover-styles/"/>
-        <updated>2022-09-20T13:19:24.000Z</updated>
-        <summary type="html"><![CDATA[On one hand, creating simple checkered backgrounds with CSS is easy. On the other hand, though, unless we are one of the CSS-gradient-ninjas, we are kind of stuck with basic patterns.
-At least that’s what I thought while staring at …
-CSS Checkerboard Background… But With Rounded Corners and Hover Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Release piratenspel Skull & Bones is uitgesteld naar 9 maart 2023]]></title>
+        <id>https://tweakers.net/nieuws/201690</id>
+        <link href="https://tweakers.net/nieuws/201690/release-piratenspel-skull-en-bones-is-uitgesteld-naar-9-maart-2023.html"/>
+        <updated>2022-09-28T17:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Ubisoft heeft de release van Skull & Bones verplaatst naar 9 maart 2023, omdat er meer tijd nodig is voor 'het afmaken' van de piratengame. Het spel zou aanvankelijk op 8 november uitkomen voor Xbox Series-consoles, PlayStation 5, pc en Stadia.]]></summary>
         <author>
-            <name>Preethi</name>
+            <name>Loïs Franx</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 53 With Rémi Parmentier: Can HTML Email Use Modern CSS?]]></title>
-        <id>https://smashingmagazine.com/2022/09/smashing-podcast-episode-53/</id>
-        <link href="https://smashingmagazine.com/2022/09/smashing-podcast-episode-53/"/>
-        <updated>2022-09-20T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we’re talking about HTML email. Do we still have to design like we would for IE5? Vitaly talks to expert Rémi Parmentier to find out.]]></summary>
+        <title type="html"><![CDATA[MAME 0.248]]></title>
+        <id>https://tweakers.net/downloads/61844</id>
+        <link href="https://tweakers.net/downloads/61844/mame-0248.html"/>
+        <updated>2022-09-28T17:34:40.000Z</updated>
+        <summary type="html"><![CDATA[Versie 0.248 van MAME is uitgekomen. MAME staat voor Multiple Arcade Machine Emulator en is een programma waarmee het mogelijk is om een grote hoeveelheid klassieke arcadespellen te spelen. MESS staat voor Multi Emulator Super System en emuleert een groot aantal oude computers, zoals de Commodore 64, Atari 2600, Gameboy en ZX Spectrum. De uitgebreide lijst met veranderingen staat hier; de releasenotes kunnen hieronder worden gevonden. MAME 0.248:]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>Bart van Klaveren</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s New In Gatsby 2022?]]></title>
-        <id>https://smashingmagazine.com/2022/09/new-gatsby-2022/</id>
-        <link href="https://smashingmagazine.com/2022/09/new-gatsby-2022/"/>
-        <updated>2022-09-20T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Gatsby has evolved quite dramatically in the last two years. In this article, Paul Scanlon explains what Gatsby can do today, and how he used some of the new features when upgrading his personal website from Gatsby 2 to Gatsby 4.]]></summary>
+        <title type="html"><![CDATA[Microsoft Visual Studio 2022 17.3.5]]></title>
+        <id>https://tweakers.net/downloads/61846</id>
+        <link href="https://tweakers.net/downloads/61846/microsoft-visual-studio-2022-1735.html"/>
+        <updated>2022-09-28T17:29:49.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft heeft versie 17.3.5 van Visual Studio 2022 uitgebracht. Deze populaire programmeerontwikkelomgeving beschikt over handige opties om het programmeren in onder andere Visual C++, Visual Basic, C#, F# en Python gemakkelijker te maken. De nieuwe versie is volledig 64bit en heeft een nieuwe vereenvoudigde gebruikersinterface. Meer informatie over versie 17.3 is in deze aankondiging van Microsoft te vinden. Versie 17.3.5 bevat verder de volgende veranderingen en verbeteringen: Issues Addressed in this release]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
+            <name>Bart van Klaveren</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building A Retro Draggable Web Component With Lit]]></title>
-        <id>https://smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/</id>
-        <link href="https://smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/"/>
-        <updated>2022-09-19T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In today’s article, Andrico Karoulla explains how to create a cool draggable effect by listening to the drag events and writing some custom logic inside the handlers.]]></summary>
+        <title type="html"><![CDATA[Brave 1.44.101]]></title>
+        <id>https://tweakers.net/downloads/61848</id>
+        <link href="https://tweakers.net/downloads/61848/brave-144101.html"/>
+        <updated>2022-09-28T17:24:27.000Z</updated>
+        <summary type="html"><![CDATA[Brave is een webbrowser die is gebaseerd op Chromium. Aan het roer van de onderneming achter Brave staat Brendan Eich, de bedenker van JavaScript en een van de oprichters van Mozilla. Brave richt zich op het verbeteren van de online veiligheid en biedt een alternatief systeem voor het financieel ondersteunen van contentaanbieders. Het idee daarachter is dat reclame vaak de grootste inkomstenbron van een website is, maar dat veel mensen vanwege opdringerige reclames adblockers gebruiken en websites inkomsten mislopen. De ontwikkelaars hebben versie 1.44.101 uitgebracht en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Full Release Notes]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Andrico Karoulla)</name>
+            <name>Bart van Klaveren</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making a Real-Time Clock With a Conic Gradient Face]]></title>
-        <id>https://css-tricks.com/?p=373184</id>
-        <link href="https://css-tricks.com/making-a-real-time-clock-with-a-conic-gradient-face/"/>
-        <updated>2022-09-19T12:58:09.000Z</updated>
-        <summary type="html"><![CDATA[Gradients have been a part of the CSS spectrum for quite some time now. We see a lot of radial and linear gradients in a lot of projects, but there is one type of gradient that seems to be a …
-Making a Real-Time Clock With a Conic Gradient Face originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Europese Commissie wil fabrikanten aansprakelijk stellen bij schade door AI]]></title>
+        <id>https://tweakers.net/nieuws/201688</id>
+        <link href="https://tweakers.net/nieuws/201688/europese-commissie-wil-fabrikanten-aansprakelijk-stellen-bij-schade-door-ai.html"/>
+        <updated>2022-09-28T16:48:29.000Z</updated>
+        <summary type="html"><![CDATA[De Europese Commissie wil de aansprakelijkheidsregels moderniseren. Daarbij wil het onder meer fabrikanten van apparaten met kunstmatige intelligentie aansprakelijk stellen voor schade. De voorstellen moeten nog worden goedgekeurd door de Europese lidstaten.]]></summary>
         <author>
-            <name>Brecht De Ruyte</name>
+            <name>Loïs Franx</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rethinking Star Ratings For Readers]]></title>
-        <id>https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/</id>
-        <link href="https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/"/>
-        <updated>2022-09-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How can companies change their rating and review systems to better benefit users? Matt Athanasiou shares some steps to improve the experience of reviewing literature and other products — while also building stronger connections.]]></summary>
+        <title type="html"><![CDATA[VueScan 9.7.93]]></title>
+        <id>https://tweakers.net/downloads/61842</id>
+        <link href="https://tweakers.net/downloads/61842/vuescan-9793.html"/>
+        <updated>2022-09-28T16:46:58.000Z</updated>
+        <summary type="html"><![CDATA[Hamrick Software heeft versie 9.7.93 van VueScan uitgebracht. Het programma kan worden gebruikt als vervanger van de bij scanners meegeleverde twain-drivers en biedt vaak meer instelmogelijkheden. In veel gevallen kan het programma ook scanners aansturen als de fabrikant zelf geen driver voor het desbetreffende besturingssysteem heeft uitgebracht. Naast scannen kan het ook enkele bewerkingen uitvoeren, zoals crop, sharpen, grain reduction en het aanpassen van de kleurbalans. VueScan is beschikbaar voor Windows, macOS en Linux, en biedt ondersteuning voor ruim 6800 scanners van 42 fabrikanten onder Windows, Linux en macOS. Het programma is te gebruiken in 28 talen, waaronder het Nederlands. De changelog voor deze uitgave ziet er als volgt uit: Changes in VueScan version 9.7.93]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Matt Athanasiou)</name>
+            <name>Bart van Klaveren</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[More Details on `details`]]></title>
-        <id>https://css-tricks.com/?p=373372</id>
-        <link href="https://css-tricks.com/more-details-on-details/"/>
-        <updated>2022-09-15T13:12:40.000Z</updated>
-        <summary type="html"><![CDATA[A lot of chatter around the ol’ <details> and <summary> elements lately! I saw Lea Verou recently tweet an observation about the element’s display behavior and that sorta splintered into more observations and usage notes from folks, including a revived …
-More Details on `details` originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Steam houdt vanaf 2023 geen uitverkoop meer rond Chinees Nieuwjaar]]></title>
+        <id>https://tweakers.net/nieuws/201686</id>
+        <link href="https://tweakers.net/nieuws/201686/steam-houdt-vanaf-2023-geen-uitverkoop-meer-rond-chinees-nieuwjaar.html"/>
+        <updated>2022-09-28T15:46:28.000Z</updated>
+        <summary type="html"><![CDATA[Er vindt vanaf 2023 geen Steam Sale meer plaats rond het Chinees Nieuwjaar. Volgens Steam vonden gebruikers dat deze actie te snel volgt op de winteruitverkoop. In plaats daarvan wordt het evenement vervangen door de voorjaarsuitverkoop.]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>Loïs Franx</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Headless In Times Of Accessibility]]></title>
-        <id>https://smashingmagazine.com/2022/09/accessibility-times-headless/</id>
-        <link href="https://smashingmagazine.com/2022/09/accessibility-times-headless/"/>
-        <updated>2022-09-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you want to make your new website as accessible as possible? Amazing, that’s a great mindset! Let’s have a closer look at the factors you should take into consideration when choosing a content management system (CMS) in terms of web accessibility.]]></summary>
+        <title type="html"><![CDATA[Apple verwijdert apps van het Russische socialemediabedrijf VK uit App Store]]></title>
+        <id>https://tweakers.net/nieuws/201684</id>
+        <link href="https://tweakers.net/nieuws/201684/apple-verwijdert-apps-van-het-russische-socialemediabedrijf-vk-uit-app-store.html"/>
+        <updated>2022-09-28T15:43:40.000Z</updated>
+        <summary type="html"><![CDATA[Apple heeft wereldwijd alle apps van het Russische socialemediabedrijf VK uit de App Store verwijderd. Hierdoor hebben Russische iOS-gebruikers geen toegang meer tot diensten van het bedrijf waaronder Mail.ru- en VK Music. Geïnstalleerde apps blijven wel werken.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Josefine Schaefer)</name>
+            <name>Jay Stout</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When is it OK to Disable Text Selection?]]></title>
-        <id>https://css-tricks.com/?p=373100</id>
-        <link href="https://css-tricks.com/when-is-it-ok-to-disable-text-selection/"/>
-        <updated>2022-09-14T13:03:04.000Z</updated>
-        <summary type="html"><![CDATA[Using CSS, it’s possible to prevent users from selecting text within an element using user-select: none. Now, it’s understandable why doing so might be considered “controversial”. I mean, should we be disabling standard user behaviors? Generally speaking, no, we …
-When is it OK to Disable Text Selection? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Enkele Ziggo-gebruikers melden hogere uploadsnelheid dan beloofd]]></title>
+        <id>https://tweakers.net/nieuws/201652</id>
+        <link href="https://tweakers.net/nieuws/201652/enkele-ziggo-gebruikers-melden-hogere-uploadsnelheid-dan-beloofd.html"/>
+        <updated>2022-09-28T15:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Verschillende Ziggo-klanten meldden in de afgelopen weken dat ze een uploadsnelheid van 150Mbit per seconde hadden ondanks de beperking van het Giga-abonnement van 50Mb/s. VodafoneZiggo zegt daarentegen niet doelbewust de uploadsnelheid te hebben verhoogd.]]></summary>
         <author>
-            <name>Daniel Schwarz</name>
+            <name>Yannick Spinner</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript APIs You Don’t Know About]]></title>
-        <id>https://smashingmagazine.com/2022/09/javascript-api-guide/</id>
-        <link href="https://smashingmagazine.com/2022/09/javascript-api-guide/"/>
-        <updated>2022-09-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Juan Diego covers the least known yet extremely useful APIs, such as the Page Visibility API, Web Sharing API, Broadcast Channel API and Internationalization API. Together we will see what they are, where we should use them, and how to use them.]]></summary>
+        <title type="html"><![CDATA[Intel brengt XeSS-techniek voor temporal upscaling uit en publiceert sdk]]></title>
+        <id>https://tweakers.net/nieuws/201682</id>
+        <link href="https://tweakers.net/nieuws/201682/intel-brengt-xess-techniek-voor-temporal-upscaling-uit-en-publiceert-sdk.html"/>
+        <updated>2022-09-28T15:28:33.000Z</updated>
+        <summary type="html"><![CDATA[Intel heeft XeSS uitgebracht. Deze upscalingtechniek is op woensdag verschenen in games als Death Stranding en Shadow of the Tomb Raider. Het bedrijf heeft ook een sdk gepubliceerd waarmee ontwikkelaars XeSS in hun games kunnen integreren.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
+            <name>Daan van Monsjou</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebKit Features in Safari 16.0]]></title>
-        <id>https://css-tricks.com/?p=373367</id>
-        <link href="https://css-tricks.com/webkit-features-in-safari-16-0/"/>
-        <updated>2022-09-13T16:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Whew boy, Safari 16 is officially out in the wild and it packs in a bunch of features, some new and exciting (Subgrid! Container Queries! Font Palettes!) and others we’ve been waiting on for better cross-browser support (Motion Path! Overscroll …
-WebKit Features in Safari 16.0 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Duitse overheid breidt digitaal beveiligingslabel voor iot-apparaten uit]]></title>
+        <id>https://tweakers.net/nieuws/201678</id>
+        <link href="https://tweakers.net/nieuws/201678/duitse-overheid-breidt-digitaal-beveiligingslabel-voor-iot-apparaten-uit.html"/>
+        <updated>2022-09-28T15:11:23.000Z</updated>
+        <summary type="html"><![CDATA[De Duitse overheid heeft het keurmerk dat de beveiliging van iot-apparaten kan weergeven, uitgebreid naar alle 'slimme apparaten'. Voorheen konden alleen bepaalde apparaten, zoals slimme tv's en luidsprekers, het keurmerk dragen.]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>Jay Stout</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Basics of Remix]]></title>
-        <id>https://css-tricks.com/?p=373081</id>
-        <link href="https://css-tricks.com/the-basics-of-remix/"/>
-        <updated>2022-09-13T12:59:46.000Z</updated>
-        <summary type="html"><![CDATA[You’ve probably heard a lot of hype around one of the newest kids on the framework block, Remix. It may be surprising that it got its start back in 2019, but it was originally only available as a subscription-based premium …
-The Basics of Remix originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Wacom introduceert Cintiq Pro 27-tekentablet met aanpasbare stylus]]></title>
+        <id>https://tweakers.net/nieuws/201674</id>
+        <link href="https://tweakers.net/nieuws/201674/wacom-introduceert-cintiq-pro-27-tekentablet-met-aanpasbare-stylus.html"/>
+        <updated>2022-09-28T13:40:03.000Z</updated>
+        <summary type="html"><![CDATA[Wacom kondigt de Cintiq Pro 27 aan. Deze digitale tekentablet heeft een 26,9”-scherm met een resolutie van 3840x2160 pixels. Het paneel biedt een 120Hz-refreshrate en hdr-ondersteuning en wordt geleverd met een aanpasbare Wacom Pro Pen 3-stylus.]]></summary>
         <author>
-            <name>Brittney Postma</name>
+            <name>Jay Stout</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making Sense Of WAI-ARIA: A Comprehensive Guide]]></title>
-        <id>https://smashingmagazine.com/2022/09/wai-aria-guide/</id>
-        <link href="https://smashingmagazine.com/2022/09/wai-aria-guide/"/>
-        <updated>2022-09-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Kate Kalcevich explains when to use ARIA and how to use it properly so that you can use ARIA in a way that’s helpful to the many disabled people who use [assistive technology](https://makeitfable.com/glossary/?utm_source=Smashing+Magazine&utm_medium=sponsored+content&utm_campaign=Upskill&utm_term=Fable&utm_content=Sept2022) to navigate the Internet. Let’s dive in!]]></summary>
+        <title type="html"><![CDATA[Bloomberg: Apple verhoogt productie iPhone 14 toch niet, hogere vraag blijft uit]]></title>
+        <id>https://tweakers.net/nieuws/201670</id>
+        <link href="https://tweakers.net/nieuws/201670/bloomberg-apple-verhoogt-productie-iphone-14-toch-niet-hogere-vraag-blijft-uit.html"/>
+        <updated>2022-09-28T12:53:16.000Z</updated>
+        <summary type="html"><![CDATA[Apple gaat de productie van nieuwe iPhone 14-toestellen naar verluidt toch niet verhogen. Het bedrijf had een hogere vraag verwacht, maar die zou uitgebleven zijn. Er worden alsnog grofweg net zoveel smartphones gemaakt als vorig jaar.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Kate Kalcevich)</name>
+            <name>Yannick Spinner</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Interactive Figma Widgets]]></title>
-        <id>https://css-tricks.com/?p=372991</id>
-        <link href="https://css-tricks.com/building-interactive-figma-widgets/"/>
-        <updated>2022-09-12T13:05:20.000Z</updated>
-        <summary type="html"><![CDATA[Figma has always encouraged collaboration between developers and designers. It strives on an endless treasury of community-made plugins. Need 3D elements? There’s a plugin for that. Need abstract SVGs? There’s a plugin for that, too.
-That said, the design part of Figma has …
-Building Interactive Figma Widgets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[TrendForce: prijs nandgeheugen daalt in vierde kwartaal met maximaal 20 procent]]></title>
+        <id>https://tweakers.net/nieuws/201672</id>
+        <link href="https://tweakers.net/nieuws/201672/trendforce-prijs-nandgeheugen-daalt-in-vierde-kwartaal-met-maximaal-20-procent.html"/>
+        <updated>2022-09-28T12:44:42.000Z</updated>
+        <summary type="html"><![CDATA[Analistenbureau TrendForce stelt dat er een overschot aan nandgeheugen is bij fabrikanten van onder andere geheugenkaarten en ssd’s. Hierdoor zou de prijs voor nandgeheugen in het vierde kwartaal van 2022 met 15 à 20 procent kunnen zakken.]]></summary>
         <author>
-            <name>Eluda</name>
+            <name>Jay Stout</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet “Smart Interface Design Patterns Checklists” (Deck With 166 Cards)]]></title>
-        <id>https://smashingmagazine.com/2022/09/smart-interface-design-checklist-cards-release/</id>
-        <link href="https://smashingmagazine.com/2022/09/smart-interface-design-checklist-cards-release/"/>
-        <updated>2022-09-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet “Smart Interface Design Patterns Checklists”, a deck of 166 checklist cards to help you design and build better interfaces, faster. With accordions, mega-drop-downs, data tables, carousels, and everything in-between.]]></summary>
+        <title type="html"><![CDATA[[Plus] Accu's van Samsung-telefoons zwellen op bij reviewers, en dat is een probleem]]></title>
+        <id>https://tweakers.net/nieuws/201660</id>
+        <link href="https://tweakers.net/nieuws/201660/accus-van-samsung-telefoons-zwellen-op-bij-reviewers-en-dat-is-een-probleem.html"/>
+        <updated>2022-09-28T12:06:33.000Z</updated>
+        <summary type="html"><![CDATA[Diverse techreviewers zeggen, naar aanleiding van vragen van youtuber Mrwhosetheboss, dat de accu van hun oudere Samsung-telefoon opzwelt. Dat is verklaarbaar, maar het is ook een probleem voor iedereen die een oude telefoon in een la wil laten liggen.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>Arnoud Wokke</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Made a Pure CSS Puzzle Game]]></title>
-        <id>https://css-tricks.com/?p=372952</id>
-        <link href="https://css-tricks.com/how-i-made-a-pure-css-puzzle-game/"/>
-        <updated>2022-09-09T13:21:29.000Z</updated>
-        <summary type="html"><![CDATA[I recently discovered the joy of creating CSS-only games. It’s always fascinating how HTML and CSS are capable of handling the logic of an entire online game, so I had to try it! Such games usually rely on the ol’ …
-How I Made a Pure CSS Puzzle Game originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Intel kondigt Arc A310-budgetvideokaart met 4GB geheugen aan]]></title>
+        <id>https://tweakers.net/nieuws/201668</id>
+        <link href="https://tweakers.net/nieuws/201668/intel-kondigt-arc-a310-budgetvideokaart-met-4gb-geheugen-aan.html"/>
+        <updated>2022-09-28T11:26:32.000Z</updated>
+        <summary type="html"><![CDATA[Intel heeft de specificaties van zijn Arc A310-desktopvideokaart gepubliceerd. De budgetkaart krijgt onder meer zes Xe-cores en 4GB GDDR6-geheugen. Intel deelt nog geen concrete releasedatum en meldt ook geen adviesprijs.]]></summary>
         <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Formula To Rule Them All: The ROI Of A Design System]]></title>
-        <id>https://smashingmagazine.com/2022/09/formula-roi-design-system/</id>
-        <link href="https://smashingmagazine.com/2022/09/formula-roi-design-system/"/>
-        <updated>2022-09-09T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Design systems are a crucial success factor for digital businesses, and virtually every major player works with one. Still, they can sometimes be hard to sell to management. Here’s a ready-to-use formula to calculate the ROI of any design system.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Maximilian Speicher &amp; Guido Baena Wehrmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UX Checklists For Interface Designers]]></title>
-        <id>https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/</id>
-        <link href="https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/"/>
-        <updated>2022-09-08T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[UX checklists with best design practices, accessibility guidelines, design system checklist, tables UX checklist, UX research methods, form design UX and flowcharts.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Realities And Myths Of Contrast And Color]]></title>
-        <id>https://smashingmagazine.com/2022/09/realities-myths-contrast-color/</id>
-        <link href="https://smashingmagazine.com/2022/09/realities-myths-contrast-color/"/>
-        <updated>2022-09-06T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Andrew Somers, a 35-year veteran of the Hollywood film and television industry, shares his experience about the hard-fought battles and lessons learned designing for illuminated presentations.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andrew Somers)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 52 With Yiying Lu: How Do You Become An NFT Artist?]]></title>
-        <id>https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/</id>
-        <link href="https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/"/>
-        <updated>2022-09-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we ask how do you go from running a creative studio to designing NFTs. Vitaly talks to artist Yiying Lu to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Understanding Privacy, A New Smashing Book By Heather Burns]]></title>
-        <id>https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/</id>
-        <link href="https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/"/>
-        <updated>2022-09-05T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet “Understanding Privacy”, our upcoming book on what data privacy is really about beyond scary headlines. Approx. 350 pages. eBook available in October, print shipping in November.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Accessibility And Usability Journey Of Drupal’s Primary Navigation]]></title>
-        <id>https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/</id>
-        <link href="https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/"/>
-        <updated>2022-09-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Mike Herchel covers Drupal’s new default theme, Olivero, which is usable, accessible, robust, and beautiful and will help you improve websites’ navigation systems.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mike Herchel)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Databases For Front-End Developers: The Concepts Under The Hood (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/</id>
-        <link href="https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/"/>
-        <updated>2022-09-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the second part of “Databases For Front-End Developers” series, Atila Fassina explores concepts to equip you to have your own opinions about which kinds of databases suit your specific needs.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Atila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful JavaScript Data Grid Libraries]]></title>
-        <id>https://smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/</id>
-        <link href="https://smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/"/>
-        <updated>2022-09-01T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Zara Cooper provides a rundown of some popular data grid libraries that would be a great addition to any data-heavy application and shares recommendations on what factors to consider when choosing a suitable data grid library.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Zara Cooper)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding The Balance (September 2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/</id>
-        <link href="https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/"/>
-        <updated>2022-08-31T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s welcome September with some fresh desktop wallpapers. Designed by artists and designers from across the globe, they come in versions with and without a calendar for the month. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>Jay Stout</name>
         </author>
     </entry>
 </feed>
