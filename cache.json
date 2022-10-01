@@ -12,6 +12,306 @@
       "siteUrl": "https://tweakers.net/",
       "articles": [
         {
+          "id": "https://tweakers.net/downloads/61884",
+          "author": "Bart van Klaveren",
+          "description": "Versie 15.63 van RJ TextEd is uitgebracht. Deze gratis teksteditor van Zweedse makelij heeft diverse mogelijkheden, die vooral voor software- en webontwikkelaars interessant zijn, zoals syntax-highlighting, autocompletion, uitgebreide selectie- en sorteermogelijkheden en een ingebakken (s)ftp-client. Het programma wordt voor Windows ontwikkeld, maar is via Wine ook onder Linux te gebruiken. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Clone document window",
+          "link": "https://tweakers.net/downloads/61884/rj-texted-1563.html",
+          "publishedOn": "2022-09-30T20:55:04.000Z",
+          "wordCount": null,
+          "title": "RJ TextEd 15.63",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61882",
+          "author": "Bart van Klaveren",
+          "description": "Versie 10.2 van de ruim twintig jaar oude e-mailclient The Bat! is uitgekomen. De nieuwe directeur van het Moldavische bedrijf Ritlabs, Stefan Tanurkov, heeft vol ingezet op modernisering van zijn programma. Zo heeft de HTML-rendering engine van Chromium de achterhaalde interne engine en die van Internet Explorer vervangen en is er nu ook een donkere modus. Het programma heeft verder diverse wijzigingen in de interface ondergaan en ziet er echt veel frisser uit dan voorheen. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Major improvements",
+          "link": "https://tweakers.net/downloads/61882/the-bat-102.html",
+          "publishedOn": "2022-09-30T20:51:43.000Z",
+          "wordCount": 2038,
+          "title": "The Bat! 10.2",
+          "imageUrl": "https://tweakers.net/i/00QO-pLzwiVdl5hwYMGfumgGcNo=/134x134/filters:strip_icc():strip_exif()/i/2004745502.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201796",
+          "author": "Yannick Spinner",
+          "description": "Verschillende gameontwikkelaars klagen over het gebrek aan communicatie vanuit Google rondom het stoppen van gamedienst Stadia. Er zou vooraf geen waarschuwing geweest zijn en er zou veel onduidelijkheid heersen over het lot van lopende Stadia-projecten.",
+          "link": "https://tweakers.net/nieuws/201796/ontwikkelaars-boos-op-google-over-gebrek-aan-communicatie-over-stoppen-stadia.html",
+          "publishedOn": "2022-09-30T19:15:29.000Z",
+          "wordCount": null,
+          "title": "Ontwikkelaars boos op Google over gebrek aan communicatie over stoppen Stadia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201794",
+          "author": "Yannick Spinner",
+          "description": "SK hynix kondigt tijdens de Intel Innovation Conference twee varianten van zijn DDR5-rdimm-geheugenmodules aan met capaciteiten van 48 en 96 gigabyte. De geheugensticks zijn bedoeld voor serversystemen en cloudtoepassingen. Er is nog geen releasedatum bekendgemaakt.",
+          "link": "https://tweakers.net/nieuws/201794/sk-hynix-onthult-ddr5-geheugenmodules-van-48-en-96gb-voor-servers.html",
+          "publishedOn": "2022-09-30T18:19:54.000Z",
+          "wordCount": 2734,
+          "title": "SK Hynix onthult DDR5-geheugenmodules van 48 en 96GB voor servers",
+          "imageUrl": "https://tweakers.net/i/BXWtJ8UtHk3a5Mbfek9n56apQMw=/134x134/filters:strip_exif()/i/2004850458.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/downloads/61880",
+          "author": "Bart van Klaveren",
+          "description": "De vijfde generatie van Waterfox is uitgekomen. Waterfox is een webbrowser gebaseerd op de broncode van Firefox. Het project is in 2011 gestart door de toentertijd zestienjarige Alex Kontos en was een van de eerste 64bit-browsers op de markt. Tegenwoordig is het eigendom van System1, maar Alex is nog steeds nauw bij het project betrokken. Waterfox G5 is gebaseerd op Gecko 102 met diverse optimalisaties, heeft geen plug-in-whitelist en stuurt geen telemetrie naar Waterfox. De release notes en changelog voor deze uitgave kunnen hieronder worden gevonden. New",
+          "link": "https://tweakers.net/downloads/61880/waterfox-g50.html",
+          "publishedOn": "2022-09-30T18:07:41.000Z",
+          "wordCount": null,
+          "title": "Waterfox G5.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61878",
+          "author": "Bart van Klaveren",
+          "description": "Versie 4.2.3 van Joomla! is uitgekomen. Joomla! is een dynamisch, in php geschreven contentmanagementsysteem, dat kan worden gebruikt om bijvoorbeeld een weblog, website of samenwerkingssite te maken. Om het programma in het Nederlands te gebruiken kun je onder andere op Joomla Community terecht. De changelogs voor de uitgaves vanaf versie 4.2 kunnen hieronder worden gevonden. Bug fixes and Improvements with 4.2.3",
+          "link": "https://tweakers.net/downloads/61878/joomla-423.html",
+          "publishedOn": "2022-09-30T17:15:39.000Z",
+          "wordCount": null,
+          "title": "Joomla! 4.2.3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201792",
+          "author": "Yannick Spinner",
+          "description": "Tijdens de rechtszaak tussen Twitter en Elon Musk zijn privégesprekken van Musk geopenbaard. Daaruit blijkt dat Musk onder meer het lot van Twitter met oprichter Jack Dorsey besprak. Ook sprak de ceo van het bedrijf, Parag Agrawal, zijn ongenoegen uit over het gedrag van Musk.",
+          "link": "https://tweakers.net/nieuws/201792/privegesprekken-elon-musk-jack-dorsey-en-twitter-ceo-gedeeld-in-rechtszaak.html",
+          "publishedOn": "2022-09-30T16:54:33.000Z",
+          "wordCount": 4082,
+          "title": "Privégesprekken Elon Musk, Jack Dorsey en Twitter-ceo gedeeld in rechtszaak",
+          "imageUrl": "https://tweakers.net/i/NGHMrxBR6EckGXmSvBnOwLSCNLA=/134x134/filters:strip_exif()/i/2004618418.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201790",
+          "author": "Sabine Schults",
+          "description": "De aankomende Xiaomi 12T-serie krijgt naar verluidt een vanafprijs van 580 euro. De duurste variant in de serie, een 12T Pro met 12GB ram en 256GB opslagruimte, krijgt mogelijk een adviesprijs van 800 euro.",
+          "link": "https://tweakers.net/nieuws/201790/gerucht-xiaomi-12t-krijgt-adviesprijs-vanaf-580-euro-12t-pro-vanaf-770-euro.html",
+          "publishedOn": "2022-09-30T15:20:44.000Z",
+          "wordCount": null,
+          "title": "Gerucht: Xiaomi 12T krijgt adviesprijs vanaf 580 euro, 12T Pro vanaf 770 euro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201760",
+          "author": "Mark Hendrikman",
+          "description": "Google Stadia is sinds gisteren killed by Google. Het gamestreamingplatform trok niet genoeg spelers, maar had wel een trouwe schare fans. Wat is er gebeurd in de drie jaar dat Stadia heeft geleefd en komt er een doorstart onder een andere naam, bij een ander bedrijf?",
+          "link": "https://tweakers.net/nieuws/201760/google-bleef-het-lang-ontkennen-maar-stopt-toch-met-stadia.html",
+          "publishedOn": "2022-09-30T14:47:51.000Z",
+          "wordCount": null,
+          "title": "[Plus] Google bleef het lang ontkennen, maar stopt toch met Stadia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201788",
+          "author": "Sabine Schults",
+          "description": "Een analist deelt CAD-bestanden van de vermeende Meta Quest 3-VR-headset. Daarop is mogelijk het ontwerp van de Quest 2-opvolger te zien, al is het niet bekend hoe recent de beelden zijn. Ook deelt de analist een aantal mogelijke specificaties van de toekomstige VR-bril.",
+          "link": "https://tweakers.net/nieuws/201788/analist-toont-uitgelekte-cad-bestanden-van-vr-headset-meta-quest-3.html",
+          "publishedOn": "2022-09-30T14:43:53.000Z",
+          "wordCount": null,
+          "title": "Analist toont uitgelekte CAD-bestanden van VR-headset Meta Quest 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201784",
+          "author": "Sabine Schults",
+          "description": "De Belgische onderzoekscentra imec en Flanders Make werken aan een AI-camera die industriële 3d-printers automatisch bijstuurt tijdens het printen van metalen onderdelen. Dit moet de kwaliteit van 3d-geprinte onderdelen in onder meer de luchtvaart en de zorg verbeteren.",
+          "link": "https://tweakers.net/nieuws/201784/vlaamse-onderzoekscentra-maken-ai-camera-om-fouten-in-3d-prints-te-voorkomen.html",
+          "publishedOn": "2022-09-30T13:45:15.000Z",
+          "wordCount": null,
+          "title": "Vlaamse onderzoekscentra maken AI-camera om fouten in 3d-prints te voorkomen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201786",
+          "author": "Hayte Hugo",
+          "description": "Het Openbaar Ministerie eist 8 maanden celstraf voor twee 23-jarige mannen uit Zaandam die persoons- en bankgegevens stalen van ruim 30.000 klanten van NLE en Budget Energie. Eén van de twee mannen was werknemer bij de energiebedrijven. De gestolen data werd doorverkocht.",
+          "link": "https://tweakers.net/nieuws/201786/om-eist-celstraf-bij-tweetal-dat-data-30000-nle-en-budget-energie-klanten-stal.html",
+          "publishedOn": "2022-09-30T13:22:08.000Z",
+          "wordCount": null,
+          "title": "OM eist celstraf bij tweetal dat data 30.000 NLE- en Budget Energie-klanten stal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201772",
+          "author": "Sabine Schults",
+          "description": "De Deense windturbinefabrikant Vestas heeft in samenwerking met het bedrijf Max Bögl een windtoren ontworpen met een naafhoogte van 199 meter. Dit zou de hoogste windtoren op land ter wereld zijn. De vorige hoogste windtoren was 99 meter hoog.",
+          "link": "https://tweakers.net/nieuws/201772/deense-windturbinefabrikant-maakt-windtoren-op-land-met-naafhoogte-van-199-meter.html",
+          "publishedOn": "2022-09-30T12:57:03.000Z",
+          "wordCount": null,
+          "title": "Deense windturbinefabrikant maakt windtoren op land met naafhoogte van 199 meter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201780",
+          "author": "Hayte Hugo",
+          "description": "NASA en SpaceX gaan onderzoeken of de Hubble-ruimtetelescoop een extra boost kan krijgen. De partijen hopen met die boost de telescoop in een grotere baan om de aarde te kunnen krijgen, zodat de telescoop langer kan worden gebruikt.",
+          "link": "https://tweakers.net/nieuws/201780/nasa-en-spacex-onderzoeken-of-baan-van-hubble-telescoop-verhoogd-kan-worden.html",
+          "publishedOn": "2022-09-30T12:43:03.000Z",
+          "wordCount": null,
+          "title": "NASA en SpaceX onderzoeken of baan van Hubble-telescoop verhoogd kan worden",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61874",
+          "author": "Bart van Klaveren",
+          "description": "Versie 6.4 van Qt is uitgebracht. Qt, uitgesproken als cute, is een opensource- en platformonafhankelijke omgeving waarmee applicaties en grafische gebruikersinterfaces kunnen worden ontwikkeld. Het wordt onder andere gebruikt in Calibre, KDE, Opera, Skype, VLC Media Player, Digikam, Wireshark en VirtualBox. Meer informatie over deze release is hier te vinden. Dit zijn de release notes waarmee deze uitgave vergezeld gaat:",
+          "link": "https://tweakers.net/downloads/61874/qt-64.html",
+          "publishedOn": "2022-09-30T12:25:55.000Z",
+          "wordCount": null,
+          "title": "Qt 6.4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201778",
+          "author": "Tijs Hofmans",
+          "description": "De Lazarus-hackers die deze zomer een Nederlands defensiebedrijf binnenkwamen, deden dat via een kwetsbaarheid in een Dell-driver. Daarvoor was al een patch beschikbaar, schrijft beveiligingsbedrijf ESET. De hackers vielen een luchtvaartbedrijf en een Belgische journalist aan.",
+          "link": "https://tweakers.net/nieuws/201778/eset-lazarus-hackers-vielen-defensiebedrijf-aan-door-bekende-bug-in-dell-driver.html",
+          "publishedOn": "2022-09-30T11:54:34.000Z",
+          "wordCount": 2942,
+          "title": "ESET: Lazarus-hackers vielen defensiebedrijf aan door bekende bug in Dell-driver",
+          "imageUrl": "https://tweakers.net/i/zkQL8oTjKICYAaNh_rtHP03QQEg=/134x134/filters:strip_icc():strip_exif()/i/2004648164.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201774",
+          "author": "Hayte Hugo",
+          "description": "Microsoft waarschuwt voor twee kwetsbaarheden in Exchange Server 2013, 2016 en 2019. Deze worden nu actief door criminelen misbruikt. De twee kwetsbaarheden samen laten hackers op afstand code uitvoeren op systemen.",
+          "link": "https://tweakers.net/nieuws/201774/microsoft-waarschuwt-voor-actief-misbruikte-kwetsbaarheden-in-exchange-server.html",
+          "publishedOn": "2022-09-30T11:15:12.000Z",
+          "wordCount": null,
+          "title": "Microsoft waarschuwt voor actief misbruikte kwetsbaarheden in Exchange Server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61872",
+          "author": "Bart van Klaveren",
+          "description": "PassMark Software heeft versie 10.0 van Memtest86 uitgebracht. Met dit programma kan het interne geheugen aan een rigoureuze test worden onderworpen om zo eventuele problemen aan het licht te brengen. Memtest86 is in 1994 door Chris Bradly ontwikkeld en begin 2000 is de wellicht nog bekendere Memtest86+ als een fork ontstaan, wat nogal eens tot verwarring leidt. Sinds 2013 is het eigendom van PassMark Software en is het beschikbaar in een gratis en betaalde uitvoering. Hieronder is de changelog sinds versie 9.1 te vinden:",
+          "link": "https://tweakers.net/downloads/61872/memtest86-100-build-1000.html",
+          "publishedOn": "2022-09-30T10:53:12.000Z",
+          "wordCount": null,
+          "title": "Memtest86 10.0 build 1000",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201770",
+          "author": "Hayte Hugo",
+          "description": "Google heeft de Speech Services van Android verbeterd, waardoor Android-apps die Googles tekst-naar-spraakdienst gebruiken, nu 'natuurlijkere en duidelijkere' stemmen moeten hebben. De komende weken krijgen alle 67 talen de upgrade.",
+          "link": "https://tweakers.net/nieuws/201770/google-verbetert-text-to-speech-in-android-met-duidelijkere-stemmen.html",
+          "publishedOn": "2022-09-30T10:45:05.000Z",
+          "wordCount": null,
+          "title": "Google verbetert text-to-speech in Android met 'duidelijkere stemmen'",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/geek/201768",
+          "author": "Sabine Schults",
+          "description": "Iedere keer dat Twitch-streamer KeatDawg in platformer Jump King valt, is er een kans dat hij een nat pak krijgt. Hij heeft namelijk een stoel gebouwd die hem in een watertank laat vallen als hij in-game valt. De kans dat hij valt wordt groter naarmate er meer kijkers zijn.",
+          "link": "https://tweakers.net/geek/201768/streamer-bouwt-stoel-die-hem-in-watertank-laat-vallen-als-hij-valt-in-spel.html",
+          "publishedOn": "2022-09-30T10:38:32.000Z",
+          "wordCount": null,
+          "title": "Streamer bouwt stoel die hem in watertank laat vallen als hij valt in spel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/plan/3696",
+          "author": "Tweakers Partners",
+          "description": "MEDION is als fabrikant vooral bekend van zijn scherp geprijsde laptops en pc’s. Onder de naam Erazer biedt het bedrijf echter ook een uitgebreid portfolio aan hardwareproducten aan die zijn gericht op de fanatieke gamer. Om de nieuwe gaminglaptops en -desktop in het zonnetje te zetten, organiseert MEDION de Erazer Truck-tour.",
+          "link": "https://tweakers.net/plan/3696/met-medion-naar-gameforce-en-test-nieuwe-erazer-gaminghardware.html",
+          "publishedOn": "2022-09-30T10:00:00.000Z",
+          "wordCount": null,
+          "title": ".Actie - Met MEDION naar GameForce en test nieuwe Erazer-gaminghardware",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61870",
+          "author": "Bart van Klaveren",
+          "description": "Blackmagic Design heeft versie 18.0.4 van DaVinci Resolve uitgebracht en komt nu met een tweede update daarvoor. DaVinci Resolve is een videobewerkingsprogramma voor Windows, macOS en Linux. Het is beschikbaar in de gratis DaVinci Resolve-uitvoering en de betaalde DaVinci Resolve Studio, die over extra functionaliteit beschikt, zoals de mogelijkheid om in hogere resoluties en frames per second te werken en de mogelijkheid om van extra grafische processoren en OpenFX-plug-ins gebruik te maken. In versie 18.0.4 treffen we onder meer een nieuwe versie van de Blackmagic RAW SDK aan. What's new in DaVinci Resolve 18.0.4",
+          "link": "https://tweakers.net/downloads/61870/davinci-resolve-1804.html",
+          "publishedOn": "2022-09-30T09:48:24.000Z",
+          "wordCount": null,
+          "title": "DaVinci Resolve 18.0.4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201762",
+          "author": "Hayte Hugo",
+          "description": "Anker-merk eufy heeft met de eufyCam 3 een nieuw beveiligingscamerasysteem geïntroduceerd. De camera kan in 4k-resolutie opnemen en krijgt een zonnepaneel om het verwisselen van de accu overbodig te maken. Ook ondersteunt de camera gezichtsherkenning.",
+          "link": "https://tweakers.net/nieuws/201762/eufycam-3-beveiligingscamera-krijgt-4k-sensor-zonnepaneel-en-gezichtsherkenning.html",
+          "publishedOn": "2022-09-30T08:43:52.000Z",
+          "wordCount": null,
+          "title": "EufyCam 3-beveiligingscamera krijgt 4k-sensor, zonnepaneel en gezichtsherkenning",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201758",
+          "author": "Sabine Schults",
+          "description": "Twitter kondigt een nieuwe videofunctie aan waardoor het socialemediaplatform meer gaat lijken op TikTok. Video's op Twitter kunnen met één druk schermvullend gemaakt worden, waarna het mogelijk is om verticaal door meerdere video's te scrollen.",
+          "link": "https://tweakers.net/nieuws/201758/twitter-voegt-tiktok-achtige-schermvullende-videofeed-toe-aan-ios-app.html",
+          "publishedOn": "2022-09-30T08:05:16.000Z",
+          "wordCount": null,
+          "title": "Twitter voegt TikTok-achtige schermvullende videofeed toe aan iOS-app",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201756",
+          "author": "Hayte Hugo",
+          "description": "Investeringsfonds Savvy Games Group wil 38,6 miljard euro investeren in lokale en internationale gamingprogramma's. Een van de doelen is het overnemen van een grote game-uitgever, waarvoor het fonds 13,6 miljard euro wil betalen. Savvy is eigendom van de Saoedische staat.",
+          "link": "https://tweakers.net/nieuws/201756/saoedi-arabie-wil-grote-game-uitgever-kopen-voor-13-komma-6-miljard-euro.html",
+          "publishedOn": "2022-09-30T07:31:47.000Z",
+          "wordCount": null,
+          "title": "Saoedi-Arabië wil 'grote game-uitgever' kopen voor 13,6 miljard euro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201738",
+          "author": "Tijs Hofmans",
+          "description": "Het Europese Hof van Justitie moet een antwoord geven op een belangrijke vraag rondom de privacywet: mag je geld verdienen met het verkopen van persoonlijke gegevens? Het lijkt zo simpel, maar het is aan de hoogste Europese rechter om dat echt te bepalen.",
+          "link": "https://tweakers.net/nieuws/201738/mag-je-geld-verdienen-met-dataverkoop-dat-moet-het-europese-hof-nu-bepalen.html",
+          "publishedOn": "2022-09-30T07:29:59.000Z",
+          "wordCount": 1849,
+          "title": "[Plus] Mag je geld verdienen met dataverkoop? Dat moet het Europese Hof nu bepalen",
+          "imageUrl": "https://tweakers.net/i/GthqX282VO2YbYcCvkRyDwka-sM=/134x134/filters:strip_exif()/i/2004735554.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201754",
+          "author": "Hayte Hugo",
+          "description": "Anker-merk soundcore heeft de Liberty 4-oortjes aangekondigd. Deze oordoppen hebben een ander ontwerp ten opzichte van zijn voorgangers en krijgen een hartslagsensor. De oortjes ondersteunen ook head tracking voor spatial audio.",
+          "link": "https://tweakers.net/nieuws/201754/anker-soundcore-liberty-4-oordoppen-krijgen-hartslagsensor-en-gyroscoop.html",
+          "publishedOn": "2022-09-30T06:31:07.000Z",
+          "wordCount": null,
+          "title": "Anker soundcore Liberty 4-oordoppen krijgen hartslagsensor en gyroscoop",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201752",
+          "author": "Hayte Hugo",
+          "description": "De World of Warcraft-uitbreiding Dragonflight verschijnt op 29 november in Nederland en België. Deze uitbreiding voegt de eerste gecombineerde class en ras toe, met de dracthyr Evoker. Spelers kunnen met Dragonflight ook op draken vliegen. De uitbreiding kost 50 euro.",
+          "link": "https://tweakers.net/nieuws/201752/world-of-warcraft-dragonflight-verschijnt-op-29-november.html",
+          "publishedOn": "2022-09-30T05:49:50.000Z",
+          "wordCount": null,
+          "title": "World of Warcraft: Dragonflight verschijnt op 29 november",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61868",
+          "author": "Bart van Klaveren",
+          "description": "Versie 6.6.0 van Calibre is uitgekomen. Dit opensource-e-bookbeheerprogramma is beschikbaar voor Windows, Linux en macOS. Het kan onder meer alle relevante informatie en omslagafbeeldingen opzoeken, en e-boeken converteren om ze geschikt te maken voor de diverse soorten e-readers. Verder kan het programma kranten, tijdschriften en nieuwsartikelen op basis van rss-feeds omzetten in e-bookformaat. Ook kunnen met Calibre boeken worden aangeschaft bij de bekende webwinkels. In versie 6.0 is onder meer de overstap naar Qt 6 gemaakt. Dit betekent echter wel dat het programma alleen werkt op computers uitgerust met een 64bit-processor en er minimaal Windows 10 of macOS 11 wordt vereist. Verder kan er nu gezocht worden in alle boeken in de bibliotheek in plaats van alleen in het huidige boek, en zijn er ook versies voor Arm- en Apple Silicon-processoren. In deze vierde update zijn verder nog de volgende veranderingen en verbeteringen doorgevoerd: New features",
+          "link": "https://tweakers.net/downloads/61868/calibre-660.html",
+          "publishedOn": "2022-09-30T04:43:50.000Z",
+          "wordCount": null,
+          "title": "Calibre 6.6.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/reviews/10508",
+          "author": "Olaf Weijers",
+          "description": "ASUS heeft de AX3000 ververst met nieuwe hardware en een nieuwe, lagere, prijs. Doet deze router meer voor een gamer dan een ‘normale’ router?",
+          "link": "https://tweakers.net/reviews/10508/asus-tuf-ax3000v2-nuttige-router-voor-gamers.html",
+          "publishedOn": "2022-09-30T04:01:00.000Z",
+          "wordCount": null,
+          "title": "ASUS TUF-AX3000v2 - Nuttige router voor gamers?",
+          "imageUrl": null
+        },
+        {
           "id": "https://tweakers.net/downloads/61866",
           "author": "Bart van Klaveren",
           "description": "AdGuard Home versie 0.107.14 is uitgekomen. Met deze software kan er thuis een dns-server worden opgezet om zo onder meer advertenties en malware te blokkeren op het gehele netwerk. Het is daarmee dus vergelijkbaar met Pi-hole. AdGuard Home werkt op een machine met Windows, macOS, Linux of FreeBSD, is ook in staat om tegen phishing te beschermen en heeft parental control. Op ons eigen forum kan over het programma worden gediscussieerd. De changelog voor deze uitgave kan hieronder worden gevonden: Security",
@@ -69,6 +369,16 @@
           "publishedOn": "2022-09-29T16:33:07.000Z",
           "wordCount": null,
           "title": "Google stopt met Stadia en gaat hard- en softwareaankopen volledig terugbetalen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201736",
+          "author": "Jay Stout",
+          "description": "Podcastmakers gebruiken volgens Bloomberg ingamereclame om hun luistercijfers artificieel te verhogen. Het opkrikken van het aantal luisteraars kan ervoor zorgen dat podcasts meer reclame-inkomsten kunnen vragen aan andere adverteerders.",
+          "link": "https://tweakers.net/nieuws/201736/podcasts-gebruiken-ingamereclame-om-luistercijfers-artificieel-te-verhogen.html",
+          "publishedOn": "2022-09-29T15:50:36.000Z",
+          "wordCount": null,
+          "title": "'Podcasts gebruiken ingamereclame om luistercijfers artificieel te verhogen'",
           "imageUrl": null
         },
         {
@@ -538,6 +848,206 @@
       "feedUrl": "https://nl.pepper.com/rss/overzicht%20van%20de%20populairste%20groepen",
       "siteUrl": "https://nl.pepper.com",
       "articles": [
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/lego-promoties-begin-oktober-250795",
+          "author": null,
+          "description": "LEGO\nBij Lego kan je je gratis aanmelden voor het VIP programma. Dan krijg je standaard VIP punten bij je bestelling (ter waarde van 5% van je order) die je later kan inwisselen voor oa korting.\nVan 1-13 oktober zolang de voorraad strekt, gratis vanaf een besteding van 120,- euro:\nRay de Schipbreukeling 40566\nGehele maand oktober zolang de voorraad strek, gratis vanaf een besteding van 50,- euro, mits je VIP bent:\nSpooky VIP add-on (Bricklink lijst met onderdelen)",
+          "link": "https://nl.pepper.com/aanbiedingen/lego-promoties-begin-oktober-250795",
+          "publishedOn": "2022-09-30T22:25:00.000Z",
+          "wordCount": 1226,
+          "title": "Lego Promoties Begin Oktober",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/gratis-lego-city-2-in-1-politie-opbergdoos-60270-bij-aankoop-van-75-aan-lego-city-sets-250794",
+          "author": null,
+          "description": "Intertoys\nNieuwe actie bij de Intertoys naast de Classic variant.\nBij aankoop van 75.- aan onderstaande LEGO City sets krijg je één GRATIS LEGO City 2-in-1 politie opbergdoos 60270. Voeg deze zelf toe aan het winkelmandje. De korting wordt automatisch verrekend. Niet geldig i.c.m. de losse verkoop van de LEGO City opbergdoos 60270. Op=Op!\nEr zijn een aantal sets die in prijs zijn verlaagd dus nog meer voordeel!\nVergeet niet CashbackXL voor 4% extra korting.\nActie is ook te combineren met de trein rails. Voeg bijvoorbeeld de Passagierssneltrein 60337 voor €120.\nhttps://www.intertoys.nl/lego-city-passagierssneltrein-60337\nDe treinrails van €17,99\nhttps://www.intertoys.nl/lego-city-treinrails-60205\nEn de opbergdoos 60270 van €44,99.\nhttps://www.intertoys.nl/lego-city-2-in-1-politie-opbergdoos-60270\nEn betaal in totaal de €120. Daarnaast ontvang je hierbij 12 kraskaarten!\nVia CashbackXL ontvang je €4,80 cashback over het bedrag van €120",
+          "link": "https://nl.pepper.com/aanbiedingen/gratis-lego-city-2-in-1-politie-opbergdoos-60270-bij-aankoop-van-75-aan-lego-city-sets-250794",
+          "publishedOn": "2022-09-30T22:18:57.000Z",
+          "wordCount": 1380,
+          "title": "GRATIS LEGO City 2-in-1 politie opbergdoos 60270 Bij aankoop van 75.- aan LEGO City sets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/eurosparen-eur5-kaartje2go-voor-10-punten-250788",
+          "author": null,
+          "description": "Eurosparen\nNu leuke actie bij eurosparen voor 10 punten €5 te besteden op kaarten&postzegels bij kaartje2go. \nOntvang nu € 5,00 korting.\nBen je een nieuwe klant? Maak dan een account aan en ontvang direct ook je eerste kaart cadeau (excl. postzegel). Dat is dus een éxtra voordeel bovenop de voucher!\nBestel je kortingsvoucher op Eurosparen en ga naar https://www.kaartje2go.nl/eurosparen om jouw kaart met korting te bestellen.\nDe voordelen van Kaartje2go:\nHet mooiste en grootste aanbod kaarten.\nVoor 20:00 uur besteld op een werkdag = dezelfde dag verzonden.\nNieuwe klant = 1e kaart cadeau.\nCO2- neutraal gedrukt én bezorgd.\nKlantvriendelijkste kaartenwinkel 2022 én beste webwinkel van Nederland 2022.\nVoorwaarden\nDe korting is van toepassing op alle kaarten.\nNiet van toepassing op andere producten.\nOp de € 5,00 kortingsvoucher geldt geen recht van retour.\nDe voucher is eenmalig te gebruiken, eventuele restwaarde vervalt.\nDe voucher is niet geldig in combinatie met andere codes, aanbiedingen.\nDe voucher kan niet worden ingewisseld tegen contanten.\nPer Eurosparen klant kan er 1x per 12 maanden een voucher worden gekocht.\nDeze voucher is in te wisselen tot 31-12-2023.",
+          "link": "https://nl.pepper.com/aanbiedingen/eurosparen-eur5-kaartje2go-voor-10-punten-250788",
+          "publishedOn": "2022-09-30T20:50:26.000Z",
+          "wordCount": 1415,
+          "title": "Eurosparen €5 kaartje2go voor 10 punten",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/dierendagen-xl-korting-bij-avonturia-tot-wel-70-250792",
+          "author": null,
+          "description": "Het zijn Dierendagen XL bij Avonturia. Je krijgt tot wel 70% op het gehele assortiment.\nDe korting zou eigenlijk pas vanaf morgen in gaan, maar ze staan nu al op de webshop.\nVergeet overigens niet een gratis item toe te voegen, deze krijg je bij een bestelbedrag vanaf een x aantal euro's. Je mag maar 1 gratis item per bestelling kiezen https://www.avonturiashop.nl/gratis-41579/\nDoe er je voordeel mee voor je huisdier zou ik zeggen  (y)",
+          "link": "https://nl.pepper.com/aanbiedingen/dierendagen-xl-korting-bij-avonturia-tot-wel-70-250792",
+          "publishedOn": "2022-09-30T20:50:21.000Z",
+          "wordCount": 1238,
+          "title": "Dierendagen XL korting bij Avonturia - TOT WEL 70%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/philips-hue-wall-switch-module-250789",
+          "author": null,
+          "description": "€34,95 - Amazon.nl\nHOU JE LAMPEN BEREIKBAAR: voorkom dat je slimme lampen 'onbereikbaar' worden doordat iemand de gewone lichtschakelaar gebruikt om je lampen uit te doen. Met de wandschakelaarmodule blijven je Philips Hue lampen altijd op de stroom aangesloten en klaar voor gebruik.\nBEDIEN LAMPEN, KAMERS, OF ZONES: gebruik je bestaande lichtknop om alle slimme lampen in een kamer of zone te bedienen. In de Hue app koppel je de wandschakelaarmodule eenvoudig met de lampen die je wil gebruiken.\nROULEER DOOR LICHTSCÈNES: gebruik je gewone schakelaar om tot wel drie verschillende lichtscènes te sturen. Door gewoon de schakelaar aan en uit te doen, kun je zelfgekozen scènes doorlopen.\nPHILIPS HUE BRIDGE VEREIST: voor de Philips Hue wandschakelaarmodule is een Hue Bridge vereist (apart verkrijgbaar). Met de Hue Bridge kun je bovendien 50 lampen en 12 accessoires toevoegen in je hele huis. De Bridge ontgrendelt alle slimme geavanceerde functies in de Hue app, zoals timers en routines aanmaken en je lampen bedienen als je niet thuis bent.\nBEDIEN JE LAMPEN MET JE STEM: Bedien je lampen handsfree en gebruik je stem in plaats van een mobiel apparaat! Met eenvoudige spraakopdrachten kun je meerdere lampen of slechts één lamp in een kamer bedienen. Werkt samen met Alexa, Google Assistent of Siri.",
+          "link": "https://nl.pepper.com/aanbiedingen/philips-hue-wall-switch-module-250789",
+          "publishedOn": "2022-09-30T20:50:15.000Z",
+          "wordCount": 1471,
+          "title": "Philips Hue Wall Switch Module",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/western-digital-2x4tb-my-cloud-ex2-ultra-network-storage-250793",
+          "author": null,
+          "description": "€279 - Amazon.de\nTijdelijk niet leverbaar maar wel te bestellen.\nDe 46% korting is onzin dus daar niet op letten, het is alsnog een goede prijs, ongeveer €50,- korting als je alleen de case zou kopen met 2x4 tb losse harde schijven.\n\n Store your data in one central place thanks to the NAS hard drive. Access to the secured media is easier with the My Cloud app  \n WD Red hard drives developed for NAS storage are reliable. They offer high performance in continuous operation. RAID-1 mode allows mirrored data backup, for double security  \n  The fast transfer speeds are ensured by the 1.3 GHz dual-core processor. As external memory, the NAS system offers powerful streaming \n Create folders to share media with your family or friends. Automatically synchronise data within multiple devices with WD Sync  \n  Box contents: WD My Cloud EX2 Ultra NAS hard drive 8 TB (2x drive bay, mobile access, automatic backups), network cable, power supply, quick installation guide, 3 year warranty",
+          "link": "https://nl.pepper.com/aanbiedingen/western-digital-2x4tb-my-cloud-ex2-ultra-network-storage-250793",
+          "publishedOn": "2022-09-30T20:48:37.000Z",
+          "wordCount": 1462,
+          "title": "Western Digital 2x4TB My Cloud Ex2 Ultra Network Storage",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/goedkope-hm-baby-kleren-250791",
+          "author": null,
+          "description": "€3,99 - H&M\nHeel leuke kleren voor heel weinig geld\nBevoorbeeld deze setje is maar €3,99\nEn zijn meerdere maten beschikbaar.. wees er snel bij...\nHier nog meer aanbiedingen.\nwww2.hm.com/nl_nl/productpage.0887882019.html\n\nwww2.hm.com/nl_nl/productpage.0893061005.html\nwww2.hm.com/nl_nl/productpage.1073459001.html\nwww2.hm.com/nl_nl/productpage.1063841001.html\nwww2.hm.com/nl_nl/productpage.1073848002.html",
+          "link": "https://nl.pepper.com/aanbiedingen/goedkope-hm-baby-kleren-250791",
+          "publishedOn": "2022-09-30T19:48:39.000Z",
+          "wordCount": 1184,
+          "title": "Goedkope h&m baby kleren",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/philips-hue-lampen-gamma-leidschendam-250787",
+          "author": null,
+          "description": "€24,99\nVerschillende Philips Hue LED lampen met 50% korting bij Gamma Leidschendam (Veursestraatweg 197, 2264 EG Leidschendam).\nDoosjes waren leeg en ik kreeg een nieuw doosje bij de servicebalie. Vermoedelijk is er dus meer voorraad dan op de tafel staat.\nExtra foto’s en foto van mijn bon bijgevoegd in opmerking onder aanbieding.\nOpeningstijden:\nmaandag\n09:00 - 18:00\ndinsdag\n09:00 - 18:00\nwoensdag\n09:00 - 18:00\ndonderdag\n09:00 - 21:00\nvrijdag\n09:00 - 21:00\nzaterdag\n09:00 - 18:00\nzondag\nGesloten",
+          "link": "https://nl.pepper.com/aanbiedingen/philips-hue-lampen-gamma-leidschendam-250787",
+          "publishedOn": "2022-09-30T18:17:19.000Z",
+          "wordCount": 1257,
+          "title": "Philips Hue Lampen 50% korting @ Gamma Leidschendam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/philips-xc420001-steelstofzuiger-144v-voor-eur129-at-blokker-winkels-250786",
+          "author": null,
+          "description": "€129 - Blokker\nAlleen beschikbaar in de filialen, je kunt online de winkelvoorraad checken.\nLaagste prijs elders: €169\nProductbeschrijving\nDe Philips XC4201/01 snoerloze steelstofzuiger is voorzien van een compacte digitale motor, die ontworpen is voor verwijdering van vuil op harde vloeren. Deze 2-in-1 stofzuiger en kruimelzuiger heeft een ultralichte en slanke design. Dankzij het lichte ontwerp is de stofzuiger eenvoudig te gebruiken en schoon te maken. De volledige stofzuiger weegt slechts 2,2 kg en de kruimelzuiger nog geen 800 gram. Door het slanke design kan de stofzuiger helemaal plat op de vloer om onder lage meubels en in lastige hoeken te komen. De Philips XC4201/01 steelstofzuiger heeft een gemotoriseerde borstelmondstuk met antiklitfunctie. De stofbakken in de kruimelzuiger en het mondstuk zijn met één klik te verwijderen, en dus eenvoudig te legen. Je hebt de keuze uit de normale stand, met een gebruiksduur van maar liefst 30 minuten, en de turbostand met een gebruiksduur van 18 minuten.",
+          "link": "https://nl.pepper.com/aanbiedingen/philips-xc420001-steelstofzuiger-144v-voor-eur129-at-blokker-winkels-250786",
+          "publishedOn": "2022-09-30T17:54:40.000Z",
+          "wordCount": 1387,
+          "title": "Philips XC4200/01 steelstofzuiger 14,4V voor €129 @ Blokker (winkels)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/reebok-reebok-royal-cl-jog-30-meisjes-sneaker-250785",
+          "author": null,
+          "description": "€17,50 - Amazon.nl\nReebok REEBOK ROYAL CL JOG 3.0 meisjes Sneaker\nKleur: Vector Marine Porselein Roze\nBeschikbaar in de maten: 27 , 27,5 , 28 , 31 , 31,5\nOok voor jongens Beschikbaar in de Kleur: Puur Grijs\nBeschikbaar in de maten: 27 , 27,5 , 31\n-->\nReebok REEBOK ROYAL CL JOG 3.0 jongens Sneaker€17,50  amzn.eu/d/hGZOrCo\nNog een link voor meisjes €17,50-->\nReebok REEBOK ROYAL CL JOG 3.0 1V meisjes Sneaker amzn.eu/d/ccYwzP4\nVoor meisjes€19 --> Reebok REEBOK ROYAL CL JOG 3.0 Girls Sneaker amzn.eu/d/fnR6sgq\nVoor jongens €19\n--> Reebok REEBOK ROYAL CL JOG 3.0 jongens Sneaker amzn.eu/d/b0dwKOY\nNog een link voor jongens €19\n--> Reebok REEBOK ROYAL CL JOG 3.0 jongens Sneaker amzn.eu/d/aIpXWzX\nVoor Dames €19\n--> Reebok ROYAL CL JOG 3.0 dames Sneaker amzn.eu/d/0lfCNEy\nVoor jongens €19\n--> Reebok Royal Classic Jogger 3 jongens Sneakers https://amzn.eu/d/gmpTodK\nVerzending Amazon NL:\nGratis verzending naar afhaalpunt\nGratis verzending voor Prime-leden\nJe kan een gratis 30 dagen proefperiode op Prime nemen. Je kan je direct afmelden na aanmelden, en behoudt je voordelen gedurende die 30 dagen.\nGratis verzending boven de €20\nOnder de €20 betaal je naar NL (huis) €2,49 zonder prime",
+          "link": "https://nl.pepper.com/aanbiedingen/reebok-reebok-royal-cl-jog-30-meisjes-sneaker-250785",
+          "publishedOn": "2022-09-30T17:50:34.000Z",
+          "wordCount": 1502,
+          "title": "Reebok REEBOK ROYAL CL JOG 3.0 meisjes Sneaker(zie beschrijving meerdere sneakers)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/lidl-7-zones-comfortmatras-90-x-200-cm-h3-250783",
+          "author": null,
+          "description": "€34,99 - Lidl\nProductbeschrijving\nDe matras biedt goede ondersteuning aan het lichaam dankzij een comfortabele laag polyurethaan. De 7 comfortzones zorgen voor een optimale ontlasting van verschillende drukpunten op het lichaam. De hoes van polyester is voorzien van een ritssluiting rondom en afneembaar en wasbaar tot 60 °C. Met greepbanden voor het eenvoudig draaien van het matras.\nType matrasComfortmatras\nSoort kernComfortschuim (polyurethaan)\nMateriaal Bekleding100% polyester\nBreedteca. 90 cm\nLengteca. 200 cm\nHoogteca. 15 cm (let op: het kan zijn dat het matras ca. 72 uur nodig heeft om de optimale vorm en hoogte te bereiken)\nAantal comfortzones7\nHardheidsgraadH3; lichaamsgewicht: 80-100 kg\nAfneembare hoesJa\nRits4-zijdig\nOnderhoudHoes wasbaar tot 60 °C\nVia cashback xl 5% extra korting mogelijk",
+          "link": "https://nl.pepper.com/aanbiedingen/lidl-7-zones-comfortmatras-90-x-200-cm-h3-250783",
+          "publishedOn": "2022-09-30T17:46:14.000Z",
+          "wordCount": 1315,
+          "title": "Lidl 7-zones comfortmatras 90 x 200 cm (H3)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/reebok-rbk-fulgere-slide-heren-slippers-250784",
+          "author": null,
+          "description": "€11,18 - Amazon.nl\nReebok Rbk Fulgere Slide heren Slippers\nKleur: Wit (White/Vector Navy/Vector Red)\nBeschikbaar in de maten: 39 , 44,5 , 45,5\nLaagste prijs elders is bij Reebok zelf €25\n-->\nhttps://www.reebok.nl/reebok-fulgere/FZ0947.html\nCOMFORTABELE SLIPPERS VOOR CASUAL DRAAGCOMFORT\nDeze herenslippers creëren een relaxte look voor op het strand of bij het zwembad. Het zachte, voorgevormde EVA-bovenwerk biedt comfort en ondersteuning. Gemaakt met waterbestendig materiaal en ontworpen voor makkelijk aan- en uittrekken\nVerzending Amazon NL:\nGratis verzending naar afhaalpunt\nGratis verzending voor Prime-leden\nJe kan een gratis 30 dagen proefperiode op Prime nemen. Je kan je direct afmelden na aanmelden, en behoudt je voordelen gedurende die 30 dagen.\nGratis verzending boven de €20\nOnder de €20 betaal je naar NL (huis) €2,49 zonder prime",
+          "link": "https://nl.pepper.com/aanbiedingen/reebok-rbk-fulgere-slide-heren-slippers-250784",
+          "publishedOn": "2022-09-30T17:31:48.000Z",
+          "wordCount": 1335,
+          "title": "Reebok Rbk Fulgere Slide heren Slippers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/lidl-7-zones-pocketveringmatras-premium-1000-90-x-200-cm-h3-250782",
+          "author": null,
+          "description": "€74,99 - Lidl\nProductbeschrijving\nVoor een hoog ligcomfort en een rustgevende slaap. Optimale drukontziening en verhoogde ligpositie: totale hoogte van de matras 22 cm. Uitstekend slaapklimaat: de aan beide zijden van ademende klimaatvezel doorgestikte overtrek en de veerconstructie zorgen voor een uitstekende luchtcirculatie. Matrashoes is afneembaar dankzij de 4-zijdige ritssluiting en kan op max. 60 °C gewassen worden in de wasmachine. Makkelijk getransporteerd en snel uitgepakt. Met 4 greepbanden voor het eenvoudig draaien en kantelen.\nType matraspocketvering\nSoort kernpolyurethaan\nDichtheid34 kg/m³\nMateriaal Bekledingbuitenstof: 100% polyester\nvoering: 100% polyester\nLengte200 cm\nBreedte90 cm\nHoogte22 cm (let op: het kan zijn dat het matras ca. 72 uur nodig heeft om de optimale vorm en hoogte te bereiken)\nHardheidsgraadH3 (lichaamsgewicht: 80-100 kg)\nAfneembare matrashoesja\nRits4-zijdig\nOnderhoudmatrashoes wasbaar tot max 60 °C\nVia cashbackxl nog 5% extra korting",
+          "link": "https://nl.pepper.com/aanbiedingen/lidl-7-zones-pocketveringmatras-premium-1000-90-x-200-cm-h3-250782",
+          "publishedOn": "2022-09-30T17:26:58.000Z",
+          "wordCount": 1356,
+          "title": "Lidl 7-zones-pocketveringmatras PREMIUM 1000 90 x 200 cm (H3)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/blink-video-doorbell-sync-module-2-250781",
+          "author": null,
+          "description": "€55,99 - Amazon.nl\nLaagste prijs elders: €84\nVerkrijgbaar in het zwart en wit.\nKenmerken:\n\nWaar je ook bent, je kunt altijd een oproep aan je deur beantwoorden vanaf je smartphone met 1080p hd, dagzicht-video, infrarood-nachtzicht video en tweerichtingsaudio.\nDe krachtige batterijen gaan twee jaar mee. Bovendien biedt de videodeurbel meldingen op maat, privacy-instellingen en meer.\nJe kunt videoclips opslaan en delen in de cloud met een gratis Blink-proefabonnement, of ter plaatse met de Sync Module 2 en een USB-stick (apart verkrijgbaar). De proefversie is geldig tot januari 2023. Minstens 30 dagen voor je gratis proefperiode afloopt, ontvang je een bericht met informatie over hoe je een abonnement kunt afsluiten.\nGeschikt voor elk huis: gebruik de deurbel draadloos of sluit hem aan op de bestaande deurbelbekabeling, zodat je ook je eigen deurbelgeluid hoort. Bij een draadloze verbinding kun je je Blink Mini-camera (apart verkrijgbaar) gebruiken als een plug-in deurbel voor binnen.\nIn een handomdraai geïnstalleerd met de twee meegeleverde AA-lithiumbatterijen. Maak vervolgens verbinding met wifi in de app.\nDeze bundel bevat één Blink Video Doorbell, één Sync Module 2 en een montageset (inclusief hoekbevestiging, schroeven en ankers).\n\nJe kunt videoclips opslaan in de cloud met een gratis Blink-proefabonnement. Minstens 30 dagen voor je gratis proefabonnement afloopt, ontvang je een bericht met informatie over hoe je een abonnement kunt afsluiten.\nDoor de deurbel te koppelen met een Sync Module 2, kun je het Blink-systeem uitbreiden met extra functies. Als je de Blink Video Doorbell op batterijen laat werken, is het gebruik van de Sync Module 2 aan te bevelen.\nWe raden aan de Blink Video Doorbell aan je huis te monteren volgens deze instructies, zodat de deurbel weerbestendig is.\nWelke functies beschikbaar zijn, is afhankelijk van de systeemconfiguratie en de instellingen.\nVideoreview:\n\t[shortcode id=\"1357926\"/]",
+          "link": "https://nl.pepper.com/aanbiedingen/blink-video-doorbell-sync-module-2-250781",
+          "publishedOn": "2022-09-30T17:19:01.000Z",
+          "wordCount": 1684,
+          "title": "Blink Video Doorbell + Sync Module 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/proefpakket-coffeemeister-250772",
+          "author": null,
+          "description": "Coffeemeister\nProefpakket van coffeemeister: met de code hoef je alleen maar de verzendkosten te betalen.\nCoffeemeister op je werk ☕️ Wij geloven dat koffie op werk een stuk beter kan. Daarom bestel je dit proefpakket nu gratis, zodat je het zelf kunt uitproberen. : WORK50",
+          "link": "https://nl.pepper.com/aanbiedingen/proefpakket-coffeemeister-250772",
+          "publishedOn": "2022-09-30T17:09:38.000Z",
+          "wordCount": 1168,
+          "title": "Proefpakket Coffeemeister (alleen verzendkosten)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/nike-pegasus-39-hardloopschoenen-250776",
+          "author": null,
+          "description": "€76,90 - Keller Sports\nLet op: als je je eerst inschrijft voor de nieuwsbrief krijg je een kortingscode voor nog eens 10 euro korting. Hiermee komt de prijs op 67,90 euro. Gratis verzending vanaf 69 euro. Je kan voor 10 euro member worden waardoor verzending en retourneren gratis wordt. Door de kortingscode heb je het membership gratis. \nJe kan ook een extra paar bestellen om gratis te kunnen verzenden, maar retourneren kost geld! \nKILOMETERS LANG ENERGIEK.\nHardlopen is je dagelijkse ritueel, bij elke stap kom je dichter bij je persoonlijke doel. De Nike Air Zoom Pegasus 39 helpt je met een comfortabel, intuïtief design naar nieuwe hoogtes te klimmen. De ondersteuning houdt je voet op zijn plek, terwijl de demping onder de voet wordt gecombineerd met twee Zoom Air units om vering aan je stappen toe te voegen tijdens je overgang van hak naar teen. Je vertrouwde werkpaard met vleugels is terug, tijd om te vliegen.\n(PS: dit is mijn eerste post dus hoop dat alles goed gaat).",
+          "link": "https://nl.pepper.com/aanbiedingen/nike-pegasus-39-hardloopschoenen-250776",
+          "publishedOn": "2022-09-30T17:08:05.000Z",
+          "wordCount": 1396,
+          "title": "Nike Pegasus 39 hardloopschoenen.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/gorillas-jumbo-arachide-olie-1000ml-250778",
+          "author": null,
+          "description": "€2,47 - Gorillas\nPindaolie oftewel Arachide olie in de aanbieding bij flitsbezorger Gorillas.",
+          "link": "https://nl.pepper.com/aanbiedingen/gorillas-jumbo-arachide-olie-1000ml-250778",
+          "publishedOn": "2022-09-30T17:07:57.000Z",
+          "wordCount": 1105,
+          "title": "GORILLAS: Jumbo arachide olie 1000ml",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/airpods-pro-2-at-amazon-es-250780",
+          "author": null,
+          "description": "€257 - Amazon.es\nNet geïntroduceerde AirPods 2 Pro nu alweer mooi in de aanbieding bij Amazon ES.\nNieuwe H2 chip voor betere geluidskwaliteit en ANC.\nBetalen met creditcard.\nVerzending kost je nog 5,64",
+          "link": "https://nl.pepper.com/aanbiedingen/airpods-pro-2-at-amazon-es-250780",
+          "publishedOn": "2022-09-30T17:07:49.000Z",
+          "wordCount": 1175,
+          "title": "AirPods Pro 2 @ Amazon ES",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/ing-rijksmuseum-toegang-2-personen-kaleidoscope-250779",
+          "author": null,
+          "description": "€5 - ING\nVia ING Winkel voor 5 euro + 500 punten\nMet deze voucher ontvang je twee toegangsbewijzen voor volwassenen. Kinderen t/m 18 jaar mogen gratis mee, maar je dient wel voor het hele gezelschap een ticket en tijdslot te reserveren. Ook ontvang je tijdens je bezoek de speciale kaleidoscope voor bij de tentoonstelling Onderkruipsels. Aan de hand van 9 thema's wordt in deze tentoonstelling de portretkunst van de renaissance getoond. De kaleidoscoop is geschikt om op een nieuwe manier naar beestjes te kijken. Binnen en buiten de tentoonstelling.\nKenmerken\nTweemaal entree voor volwassenen voor het Rijksmuseum Amsterdam incl. tentoonstelling Onderkruipsels\nEen kaleidoscope voor bij de tentoonstelling Onderkruipsels.\nHet Rijksmuseum is elke dag geopend van 9 tot 17 uur.\nLocatie: Museumstraat 1, Amsterdam.\nVoorwaarden \nDe kortingscode kan tot uiterlijk 16 januari 2023 worden verzilverd voor een bezoek aan het Rijksmuseum. (Let op, de tentoonstelling Onderkruipsels en de daarbij behorende kaleidoscope zijn t/m 15 januari 2023 beschikbaar.)\nKinderen t/m 18 jaar mogen gratis mee, maar je dient wel voor het hele gezelschap een ticket en tijdslot te reserveren.\nDe kortingscode is eenmalig te gebruiken.\nEr kan maximaal 1 kortingscode per persoon/gezelschap worden gebruikt.\nDeze kortingscode mag niet ter verkoop worden aangeboden.\nDe kortingscode is niet geldig in combinatie met andere acties of kortingen.\nVoor deze actie geldt geen recht op retour.\nDe kortingscode is niet te verzilveren aan de kassa van het Rijksmuseum. Je kunt je kortingscode alleen via onderstaand online proces verzilveren.\nDe kortingscode is alleen tijdens een bestelling in te wisselen, het is niet mogelijk om een kortingscode achteraf in te wisselen op een reeds geplaatste bestelling.\nDeze voucher is in te wisselen tot 16-01-2023\nVan dit product mag je maximaal 1 per 12 maanden bestellen.",
+          "link": "https://nl.pepper.com/aanbiedingen/ing-rijksmuseum-toegang-2-personen-kaleidoscope-250779",
+          "publishedOn": "2022-09-30T17:07:47.000Z",
+          "wordCount": 1661,
+          "title": "[ING] Rijksmuseum toegang 2 personen + kaleidoscope",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/lego-star-wars-adventskalender-75340-250777",
+          "author": null,
+          "description": "€24,99 - De Bijenkorf\nLaagste prijs ooit, aanmelden via de site en verzenden is gratis",
+          "link": "https://nl.pepper.com/aanbiedingen/lego-star-wars-adventskalender-75340-250777",
+          "publishedOn": "2022-09-30T16:29:37.000Z",
+          "wordCount": 1112,
+          "title": "LEGO Star Wars adventskalender - 75340",
+          "imageUrl": null
+        },
         {
           "id": "https://nl.pepper.com/aanbiedingen/arturia-v-collection-9-compendium-audio-plugin-250717",
           "author": null,
