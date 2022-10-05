@@ -12,6 +12,406 @@
       "siteUrl": "https://tweakers.net/",
       "articles": [
         {
+          "id": "https://tweakers.net/downloads/61918",
+          "author": "Bart van Klaveren",
+          "description": "Astonsoft heeft versie 11.1.5 van EssentialPIM uitgebracht. Deze personal information manager maakt het mogelijk om afspraken bij te houden, een adresboek te beheren en e-mails te versturen en ontvangen. Het programma is in diverse talen, waaronder het Nederlands, te gebruiken. EssentialPIM is beschikbaar in een standaard- en een pro-uitvoering. De eerste is gratis, maar heeft minder functies. Zo kan er niet met Outlook of de clouddiensten van bijvoorbeeld Google, Apple of Dropbox worden gesynchroniseerd. Een compleet overzicht van de onderlinge verschillen is op deze pagina te vinden. De changelog voor deze uitgave ziet er als volgt uit: New in EssentialPIM 11.1.5",
+          "link": "https://tweakers.net/downloads/61918/essentialpim-1115.html",
+          "publishedOn": "2022-10-04T19:23:11.000Z",
+          "wordCount": 1943,
+          "title": "EssentialPIM 11.1.5",
+          "imageUrl": "https://tweakers.net/i/AzmfKvmKPb2eEjikMOqI6_Gp83s=/134x134/filters:strip_exif()/i/2004634834.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201918",
+          "author": "Robert Zomers",
+          "description": "EA Motive heeft voor het eerst gameplaybeelden getoond van de aankomende remake van Dead Space. In de trailer zien we voor het eerst wat de studio aan de game heeft proberen te verbeteren op zowel grafisch als gameplaygebied.",
+          "link": "https://tweakers.net/nieuws/201918/ea-motive-toont-eerste-gameplay-van-dead-space-remake.html",
+          "publishedOn": "2022-10-04T18:42:42.000Z",
+          "wordCount": 2892,
+          "title": "EA Motive toont eerste gameplay van Dead Space-remake",
+          "imageUrl": "https://tweakers.net/i/cY2pAX3dhLlThu09LngMiwLs8y8=/fit-in/134x134/filters:strip_icc():strip_exif()/i/1293445036.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/downloads/61912",
+          "author": "Bart van Klaveren",
+          "description": "Mozilla heeft een tweede update voor versie 105 van zijn webbrowser Firefox uitgebracht. In versie 105 heeft Mozilla onder meer de mogelijkheid toegevoegd om alleen de huidige pagina te printen in de printopties, kan met twee vingers vegen voor- of achteruit in de geschiedenis worden genavigeerd en gaat het zoeken in grote lijsten nu een stuk sneller. In versie 105.0.2 zijn de volgende vijf problemen verholpen. Fixed",
+          "link": "https://tweakers.net/downloads/61912/mozilla-firefox-10502.html",
+          "publishedOn": "2022-10-04T18:26:00.000Z",
+          "wordCount": null,
+          "title": "Mozilla Firefox 105.0.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201916",
+          "author": "Robert Zomers",
+          "description": "Minister Dilan Yesilgöz van Justitie en Veiligheid schrijft in een brief aan de Tweede Kamer dat de veiligheid en het werk van de politie niet in gevaar is gekomen door een 'onwerkbaar' tapsysteem. Wel erkent de minister dat het systeem verouderd is.",
+          "link": "https://tweakers.net/nieuws/201916/minister-geen-gevaar-door-verouderd-aftapsysteem-van-nederlandse-politie.html",
+          "publishedOn": "2022-10-04T17:57:58.000Z",
+          "wordCount": null,
+          "title": "Minister: geen gevaar door verouderd aftapsysteem van Nederlandse politie",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61916",
+          "author": "Bart van Klaveren",
+          "description": "Microsoft heeft versie 0.63.0 van PowerToys uitgebracht. De PowerToys zijn een verzameling kleine programma's voor powerusers. Er waren PowerToys voor Windows 95 en Windows XP en sinds halverwege 2019 is Microsoft ook bezig met de ontwikkeling van een versie voor Windows 10 en hoger. De PowerToys bestaan op dit moment uit Awake, Color Picker, FancyZones, File Explorer Add-ons, Image Resizer, Keyboard Manager, PowerRename, PowerToys Run, Shortcut Guide en de Video Conference Mute. De changelog voor deze uitgave laat de volgende veranderingen en verbeteringen zien. Highlights",
+          "link": "https://tweakers.net/downloads/61916/powertoys-0630.html",
+          "publishedOn": "2022-10-04T17:37:20.000Z",
+          "wordCount": 2598,
+          "title": "PowerToys 0.63.0",
+          "imageUrl": "https://tweakers.net/i/H3BHcpJJ1FTM36vaSHB7JIR-pJg=/134x134/filters:strip_exif()/i/2004648248.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201914",
+          "author": "Robert Zomers",
+          "description": "Elon Musk zou Twitter toch willen kopen voor zijn oorspronkelijk bod van 54,20 dollar per aandeel. Musk wilde onder de deal uit, omdat volgens hem het platform niet transparant zou zijn over het aantal bot-accounts.",
+          "link": "https://tweakers.net/nieuws/201914/elon-musk-wil-twitter-alsnog-kopen-voor-44-miljard-dollar.html",
+          "publishedOn": "2022-10-04T16:57:21.000Z",
+          "wordCount": null,
+          "title": "Elon Musk wil Twitter alsnog kopen voor 44 miljard dollar - update",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201912",
+          "author": "Robert Zomers",
+          "description": "CD Project maakt zijn plannen bekend voor de komende jaren en kondigt verschillende nieuwe games in het Witcher-universum aan. Daarnaast komt er een vervolg op Cyberpunk 2077 en werkt het gamebedrijf aan een nieuwe IP onder de naam Hadar.",
+          "link": "https://tweakers.net/nieuws/201912/cd-projekt-kondigt-nieuwe-witcher-games-vervolg-cyberpunk-2077-en-nieuwe-ip-aan.html",
+          "publishedOn": "2022-10-04T16:43:57.000Z",
+          "wordCount": 4082,
+          "title": "CD Projekt kondigt nieuwe Witcher-games, vervolg Cyberpunk 2077 en nieuwe IP aan",
+          "imageUrl": "https://tweakers.net/i/2rwxryaA-xJVERRJ1X0pLgn4zXQ=/134x134/filters:strip_exif()/i/2004715056.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201910",
+          "author": "Robert Zomers",
+          "description": "Sega heeft samen met ontwikkelaar Relic Entertainment besloten dat Company of Heroes 3 niet meer dit jaar verschijn. De rts moet nu op 23 februari 2023 verschijnen maakt de uitgever bekend.",
+          "link": "https://tweakers.net/nieuws/201910/sega-stelt-release-company-of-heroes-3-uit-naar-februari-2023.html",
+          "publishedOn": "2022-10-04T16:06:12.000Z",
+          "wordCount": null,
+          "title": "Sega stelt release Company of Heroes 3 uit naar februari 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201908",
+          "author": "Robert Zomers",
+          "description": "Chipfabrikant Micron maakt bekend dat het een grote chipfabriek gaat bouwen in de Amerikaanse staat New York. Het bedrijf wil 100 miljard dollar investeren in de fabriek, verspreid over de komende twintig jaar.",
+          "link": "https://tweakers.net/nieuws/201908/micron-investeert-100-miljard-dollar-in-nieuwe-fabriek-in-de-staat-new-york.html",
+          "publishedOn": "2022-10-04T15:33:24.000Z",
+          "wordCount": 4150,
+          "title": "Micron investeert 100 miljard dollar in nieuwe fabriek in de staat New York",
+          "imageUrl": "https://tweakers.net/i/rE_LQgCF9WW9WpaIWPzgFvlughU=/134x134/filters:strip_icc():strip_exif()/i/2004714376.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201906",
+          "author": "Loïs Franx",
+          "description": "Internetprovider Freedom gaat internet, vaste telefonie en tv aanbieden via het glasvezelnetwerk van Delta Fiber. Sinds 1 oktober kunnen klanten bij nieuwe glasvezelcampagnes kiezen voor Freedom Internet via Delta, volgend jaar komen daar de bestaande netwerken bij.",
+          "link": "https://tweakers.net/nieuws/201906/freedom-internet-gaat-internet-aanbieden-via-glasvezelnetwerk-van-delta-fiber.html",
+          "publishedOn": "2022-10-04T14:54:36.000Z",
+          "wordCount": null,
+          "title": "Freedom Internet gaat internet aanbieden via glasvezelnetwerk van Delta Fiber",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201886",
+          "author": "Tijs Hofmans",
+          "description": "De Autoriteit Persoonsgegevens heeft bezwaar tegen een wetsvoorstel dat de accountancyindustrie transparanter moet maken. Met het voorstel wordt 'een inbreuk gemaakt op de persoonlijke levenssfeer van accountants'.",
+          "link": "https://tweakers.net/nieuws/201886/autoriteit-persoonsgegevens-heeft-kritiek-op-transparantiewet-voor-accountants.html",
+          "publishedOn": "2022-10-04T14:35:19.000Z",
+          "wordCount": null,
+          "title": "Autoriteit Persoonsgegevens heeft kritiek op transparantiewet voor accountants",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201900",
+          "author": "Loïs Franx",
+          "description": "Tesla heeft inmiddels meer dan 10.000 Supercharger-laadpunten in Europa. De laadpunten zijn verspreid over 900 stations in dertig Europese landen. Ongeveer een vijfde van de Supercharger-laadpunten zijn gebouwd in 2022, zegt de EV-fabrikant.",
+          "link": "https://tweakers.net/nieuws/201900/tesla-heeft-meer-dan-10000-supercharger-laadpunten-in-europa.html",
+          "publishedOn": "2022-10-04T13:08:18.000Z",
+          "wordCount": null,
+          "title": "Tesla heeft meer dan 10.000 Supercharger-laadpunten in Europa",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201898",
+          "author": "Arnoud Wokke",
+          "description": "Xiaomi heeft zijn Q2-serie van tv's aangekondigd. De TV Q2's komen draaien nu op Google TV, waar voorganger Q1 loopt op Android TV 10. De tv's zijn deze maand beschikbaar in de Benelux, zo zegt de fabrikant.",
+          "link": "https://tweakers.net/nieuws/201898/q2-tvs-van-xiaomi-draaien-op-google-tv-platform.html",
+          "publishedOn": "2022-10-04T13:03:46.000Z",
+          "wordCount": null,
+          "title": "Q2-tv's van Xiaomi draaien op Google TV-platform",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201816",
+          "author": "Wout Funnekotter",
+          "description": "Google komt in 2023 als onderdeel van zijn Home-ecosysteem met een script editor die gebruikt kan worden om smarthomerautomatiseringen te schrijven. Het bedrijf richt zich daarmee op  power users die meer functionaliteit willen dan in de Google Home-app te vinden is.",
+          "link": "https://tweakers.net/nieuws/201816/google-komt-met-scriptingtool-voor-smarthomeautomatisering.html",
+          "publishedOn": "2022-10-04T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Google komt met scriptingtool voor smarthomeautomatisering",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201880",
+          "author": "Arnoud Wokke",
+          "description": "Google heeft de Nest Pro-router aangekondigd. De router ondersteunt WiFi 6E en kan dus verbinden op 2,4GHz, 5GHz en 6GHz. De router komt eind deze maand uit in Nederland, zo laat het bedrijf weten.",
+          "link": "https://tweakers.net/nieuws/201880/google-kondigt-nest-wifi-pro-router-aan.html",
+          "publishedOn": "2022-10-04T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Google kondigt Nest Wifi Pro-router aan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201884",
+          "author": "Arnoud Wokke",
+          "description": "Google brengt een nieuwe versie van zijn Home-app uit met ondersteuning voor smarthomestandaard Matter. Dat heeft het bedrijf laten weten. Ook komt er een nieuwe interface voor camera's die afkomstig is uit de niet langer werkende Nest-app.",
+          "link": "https://tweakers.net/nieuws/201884/nieuwe-versie-google-home-app-ondersteunt-matter.html",
+          "publishedOn": "2022-10-04T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Nieuwe versie Google Home-app ondersteunt Matter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201876",
+          "author": "Arnoud Wokke",
+          "description": "Xiaomi heeft de 12T en 12T Pro aangekondigd. De 12T heeft een MediaTek Dimensity 8100 Ultra-soc. De Pro-variant heeft een Qualcomm Snapdragon 8+ Gen 1 en is een stukje duurder. Beide telefoons komen op 13 oktober uit.",
+          "link": "https://tweakers.net/nieuws/201876/xiaomi-brengt-12t-smartphone-met-mediatek-soc-uit-voor-600-euro.html",
+          "publishedOn": "2022-10-04T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Xiaomi brengt 12T-smartphone met MediaTek-soc uit voor 600 euro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201894",
+          "author": "Arnoud Wokke",
+          "description": "Twitter hoeft geen filter te bouwen om tweets over een complottheorie rond de Nederlandse plaats Bodegraven vooraf te blokkeren. Dat heeft de rechtbank in Den Haag bepaald in een vonnis. Wel mag de gemeente tweets aanwijzen aan Twitter via een notice and takedown-procedure.",
+          "link": "https://tweakers.net/nieuws/201894/twitter-hoeft-geen-filter-te-bouwen-voor-tweets-over-complottheorie-bodegraven.html",
+          "publishedOn": "2022-10-04T12:17:23.000Z",
+          "wordCount": null,
+          "title": "Twitter hoeft geen filter te bouwen voor tweets over complottheorie Bodegraven",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201888",
+          "author": "Loïs Franx",
+          "description": "Het Europees Parlement heeft gestemd voor de verplichting van USB-C-aansluitingen op nieuwe smartphones, tablets, camera's en andere kleine apparaten in de EU. De wet gaat eind 2024 in en gaat op de lange termijn ook gelden voor laptops.",
+          "link": "https://tweakers.net/nieuws/201888/europees-parlement-stemt-voor-verplichte-usb-c-aansluiting-op-kleine-elektronica.html",
+          "publishedOn": "2022-10-04T12:05:19.000Z",
+          "wordCount": null,
+          "title": "Europees Parlement stemt voor verplichte USB-C-aansluiting op kleine elektronica",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201890",
+          "author": "Tijs Hofmans",
+          "description": "Beveiligingsbedrijf Fox-IT maakt een van zijn belangrijkste tools voor incident response open source beschikbaar. Dissect bestaat uit een reeks tools en parsers die het beveiligingsbedrijf intern gebruikt. Die kan iedereen gaan gebruiken.",
+          "link": "https://tweakers.net/nieuws/201890/fox-it-maakt-eigen-toolset-voor-incident-response-open-source-beschikbaar.html",
+          "publishedOn": "2022-10-04T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Fox-IT maakt eigen toolset voor incident response open source beschikbaar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61908",
+          "author": "Bart van Klaveren",
+          "description": "Het programma GoldWave is een uitgebreide digitale audio-editor voor het Windows-platform en zag voor het eerst zijn levenslicht in 1993. Het kan op een hoge kwaliteit - tot maximaal 24bits en 192kHz - geluidsbestanden bewerken en ondersteunt onder andere de wav-, mp3-, ogg-, vox- en flac-formaten. De vele andere features zijn op deze pagina te bekijken. De ontwikkelaars hebben enkele dagen geleden versie 6.66 uitgebracht; de lijst van aanpassingen tot zo ver van dit jaar ziet er als volgt uit: GoldWave v6.66 New Features",
+          "link": "https://tweakers.net/downloads/61908/goldwave-666.html",
+          "publishedOn": "2022-10-04T11:34:26.000Z",
+          "wordCount": null,
+          "title": "GoldWave 6.66",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61906",
+          "author": "Bart van Klaveren",
+          "description": "Microsoft heeft versie 106 van Edge uitgebracht. Deze op Chromium gebaseerde browser is beschikbaar voor Windows 7 en hoger, Linux en macOS. Ook zijn er versies voor Android en iOS. In deze uitgave, die verspreid over verscheidene dagen wordt uitgerold, heeft Microsoft onder meer de nieuwe Defender SmartScreen-bibliotheek standaard ingeschakeld, wat de beveiliging ten goede moet komen, en zijn er verbeteringen aangebracht in de zoek- en adresbalk. De volledige changelog voor deze uitgave kan hieronder worden gevonden. Feature updates",
+          "link": "https://tweakers.net/downloads/61906/microsoft-edge-1060137034.html",
+          "publishedOn": "2022-10-04T10:59:59.000Z",
+          "wordCount": null,
+          "title": "Microsoft Edge 106.0.1370.34",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61904",
+          "author": "Bart van Klaveren",
+          "description": "Lunacy is een gratis grafisch ontwerpprogramma voor Windows en vanaf versie 8.0 ook voor Linux en macOS. Het heeft een grote hoeveelheid ingebakken content, zoals iconen, foto's, gemaskeerde afbeeldingen en illustraties. Het is ook in staat om sketch-bestanden te openen en Sketch-plug-ins te gebruiken. Het programma wordt actief ontwikkeld en Icons8 lijkt daarbij goed naar de community te luisteren. Versie 8.7.2 komt snel na 8.7 en de changelog laat dan ook alleen een klein aantal verbeteringen zien. Improvements",
+          "link": "https://tweakers.net/downloads/61904/lunacy-872.html",
+          "publishedOn": "2022-10-04T10:58:07.000Z",
+          "wordCount": null,
+          "title": "Lunacy 8.7.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201882",
+          "author": "Loïs Franx",
+          "description": "Nvidia meldt maandag dat het al zijn activiteiten in Rusland gaat staken. De fabrikant was al gestopt met het verschepen van zijn producten naar het land, maar nu gaat het ook zijn andere diensten stopzetten.",
+          "link": "https://tweakers.net/nieuws/201882/nvidia-staakt-activiteiten-rusland-wegens-oorlog-oekraine.html",
+          "publishedOn": "2022-10-04T10:53:48.000Z",
+          "wordCount": null,
+          "title": "Nvidia staakt activiteiten Rusland wegens oorlog Oekraïne",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/plan/3698",
+          "author": "Wout Funnekotter",
+          "description": "De week van het Huisfeestje is aangebroken; aankomende zaterdag is het eindelijk zover. Eerder hebben wij het uitgebreid gehad over de Workshop Area en de diverse Game Areas. Een paar areas hebben we nog niet toegelicht: de Casino Area, de Tasting Area en de Food Area.",
+          "link": "https://tweakers.net/plan/3698/beproef-je-geluk-in-het-casino-en-bezoek-de-tasting-area-op-het-huisfeestje.html",
+          "publishedOn": "2022-10-04T10:40:17.000Z",
+          "wordCount": null,
+          "title": "Beproef je geluk in het casino en bezoek de Tasting Area op het Huisfeestje",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201854",
+          "author": "Arnoud Wokke",
+          "description": "De politieke rel rond de gewiste sms'jes van de Nederlandse premier Mark Rutte heeft systematische problemen blootgelegd met het gebruik van de software om e-mails en sms'jes bij ministeries te archiveren. Dat blijkt uit het maandag gepubliceerde rapport over de kwestie.",
+          "link": "https://tweakers.net/nieuws/201854/rel-rond-smsjes-premier-rutte-legt-problemen-archiefsoftware-bloot.html",
+          "publishedOn": "2022-10-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "[Plus] Rel rond sms'jes premier Rutte legt problemen archiefsoftware bloot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201878",
+          "author": "Loïs Franx",
+          "description": "Een aantal bedrijven in de Rotterdamse haven is aangesloten op het quantumnetwerk van Q*Bird. Dat bedrijf komt voort uit QuTech, een samenwerkingsverband van de TU Delft en de Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek.",
+          "link": "https://tweakers.net/nieuws/201878/haven-rotterdam-is-aangesloten-op-quantumnetwerk.html",
+          "publishedOn": "2022-10-04T09:29:52.000Z",
+          "wordCount": null,
+          "title": "Haven Rotterdam is aangesloten op quantumnetwerk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201872",
+          "author": "Loïs Franx",
+          "description": "Een Italiaanse rechtbank heeft een boete die de marktautoriteit AGCM heeft opgelegd aan Apple en Amazon geschrapt. De rechtbank oordeelt onder meer dat de Amerikaanse bedrijven niet genoeg tijd hebben gekregen van de toezichthouder om zichzelf te verdedigen.",
+          "link": "https://tweakers.net/nieuws/201872/italiaanse-boete-van-ruim-173-miljoen-euro-voor-amazon-en-apple-is-geschrapt.html",
+          "publishedOn": "2022-10-04T07:50:38.000Z",
+          "wordCount": null,
+          "title": "Italiaanse boete van ruim 173 miljoen euro voor Amazon en Apple is geschrapt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201870",
+          "author": "Arnoud Wokke",
+          "description": "Er zijn renders verschenen van wat de Nothing Ear (stick)-oordopjes zouden worden. Het bedrijf liet al wel de cilindervormige oplaadcase zien, maar toonde tot nu toe niet hoe de oordopjes eruitzien. Die lijken weinig te verschillen van de Ear (1) van vorig jaar.",
+          "link": "https://tweakers.net/nieuws/201870/renders-tonen-nothing-ear-stick-oordopjes.html",
+          "publishedOn": "2022-10-04T06:40:36.000Z",
+          "wordCount": null,
+          "title": "Renders tonen Nothing Ear (stick)-oordopjes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/plan/3690",
+          "author": "Tweakers Partners",
+          "description": "Wat heeft een e-brommer uit de Achterhoek gemeen met de Tesla Model 3? Innovatie natuurlijk, maar ook dat de fabrikanten hun nieuwe modellen ontwikkelen met software waarin het ontwerpproces, simulaties en productie samengaan in één platform.",
+          "link": "https://tweakers.net/plan/3690/hoe-slimmer-samenwerken-de-opkomst-van-elektrische-mobiliteit-versnelt.html",
+          "publishedOn": "2022-10-04T06:00:00.000Z",
+          "wordCount": null,
+          "title": ".Adv - Hoe slimmer samenwerken de opkomst van elektrische mobiliteit versnelt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201868",
+          "author": "Arnoud Wokke",
+          "description": "Samsung heeft zijn processor-roadmap voor de komende jaren gepresenteerd. Over vijf jaar wil de fabrikant een procedé met transistors van 1,4 nanometer in gebruik nemen. Tot die tijd komen er nog 3nm- en 2nm-procedés.",
+          "link": "https://tweakers.net/nieuws/201868/samsung-wil-in-2027-chips-produceren-op-1-komma-4nm.html",
+          "publishedOn": "2022-10-04T05:58:34.000Z",
+          "wordCount": null,
+          "title": "Samsung wil in 2027 chips produceren op 1,4nm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201830",
+          "author": "Arnoud Wokke",
+          "description": "Diverse gebruikers van YouTube hebben screenshots gedeeld, waaruit op te maken is dat de 4k-weergave een abonnement vereist. Tot nu toe vereiste het bekijken van video's in 4k geen abonnement. YouTube bevestigt dat het gaat om een experiment.",
+          "link": "https://tweakers.net/nieuws/201830/youtube-bevestigt-experiment-waarbij-kijken-in-4k-betaalde-optie-is.html",
+          "publishedOn": "2022-10-04T05:20:40.000Z",
+          "wordCount": null,
+          "title": "YouTube bevestigt experiment waarbij kijken in 4k betaalde optie is",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201866",
+          "author": "Arnoud Wokke",
+          "description": "Twitter is begonnen met het aanbieden van de functie om tweets te bewerken. De functie is als eerste beschikbaar voor betalende klanten in Canada, Australië en Nieuw-Zeeland. Thuisland Verenigde Staten volgt later, wanneer de functie in de Benelux komt, is onbekend.",
+          "link": "https://tweakers.net/nieuws/201866/twitter-laat-abonnees-in-drie-landen-tweets-bewerken.html",
+          "publishedOn": "2022-10-04T04:52:03.000Z",
+          "wordCount": null,
+          "title": "Twitter laat abonnees in drie landen tweets bewerken",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/reviews/10520",
+          "author": "Willem de Moor",
+          "description": "De PCIe Gen5-ssd's zijn er nog niet. Wel zijn de prijzen van de huidige generatie volop in beweging en valt het grote aantal aanbiedingen op vooral NVMe-gebied op.",
+          "link": "https://tweakers.net/reviews/10520/ssd-best-buy-guide-oktober-2022.html",
+          "publishedOn": "2022-10-04T04:00:00.000Z",
+          "wordCount": null,
+          "title": "Ssd Best Buy Guide - Oktober 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201864",
+          "author": "Yannick Spinner",
+          "description": "Apple ondersteunt vanaf 1 oktober geen nieuwe activeringen van data-abonnementen voor iPads via Apple SIM meer. Met de dienst konden gebruikers abonnementen van bepaalde providers afnemen door via Apples meegeleverde simkaart een soort e-simverbinding te activeren.",
+          "link": "https://tweakers.net/nieuws/201864/apple-stopt-met-ondersteuning-nieuwe-apple-sim-abonnementen-op-ipad.html",
+          "publishedOn": "2022-10-03T19:30:08.000Z",
+          "wordCount": null,
+          "title": "Apple stopt met ondersteuning nieuwe Apple SIM-abonnementen op iPad",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61902",
+          "author": "Bart van Klaveren",
+          "description": "AdGuard Home versie 0.107.15 is uitgekomen. Met deze software kan er thuis een dns-server worden opgezet om zo onder meer advertenties en malware te blokkeren op het gehele netwerk. Het is daarmee dus vergelijkbaar met Pi-hole. AdGuard Home werkt op een machine met Windows, macOS, Linux of FreeBSD, is ook in staat om tegen phishing te beschermen en heeft parental control. Op ons eigen forum kan over het programma worden gediscussieerd. De changelog voor deze uitgave kan hieronder worden gevonden: Security",
+          "link": "https://tweakers.net/downloads/61902/adguard-home-010715.html",
+          "publishedOn": "2022-10-03T19:29:50.000Z",
+          "wordCount": null,
+          "title": "AdGuard Home 0.107.15",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201862",
+          "author": "Yannick Spinner",
+          "description": "Modder sultim_t heeft de releaseversie van Quake: Ray Traced uitgebracht waarmee de game uit 1996 evenals de rereleaseversie uit 2021 path tracing ondersteunt. In de releasetrailer laat de ontwikkelaar ook weten dat Half-Life: Ray Traced voorlopig is uitgesteld.",
+          "link": "https://tweakers.net/nieuws/201862/mod-voor-quake-uit-1996-voegt-raytracing-aan-de-game-toe.html",
+          "publishedOn": "2022-10-03T18:10:28.000Z",
+          "wordCount": null,
+          "title": "Mod voor Quake uit 1996 voegt raytracing aan de game toe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201860",
+          "author": "Yannick Spinner",
+          "description": "Wikihosting- en mediabedrijf Fandom neemt meerdere grote gamemerken over van de voormalige eigenaar, Red Ventures. Onder meer Metacritic, GameSpot, GameFAQs, TV Guide, Giant Bomb en Comic Vine vallen nu onder Fandom. Er is geen overnameprijs bekendgemaakt.",
+          "link": "https://tweakers.net/nieuws/201860/wikihostingbedrijf-fandom-neemt-metacritic-gamespot-en-gamefaqs-over.html",
+          "publishedOn": "2022-10-03T15:58:12.000Z",
+          "wordCount": null,
+          "title": "Wikihostingbedrijf Fandom neemt Metacritic, GameSpot en GameFAQs over",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201858",
+          "author": "Joris Jansen",
+          "description": "Verschillende partijen waaronder wetenschappers en een netbeheerdersorganisatie uiten kritiek op de Nederlandse energietoezichthouder ACM. Ze stellen dat er onvoldoende ruimte was voor investeringen in het net, waardoor de energietransitie en economische groei afgeremd worden.",
+          "link": "https://tweakers.net/nieuws/201858/acm-bood-onvoldoende-ruimte-voor-investeringen-in-elektriciteitsnet.html",
+          "publishedOn": "2022-10-03T15:25:08.000Z",
+          "wordCount": null,
+          "title": "'ACM bood onvoldoende ruimte voor investeringen in elektriciteitsnet'",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/geek/201856",
+          "author": "Hayte Hugo",
+          "description": "Lange tijd was Duke Nukem Forever de game die het langst in ontwikkeling was voor release, maar inmiddels is Beyond Good & Evil 2 langer in ontwikkeling. Het is 5239 dagen sinds Ubisoft de game aankondigde, terwijl Duke Nukem Forever 'al' na 5156 dagen verscheen.",
+          "link": "https://tweakers.net/geek/201856/beyond-good-en-evil-2-is-langer-in-ontwikkeling-dan-duke-nukem-forever.html",
+          "publishedOn": "2022-10-03T15:16:04.000Z",
+          "wordCount": null,
+          "title": "Beyond Good & Evil 2 is langer in ontwikkeling dan Duke Nukem Forever",
+          "imageUrl": null
+        },
+        {
           "id": "https://tweakers.net/nieuws/201818",
           "author": "Loïs Franx",
           "description": "De Russische communicatietoezichthouder Roskomnadzor heeft de toegang tot het online audioplatform SoundCloud in Rusland geblokkeerd. Volgens de toezichthouder wordt 'valse informatie over de speciale militaire operatie in Oekraïne' verspreid via SoundCloud.",
@@ -1018,6 +1418,206 @@
       "feedUrl": "https://nl.pepper.com/rss/overzicht%20van%20de%20populairste%20groepen",
       "siteUrl": "https://nl.pepper.com",
       "articles": [
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/xiaomi-12t-pro-met-gratis-redmi-pad-early-bird-actie-251126",
+          "author": null,
+          "description": "€799 - MediaMarkt\nDe actiepagina staat nog niet online op Xiaomi's website, dus de kleine lettertjes missen, maar Media Markt adverteert er al mee: blijkbaar krijg je dus bij aanschaf van de net geintroduceerde Xiaomi 12T Pro tussen 13 oktober en 31 oktober de tevens net geintroduceerde Redmi Pad cadeau. Het is geen snelheidsmonster, maar desalniettemin erg leuke tablet voor erbij.\n\n\n\nN.B.: Tweede bron (weliswaar UK) die deze actie bevestigt: Pocket-Lint.com",
+          "link": "https://nl.pepper.com/aanbiedingen/xiaomi-12t-pro-met-gratis-redmi-pad-early-bird-actie-251126",
+          "publishedOn": "2022-10-04T23:58:37.000Z",
+          "wordCount": 1294,
+          "title": "Xiaomi 12T Pro met gratis Redmi Pad (Early Bird actie)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/30-seconds-chouffe-edition-251122",
+          "author": null,
+          "description": "Chouffe \"30 seconds chouffe-edition\" bij aankoop van 4-pack chouffe.\nGeselecteerde winkels door heel Nederland. Klik op de link om te zien welke winkels er meedoen!",
+          "link": "https://nl.pepper.com/aanbiedingen/30-seconds-chouffe-edition-251122",
+          "publishedOn": "2022-10-04T21:22:45.000Z",
+          "wordCount": 1108,
+          "title": "30 seconds \"chouffe-edition\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/napoli-shirt-rond-de-61-korting-uit-en-thuis-251123",
+          "author": null,
+          "description": "€30,85\nMooie shirts van Napoli  (y) \nUit shirt https://www.voetbalverkoop.com/ssc-napoli-2660/ssc-napoli-uitshirt-2022-2023-15688.html\nThuis shirt https://www.voetbalverkoop.com/ssc-napoli-thuisshirt-2022-2023-15689.html\nOok voor de kids https://www.voetbalverkoop.com/ssc-napoli-2660/ssc-napoli-kind-thuistenue-2022-2023-15690.html",
+          "link": "https://nl.pepper.com/aanbiedingen/napoli-shirt-rond-de-61-korting-uit-en-thuis-251123",
+          "publishedOn": "2022-10-04T21:18:12.000Z",
+          "wordCount": 1137,
+          "title": "Napoli shirt rond de 61% korting (uit en thuis)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/overwatch-2-free-to-play-251121",
+          "author": null,
+          "description": "A NEW ERA HAS BEGUN\nOverwatch 2 is a free-to-play, team-based action game set in the optimistic future, where every match is the ultimate 5v5 battlefield brawl. Play as a time-jumping freedom fighter, a beat-dropping battlefield DJ, or one of over 30 other unique heroes as you battle it out around the globe.",
+          "link": "https://nl.pepper.com/aanbiedingen/overwatch-2-free-to-play-251121",
+          "publishedOn": "2022-10-04T20:24:42.000Z",
+          "wordCount": 1169,
+          "title": "Overwatch 2 Free-to-play",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/nike-metal-swoosh-251120",
+          "author": null,
+          "description": "€9,99 - Foot Locker\nNike Metal Swoosh\nLight Marine-Silver\n-One size\n-Unisex\nGratis verzending met FLX memberaccount [ account = gratis ]\nGratis retourneren [via UPS (koerier) of een van de winkels]",
+          "link": "https://nl.pepper.com/aanbiedingen/nike-metal-swoosh-251120",
+          "publishedOn": "2022-10-04T20:20:58.000Z",
+          "wordCount": 1160,
+          "title": "Nike Metal Swoosh",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/gratis-hexagons-251119",
+          "author": null,
+          "description": "Nu Gratis 4 Hexagons van 17x15 cm\nJe kunt ook meer stuks bestellen, waarde wordt verrekend. Enkel de verzendkosten betaal je.\nGebruik kortingscode: VMED100",
+          "link": "https://nl.pepper.com/aanbiedingen/gratis-hexagons-251119",
+          "publishedOn": "2022-10-04T20:11:08.000Z",
+          "wordCount": 1120,
+          "title": "Gratis hexagons (+ €9,95 verzendkosten)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/kortingscode/foto-op-canvas-251113",
+          "author": null,
+          "description": "Fotoproducten.nl\nHet is dierendag! Profiteer daarom nu van 72% korting op alles! Laat bijvoorbeeld jouw huisdier afdrukken op een canvas of kies voor een mooie foto in lijst.\nBijvoorbeeld canvas 70 x 50cm ipv €47,- nu €13,16 (komt nog €7,50 verzendkosten bij)",
+          "link": "https://nl.pepper.com/kortingscode/foto-op-canvas-251113",
+          "publishedOn": "2022-10-04T20:09:54.000Z",
+          "wordCount": 1063,
+          "title": "Foto op canvas",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/elektrische-knuffeldieren-180-x-130-251115",
+          "author": null,
+          "description": "€34,95 - Action\nWanneer de verwarming te duur is misschien een oplossing om onder een elektrische deken te liggen.\nDeze is 180 x 130.",
+          "link": "https://nl.pepper.com/aanbiedingen/elektrische-knuffeldieren-180-x-130-251115",
+          "publishedOn": "2022-10-04T20:08:47.000Z",
+          "wordCount": 1096,
+          "title": "Elektrische knuffeldeken 180 x 130",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/philips-hue-centura-inbouwspot-3-pack-251117",
+          "author": null,
+          "description": "€132,12 - Wehkamp\nPrijs elders volgens tweakers: € 151,99\nPhilips Hue Centura inbouwspot (3-pack)De Philips Hue Centura aluminium inbouwspot biedt de perfecte sfeer voor elke moment. Ideaal voor je woonkamer en slaapkamer. Bedien de lampen via de Hue app om in één kamer direct lichtscènes in te stellen of maak verbinding met een Philips Hue Bridge voor toegang tot alle functies.\nBedien tot wel 10 lampen met de Bluetooth-app\nMet de Hue Bluetooth-app kun je de slimme Hue lampen in elke kamer van je huis bedienen. Voeg tot wel 10 slimme lampen toe en bedien ze allemaal door gewoon op een knop op je mobiele apparaat te tikken.\nBedien lampen met je stem\nBedien je lampen handsfree en gebruik je stem in plaats van een mobiel apparaat! Met eenvoudige spraakopdrachten kun je meerdere lampen of slec…",
+          "link": "https://nl.pepper.com/aanbiedingen/philips-hue-centura-inbouwspot-3-pack-251117",
+          "publishedOn": "2022-10-04T19:45:48.000Z",
+          "wordCount": 2023,
+          "title": "Philips Hue Centura inbouwspot (3-pack)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/riders-republic-xb1-series-x-251116",
+          "author": null,
+          "description": "€12,25 - MediaMarkt\nElders €27,98\nGratis verzending met een clubcard account.\n\t[shortcode id=\"1357961\"/]",
+          "link": "https://nl.pepper.com/aanbiedingen/riders-republic-xb1-series-x-251116",
+          "publishedOn": "2022-10-04T19:40:14.000Z",
+          "wordCount": 1053,
+          "title": "Riders Republic (XB1, Series X)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/acer-predator-xb323qunv-gaming-monitor-315-inch-170hz-251112",
+          "author": null,
+          "description": "€349 - Yorcom\n\n  Kenmerken: 16:9 gaming monitor met een resolutie van 2560x1440dpi, Agile Splendor IPS display, beeldherhalingsraden: 170Hz Overclock, 144Hz, HDR400, Delta E<1, reactietijd: 1ms (G2G), aansluitingen: 2xHDMI 2.0, DP 1 2, USB 3.0 HUB, Audio Out  \n  SYNC TECHNOLOGIE: Adaptive Sync is de open VESA-standaard die de beeldfrequentie van de grafische kaart en het aangesloten scherm aan elkaar aanpast.  \n DISPLAY-TYP: Agile Splendor IPS-schermen gebruiken in tegenstelling tot de gebruikelijke IPS-schermen een snelle vloeibare kristaltechnologie om de responstijd te verkorten. Bovendien vormt u een DCI-P3 kleurenspectrum van 90% of beter. Het resultaat is extreem vloeibare weergaven en een levendige kleurweergave. De HDR-technologie biedt in vergelijking met normale beelden een gelijkmatige helderheid, sterke contrasten en intense kleuren.  \n  Ontwerp: Zero-frame-monitoren onderscheiden zich door minimale frames. Afbeeldingen verschijnen groter op de monitor en overgangen bij multi-monitor-instellingen zijn bijna naadloos.  \n\nPrijsvergelijk: https://tweakers.net/pricewatch/1740090/acer-predator-xb323qunv-zwart.html",
+          "link": "https://nl.pepper.com/aanbiedingen/acer-predator-xb323qunv-gaming-monitor-315-inch-170hz-251112",
+          "publishedOn": "2022-10-04T18:09:27.000Z",
+          "wordCount": 1403,
+          "title": "Acer Predator XB323QUNV Gaming Monitor 31,5 inch 170hz",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/panasonic-40stk-5x-power-batterijen-aaaaa-251111",
+          "author": null,
+          "description": "€6,95 - Action\nMooie deal zowel aa als aaa\nhttps://www.action.com/nl-nl/p/panasonic-aa-batterijen/\nBeschrijving\n5 keer krachtiger vergeleken met een standaard batterij\nBehoudt zijn energie tot 7 jaar (wanneer ongebruikt)\nJe hebt nooit meer een tekort aan batterijen in huis met deze voordeelverpakking van Panasonic. Zo heb je altijd een vervangende batterij bij de hand voor lampjes of speelgoed",
+          "link": "https://nl.pepper.com/aanbiedingen/panasonic-40stk-5x-power-batterijen-aaaaa-251111",
+          "publishedOn": "2022-10-04T18:08:24.000Z",
+          "wordCount": 1216,
+          "title": "Panasonic 40stk 5x power batterijen aa&aaa",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/mini-matters-houten-keuken-met-licht-geluid-251110",
+          "author": null,
+          "description": "€54,95 - Action\nBeschrijving\nSpeelplezier voor kinderen vanaf 3 jaar\nInclusief 2 houten spatels\nFSC®-gecertificeerd hout: verantwoord hout\nMet deze interactieve, houten speelkeuken worden mini-masterchefs geboren. Aan alle details is gedacht om uren te kokerellen. Zet hem in elkaar en geef ‘m een plekje in de kinderslaapkamer bijvoorbeeld. Het houten design staat superknus, en is ook nog eens veel duurzamer dan kunststof speelgoed. Het hout van deze keuken komt uit een verantwoord beheerd bos, dus dat haal je met een goed gevoel in huis. Bovendien zijn kids er keer op keer weer zoet mee. Hoe leuk is het als de kleine ook eens iets lekkers op tafel zet? Want zeg nou zelf, jij hebt ook weleens geen zin om te koken. Van luchtkoekjes tot fantasie-friet. Ze maken alles klaar wat ze willen, zogenaamd natuurlijk.\nVoordat je je lievelingseten begint te bereiden, was je natuurlijk eventjes je handjes bij het kraantje. Wat staat er vandaag op het menu? Heb je zin in vissticks of lekkere macaroni? Draai dan aan de knopjes om het fornuis aan te zetten. De kookplaatjes lichten rood op, zodat jij weet dat je kunt beginnen met de bereiding. Zet ook even de afzuigkap aan, die maakt dan geluid. Het is net echt. Met de spatels oefenen alle koks in spé met roeren in de pan.\nHeb je toch meer zin in een lekker zoet hapje? Maak dan je eigen taartjes in de oven. Welke taart vind jij nou het allerlekkerst? Vandaag mag je alles maken wat jij wil. Het is jouw feestje in de keuken. Wanneer de gerechten helemaal klaar zijn, doe je nog eventjes de afwas. Want ook dat hoort erbij. Daarna mag alles netjes het keukenkastje in. En dan, aan tafel!\nSpecificaties\nArtikelnummer\t2571176\nMerk\tMini Matters\nAfmeting (excl. verpakking)\t30,5 x 70 x 103,5 cm (lxbxh)\nKleur\tMeerdere kleuren\nMateriaal\tHout\nBestemd voor\tBinnen\nGeschikte leeftijd\tVanaf 3 jaar",
+          "link": "https://nl.pepper.com/aanbiedingen/mini-matters-houten-keuken-met-licht-geluid-251110",
+          "publishedOn": "2022-10-04T18:08:21.000Z",
+          "wordCount": 1668,
+          "title": "Mini Matters houten keuken met licht & geluid",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/nikon-24-70-28-fx-251107",
+          "author": null,
+          "description": "€750 - MediaMarkt\nEr ligt nu 1 nieuwe Nikon AF-S 24-70mm f/2.8E ED VR voor 750 euro bij de Mediamarkt op het Pietervreedeplein.\nSuper aanbieding voor als je op zoek bent naar deze lens.",
+          "link": "https://nl.pepper.com/aanbiedingen/nikon-24-70-28-fx-251107",
+          "publishedOn": "2022-10-04T16:59:42.000Z",
+          "wordCount": 1168,
+          "title": "Nikon 24-70 2.8 FX (lokaal: MM Tilburg)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/alle-gwoon-koffie-11-gratis-251098",
+          "author": null,
+          "description": "Coop\nAlle soorten (snelfilter, koffiepads, koffiebonen, koffiecapsules, sachets) in de aanbieding bij de Coop filialen, 1+1 gratis.",
+          "link": "https://nl.pepper.com/aanbiedingen/alle-gwoon-koffie-11-gratis-251098",
+          "publishedOn": "2022-10-04T15:11:48.000Z",
+          "wordCount": 1163,
+          "title": "Alle g'woon koffie 1+1 gratis (koffiepads, koffiebonen, koffiecapsules, etc.)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/nikon-nikkor-z-24-70-mm-128-s-lens-251096",
+          "author": null,
+          "description": "€1.240 - Amazon.de\nZeer scherp geprijsde Nikon zoomlens. Van externe verkoper op Duitse Amazon, wel met positieve ervaringen van andere kopers.",
+          "link": "https://nl.pepper.com/aanbiedingen/nikon-nikkor-z-24-70-mm-128-s-lens-251096",
+          "publishedOn": "2022-10-04T15:11:35.000Z",
+          "wordCount": 1186,
+          "title": "Nikon NIKKOR Z 24-70 mm 1:2.8 S lens",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/xiaomi-mi-ax3200-router-251101",
+          "author": null,
+          "description": "€49,99 - Ochama\nDeze router is nu extra goedkoop door 10 euro kassakorting. \nAfhalen kan in tal van winkels anders 4 euro verzendkosten.\nGoedkoopste gevonden voor 59,95 meeste winkels nog 10 euro meer.\nDe Xiaomi Mi AX3200 Router zorgt voor een Wi-Fi netwerk in je huis zoals je deze nog nooit hebt gekend! Want dankzij de hogere internet- en overdracht snelheden, geniet je met deze router van bijna 2 keer zoveel snelheid (en kwaliteit) dan bij de typische AC1200 router. De Xiaomi Mi AX3200 vermindert vertraging en niet-responsiviteit aanzienlijk. Zelfs wanneer er meerdere apparaten tegelijkertijd worden gebruikt! Glijd door het nieuwe digitale tijdperk met deze ultrasnelle Wi-Fi router!",
+          "link": "https://nl.pepper.com/aanbiedingen/xiaomi-mi-ax3200-router-251101",
+          "publishedOn": "2022-10-04T15:07:30.000Z",
+          "wordCount": 1330,
+          "title": "Xiaomi Mi AX3200 Router WiFi 6 / openwrt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/bordspel-pilgrimage-nl-251099",
+          "author": null,
+          "description": "€14,31 - Bol.com\nMAAK EEN REIS DOOR EUROPA VOOR DE MOOISTE PELGRIMSTOCHTEN.\nStel je eigen route samen en bezoek als eerste de mooiste plekjes. Kies het juiste vervoermiddel en wees je medespelers te slim af. Ga te voet, per vliegtuig of met de boot. Verzamel zoveel mogelijk heilige voorwerpen om wat extra punten te verdienen. Kies de snelste route en wees sneller dan je medereizigers en win!\n\nUitgever:Just Games \n                    Taal:Nederlands \n                    Aantal spelers: 2 tot 4 spelers \nSpeelduur:45 minuten \n                    Leeftijd:Vanaf 6 jaar \n\n6,9 op BGG",
+          "link": "https://nl.pepper.com/aanbiedingen/bordspel-pilgrimage-nl-251099",
+          "publishedOn": "2022-10-04T14:53:19.000Z",
+          "wordCount": 1287,
+          "title": "Bordspel Pilgrimage (nl)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/nerf-elite-20-commander-rd-6-blaster-251095",
+          "author": null,
+          "description": "€10,99 - Bol.com\nWe hebben nog even  voordat de feestdagen er zijn maar vroeg inkopen doen kan nooit echt kwaad toch? Voor iemand die van Nerf houdt, al is het voor de verzameling of een strijd aan te gaan,  is dit toch wel een leuke deal. \nIk ga er van uit dat deze actie tot zondag loopt aangezien hij onder ''de beste deals van deze week'' staat. \nDe Nerd Elite 2.0 Commander RD-6-blaster heeft 3 tactische rails en bevestigingspunten voor een schoudersteun en een loop, zodat je hem kunt aanpassen naar wens.\nDe blaster heeft een draaiende trommel voor 6 darts zodat je opeenvolgend meerdere darts kunt afvuren zonder te herladen. Je kunt 1 dart tegelijk afvuren of 6 darts snel na elkaar met de spervuuractie. Loopverlenger en schoudersteun niet inbegrepen. De set bevat 12 officiële NERF-darts, voldoende om de trommel te laden en 6 darts als reserve bij te houden. \nHij schiet darts tot 27m ver. De kleur is blauw/oranje en is van kunstof. de gun word geleverd met de darts.",
+          "link": "https://nl.pepper.com/aanbiedingen/nerf-elite-20-commander-rd-6-blaster-251095",
+          "publishedOn": "2022-10-04T14:40:41.000Z",
+          "wordCount": 1481,
+          "title": "NERF Elite 2.0 Commander RD 6 - Blaster",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/xiaomi-smart-band-7-pro-251097",
+          "author": null,
+          "description": "€79,99 - Mi.com\nNu vandaag gereleased, voor de echte Pepperraars onder ons \nZit al een tijde op deze te wachten. Nu voor 80 inplaats van 100 euro!\nDeze korting is niet lang, ik zou ff bijhouden hoe lang dit is.\nGroetjes Dento86",
+          "link": "https://nl.pepper.com/aanbiedingen/xiaomi-smart-band-7-pro-251097",
+          "publishedOn": "2022-10-04T14:40:37.000Z",
+          "wordCount": 1167,
+          "title": "Xiaomi Smart band 7 Pro",
+          "imageUrl": null
+        },
         {
           "id": "https://nl.pepper.com/aanbiedingen/koffiepads-40-stuks-voor-2-euro-251032",
           "author": null,
