@@ -12,6 +12,276 @@
       "siteUrl": "https://tweakers.net/",
       "articles": [
         {
+          "id": "https://tweakers.net/nieuws/201954",
+          "author": "Jay Stout",
+          "description": "De Duitse overheid heeft de beveiligingsfuncties van iOS en iPadOS onderzocht en acht deze besturingssystemen veilig genoeg om gebruikt worden in een overheidscontext. De besturingssystemen zouden voldoen aan de Common Criteria-veiligheidsnormen.",
+          "link": "https://tweakers.net/nieuws/201954/duitse-overheid-acht-ios-veilig-genoeg-voor-verwerking-overheidsinformatie.html",
+          "publishedOn": "2022-10-05T15:54:30.000Z",
+          "wordCount": 5168,
+          "title": "Duitse overheid acht iOS veilig genoeg voor verwerking overheidsinformatie",
+          "imageUrl": "https://tweakers.net/i/WKZBFOeBn2NkJ1_eW50Y1sMeQws=/134x134/filters:strip_icc():strip_exif()/i/2004874468.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201944",
+          "author": "Yannick Spinner",
+          "description": "Meta heeft een update voor de iPhone-app van Instagram uitgebracht waardoor het crashen van de app verholpen moet worden. Versie 255.0 van de applicatie zou direct na het opstarten crashen. Hierbij verscheen volgens gebruikers ook geen foutmelding.",
+          "link": "https://tweakers.net/nieuws/201944/update-van-instagram-app-voor-iphone-verhelpt-crash-bij-opstarten.html",
+          "publishedOn": "2022-10-05T15:16:00.000Z",
+          "wordCount": null,
+          "title": "Update van Instagram-app voor iPhone verhelpt crash bij opstarten",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201946",
+          "author": "Yannick Spinner",
+          "description": "De antivirussoftwaremaker Kaspersky opent een zogenoemd Transparency Center in Utrecht. Het kantoor dient als plek waar klanten inzichten kunnen krijgen in de werkzaamheden van het bedrijf. De Nederlandse overheid heeft een formele uitnodiging gekregen om langs te komen in Utrecht.",
+          "link": "https://tweakers.net/nieuws/201946/kaspersky-opent-transparency-center-in-utrecht-nodigt-nederlandse-overheid-uit.html",
+          "publishedOn": "2022-10-05T14:49:09.000Z",
+          "wordCount": null,
+          "title": "Kaspersky opent Transparency Center in Utrecht, nodigt Nederlandse overheid uit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61932",
+          "author": "Bart van Klaveren",
+          "description": "Versie 5.10 van AIMP is uitgekomen, een bèta release. Deze gratis, lichtgewicht mediaspeler van Russische makelij heeft ondersteuning voor de populairste muziekformaten. Het uiterlijk heeft wat weg van het bekende Winamp en is door middel van skins aan te passen. AIMP heeft een 18-kanaalsequalizer aan boord en ondersteunt plug-ins. Verder kan het programma cd's rippen, muziekbestanden converteren en tags bewerken. Sinds versie 5.03 is er ook een aparte 64bit-versie van de mediaspeler. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New:",
+          "link": "https://tweakers.net/downloads/61932/aimp-510-build-2403-beta.html",
+          "publishedOn": "2022-10-05T14:48:57.000Z",
+          "wordCount": null,
+          "title": "AIMP 5.10 build 2403 bèta",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61934",
+          "author": "Bart van Klaveren",
+          "description": "Versie 0.4.2 van OpenRCT2 uitgekomen, de opensource-versie van RollerCoaster Tycoon 2. Het project probeert zo veel mogelijk op het origineel te lijken, maar is in een moderne taal geschreven wat uitbreidingen en verbeteringen mogelijk maakt. Het is hiermee vergelijkbaar met bijvoorbeeld OpenTTD. Om het te kunnen spelen is het overigens wel noodzakelijk om het originele spel te hebben, want het heeft onder meer geluidsbestanden en de afbeeldingen nodig. Sinds versie 0.4.0 is er een nieuw bestandsformaat waarmee het spel wordt opgeslagen. Dit verruimt diverse limieten, zoals de grootte van de speelvelden en het aantal karretjes in de ritten. De changelog voor deze uitgave ziet er als volgt uit: New:",
+          "link": "https://tweakers.net/downloads/61934/openrct2-042.html",
+          "publishedOn": "2022-10-05T14:44:09.000Z",
+          "wordCount": null,
+          "title": "OpenRCT2 0.4.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201952",
+          "author": "Joris Jansen",
+          "description": "Meta komt met een nieuwe optie om de Facebook Feed aan te passen aan de voorkeuren van individuele gebruikers. Periodiek zal er een bericht in de feed langskomen waarvan gebruikers kunnen aangeven of ze die vaker of juist minder vaak willen zien.",
+          "link": "https://tweakers.net/nieuws/201952/facebook-gebruikers-krijgen-keuze-welke-berichten-ze-meer-of-minder-willen-zien.html",
+          "publishedOn": "2022-10-05T14:27:05.000Z",
+          "wordCount": null,
+          "title": "Facebook-gebruikers krijgen keuze welke berichten ze meer of minder willen zien",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61930",
+          "author": "Bart van Klaveren",
+          "description": "Het pakket OPNsense is een firewall met uitgebreide mogelijkheden. Het is gebaseerd op het besturingssysteem FreeBSD en is oorspronkelijk een fork van m0n0wall en pfSense. Het pakket kan volledig via een webinterface worden ingesteld en heeft onder andere ondersteuning voor 2fa, openvpn, ipsec, carp en captive portal. Daarnaast kan het packetfiltering toepassen en beschikt het over een traffic shaper. De ontwikkelaars hebben OPNsense 22.7.5 uitgebracht en deze versie gaat vergezeld met de volgende aantekeningen: OPNsense 22.7.5 released",
+          "link": "https://tweakers.net/downloads/61930/opnsense-2275.html",
+          "publishedOn": "2022-10-05T14:18:31.000Z",
+          "wordCount": null,
+          "title": "OPNsense 22.7.5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201948",
+          "author": "Joris Jansen",
+          "description": "Tesla stopt met het gebruiken van ultrasone sensors in nieuwe Model 3- en Y-auto's. Deze sensors  dienen onder meer als parkeerassistentie om rijders te waarschuwen voor nabijgelegen objecten. Het bedrijf ziet het gebruik van camera's op termijn als het alternatief.",
+          "link": "https://tweakers.net/nieuws/201948/tesla-schrapt-ultrasone-sensors-voor-nieuwe-autos-en-valt-terug-op-cameras.html",
+          "publishedOn": "2022-10-05T12:50:25.000Z",
+          "wordCount": null,
+          "title": "Tesla schrapt ultrasone sensors voor nieuwe auto's en valt terug op camera's",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/reviews/10542",
+          "author": "Jeroen Horlings",
+          "description": "Diverse marktpartijen hebben kritiek op het voorstel voor een bandbreedtemodel van de netbeheerders. In dit artikelen bespreken we reacties en voorstellen.",
+          "link": "https://tweakers.net/reviews/10542/bandbreedtemodel-moet-beter-pooling-en-dynamische-energiebandbreedte.html",
+          "publishedOn": "2022-10-05T12:06:29.000Z",
+          "wordCount": null,
+          "title": "[Plus] 'Bandbreedtemodel moet beter' - Pooling en dynamische energiebandbreedte",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61926",
+          "author": "Bart van Klaveren",
+          "description": "Versie 4.0.0 van de opensource-protocol-analyzer en -packetsniffer Wireshark is uitgekomen, een ontwikkelversie. Met dit programma kunnen verschillende datapakketten en netwerkprotocollen op het netwerk worden geanalyseerd. Ook kan het programma eerder opgeslagen dataverkeer als invoer gebruiken. Wireshark is te downloaden voor 64bit-uitvoeringen van Windows en macOS, de broncode is beschikbaar voor gebruik op Linux, Solaris en *BSD. Er zijn geen 32bit-uitvoeringen meer beschikbaar. De changelog voor deze uitgave laat de volgende veranderingen en verbeteringen zien: What’s New",
+          "link": "https://tweakers.net/downloads/61926/wireshark-400.html",
+          "publishedOn": "2022-10-05T11:55:46.000Z",
+          "wordCount": 4186,
+          "title": "Wireshark 4.0.0",
+          "imageUrl": "https://tweakers.net/i/-mGZkrA67kIuNuhlosBgSE7EvLI=/134x134/filters:strip_exif()/i/2004675338.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201940",
+          "author": "Daan van Monsjou",
+          "description": "Marcin Iwiński, medeoprichter van The Witcher- en Cyberpunk-ontwikkelaar CD Projekt, stapt voor het einde van dit jaar op als mede-ceo van dat bedrijf. Iwiński deelde die positie met Adam Kiciński. De medeoprichter blijft CD Projekts bestuur ondersteunen.",
+          "link": "https://tweakers.net/nieuws/201940/cd-projekt-medeoprichter-marcin-iwinski-legt-gedeelde-ceo-positie-neer.html",
+          "publishedOn": "2022-10-05T11:44:47.000Z",
+          "wordCount": null,
+          "title": "CD Projekt-medeoprichter Marcin Iwiński legt gedeelde ceo-positie neer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201924",
+          "author": "Joris Jansen",
+          "description": "De Amerikaanse ruimtevaartorganisatie NASA heeft vier van de eerste beelden van de James Webb-ruimtetelescoop samengevoegd met dezelfde beelden van röntgentelescoop Chandra. Daarmee is bewerkte infrarooddata gecombineerd met data uit het röntgendeel van het lichtspectrum.",
+          "link": "https://tweakers.net/nieuws/201924/nasa-voegt-james-webb-infrarooddata-en-rontgendata-van-chandra-telescoop-samen.html",
+          "publishedOn": "2022-10-05T11:42:45.000Z",
+          "wordCount": null,
+          "title": "NASA voegt James Webb-infrarooddata en röntgendata van Chandra-telescoop samen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201936",
+          "author": "Yannick Spinner",
+          "description": "Het duurde volgens het NIPV te lang voordat er op 18 februari tijdens de zware storm Eunice een NL-Alert-bericht werd verzonden. Het 112-alarmnummer was gedurende de storm ruim anderhalf uur overbelast en de NL-Alert had dit sneller kunnen verhelpen of eventueel voorkomen.",
+          "link": "https://tweakers.net/nieuws/201936/onderzoek-nl-alert-kwam-te-laat-nadat-112-alarmcentrale-overbelast-raakte.html",
+          "publishedOn": "2022-10-05T11:25:26.000Z",
+          "wordCount": 6803,
+          "title": "Onderzoek: NL-Alert kwam te laat nadat 112-alarmcentrale overbelast raakte",
+          "imageUrl": "https://tweakers.net/i/8QGMHJKFNS3BeSko1JccscaGXc0=/fit-in/134x134/filters:strip_exif()/i/1314688178.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/downloads/61922",
+          "author": "Bart van Klaveren",
+          "description": "Versie 10.52 van Total Commander is in ontwikkeling en hiervan is nu de eerste release candidate verschenen. Dit programma kan als vervanging voor Windows Verkenner worden gebruikt. Doordat het beeld in tweeën is gesplitst, is het eenvoudig om bestanden te kopiëren, maar het programma kan veel meer. Zo zijn er diverse manieren om bestanden aan te passen, zijn een ingebouwde ftp-client en een multirename-tool aanwezig, en is er ondersteuning voor een groot aantal compressieformaten. Verder kan de functionaliteit met plug-ins worden uitgebreid. Versie 10.52 is een zogenaamde bugfix-release die voornamelijk kleine problemen verhelpt, maar ook enkele nieuwe mogelijkheden toevoegt. Added:",
+          "link": "https://tweakers.net/downloads/61922/total-commander-1052-rc1.html",
+          "publishedOn": "2022-10-05T11:07:21.000Z",
+          "wordCount": null,
+          "title": "Total Commander 10.52 RC1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201942",
+          "author": "Arnoud Wokke",
+          "description": "Sociaal medium Instagram krijgt op meer plekken advertenties. Dat heeft moederbedrijf Meta bekendgemaakt. Onder meer in korte video's, ofwel Reels, en op profielpagina's van gebruikers komen nieuwe soorten advertenties te staan.",
+          "link": "https://tweakers.net/nieuws/201942/instagram-krijgt-op-meer-plekken-advertenties.html",
+          "publishedOn": "2022-10-05T10:18:04.000Z",
+          "wordCount": 5037,
+          "title": "Instagram krijgt op meer plekken advertenties",
+          "imageUrl": "https://tweakers.net/i/Y-fHRNPWDZkQj5ultriIsHZAhT0=/134x134/filters:strip_exif()/i/2004609018.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/downloads/61924",
+          "author": "Bart van Klaveren",
+          "description": "Locktime Software heeft versie 4.1.14.0 van NetLimiter uitgebracht. Met dit programma kan al het in- en uitgaande netwerk- en internetverkeer in de gaten worden gehouden. Daarnaast kan ook per applicatie worden aangegeven of het met het Internet verbonden mag worden, de maximaal te gebruiken bandbreedte en kan er ook een quotum worden gezet. Een standaardlicentie kost twintig dollar, de pro-versie kost tien dollar meer. De changelog voor deze uitgave ziet er als volgt uit: NetLimiter 4.1.14.0",
+          "link": "https://tweakers.net/downloads/61924/netlimiter-41140.html",
+          "publishedOn": "2022-10-05T10:06:39.000Z",
+          "wordCount": null,
+          "title": "NetLimiter 4.1.14.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201934",
+          "author": "Yannick Spinner",
+          "description": "Er zit voortaan 'ten minste een jaar' tussen de release van games voor PlayStation-consoles en een eventuele port naar de pc. Dit geldt niet voor liveservice- games; dergelijke spellen moeten gelijktijdig op alle platformen uitkomen.",
+          "link": "https://tweakers.net/nieuws/201934/pc-ports-van-playstation-games-komen-op-zijn-vroegst-een-jaar-na-ps-release-uit.html",
+          "publishedOn": "2022-10-05T10:03:02.000Z",
+          "wordCount": 7371,
+          "title": "Pc-ports van PlayStation-games komen op zijn vroegst een jaar na PS-release uit",
+          "imageUrl": "https://tweakers.net/i/gLXhPbhOJvknypb1GHvWyODZLQ0=/134x134/filters:strip_icc():strip_exif()/i/2005317662.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201938",
+          "author": "Arnoud Wokke",
+          "description": "De Pixel Tablet lijkt een functie te krijgen om te dienen als hub voor smarthome-apparatuur. Dat blijkt uit screenshots van de nieuwe Home-app die later dit jaar moet uitkomen. Die lekte uit en staat inmiddels openbaar online.",
+          "link": "https://tweakers.net/nieuws/201938/nieuwe-google-home-app-toont-smarthomehub-functie-voor-pixel-tablet.html",
+          "publishedOn": "2022-10-05T10:00:12.000Z",
+          "wordCount": null,
+          "title": "Nieuwe Google Home-app toont smarthomehub-functie voor Pixel Tablet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61920",
+          "author": "Bart van Klaveren",
+          "description": "De ontwikkelaars achter KiCad hebben een nieuwe versie uitgebracht. KiCad is een verzameling opensourceprogramma's waarmee elektronische schema's en printplaatlay-outs ontworpen kunnen worden. Verder kan het een bill of materials, Gerber-bestanden en een 3d-weergave van de pcb en de componenten maken. KiCad beschikt over een uitgebreide bibliotheek van componenten, inclusief het symbool, voetprint en 3d-modellen. Ook een Spice-simulator ontbreekt niet. De changelog voor deze uitgave kan hieronder worden gevonden. General",
+          "link": "https://tweakers.net/downloads/61920/kicad-608.html",
+          "publishedOn": "2022-10-05T09:00:00.000Z",
+          "wordCount": null,
+          "title": "KiCad 6.0.8",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201930",
+          "author": "Yannick Spinner",
+          "description": "De Connectivity Standards Alliance heeft de specificaties voor de Matter 1.0-standaard uitgebracht. Fabrikanten kunnen vanaf nu hun producten laten certificeren op basis van het Matter-protocol om connectiviteit tussen iot-apparaten te vergemakkelijken.",
+          "link": "https://tweakers.net/nieuws/201930/connectivity-standards-alliance-brengt-smarthomestandaard-matter-10-uit.html",
+          "publishedOn": "2022-10-05T08:27:35.000Z",
+          "wordCount": null,
+          "title": "Connectivity Standards Alliance brengt smarthomestandaard Matter 1.0 uit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/reviews/10454",
+          "author": "Willem de Moor",
+          "description": "We vergelijken de ASUS ProArt PA32DC en de LG 32EP950. Beide monitors hebben hetzelfde oledpaneel van 32\". Kan de ProArt zijn veel hogere prijs rechtvaardigen?",
+          "link": "https://tweakers.net/reviews/10454/asus-proart-pa32dc-luxe-oled-met-ingebouwde-kalibratie.html",
+          "publishedOn": "2022-10-05T08:15:00.000Z",
+          "wordCount": null,
+          "title": "ASUS ProArt PA32DC - Luxe oled met ingebouwde kalibratie",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201932",
+          "author": "Joris Jansen",
+          "description": "Disney heeft wereldwijd een native Disney+-app voor de PlayStation 5 uitgebracht. De belangrijkste toevoeging die daarmee gepaard gaat, is de ondersteuning van 4k en high dynamic range.",
+          "link": "https://tweakers.net/nieuws/201932/disney+-ondersteunt-4k-en-hdr-op-playstation-5-in-nieuwe-native-app.html",
+          "publishedOn": "2022-10-05T07:52:56.000Z",
+          "wordCount": null,
+          "title": "Disney+ ondersteunt 4k en hdr op PlayStation 5 in nieuwe native app",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201922",
+          "author": "Joris Jansen",
+          "description": "Dinsdag kwam Overwatch 2 officieel uit, maar de release wordt gehinderd door ddos-aanvallen. Spelers klaagden over enorm lange wachtrijen om in te loggen en verbindingsproblemen. De problemen zijn nog niet voorbij, mede doordat er sprake is van een tweede ddos-aanval.",
+          "link": "https://tweakers.net/nieuws/201922/overwatch-2-release-wordt-geplaagd-door-ddos-aanvallen.html",
+          "publishedOn": "2022-10-05T06:58:38.000Z",
+          "wordCount": null,
+          "title": "Overwatch 2-release wordt geplaagd door ddos-aanvallen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61910",
+          "author": "Bart van Klaveren",
+          "description": "Versie 24.0.1 van Text Editor Pro is uitgekomen. Deze gratis, kleine en eenvoudige teksteditor heeft uitgebreide mogelijkheden, die vooral voor softwareontwikkelaars interessant zijn. Zo zijn er syntax-highlighting voor meer dan vijftig script- en programmeertalen, macro's en verticale selectieblokken, en kan het bestanden vergelijken. Het programma wordt actief ontwikkeld en regelmatig verschijnen er nieuwe versies met kleine verbeteringen. In deze uitgave zijn de vertalingen bijgewerkt en enkele kleine problemen verholpen: Changes in version 24.0.1:",
+          "link": "https://tweakers.net/downloads/61910/text-editor-pro-2401.html",
+          "publishedOn": "2022-10-05T06:52:23.000Z",
+          "wordCount": null,
+          "title": "Text Editor Pro 24.0.1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201926",
+          "author": "Joris Jansen",
+          "description": "Rob Jetten, de Nederlandse klimaat- en energieminister, zegt te gaan ingrijpen op het stroomnet. Zo gaat hij vaker de vergunningstrajecten overnemen van lagere overheden. De minister erkent dat het kabinet in de vorige jaren meer had moeten doen om het elektriciteitsnet uit te breiden.",
+          "link": "https://tweakers.net/nieuws/201926/nederlandse-energieminister-hadden-meer-moeten-doen-om-stroomnet-uit-te-breiden.html",
+          "publishedOn": "2022-10-05T06:14:51.000Z",
+          "wordCount": null,
+          "title": "Nederlandse energieminister: hadden meer moeten doen om stroomnet uit te breiden",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61914",
+          "author": "Bart van Klaveren",
+          "description": "AMD heeft een nieuwe versie van zijn Radeon Software Adrenalin Edition 2020-drivers uitgebracht. De drivers zijn alleen geschikt voor de RX 400 en hoger. De drivers worden alleen nog voor 10 en hoger aangeboden. Windows 7 en 8 worden nu als legacy aangeduid. Verder zijn er ook geen 32bit-drivers meer beschikbaar. In versie 22.10.1 treffen we onder meer ondersteuning voor het spel Overwatch 2 aan en zijn er enkele problemen verholpen: Highlights",
+          "link": "https://tweakers.net/downloads/61914/amd-radeon-software-adrenalin-edition-22101.html",
+          "publishedOn": "2022-10-05T05:39:46.000Z",
+          "wordCount": null,
+          "title": "AMD Radeon Software Adrenalin Edition 22.10.1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/201920",
+          "author": "Joris Jansen",
+          "description": "De Nederlandse regeringspartij ChristenUnie gaat woensdag pleiten voor de invoer van een belasting voor webbestellingen. Dit plan lijkt te worden toegespitst op internetbestellingen door consumenten. De partij wil hiermee het mkb steunen en de CO2-uitstoot terugdringen.",
+          "link": "https://tweakers.net/nieuws/201920/christenunie-pleit-voor-heffen-belasting-op-thuisbezorgde-pakketjes.html",
+          "publishedOn": "2022-10-05T05:38:48.000Z",
+          "wordCount": null,
+          "title": "ChristenUnie pleit voor heffen belasting op thuisbezorgde pakketjes",
+          "imageUrl": null
+        },
+        {
           "id": "https://tweakers.net/downloads/61918",
           "author": "Bart van Klaveren",
           "description": "Astonsoft heeft versie 11.1.5 van EssentialPIM uitgebracht. Deze personal information manager maakt het mogelijk om afspraken bij te houden, een adresboek te beheren en e-mails te versturen en ontvangen. Het programma is in diverse talen, waaronder het Nederlands, te gebruiken. EssentialPIM is beschikbaar in een standaard- en een pro-uitvoering. De eerste is gratis, maar heeft minder functies. Zo kan er niet met Outlook of de clouddiensten van bijvoorbeeld Google, Apple of Dropbox worden gesynchroniseerd. Een compleet overzicht van de onderlinge verschillen is op deze pagina te vinden. De changelog voor deze uitgave ziet er als volgt uit: New in EssentialPIM 11.1.5",
@@ -1418,6 +1688,196 @@
       "feedUrl": "https://nl.pepper.com/rss/overzicht%20van%20de%20populairste%20groepen",
       "siteUrl": "https://nl.pepper.com",
       "articles": [
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/eur99-voor-de-phillips-koptelefoon-fidelio-x3-x300-251203",
+          "author": null,
+          "description": "€99 - MediaMarkt\nBij Mediamarkt is de Phillips Fidelio X3/00 nu voor €99 in de aanbieding. €30 lager dan recente aanbiedingen en de laagste aanbieding sinds November 2020. Ook bijna €76 lager dan de volgende winkel in de PW.\nhttps://www.mediamarkt.nl/nl/product/_philips-x3-00-1676604.html\nTweakers.net Pricewatch:\nhttps://tweakers.net/pricewatch/1602982/philips-x3-zwart.html",
+          "link": "https://nl.pepper.com/aanbiedingen/eur99-voor-de-phillips-koptelefoon-fidelio-x3-x300-251203",
+          "publishedOn": "2022-10-05T21:41:24.000Z",
+          "wordCount": 1181,
+          "title": "€99 voor de Phillips Koptelefoon Fidelio X3 , X3/00",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/logitech-mx-mechanical-251202",
+          "author": null,
+          "description": "€122 - MediaMarkt\nDe Logitech MX Mechanical is een comfortabel toetsenbord waarmee je buitengewoon precies werkt. Hij is voorzien van vlakke, mechanische toetsen met de keuze uit 3 schakelaartypes, zodat ze altijd de juiste feedback leveren per toetsaanslag. Dankzij de tweekleurige keycaps oriënteer je je nog gemakkelijker tijdens het werken. Daarnaast is dit MX Mechanical-toetsenbord uitgerust met een geïntegreerd numeriek toetsenbord en heeft hij een ergonomisch ontwerp. Verder is het toetsenbord geschikt voor verbinding met meerdere apparaten/besturingssystemen en zijn de toetsen verlicht. De verlichting wordt automatisch aangepast aan de hoeveelheid licht in jouw omgeving.\nBonus:\nJe ontvangt 2 maanden Adobe Creative Cloud Photography t.w.v. € 24.- of 1 maand Adobe Creative Cloud All Apps t.w.v. € 58.- via Logitech. Geldig actieperiode 30 september 2022 t/m 31 december 2022",
+          "link": "https://nl.pepper.com/aanbiedingen/logitech-mx-mechanical-251202",
+          "publishedOn": "2022-10-05T21:38:04.000Z",
+          "wordCount": 1356,
+          "title": "LOGITECH MX Mechanical (laagste prijs ooit)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/lego-vespa-125-10298-251200",
+          "author": null,
+          "description": "€74,99 - Amazon.nl\nDompel je onder in een mindful bouwproject met stijl met deze LEGO® Vespa 125 modelkit voor volwassenen. Deze scooter, geïnspireerd op de klassieke Vespa Piaggio uit de jaren 1960, heeft een pastelblauwe kleur – een erg zeldzame LEGO kleur die bouwfans zeker zal aanspreken.\n\nGoeie prijs",
+          "link": "https://nl.pepper.com/aanbiedingen/lego-vespa-125-10298-251200",
+          "publishedOn": "2022-10-05T20:19:30.000Z",
+          "wordCount": 1170,
+          "title": "LEGO Vespa 125 (10298)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/fd-weekend-6-weken-lang-voor-eur6-stopt-automatisch-251199",
+          "author": null,
+          "description": "€6\nMeestal is het FD vrij duur, zelfs met acties, maar dit is wel leuk als je in het weekend niks te doen hebt. Bij deze deal betaal je 6 euro, en krijg je 6 weken de weekend editie en toegang tot 10 artikelen per maand op de site. Normaal kost het weekend abonnement 22,50 per maand, of 235,- per jaar.\nPapieren krant (in de bus):\n\nOp zaterdag de weekendkrant + magazine FD Persoonlijk\n\nDigitaal:\n\nFD Weekend + magazine FD Persoonlijk\n10 artikelen per maand op FD.nl en in de FD App\nDagelijks een update van het belangrijkste nieuws per e-mail (optioneel)",
+          "link": "https://nl.pepper.com/aanbiedingen/fd-weekend-6-weken-lang-voor-eur6-stopt-automatisch-251199",
+          "publishedOn": "2022-10-05T19:55:29.000Z",
+          "wordCount": 1215,
+          "title": "FD Weekend 6 weken lang voor €6,- (stopt automatisch)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/asus-tuf-gaming-rx-6900-xt-oc-16g-videokaart-251198",
+          "author": null,
+          "description": "€739,95 - Azerty\nLaagste prijs tot nu toe op pricewatch. Laagste prijs elders is bij Max ICT, maar niet iedereen is te spreken over Max ICT.\n\nDe TUF GAMING Radeon RX 6900 XT is een hardnekkig beest met een sterke metalen buitenkant, super-efficiënte koeling en componenten die een verbeterd uithoudingsvermogen bieden. Een volledig metalen omhulsel herbergt drie krachtige axiaal-tech ventilatoren met dubbele kogellagers en extra bladen. Onder het exoskelet houdt een dik koellichaam de thermiek onder controle en TUF-componenten, geselecteerd voor maximale duurzaamheid en prestaties, houden de kaart voor op de verpakking. U vroeg om een gemene machine... deze is klaar voor actie.",
+          "link": "https://nl.pepper.com/aanbiedingen/asus-tuf-gaming-rx-6900-xt-oc-16g-videokaart-251198",
+          "publishedOn": "2022-10-05T19:09:25.000Z",
+          "wordCount": 1389,
+          "title": "Asus TUF Gaming RX 6900 XT OC 16G - Videokaart",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/asus-tuf-gaming-radeon-rx-6800-xt-251197",
+          "author": null,
+          "description": "€675,90 - ASUS\nLaagste prijs elders: \n\nHet Axial-tech ventilatorontwerp is uitgebreid met meer ventilatorbladen en een nieuw rotatieschema.\nDubbele ventilatorkogellagers kunnen tot twee keer zo lang meegaan als glijlagerontwerpen.\nEen volledig aluminium omhulsel, een versterkt frameen een metalen achterplaat verbeteren de duurzaamheid.\nDe MaxContact-warmteverdeler heeft een superplat oppervlak voor verbeterde warmteoverdracht.\nEen 144-uurs validatieprogramma onderwerpt kaarten aan een reeks strenge tests om compatibiliteit met de nieuwste games te waarborgen.\nEen geventileerde achterplaat voorkomt dat warme lucht opnieuw door de koelarray wordt gecirculeerd.\nGPU Tweak II biedt intuïtieve tweaking van prestaties, thermische regelaars en systeembewaking.\n\nHDMI uit: 1 x\nDisplayPort uit: 3 x\nKleur product: Zwart\nVideogeheugen: 16 GB\nLengte: 320 mm\nBreedte: 140 mm\nHoogte: 58 mm\nMerk: Asus\nGraphics Engine: Radeon RX 6800 XT\nStream processors: 4608\nGeheugen snelheid: 16000 MHz\nDirectX versie: 12.0\nOpenGL versie: 4.6\nType koeling: Luchtkoeling\nStroomaansluiting: 2x 8-pin\nGeheugen interface: 256 bit\nVGA Geheugen type: GDDR6\nPCI Express versie: PCI-E 4.0\nGPU snelheid (max): 2340 MHz",
+          "link": "https://nl.pepper.com/aanbiedingen/asus-tuf-gaming-radeon-rx-6800-xt-251197",
+          "publishedOn": "2022-10-05T19:04:17.000Z",
+          "wordCount": 1452,
+          "title": "ASUS TUF GAMING Radeon RX 6800 XT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/levis-sweater-251196",
+          "author": null,
+          "description": "€24,50 - De Bijenkorf\nGrijs\nMaat 62 t/m 98",
+          "link": "https://nl.pepper.com/aanbiedingen/levis-sweater-251196",
+          "publishedOn": "2022-10-05T18:32:59.000Z",
+          "wordCount": 1065,
+          "title": "Levi’s sweater baby",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/levis-longsleeve-251195",
+          "author": null,
+          "description": "€14 - De Bijenkorf\nLevi’s Longsleeve wit of blauw\nVanaf maat 62 t/m 98",
+          "link": "https://nl.pepper.com/aanbiedingen/levis-longsleeve-251195",
+          "publishedOn": "2022-10-05T18:32:51.000Z",
+          "wordCount": 1038,
+          "title": "Levi’s Longsleeve",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/meereisretour-abonnementhouders-oktober-at-ns-251194",
+          "author": null,
+          "description": "€8,95 - Nederlandse Spoorwegen\nGa samen op pad met de trein en neem nu voordelig iemand mee. Het Meereisretour van € 8,95 is een aanbieding speciaal voor abonnementhouders van NS. Het Meereisretour is verkrijgbaar als e-ticket. Print deze op papier of sla 'm op in de NS app.\n\n                        Voorwaarden aanbieding\nVanaf elk treinstation in Nederland naar de gekozen bestemming en weer terug (retour). Bij bestelling geef je het vertrek- en bestemmingsstation aan.\nHet Meereisretour is enkel als e-ticket verkrijgbaar.\nHet Meereisretour is te koop voor reizen tot en met  31 oktober 2022.\nDeze aanbieding moet gecombineerd worden met een NS-abonnement, Keuzedag of Studentenreisproduct. Het is niet geldig in combinatie met andere actiekaartjes, aanbiedingen uit de Spoordeelwinkel en het NS Groepsticket daluren.\nEen abonnementhouder mag maximaal 3 personen meenemen met een Meereisretour.\nJe kunt zoveel Meereisretouren kopen als je wilt; er is geen maximum.\nDe korting is niet voor geld inwisselbaar.\n\nVoorwaarden Meereisretour\nGeldig in de daluren: maandag t/m vrijdag tussen 9.00 - 16.00 uur en tusen 18.30 - 6.30 uur en in de weekenden en feestdagen de hele dag. \nHet is met een Meereisretour niet toegestaan om in de spits te reizen, ook niet wanneer de reis vóór de spits is begonnen.\nGeldig in binnenlandse treinen, voor het reizen met de Intercity direct en de ICE-treinen geldt een toeslagverplichting. Niet geldig in Thalys, Eurostar en Nightjet. \n\nOp het gebruik van een e-ticket zijn de Voorwaarden E-ticket van toepassing.",
+          "link": "https://nl.pepper.com/aanbiedingen/meereisretour-abonnementhouders-oktober-at-ns-251194",
+          "publishedOn": "2022-10-05T17:33:41.000Z",
+          "wordCount": 1525,
+          "title": "Meereisretour abonnementhouders oktober @ NS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/ps5-dual-sense-251193",
+          "author": null,
+          "description": "€54,99 - DGMoutlet\nSony PS5 DualSense draadloze controller - Midnight Black\nLichte beschadiging \nNiet aan het artikel , enkel de verpakking.\nOok in de Kleur wit voor €54,99\n-->  dgmoutlet.nl/sony-ps5-dualsense-draadloze-controller-35313\nOok in de Kleur Cosmic Red €56,99\n-->  dgmoutlet.nl/sony-ps5-dualsense-draadloze-controller-cosmic-red-48203\nGratis verzending vanaf € 50,-*\nVoor 23:59 besteld, volgende werkdag in huis\n14 dagen bedenktijd",
+          "link": "https://nl.pepper.com/aanbiedingen/ps5-dual-sense-251193",
+          "publishedOn": "2022-10-05T17:27:44.000Z",
+          "wordCount": 1293,
+          "title": "Sony PS5 DualSense draadloze controller - Midnight Black (ook in het wit & Cosmic Red)(zie beschrijving)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/pomms-gouda-film-friet-deal-950-251192",
+          "author": null,
+          "description": "€9,50\nBij Pomms' Gouda is een film & frietdeal te krijgen: een heerlijk frietje met mayo / ketchup en een filmticket voor € 9,50. \n\nGeniet bij Pomms' Gouda van een lekker frietje en kom aansluitend of een andere keer naar de film met deze deal! Ook leuk om cadeau te doen. \nVoorwaarden bij deze actie:\n\nDe filmvoucher kan ingeleverd worden voor alle reguliere films, iedere dag van de week. De filmvoucher is niet geldig bij specials & events.\nAls je naar een film gaat in 3D of Dolby Atmos komt er nog toeslag bij. Deze moet je bij de kassa nog afrekenen. \nDe filmvoucher kan tot 1/2 jaar na uitgifte ingeleverd worden.\nDeze actie is niet inwisselbaar voor contanten of geldig in combinatie met andere acties en of kortingen.\nDeze actie is alleen verkrijgbaar bij Pomms' Gouda en de filmvoucher is alleen inleverbaar bij Cinema Gouda.\nJe kunt de filmvoucher niet online verzilveren. Heb je een filmvoucher van Pomms' Gouda ontvangen? Reserveer dan via 0182-527773.",
+          "link": "https://nl.pepper.com/aanbiedingen/pomms-gouda-film-friet-deal-950-251192",
+          "publishedOn": "2022-10-05T17:27:03.000Z",
+          "wordCount": 1394,
+          "title": "[lokaal] Pomms' Gouda Film & Friet deal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/portret-van-je-huisdier-voor-eur2514-incl-verzending-at-petsportrait-251188",
+          "author": null,
+          "description": "€25,14\nPortret van je huisdier nu voor €25,14 bij PetsPortrait na toepassing van de kortingscode 'DD80'. Met deze code betaal je ook geen verzendkosten. Laagste prijs elders: €34,95\nWas een tijdje geleden nog in de aanbieding voor €34,98.\nHet concept van de website is als volgt: Je stuurt een foto van je huisdier op waarna zij beoordelen of de foto geschikt is voor een portret in je stijl naar keuze en vervolgens maken zij hierop een ontwerp. Vervolgens ontvang je een terugkoppeling waarna je een akkoord kan geven -of niet- met definitieve ontwerp. Je kan het ontwerp altijd laten aanpassen, dit zou volgens de website zelfs onbeperkt zijn. \nDe stijlen naar keuze:\n\nPetsPortrait Waterverf Huisdieren Portret \nPetsPortrait Scribble Huisdieren Portret \nPetsPortrait It's Me Huisdieren Portret \nPetsPortrait Renaissance Huisdieren Portret \nPetsPortrait Waterverf Familie & Kids Portret \nPetsPortrait Duo Waterverf Portret \n\n\nNB: De korting kan toegepast worden wanneer je hebt geklikt op ‘’bestelling afronden’’ in de winkelmand.\nBetaalmogelijkheden:\n\niDEAL\nBancontact\nCreditcard\nPayPal\n\nVerzendkosten:\n\nDe verzendkosten zijn gratis na toepassing van de code 'DD80'",
+          "link": "https://nl.pepper.com/aanbiedingen/portret-van-je-huisdier-voor-eur2514-incl-verzending-at-petsportrait-251188",
+          "publishedOn": "2022-10-05T17:04:00.000Z",
+          "wordCount": 1453,
+          "title": "Portret van je huisdier voor €25,14 (incl. verzending) @ PetsPortrait",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/artillery-sidewinder-x2-3d-printer-voor-eur269-at-geekbuying-251189",
+          "author": null,
+          "description": "€269 - GeekBuying\nGebruik de code NNNArtilleryX23D om op deze prijs uit te komen. Eerder in de aanbieding geweest voor €299 en was toen vrij populair.\nLaagste prijs elders: €299 (met coupon)\nKenmerken:\n\nArtillery Sidewinder X2 3D Printer\nVoor 95% gebouwd bij binnenkomst\n\nBouwruimte van 300 x 300 x 400 mm\nAutomatische nivellering\nMaximale printsnelheid 150 mm/s\nGesynchroniseerd ontwerp met twee Z-assen\nHeatbed: 110°C in 2 minuten\nGehard glazen platform\nFilamentsensor\nHerstart printen\nGeïntegreerd kabelontwerp\nTitan-extruder en modulaire nozzle\nKleurentouchscreen\n\nBetaalmogelijkheden\n\nPayPal\nCreditcard\nKlarna\niDeal\n\nVerzending\n\nGratis verzending uit Europa",
+          "link": "https://nl.pepper.com/aanbiedingen/artillery-sidewinder-x2-3d-printer-voor-eur269-at-geekbuying-251189",
+          "publishedOn": "2022-10-05T16:03:40.000Z",
+          "wordCount": 1252,
+          "title": "Artillery Sidewinder X2 3D Printer voor €269 @ GeekBuying",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/kortingscode/10-korting-bij-hollandnorwaylines-251187",
+          "author": null,
+          "description": "Conditions:\n- 10% early bird discount with use of promotional code SPECIAL23  \n- Promotional code valid until the 31st of October 2022 \n- Only valid for sailings in 2023 \n- Only valid for sailings with vehicle\nTip: Je kunt voor €60-70 extra Flex tickets nemen die je tot 14 dagen voor vertrek kunt wijzigen en annuleren",
+          "link": "https://nl.pepper.com/kortingscode/10-korting-bij-hollandnorwaylines-251187",
+          "publishedOn": "2022-10-05T15:46:41.000Z",
+          "wordCount": 1113,
+          "title": "10% Korting bij HollandNorwayLines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/bolcom-vtech-was-leer-zeeppompje-eur665-251186",
+          "author": null,
+          "description": "€6,65 - Bol.com\nBij bol.com;\nVTech Was & Leer Zeeppompje\nTijd om je handjes te wassen met het Was & Leer Zeeppompje van VTech®!\n€6,65\nGratis verzending vanaf €20 of met select.\nAnders €2,99 verzendkosten.\nElders;\n€15,99 wehkamp\nProductbeschrijving\nVTech Was & Leer Zeeppompje\nTijd om de handjes te wassen! Druk op het pompje en kijk naar de mooie lichtprojectie en luister naar vrolijke reacties. De gezongen liedjes moedigen aan om de handjes te wassen. Met één druk op het pompje kun je genieten van een mooie lichtprojectie! Druk op de toetsen en maak kennis met cijfers, kleuren en muziek.\nBubbels hier, bubbels daar, kom was je handjes maar!\nDruk op het pompje en kijk naar de mooie lichtprojectie\nDe gezongen liedjes moedigen aan om de handjes te wassen\n3 toetsen om cijfers, kleuren en muziek te ontdekken\nDruk op Toeter de olifant en luister naar de vrolijke reacties en grappige geluiden\n15 melodietjes en 2 gezongen liedjes\nNederlands gesproken\nAutomatische uitschakeling",
+          "link": "https://nl.pepper.com/aanbiedingen/bolcom-vtech-was-leer-zeeppompje-eur665-251186",
+          "publishedOn": "2022-10-05T15:36:39.000Z",
+          "wordCount": 1438,
+          "title": "[bol.com] VTech Was & Leer Zeeppompje €6,65",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/kamado-joe-classic-3-251183",
+          "author": null,
+          "description": "€1.100 - Amazon.de\nPrachtige Kamado - prijs lijkt alleen to good to be true - maar het is een verkoper met goede recensies en verkoop via Amazon.de.",
+          "link": "https://nl.pepper.com/aanbiedingen/kamado-joe-classic-3-251183",
+          "publishedOn": "2022-10-05T15:04:25.000Z",
+          "wordCount": 1150,
+          "title": "Kamado Joe Classic 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/diverse-items-eur10-ps-oa-ben-sherman-sneakers-251184",
+          "author": null,
+          "description": "€10 - Sport-Korting\nDiverse items voor maar €10 per stuk bij Sport-Korting, keuze uit 20 verschillende items: van sneakers tot kleding en diverse accessoires.\nTIP: bij inschrijving voor de nieuwsbrief krijg je een unieke code die €5 extra korting geeft bij besteding vanaf €60\n| zoals Ben Sherman Gino sneakers - elders voor €35,95 (ex verzending)\n\n| of Criminal Damage heren hoodie - elders £31,99 = ca €36,51\n\n| ook leuk: Diadora Simple Run kids sneakers - hier voor €34,90\n\nVerzending & retourneren\n\nGratis thuisbezorgd bij besteding vanaf €100 - anders betaal je €5,95\n\nRetourneren is voor eigen rekening\ntip: Betaal met PayPal want zo kun je de eventuele retourkosten terugkrijgen. Dit is een service van PayPal als je een gratis PayPal account hebt, met PayPal betaalt en voor de retourservice bent aangemeld (t/m 26 november, hierna vervalt deze service van PayPal)\n\n\n\nBetaalopties\n\niDeal\nPayPal [aanrader: zie boven]\ncreditcard",
+          "link": "https://nl.pepper.com/aanbiedingen/diverse-items-eur10-ps-oa-ben-sherman-sneakers-251184",
+          "publishedOn": "2022-10-05T14:57:58.000Z",
+          "wordCount": 1485,
+          "title": "Diverse items €10 p.s. - o.a. Ben Sherman sneakers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/dekbedovertrek-voor-peuter-of-kind-voor-eur10-was-eur1750-at-hema-251181",
+          "author": null,
+          "description": "€10 - HEMA\nDekbedovertrekken in de aanbieding bij HEMA. Keuze uit:\n\nPeuterdekbedovertrek 120x150cm \"katten\" van €17,50 voor €10\nKinderdekbedovertrek 140x200cm \"wit met stippen\" van €17,50 naar €10\n\nPeuterdekbedovertrek 120x150cm: \n\nEne kant met kattendesign, andere kant met stippen\nMet bijpassende kussensloop van 50x60cm\nMateriaal samenstelling: 70% katoen / 30% gerecycled katoen\nWasvoorschriften: machinewasbaar tot 60°C, wassen met gelijke kleuren, binnenstebuiten wassen en strijken\nDroogvoorschriften: geschikt voor drogen op een hoge temperatuur\nSoort instopstrook: flessenhals\n\nKinderdekbedovertrek 140x200:\n\nEne kant met stippen, andere kant effen wit\nMet bijpassende kussensloop van 60x70cm\nMateriaal samenstelling: 100% katoen\nWasvoorschriften: machinewasbaar tot 60°C, wassen met gelijke kleuren, binnenstebuiten wassen en strijken\nDroogvoorschriften: geschikt voor drogen op een hoge temperatuur\nStrijkvoorschriften: geschikt voor heet strijken\nSoort instopstrook: flessenhals\n\nBetaalmogelijkheden\n\nPayPal\ncreditcard\niDeal\nHEMA-cadeaukaart\nBetalen bij ophalen in de winkel\n\nVerzending & retourneren\n\nAfhalen in een HEMA-winkel naar keuze is gratis bij besteding vanaf €10\nGratis verzending boven de €25 - daaronder €3,95\nGratis retourneren binnen 30 dagen\nGratis online bestelling die thuisbezorgd is retourneren via ups",
+          "link": "https://nl.pepper.com/aanbiedingen/dekbedovertrek-voor-peuter-of-kind-voor-eur10-was-eur1750-at-hema-251181",
+          "publishedOn": "2022-10-05T14:19:31.000Z",
+          "wordCount": 1431,
+          "title": "Dekbedovertrek voor peuter of kind voor €10 (was €17,50) @ HEMA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/wibra-winkel-junior-kwartet-varen-vliegen-rijden-251180",
+          "author": null,
+          "description": "€3 - Wibra\nLokaal in Helmond? - Zojuist gekocht bij Wibra Helmond dit leuke kwartetspelletje, er lagen er nog genoeg. Leuk voor de feestdagen. Goedkoopste aanbieder online die ik kon vinden is Lobbes voor €5,99 (komen nog qel verzendkosten bij). \nOmschrijving: Wie verzamelt de meeste kwartetten bij elkaar in dit Voertuigen Weetjes Kwartet! Probeer zo goed mogelijk te onthouden wie welke kaarten in zijn bezit heeft, zodat jij aan de juiste persoon de goede kaarten kunt vragen om het spelletje Voertuigen Weetjes Kwartet te winnen.",
+          "link": "https://nl.pepper.com/aanbiedingen/wibra-winkel-junior-kwartet-varen-vliegen-rijden-251180",
+          "publishedOn": "2022-10-05T14:02:59.000Z",
+          "wordCount": 1215,
+          "title": "Wibra [winkel] - Junior Kwartet Varen Vliegen Rijden",
+          "imageUrl": null
+        },
         {
           "id": "https://nl.pepper.com/aanbiedingen/xiaomi-12t-pro-met-gratis-redmi-pad-early-bird-actie-251126",
           "author": null,
