@@ -12,6 +12,106 @@
       "siteUrl": "https://tweakers.net/",
       "articles": [
         {
+          "id": "https://tweakers.net/downloads/61982",
+          "author": "Bart van Klaveren",
+          "description": "Versie 8.9.0 van PeaZip is verschenen. Dit archiveringsprogramma wordt onder een opensourcelicentie beschikbaar gesteld, en downloads zijn beschikbaar voor Windows en Linux. Het programma wil zich van de concurrentie onderscheiden door zich te specialiseren in veiligheid. Het versleutelen van data is dan ook een van de voornaamste functies van het eigen pea-formaat. PeaZip kan 7z-, bz2-, gz-, paq/lpaq-, pea-, quad-, tar-, upx- en zip-bestanden creëren, en diverse bestandsformaten uitpakken, waaronder ace, arj, cab, deb, iso, lha, rar en rpm. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: PeaZip 8.9.0 release notes",
+          "link": "https://tweakers.net/downloads/61982/peazip-890.html",
+          "publishedOn": "2022-10-09T17:06:41.000Z",
+          "wordCount": null,
+          "title": "PeaZip 8.9.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61980",
+          "author": "Bart van Klaveren",
+          "description": "Shutter Encoder is een gratis programma waarmee videobestanden kunnen worden bewerkt en geconverteerd. Het heeft een uitgebreide lijst met mogelijkheden, te lang om hier op te noemen. De video onder dit artikel laat in het kort de belangrijkste zien. Het is beschikbaar voor Windows, macOS en Linux, en wordt actief ontwikkeld. Het toont geen advertenties, voegt geen watermerk toe en is ook in het Nederlands te gebruiken. De auteur leeft geheel van donaties. Zojuist is versie 16.4 beschikbaar gekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 16.4:",
+          "link": "https://tweakers.net/downloads/61980/shutter-encoder-164.html",
+          "publishedOn": "2022-10-09T15:58:17.000Z",
+          "wordCount": null,
+          "title": "Shutter Encoder 16.4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61978",
+          "author": "Bart van Klaveren",
+          "description": "TechSmith heeft versie 2022.1.2 van Snagit uitgebracht. Met dit programma, dat voor zowel Windows als macOS beschikbaar is, kunnen plaatjes, tekst, bewegende beelden en webpagina's worden afgevangen en bewerkt. Zo kunnen er effecten als perspectief, spotlight en magnify op worden losgelaten. Verder kunnen ter verduidelijking teksten, pijlen en cirkels worden aangebracht. De screenshots kunnen als afbeeldingen worden opgeslagen of direct in diverse programma's zoals Word en PowerPoint worden geïmporteerd. In deze uitgave is een probleem met het activeren van het programma verholpen. Bug Fixes",
+          "link": "https://tweakers.net/downloads/61978/snagit-202212.html",
+          "publishedOn": "2022-10-09T12:53:57.000Z",
+          "wordCount": null,
+          "title": "Snagit 2022.1.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/61976",
+          "author": "Bart van Klaveren",
+          "description": "Versie 1.22.0 van Syncthing is uitgekomen. Syncthing is een opensourceprogramma waarmee bestanden tussen twee computers kunnen worden gesynchroniseerd. Dit gebeurt zonder dat er een centrale server tussen zit, zoals dat wel het geval is bij opslagdiensten als bijvoorbeeld Dropbox, Google Drive, OneDrive en iCloud. De software is onder meer beschikbaar voor Windows, Linux, macOS en Android. Ook zijn er packages voor Synology en QNAP. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Enhancements:",
+          "link": "https://tweakers.net/downloads/61976/syncthing-1220.html",
+          "publishedOn": "2022-10-09T12:49:39.000Z",
+          "wordCount": 1939,
+          "title": "Syncthing 1.22.0",
+          "imageUrl": "https://tweakers.net/i/WDjf-51Z8vo1NEq5OwjXW5RmBW4=/134x134/filters:strip_exif()/i/2004908532.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202080",
+          "author": "Jay Stout",
+          "description": "Mozilla heeft versie 105.0.3 van Firefox uitgebracht. Deze update moet problemen verhelpen die waren ontstaan in combinatie met de antivirussoftware van Avast. Volgens een ontwikkelaar van Mozilla ervaarden duizenden Firefox-gebruikers problemen.",
+          "link": "https://tweakers.net/nieuws/202080/mozilla-brengt-update-firefox-uit-die-problemen-met-avast-moet-verhelpen.html",
+          "publishedOn": "2022-10-09T11:16:12.000Z",
+          "wordCount": 4911,
+          "title": "Mozilla brengt update Firefox uit die problemen met Avast moet verhelpen",
+          "imageUrl": "https://tweakers.net/i/GpQWYzS3iLx0xasXxAz5NS9L2pM=/134x134/filters:strip_exif()/i/2004634846.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202078",
+          "author": "Jay Stout",
+          "description": "De Amerikaanse autofabrikant Rivian roept in de VS ongeveer 13.000 wagens terug wegens een probleem in de stuurbehuizing van de R1T, R1S en EDV. Het probleem kan ervoor zorgen dat chauffeurs de controle over Rivian-voertuigen verliezen.",
+          "link": "https://tweakers.net/nieuws/202078/rivian-roept-13000-wagens-terug-wegens-probleem-in-stuurbehuizing.html",
+          "publishedOn": "2022-10-09T10:50:55.000Z",
+          "wordCount": null,
+          "title": "Rivian roept 13.000 wagens terug wegens probleem in stuurbehuizing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202076",
+          "author": "Jay Stout",
+          "description": "Spelers van Call of Duty: Modern Warfare II moeten hun telefoonnummer verplicht opgeven voor sms-verificatie als ze de game willen spelen. Dat blijkt uit een supportpagina van Blizzard. De verplichting gold eerder ook al voor nieuwe Overwatch 2-spelers.",
+          "link": "https://tweakers.net/nieuws/202076/blizzard-verplicht-sms-verificatie-bij-call-of-duty-modern-warfare-ii.html",
+          "publishedOn": "2022-10-09T09:32:48.000Z",
+          "wordCount": 12063,
+          "title": "Blizzard verplicht sms-verificatie bij Call of Duty: Modern Warfare II",
+          "imageUrl": "https://tweakers.net/i/6PZ4edUOcZLDVV1kaCVjub22feU=/134x134/filters:strip_icc():strip_exif()/i/2005127516.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202074",
+          "author": "Jay Stout",
+          "description": "Twitter is een pop-upmelding aan het uittesten die iOS-gebruikers moet aansporen om een Twitter-bericht te delen via het Twitter-platform nadat ze er eerder een screenshot van hebben gemaakt. Of de pop-upmelding uiteindelijk ook uitgerold zal worden naar alle gebruikers, is niet duidelijk.",
+          "link": "https://tweakers.net/nieuws/202074/twitter-spoort-gebruikers-aan-om-tweets-via-twitter-te-delen-na-nemen-screenshot.html",
+          "publishedOn": "2022-10-09T08:36:04.000Z",
+          "wordCount": 5725,
+          "title": "Twitter spoort gebruikers aan om tweets via Twitter te delen na nemen screenshot",
+          "imageUrl": "https://tweakers.net/i/NGHMrxBR6EckGXmSvBnOwLSCNLA=/134x134/filters:strip_exif()/i/2004618418.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202072",
+          "author": "Jay Stout",
+          "description": "De VS heeft exportbeperkingen uitgevaardigd waardoor Amerikaanse bedrijven die chips en/of chipproductieapparatuur willen exporteren naar China, een vergunning moeten aanvragen bij de overheid. Chips die met Amerikaanse tech worden gemaakt, vallen ook onder de beperkingen.",
+          "link": "https://tweakers.net/nieuws/202072/vs-legt-bredere-beperkingen-op-voor-chipexport-naar-chinese-bedrijven.html",
+          "publishedOn": "2022-10-09T07:49:44.000Z",
+          "wordCount": null,
+          "title": "VS legt bredere beperkingen op voor chipexport naar Chinese bedrijven",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/reviews/10496",
+          "author": "Hayte Hugo",
+          "description": "Het aantal elektrische auto's moet in de komende jaren toenemen, maar houdt de infrastructuur dat bij? In dit artikel kijken we naar de Europese laadpalenmarkt.",
+          "link": "https://tweakers.net/reviews/10496/hoeveel-laadpalen-heeft-de-eu-nodig-miljoenen-extra-laders-in-acht-jaar-tijd.html",
+          "publishedOn": "2022-10-09T04:00:00.000Z",
+          "wordCount": 2000,
+          "title": "[Plus] Hoeveel laadpalen heeft de EU nodig? - Miljoenen extra laders in acht jaar tijd",
+          "imageUrl": "https://tweakers.net/ext/i/2005394260.jpeg"
+        },
+        {
           "id": "https://tweakers.net/downloads/61974",
           "author": "Bart van Klaveren",
           "description": "Moritz Bunkus heeft versie 71 van MKVToolNix uitgebracht. Met dit opensourceprogramma kunnen matroska-bestanden bekeken, bewerkt en worden geconverteerd. Zo kunnen geluidssporen en ondertiteling worden toegevoegd, verwijderd of juist als standaard worden ingesteld. MKVToolNix is een verzameling afzonderlijke commandline-tools, maar er wordt ook een grafische gebruikersinterface meegeleverd. Downloads zijn beschikbaar voor Windows, macOS en diverse Linux-distributies. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New features and enhancements",
@@ -2398,6 +2498,206 @@
       "feedUrl": "https://nl.pepper.com/rss/overzicht%20van%20de%20populairste%20groepen",
       "siteUrl": "https://nl.pepper.com",
       "articles": [
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/gratis-robijn-stip-streep-wasmiddel-bij-aankoop-van-2-actieproducten-251534",
+          "author": null,
+          "description": "Kruidvat\nGratis Robijn Stip & Streep wasmiddel 720 ml bij aankoop van 2 actieproducten. Het is bij een gratis product noodzakelijk dat je zowel het gratis product, als het actieproduct, in je winkelmandje doet (dit gebeurt niet automatisch). De korting wordt vervolgens verrekend in je winkelmandje\nDe goedkoopste optie is 2x €2,29.",
+          "link": "https://nl.pepper.com/aanbiedingen/gratis-robijn-stip-streep-wasmiddel-bij-aankoop-van-2-actieproducten-251534",
+          "publishedOn": "2022-10-10T00:17:41.000Z",
+          "wordCount": 1233,
+          "title": "Gratis Robijn Stip & Streep wasmiddel bij aankoop van 2 actieproducten",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/2-big-americans-voor-4-eutjes-251532",
+          "author": null,
+          "description": "€4\nDit is teeeee goedkoop",
+          "link": "https://nl.pepper.com/aanbiedingen/2-big-americans-voor-4-eutjes-251532",
+          "publishedOn": "2022-10-09T23:13:08.000Z",
+          "wordCount": 1031,
+          "title": "2 big americans voor 4 eutjes!!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/kruidvat-online-5-stuks-andrelon-voor-eur10-gratis-robijn-wasmiddel-flessen-zie-omschrijving-251531",
+          "author": null,
+          "description": "€10 - Kruidvat\nNu online bij kruidvat 3 soorten andrelon 5 voor €10.\nPer 2 krijg je 1 fles gratis robijn wasmiddel;\nrobijn wasmiddel link\nVoeg de wasmiddel ook toe aan je winkelmandje.\nZo heb je 10 flessen andrelon shampoo en 5 flessen robijn wasmiddel voor €20!\n\n\nGratis verzending vanaf €50 of naar een kruidvat filiaal.\nAnders €3,99 verzendkosten.\nMinimaal bestelbedrag €15",
+          "link": "https://nl.pepper.com/aanbiedingen/kruidvat-online-5-stuks-andrelon-voor-eur10-gratis-robijn-wasmiddel-flessen-zie-omschrijving-251531",
+          "publishedOn": "2022-10-09T23:09:03.000Z",
+          "wordCount": 1277,
+          "title": "[kruidvat online] 5 stuks andrelon voor €10 + gratis robijn wasmiddel flessen! Zie omschrijving",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/kruidvat-online-speelgoed-2de-halve-prijs-251530",
+          "author": null,
+          "description": "Kruidvat\nNu bij de kruidvat online, speelgoed 2de halve prijs! Dit keer ook al het lego.\nGratis verzending vanaf €50 of naar een kruidvat filiaal.\nAnders €3,99 verzendkosten.\nMinimaal bestelbedrag €15\nSPEELGOED 2E HALVE PRIJS\n*Je hebt keuze uit onderstaand assortiment. Uitleg acties: 1+1 en 2+2 worden verrekend als 50% kassakorting, 2+1 als 33% en 2e halve prijs als 25%. Per combinatie kan de prijs verschillen. Het is bij acties noodzakelijk dat je het aantal producten dat je wilt ontvangen, in je winkelmandje doet. Bij bijv. 1+1 gratis voeg je dus beide artikelen toe (dit gebeurt niet automatisch). De korting wordt vervolgens verrekend in je winkelmandje.\nT/m 16 oktober.",
+          "link": "https://nl.pepper.com/aanbiedingen/kruidvat-online-speelgoed-2de-halve-prijs-251530",
+          "publishedOn": "2022-10-09T23:03:22.000Z",
+          "wordCount": 1321,
+          "title": "[kruidvat online] speelgoed 2de halve prijs!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/gratis-1-maand-espn-bij-aanschaf-van-1-of-2-producten-251528",
+          "author": null,
+          "description": "Kruidvat\nBij aanschaf van 1 of 2 producten van Always, Ambi Pur, Antikal, Aussie, Fixodent, Gillette, Head & Shoulders, Jolly, King C. Gillette, Oral-B, Swiffer, Pampers en/of Venus krijg je de volledige maand januari 2023 cadeau, inclusief 5 speelrondes van de Eredivisie.\nDe actie loopt van 10 oktober t/m 23 oktober 2022. Je kunt jouw activatiecode t/m 31 januari 2023 verzilveren.",
+          "link": "https://nl.pepper.com/aanbiedingen/gratis-1-maand-espn-bij-aanschaf-van-1-of-2-producten-251528",
+          "publishedOn": "2022-10-09T22:07:43.000Z",
+          "wordCount": 1197,
+          "title": "Gratis 1 maand ESPN Watch bij aanschaf van 1 of 2 producten",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/metabo-boormachines-oa-metabo-bs-18-l-251527",
+          "author": null,
+          "description": "€70,99 - Gereedschap Centrum\nDirect leverbaar is de Metabo BS 18 L 18V Li-Ion accu boor-/schroefmachine body voor €70,99 incl gratis verzending. Goedkoopste elders gevonden bij de Gamma voor €137. \nMocht je geen haast hebben zijn de volgende body’s erg goedkoop leverbaar rond 15-11.2022: \n€65,49: Metabo BS 18\nhttps://www.gereedschapcentrum.nl/metabo-bs-18-18v-li-ion-accu-boor-schroefmachine-body-in-metabox.html?\n€41,59: Metabo SB 18\nhttps://www.gereedschapcentrum.nl/metabo-sb-18-18v-li-ion-accu-klopboor-schroefmachine-body-in-metabox-602245840.html?",
+          "link": "https://nl.pepper.com/aanbiedingen/metabo-boormachines-oa-metabo-bs-18-l-251527",
+          "publishedOn": "2022-10-09T21:46:53.000Z",
+          "wordCount": 1192,
+          "title": "Metabo boormachines, o.a.: Metabo BS 18 L",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/urban-classics-heren-sweatshirt-basic-terry-crew-sweater-251523",
+          "author": null,
+          "description": "€13,79 - Amazon.nl\nUrban Classics Heren sweatshirt Basic Terry Crew Sweater\nKleur: grijs\nBeschikbaar in de maten: S t/m 5XL\nOver dit item\nBasic lange mouwen Crewneck trui voor mannen\nAangename pasvorm door lichte Terry-katoenen stof\nDe lichte trui heeft een sportieve ronde hals\nVerzending Amazon NL:\nGratis verzending naar afhaalpunt\nGratis verzending voor Prime-leden\nJe kan een gratis 30 dagen proefperiode op Prime nemen. Je kan je direct afmelden na aanmelden, en behoudt je voordelen gedurende die 30 dagen.\nGratis verzending boven de €20\nOnder de €20 betaal je naar NL (huis) €2,49 zonder prime",
+          "link": "https://nl.pepper.com/aanbiedingen/urban-classics-heren-sweatshirt-basic-terry-crew-sweater-251523",
+          "publishedOn": "2022-10-09T20:56:25.000Z",
+          "wordCount": 1302,
+          "title": "Urban Classics Heren sweatshirt Basic Terry Crew Sweater",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/72-blikjes-pepsi-max-cherry-251522",
+          "author": null,
+          "description": "€11,49 - Amazon.nl\nLet op! Wordt verkocht door een externe partij!\nInclusief de verzendkosten, komt het ongveer op €0,24 per blikje.",
+          "link": "https://nl.pepper.com/aanbiedingen/72-blikjes-pepsi-max-cherry-251522",
+          "publishedOn": "2022-10-09T20:50:50.000Z",
+          "wordCount": 1157,
+          "title": "72 blikjes Pepsi Max Cherry",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/jack-jones-dames-broek-jjxx-jxpoppy-regular-hw-pant-noos-251521",
+          "author": null,
+          "description": "€8,99 - Amazon.nl\nJACK & JONES dames Broek Jjxx Jxpoppy Regular Hw Pant Noos\nKleur: Violet Tulip.\nBeschikbaar in de maten: XXS t/m XL\nL 30 / L 32 / L34\nOver dit item\n- Detailtype: Klassieke broek - Taille/Rise : Hoge taille - Stof: Gemaakt met extra elastaan voor extra comfort - Lengte/maat: Volledige lengte - Fit: Regular Fit\nVerzending Amazon NL:\nGratis verzending naar afhaalpunt\nGratis verzending voor Prime-leden\nJe kan een gratis 30 dagen proefperiode op Prime nemen. Je kan je direct afmelden na aanmelden, en behoudt je voordelen gedurende die 30 dagen.\nGratis verzending boven de €20\nOnder de €20 betaal je naar NL (huis) €2,49 zonder prime",
+          "link": "https://nl.pepper.com/aanbiedingen/jack-jones-dames-broek-jjxx-jxpoppy-regular-hw-pant-noos-251521",
+          "publishedOn": "2022-10-09T20:45:31.000Z",
+          "wordCount": 1343,
+          "title": "JACK & JONES dames Broek Jjxx Jxpoppy Regular Hw Pant Noos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/jack-jones-heren-broek-jjigordon-jjsoft-sweat-pant-gms-noos-251520",
+          "author": null,
+          "description": "€11,95 - Amazon.nl\nJACK & JONES heren Broek Jjigordon Jjsoft Sweat Pant Gms Noos\nKleur: Zwart\nBeschikbaar in de maten: XS t/m XXL\nOver dit item\nOndersteunt het Better Cotton Initiative\n70% katoen, 30% polyester\nVerzending Amazon NL:\nGratis verzending naar afhaalpunt\nGratis verzending voor Prime-leden\nJe kan een gratis 30 dagen proefperiode op Prime nemen. Je kan je direct afmelden na aanmelden, en behoudt je voordelen gedurende die 30 dagen.\nGratis verzending boven de €20\nOnder de €20 betaal je naar NL (huis) €2,49 zonder prime",
+          "link": "https://nl.pepper.com/aanbiedingen/jack-jones-heren-broek-jjigordon-jjsoft-sweat-pant-gms-noos-251520",
+          "publishedOn": "2022-10-09T20:37:56.000Z",
+          "wordCount": 1289,
+          "title": "JACK & JONES heren Broek Jjigordon Jjsoft Sweat Pant Gms Noos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/only-sons-onsscott-reg-pique-polo-vd-heren-poloshirt-meerdere-kleuren-zie-beschrijving-251519",
+          "author": null,
+          "description": "€13,20 - Amazon.nl\nOnly & Sons Onsscott Reg Pique Polo Vd heren Poloshirt\nKleur : Groen\nBeschikbaar in de maten: S & M  €13,20\nKleur : wit \nAlleen maat M  €13,20\nOnly & Sons Onsscott Reg Pique Polo Vd heren Poloshirt https://amzn.eu/d/aKodxdx\nKleur: Alfalfa\nBeschikbaar in de maten: S & M  €13,20\nOnly & Sons Onsscott Reg Pique Polo Vd heren Poloshirt https://amzn.eu/d/2sjClJq\nKleur : Zwart\nBeschikbaar in de maten: S & M  €13,20\nOnly & Sons Onsscott Reg Pique Polo Vd heren Poloshirt https://amzn.eu/d/2RZsgY6\nOver dit item\nEffen poloshirt voor mannen met kraag en knoopsluiting van ONLY & SONS, korte mouwen\nComfortabele katoenkwaliteit\nVerzending Amazon NL:\nGratis verzending naar afhaalpunt\nGratis verzending voor Prime-leden\nJe kan een gratis 30 dagen proefperiode op Prime nemen. Je kan je direct afmelden na aanmelden, en behoudt je voordelen gedurende die 30 dagen.\nGratis verzending boven de €20\nOnder de €20 betaal je naar NL (huis) €2,49 zonder prime",
+          "link": "https://nl.pepper.com/aanbiedingen/only-sons-onsscott-reg-pique-polo-vd-heren-poloshirt-meerdere-kleuren-zie-beschrijving-251519",
+          "publishedOn": "2022-10-09T20:28:27.000Z",
+          "wordCount": 1450,
+          "title": "Only & Sons Onsscott Reg Pique Polo Vd heren Poloshirt( meerdere kleuren Zie beschrijving)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/lego-ferrari-daytona-sp3-42143-251518",
+          "author": null,
+          "description": "€301,74 - Amazon.de\nZag deze op Facebook voorbij komen. Nu met coupon (twv 28,25 euro) extra voordelig. Klik de coupon aan en bij de laatste stap voor het betalen wordt de korting/het juiste bedrag zichtbaar.\nSet Informatie\nEen indrukwekkende creatie voor volwassen Ferrari fans in de LEGO® Technic Ultimate Car Concept serie. Neem wat tijd voor jezelf en bouw dit Ferrari Daytona SP3 model met zijn klassieke rode kleur en verchroomde velgen. Zet het daarna op een mooi plekje en bewonder de opvallende achterkant en ronde lijnen die dit schaalmodel (1:8) zo bijzonder maken. \nDeze replica van de echte Ferrari heeft realistische functies, zoals werkende besturing, een sequentiële versnellingsbak met 8 versnellingen, schakelflippers en een V12-motor met bewegende zuigers. De Ferrari beschikt net als de originele supercar over vlinderdeuren die open kunnen. Open de motorkap en bekijk je unieke serienummer, waarmee je online specale content kunt vinden.",
+          "link": "https://nl.pepper.com/aanbiedingen/lego-ferrari-daytona-sp3-42143-251518",
+          "publishedOn": "2022-10-09T20:14:30.000Z",
+          "wordCount": 1423,
+          "title": "LEGO Ferrari Daytona SP3 (42143)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/humble-bundle-content-creators-movavi-251517",
+          "author": null,
+          "description": "€20,02 - Humble Bundle\nMake multimedia easily\nWhether you’re creating videos for YouTube, planning a presentation, or just need some easy-to-use tools for a personal photo or video project, this bundle of software from Movavi has you covered! Bring your creativity to life with the intuitive Video Editor Plus 2020 & a variety of effect sets. Enhance your images, convert video files, create slideshows, capture gameplay footage, and more, and help support Covenant House with your purchase!",
+          "link": "https://nl.pepper.com/aanbiedingen/humble-bundle-content-creators-movavi-251517",
+          "publishedOn": "2022-10-09T20:06:54.000Z",
+          "wordCount": 1156,
+          "title": "Humble bundle - content creators - Movavi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/apple-iphone-13-mini-128gb-251516",
+          "author": null,
+          "description": "€704,83 - Ben\nApple Iphone 13 Mini met abonnement van 24 maanden bij Ben voor 704,83.\nDit is de goedkoopste die ik nu kan vinden.",
+          "link": "https://nl.pepper.com/aanbiedingen/apple-iphone-13-mini-128gb-251516",
+          "publishedOn": "2022-10-09T18:33:30.000Z",
+          "wordCount": 1138,
+          "title": "Apple iPhone 13 mini 128GB",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/rituals-ritual-of-advent-adventskalender-2d-2022-zie-omschrijving-at-luxplus-251515",
+          "author": null,
+          "description": "€40,59 - Luxplus\nNieuwe klanten kunnen met referral code €5,- extra korting krijgen\nMocht je geen referral hebben kan je 2 accounts maken en een referral van jezelf gebruiken. Het delen van je eigen referrals, of hier naar hinten, is niet toegestaan!\nLedenprijs is €56,99 maar door op de banner met 20% korting op alles te klikken krijg je 20% extra korting\nVergeet ook de 10% cashback van CashbackXL niet\n\nVoor deze deal heb je een abonnement bij Luxplus nodig.\nDe eerste 30 dagen zijn gratis.\nHet abonnement is na verzending (1-4 werkdagen) van de items direct opzegbaar. \nGoedkoopst mogelijke prijs is\nstandaard ledenprijs €56,99\n20% extra korting -€16,40\nreferral code -€5,00\nTotaal €40,59\nInhoud\n1 X Boutique Line Mehr - bath & shower gel 30 ml\n1 X Boutique Line Jing - soap bar 25 gr\n1 X Wonder Mask 10g\n1 X The Ritual of Namaste Miracle Wipes - Travel\n1 X Amsterdam Collection Body Mist 20ml\n1 X The Ritual of Karma Body Shimmer Oil 30ml\n1 X The Ritual of Sakura Shampoo 50ml\n1 X The Ritual of Sakura Conditioner 50ml\n1 X The Ritual of Namaste Anti-Ageing Day Cream 10ml\n1 X The Ritual of Ayurveda Scrub Glove for Gift Set 2021\n1 X The Ritual of Ayurveda Coconut Milk Bath Sachet\n1 X The Ritual of Ayurveda Rich Body Oil 30ml\n1 X Elixir Collection Miracle Keratin Recovery Hair Mask 20ml\n1 X The Ritual of Karma Mild Body Scrub Clay 70ml\n1 X Rituals Homme shower foam\n1 X Refreshing Spray Sakura 20ml\n1 X The Ritual of Mehr Body Cream 70ml\n1 X The Ritual of Jing Hand Lotion 40ml\n1 X The Ritual of Jing Sleep Foaming Shower Gel 50ml\n1 X Sport Ice Shower Gel 70ml\n1 X Advent Mini Candle Private Collection - Savage Garden\n1 X Advent Mini Candle Private Collection - Sweet Jasmine\n1 X Advent Mini Candle Private Collection - Precious Amber\n1 X Advent Mini Candle Private Collection - Suede Vanilla\n1 X Spoon 2022",
+          "link": "https://nl.pepper.com/aanbiedingen/rituals-ritual-of-advent-adventskalender-2d-2022-zie-omschrijving-at-luxplus-251515",
+          "publishedOn": "2022-10-09T16:53:56.000Z",
+          "wordCount": 1821,
+          "title": "Rituals ritual of advent Adventskalender 2D 2022 Zie omschrijving @luxplus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/lego-76218-marvel-sanctum-sanctorum-251514",
+          "author": null,
+          "description": "€172,63 - Amazon.de\n184,99 EUR op Amazon.de \nNu met voucher actie -15,85 EUR\nWel +3,49 EUR verzendkosten \nTotaal 172,63 EUR\nVerzonden door Amazon, levering 13 Oktober (11 Okt. met Prime Levering - 6.99 EUR).",
+          "link": "https://nl.pepper.com/aanbiedingen/lego-76218-marvel-sanctum-sanctorum-251514",
+          "publishedOn": "2022-10-09T15:26:29.000Z",
+          "wordCount": 1147,
+          "title": "LEGO 76218 Marvel Sanctum Sanctorum",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/kortingscode/5-korting-en-geen-verzendkosten-bij-boom-beroepsonderwijs-251513",
+          "author": null,
+          "description": "In het kort: Boom beroepsonderwijs maakt ontzettend veel studieboeken in diverse richtingen. Zelf heb ik enkel ervaring met hun vele ICT boeken (Windows Server, Cisco CCNA etc.) welke stuk voor stuk prima, helder, toegankelijk en actueel zijn. Ik kwam deze code tegen dus wellicht heeft iemand er iets aan.\nBestel je voor meer dan € 50 aan leermiddelen? Met de code: PFYDTZWSRGQLCVB krijg je nu 5% korting én betaal je geen verzendkosten. \nWanneer je bij ons bestelt garanderen wij je de verkoopadviesprijs en bieden we je altijd directe service bij vragen en/of problemen.\nBinnen één werkdag ontvang je jouw digitale licentie. Daarmee kun je dus meteen aan de slag.Het door jou bestelde boek wordt binnen 5-7 werkdagen geleverd.\nDeze actie is geldig tot en met 30 oktober. De methodes Leefstijl, Edu4all, MAND, StruX en de onderdelenset van Raspberry Pi en Arduinokit zijn uitgesloten van deze actie.\nVul de code in bij het afrekenen en de korting wordt direct verrekend.\nDat leert lekker weg!\nBronvermelding",
+          "link": "https://nl.pepper.com/kortingscode/5-korting-en-geen-verzendkosten-bij-boom-beroepsonderwijs-251513",
+          "publishedOn": "2022-10-09T14:53:42.000Z",
+          "wordCount": 1368,
+          "title": "5% korting én geen verzendkosten bij Boom beroepsonderwijs (studieboeken in diverse richtingen)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/phillips-lampen-251512",
+          "author": null,
+          "description": "€11,49\nBij gamma hilversum",
+          "link": "https://nl.pepper.com/aanbiedingen/phillips-lampen-251512",
+          "publishedOn": "2022-10-09T14:52:20.000Z",
+          "wordCount": 1065,
+          "title": "Phillips lampen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/fotolijst-oscar-60x90cm-zwart-251511",
+          "author": null,
+          "description": "€10 - Jysk\nSpecificaties\n\nMateriaal  \n-MDF, Papier, Polystyreen, Staal\nAfmeting \n-Breedte: 60 cm, Hoogte: 90 cm\nKleur\n-Zwart\n\nWat zijn de bezorgkosten?\nBestelling via de winkel\nOnze winkels maken gebruik van lokale leveranciers. Daarom kan het per winkel en gebied verschillen wat de bezorgkosten zijn. Voor meer informatie hierover neem je contact op met de winkel waar je een bestelling wilt plaatsen. Je vindt onze winkels en de contactgegevens via jysk.nl/winkels.\nOnline bestelling\nDe minimumprijs voor een bezorging is € 3,99. Ongeacht het aantal artikelen in jouw bestelling en ongeacht de grootte en gewicht, betaal je voor een levering op een werkdag nooit meer dan € 60 aan bezorgkosten voor jouw bestelling. \nPostNL Pakketpost\nKleinere pakketten, zoals bijvoorbeeld handdoeken en beddengoed, worden geleverd door PostNl Pakketten. De bezorgkosten zijn afhankelijk van het gewicht van jouw bestelling en beginnen bij € 3,99",
+          "link": "https://nl.pepper.com/aanbiedingen/fotolijst-oscar-60x90cm-zwart-251511",
+          "publishedOn": "2022-10-09T14:01:54.000Z",
+          "wordCount": 1368,
+          "title": "Fotolijst OSCAR 60x90cm zwart",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/xbox-live-gift-card-50-euro-voor-45-euro-251510",
+          "author": null,
+          "description": "€41,40 - Eneba\nXbox Live Gift Card 50 EURO voor 41,40 Euro",
+          "link": "https://nl.pepper.com/aanbiedingen/xbox-live-gift-card-50-euro-voor-45-euro-251510",
+          "publishedOn": "2022-10-09T13:58:16.000Z",
+          "wordCount": 1108,
+          "title": "Xbox Live Gift Card 50 EURO voor 41,40 Euro",
+          "imageUrl": null
+        },
         {
           "id": "https://nl.pepper.com/aanbiedingen/23-appelsientje-bij-de-vomar-251480",
           "author": null,
