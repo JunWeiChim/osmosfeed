@@ -12,6 +12,276 @@
       "siteUrl": "https://tweakers.net/",
       "articles": [
         {
+          "id": "https://tweakers.net/downloads/62086",
+          "author": "Bart van Klaveren",
+          "description": "CPUID heeft versie 2.03 van CPU-Z uitgebracht voor Windows. Dit kleine programma geeft uitgebreide informatie over de processor, het moederbord en het geheugen in de computer. Daarnaast kan het programma informatie over de grafische kaart in de computer geven, zij het beperkt. Hiervoor kan beter GPU-Z worden gebruikt, dat ondanks een vergelijkbare naam niet van dezelfde makers is. De download bevat aparte versies voor 32bit- en 64bit-omgevingen. Ook zijn er downloads beschikbaar met een thema van een specifieke fabrikant, zoals ASUS, MSI en Asrock. In deze uitgave is herkenning voor de volgende hardware toegevoegd: Changes in CPU-Z version 2.03:",
+          "link": "https://tweakers.net/downloads/62086/cpu-z-203.html",
+          "publishedOn": "2022-10-17T20:21:47.000Z",
+          "wordCount": 1907,
+          "title": "CPU-Z 2.03",
+          "imageUrl": "https://tweakers.net/i/ijTWtezsU7DzkxKainErJ2mGNHc=/134x134/filters:strip_exif()/i/2004715004.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/downloads/62080",
+          "author": "Bart van Klaveren",
+          "description": "Tails staat voor The amnesic incognito live system en is een live Linux-distributie die zich richt op privacy en anonimiteit. Als basis maakt het gebruik van Debian GNU/Linux en het voegt daar een Gnome-omgeving met Tor, Tor Browser, Pidgin, Thunderbird, Electrum, LibreOffice, GPG en KeePassXC aan toe. Voor meer informatie verwijzen we naar deze pagina. Versie 5 is op Debian 11 gebaseerd en onder meer OpenPGP is vervangen door Kleopatra. In versie 5.5 zijn verder nog de volgende veranderingen en verbeteringen aangebracht: Changes and updates",
+          "link": "https://tweakers.net/downloads/62080/tails-55.html",
+          "publishedOn": "2022-10-17T20:17:59.000Z",
+          "wordCount": 1933,
+          "title": "Tails 5.5",
+          "imageUrl": "https://tweakers.net/i/LMYO-LZTBvPBUsP5Y8u4wqNN74A=/134x134/filters:strip_exif()/i/2004673266.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202388",
+          "author": "Yannick Spinner",
+          "description": "De Video Electronics Standards Association presenteert de specificaties voor het vernieuwde DisplayPort 2.1. Het vernieuwde standaard is backwards compatible met DisplayPort 2.0 en alle 2.0-compatibele producten zijn al officieel gecertificeerd voor DisplayPort 2.1.",
+          "link": "https://tweakers.net/nieuws/202388/vesa-maakt-displayport-21-backwards-compatible-met-20-en-andersom.html",
+          "publishedOn": "2022-10-17T19:13:23.000Z",
+          "wordCount": 3793,
+          "title": "VESA maakt DisplayPort 2.1 backwards compatible met 2.0 en andersom",
+          "imageUrl": "https://tweakers.net/i/0HX4T7GW54SwB-mJGnT6RZkROjg=/134x134/filters:strip_icc():strip_exif()/i/2004959194.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202392",
+          "author": "Yannick Spinner",
+          "description": "Nvidia gaat de GeForce RTX 4080 met 12GB geheugen naar verluidt onder een andere naam uitbrengen. Volgens YouTube-kanaal Gamers Nexus worden fabrikanten in elk geval deels vergoed voor reeds geproduceerde dozen voor reeds geannuleerde gpu.",
+          "link": "https://tweakers.net/nieuws/202392/gerucht-nvidia-brengt-geannuleerde-rtx-4080-12gb-onder-nieuwe-naam-uit.html",
+          "publishedOn": "2022-10-17T18:38:51.000Z",
+          "wordCount": null,
+          "title": "Gerucht: Nvidia brengt geannuleerde RTX 4080 12GB onder nieuwe naam uit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202380",
+          "author": "Tijs Hofmans",
+          "description": "Lodewijk van den Berg, de eerste in Nederland geboren astronaut, is op 90-jarige leeftijd overleden. Van den Berg vloog in 1985 met de Space Shuttle Challenger naar de ruimte, een half jaar vóór Wubbo Ockels. Hij naturaliseerde kort voor zijn vlucht tot Amerikaan.",
+          "link": "https://tweakers.net/nieuws/202380/eerste-in-nederland-geboren-astronaut-lodewijk-van-den-berg-is-overleden.html",
+          "publishedOn": "2022-10-17T17:20:14.000Z",
+          "wordCount": null,
+          "title": "Eerste in Nederland geboren astronaut Lodewijk van den Berg is overleden",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/62084",
+          "author": "Bart van Klaveren",
+          "description": "Er is een nieuwe versie van Battle for Wesnoth uitgekomen, een ontwikkelversie. Battle for Wesnoth is een zogeheten turn-based strategiespel, dat zich in een fantasiewereld afspeelt. Het is mogelijk om campaigns tegen de computer te spelen, maar ook om online je krachten te meten tegen andere spelers. Het spel wordt onder de GPL-opensourcelicentie uitgebracht en is voor onder meer Windows, Linux, macOS en iOS beschikbaar. Meer informatie over dit spel kan in deze wiki worden gevonden. De release notes voor deze uitgave kunnen hieronder worden gevonden. Wesnoth 1.17.9 is out!",
+          "link": "https://tweakers.net/downloads/62084/battle-for-wesnoth-1179.html",
+          "publishedOn": "2022-10-17T17:15:16.000Z",
+          "wordCount": null,
+          "title": "Battle for Wesnoth 1.17.9",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202390",
+          "author": "Yannick Spinner",
+          "description": "Europol en Eurojust hebben in samenwerking met Franse, Spaanse en Letse autoriteiten een bende van autodieven opgerold die het gemunt had op 'sleutelloze' auto's. Er zijn 31 verdachten gearresteerd, waaronder softwareontwikkelaars, doorverkopers en daadwerkelijke autodieven.",
+          "link": "https://tweakers.net/nieuws/202390/europol-rolt-autodievenbende-op-voor-hacken-van-sleutelloze-autos.html",
+          "publishedOn": "2022-10-17T17:13:14.000Z",
+          "wordCount": null,
+          "title": "Europol rolt autodievenbende op voor hacken van sleutelloze auto's",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202378",
+          "author": "Tomas Hochstenbach",
+          "description": "Gigabyte heeft met een statement op sociale media gereageerd op wat het zelf de 'prijsexplosie' na de introductie van de GeForce RTX 4090 noemt. De Benelux-afvaardiging van de videokaartenfabrikant zegt 'absoluut niet te spreken' te zijn over de prijsstijgingen.",
+          "link": "https://tweakers.net/nieuws/202378/gigabyte-absoluut-niet-te-spreken-over-gedrag-webshops-na-rtx-4090-release.html",
+          "publishedOn": "2022-10-17T15:24:26.000Z",
+          "wordCount": null,
+          "title": "Gigabyte 'absoluut niet te spreken' over gedrag webshops na RTX 4090-release",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202384",
+          "author": "Hayte Hugo",
+          "description": "KPN meldt een storing waardoor klanten problemen kunnen ervaren met mobiel bellen en mobiel internet. De storing begon volgens de provider om 15.50. De oorzaak van de storing is niet duidelijk; de provider zegt aan een oplossing te werken.",
+          "link": "https://tweakers.net/nieuws/202384/kpn-meldt-storing-voor-mobiel-bellen-en-mobiel-internet.html",
+          "publishedOn": "2022-10-17T14:40:17.000Z",
+          "wordCount": null,
+          "title": "KPN meldt storing voor mobiel bellen en mobiel internet - update",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202376",
+          "author": "Hayte Hugo",
+          "description": "Smartphonemerk vivo heeft zijn toetreding tot de Nederlandse markt 'gepauzeerd'. Het bedrijf zegt dit te doen om risico's te minimaliseren 'in tijden van algemene economische onzekerheid'. Vivo begon in juni met het exporteren van telefoons naar Nederland.",
+          "link": "https://tweakers.net/nieuws/202376/vivo-pauzeert-toetreding-tot-nederlandse-markt.html",
+          "publishedOn": "2022-10-17T14:20:32.000Z",
+          "wordCount": null,
+          "title": "Vivo 'pauzeert' toetreding tot Nederlandse markt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202374",
+          "author": "Mark Hendrikman",
+          "description": "Een decompilatieproject dat zich richt op de Nintendo 64-game Perfect Dark is vrijwel klaar. De ontwikkelaar heeft de game nagebootst in de programmeertaal C en wanneer die door dezelfde compiler gehaald wordt die voor de N64-game gebruikt is, ontstaat dezelfde output.",
+          "link": "https://tweakers.net/nieuws/202374/decompilatie-n64-game-perfect-dark-is-vrijwel-klaar-wat-ports-mogelijk-maakt.html",
+          "publishedOn": "2022-10-17T14:00:05.000Z",
+          "wordCount": 3856,
+          "title": "Decompilatie N64-game Perfect Dark is 'vrijwel klaar', wat ports mogelijk maakt",
+          "imageUrl": "https://tweakers.net/i/IXDtNz5euAbYjtI8flS02-EXlLo=/134x134/filters:strip_icc():strip_exif()/i/2004636228.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202372",
+          "author": "Hayte Hugo",
+          "description": "Internetknooppunt Amsterdam Internet Exchange verwerkte zondagavond rond 20.00 uur voor het eerst meer dan 11Tbit/s aan data. De laatste mijlpaal, die van 10Tbit/s, werd in april vorig jaar bereikt. De stijging heeft deels met seizoenseffecten te maken.",
+          "link": "https://tweakers.net/nieuws/202372/ams-ix-verwerkt-voor-het-eerst-meer-dan-11tbit-s-aan-internetverkeer.html",
+          "publishedOn": "2022-10-17T13:38:58.000Z",
+          "wordCount": null,
+          "title": "AMS-IX verwerkt voor het eerst meer dan 11Tbit/s aan internetverkeer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202354",
+          "author": "Mark Hendrikman",
+          "description": "Android gaat in de nabije toekomst mogelijk 'Chromecast-enabled' apparaten ondersteunen in het media-outputmenu. Gebruikers kunnen dan alle audio van hun Android-apparaat over bijvoorbeeld een Google Chromecast sturen.",
+          "link": "https://tweakers.net/nieuws/202354/android-13-beta-kan-audio-ook-naar-cast-compatibele-apparaten-sturen.html",
+          "publishedOn": "2022-10-17T13:14:41.000Z",
+          "wordCount": 2995,
+          "title": "Android 13-bèta kan audio ook naar Cast-compatibele apparaten sturen",
+          "imageUrl": "https://tweakers.net/i/ndmx9mSr9-imJbonZ67L7FoTdBE=/134x134/filters:strip_exif()/i/2005413942.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/downloads/62078",
+          "author": "Bart van Klaveren",
+          "description": "Twerwijl er ook hard wordt gewerkt aan versie 2.0 van foobar2000 is versie 1.6.13 van foobar2000 is uitgekomen. Deze populaire, lichte muziekspeler kan onder andere overweg met mp3, aac, ogg vorbis, flac, wav en wma, en beschikt over ondersteuning voor Replay Gain. Verder kan de speler verschillende formaten converteren, heeft het programma uitgebreide mogelijkheden om de tags aan te passen en kan de interface geheel naar eigen hand gezet worden. Daarnaast is het mogelijk om de functionaliteit met behulp van plug-ins uit te breiden. De changelog voor deze uitgave ziet er als volgt uit: Changes in version 1.6.13:",
+          "link": "https://tweakers.net/downloads/62078/foobar2000-1613.html",
+          "publishedOn": "2022-10-17T13:05:09.000Z",
+          "wordCount": null,
+          "title": "foobar2000 1.6.13",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/reviews/10544",
+          "author": "Olaf Weijers",
+          "description": "Is de RT6600ax-router dankzij de Packet Manager net zo uitgebreid inzetbaar als de nas-schijven van Synology en is dit misschien stiekem een goede nas-vervanger?",
+          "link": "https://tweakers.net/reviews/10544/synology-rt6600ax-router-zoeken-naar-de-meerwaarde.html",
+          "publishedOn": "2022-10-17T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Synology RT6600ax-router - Zoeken naar de meerwaarde",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202368",
+          "author": "Tijs Hofmans",
+          "description": "Nederlandse overheidsinstellingen verzamelen regelmatig gegevens van Nederlandse Twitter-gebruikers. Die worden geanalyseerd op sentimenten en maatschappelijke signalen. Experts zien problemen, omdat dat tegen het oorspronkelijke verzameldoel indruist.",
+          "link": "https://tweakers.net/nieuws/202368/overheid-analyseert-onrechtmatig-informatie-uit-tweets-om-sentimenten-te-meten.html",
+          "publishedOn": "2022-10-17T12:33:47.000Z",
+          "wordCount": null,
+          "title": "'Overheid analyseert onrechtmatig informatie uit tweets om sentimenten te meten'",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202364",
+          "author": "Hayte Hugo",
+          "description": "Rapper Ye, voorheen bekend als Kanye West, wil het sociale platform Parler kopen. Hiervoor heeft hij een principeovereenkomst afgesproken met Parlement Technologies. Met de overname wil Ye naar eigen zeggen verzekeren dat er een platform voor 'vrije meningsuitingen' blijft.",
+          "link": "https://tweakers.net/nieuws/202364/artiest-voorheen-bekend-als-kanye-west-wil-sociaal-medium-parler-kopen.html",
+          "publishedOn": "2022-10-17T10:39:58.000Z",
+          "wordCount": null,
+          "title": "Artiest voorheen bekend als Kanye West wil sociaal medium Parler kopen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202358",
+          "author": "Hayte Hugo",
+          "description": "Google bevoordeelt nog steeds zijn eigen prijsvergelijker Shopping in zoekresultaten en daardoor hebben concurrerende prijsvergelijkers minder kans om te concurreren binnen zoekresultaten, stellen andere prijsvergelijkers. Google kreeg hier eerder een boete van 2,4 miljard euro voor.",
+          "link": "https://tweakers.net/nieuws/202358/prijsvergelijkers-eu-moet-optreden-tegen-bevoordeling-google-shopping.html",
+          "publishedOn": "2022-10-17T09:56:12.000Z",
+          "wordCount": null,
+          "title": "Prijsvergelijkers: EU moet optreden tegen bevoordeling Google Shopping",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202356",
+          "author": "Hayte Hugo",
+          "description": "Meta's metaverseplatform Horizon Worlds heeft nu minder maandelijks actieve gebruikers dan in de lente. Het bedrijf heeft zijn doelstellingen voor het aantal maandelijks actieve gebruikers voor eind dit jaar daarnaast verlaagd, van 500.000 naar 280.000.",
+          "link": "https://tweakers.net/nieuws/202356/aantal-actieve-meta-horizon-worlds-metaverse-gebruikers-daalt-naar-200000.html",
+          "publishedOn": "2022-10-17T09:31:58.000Z",
+          "wordCount": null,
+          "title": "'Aantal actieve Meta Horizon Worlds-metaverse-gebruikers daalt naar 200.000'",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202352",
+          "author": "Hayte Hugo",
+          "description": "Gameuitgever Konami houdt woensdagavond 19 oktober een evenement waarin het fans wil 'updaten' over de Silent Hill-serie. Vermoedelijk kondigt het bedrijf dan een nieuwe game in de serie aan. Eerder sprak een gamegoedkeuringsautoriteit over Silent Hill: The Short Message.",
+          "link": "https://tweakers.net/nieuws/202352/konami-maakt-op-19-oktober-meer-bekend-over-toekomst-van-silent-hill-serie.html",
+          "publishedOn": "2022-10-17T08:03:09.000Z",
+          "wordCount": null,
+          "title": "Konami maakt op 19 oktober meer bekend over toekomst van Silent Hill-serie",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202350",
+          "author": "Mark Hendrikman",
+          "description": "De regisseur van de Splinter Cell-remake is vertrokken bij Ubisoft Toronto. Een reden voor zijn vertrek geeft hij in de bekendmaking niet. Hij werkte sinds het vroegste ontwikkelstadium aan de game.",
+          "link": "https://tweakers.net/nieuws/202350/regisseur-splinter-cell-remake-vertrekt-bij-ubisoft.html",
+          "publishedOn": "2022-10-17T07:30:41.000Z",
+          "wordCount": null,
+          "title": "Regisseur Splinter Cell-remake vertrekt bij Ubisoft",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202348",
+          "author": "Tijs Hofmans",
+          "description": "Interpol heeft tientallen cybercrimeverdachten gearresteerd in verschillende landen. Met name in Afrika werden deelnemers van de beruchte Black Axe-groep opgepakt. Die worden ervan verdacht wereldwijd online fraude te hebben gepleegd door zich voor te doen als 'Nigeriaanse prins'.",
+          "link": "https://tweakers.net/nieuws/202348/interpol-arresteert-tientallen-verdachten-van-nigeriaanse-prinsen-fraude.html",
+          "publishedOn": "2022-10-17T06:52:36.000Z",
+          "wordCount": null,
+          "title": "Interpol arresteert tientallen verdachten van 'Nigeriaanse prinsen'-fraude",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202344",
+          "author": "Tijs Hofmans",
+          "description": "Google heeft een nieuw besturingssysteem voor embedded iot-apparaten uitgebracht. KataOS draait volledig op Rust en is op de seL4-microkernel gebouwd. Het OS is gemaakt voor apparaten die zelf machinelearningtoepassingen kunnen draaien.",
+          "link": "https://tweakers.net/nieuws/202344/google-brengt-kataos-voor-iot-apparaten-uit-op-basis-van-rust-en-met-sel4-kernel.html",
+          "publishedOn": "2022-10-17T06:08:38.000Z",
+          "wordCount": null,
+          "title": "Google brengt KataOS voor iot-apparaten uit op basis van Rust en met seL4-kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202346",
+          "author": "Arnoud Wokke",
+          "description": "De vouwbare smartphone Google Pixel Fold zou een scherm hebben van ongeveer 7,58\" aan de binnenkant. Het scherm heeft volgens de informatie een beeldverhouding van 1,2:1 en een resolutie van 2208x1840 pixels. Het zou gaan om een display van Samsung.",
+          "link": "https://tweakers.net/nieuws/202346/gerucht-google-pixel-fold-heeft-7-komma-6-inch-scherm-aan-de-binnenkant.html",
+          "publishedOn": "2022-10-17T05:40:47.000Z",
+          "wordCount": null,
+          "title": "Gerucht: Google Pixel Fold heeft 7,6\"-scherm aan de binnenkant",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202342",
+          "author": "Arnoud Wokke",
+          "description": "Apple werkt mogelijk aan een dock die van een iPad een hub voor de bediening van smarthome-apparaten kan maken. Dat meldt financieel persbureau Bloomberg. Het dock zou mogelijk volgend jaar uitkomen.",
+          "link": "https://tweakers.net/nieuws/202342/bloomberg-apple-werkt-aan-dock-om-ipad-als-smarthomehub-te-gebruiken.html",
+          "publishedOn": "2022-10-17T05:27:07.000Z",
+          "wordCount": null,
+          "title": "Bloomberg: Apple werkt aan dock om iPad als smarthomehub te gebruiken",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202340",
+          "author": "Arnoud Wokke",
+          "description": "Videochatdienst Google Meet krijgt een optie om gebruikers automatisch te kadreren voordat ze deelnemen aan een videovergadering. De kadrering gebeurt één keer, tenzij gebruikers ervoor kiezen om het nog een keer te doen.",
+          "link": "https://tweakers.net/nieuws/202340/google-meet-krijgt-optie-voor-automatisch-kadreren.html",
+          "publishedOn": "2022-10-17T05:13:57.000Z",
+          "wordCount": null,
+          "title": "Google Meet krijgt optie voor automatisch kadreren",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/62074",
+          "author": "Bart van Klaveren",
+          "description": "Versie 22.03.2 van OpenWrt is uitgekomen. OpenWrt is alternatieve opensourcefirmware voor een groot aantal verschillende routers en embedded devices. Door middel van het opkg-package management system is er de mogelijkheid om zelf te bepalen wat de router allemaal wel en niet kan. Ook op GoT zijn er diverse mensen actief mee bezig, zie daarvoor dit topic. Bijwerken van de versie kan gewoon met sysupgrade vanuit de webinterface. De belangrijkste verbeteringen die in deze uitgave zijn aangebracht, zijn hieronder voor je op een rijtje gezet. Security fixes",
+          "link": "https://tweakers.net/downloads/62074/openwrt-22032.html",
+          "publishedOn": "2022-10-17T04:09:20.000Z",
+          "wordCount": null,
+          "title": "OpenWrt 22.03.2",
+          "imageUrl": null
+        },
+        {
           "id": "https://tweakers.net/downloads/62072",
           "author": "Bart van Klaveren",
           "description": "Versie 3.47.1 van LosslessCut is uitgekomen, als opvolger van versie 3.46.2. LosslessCut is een cross-platform en opensourceprogramma waarmee stukken uit video's kunnen worden geknipt. Dit doet het zonder dat de video's worden gedecodeerd en weer gecodeerd, dus het werkt snel en zonder verlies van kwaliteit. Het is ideaal om minder interessante delen uit geschoten beelden van actioncamera's of drones te verwijderen. Ook is het mogelijk om jpg-afbeeldingen van scenes van de video te maken. De changelog voor deze uitgave ziet er als volgt uit: Changes in version 3.47.1:",
@@ -4268,6 +4538,206 @@
       "feedUrl": "https://nl.pepper.com/rss/overzicht%20van%20de%20populairste%20groepen",
       "siteUrl": "https://nl.pepper.com",
       "articles": [
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/neutral-2e-product-halve-prijs-gratis-robijn-wasmiddel-twv-eur12-252524",
+          "author": null,
+          "description": "€4,78 - Kruidvat\nOp dit moment loopt er bij Kruidvat een Neutral Actie (2e product halve prijs)\nKeuze uit het hele assortiment, vanaf €3,19 per product, ofwel vanaf €4,78 per 2 Neutral producten.\nkruidvat.nl/a/3314541/neutral-2e-halve-prijs\nBij 2 producten krijg je een gratis fles Robijn Wasmiddel t.w.v. €12,29 \nkruidvat.nl/a/3314072/gratis-robijn-wasmiddel\n\nHet goedkoopste product (Vaseline Lippenbalsem) i.c.m. deze Robijn actie kost €2,29\nIn dat geval betaal je met Vaseline producten voor een fles Robijn dus €4,58\nMaar misschien heb je voor €0,20 méér liever een  Neutraal dan een Vaseline product ;)",
+          "link": "https://nl.pepper.com/aanbiedingen/neutral-2e-product-halve-prijs-gratis-robijn-wasmiddel-twv-eur12-252524",
+          "publishedOn": "2022-10-18T00:28:45.000Z",
+          "wordCount": 1303,
+          "title": "Neutral 2e product halve prijs + gratis Robijn Wasmiddel t.w.v. €12",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/2-flacons-500ml-kruidvat-shampoo-of-conditioner-voor-eur150-252523",
+          "author": null,
+          "description": "€1,50 - Kruidvat\nKeuze uit 19 verschillende varianten\n\nkruidvat.nl/a/3355341/kruidvat-shampoo-en-conditioner",
+          "link": "https://nl.pepper.com/aanbiedingen/2-flacons-500ml-kruidvat-shampoo-of-conditioner-voor-eur150-252523",
+          "publishedOn": "2022-10-17T23:27:55.000Z",
+          "wordCount": 1111,
+          "title": "2 flacons Kruidvat Shampoo of Conditioner (2*500ml) van €4 voor €1,50",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/nintendo-switch-grey-252521",
+          "author": null,
+          "description": "€239,95 - iBOOD\nNintendo. Van 8-bit naar Gameboy naar N64 naar Switch: wij zijn nooit geen fan geweest. \nBeleef onderweg dezelfde game-ervaring als thuis, zelfs zonder tv. De Nintendo Switch kun je in alle situaties gebruiken, zodat je altijd gemakkelijk tussendoor de games kunt spelen die je wilt. Speel thuis op je tv, onderweg, of lekker met zijn tweetjes.\nSpeel je favoriete games overal en altijd, en met iedereen die je wilt!",
+          "link": "https://nl.pepper.com/aanbiedingen/nintendo-switch-grey-252521",
+          "publishedOn": "2022-10-17T22:14:15.000Z",
+          "wordCount": 1251,
+          "title": "Nintendo switch | grey",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/hp-premium-draadloos-toetsenbord-voor-eur4861-at-amazonnl-252520",
+          "author": null,
+          "description": "€48,61 - Amazon.nl\nLaagste prijs elders: €126,60\nHet gaat om de Spaanse versie, wat inhoudt dat er een extra ñ-toets op zit.",
+          "link": "https://nl.pepper.com/aanbiedingen/hp-premium-draadloos-toetsenbord-voor-eur4861-at-amazonnl-252520",
+          "publishedOn": "2022-10-17T22:04:36.000Z",
+          "wordCount": 1185,
+          "title": "HP Premium draadloos toetsenbord voor €48,61 @ Amazon.nl",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/garmin-hrm-pro-plus-hartslagband-252517",
+          "author": null,
+          "description": "€87,95 - Bol.com\nZojuist besteld, dit is de nieuwste hartslagband van Garmin. Normaal gesproken rond de 130 euro. De HRM Pro was laatst 76 euro, voor een tientje meer de nieuwste variant is dan een leuke deal. Ideaal voor zwemmers, fietsers en hardlopers!  (y)",
+          "link": "https://nl.pepper.com/aanbiedingen/garmin-hrm-pro-plus-hartslagband-252517",
+          "publishedOn": "2022-10-17T20:51:45.000Z",
+          "wordCount": 1186,
+          "title": "Garmin HRM Pro Plus hartslagband",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/douwe-egberts-200-lungo-nespresso-cups-252516",
+          "author": null,
+          "description": "€33,33 - Amazon.nl\nMet abonneer en bespaar €33,33 voor 200 cups.",
+          "link": "https://nl.pepper.com/aanbiedingen/douwe-egberts-200-lungo-nespresso-cups-252516",
+          "publishedOn": "2022-10-17T20:22:19.000Z",
+          "wordCount": 1079,
+          "title": "Douwe Egberts 200 Lungo Nespresso Cups",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/apple-magic-keyboard-voor-de-11-ipad-pro-3e-generatie-en-ipad-air-4e-generatie-nederlands-wit-mjqj3na-252515",
+          "author": null,
+          "description": "€213,25 - Amazon.de\nLaagste prijs elders: €326\nDankzij het Magic Keyboard (MJQK3N/A) gebruik je jouw iPad Pro of Air als een laptop. Je typt er heel prettig mee. Met het geïntegreerde trackpad bedien je de iPad zoals je verwacht van een MacBook.\nKenmerken:\n\nExtra USB-C-poort\nMet de USB-C-poort van het Magic Keyboard laadt je jouw iPad op en houd je de USB-C-Poort van je iPad vrij.\n\nZwevend design\nJe klikt je iPad magnetisch vast en zet hem dankzij het zwevende design eenvoudig in de perfecte kijkhoek.\n\nVerlicht toetsenbord\nHet Magic Keyboard van Apple is voorzien over een verlicht toetsenbord. Ideaal voor de late uurtjes als het donker is.\n\nExtra bescherming\nHet Magic Keyboard dient ook als bescherming. Ideaal als je veel onderweg bent met je iPad. Klap het toetsenbord dicht en het scherm van je iPad is beschermd.\n\nHet Magic Keyboard is geschikt voor:\niPad Pro 12.9-inch (3rd, 4th or 5th generation)\niPad Pro 11-inch (1st, 2nd or 3rd generation)\niPad Air (4th generation)",
+          "link": "https://nl.pepper.com/aanbiedingen/apple-magic-keyboard-voor-de-11-ipad-pro-3e-generatie-en-ipad-air-4e-generatie-nederlands-wit-mjqj3na-252515",
+          "publishedOn": "2022-10-17T20:11:34.000Z",
+          "wordCount": 1483,
+          "title": "Apple Magic Keyboard voor de 11\" iPad Pro 3e generatie en iPad Air 4e generatie Nederlands Wit (MJQJ3N/A)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/harry-potter-house-editions-box-set-zowel-paperback-als-hardcover-bij-bol-en-amazon-252514",
+          "author": null,
+          "description": "€51,99 - Bol.com\nPrijs is in de buurt van normale box sets dus als je iets bijzonders wil zou je nu eventueel jouw favoriete house kunnen kiezen. Volgens Amazon afgeprijsd, volgens Bol (nieuwe) vaste prijs..?\nBij Bol:\nHarry Potter Hufflepuff House Edition Paperback\nHarry Potter Hufflepuff House Edition Hardcover\nHarry Potter Gryffindor House Edition Paperback\nHarry Potter Gryffindor House Edition Hardcover\nHarry Potter Slytherin House Edition Paperback\nHarry Potter Slytherin House Edition Hardcover\nHarry Potter Ravenclaw House Edition Paperback\nHarry Potter Ravenclaw House Edition Hardcover\nBij Amazon:\nHarry Potter Hufflepuff House Edition Paperback\nHarry Potter Hufflepuff House Edition Hardcover\nHarry Potter Gryffindor House Edition Paperback\nHarry Potter Gryffindor House Edition Hardcover\nHarry Potter Slytherin House Edition Paperback\nHarry Potter Slytherin House Edition Hardcover\nHarry Potter Ravenclaw House Edition Paperback\nHarry Potter Ravenclaw House Edition Hardcover",
+          "link": "https://nl.pepper.com/aanbiedingen/harry-potter-house-editions-box-set-zowel-paperback-als-hardcover-bij-bol-en-amazon-252514",
+          "publishedOn": "2022-10-17T19:46:34.000Z",
+          "wordCount": 1506,
+          "title": "Harry Potter House Editions Box Set Paperback [bij Bol en Amazon]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/bolcom-ugg-careena-dames-sandalen-eur3899-252513",
+          "author": null,
+          "description": "Bol.com\nBij bol.com aantal UGG Careena Dames Sandalen €38,99\nGratis verzending.\nElders;\n\n\n€38,99 maat 40 link van de aanbiedingspost.\n\nUGG Careena Dames Sandalen - Maat 36\n\nUGG Careena Dames Sandalen - Maat 36\nUGG Careena Dames Sandalen - Maat 41\n\nUGG Espadrilles Dames / Damesschoenen - Leer - Sleehak Hoogte 9 cm - 1119953 - Cognac - maat 37\nDeze worden verkocht door;\nVerkoop door\nVan den Assem Schoenen\n8,6",
+          "link": "https://nl.pepper.com/aanbiedingen/bolcom-ugg-careena-dames-sandalen-eur3899-252513",
+          "publishedOn": "2022-10-17T19:42:24.000Z",
+          "wordCount": 1329,
+          "title": "[bol.com] UGG Careena Dames Sandalen €38,99",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/douwe-egberts-8-lungo-2x200cupjes-400-nespresso-cupjes-252511",
+          "author": null,
+          "description": "€63,96 - Amazon.nl\n400cupjes voor 63,96 is 16 cent per cupje. \nJe vertrouwde kopje Douwe Egberts koffie, in aluminium capsules. \nKoop 2 pakken met 200cups en krijg 50% korting 400 cupjes 16 cent per bakkie ;) \nDe koffie capsules van Douwe Egberts zijn speciaal ontworpen voor gebruik in jouw Nespresso* koffiemachine.",
+          "link": "https://nl.pepper.com/aanbiedingen/douwe-egberts-8-lungo-2x200cupjes-400-nespresso-cupjes-252511",
+          "publishedOn": "2022-10-17T18:37:38.000Z",
+          "wordCount": 1230,
+          "title": "Douwe Egberts 8 Lungo 2x200cupjes 400 Nespresso cupjes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/samsung-lc27t550-curved-monitor-27-252510",
+          "author": null,
+          "description": "€179 - MediaMarkt\nLaagste prijs elders: €197\n\nDe Samsung LC27T550 is een 27 inch monitor met 1920x1080 resolutie en 75Hz. De pixeldichtheid van 82 ppi betekent dat programma's goed bruikbaar zijn, zonder dat beeldschaling nodig is. Samsung belooft een maximale helderheid van 250 cd/m², een contrast van 3000:1 en een reactietijd van 4 ms.\nSpecificaties:\n\n27 inch\n1920x1080\n82 ppi\nVA / MVA / PVA\nGebogen scherm\nAMD FreeSync\nAMD Freesync\nNvidia G-Sync\n75 Hz\nHDMI\n1.4\nDisplayPort\n4 ms\n250 cd/m²\n3000 : 1\n\nAansluitingen:",
+          "link": "https://nl.pepper.com/aanbiedingen/samsung-lc27t550-curved-monitor-27-252510",
+          "publishedOn": "2022-10-17T18:19:59.000Z",
+          "wordCount": 1257,
+          "title": "Samsung LC27T550 Curved Monitor 27''",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/gratis-online-domein-bij-strato-31-10-2022-252509",
+          "author": null,
+          "description": "Omdat Strato 25 jaar bestaat kan je via de nederlandse website een .store domein gratis bestellen voor 1 jaar. Je betaalt ook €0 setupkosten.\n(Na het jaar betaal je €54 euro per jaar (dus aantal dagen na registratie weer stopzetten, als je niet wilt gaan betalen na 1 jaar))\nBij andere aanbieders, zoals argeweb, betaal je al gauw €0,95 voor het eerste jaar (daarna €44,- p/j)",
+          "link": "https://nl.pepper.com/aanbiedingen/gratis-online-domein-bij-strato-31-10-2022-252509",
+          "publishedOn": "2022-10-17T18:11:03.000Z",
+          "wordCount": 1211,
+          "title": "Gratis .store domein bij Strato (t/m 31-10-2022)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/alle-andrelon-dove-en-axe-4-voor-eur10-oa-rexona-in-aanbieding-elders-eur1810-252508",
+          "author": null,
+          "description": "€10 - Albert Heijn\nDeze week in de BONUS bij de Appie: alle Andrélon, Dove en Axe 4 voor €10. Als je kijkt naar de gangbare prijzen bij AH betaal je normaliter tot €35,16 voor 4x Rexona Maximum Protection Stick (diverse varianten).\nIk heb een aantal producten uit het online aanbod van AH gecheckt bij andere winkels en diverse items zijn echt wel voordeliger met deze actie ►\n| prijscheck → o.a. Rexona Men Maximum Protection Clean Scent Anti-transpirant Stick op dit moment bij de ETOS 2+2 gratis = 4 voor €18,10 // 6x Dove Shower Mousse bij Bol.com voor = omgerekend €14,90 per 4 // Andrélon Perfecte krul boost bij ETOS nu 2e voor €1 = €15,58 // Dove Renewing Glow Douchegel 450 ML bij ETOS 2+2 gratis = €15,98",
+          "link": "https://nl.pepper.com/aanbiedingen/alle-andrelon-dove-en-axe-4-voor-eur10-oa-rexona-in-aanbieding-elders-eur1810-252508",
+          "publishedOn": "2022-10-17T18:06:27.000Z",
+          "wordCount": 1405,
+          "title": "Alle Andrélon, Dove en Axe 4 voor €10 (o.a. Rexona in aanbieding elders €18,10)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/mistral-neopreen-wetsuit-lang-eur1999-252505",
+          "author": null,
+          "description": "€19,99 - Lidl\nVeel positieve beoordelingen over deze wetsuit, de korte versie kost trouwens nu maar €13,99\nAfgebeelde wetsuit volgens Lidl:\nBeschrijving\nIdeaal voor activiteiten aan het wateroppervlak zoals zwemmen, snorkelen en surfen\nHelpt langer in het water te kunnen blijven\nMet lange mouwen en lange broekspijpen\n2,5 mm neopreen-dikte\nGeïntegreerd sleutelzakje\nRitssluiting op de rug - met lange zip-puller voor het eenvoudig aan- en uittrekken\nZonder naad onder de oksels",
+          "link": "https://nl.pepper.com/aanbiedingen/mistral-neopreen-wetsuit-lang-eur1999-252505",
+          "publishedOn": "2022-10-17T17:32:52.000Z",
+          "wordCount": 1122,
+          "title": "Mistral Neopreen wetsuit lang €19,99",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/samsung-s21fe-252503",
+          "author": null,
+          "description": "€449 - Amazon.de\nNiet de beste aanbieding, maar wel waard om hem te melden.\n\"De Samsung Galaxy S21 FE wordt door Samsung in de markt gezet als een lichtere versie van de S21. Bij dit ‘lichtere vlaggenschip’ heeft de fabrikant op enkele onderdelen en functies bezuinigd om het toestel wat betaalbaarder te maken. Dat is te zien aan de behuizing en het iets mindere scherm. Verder is van de bezuinigingen echter weinig te merken. De smartphone heeft een IP68-rating, een betere camera dan de S21 en dezelfde krachtige Snapdragon 888-processor. Hierdoor is de prijs het enige aspect dat je laat twijfelen of dit toestel wel een goede aankoop is. Op het moment van schrijven kost deze smartphone ongeveer hetzelfde als de luxere S21. Hierdoor zou je voor net wat meer functies kunnen kiezen en toch voor het ‘echte vlaggenschip’ kunnen gaan, zeker als de komende maanden de prijs daarvan verder daalt omdat de S22 op de loer ligt. Als het je om langere software-ondersteuning en het maken van mooie foto’s gaat, is de Galaxy S21 FE echter wel het betere toestel.\"\nBron: Tweakers",
+          "link": "https://nl.pepper.com/aanbiedingen/samsung-s21fe-252503",
+          "publishedOn": "2022-10-17T17:32:47.000Z",
+          "wordCount": 1407,
+          "title": "Samsung S21FE 128GB",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/douwe-egberts-252506",
+          "author": null,
+          "description": "€33,70 - Bol.com\nVoor bol Select aanbieding per stuk 5.61 euro.",
+          "link": "https://nl.pepper.com/aanbiedingen/douwe-egberts-252506",
+          "publishedOn": "2022-10-17T17:32:10.000Z",
+          "wordCount": 1079,
+          "title": "*SELECT Aanbieding Douwe Egberts 500gram Stuk 5.61 Euro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/switchbot-20-50-korting-en-5-bij-2-252504",
+          "author": null,
+          "description": "€42,50 - Amazon.nl\nNu in de aanbieding bij Amazon.\nLaagste prijs bij Praxis €76,49\nAls je er twee koop zijn ze nog voordeliger:\n\n38,25 p.s. ipv 42,50 \nAls je meteen een hub toevoegd krijg je daar ook meteen 5% korting op\nSwitchbot hub €29,75\n\nLaagste prijs hub bij Coolblue €35,-\n\n50% korting met promotiecode PIVN9NRY\nBespaar 50% elk op In aanmerking komende items aangeboden door SwitchBot wanneer je 1 of meer koopt. Voer code PIVN9NRY in bij het afrekenen.",
+          "link": "https://nl.pepper.com/aanbiedingen/switchbot-20-50-korting-en-5-bij-2-252504",
+          "publishedOn": "2022-10-17T17:25:06.000Z",
+          "wordCount": 1278,
+          "title": "Switchbot u-rail 2.0 50% korting en 5% bij 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/wandcirkel-van-20-cm-voor-eur899-incl-verzending-at-fotoproducten-252496",
+          "author": null,
+          "description": "€8,99 - Fotoproducten.nl\nBij Fotoproducten.nl kun je nu een wandcirkel van 20 cm bestellen voor €8,99 incl. verzending met de code de code PGW100. De korting is ook geldig op grotere formaten. Zo heb je bijvoorbeeld een wandcirkel van 30 cm voor maar €6,00 extra.\nDe normale prijs zonder korting is €25,95 + €7,50 verzendkosten, maar via Groupon te bestellen voor €2,99 + €8,95  verzendkosten = €11,94\n\nBetaalmogelijkheden\n\niDEAL\nOverboeking\nTegen meerprijs met andere betaalmiddelen",
+          "link": "https://nl.pepper.com/aanbiedingen/wandcirkel-van-20-cm-voor-eur899-incl-verzending-at-fotoproducten-252496",
+          "publishedOn": "2022-10-17T17:08:00.000Z",
+          "wordCount": 1230,
+          "title": "Wandcirkel van 20 cm voor €8,99 incl. verzending @ Fotoproducten",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/edc-by-esprit-991cc1j303-dames-sweater-in-het-roze-blauw-zie-fotos-beschrijving-252502",
+          "author": null,
+          "description": "€12,99 - Amazon.nl\nedc by Esprit 991CC1J303 dames sweater\nKleur: 670/pink.\nBeschikbaar in de maten: S ,M ,XL, XXL\nOok in de Kleur blauw \nBeschikbaar in de maten: XS ,S, M, L, XXL\nedc by Esprit 991CC1J303 dames sweater amzn.eu/d/3Lsdclf\nVerzending Amazon NL:\nGratis verzending naar afhaalpunt\nGratis verzending voor Prime-leden\nJe kan een gratis 30 dagen proefperiode op Prime nemen. Je kan je direct afmelden na aanmelden, en behoudt je voordelen gedurende die 30 dagen.\nGratis verzending boven de €20\nOnder de €20 betaal je naar NL (huis) €2,49 zonder prime",
+          "link": "https://nl.pepper.com/aanbiedingen/edc-by-esprit-991cc1j303-dames-sweater-in-het-roze-blauw-zie-fotos-beschrijving-252502",
+          "publishedOn": "2022-10-17T16:59:26.000Z",
+          "wordCount": 1312,
+          "title": "edc by Esprit 991CC1J303 dames sweater ( in het Roze & Blauw ZIE FOTO'S & beschrijving)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/campina-melk-22-gratis-252494",
+          "author": null,
+          "description": "Coop\nBij de Coop deze week Campina Langlekker melk 2 + 2 gratis. 4 pakken à 1000 ml. Combineren mogelijk.",
+          "link": "https://nl.pepper.com/aanbiedingen/campina-melk-22-gratis-252494",
+          "publishedOn": "2022-10-17T16:50:32.000Z",
+          "wordCount": 1107,
+          "title": "Campina Langlekker melk - 2+2 gratis",
+          "imageUrl": null
+        },
         {
           "id": "https://nl.pepper.com/aanbiedingen/verbatim-store-n-go-2tb-25-usb-32-externe-harde-schijf-252408",
           "author": null,
