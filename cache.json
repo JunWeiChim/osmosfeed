@@ -12,6 +12,96 @@
       "siteUrl": "https://tweakers.net/",
       "articles": [
         {
+          "id": "https://tweakers.net/downloads/62264",
+          "author": "Bart van Klaveren",
+          "description": "Versie 16.2 van Zorin OS is uitgekomen. Zorin OS is een op Ubuntu 22.04 gebaseerd besturingssysteem met een Gnome 3- of Xfce 4-desktopomgeving die er op gericht is om de overstap van Microsoft Windows zo eenvoudig en pijnloos mogelijk te maken. In versie 16.2 is het onder meer makkelijker gemaakt om Windows-software te draaien, zijn er nieuwe lettertypes toegevoegd waardoor de comptabiliteit met Microsoft Office-documenten sterk is verbeterd en zien we diverse verbeteringen in Zorin Connect, waarmee een mobiele telefoon met de computer kan worden verbonden. De complete releasenotes voor deze uitgave zien er als volgt uit: Zorin OS 16.2 Has Landed",
+          "link": "https://tweakers.net/downloads/62264/zorin-os-162.html",
+          "publishedOn": "2022-10-30T13:42:17.000Z",
+          "wordCount": 4791,
+          "title": "Zorin OS 16.2",
+          "imageUrl": "https://tweakers.net/i/KvBONjHlt9QtYSQyaOYA_uUSgFI=/134x134/filters:strip_exif()/i/2005427048.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202848",
+          "author": "Jay Stout",
+          "description": "AMD zegt dat het prestatieproblemen met Ryzen 7000-cpu’s in sommige games aan het onderzoeken is. Het bedrijf heeft op dit moment heeft nog geen oorzaken gevonden en vermoedt dat game-ontwikkelaars optimalisaties moeten doorvoeren.",
+          "link": "https://tweakers.net/nieuws/202848/amd-zegt-prestatieproblemen-ryzen-7000-cpus-in-games-te-onderzoeken.html",
+          "publishedOn": "2022-10-30T13:22:00.000Z",
+          "wordCount": 4992,
+          "title": "AMD zegt prestatieproblemen Ryzen 7000-cpu’s in games te onderzoeken",
+          "imageUrl": "https://tweakers.net/i/5YuHtJP-sRhYwU4JlHV1Erhn35U=/134x134/filters:strip_icc():strip_exif()/i/2005279580.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/downloads/62262",
+          "author": "Bart van Klaveren",
+          "description": "Crystal Dew World heeft een nieuwe versie van CrystalDiskInfo uitgebracht. Dit programma, dat onder de MIT-licentie wordt uitgebracht, geeft uitgebreide informatie over de drives in de computer. Er is ondersteuning voor traditionele harde schijven, maar ook voor ssd's en in mindere mate voor externe usb- en firewire-schijven. Naast het weergeven van smart-informatie is het mogelijk om de aam- en apm-instellingen aan te passen, mits de hardware dit ondersteunt. De verzamelde informatie kan in overzichtelijke grafieken worden weergegeven. Naast de standaardversie zijn er ook de Shizuku- en Kurei Kei-uitvoeringen. Deze bieden geen extra mogelijkheden, maar bevatten diverse anime-thema's. In versie 8.17.9 zijn de volgende verbeteringen aangebracht: Changes in version 8.17.9:",
+          "link": "https://tweakers.net/downloads/62262/crystaldiskinfo-8179.html",
+          "publishedOn": "2022-10-30T13:01:59.000Z",
+          "wordCount": 1840,
+          "title": "CrystalDiskInfo 8.17.9",
+          "imageUrl": "https://tweakers.net/i/0rr3j8NVLQdIZqZqJn7gx2QQ6EQ=/134x134/filters:strip_exif()/i/2004637378.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/downloads/62260",
+          "author": "Bart van Klaveren",
+          "description": "Versie 2.7.4 van de opensourcewachtwoordmanager KeePassXC is uitgekomen. Het programma is een afgeleide van KeePass Password Safe en wordt ontwikkeld in C++ met Qt voor het grafische deel waarmee het op Linux, macOS en Windows een passend uiterlijk biedt. Met KeePassXC kunnen accounts worden opgeslagen met alle bijbehorende gegevens, zoals gebruikersnaam, wachtwoord en URL. Alle gegevens worden veilig in een met aes, twofish of ChaCha20 versleutelde database opgeslagen. Verder kan het programma automatisch wachtwoorden genereren en lijsten im- en exporteren. Meer informatie is te vinden op deze pagina. De changelog voor deze uitgave ziet er als volgt uit: Changes",
+          "link": "https://tweakers.net/downloads/62260/keepassxc-274.html",
+          "publishedOn": "2022-10-30T12:50:06.000Z",
+          "wordCount": 2264,
+          "title": "KeePassXC 2.7.4",
+          "imageUrl": "https://tweakers.net/i/eXN6LsqJgTrO2aQKQzNKLIObuSU=/134x134/filters:strip_exif()/i/2004959432.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202846",
+          "author": "Jay Stout",
+          "description": "De smartphone van Liz Truss, de ex-premier van het Verenigd Koninkrijk zou van september 2021 tot en met september 2022 gehackt zijn geweest door Russische geheime agenten. Dat schrijft de Britse krant The Mail on Sunday. Truss was toen nog minister van Buitenlandse Zaken.",
+          "link": "https://tweakers.net/nieuws/202846/britse-krant-smartphone-voormalige-britse-premier-truss-was-jaar-lang-gehackt.html",
+          "publishedOn": "2022-10-30T12:36:04.000Z",
+          "wordCount": 5989,
+          "title": "Britse krant: smartphone voormalige Britse premier Truss was jaar lang gehackt",
+          "imageUrl": "https://tweakers.net/i/ylf0Py6NefSACwFcbEktheISVtY=/134x134/filters:strip_exif()/i/2004795296.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/geek/202844",
+          "author": "Jay Stout",
+          "description": "NASA heeft een nieuw 'akelig' beeld vrijgegeven van de Pillars of Creation, een gebied met gaswolken op 6500 lichtjaren van de aarde. Het beeld is gemaakt met het MIRI-instrument van de James Webb-telescoop en toont enkel de aanwezige lichtgolven uit het mid-infrarodespectrum.",
+          "link": "https://tweakers.net/geek/202844/nasa-toont-akelige-foto-van-pillars-of-creation.html",
+          "publishedOn": "2022-10-30T11:36:54.000Z",
+          "wordCount": 4394,
+          "title": "NASA toont 'akelige' foto van Pillars of Creation",
+          "imageUrl": "https://tweakers.net/i/h1Tp2Y9JVbndRuVrjy36zjJX-_c=/134x134/filters:strip_exif()/i/2004696860.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202842",
+          "author": "Jay Stout",
+          "description": "Er zijn beelden opgedoken van de GeForce RTX 4080-videokaarten van Gigabyte en MSI. Uit de beelden blijkt dat MSI zes varianten van de videokaart zal uitbrengen. Hoeveel de verschillende videokaarten moeten kosten, is nog niet duidelijk.",
+          "link": "https://tweakers.net/nieuws/202842/eerste-beelden-tonen-geforce-rtx-4080-videokaarten-van-gigabyte-en-msi.html",
+          "publishedOn": "2022-10-30T10:04:34.000Z",
+          "wordCount": 10637,
+          "title": "Eerste beelden tonen GeForce RTX 4080-videokaarten van Gigabyte en MSI",
+          "imageUrl": "https://tweakers.net/i/OyPaDg5IkE8eYJ3luAFBVI77OoQ=/134x134/filters:strip_icc():strip_exif()/i/2005413978.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/202840",
+          "author": "Jay Stout",
+          "description": "Wetenschappers van de KU Leuven zijn erin geslaagd om privacygevoelige locaties in de endpoint privacy zones van de Strava-app te achterhalen. Ze hebben dit voor elkaar gekregen door openbaar gedeelde gegevens te analyseren.",
+          "link": "https://tweakers.net/nieuws/202840/wetenschappers-ku-leuven-achterhalen-privacygevoelige-data-van-strava-gebruikers.html",
+          "publishedOn": "2022-10-30T08:52:37.000Z",
+          "wordCount": 8339,
+          "title": "Wetenschappers KU Leuven achterhalen privacygevoelige data van Strava-gebruikers",
+          "imageUrl": "https://tweakers.net/i/i9EHbtppAnr4HhMmpW2xu_fA0kU=/134x134/filters:strip_icc():strip_exif()/i/2005181122.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/reviews/10594",
+          "author": "Arnoud Engelfriet",
+          "description": "Ict-jurist Arnoud Engelfriet bespreekt hoe de kennis, of het gebrek daaraan, van politici en rechters over ict-zaken soms problematisch kan zijn.",
+          "link": "https://tweakers.net/reviews/10594/hoe-politiek-en-recht-worstelen-met-technologie.html",
+          "publishedOn": "2022-10-30T05:00:00.000Z",
+          "wordCount": 1801,
+          "title": "[Plus] Hoe politiek en recht worstelen met technologie",
+          "imageUrl": "https://tweakers.net/ext/i/2005425482.jpeg"
+        },
+        {
           "id": "https://tweakers.net/downloads/62258",
           "author": "Bart van Klaveren",
           "description": "Versie 10.8.6 van Jellyfin is uitgekomen. Deze mediaserver is een fork van Emby en is ontstaan nadat Emby closedsource werd en er voor zogenaamde premiumfeatures betaald moest gaan worden, zoals dat ook bij Plex het geval is. Jellyfin is echter volledig opensource gebleven en alle functionaliteit is aanwezig. Het draait op Windows, macOS, Linux of in een Docker-container. Verder zijn er clients voor elk OS, maar ook voor mediaspelers, TV's en mobiele apparaten. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: jellyfin",
@@ -6640,176 +6730,6 @@
           "wordCount": 2114,
           "title": "SUMo 5.16.1",
           "imageUrl": "https://tweakers.net/i/zHPE6VS6w0xyZ7Yc6c023WV5-MQ=/134x134/filters:strip_exif()/i/2004832886.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/nieuws/201808",
-          "author": "Jay Stout",
-          "description": "Nintendo heeft Skyrim Anniversary Edition aangekondigd voor de Nintendo Switch. De bundel is te koop in de Nintendo eShop voor 70 euro. Switch-gebruikers die de reguliere versie van Skyrim in hun bezit hebben, kunnen upgraden voor 20 euro.",
-          "link": "https://tweakers.net/nieuws/201808/nintendo-kondigt-skyrim-anniversary-edition-aan-voor-switch.html",
-          "publishedOn": "2022-10-01T12:00:51.000Z",
-          "wordCount": null,
-          "title": "Nintendo kondigt Skyrim: Anniversary Edition aan voor Switch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/downloads/61886",
-          "author": "Bart van Klaveren",
-          "description": "Illustrate heeft release 2022-09-28 van dBpoweramp Music Converter uitgebracht. Met dit audiobewerkingsprogramma kunnen audio-cd's worden geript en kunnen muziekbestanden van en naar onder andere mp3, mp4, m4a, wma, Ogg Vorbis, aac, Monkey's Audio, flac en alac worden geconverteerd, met behoud van tags. Verder kunnen de mp3-tags worden aangepast en kan het programma volledig in Windows Explorer worden geïntegreerd, waardoor het gemakkelijk aan te roepen is. De basisversie, voor het rippen van cd's en het converteren van bestanden, is gratis. Voor extra functionaliteit moet worden betaald. Het programma is beschikbaar voor Windows en macOS. Sinds release 17.7 is Illustrate overgestapt op een ander versienummersysteem en zijn de volgende veranderingen en verbeteringen aangebracht: Release 2022-09-28",
-          "link": "https://tweakers.net/downloads/61886/dbpoweramp-music-converter-r2022928.html",
-          "publishedOn": "2022-10-01T11:47:10.000Z",
-          "wordCount": 2130,
-          "title": "dBpoweramp Music Converter R2022.9.28",
-          "imageUrl": "https://tweakers.net/i/v6MnAsHWigGzqsotc7RZK_wyj4o=/134x134/filters:strip_exif()/i/2004952020.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/nieuws/201804",
-          "author": "Jay Stout",
-          "description": "Magic Leap brengt zijn Magic Leap 2-AR-headset uit voor het brede publiek. Daarvoor was het apparaat enkel via een early access-programma voor bedrijven te verkrijgen. De basisversie van de AR-headset kost 3.300 dollar.",
-          "link": "https://tweakers.net/nieuws/201804/magic-leap-brengt-magic-leap-2-ar-headset-uit-vanaf-3300-dollar.html",
-          "publishedOn": "2022-10-01T10:51:46.000Z",
-          "wordCount": null,
-          "title": "Magic Leap brengt Magic Leap 2 AR-headset uit vanaf 3300 dollar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/201802",
-          "author": "Jay Stout",
-          "description": "YouTuber Re-Imagined Games is een remake aan het maken van Super Mario Bros. in de Unreal Engine. De YouTuber zegt een grote fan te zijn van Nintendo en kijkt uit naar de aankomende Super Mario-animatiefilm. Daarom heeft hij het gezicht van acteur Chris Pratt in de game verwerkt.",
-          "link": "https://tweakers.net/nieuws/201802/youtuber-maakt-remake-super-mario-bros-in-unreal-engine-met-gezicht-chris-pratt.html",
-          "publishedOn": "2022-10-01T09:49:47.000Z",
-          "wordCount": null,
-          "title": "Youtuber maakt remake Super Mario Bros. in Unreal-engine met gezicht Chris Pratt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/201800",
-          "author": "Jay Stout",
-          "description": "Ubisoft heeft aangekondigd dat Ubisoft-games, die zijn aangekocht via Google Stadia, zullen worden omgezet naar een pc-versie. Het is niet duidelijk of de Franse ontwikkelaar dit tegen betaling zal doen en het ook savedata en dlc zal omzetten. Het bedrijf komt later met meer details.",
-          "link": "https://tweakers.net/nieuws/201800/ubisoft-ubisoft-games-aangekocht-op-stadia-worden-omgezet-naar-pc.html",
-          "publishedOn": "2022-10-01T08:57:26.000Z",
-          "wordCount": null,
-          "title": "Ubisoft: Ubisoft-games aangekocht op Stadia worden omgezet naar pc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/201798",
-          "author": "Jay Stout",
-          "description": "Tesla-ceo Elon Musk heeft een prototype van een humanoïde robot gepresenteerd. Optimus bevat 40 servomotoren, een accu van 2,3kWh en mechanische handen die fijne bewegingen toelaten. Volgens Musk zal de productieversie van de robot minder dan 20.000 dollar kosten.",
-          "link": "https://tweakers.net/nieuws/201798/tesla-presenteert-humanoide-robot-die-minder-dan-20000-dollar-moet-kosten.html",
-          "publishedOn": "2022-10-01T07:56:39.000Z",
-          "wordCount": 17846,
-          "title": "Tesla presenteert humanoïde robot die minder dan 20.000 dollar moet kosten",
-          "imageUrl": "https://tweakers.net/i/GLL8zyP0V8y2OF3neGll1_BsGWg=/134x134/filters:strip_exif()/i/2004609076.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/reviews/10528",
-          "author": "Jelle Stuip",
-          "description": "In de Best Buy Guide van oktober gaan we op zoek naar de beste laptops voor 500, 700 en 1000 euro.",
-          "link": "https://tweakers.net/reviews/10528/laptop-best-buy-guide-oktober-2022.html",
-          "publishedOn": "2022-10-01T04:00:00.000Z",
-          "wordCount": null,
-          "title": "Laptop Best Buy Guide - Oktober 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/downloads/61884",
-          "author": "Bart van Klaveren",
-          "description": "Versie 15.63 van RJ TextEd is uitgebracht. Deze gratis teksteditor van Zweedse makelij heeft diverse mogelijkheden, die vooral voor software- en webontwikkelaars interessant zijn, zoals syntax-highlighting, autocompletion, uitgebreide selectie- en sorteermogelijkheden en een ingebakken (s)ftp-client. Het programma wordt voor Windows ontwikkeld, maar is via Wine ook onder Linux te gebruiken. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Clone document window",
-          "link": "https://tweakers.net/downloads/61884/rj-texted-1563.html",
-          "publishedOn": "2022-09-30T20:55:04.000Z",
-          "wordCount": null,
-          "title": "RJ TextEd 15.63",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/downloads/61882",
-          "author": "Bart van Klaveren",
-          "description": "Versie 10.2 van de ruim twintig jaar oude e-mailclient The Bat! is uitgekomen. De nieuwe directeur van het Moldavische bedrijf Ritlabs, Stefan Tanurkov, heeft vol ingezet op modernisering van zijn programma. Zo heeft de HTML-rendering engine van Chromium de achterhaalde interne engine en die van Internet Explorer vervangen en is er nu ook een donkere modus. Het programma heeft verder diverse wijzigingen in de interface ondergaan en ziet er echt veel frisser uit dan voorheen. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Major improvements",
-          "link": "https://tweakers.net/downloads/61882/the-bat-102.html",
-          "publishedOn": "2022-09-30T20:51:43.000Z",
-          "wordCount": 2038,
-          "title": "The Bat! 10.2",
-          "imageUrl": "https://tweakers.net/i/00QO-pLzwiVdl5hwYMGfumgGcNo=/134x134/filters:strip_icc():strip_exif()/i/2004745502.jpeg?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/nieuws/201796",
-          "author": "Yannick Spinner",
-          "description": "Verschillende gameontwikkelaars klagen over het gebrek aan communicatie vanuit Google rondom het stoppen van gamedienst Stadia. Er zou vooraf geen waarschuwing geweest zijn en er zou veel onduidelijkheid heersen over het lot van lopende Stadia-projecten.",
-          "link": "https://tweakers.net/nieuws/201796/ontwikkelaars-boos-op-google-over-gebrek-aan-communicatie-over-stoppen-stadia.html",
-          "publishedOn": "2022-09-30T19:15:29.000Z",
-          "wordCount": null,
-          "title": "Ontwikkelaars boos op Google over gebrek aan communicatie over stoppen Stadia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/201794",
-          "author": "Yannick Spinner",
-          "description": "SK hynix kondigt tijdens de Intel Innovation Conference twee varianten van zijn DDR5-rdimm-geheugenmodules aan met capaciteiten van 48 en 96 gigabyte. De geheugensticks zijn bedoeld voor serversystemen en cloudtoepassingen. Er is nog geen releasedatum bekendgemaakt.",
-          "link": "https://tweakers.net/nieuws/201794/sk-hynix-onthult-ddr5-geheugenmodules-van-48-en-96gb-voor-servers.html",
-          "publishedOn": "2022-09-30T18:19:54.000Z",
-          "wordCount": 2734,
-          "title": "SK Hynix onthult DDR5-geheugenmodules van 48 en 96GB voor servers",
-          "imageUrl": "https://tweakers.net/i/BXWtJ8UtHk3a5Mbfek9n56apQMw=/134x134/filters:strip_exif()/i/2004850458.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/downloads/61880",
-          "author": "Bart van Klaveren",
-          "description": "De vijfde generatie van Waterfox is uitgekomen. Waterfox is een webbrowser gebaseerd op de broncode van Firefox. Het project is in 2011 gestart door de toentertijd zestienjarige Alex Kontos en was een van de eerste 64bit-browsers op de markt. Tegenwoordig is het eigendom van System1, maar Alex is nog steeds nauw bij het project betrokken. Waterfox G5 is gebaseerd op Gecko 102 met diverse optimalisaties, heeft geen plug-in-whitelist en stuurt geen telemetrie naar Waterfox. De release notes en changelog voor deze uitgave kunnen hieronder worden gevonden. New",
-          "link": "https://tweakers.net/downloads/61880/waterfox-g50.html",
-          "publishedOn": "2022-09-30T18:07:41.000Z",
-          "wordCount": null,
-          "title": "Waterfox G5.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/downloads/61878",
-          "author": "Bart van Klaveren",
-          "description": "Versie 4.2.3 van Joomla! is uitgekomen. Joomla! is een dynamisch, in php geschreven contentmanagementsysteem, dat kan worden gebruikt om bijvoorbeeld een weblog, website of samenwerkingssite te maken. Om het programma in het Nederlands te gebruiken kun je onder andere op Joomla Community terecht. De changelogs voor de uitgaves vanaf versie 4.2 kunnen hieronder worden gevonden. Bug fixes and Improvements with 4.2.3",
-          "link": "https://tweakers.net/downloads/61878/joomla-423.html",
-          "publishedOn": "2022-09-30T17:15:39.000Z",
-          "wordCount": null,
-          "title": "Joomla! 4.2.3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/201792",
-          "author": "Yannick Spinner",
-          "description": "Tijdens de rechtszaak tussen Twitter en Elon Musk zijn privégesprekken van Musk geopenbaard. Daaruit blijkt dat Musk onder meer het lot van Twitter met oprichter Jack Dorsey besprak. Ook sprak de ceo van het bedrijf, Parag Agrawal, zijn ongenoegen uit over het gedrag van Musk.",
-          "link": "https://tweakers.net/nieuws/201792/privegesprekken-elon-musk-jack-dorsey-en-twitter-ceo-gedeeld-in-rechtszaak.html",
-          "publishedOn": "2022-09-30T16:54:33.000Z",
-          "wordCount": 4082,
-          "title": "Privégesprekken Elon Musk, Jack Dorsey en Twitter-ceo gedeeld in rechtszaak",
-          "imageUrl": "https://tweakers.net/i/NGHMrxBR6EckGXmSvBnOwLSCNLA=/134x134/filters:strip_exif()/i/2004618418.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/nieuws/201790",
-          "author": "Sabine Schults",
-          "description": "De aankomende Xiaomi 12T-serie krijgt naar verluidt een vanafprijs van 580 euro. De duurste variant in de serie, een 12T Pro met 12GB ram en 256GB opslagruimte, krijgt mogelijk een adviesprijs van 800 euro.",
-          "link": "https://tweakers.net/nieuws/201790/gerucht-xiaomi-12t-krijgt-adviesprijs-vanaf-580-euro-12t-pro-vanaf-770-euro.html",
-          "publishedOn": "2022-09-30T15:20:44.000Z",
-          "wordCount": null,
-          "title": "Gerucht: Xiaomi 12T krijgt adviesprijs vanaf 580 euro, 12T Pro vanaf 770 euro",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/201760",
-          "author": "Mark Hendrikman",
-          "description": "Google Stadia is sinds gisteren killed by Google. Het gamestreamingplatform trok niet genoeg spelers, maar had wel een trouwe schare fans. Wat is er gebeurd in de drie jaar dat Stadia heeft geleefd en komt er een doorstart onder een andere naam, bij een ander bedrijf?",
-          "link": "https://tweakers.net/nieuws/201760/google-bleef-het-lang-ontkennen-maar-stopt-toch-met-stadia.html",
-          "publishedOn": "2022-09-30T14:47:51.000Z",
-          "wordCount": null,
-          "title": "[Plus] Google bleef het lang ontkennen, maar stopt toch met Stadia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/201788",
-          "author": "Sabine Schults",
-          "description": "Een analist deelt CAD-bestanden van de vermeende Meta Quest 3-VR-headset. Daarop is mogelijk het ontwerp van de Quest 2-opvolger te zien, al is het niet bekend hoe recent de beelden zijn. Ook deelt de analist een aantal mogelijke specificaties van de toekomstige VR-bril.",
-          "link": "https://tweakers.net/nieuws/201788/analist-toont-uitgelekte-cad-bestanden-van-vr-headset-meta-quest-3.html",
-          "publishedOn": "2022-09-30T14:43:53.000Z",
-          "wordCount": null,
-          "title": "Analist toont uitgelekte CAD-bestanden van VR-headset Meta Quest 3",
-          "imageUrl": null
         }
       ]
     },
@@ -6818,6 +6738,206 @@
       "feedUrl": "https://nl.pepper.com/rss/overzicht%20van%20de%20populairste%20groepen",
       "siteUrl": "https://nl.pepper.com",
       "articles": [
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/ns-meereisretour-november-december-2022-253713",
+          "author": null,
+          "description": "€9,95 - Nederlandse Spoorwegen\nNS Actie Meereisretour is verlengd! Prijs is nu €9,95\nNIEUW: is je enkele reis < 39 km, koop dan een Samenreisticket Dagretour Dal via\nns.nl/producten/s/samenreisticket_retour_daluren\nVul Vertrek & Aankomst station in, en het systeem berekend automatisch de prijs.\nEen retour tussen bijvoorbeeld station Arnhem en Station Arnhem Velperpoort (2 km)\nkost bij reizen met een NS trein €3 en bij reizen in een Arriva (of Breng) trein €1,54\nHoef je niet terug en is de reis < 84 km, koop dan een Samenreisticket Enkele reis Dal via\nns.nl/producten/meest-gekocht/p/samenreisticket_enkele_reis_daluren\nVul Vertrek & Aankomst station in, en het systeem berekend automatisch de prijs.\nEen enkele reis tussen bijvoorbeeld station Arnhem en Station Arnhem Velperpoort (2 km)\nkost b…",
+          "link": "https://nl.pepper.com/aanbiedingen/ns-meereisretour-november-december-2022-253713",
+          "publishedOn": "2022-10-31T01:16:38.000Z",
+          "wordCount": 1538,
+          "title": "NS Meereisretour november & december 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/jack-jones-glenn-original-slimfit-herenjeans-zwart-vrijwel-alle-maten-253712",
+          "author": null,
+          "description": "€14,99 - Amazon.de\nMet de €5 korting komt deze jeans uit op €10,25! Check even of je in aanmerking komt voor deze €5 korting: https://www.amazon.de/b/ref=mh_s9_acss_cg_yrnthpur_1b1_cta_w?node=30119303031&pf_rd_m=A3JWKAKR8XB7XF&pf_rd_s=mobile-hybrid-5&pf_rd_r=XCQ62HCX9083BBGBYP34&pf_rd_t=30901&pf_rd_p=6213f71b-0ec5-4de4-b6c2-7664bf650d3b&pf_rd_i=22427414031&language=de_DE&tag=peppercom09-21\nWel even de taalinstelling wijzigen van Nederlands naar Duits!",
+          "link": "https://nl.pepper.com/aanbiedingen/jack-jones-glenn-original-slimfit-herenjeans-zwart-vrijwel-alle-maten-253712",
+          "publishedOn": "2022-10-31T00:29:43.000Z",
+          "wordCount": 1115,
+          "title": "JACK & JONES Glenn Original Slimfit Herenjeans (zwart, vrijwel alle maten)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/ted-baker-shopper-253711",
+          "author": null,
+          "description": "€15,60 - Omoda\nNog maar 1 op voorraad!\nGratis verzending met omoda account",
+          "link": "https://nl.pepper.com/aanbiedingen/ted-baker-shopper-253711",
+          "publishedOn": "2022-10-31T00:09:35.000Z",
+          "wordCount": 1068,
+          "title": "Ted Baker shopper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/lego-technic-42145-airbus-h175-reddingshelikopter-253710",
+          "author": null,
+          "description": "€129,99 - Kruidvat\nMomenteel bij de kruidvat clubacties is deze lego airbus de laagste prijs tot nu toe. Korting gaat eraf zodra je ingelogd bent dan zal de prijs updaten in je mand.",
+          "link": "https://nl.pepper.com/aanbiedingen/lego-technic-42145-airbus-h175-reddingshelikopter-253710",
+          "publishedOn": "2022-10-30T23:29:26.000Z",
+          "wordCount": 1098,
+          "title": "LEGO TECHNIC 42145 AIRBUS H175 REDDINGSHELIKOPTER",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/xiaomi-12-pro-gris-12-gb-256-gb-253709",
+          "author": null,
+          "description": "€799 - Amazon.nl\nLaatste topper van Xiaomi voor nu laagste prijs in 6 maanden\nCorrecte beschrijving van mi.com:\nScherm\nWQHD+ 6,73-inch AMOLED DotDisplayBeeldverhouding: 20:9, 3200 x 1440522 ppiLTPOReactiesnelheid voor aanrakingen: tot 480 Hz*De reactiesnelheid voor aanrakingen kan variëren afhankelijk van de inhoud op uw scherm.AdaptiveSync Pro-scherm: 1 Hz/10 Hz/30 Hz/60 Hz/90 Hz/120 HzMeer dan 1 miljard kleurenKleurengamma: DCI-P3-TrueColor-weergave: JNCD ≈ 0,43, Delta E ≈ 0,4Contrastverhouding: 8.000.000: 1Helderheid: HBM 1000 nits (type), 1500 nits piekhelderheidHDR10+Dolby Vision®Helderheidsaanpassing van 16.000 niveausCorning® Gorilla® Glass Victus®LeesmodusZonlichtmodus360°-omgevingslichtsensorDisplayMate A+SGS Eye Care Display-certificeringGeteste SGS-prestaties: Seamless Pro\nAfmet…",
+          "link": "https://nl.pepper.com/aanbiedingen/xiaomi-12-pro-gris-12-gb-256-gb-253709",
+          "publishedOn": "2022-10-30T23:23:11.000Z",
+          "wordCount": 1422,
+          "title": "Xiaomi 12 pro grijs 12 gb / 256 gb",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/code-15-extra-korting-op-alles-253535",
+          "author": null,
+          "description": "Sport-Korting\nAlleen vandaag 15% extra korting op alles in de webshop van Sport-Korting met de code SPOOKY15. Deze 15% korting komt bovenop de outlet kortingen met tot wel 82% op kleding, schoenen en accessoires van merken als adidas, NIKE, Asics, Hummel, Timberland en veel meer.\n| aantal voorbeelden uit het aanbod - de 15% extra gaat hier nog vanaf\n\nVerzending & retourneren\n\nGratis thuisbezorgd bij besteding vanaf €100 - anders betaal je €5,95\n\nRetourneren is voor eigen rekening\ntip: Betaal met PayPal want zo kun je de eventuele retourkosten terugkrijgen. Dit is een service van PayPal als je een gratis PayPal account hebt, met PayPal betaalt en voor de retourservice bent aangemeld (t/m 26 november 2022 - hierna wordt deze service beëindigd)\n\n\nBetaalopties\n\niDeal\nPayPal [aanrader: zie boven]\ncreditcard",
+          "link": "https://nl.pepper.com/aanbiedingen/code-15-extra-korting-op-alles-253535",
+          "publishedOn": "2022-10-30T23:00:01.000Z",
+          "wordCount": 1216,
+          "title": "Code: 15% extra korting op alles",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/mymagicwand-253706",
+          "author": null,
+          "description": "€51,98 - Wehkamp\nVerras je partner met deze wand! Last van stijve spieren? Wacht niet langer en zorg voor een geweldige ontspanning!\nMy Magic Wand is dé luxe en krachtige wand vibrator die de traditionele look een kleurrijke twist geeft.\n\nSuper krachtig\nZacht materiaal\n6 vibratiesnelheden\nLang snoer\nBeweegbare kop\nKleur: Paars\nWaar gebruik je deze vibrator voor en hoe werkt het?\nDeze zeer krachtige wand vibrator is uitgerust met een krachtige motor die 6 verschillende vibratie standen levert. De variërende standen bedien je eenvoudig met de drukknopjes op ronde handvat. Met de onderste knop zet je de vibrator aan en uit. Met de + en - knop schakel je naar een hardere of zachtere stand. Plug de stekker in het stopcontact, zet de MyMagicWand aan en kies je favoriete stand. Ga vervolgens voor een heerlijke massage of verken de meest gevoelige plekjes met de zachte, ronde kop. Uiteraard is de MMW ook geschikt voor partners die elkaar willen verwennen. Van massages met een happy end tot snelle solo-sessies, de wand vibrator zal voldoen aan al je eisen op elk gewenst moment in de slaapkamer.\nWat maakt de MyMagicWand bijzonder?\nDeze MyMagicWand heeft verschillende vibratie standen en patronen. De meeste wand vibrators kunnen alleen op verschillende snelheden vibreren of hebben geen verschillende standen. Ook is de wand vibrator eenvoudig in gebruik. Je hebt geen batterijen nodig, je hoeft het niet op te laden en je hoeft je geen zorgen te maken over het snoer. De MyMagicWand heeft namelijk een extra lang snoer met een vaste stekker. Dit geeft de wand massager een constante toevoer waardoor diepe vibraties gegarandeerd worden. De accu kan niet leeglopen waardoor de vibratiesterkte niet zal afnemen.",
+          "link": "https://nl.pepper.com/aanbiedingen/mymagicwand-253706",
+          "publishedOn": "2022-10-30T21:48:20.000Z",
+          "wordCount": 1327,
+          "title": "My Magic Wand vibrator @Wehkamp",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/the-bucket-leiden-opheffingsuitverkoop-1-kilo-unionrings-voor-15-1-kilo-chicken-strips-en-veel-meer-253701",
+          "author": null,
+          "description": "Helaas gaan ze weg, maar daar voor zijn er nu wel mooie deals te scoren.",
+          "link": "https://nl.pepper.com/aanbiedingen/the-bucket-leiden-opheffingsuitverkoop-1-kilo-unionrings-voor-15-1-kilo-chicken-strips-en-veel-meer-253701",
+          "publishedOn": "2022-10-30T20:36:10.000Z",
+          "wordCount": 1107,
+          "title": "The Bucket Leiden opheffingsuitverkoop - 1 kilo Unionrings voor 15,- / 1 kilo chicken strips / en veel meer.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/myprotein-sportshirt-253703",
+          "author": null,
+          "description": "€3,70 - MyProtein\nmet een kortingscode van 40% en een cashback van 12% via cashbackxxl is dit echt een hele mooie aanbieding al zeg ik hetzelf",
+          "link": "https://nl.pepper.com/aanbiedingen/myprotein-sportshirt-253703",
+          "publishedOn": "2022-10-30T20:34:45.000Z",
+          "wordCount": 1072,
+          "title": "MyProtein sportshirt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/lego-lego-duplo-opbergdoos-253697",
+          "author": null,
+          "description": "€21,99 - Aldi\nVanaf woensdag 02-11 bij de Aldi te vinden \nLEGO Classic en Lego Duplo opbergdozen incl bouwstenen. \nLet op foto 2 opbergdozen bevatten geen stenen.\nSuper goede deal vooral nu de feestdagen er aan komen en ik al hier vaker heb gelezen dat sommige kinderen liever willen ‘bouwen’ ipv met sets/ dieren willen spelen.",
+          "link": "https://nl.pepper.com/aanbiedingen/lego-lego-duplo-opbergdoos-253697",
+          "publishedOn": "2022-10-30T20:34:17.000Z",
+          "wordCount": 1108,
+          "title": "Lego & Lego Duplo opbergdoos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/the-north-face-glacier-zip-fleece-trui-253702",
+          "author": null,
+          "description": "€35,95 - Zalando\nThe North Face GLACIER ZIP - Fleece trui\nKleur: black\nBeschikbaar in de maten: XS t/m XXL\nPrijs is €35,95\nIk heb er iets bij gekocht om aan €50,00 te komen om vervolgens kortingscode \"LINDA20\" te gebruiken= 20% korting.\nIk heb €28,75 betaald voor de Fleece trui\nAlles over dit product:\nSportcategorie: Outdoor, urban outdoor\nTailleband: Elastisch\nHalslijn / kraag: Troyerkraag\nHalslijn / kraag: Hoogsluitend\nMouwboorden: Rekbaar\nPatroon: Effen\nGratis verzending & Retour!",
+          "link": "https://nl.pepper.com/aanbiedingen/the-north-face-glacier-zip-fleece-trui-253702",
+          "publishedOn": "2022-10-30T19:45:27.000Z",
+          "wordCount": 1147,
+          "title": "The North Face GLACIER ZIP - Fleece trui",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/clubactie-25-korting-op-lego-bouwsels-vanaf-eur50-253700",
+          "author": null,
+          "description": "Kruidvat\nDe actie begint waarschijnlijk vannacht. Je moet de aanbieding dan activeren bij Clubacties.",
+          "link": "https://nl.pepper.com/aanbiedingen/clubactie-25-korting-op-lego-bouwsels-vanaf-eur50-253700",
+          "publishedOn": "2022-10-30T19:10:34.000Z",
+          "wordCount": 1072,
+          "title": "Clubactie: 25% korting op LEGO bouwsets vanaf €50",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/witlof-50-korting-253698",
+          "author": null,
+          "description": "€0,64 - PLUS\n500gr witlof aankomende week met 50% korting.\nWeer een (hopelijk) goede groentedeal. Die @Wouter.Kortingzoeker misschien ook kan waarderen. Wat zeg jij @Michiel71? ;)",
+          "link": "https://nl.pepper.com/aanbiedingen/witlof-50-korting-253698",
+          "publishedOn": "2022-10-30T19:04:13.000Z",
+          "wordCount": 1051,
+          "title": "Witlof 50% korting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/lsc-smart-connect-slimme-stekker-253693",
+          "author": null,
+          "description": "€5,95 - Action\nSlimme stekker via het LSC platform (Tuya). Was aan het zoeken en dit is wel heel goedkoop. Zoek zelf iets dat op Home assistent werkt en energieverbruik meet dat lijkt hier niet zo te zijn.\nBeschrijving\nEenvoudig aan te sluiten op 2,4 GHz wifi-netwerken\nBedien met je telefoon, tablet of smart speaker\nGegevens worden gehost op een EU-server volgens de Europese privacywetgeving, raadpleeg hier de conformiteitsverklaring\nMet een slimme stekker als deze LSC Smart Connect-topper schakel je ook niet-slimme apparaten of lampen op afstand in. Je steekt 'm gewoon in het stopcontact en sluit je favoriete apparaat er op aan. Met de wifi-verbinding en de gratis app op je smartphone bedien je al je apparaten, gewoon vanuit je stoel.\nVoor de beste werking van je slimme stekker, worden er…",
+          "link": "https://nl.pepper.com/aanbiedingen/lsc-smart-connect-slimme-stekker-253693",
+          "publishedOn": "2022-10-30T18:54:10.000Z",
+          "wordCount": 1591,
+          "title": "LSC Smart Connect slimme stekker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/russell-hobbs-koffiezetapparaat-253696",
+          "author": null,
+          "description": "€19,99 - Ochama\nLaagste prijs op tweakers is 56 euro\nRussell Hobbs 21701-56 kopen? - Prijzen - Tweakers",
+          "link": "https://nl.pepper.com/aanbiedingen/russell-hobbs-koffiezetapparaat-253696",
+          "publishedOn": "2022-10-30T18:42:23.000Z",
+          "wordCount": 1082,
+          "title": "Russell Hobbs koffiezetapparaat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/week-44-aanbieding-suiker-cronut-at-lidl-253691",
+          "author": null,
+          "description": "€0,69\nNa de chocolade Cronut (zie post van LineLi) van een half jaar geleden hebben ze nu tijdelijk de geglazuurde suiker Cronut.\nWat is een Cronut?\n\"De cronut is een kruising tussen een donut en croissant. De cronut werd in 2013 in Amerika geïntroduceerd door Dominique Ansel, van Ansel’s bakery in New York, waar ze tot op de dag van vandaag razend populair zijn.\"",
+          "link": "https://nl.pepper.com/aanbiedingen/week-44-aanbieding-suiker-cronut-at-lidl-253691",
+          "publishedOn": "2022-10-30T16:30:43.000Z",
+          "wordCount": 1122,
+          "title": "[week 44 aanbieding] suiker Cronut @ Lidl",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/sony-wh-1000xm5-253685",
+          "author": null,
+          "description": "€319 - Ochama\nPrijs is op de website en in de app 329 en gaat nog 10 euro af bij het afrekenen waardoor je op 319 uitkomt. Gratis thuisbezorging of afhalen bij een Pickup point.",
+          "link": "https://nl.pepper.com/aanbiedingen/sony-wh-1000xm5-253685",
+          "publishedOn": "2022-10-30T16:30:04.000Z",
+          "wordCount": 1099,
+          "title": "Sony WH-1000XM5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/garmin-edge-130-plus-253689",
+          "author": null,
+          "description": "€139 - Amazon.nl\nAdviesprijs 199,-\nPrijs Amazon 139,- (verzending gratis icm Prime)\nLaagste prijs elders 168,99 (Coolblue)\nDe Garmin Edge 130 Plus is een veelzijdig en compact fietsnavigatiesysteem voor zowel indoor als outdoor fietsritten. Ontdek een van de vele trainingsprogramma's in de bijbehorende app, waarmee je je sportprestaties verbetert. Je koppelt jouw apparaat gemakkelijk aan ANT+ of bluetooth sensoren. Hiermee krijg je nog betere inzichten in je conditie, lees je berichten af van je smartphone en deel je je live locatie. Je gebruikt de Edge 130 Plus met vertrouwde apps als Garmin Connect en Strava. Ook de verrassende route functie is bij dit model aanwezig, waarmee je nieuwe plekken ontdekt. Dankzij ongeval detectie stuurt het apparaat een bericht naar een aantal geselecteerde contacten in geval van nood. De batterij gaat in gps modus tot wel 12 uur mee.",
+          "link": "https://nl.pepper.com/aanbiedingen/garmin-edge-130-plus-253689",
+          "publishedOn": "2022-10-30T16:29:02.000Z",
+          "wordCount": 1187,
+          "title": "GARMIN Edge 130 Plus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/25-korting-op-alles-bij-miinto-253676",
+          "author": null,
+          "description": "Miinto\nDe code is geldig t/m 31.10 bij bestellingen boven 49€. Er zijn uitzonderingen van toepassing (zie hieronder).\nDe code is niet geldig op Axel Arigato, Parajumpers, Mulberry, Ahlvar Gallery, DWRS, vintage horloges en cadeaubonnen.",
+          "link": "https://nl.pepper.com/aanbiedingen/25-korting-op-alles-bij-miinto-253676",
+          "publishedOn": "2022-10-30T16:28:44.000Z",
+          "wordCount": 1071,
+          "title": "25% korting op alles bij Miinto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/tot-30-korting-op-bijna-alles-van-vans-253682",
+          "author": null,
+          "description": "Vans\nToffe aanbiedingen weer van Vans op bijna alle producten!.\nGratis verzending vanaf €50.\nDoe er je voordeel mee!. \nKORTINGSCODE: HALLOWEEN22",
+          "link": "https://nl.pepper.com/aanbiedingen/tot-30-korting-op-bijna-alles-van-vans-253682",
+          "publishedOn": "2022-10-30T16:28:34.000Z",
+          "wordCount": 1121,
+          "title": "Tot 30% korting op (bijna) alles van Vans!.",
+          "imageUrl": null
+        },
         {
           "id": "https://nl.pepper.com/aanbiedingen/ben-je-creatief-dan-kan-het-zelf-weer-met-zeep-naar-wens-bijgevuld-worden-253643",
           "author": null,
@@ -12606,206 +12726,6 @@
           "publishedOn": "2022-10-01T16:27:39.000Z",
           "wordCount": 1134,
           "title": "Meerdere Switch games voor lagere prijzen",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/lego-promoties-begin-oktober-250795",
-          "author": null,
-          "description": "LEGO\nBij Lego kan je je gratis aanmelden voor het VIP programma. Dan krijg je standaard VIP punten bij je bestelling (ter waarde van 5% van je order) die je later kan inwisselen voor oa korting.\nVan 1-13 oktober zolang de voorraad strekt, gratis vanaf een besteding van 120,- euro:\nRay de Schipbreukeling 40566\nGehele maand oktober zolang de voorraad strek, gratis vanaf een besteding van 50,- euro, mits je VIP bent:\nSpooky VIP add-on (Bricklink lijst met onderdelen)",
-          "link": "https://nl.pepper.com/aanbiedingen/lego-promoties-begin-oktober-250795",
-          "publishedOn": "2022-09-30T22:25:00.000Z",
-          "wordCount": 1226,
-          "title": "Lego Promoties Begin Oktober",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/gratis-lego-city-2-in-1-politie-opbergdoos-60270-bij-aankoop-van-75-aan-lego-city-sets-250794",
-          "author": null,
-          "description": "Intertoys\nNieuwe actie bij de Intertoys naast de Classic variant.\nBij aankoop van 75.- aan onderstaande LEGO City sets krijg je één GRATIS LEGO City 2-in-1 politie opbergdoos 60270. Voeg deze zelf toe aan het winkelmandje. De korting wordt automatisch verrekend. Niet geldig i.c.m. de losse verkoop van de LEGO City opbergdoos 60270. Op=Op!\nEr zijn een aantal sets die in prijs zijn verlaagd dus nog meer voordeel!\nVergeet niet CashbackXL voor 4% extra korting.\nActie is ook te combineren met de trein rails. Voeg bijvoorbeeld de Passagierssneltrein 60337 voor €120.\nhttps://www.intertoys.nl/lego-city-passagierssneltrein-60337\nDe treinrails van €17,99\nhttps://www.intertoys.nl/lego-city-treinrails-60205\nEn de opbergdoos 60270 van €44,99.\nhttps://www.intertoys.nl/lego-city-2-in-1-politie-opbergdoos-60270\nEn betaal in totaal de €120. Daarnaast ontvang je hierbij 12 kraskaarten!\nVia CashbackXL ontvang je €4,80 cashback over het bedrag van €120",
-          "link": "https://nl.pepper.com/aanbiedingen/gratis-lego-city-2-in-1-politie-opbergdoos-60270-bij-aankoop-van-75-aan-lego-city-sets-250794",
-          "publishedOn": "2022-09-30T22:18:57.000Z",
-          "wordCount": 1380,
-          "title": "GRATIS LEGO City 2-in-1 politie opbergdoos 60270 Bij aankoop van 75.- aan LEGO City sets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/eurosparen-eur5-kaartje2go-voor-10-punten-250788",
-          "author": null,
-          "description": "Eurosparen\nNu leuke actie bij eurosparen voor 10 punten €5 te besteden op kaarten&postzegels bij kaartje2go. \nOntvang nu € 5,00 korting.\nBen je een nieuwe klant? Maak dan een account aan en ontvang direct ook je eerste kaart cadeau (excl. postzegel). Dat is dus een éxtra voordeel bovenop de voucher!\nBestel je kortingsvoucher op Eurosparen en ga naar https://www.kaartje2go.nl/eurosparen om jouw kaart met korting te bestellen.\nDe voordelen van Kaartje2go:\nHet mooiste en grootste aanbod kaarten.\nVoor 20:00 uur besteld op een werkdag = dezelfde dag verzonden.\nNieuwe klant = 1e kaart cadeau.\nCO2- neutraal gedrukt én bezorgd.\nKlantvriendelijkste kaartenwinkel 2022 én beste webwinkel van Nederland 2022.\nVoorwaarden\nDe korting is van toepassing op alle kaarten.\nNiet van toepassing op andere producten.\nOp de € 5,00 kortingsvoucher geldt geen recht van retour.\nDe voucher is eenmalig te gebruiken, eventuele restwaarde vervalt.\nDe voucher is niet geldig in combinatie met andere codes, aanbiedingen.\nDe voucher kan niet worden ingewisseld tegen contanten.\nPer Eurosparen klant kan er 1x per 12 maanden een voucher worden gekocht.\nDeze voucher is in te wisselen tot 31-12-2023.",
-          "link": "https://nl.pepper.com/aanbiedingen/eurosparen-eur5-kaartje2go-voor-10-punten-250788",
-          "publishedOn": "2022-09-30T20:50:26.000Z",
-          "wordCount": 1415,
-          "title": "Eurosparen €5 kaartje2go voor 10 punten",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/dierendagen-xl-korting-bij-avonturia-tot-wel-70-250792",
-          "author": null,
-          "description": "Het zijn Dierendagen XL bij Avonturia. Je krijgt tot wel 70% op het gehele assortiment.\nDe korting zou eigenlijk pas vanaf morgen in gaan, maar ze staan nu al op de webshop.\nVergeet overigens niet een gratis item toe te voegen, deze krijg je bij een bestelbedrag vanaf een x aantal euro's. Je mag maar 1 gratis item per bestelling kiezen https://www.avonturiashop.nl/gratis-41579/\nDoe er je voordeel mee voor je huisdier zou ik zeggen  (y)",
-          "link": "https://nl.pepper.com/aanbiedingen/dierendagen-xl-korting-bij-avonturia-tot-wel-70-250792",
-          "publishedOn": "2022-09-30T20:50:21.000Z",
-          "wordCount": 1238,
-          "title": "Dierendagen XL korting bij Avonturia - TOT WEL 70%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/philips-hue-wall-switch-module-250789",
-          "author": null,
-          "description": "€34,95 - Amazon.nl\nHOU JE LAMPEN BEREIKBAAR: voorkom dat je slimme lampen 'onbereikbaar' worden doordat iemand de gewone lichtschakelaar gebruikt om je lampen uit te doen. Met de wandschakelaarmodule blijven je Philips Hue lampen altijd op de stroom aangesloten en klaar voor gebruik.\nBEDIEN LAMPEN, KAMERS, OF ZONES: gebruik je bestaande lichtknop om alle slimme lampen in een kamer of zone te bedienen. In de Hue app koppel je de wandschakelaarmodule eenvoudig met de lampen die je wil gebruiken.\nROULEER DOOR LICHTSCÈNES: gebruik je gewone schakelaar om tot wel drie verschillende lichtscènes te sturen. Door gewoon de schakelaar aan en uit te doen, kun je zelfgekozen scènes doorlopen.\nPHILIPS HUE BRIDGE VEREIST: voor de Philips Hue wandschakelaarmodule is een Hue Bridge vereist (apart verkrijgbaar). Met de Hue Bridge kun je bovendien 50 lampen en 12 accessoires toevoegen in je hele huis. De Bridge ontgrendelt alle slimme geavanceerde functies in de Hue app, zoals timers en routines aanmaken en je lampen bedienen als je niet thuis bent.\nBEDIEN JE LAMPEN MET JE STEM: Bedien je lampen handsfree en gebruik je stem in plaats van een mobiel apparaat! Met eenvoudige spraakopdrachten kun je meerdere lampen of slechts één lamp in een kamer bedienen. Werkt samen met Alexa, Google Assistent of Siri.",
-          "link": "https://nl.pepper.com/aanbiedingen/philips-hue-wall-switch-module-250789",
-          "publishedOn": "2022-09-30T20:50:15.000Z",
-          "wordCount": 1471,
-          "title": "Philips Hue Wall Switch Module",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/western-digital-2x4tb-my-cloud-ex2-ultra-network-storage-250793",
-          "author": null,
-          "description": "€279 - Amazon.de\nTijdelijk niet leverbaar maar wel te bestellen.\nDe 46% korting is onzin dus daar niet op letten, het is alsnog een goede prijs, ongeveer €50,- korting als je alleen de case zou kopen met 2x4 tb losse harde schijven.\n\n Store your data in one central place thanks to the NAS hard drive. Access to the secured media is easier with the My Cloud app  \n WD Red hard drives developed for NAS storage are reliable. They offer high performance in continuous operation. RAID-1 mode allows mirrored data backup, for double security  \n  The fast transfer speeds are ensured by the 1.3 GHz dual-core processor. As external memory, the NAS system offers powerful streaming \n Create folders to share media with your family or friends. Automatically synchronise data within multiple devices with WD Sync  \n  Box contents: WD My Cloud EX2 Ultra NAS hard drive 8 TB (2x drive bay, mobile access, automatic backups), network cable, power supply, quick installation guide, 3 year warranty",
-          "link": "https://nl.pepper.com/aanbiedingen/western-digital-2x4tb-my-cloud-ex2-ultra-network-storage-250793",
-          "publishedOn": "2022-09-30T20:48:37.000Z",
-          "wordCount": 1462,
-          "title": "Western Digital 2x4TB My Cloud Ex2 Ultra Network Storage",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/goedkope-hm-baby-kleren-250791",
-          "author": null,
-          "description": "€3,99 - H&M\nHeel leuke kleren voor heel weinig geld\nBevoorbeeld deze setje is maar €3,99\nEn zijn meerdere maten beschikbaar.. wees er snel bij...\nHier nog meer aanbiedingen.\nwww2.hm.com/nl_nl/productpage.0887882019.html\n\nwww2.hm.com/nl_nl/productpage.0893061005.html\nwww2.hm.com/nl_nl/productpage.1073459001.html\nwww2.hm.com/nl_nl/productpage.1063841001.html\nwww2.hm.com/nl_nl/productpage.1073848002.html",
-          "link": "https://nl.pepper.com/aanbiedingen/goedkope-hm-baby-kleren-250791",
-          "publishedOn": "2022-09-30T19:48:39.000Z",
-          "wordCount": 1184,
-          "title": "Goedkope h&m baby kleren",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/philips-hue-lampen-gamma-leidschendam-250787",
-          "author": null,
-          "description": "€24,99\nVerschillende Philips Hue LED lampen met 50% korting bij Gamma Leidschendam (Veursestraatweg 197, 2264 EG Leidschendam).\nDoosjes waren leeg en ik kreeg een nieuw doosje bij de servicebalie. Vermoedelijk is er dus meer voorraad dan op de tafel staat.\nExtra foto’s en foto van mijn bon bijgevoegd in opmerking onder aanbieding.\nOpeningstijden:\nmaandag\n09:00 - 18:00\ndinsdag\n09:00 - 18:00\nwoensdag\n09:00 - 18:00\ndonderdag\n09:00 - 21:00\nvrijdag\n09:00 - 21:00\nzaterdag\n09:00 - 18:00\nzondag\nGesloten",
-          "link": "https://nl.pepper.com/aanbiedingen/philips-hue-lampen-gamma-leidschendam-250787",
-          "publishedOn": "2022-09-30T18:17:19.000Z",
-          "wordCount": 1257,
-          "title": "Philips Hue Lampen 50% korting @ Gamma Leidschendam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/philips-xc420001-steelstofzuiger-144v-voor-eur129-at-blokker-winkels-250786",
-          "author": null,
-          "description": "€129 - Blokker\nAlleen beschikbaar in de filialen, je kunt online de winkelvoorraad checken.\nLaagste prijs elders: €169\nProductbeschrijving\nDe Philips XC4201/01 snoerloze steelstofzuiger is voorzien van een compacte digitale motor, die ontworpen is voor verwijdering van vuil op harde vloeren. Deze 2-in-1 stofzuiger en kruimelzuiger heeft een ultralichte en slanke design. Dankzij het lichte ontwerp is de stofzuiger eenvoudig te gebruiken en schoon te maken. De volledige stofzuiger weegt slechts 2,2 kg en de kruimelzuiger nog geen 800 gram. Door het slanke design kan de stofzuiger helemaal plat op de vloer om onder lage meubels en in lastige hoeken te komen. De Philips XC4201/01 steelstofzuiger heeft een gemotoriseerde borstelmondstuk met antiklitfunctie. De stofbakken in de kruimelzuiger en het mondstuk zijn met één klik te verwijderen, en dus eenvoudig te legen. Je hebt de keuze uit de normale stand, met een gebruiksduur van maar liefst 30 minuten, en de turbostand met een gebruiksduur van 18 minuten.",
-          "link": "https://nl.pepper.com/aanbiedingen/philips-xc420001-steelstofzuiger-144v-voor-eur129-at-blokker-winkels-250786",
-          "publishedOn": "2022-09-30T17:54:40.000Z",
-          "wordCount": 1387,
-          "title": "Philips XC4200/01 steelstofzuiger 14,4V voor €129 @ Blokker (winkels)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/reebok-reebok-royal-cl-jog-30-meisjes-sneaker-250785",
-          "author": null,
-          "description": "€17,50 - Amazon.nl\nReebok REEBOK ROYAL CL JOG 3.0 meisjes Sneaker\nKleur: Vector Marine Porselein Roze\nBeschikbaar in de maten: 27 , 27,5 , 28 , 31 , 31,5\nOok voor jongens Beschikbaar in de Kleur: Puur Grijs\nBeschikbaar in de maten: 27 , 27,5 , 31\n-->\nReebok REEBOK ROYAL CL JOG 3.0 jongens Sneaker€17,50  amzn.eu/d/hGZOrCo\nNog een link voor meisjes €17,50-->\nReebok REEBOK ROYAL CL JOG 3.0 1V meisjes Sneaker amzn.eu/d/ccYwzP4\nVoor meisjes€19 --> Reebok REEBOK ROYAL CL JOG 3.0 Girls Sneaker amzn.eu/d/fnR6sgq\nVoor jongens €19\n--> Reebok REEBOK ROYAL CL JOG 3.0 jongens Sneaker amzn.eu/d/b0dwKOY\nNog een link voor jongens €19\n--> Reebok REEBOK ROYAL CL JOG 3.0 jongens Sneaker amzn.eu/d/aIpXWzX\nVoor Dames €19\n--> Reebok ROYAL CL JOG 3.0 dames Sneaker amzn.eu/d/0lfCNEy\nVoor jongens €19\n--> Reebok Royal Classic Jogger 3 jongens Sneakers https://amzn.eu/d/gmpTodK\nVerzending Amazon NL:\nGratis verzending naar afhaalpunt\nGratis verzending voor Prime-leden\nJe kan een gratis 30 dagen proefperiode op Prime nemen. Je kan je direct afmelden na aanmelden, en behoudt je voordelen gedurende die 30 dagen.\nGratis verzending boven de €20\nOnder de €20 betaal je naar NL (huis) €2,49 zonder prime",
-          "link": "https://nl.pepper.com/aanbiedingen/reebok-reebok-royal-cl-jog-30-meisjes-sneaker-250785",
-          "publishedOn": "2022-09-30T17:50:34.000Z",
-          "wordCount": 1502,
-          "title": "Reebok REEBOK ROYAL CL JOG 3.0 meisjes Sneaker(zie beschrijving meerdere sneakers)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/lidl-7-zones-comfortmatras-90-x-200-cm-h3-250783",
-          "author": null,
-          "description": "€34,99 - Lidl\nProductbeschrijving\nDe matras biedt goede ondersteuning aan het lichaam dankzij een comfortabele laag polyurethaan. De 7 comfortzones zorgen voor een optimale ontlasting van verschillende drukpunten op het lichaam. De hoes van polyester is voorzien van een ritssluiting rondom en afneembaar en wasbaar tot 60 °C. Met greepbanden voor het eenvoudig draaien van het matras.\nType matrasComfortmatras\nSoort kernComfortschuim (polyurethaan)\nMateriaal Bekleding100% polyester\nBreedteca. 90 cm\nLengteca. 200 cm\nHoogteca. 15 cm (let op: het kan zijn dat het matras ca. 72 uur nodig heeft om de optimale vorm en hoogte te bereiken)\nAantal comfortzones7\nHardheidsgraadH3; lichaamsgewicht: 80-100 kg\nAfneembare hoesJa\nRits4-zijdig\nOnderhoudHoes wasbaar tot 60 °C\nVia cashback xl 5% extra korting mogelijk",
-          "link": "https://nl.pepper.com/aanbiedingen/lidl-7-zones-comfortmatras-90-x-200-cm-h3-250783",
-          "publishedOn": "2022-09-30T17:46:14.000Z",
-          "wordCount": 1315,
-          "title": "Lidl 7-zones comfortmatras 90 x 200 cm (H3)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/reebok-rbk-fulgere-slide-heren-slippers-250784",
-          "author": null,
-          "description": "€11,18 - Amazon.nl\nReebok Rbk Fulgere Slide heren Slippers\nKleur: Wit (White/Vector Navy/Vector Red)\nBeschikbaar in de maten: 39 , 44,5 , 45,5\nLaagste prijs elders is bij Reebok zelf €25\n-->\nhttps://www.reebok.nl/reebok-fulgere/FZ0947.html\nCOMFORTABELE SLIPPERS VOOR CASUAL DRAAGCOMFORT\nDeze herenslippers creëren een relaxte look voor op het strand of bij het zwembad. Het zachte, voorgevormde EVA-bovenwerk biedt comfort en ondersteuning. Gemaakt met waterbestendig materiaal en ontworpen voor makkelijk aan- en uittrekken\nVerzending Amazon NL:\nGratis verzending naar afhaalpunt\nGratis verzending voor Prime-leden\nJe kan een gratis 30 dagen proefperiode op Prime nemen. Je kan je direct afmelden na aanmelden, en behoudt je voordelen gedurende die 30 dagen.\nGratis verzending boven de €20\nOnder de €20 betaal je naar NL (huis) €2,49 zonder prime",
-          "link": "https://nl.pepper.com/aanbiedingen/reebok-rbk-fulgere-slide-heren-slippers-250784",
-          "publishedOn": "2022-09-30T17:31:48.000Z",
-          "wordCount": 1335,
-          "title": "Reebok Rbk Fulgere Slide heren Slippers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/lidl-7-zones-pocketveringmatras-premium-1000-90-x-200-cm-h3-250782",
-          "author": null,
-          "description": "€74,99 - Lidl\nProductbeschrijving\nVoor een hoog ligcomfort en een rustgevende slaap. Optimale drukontziening en verhoogde ligpositie: totale hoogte van de matras 22 cm. Uitstekend slaapklimaat: de aan beide zijden van ademende klimaatvezel doorgestikte overtrek en de veerconstructie zorgen voor een uitstekende luchtcirculatie. Matrashoes is afneembaar dankzij de 4-zijdige ritssluiting en kan op max. 60 °C gewassen worden in de wasmachine. Makkelijk getransporteerd en snel uitgepakt. Met 4 greepbanden voor het eenvoudig draaien en kantelen.\nType matraspocketvering\nSoort kernpolyurethaan\nDichtheid34 kg/m³\nMateriaal Bekledingbuitenstof: 100% polyester\nvoering: 100% polyester\nLengte200 cm\nBreedte90 cm\nHoogte22 cm (let op: het kan zijn dat het matras ca. 72 uur nodig heeft om de optimale vorm en hoogte te bereiken)\nHardheidsgraadH3 (lichaamsgewicht: 80-100 kg)\nAfneembare matrashoesja\nRits4-zijdig\nOnderhoudmatrashoes wasbaar tot max 60 °C\nVia cashbackxl nog 5% extra korting",
-          "link": "https://nl.pepper.com/aanbiedingen/lidl-7-zones-pocketveringmatras-premium-1000-90-x-200-cm-h3-250782",
-          "publishedOn": "2022-09-30T17:26:58.000Z",
-          "wordCount": 1356,
-          "title": "Lidl 7-zones-pocketveringmatras PREMIUM 1000 90 x 200 cm (H3)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/blink-video-doorbell-sync-module-2-250781",
-          "author": null,
-          "description": "€55,99 - Amazon.nl\nLaagste prijs elders: €84\nVerkrijgbaar in het zwart en wit.\nKenmerken:\n\nWaar je ook bent, je kunt altijd een oproep aan je deur beantwoorden vanaf je smartphone met 1080p hd, dagzicht-video, infrarood-nachtzicht video en tweerichtingsaudio.\nDe krachtige batterijen gaan twee jaar mee. Bovendien biedt de videodeurbel meldingen op maat, privacy-instellingen en meer.\nJe kunt videoclips opslaan en delen in de cloud met een gratis Blink-proefabonnement, of ter plaatse met de Sync Module 2 en een USB-stick (apart verkrijgbaar). De proefversie is geldig tot januari 2023. Minstens 30 dagen voor je gratis proefperiode afloopt, ontvang je een bericht met informatie over hoe je een abonnement kunt afsluiten.\nGeschikt voor elk huis: gebruik de deurbel draadloos of sluit hem aan op de bestaande deurbelbekabeling, zodat je ook je eigen deurbelgeluid hoort. Bij een draadloze verbinding kun je je Blink Mini-camera (apart verkrijgbaar) gebruiken als een plug-in deurbel voor binnen.\nIn een handomdraai geïnstalleerd met de twee meegeleverde AA-lithiumbatterijen. Maak vervolgens verbinding met wifi in de app.\nDeze bundel bevat één Blink Video Doorbell, één Sync Module 2 en een montageset (inclusief hoekbevestiging, schroeven en ankers).\n\nJe kunt videoclips opslaan in de cloud met een gratis Blink-proefabonnement. Minstens 30 dagen voor je gratis proefabonnement afloopt, ontvang je een bericht met informatie over hoe je een abonnement kunt afsluiten.\nDoor de deurbel te koppelen met een Sync Module 2, kun je het Blink-systeem uitbreiden met extra functies. Als je de Blink Video Doorbell op batterijen laat werken, is het gebruik van de Sync Module 2 aan te bevelen.\nWe raden aan de Blink Video Doorbell aan je huis te monteren volgens deze instructies, zodat de deurbel weerbestendig is.\nWelke functies beschikbaar zijn, is afhankelijk van de systeemconfiguratie en de instellingen.\nVideoreview:\n\t[shortcode id=\"1357926\"/]",
-          "link": "https://nl.pepper.com/aanbiedingen/blink-video-doorbell-sync-module-2-250781",
-          "publishedOn": "2022-09-30T17:19:01.000Z",
-          "wordCount": 1684,
-          "title": "Blink Video Doorbell + Sync Module 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/proefpakket-coffeemeister-250772",
-          "author": null,
-          "description": "Coffeemeister\nProefpakket van coffeemeister: met de code hoef je alleen maar de verzendkosten te betalen.\nCoffeemeister op je werk ☕️ Wij geloven dat koffie op werk een stuk beter kan. Daarom bestel je dit proefpakket nu gratis, zodat je het zelf kunt uitproberen. : WORK50",
-          "link": "https://nl.pepper.com/aanbiedingen/proefpakket-coffeemeister-250772",
-          "publishedOn": "2022-09-30T17:09:38.000Z",
-          "wordCount": 1168,
-          "title": "Proefpakket Coffeemeister (alleen verzendkosten)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/nike-pegasus-39-hardloopschoenen-250776",
-          "author": null,
-          "description": "€76,90 - Keller Sports\nLet op: als je je eerst inschrijft voor de nieuwsbrief krijg je een kortingscode voor nog eens 10 euro korting. Hiermee komt de prijs op 67,90 euro. Gratis verzending vanaf 69 euro. Je kan voor 10 euro member worden waardoor verzending en retourneren gratis wordt. Door de kortingscode heb je het membership gratis. \nJe kan ook een extra paar bestellen om gratis te kunnen verzenden, maar retourneren kost geld! \nKILOMETERS LANG ENERGIEK.\nHardlopen is je dagelijkse ritueel, bij elke stap kom je dichter bij je persoonlijke doel. De Nike Air Zoom Pegasus 39 helpt je met een comfortabel, intuïtief design naar nieuwe hoogtes te klimmen. De ondersteuning houdt je voet op zijn plek, terwijl de demping onder de voet wordt gecombineerd met twee Zoom Air units om vering aan je stappen toe te voegen tijdens je overgang van hak naar teen. Je vertrouwde werkpaard met vleugels is terug, tijd om te vliegen.\n(PS: dit is mijn eerste post dus hoop dat alles goed gaat).",
-          "link": "https://nl.pepper.com/aanbiedingen/nike-pegasus-39-hardloopschoenen-250776",
-          "publishedOn": "2022-09-30T17:08:05.000Z",
-          "wordCount": 1396,
-          "title": "Nike Pegasus 39 hardloopschoenen.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/gorillas-jumbo-arachide-olie-1000ml-250778",
-          "author": null,
-          "description": "€2,47 - Gorillas\nPindaolie oftewel Arachide olie in de aanbieding bij flitsbezorger Gorillas.",
-          "link": "https://nl.pepper.com/aanbiedingen/gorillas-jumbo-arachide-olie-1000ml-250778",
-          "publishedOn": "2022-09-30T17:07:57.000Z",
-          "wordCount": 1105,
-          "title": "GORILLAS: Jumbo arachide olie 1000ml",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/airpods-pro-2-at-amazon-es-250780",
-          "author": null,
-          "description": "€257 - Amazon.es\nNet geïntroduceerde AirPods 2 Pro nu alweer mooi in de aanbieding bij Amazon ES.\nNieuwe H2 chip voor betere geluidskwaliteit en ANC.\nBetalen met creditcard.\nVerzending kost je nog 5,64",
-          "link": "https://nl.pepper.com/aanbiedingen/airpods-pro-2-at-amazon-es-250780",
-          "publishedOn": "2022-09-30T17:07:49.000Z",
-          "wordCount": 1175,
-          "title": "AirPods Pro 2 @ Amazon ES",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/ing-rijksmuseum-toegang-2-personen-kaleidoscope-250779",
-          "author": null,
-          "description": "€5 - ING\nVia ING Winkel voor 5 euro + 500 punten\nMet deze voucher ontvang je twee toegangsbewijzen voor volwassenen. Kinderen t/m 18 jaar mogen gratis mee, maar je dient wel voor het hele gezelschap een ticket en tijdslot te reserveren. Ook ontvang je tijdens je bezoek de speciale kaleidoscope voor bij de tentoonstelling Onderkruipsels. Aan de hand van 9 thema's wordt in deze tentoonstelling de portretkunst van de renaissance getoond. De kaleidoscoop is geschikt om op een nieuwe manier naar beestjes te kijken. Binnen en buiten de tentoonstelling.\nKenmerken\nTweemaal entree voor volwassenen voor het Rijksmuseum Amsterdam incl. tentoonstelling Onderkruipsels\nEen kaleidoscope voor bij de tentoonstelling Onderkruipsels.\nHet Rijksmuseum is elke dag geopend van 9 tot 17 uur.\nLocatie: Museumstraat 1, Amsterdam.\nVoorwaarden \nDe kortingscode kan tot uiterlijk 16 januari 2023 worden verzilverd voor een bezoek aan het Rijksmuseum. (Let op, de tentoonstelling Onderkruipsels en de daarbij behorende kaleidoscope zijn t/m 15 januari 2023 beschikbaar.)\nKinderen t/m 18 jaar mogen gratis mee, maar je dient wel voor het hele gezelschap een ticket en tijdslot te reserveren.\nDe kortingscode is eenmalig te gebruiken.\nEr kan maximaal 1 kortingscode per persoon/gezelschap worden gebruikt.\nDeze kortingscode mag niet ter verkoop worden aangeboden.\nDe kortingscode is niet geldig in combinatie met andere acties of kortingen.\nVoor deze actie geldt geen recht op retour.\nDe kortingscode is niet te verzilveren aan de kassa van het Rijksmuseum. Je kunt je kortingscode alleen via onderstaand online proces verzilveren.\nDe kortingscode is alleen tijdens een bestelling in te wisselen, het is niet mogelijk om een kortingscode achteraf in te wisselen op een reeds geplaatste bestelling.\nDeze voucher is in te wisselen tot 16-01-2023\nVan dit product mag je maximaal 1 per 12 maanden bestellen.",
-          "link": "https://nl.pepper.com/aanbiedingen/ing-rijksmuseum-toegang-2-personen-kaleidoscope-250779",
-          "publishedOn": "2022-09-30T17:07:47.000Z",
-          "wordCount": 1661,
-          "title": "[ING] Rijksmuseum toegang 2 personen + kaleidoscope",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/lego-star-wars-adventskalender-75340-250777",
-          "author": null,
-          "description": "€24,99 - De Bijenkorf\nLaagste prijs ooit, aanmelden via de site en verzenden is gratis",
-          "link": "https://nl.pepper.com/aanbiedingen/lego-star-wars-adventskalender-75340-250777",
-          "publishedOn": "2022-09-30T16:29:37.000Z",
-          "wordCount": 1112,
-          "title": "LEGO Star Wars adventskalender - 75340",
           "imageUrl": null
         }
       ]
