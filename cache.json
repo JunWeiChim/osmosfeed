@@ -12,6 +12,256 @@
       "siteUrl": "https://tweakers.net/",
       "articles": [
         {
+          "id": "https://tweakers.net/downloads/62416",
+          "author": "Japke Rosink",
+          "description": "MariaDB is ontstaan als fork van MySQL, nadat dit door Oracle werd overgenomen. Voor een overzicht van de verschillen tussen MariaDB en MySQL kun je op deze en deze pagina's terecht. MariaDB is een krachtige opensourcedatabaseserver, die vooral populair is als website- en forumdatabase. De ontwikkelaars hebben versies 10.9.4, 10.8.6, 10.7.7, 10.6.11, 10.5.18, 10.4.27 en 10.3.37 uitgebracht. De belangrijkste veranderingen en verbeteringen die in deze versies zijn aangebracht zijn hieronder voor je op een rijtje gezet: MariaDB 10.9.4 Release Notes MariaDB 10.9 is the current short-term maintenance stable series of MariaDB, maintained until August 2023. It is an evolution of MariaDB 10.8 with several entirely new features. MariaDB 10.9.4 is a Stable (GA) release. Backup",
+          "link": "https://tweakers.net/downloads/62416/mariadb-1094-1086-1077-10611-10518-10427-10337.html",
+          "publishedOn": "2022-11-12T00:02:29.000Z",
+          "wordCount": null,
+          "title": "MariaDB 10.9.4 / 10.8.6 / 10.7.7 / 10.6.11 / 10.5.18 / 10.4.27 / 10.3.37",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/203348",
+          "author": "Yannick Spinner",
+          "description": "Tesla maakt het EV-oplaadsysteem dat gebruikt wordt voor de Noord-Amerikaanse markt beschikbaar voor andere fabrikanten. De betreffende Tesla-lader wordt omgedoopt tot de North American Charging Standard.",
+          "link": "https://tweakers.net/nieuws/203348/tesla-maakt-amerikaanse-laadstandaard-beschikbaar-voor-andere-fabrikanten.html",
+          "publishedOn": "2022-11-11T20:23:55.000Z",
+          "wordCount": null,
+          "title": "Tesla maakt Amerikaanse laadstandaard beschikbaar voor andere fabrikanten",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/geek/203346",
+          "author": "Yannick Spinner",
+          "description": "De Amerikaanse stemacteur Kevin Conroy is op 66-jarige leeftijd overleden aan de gevolgen van kanker. Conroy staat bekend als de stem van Batman in uiteenlopende games, films en televisieseries.",
+          "link": "https://tweakers.net/geek/203346/stemacteur-kevin-conroy-bekend-van-uiteenlopende-batman-vertolkingen-overleden.html",
+          "publishedOn": "2022-11-11T19:46:33.000Z",
+          "wordCount": null,
+          "title": "Stemacteur Kevin Conroy bekend van uiteenlopende Batman-vertolkingen overleden",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/62414",
+          "author": "Bart van Klaveren",
+          "description": "CloudLinux heeft versie 8.7 van AlmaLinux uitgebracht. AlmaLinux is net als Rocky Linux een van de nieuwkomers die in het gat is gesprongen dat CentOS heeft achtergelaten. Door het grote aantal sponsors lijkt AlmaLinux ook wel een blijvertje te zijn. De release notes voor deze uitgave kunnen hier worden gevonden, dit is de aankondiging voor deze uitgave van AlmaLinux: Release Notes and More Information",
+          "link": "https://tweakers.net/downloads/62414/almalinux-87.html",
+          "publishedOn": "2022-11-11T18:14:58.000Z",
+          "wordCount": null,
+          "title": "AlmaLinux 8.7",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/203344",
+          "author": "Yannick Spinner",
+          "description": "Het Nederlandse vaccinbedrijf Bilthoven Biologicals is in september getroffen door een ransomwareaanval van de cybercriminelengroep Blackcat, zo ontdekt RTL Nieuws. Bij de aanval zou uiteenlopende data buitgemaakt zijn, waarvan nu een deel op het darkweb is gepubliceerd.",
+          "link": "https://tweakers.net/nieuws/203344/nederlands-vaccinbedrijf-door-ransomware-getroffen-data-op-darkweb-gepubliceerd.html",
+          "publishedOn": "2022-11-11T18:13:16.000Z",
+          "wordCount": 3573,
+          "title": "Nederlands vaccinbedrijf door ransomware getroffen, data op darkweb gepubliceerd",
+          "imageUrl": "https://tweakers.net/i/seexvc8R9aXDCil9bol7ruaFqoM=/134x134/filters:strip_icc():strip_exif()/i/2005446668.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/downloads/62410",
+          "author": "Bart van Klaveren",
+          "description": "Er is een update uitgebracht voor de eerder deze week verschenen versie 5.10 van AIMP. Deze gratis, lichtgewicht mediaspeler van Russische makelij heeft ondersteuning voor de populairste muziekformaten. Het uiterlijk heeft wat weg van het bekende Winamp en is door middel van skins aan te passen. AIMP heeft een 18-kanaalsequalizer aan boord en ondersteunt plug-ins. Verder kan het programma-cd's rippen, muziekbestanden converteren en tags bewerken. Sinds versie 5.03 is er ook een aparte 64bit-versie van de mediaspeler. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes:",
+          "link": "https://tweakers.net/downloads/62410/aimp-510-build-2412.html",
+          "publishedOn": "2022-11-11T17:58:56.000Z",
+          "wordCount": 1853,
+          "title": "AIMP 5.10 build 2412",
+          "imageUrl": "https://tweakers.net/i/aQsKqNSpuLCY2K_QNQcfcrIQj2w=/134x134/filters:strip_exif()/i/2004654232.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/downloads/62408",
+          "author": "Bart van Klaveren",
+          "description": "Blackmagic Design heeft versie 18.1 van DaVinci Resolve uitgebracht en komt nu met een tweede update daarvoor. DaVinci Resolve is een videobewerkingsprogramma voor Windows, macOS en Linux. Het is beschikbaar in de gratis DaVinci Resolve-uitvoering en de betaalde DaVinci Resolve Studio, die over extra functionaliteit beschikt, zoals de mogelijkheid om in hogere resoluties en frames per second te werken en de mogelijkheid om van extra grafische processoren en OpenFX-plug-ins gebruik te maken. Versie 18.1 is een grote release met veel veranderingen en verbeteringen: Key New Features",
+          "link": "https://tweakers.net/downloads/62408/davinci-resolve-181.html",
+          "publishedOn": "2022-11-11T17:53:29.000Z",
+          "wordCount": null,
+          "title": "DaVinci Resolve 18.1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/203340",
+          "author": "Yannick Spinner",
+          "description": "Apple bracht woensdag een beveiligingsupdate uit voor de nieuwste versies van iOS, iPadOS en macOS. De drie respectievelijke updates bevatten dezelfde bugfixes, namelijk het verhelpen van twee kwetsbaarheid omtrent libxml2. De updates zijn nu beschikbaar.",
+          "link": "https://tweakers.net/nieuws/203340/apple-brengt-beveiligingsupdates-voor-kwetsbaarheden-ios-ipados-en-macos-uit.html",
+          "publishedOn": "2022-11-11T16:55:36.000Z",
+          "wordCount": null,
+          "title": "Apple brengt beveiligingsupdates voor kwetsbaarheden iOS, iPadOS en macOS uit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/203338",
+          "author": "Hayte Hugo",
+          "description": "FTX heeft faillissementsbescherming aangevraagd. De cryptovalutabeurs kwam deze maand plotseling in de problemen, nadat een bankrun op FTX-munten ontstond. Sam Bankman-Fried, oprichter en ceo van de beurs, stapt daarnaast op.",
+          "link": "https://tweakers.net/nieuws/203338/cryptovalutabeurs-ftx-vraagt-faillissementsbescherming-aan-ceo-stapt-op.html",
+          "publishedOn": "2022-11-11T15:56:19.000Z",
+          "wordCount": null,
+          "title": "Cryptovalutabeurs FTX vraagt faillissementsbescherming aan, ceo stapt op",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/203336",
+          "author": "Joris Jansen",
+          "description": "Battlefield 2042 zal binnen enkele weken verschijnen als onderdeel van Microsofts Game Pass- en het EA Play-abonnement. Dat gebeurt iets meer dan een jaar na de release. De game krijgt ook weer een klassensysteem; dat zal ergens begin volgend jaar beschikbaar komen.",
+          "link": "https://tweakers.net/nieuws/203336/battlefield-2042-komt-binnenkort-op-game-pass-en-krijgt-begin-2023-weer-classes.html",
+          "publishedOn": "2022-11-11T15:08:41.000Z",
+          "wordCount": 3743,
+          "title": "Battlefield 2042 komt binnenkort op Game Pass en krijgt begin 2023 weer classes",
+          "imageUrl": "https://tweakers.net/i/-7iFr4E_URsXLgmljqVsYyBe-QE=/134x134/filters:strip_icc():strip_exif()/i/2004607618.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/203334",
+          "author": "Daan van Monsjou",
+          "description": "Remedy Entertainment heeft officieel bevestigd dat Control 2 in ontwikkeling is. De Finse gamestudio maakt deze sequel samen met 505 Games. De game komt beschikbaar voor pc's, PS5 en Xbox Series X en S. Er is nog geen releasedatum bekend.",
+          "link": "https://tweakers.net/nieuws/203334/remedy-en-505-games-werken-aan-control-sequel-voor-ps5-xbox-series-x-en-s-en-pc.html",
+          "publishedOn": "2022-11-11T13:42:52.000Z",
+          "wordCount": null,
+          "title": "Remedy en 505 Games werken aan Control-sequel voor PS5, Xbox Series X en S en pc",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/203330",
+          "author": "Daan van Monsjou",
+          "description": "De Nederlandse coalitiepartij ChristenUnie wil een verbod op videoplatform TikTok. Kamerlid Don Ceder pleit daarvoor, mede naar aanleiding van het onlangs gewijzigde privacybeleid van het platform. Staatssecretaris Van Huffelen voor Digitalisering laat die wijzigingen onderzoeken.",
+          "link": "https://tweakers.net/nieuws/203330/christenunie-wil-verbod-op-videoplatform-tiktok.html",
+          "publishedOn": "2022-11-11T13:17:02.000Z",
+          "wordCount": null,
+          "title": "ChristenUnie wil verbod op videoplatform TikTok",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/203328",
+          "author": "Sabine Schults",
+          "description": "YouTube geeft streamers voortaan de mogelijkheid om kijkers vragen in te laten sturen via een apart Q&A-tabblad. Uit de lijst kan de streamer vervolgens een vraag kiezen om te beantwoorden. Deze wordt dan uitgelicht voor de kijkers.",
+          "link": "https://tweakers.net/nieuws/203328/youtube-maakt-live-q-en-a-functie-beschikbaar-voor-livestreams.html",
+          "publishedOn": "2022-11-11T12:17:19.000Z",
+          "wordCount": null,
+          "title": "YouTube maakt Live Q&A-functie beschikbaar voor livestreams",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/203322",
+          "author": "Sabine Schults",
+          "description": "Pimax heeft een handheldconsole aangekondigd met ondersteuning voor virtualrealitytoepassingen. De gaminghandheld werkt op een Snapdragon XR2-soc, die ook in draadloze VR-brillen zoals de Meta Quest Pro gebruikt wordt.",
+          "link": "https://tweakers.net/nieuws/203322/pimax-kondigt-handheldconsole-pimax-portal-aan-met-vr-ondersteuning.html",
+          "publishedOn": "2022-11-11T11:24:24.000Z",
+          "wordCount": null,
+          "title": "Pimax kondigt handheldconsole Pimax Portal aan met VR-ondersteuning",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/203324",
+          "author": "Daan van Monsjou",
+          "description": "Microsoft voegt verschillende nieuwe functies toe aan het taakbeheer van Windows 11, waaronder een zoekbalk. Dat doet het bedrijf in de recentste Preview-build van het besturingssysteem. Het taakbeheer krijgt ook betere ondersteuning voor lichte en donkere thema's.",
+          "link": "https://tweakers.net/nieuws/203324/windows-11-insider-preview-build-voegt-zoekbalk-toe-aan-taakbeheer.html",
+          "publishedOn": "2022-11-11T11:06:25.000Z",
+          "wordCount": 3672,
+          "title": "Windows 11 Insider Preview-build voegt zoekbalk toe aan taakbeheer",
+          "imageUrl": "https://tweakers.net/i/6lvsEyQlvHAE-y43GPF5Q-NfSoI=/134x134/filters:strip_exif()/i/2004778134.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/203318",
+          "author": "Daan van Monsjou",
+          "description": "Razer introduceert twee nieuwe draadloze muizen in de Naga-serie. De muizen zijn volgens de fabrikant bedoeld voor mmo-games en moba's en hebben daarvoor tot twaalf programmeerbare knoppen aan de zijkant. De Naga V2 HyperSpeed kost 110 euro; de Pro-variant kost 200 euro.",
+          "link": "https://tweakers.net/nieuws/203318/razer-introduceert-draadloze-naga-v2-pro-en-naga-v2-hyperspeed-mmo-muizen.html",
+          "publishedOn": "2022-11-11T10:38:56.000Z",
+          "wordCount": null,
+          "title": "Razer introduceert draadloze Naga V2 Pro en Naga V2 HyperSpeed-mmo-muizen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/geek/203316",
+          "author": "Daan van Monsjou",
+          "description": "Documentairemakers hebben een groot brokstuk van de Space Shuttle Challenger gevonden, die in 1986 kort na lancering ontplofte. Het brokstuk werd voor de kust van Florida gevonden. NASA bevestigt de vondst.",
+          "link": "https://tweakers.net/geek/203316/brokstuk-van-space-shuttle-challenger-na-37-jaar-teruggevonden-voor-kust-florida.html",
+          "publishedOn": "2022-11-11T09:46:02.000Z",
+          "wordCount": null,
+          "title": "Brokstuk van Space Shuttle Challenger na 37 jaar teruggevonden voor kust Florida",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/203314",
+          "author": "Sabine Schults",
+          "description": "Netflix wil naast zijn huidige aanbod aan films en series ook livestreams aanbieden. De eerste daarvan verschijnt 'begin 2023' en betreft een livestream van de Amerikaanse komiek Chris Rock. De livestream moet wereldwijd uitgezonden worden.",
+          "link": "https://tweakers.net/nieuws/203314/eerste-livestream-op-netflix-verschijnt-in-2023-met-komiek-chris-rock.html",
+          "publishedOn": "2022-11-11T09:44:13.000Z",
+          "wordCount": null,
+          "title": "Eerste livestream op Netflix verschijnt in 2023 met komiek Chris Rock",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/203312",
+          "author": "Sabine Schults",
+          "description": "Mozilla Thunderbird wordt in 2023 vernieuwd, waarbij onder meer de gebruikersinterface van de ingebouwde agenda van de e-mailclient een opfrisbeurt krijgt. De komende versie draagt de naam Thunderbird Supernova.",
+          "link": "https://tweakers.net/nieuws/203312/mozilla-thunderbird-agenda-krijgt-in-2023-vernieuwde-gebruikersinterface.html",
+          "publishedOn": "2022-11-11T08:59:47.000Z",
+          "wordCount": null,
+          "title": "Mozilla Thunderbird-agenda krijgt in 2023 vernieuwde gebruikersinterface",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/203310",
+          "author": "Daan van Monsjou",
+          "description": "Japan gaat omgerekend 483 miljoen euro investeren in een nieuwe halfgeleiderfabrikant die wordt opgezet door verschillende Japanse techbedrijven, waaronder Kioxia, NEC, Sony en Toyota. Het land wil eind dit decennium geavanceerde chips kunnen produceren.",
+          "link": "https://tweakers.net/nieuws/203310/japan-investeert-483-miljoen-euro-in-productie-sub-2nm-chips-met-nieuw-bedrijf.html",
+          "publishedOn": "2022-11-11T08:50:30.000Z",
+          "wordCount": 5538,
+          "title": "Japan investeert 483 miljoen euro in productie 'sub-2nm'-chips met nieuw bedrijf",
+          "imageUrl": "https://tweakers.net/i/cnhKOt-imu0kdBJz2UUGfg6Chus=/134x134/filters:strip_icc():strip_exif()/i/2004886338.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/203308",
+          "author": "Daan van Monsjou",
+          "description": "Dragon Age: Absolution verschijnt vanaf vrijdag 9 december op Netflix, bevestigt de streamingdienst. De animatieserie bestaat uit zes afleveringen en wordt gemaakt in samenwerking met ontwikkelaar BioWare.",
+          "link": "https://tweakers.net/nieuws/203308/animatieserie-dragon-age-absolution-komt-op-9-december-naar-netflix.html",
+          "publishedOn": "2022-11-11T07:48:45.000Z",
+          "wordCount": null,
+          "title": "Animatieserie Dragon Age: Absolution komt op 9 december naar Netflix",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/203306",
+          "author": "Daan van Monsjou",
+          "description": "Verschillende topmensen hebben donderdag ontslag genomen bij Twitter. Dat melden media op basis van anonieme bronnen en interne communicatie binnen het bedrijf. Veel van hen hebben hun vertrek bij Twitter inmiddels ook zelf bevestigd.",
+          "link": "https://tweakers.net/nieuws/203306/twitter-topmensen-voor-privacy-veiligheid-en-regelgeving-stappen-op.html",
+          "publishedOn": "2022-11-11T07:19:07.000Z",
+          "wordCount": null,
+          "title": "'Twitter-topmensen voor privacy, veiligheid en regelgeving stappen op'",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/62390",
+          "author": "Bart van Klaveren",
+          "description": "Visual Studio Code is een opensourcecode-editor met ondersteuning voor IntelliSense, debugging, Git en code snippets. Downloads zijn beschikbaar voor Windows, Linux en macOS. Ondersteuning voor de gangbare script- en programmeertalen is aanwezig en het kan daarnaast via extensies uitgebreid worden. Microsoft heeft versie 1.73.1 uitgebracht en de changelog maakt melding van de volgende veranderingen en verbeteringen: The 1.73.1 addresses these issues:",
+          "link": "https://tweakers.net/downloads/62390/visual-studio-code-1731.html",
+          "publishedOn": "2022-11-11T07:09:32.000Z",
+          "wordCount": null,
+          "title": "Visual Studio Code 1.73.1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/62404",
+          "author": "Bart van Klaveren",
+          "description": "Nvidia heeft nieuwe stabiele GeForce-drivers uitgebracht. De drivers dragen versienummer 526.86 WHQL, zijn geschikt voor Windows 10 en hoger, en kunnen worden gebruikt op kaarten gebaseerd op de Maxwell-architectuur of nieuwer. In deze uitgave treffen we onder meer verbeteringen voor het spel Call of Duty: Modern Warfare II. De changelog laat verder de gebruikelijke verzameling bugfixes zien en een aantal problemen die wel al bekend zijn maar waar nog geen oplossing voor is. Game Ready",
+          "link": "https://tweakers.net/downloads/62404/geforce-game-ready-driver-52686-whql.html",
+          "publishedOn": "2022-11-11T06:17:42.000Z",
+          "wordCount": null,
+          "title": "GeForce Game Ready Driver 526.86 WHQL",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/reviews/10640",
+          "author": "Friso Weijers",
+          "description": "Dit najaar brengt Apple twee nieuwe tablets uit: de iPad (2022) en iPad Pro (2022). Hoe interessant is het nieuwe duo met zijn veel hogere adviesprijzen?",
+          "link": "https://tweakers.net/reviews/10640/apple-ipad-2022-en-ipad-pro-2022-de-beste-tablet-op-een-na.html",
+          "publishedOn": "2022-11-11T05:00:00.000Z",
+          "wordCount": null,
+          "title": "Apple iPad (2022) en iPad Pro (2022) - De beste tablet op een na?",
+          "imageUrl": null
+        },
+        {
           "id": "https://tweakers.net/nieuws/203304",
           "author": "Loïs Franx",
           "description": "Oranje Wind Power II, een dochteronderneming van RWE AG, mag het eerste deel van het Hollandse Kust West-windpark bouwen en exploiteren. Het is de bedoeling dat de bouw van het windpark in 2023 van start gaat en vanaf 2026 in gebruik wordt genomen.",
@@ -6770,336 +7020,6 @@
           "wordCount": null,
           "title": "[Plus] Accuduur Pixel 7 en iPhone 14 Pro is korter dan bij voorgangers: een trend?",
           "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202262",
-          "author": "Jay Stout",
-          "description": "Google heeft Truth Social toegelaten in de Google Play Store. Het platform van Donald Trump heeft volgens Google de nodige contentmoderatiemaatregelen getroffen waardoor de app niet meer in strijd is met de regels van Google Play.",
-          "link": "https://tweakers.net/nieuws/202262/google-laat-app-van-sociaal-netwerk-van-donald-trump-toe-in-play-store.html",
-          "publishedOn": "2022-10-13T13:34:55.000Z",
-          "wordCount": null,
-          "title": "Google laat app van sociaal netwerk van Donald Trump toe in Play Store",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202264",
-          "author": "Tijs Hofmans",
-          "description": "Het team achter 0Patch gaat nog tot zeker begin 2025 onofficiële securitypatches aanleveren voor Windows 7 en Windows 2008 R2. De patches komen ook beschikbaar voor oude versies van Office.",
-          "link": "https://tweakers.net/nieuws/202264/makers-van-0patch-beloven-nog-tot-januari-2025-ondersteuning-voor-windows-7.html",
-          "publishedOn": "2022-10-13T13:13:51.000Z",
-          "wordCount": null,
-          "title": "Makers van 0Patch beloven nog tot januari 2025 ondersteuning voor Windows 7",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202260",
-          "author": "Jay Stout",
-          "description": "Er zijn beelden opgedoken van de aankomende app-archieffunctie van het Android-besturingssysteem waardoor gebruikers opslagruimte op hun Android-toestellen kunnen vrijmaken. De functie lijkt deel uit te maken van Google Play Services.",
-          "link": "https://tweakers.net/nieuws/202260/beelden-tonen-werking-aankomende-app-archieffunctie-op-android.html",
-          "publishedOn": "2022-10-13T12:34:47.000Z",
-          "wordCount": 3764,
-          "title": "Beelden tonen werking aankomende app-archieffunctie op Android",
-          "imageUrl": "https://tweakers.net/i/ucmbs-M7ldCB7mzy26gsDAAXJZw=/134x134/filters:strip_exif()/i/2004612546.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202256",
-          "author": "Jay Stout",
-          "description": "Microsoft heeft een RSS-feed geïntroduceerd waarin het alle nieuws over de beveiligingsupdates van de Microsoft Security Update Guide zal opnemen. Het Amerikaanse bedrijf doet dit naar eigen zeggen na verzoeken van gebruikers.",
-          "link": "https://tweakers.net/nieuws/202256/microsoft-introduceert-rss-feed-met-nieuws-over-beveiligingsupdates.html",
-          "publishedOn": "2022-10-13T12:00:25.000Z",
-          "wordCount": null,
-          "title": "Microsoft introduceert RSS-feed met nieuws over beveiligingsupdates",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202258",
-          "author": "Tijs Hofmans",
-          "description": "De merknaam Office verdwijnt grotendeels in de komende maanden. Microsoft gaat het kantoorpakket hernoemen en integreren in Microsoft 365. De individuele appnamen zoals Word, Excel en PowerPoint blijven wel bestaan.",
-          "link": "https://tweakers.net/nieuws/202258/microsoft-stopt-met-merknaam-office-en-integreert-alle-software-in-microsoft-365.html",
-          "publishedOn": "2022-10-13T11:02:02.000Z",
-          "wordCount": null,
-          "title": "Microsoft stopt met merknaam Office en integreert alle software in Microsoft 365",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202252",
-          "author": "Jay Stout",
-          "description": "CD Projekt RED heeft een stappenplan gedeeld waarin het uitlegt hoe gamers savedata van Cyberpunk 2077 voor Google Stadia kunnen exporteren naar pc. Via cloudsynchronisatie kunnen pc-gamers die savedata vervolgens ook overzetten naar de consoleversies van het spel.",
-          "link": "https://tweakers.net/nieuws/202252/cd-projekt-red-deelt-stappenplan-om-cyberpunk-savedata-uit-stadia-te-exporteren.html",
-          "publishedOn": "2022-10-13T10:19:02.000Z",
-          "wordCount": 4481,
-          "title": "CD Projekt RED deelt stappenplan om Cyberpunk-savedata uit Stadia te exporteren",
-          "imageUrl": "https://tweakers.net/i/OwUb0gHRLpCPR9L0EypvZ4Tvepw=/134x134/filters:strip_exif()/i/2004753056.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/plan/3710",
-          "author": "Wout Funnekotter",
-          "description": "Op zaterdag 19 november vindt weer een Tweakers Meet-up plaats. In Theater Gooiland in Hilversum duiken we van 09.30 tot 18.00 uur de diepte in met het thema Privacy & Security. Over de dag verspreid kun je meer dan tien verschillende sessies bijwonen.",
-          "link": "https://tweakers.net/plan/3710/welke-onderwerpen-mogen-niet-ontbreken-op-de-komende-meet-up-privacy-en-security.html",
-          "publishedOn": "2022-10-13T10:03:00.000Z",
-          "wordCount": null,
-          "title": "Welke onderwerpen mogen niet ontbreken op de komende Meet-up Privacy & Security?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202254",
-          "author": "Tijs Hofmans",
-          "description": "De 21H1-versie van Windows 10 krijgt vanaf december geen standaardupdates meer, waarschuwt Microsoft. Het bedrijf heeft een nieuwe waarschuwing uitgebracht over het naderende einde van deze versie van het Windows-besturingssysteem.",
-          "link": "https://tweakers.net/nieuws/202254/microsoft-waarschuwt-voor-einde-van-ondersteuning-voor-windows-10-21h1.html",
-          "publishedOn": "2022-10-13T09:32:51.000Z",
-          "wordCount": null,
-          "title": "Microsoft waarschuwt voor einde van ondersteuning voor Windows 10 21H1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202248",
-          "author": "Jay Stout",
-          "description": "Polestar introduceert de Polestar 3, een elektrische SUV die gebouwd is op een nieuw elektrisch platform van Volvo. De standaardversie heeft een vermogen van 360kW en een rijbereik van 610km. Leveringen starten eind 2023. De Polestar 3 zal minstens 89.900 euro kosten.",
-          "link": "https://tweakers.net/nieuws/202248/nieuwe-polestar-3-elektrische-suv-heeft-rijbereik-van-610-km-kost-89000-euro.html",
-          "publishedOn": "2022-10-13T08:51:35.000Z",
-          "wordCount": 25765,
-          "title": "Nieuwe Polestar 3 elektrische SUV heeft rijbereik van 610 km, kost 89.000 euro",
-          "imageUrl": "https://tweakers.net/i/Sej9BYfMmOG0GXkSBLLBKIG_7Ec=/134x134/filters:strip_icc():strip_exif()/i/2004830852.jpeg?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202250",
-          "author": "Tijs Hofmans",
-          "description": "Apple onderzoekt of het een Apple TV-abonnement met advertenties kan verkopen. Het bedrijf is volgens bronnen van Digiday in gesprek met verschillende uitgevers. Apple zou daar zelfs een apart advertentieplatform voor willen bouwen.",
-          "link": "https://tweakers.net/nieuws/202250/apple-onderzoekt-mogelijkheid-om-advertenties-in-apple-tv-programmas-te-tonen.html",
-          "publishedOn": "2022-10-13T08:49:38.000Z",
-          "wordCount": null,
-          "title": "Apple onderzoekt mogelijkheid om advertenties in Apple TV-programma's te tonen",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202246",
-          "author": "Tijs Hofmans",
-          "description": "Microsoft brengt een nieuwe app uit voor Microsoft 365-gebruikers die kantoorwerkers moet ondersteunen in hybride werken. Places bevat tools waarmee werktijden en -locaties worden gelogd en de app kan conferentieruimtes zelfstandig inboeken op basis van beschikbaarheid.",
-          "link": "https://tweakers.net/nieuws/202246/microsoft-brengt-places-uit-waarmee-werknemers-hybride-werk-kunnen-organiseren.html",
-          "publishedOn": "2022-10-13T08:23:13.000Z",
-          "wordCount": null,
-          "title": "Microsoft brengt Places uit waarmee werknemers hybride werk kunnen organiseren",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202244",
-          "author": "Jay Stout",
-          "description": "Valve heeft een nieuwe versie van de Steam Mobile-app uitgerold voor Android- en iOS-gebruikers. De app bevat een vernieuwde interface, verbeterde notificaties en maakt het mogelijk om met een QR-code in te loggen op het platform.",
-          "link": "https://tweakers.net/nieuws/202244/update-steam-mobile-app-bevat-qr-inlogfunctie.html",
-          "publishedOn": "2022-10-13T08:10:50.000Z",
-          "wordCount": null,
-          "title": "Update Steam Mobile-app bevat QR-inlogfunctie",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202242",
-          "author": "Tijs Hofmans",
-          "description": "Microsoft brengt een premiumversie van Teams uit. Premium bestaat uit een reeks tools voor de app zoals automatische transcripties en vertalingen. Ook krijgt de dienst een functie om automatisch taken aan te maken en opgenomen gesprekken in hoofdstukken op te delen.",
-          "link": "https://tweakers.net/nieuws/202242/microsoft-komt-met-teams-premium-met-intelligent-recap-en-livevertalingen.html",
-          "publishedOn": "2022-10-13T07:16:49.000Z",
-          "wordCount": null,
-          "title": "Microsoft komt met Teams Premium met 'intelligent recap' en livevertalingen",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202240",
-          "author": "Tijs Hofmans",
-          "description": "Ruimtevaartorganisatie NASA mikt op 14 november als nieuwe lanceerdatum voor het Space Launch System. De nieuwe raket zou de Artemis I-maanmissie in september al moeten lanceren, maar inmiddels staat de raket weer in het assemblagegebouw.",
-          "link": "https://tweakers.net/nieuws/202240/nasa-doet-op-14-november-nieuwe-poging-om-sls-raket-te-lanceren.html",
-          "publishedOn": "2022-10-13T06:00:22.000Z",
-          "wordCount": null,
-          "title": "NASA doet op 14 november nieuwe poging om SLS-raket te lanceren",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202238",
-          "author": "Tijs Hofmans",
-          "description": "Google voegt ondersteuning voor gepersonaliseerde firstpartycookies toe aan advertentietool AdSense. Het programma gebruikt in dat geval bezoekersinformatie die op hetzelfde domein verzameld wordt om advertenties toch te personaliseren.",
-          "link": "https://tweakers.net/nieuws/202238/google-maakt-gepersonaliseerde-ads-via-firstpartycookies-mogelijk-in-adsense.html",
-          "publishedOn": "2022-10-13T05:30:43.000Z",
-          "wordCount": null,
-          "title": "Google maakt gepersonaliseerde ads via firstpartycookies mogelijk in AdSense",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/geek/202210",
-          "author": "Arnoud Wokke",
-          "description": "Deze week praten Arnoud Wokke, Jurian Ubachs, Eric van Ballegoie en Reinoud Dik over updateproblemen met gamelaunchers, crashdetectie op de Apple Watch, het Tweakers Huisfeestje, verschil tussen generaties en smartphonebezit, de Nvidia RTX4090 en Meta Quest Pro.",
-          "link": "https://tweakers.net/geek/202210/tweakers-podcast-238-iphone-kinderen-vr-werelden-en-rtx-kaarten.html",
-          "publishedOn": "2022-10-13T05:06:08.000Z",
-          "wordCount": null,
-          "title": "Tweakers Podcast #238 - iPhone-kinderen, VR-werelden en RTX-kaarten",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/downloads/62032",
-          "author": "Bart van Klaveren",
-          "description": "Versie 11.5.4 van Tor Browser is uitgekomen. Tor staat voor The Onion Router en is een netwerk dat gebruikt kan worden om redelijk anoniem over internet te surfen. Al het tcp-verkeer van gebruikers wordt langs verschillende Tor-routers geleid, waarna het voor de ontvanger vrijwel niet meer mogelijk is om te achterhalen wie de oorspronkelijke verzender was. Binnen het Tor-netwerk is die informatie nog wel aanwezig, zodat antwoorden, uiteraard ook weer via het stelsel van routers, uiteindelijk weer op de juiste plek aankomen. Versie 11 is gebaseerd op Firefox ESR 91, waar dat bij versie 10 nog ESR 78 was. De releasenotes voor deze uitgave zien er als volgt uit: Tor Browser 11.5.4 (Android, Windows, macOS, Linux)",
-          "link": "https://tweakers.net/downloads/62032/tor-browser-1154.html",
-          "publishedOn": "2022-10-13T04:21:28.000Z",
-          "wordCount": 3393,
-          "title": "Tor Browser 11.5.4",
-          "imageUrl": "https://tweakers.net/i/ubUvcLXqpSMDyfRMw85ZgdIrjXU=/134x134/filters:strip_exif()/i/2004778136.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/downloads/62030",
-          "author": "Bart van Klaveren",
-          "description": "Bitwarden is een cross-platform en opensourcewachtwoordbeheerdienst die persoonlijke gegevens in een versleutelde digitale kluis opslaat. Het is in de basis gratis te gebruiken en voor een klein bedrag per jaar is er toegang tot diverse extra's, zoals kunnen inloggen met een hardwaresleutel voor extra veiligheid en opslagcapaciteit voor bijlagen. Bitwarden is beschikbaar online, als desktopcliënt, als mobiele app en als plug-in voor diverse webbrowsers. Hieronder staan welke veranderingen en verbeteringen er in deze uitgave zijn aangebracht: Changes in Bitwarden 2022.10.0",
-          "link": "https://tweakers.net/downloads/62030/bitwarden-2022100.html",
-          "publishedOn": "2022-10-13T04:13:41.000Z",
-          "wordCount": null,
-          "title": "Bitwarden 2022.10.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/downloads/62028",
-          "author": "Bart van Klaveren",
-          "description": "Versie 28.1 van OBS Studio is in ontwikkeling en de eerste bètarelease is uitgekomen. Open Broadcaster Software Studio is opensource- en crossplatformsoftware bedoeld voor het opnemen en streamen van videobeelden van een of meer bronnen, zoals een webcam, microfoon, mediabestanden en de desktop. In versie 28 is onder meer ondersteuning voor 10-bit en hdr-video-encoding toegevoegd, is er een versie voor Apple-hardware uitgerust met een Apple Silicon-cpu en is de overstap naar Qt 6 voor de gebruikersinterface gemaakt. In versie 28.1 zijn verder nog de volgende verbeteringen doorgevoerd: 28.1 Changes",
-          "link": "https://tweakers.net/downloads/62028/obs-studio-281-beta-1.html",
-          "publishedOn": "2022-10-13T04:08:29.000Z",
-          "wordCount": 2105,
-          "title": "OBS Studio 28.1 bèta 1",
-          "imageUrl": "https://tweakers.net/i/JQTNqZOGtrC56bzb8qqLbOOG7_U=/134x134/filters:strip_exif()/i/2004647858.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/downloads/62018",
-          "author": "Bart van Klaveren",
-          "description": "Virtualisatie heeft in de laatste decennia een prominente plek veroverd. Bekende namen zijn onder andere Xen en VMware. Het complete platform van VMware heet vSphere en bestaat uit verschillende componenten, zoals vCenter Server, waarmee een complete virtuele omgeving kan worden beheerd, en natuurlijk de hypervisor ESXi, waarop virtuele machines hun werk kunnen doen. Versie 8.0 van zowel vCenter Server als ESXi uitgekomen en de changelog daarvan ziet er als volgt uit: What's New",
-          "link": "https://tweakers.net/downloads/62018/vmware-vsphere-esxi-80.html",
-          "publishedOn": "2022-10-12T19:29:06.000Z",
-          "wordCount": null,
-          "title": "VMWare vSphere ESXi 8.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202236",
-          "author": "Jay Stout",
-          "description": "Chatdienst Signal stopt over enkele maanden met de ondersteuning voor sms-berichten in zijn Android-app. Volgens de berichtendienst zorgde sms voor problemen bij gebruikers en bij het ontwerpen van de app. De functie wordt de komende maanden uitgefaseerd.",
-          "link": "https://tweakers.net/nieuws/202236/signal-stopt-met-ondersteuning-voor-sms-in-android-app.html",
-          "publishedOn": "2022-10-12T18:54:34.000Z",
-          "wordCount": null,
-          "title": "Signal stopt met ondersteuning voor sms in Android-app",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202234",
-          "author": "Jay Stout",
-          "description": "Google heeft ondersteuning voor passkeys toegevoegd aan de Canary-versie van Chrome en de bèta van Google Play Services. Passkey is een implementatie van de FIDO-sign-in-standaard waarbij geen wachtwoord nodig is. Later dit jaar verschijnt de functie in de stable channels.",
-          "link": "https://tweakers.net/nieuws/202234/google-voegt-ondersteuning-passkeys-toe-aan-betaversie-play-services-en-chrome.html",
-          "publishedOn": "2022-10-12T17:50:57.000Z",
-          "wordCount": null,
-          "title": "Google voegt ondersteuning passkeys toe aan bètaversie Play Services en Chrome",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202192",
-          "author": "Hayte Hugo",
-          "description": "Athom heeft een nieuwe versie van de Homey Pro geïntroduceerd. Deze heeft een nieuw, platter ontwerp dan zijn voorganger en heeft krachtigere hardware. Het nieuwe smarthomebasisstation moet daarnaast een groter draadloos bereik bieden en ondersteunt volgend jaar Matter.",
-          "link": "https://tweakers.net/nieuws/202192/athom-introduceert-homey-pro-met-snellere-soc-en-in-2023-matter-ondersteuning.html",
-          "publishedOn": "2022-10-12T17:30:00.000Z",
-          "wordCount": 6075,
-          "title": "Athom introduceert Homey Pro met snellere soc en in 2023 Matter-ondersteuning",
-          "imageUrl": "https://tweakers.net/i/JZVZ6Z5iL95B_BvKSY5XdQxQYQY=/134x134/filters:strip_exif()/i/2004843180.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/reviews/10560",
-          "author": "Donovan Kerssenberg",
-          "description": "Google heeft de Pixel-serie eindelijk officieel beschikbaar gemaakt voor de Nederlandse markt. Wij gingen meteen aan de slag met de Pixel 7 en Pixel 7 Pro.",
-          "link": "https://tweakers.net/reviews/10560/google-pixel-7-en-pixel-7-pro-indrukwekkend-en-teleurstellend-tegelijk.html",
-          "publishedOn": "2022-10-12T17:00:00.000Z",
-          "wordCount": null,
-          "title": "Google Pixel 7 en Pixel 7 Pro - Indrukwekkend en teleurstellend tegelijk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202220",
-          "author": "Yannick Spinner",
-          "description": "AI-bedrijf Play.ht heeft door middel van kunstmatige intelligentie een podcast gegenereerd tussen podcaster Joe Rogan en de overleden Apple-medeoprichter Steve Jobs. Dankzij deeplearning werden de stemmen van de twee mannen nagemaakt.",
-          "link": "https://tweakers.net/nieuws/202220/ai-genereert-fictieve-podcast-van-joe-rogan-met-steve-jobs-als-gast.html",
-          "publishedOn": "2022-10-12T16:35:06.000Z",
-          "wordCount": null,
-          "title": "AI genereert fictieve podcast van Joe Rogan met Steve Jobs als gast",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/downloads/62026",
-          "author": "Bart van Klaveren",
-          "description": "De Mozilla Foundation heeft versie 102.3.3 van Thunderbird uitgebracht. Thunderbird is een opensourceclient voor e-mail en nieuwsgroepen, met features als ondersteuning voor verschillende mail- en newsaccounts, een spamfilter, spellingscontrole en een aanpasbaar uiterlijk. In versie 102 heeft Mozilla onder meer de gebruikersinterface en het adresboek een opfrisbeurt gegeven, is het importeren en exporteren van gebruikersaccounts eenvoudiger gemaakt en is het chat-protocol Matrix toegevoegd. In deze update zijn verder nog de volgende verbeteringen aangebracht: What’s New",
-          "link": "https://tweakers.net/downloads/62026/mozilla-thunderbird-10233.html",
-          "publishedOn": "2022-10-12T16:34:38.000Z",
-          "wordCount": 2275,
-          "title": "Mozilla Thunderbird 102.3.3",
-          "imageUrl": "https://tweakers.net/i/V1GpCCXBZy_q8IxOrxuYgOtrzbk=/134x134/filters:strip_exif()/i/2004636176.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202232",
-          "author": "Jay Stout",
-          "description": "De Foto’s-app in Windows 11 krijgt in november ondersteuning voor de synchronisatie van iCloud-foto’s. De functie wordt momenteel uitgetest via het Windows Insider-programma en wordt volgens Microsoft volgende maand uitgerold naar reguliere Windows 11-gebruikers.",
-          "link": "https://tweakers.net/nieuws/202232/fotos-app-windows-11-krijgt-ondersteuning-voor-synchronisatie-icloud-fotos.html",
-          "publishedOn": "2022-10-12T16:24:20.000Z",
-          "wordCount": null,
-          "title": "Foto’s-app Windows 11 krijgt ondersteuning voor synchronisatie iCloud-foto’s",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202228",
-          "author": "Jay Stout",
-          "description": "Microsoft introduceert zijn Adaptive Accessoires voor mensen met een beperking. Het betreft een hub, een aanpasbare muis en knoppen met opzetstukken. De accessoires komen op 25 oktober uit in bepaalde landen. Hoeveel de accessoires moeten kosten, is niet duidelijk.",
-          "link": "https://tweakers.net/nieuws/202228/microsoft-kondigt-adaptive-accessoires-aan-voor-pc-gebruikers-met-een-beperking.html",
-          "publishedOn": "2022-10-12T15:55:44.000Z",
-          "wordCount": null,
-          "title": "Microsoft kondigt Adaptive Accessoires aan voor pc-gebruikers met een beperking",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202224",
-          "author": "Yannick Spinner",
-          "description": "Microsoft kondigt de Surface Laptop 5-familie aan, bestaande uit twee series die aangedreven worden door een Intel-cpu. Er zijn voor deze generatie geen configuraties met een AMD-cpu meer mogelijk. De serie laptops komt op 25 oktober uit vanaf 1179 euro.",
-          "link": "https://tweakers.net/nieuws/202224/microsoft-brengt-de-surface-laptop-5-serie-met-intel-cpus-eind-oktober-uit.html",
-          "publishedOn": "2022-10-12T15:07:13.000Z",
-          "wordCount": 3095,
-          "title": "Microsoft brengt de Surface Laptop 5-serie met Intel-cpu's eind oktober uit",
-          "imageUrl": "https://tweakers.net/i/sZKCQboq4RjdAtfPLLNvWGVkR40=/134x134/filters:strip_icc():strip_exif()/i/2005405428.jpeg?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202222",
-          "author": "Hayte Hugo",
-          "description": "Microsoft heeft de Surface Pro 9 aangekondigd, een 2-in-1 die voor het eerst ook met Arm-soc te koop is. Voorheen was alleen de Surface Pro X met Arm-soc te koop, maar Microsoft voegt dat model samen met de genummerde Pro-lijn. In de Pro 9 zit een aangepaste Qualcomm-soc.",
-          "link": "https://tweakers.net/nieuws/202222/microsoft-introduceert-surface-pro-9-met-intel-of-arm-soc.html",
-          "publishedOn": "2022-10-12T14:59:16.000Z",
-          "wordCount": null,
-          "title": "Microsoft introduceert Surface Pro 9 met Intel- of Arm-soc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202230",
-          "author": "Arnoud Wokke",
-          "description": "Microsoft heeft op zijn Surface-evenement de Studio 2+ gepresenteerd. De nieuwe versie is een specbump van de vorige versie, die dateert uit 2018. Die verscheen toen met verouderde hardware. De nieuwe versie heeft nieuwe componenten.",
-          "link": "https://tweakers.net/nieuws/202230/surface-studio-2+-is-specbump-voor-microsofts-all-in-one-van-vier-jaar-geleden.html",
-          "publishedOn": "2022-10-12T14:48:27.000Z",
-          "wordCount": null,
-          "title": "Surface Studio 2+ is specbump voor Microsofts all-in-one van vier jaar geleden",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202214",
-          "author": "Yannick Spinner",
-          "description": "Nvidia maakt de eerste games bekend die binnen nu en een week ondersteuning voor DLSS 3.0 krijgen. De functie is vanaf het moment van schrijven voor enkele titels beschikbaar, maar voorlopig alleen in combinatie met een GeForce RTX 4090-gpu.",
-          "link": "https://tweakers.net/nieuws/202214/nvidia-bevestigt-eerste-games-die-dlss-3-ondersteuning-krijgen.html",
-          "publishedOn": "2022-10-12T14:16:51.000Z",
-          "wordCount": null,
-          "title": "Nvidia bevestigt eerste games die DLSS 3-ondersteuning krijgen",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202218",
-          "author": "Hayte Hugo",
-          "description": "Ziggo hoeft van het Hof Arnhem geen waarschuwingen van Brein door te sturen naar frequente torrentgebruikers. Brein wilde dit, maar verloor het hoger beroep omdat de stichting torrentgebruikers alleen wil waarschuwen en geen rechtszaak tegen ze wil starten.",
-          "link": "https://tweakers.net/nieuws/202218/brein-verliest-hoger-beroep-om-doorsturen-van-waarschuwingen-naar-ziggo-klanten.html",
-          "publishedOn": "2022-10-12T14:15:36.000Z",
-          "wordCount": null,
-          "title": "Brein verliest hoger beroep om doorsturen van waarschuwingen naar Ziggo-klanten",
-          "imageUrl": null
         }
       ]
     },
@@ -7108,6 +7028,206 @@
       "feedUrl": "https://nl.pepper.com/rss/overzicht%20van%20de%20populairste%20groepen",
       "siteUrl": "https://nl.pepper.com",
       "articles": [
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/cybex-sirona-sx2-i-size-autostoel-incl-isofix-base-255206",
+          "author": null,
+          "description": "€349 - Bol.com\nDe Cybex Sirona SX2 i-Size Autostoel groeit en draait met je kleintje mee. De autostoel is eenvoudig 360° te draaien en gebruik je vanaf de geboorte (met zitverkleiner, apart verkrijgbaar) tot 4 jaar oud. De Cybex Sirona SX2 i-Size Autostoel heeft een geïntegreerde ISOFIX base.",
+          "link": "https://nl.pepper.com/aanbiedingen/cybex-sirona-sx2-i-size-autostoel-incl-isofix-base-255206",
+          "publishedOn": "2022-11-11T23:13:29.000Z",
+          "wordCount": 1141,
+          "title": "Cybex Sirona SX2 i-Size autostoel incl Isofix base",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/meyco-badcape-80x80cm-255205",
+          "author": null,
+          "description": "€10,98 - Bol.com\nMet deze lieflijke Meyco Baby Hydrofiele Badcape Uni blijft je kindje heerlijk warm na het badderen. De cape voelt erg zacht aan ideaal dus voor je baby’s tere huidje. De capuchon zorgt ervoor dat het hoofdje na het badderen, douchen en zwemmen lekker warm blijft. Deze uni collectie is verkrijgbaar in meerdere zachte pastelkleuren en perfect te combineren met de complete Meyco Baby collectie.\nMeer over de badcape\nDe badcape is gemaakt van 100% hydrofiel katoen, wat ervoor zorgt dat deze vocht goed opneemt en snel droogt. Je kunt de cape gemakkelijk terugvouwen omdat deze extra lang is, zo blijft je kindje lekker warm.",
+          "link": "https://nl.pepper.com/aanbiedingen/meyco-badcape-80x80cm-255205",
+          "publishedOn": "2022-11-11T23:13:27.000Z",
+          "wordCount": 1169,
+          "title": "Meyco badcape 80x80cm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/bol-com-jollein-babyslaapzak-lenteherfst-yellow-lengte-70-cm-255204",
+          "author": null,
+          "description": "€8,38 - Bol.com\nOok in herfstkleur: https://www.bol.com/nl/nl/p/jollein-baby-slaapzak-hydrofiel-70cm-bloom/9300000074847448/?s2a=&bltgh=haGXwLq83qJQmQ7Q-EpIYA.2_35_36.37.FeatureOptionButton#productTitle\nEen slaapzakje is heel fijn om te gebruiken voor jouw kleintje. Het zorgt namelijk voor een geborgen gevoel en warmte. Ook hoef je in principe geen dekentje meer te gebruiken en zo blijven ze altijd warm omdat ze hem niet van zich af kunnen schoppen zoals bij een dekentje. Als het slaapzakje alleen niet warm genoeg is of jouw kleintje vindt het fijn, dan kun je het natuurlijk wel combineren.\nDit leuke jersey slaapzakje is heeft een all over printje van schattige madeliefjes en de TOG-waarde is 0.5. Het slaapzakje heeft geen mouwtjes.\nHet jersey Daisy slaapzakje is verkijgbaar in rosewood en custard in de maten 70, 90 en 110 cm. Dit matcht dus in elk bedje.",
+          "link": "https://nl.pepper.com/aanbiedingen/bol-com-jollein-babyslaapzak-lenteherfst-yellow-lengte-70-cm-255204",
+          "publishedOn": "2022-11-11T22:17:38.000Z",
+          "wordCount": 1237,
+          "title": "Bol com Jollein Babyslaapzak Lente/herfst - yellow - lengte 70 cm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/snoozebaby-swaddledoek-ledikant-van-100-organic-katoen-120x120cm-smokey-green-groen-255203",
+          "author": null,
+          "description": "€4,13 - Bol.com\nDeze heerlijke swaddle is gemaakt in Turkije van 100% organic katoen. TOG 0.5. De afmeting is vierkant, 120x120cm, zodat hij naast een lakentje ook kan fungeren als inbakerdoek of afdroogdoek. Verpakt per 1 stuk.",
+          "link": "https://nl.pepper.com/aanbiedingen/snoozebaby-swaddledoek-ledikant-van-100-organic-katoen-120x120cm-smokey-green-groen-255203",
+          "publishedOn": "2022-11-11T22:16:33.000Z",
+          "wordCount": 1154,
+          "title": "Bol com Snoozebaby swaddle/doek ledikant van 100% organic katoen - 120x120cm - Smokey Green groen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/luma-badcape-80x80cm-255202",
+          "author": null,
+          "description": "€6,76 - Bol.com\nMet deze LUMA Babycare badcape kun jij je baby lekker warm houden nadat het uit bad komt. De capuchon zorgt ervoor dat ook het hoofdje op temperatuur blijft. De badcape is gemaakt van 100% katoen, een combinatie van jersey en een zware kwaliteit badstof. Deze is vrij van schadelijke stoffen en Oeko-Tex gecertificeerd. De badstof voelt heerlijk zacht aan en neemt snel vocht op. Met het haakje aan de capuchon kun je de badcape gemakkelijk ophangen. De badcape is perfect te combineren met andere LUMA artikelen in bijvoorbeeld dezelfde print. De badcape is wasbaar op 40 graden.",
+          "link": "https://nl.pepper.com/aanbiedingen/luma-badcape-80x80cm-255202",
+          "publishedOn": "2022-11-11T22:09:38.000Z",
+          "wordCount": 1185,
+          "title": "LUMA badcape 80x80cm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/50-en-75-korting-op-vele-geurtjes-255201",
+          "author": null,
+          "description": "50% tot 75% korting op vele geurtjes bij prijsmepper Geleen. Ik weet niet of dit elders in het land ook geldt. Alleen op 12 november geldig!",
+          "link": "https://nl.pepper.com/aanbiedingen/50-en-75-korting-op-vele-geurtjes-255201",
+          "publishedOn": "2022-11-11T20:49:39.000Z",
+          "wordCount": 1090,
+          "title": "prijsmepper GELEEN: 50% en 75% korting op vele geurtjes.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/11-korting-op-alles-van-beyerdynamic-255187",
+          "author": null,
+          "description": "Tot en met 13 November heeft alles in de online store van Beyerdynamic 11% korting met de code \"SINGLE11\". Niet alles in hun store is goedkoper dan de concurrentie, maar vooral in de outlet zijn er zeker leuke deals te scoren.\nZo heb ik zelf een DT 990 PRO (B-Stock) weten te scoren voor 100 euro incl. verzending.\nVerzending is gratis op alles vanaf €15.",
+          "link": "https://nl.pepper.com/aanbiedingen/11-korting-op-alles-van-beyerdynamic-255187",
+          "publishedOn": "2022-11-11T20:49:24.000Z",
+          "wordCount": 1132,
+          "title": "11% korting op alles van Beyerdynamic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/bolcom-blueair-classic-480i-pa-luchtreiniger-deeltjesfilter-40m2-wit-eur170-255200",
+          "author": null,
+          "description": "€170 - Bol.com\nBij bol.com:\nBlueair Classic 480i PA - Luchtreiniger - Deeltjesfilter - 40m2 - Wit\n€170 \nEerst volgende verkoper;\n€546,01\nGratis verzending.\nProductinformatie\nMerk\nBlueair\nModel\n200039\nMPN (Manufacturer Part Number)\n1236\nType reiniging\nHepa-filter\nCADR-waarde\n510 m³/h\nVermogen\n90 W\nGeschikt voor ruimte tot\n40 m²\nGeluidsniveau \n52 dB\nKleur\nwhite\nInstellingen en functies\nKlimaatbeheersingsfunctie\nLuchtreinigingsfunctie\nMet ventilatie\nNee\nIonisator\nJa\nPollenprogramma\nJa\nNachtmodus\nJa\nAantal snelheden\n3Afneembare waterreservoir\nNee\nMuur montage\nNee\nVerstelbare luchtuitlaat\nNee\nHoogte instelbaar\nNee\nMet wielen\nNee\nVeiligheid en indicatiefuncties\nIndicatie afgerond\nJa\nIndicatielampje\nJa\nAan-uit schakelaar\nNee\nTimer\nNee\nAutomatisch uitschakelen\nJa\nVeiligheid uitschakelen\nJa\nKind veilig\nJa\nBijgeleverde accessoires en toebehoren\nAfstandsbediening\nNee\nAfmetingen & gewicht\nProduct gewicht\n14 kg\nMogelijke vereisten instellen en gebruik\nKan zelfstandig met internet verbinden \nNee\nApp vereist voor volledige functionaliteit \nNee\nOverige kenmerken\nBediening via mobiele app\nJa\nCE markering\nZichtbaar\nFabrieksgarantie termijn \n2 jaar\nFilter\nJa\nGaat automatisch aan en uit\nJa\nGeurfilter\nNee\nGewicht\n14 kg\nIngebouwde luchtkwaliteitmeter\nJa\nKeurmerk\nCE keurmerk\nKoolstoffilter meegeleverd\nNee\nMaximale geluidsproductie\n62 dB\nMinimale geluidsproductie\n32 dB\nOntvochtigingsfunctie\nNee\nOverhittingsbeveiliging\nJa\nProduct breedte\n50 cm\nProduct hoogte\n59 cm\nProduct lengte\n27.50 cm\nReparatie type \nCarry-in\nScherm\nNSmart Home Platform\nGeen platform\nUitzonderingen fabrieksgarantie \ngeen\nVerpakking breedte\n550 mm\nVerpakking hoogte\n320 mm\nVerpakking lengte\n640 mm\nVerpakkingsinhoud \nProduct inclusief verpakkingmateriaal\nVerwarmingsfunctie\nNee\nVoorfilter\nJa\nEAN\nEAN\n0689122005249",
+          "link": "https://nl.pepper.com/aanbiedingen/bolcom-blueair-classic-480i-pa-luchtreiniger-deeltjesfilter-40m2-wit-eur170-255200",
+          "publishedOn": "2022-11-11T20:49:05.000Z",
+          "wordCount": 1392,
+          "title": "[bol.com] Blueair Classic 480i PA - Luchtreiniger - Deeltjesfilter - 40m2 - Wit €170",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/elektrische-stadsfiets-polluno-en-mountainbike-netuno-255199",
+          "author": null,
+          "description": "€1.049\nNu korting op elektrische fietsen. Als je via de Duitse website het in je mandje doet en “wacht”, krijg je na een dag een kortingscode voor nog eens €50 en ik kreeg een dag daarna nog een code voor €60. Dus nog goedkoper dan de aanbieding. \nDe reviews op Amazon zijn goed. Tuurlijk kunnen er dingen beter, maar denk niet dat je snel een soortgelijk fiets voor zo’n prijs kunt vinden.\nDe fiets heeft al een keer eerder op Pepper gestaan: https://nl.pepper.com/share-deal-from-app/244774",
+          "link": "https://nl.pepper.com/aanbiedingen/elektrische-stadsfiets-polluno-en-mountainbike-netuno-255199",
+          "publishedOn": "2022-11-11T20:47:11.000Z",
+          "wordCount": 1134,
+          "title": "Elektrische stadsfiets Polluno en mountainbike Netuno",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/levis-slippers-maat-424345-255198",
+          "author": null,
+          "description": "€12,11 - About You\nIn de aanbieding bij Aboutyou.\nBlauwe slippers van het merk Levi's.\nMaat 42,43 en 45 zijn nog op voorraad\n- Gratis verzenden en retouren \n- Aboutyou doet mee aan de app cashbackxl",
+          "link": "https://nl.pepper.com/aanbiedingen/levis-slippers-maat-424345-255198",
+          "publishedOn": "2022-11-11T20:39:58.000Z",
+          "wordCount": 1142,
+          "title": "Levi's slippers (maat 42/43/45)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/grensdeal-belgie-hypermarkt-carrefour-255197",
+          "author": null,
+          "description": "€2 - Carrefour\nBen niet 100 procent zeker dat controllers meedoen. Neem aan dat de spellen wel meedoen met de actie.\nAub voordat je vertrekt of het risico wil nemen om naar belgie te gaan bel even zelf met de carrefour om te vragen hoe het precies zit.\n3x ps5 controller 120 euro?\n\n3x ps4 controller 100 euro?\n\n3x Mario kart 8 nintendo switch 98 euro?\n\n\n3x call of duty modern warfare 2 130 euro?ps4 ps5\n\n3x God of war ragnarok ps4 120 euro?\n3x God of war ragnarok ps5 130 euro?\n3x nintendo joycon 140 euro?\n3x nintendo pro controller 120 euro?\n3x zelda beath of the wild switch 120?",
+          "link": "https://nl.pepper.com/aanbiedingen/grensdeal-belgie-hypermarkt-carrefour-255197",
+          "publishedOn": "2022-11-11T20:39:23.000Z",
+          "wordCount": 1212,
+          "title": "Grensdeal Belgie hypermarkt carrefour 2+1 gratis naar keuze op de niet voedingsproducten",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/benzine-1829-sint-oedenrode-255179",
+          "author": null,
+          "description": "€1,83\nIk kan zo 1,2,3 geen goedkopere vinden in Noord-Brabant en dit scheelt toch wel 5-10 cent per liter dan de meeste benzinepompen.\nDacht is het delen waard (y)",
+          "link": "https://nl.pepper.com/aanbiedingen/benzine-1829-sint-oedenrode-255179",
+          "publishedOn": "2022-11-11T20:25:23.000Z",
+          "wordCount": 1000,
+          "title": "Benzine 1.829 Sint-Oedenrode",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/oneplus-nord-buds-oneplus-store-app-255189",
+          "author": null,
+          "description": "€24,99\nOneplus nord buds 24.99 in the oneplus store app (niet op de website) je kan in de app ook spinnen voor een free shipping voucher!",
+          "link": "https://nl.pepper.com/aanbiedingen/oneplus-nord-buds-oneplus-store-app-255189",
+          "publishedOn": "2022-11-11T20:25:12.000Z",
+          "wordCount": 1115,
+          "title": "Oneplus nord buds (oneplus store app)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/celebrations-dirk-50-korting-255196",
+          "author": null,
+          "description": "€2,50\nProduct gaat uit het assortiment,  50% kassakorting op een doos celebrations. Ideaal als je niet veel moeite wilt doen om je collega's op wat lekkers te trakteren. \nNu voor maar 2,50! \nIk weet niet of dit landelijk is of niet! Foto gemaakt in Assen hier is nog genoeg voorraad.",
+          "link": "https://nl.pepper.com/aanbiedingen/celebrations-dirk-50-korting-255196",
+          "publishedOn": "2022-11-11T20:25:09.000Z",
+          "wordCount": 1145,
+          "title": "Celebrations Dirk 50% korting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/gratis-100-doge-voor-nieuwe-klanten-anycoin-direct-255193",
+          "author": null,
+          "description": "Welkomstbonus voor nieuwe klanten\nMaak een gratis account aan en ontvang 100 DOGE in je persoonlijke Vault! \nVerifieer je Telefoonnummer + Identificatie document en ontvang je DOGE binnen één werkdag. \nActie geldig op 11 november 2022.",
+          "link": "https://nl.pepper.com/aanbiedingen/gratis-100-doge-voor-nieuwe-klanten-anycoin-direct-255193",
+          "publishedOn": "2022-11-11T20:25:04.000Z",
+          "wordCount": 1146,
+          "title": "[Gratis geld] 100 DOGE twv € 8 @ Anycoin Direct",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/40-korting-op-gehele-assortiment-van-farmers-gracy-255166",
+          "author": null,
+          "description": "40% Korting op het gehele assortiment. Verschillende bloembollen: voorjaars-, zomer- en najaarsbloeiers. Ook bollen/wortels van kamerplanten. Ook verschillende mooie cultivars!",
+          "link": "https://nl.pepper.com/aanbiedingen/40-korting-op-gehele-assortiment-van-farmers-gracy-255166",
+          "publishedOn": "2022-11-11T20:24:39.000Z",
+          "wordCount": 1100,
+          "title": "40% korting op gehele assortiment van Farmers Gracy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/gratis-vst-audiolens-audio-reference-255188",
+          "author": null,
+          "description": "Simply reference from streaming\nMeet the new Audiolens desktop app which makes track referencing and comparison easy by analyzing audio from any streaming platform or audio source. Build your personal library of reference tracks that you can access anytime to compare against your own mixes or masters.",
+          "link": "https://nl.pepper.com/aanbiedingen/gratis-vst-audiolens-audio-reference-255188",
+          "publishedOn": "2022-11-11T20:22:11.000Z",
+          "wordCount": 1066,
+          "title": "Gratis Audiolens (Audio reference)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/bebe-jou-bad-sense-edition-255195",
+          "author": null,
+          "description": "€14,14 - Bol.com\nIn het Bebe-Jou Sense Edition Bad kan je kindje heerlijk badderen. Het babybadje bevat een digitale thermometer die zowel de kamertemperatuur als de watertemperatuur kan meten. Deze gegevens worden via een draadloze verbinding weergegeven op de digitale display. Ook is de display voorzien van een timer die in te stellen is op 10 minuten, zo zit je kindje nooit te lang in bad. De geadviseerde hoeveelheid water om het badje te vullen is ongeveer 14 liter. De ideale water temperatuur in het badje is 37 graden. Je kunt het Bebe-Jou badje eenvoudig op de Sense badstandaard klikken. Dankzij het kliksysteem kan het badje niet schuiven. Voor het vullen en legen van het babybadje bestaat er een luieremmer. Wanneer je het badje sneller leeg wilt hebben is de afvoerslang aan te raden.\nLet op: badstandaard zit er niet bij!\nGratis verzending met select of boven de €20,00. Anders €2,99.",
+          "link": "https://nl.pepper.com/aanbiedingen/bebe-jou-bad-sense-edition-255195",
+          "publishedOn": "2022-11-11T20:06:35.000Z",
+          "wordCount": 1219,
+          "title": "Bébé-jou bad sense edition (digitale thermometer)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/dagdeal-16-november-3-flessen-pepsi-regular-en-max-3-voor-eur-250-vomar-255194",
+          "author": null,
+          "description": "€2,50\nAlleen 16 november 3 flessen 1,5 liter pepsi regular en pepsi max € 2,50.\nElders vaak 1,50 of 1 euro per stuk.",
+          "link": "https://nl.pepper.com/aanbiedingen/dagdeal-16-november-3-flessen-pepsi-regular-en-max-3-voor-eur-250-vomar-255194",
+          "publishedOn": "2022-11-11T19:45:55.000Z",
+          "wordCount": 1129,
+          "title": "Dagdeal 16 november 3 flessen pepsi regular en max 3 voor € 2,50 vomar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/bolcom-deryan-peuterbox-campingbedje-babybox-silver-eur4422-255192",
+          "author": null,
+          "description": "€44,22 - Bol.com\nBij bol.com;\nDeryan baby Peuterbox Campingbedje - babybox - Silver\n€44,22\nGratis verzending.\nElders;\n€149,95\nProductbeschrijving\nMet de DERYAN PeuterBox heb je een slaaptent en box in een! Met het bijgeleverde frame maak je er gemakkelijk een stevige box van. Geleverd met handige tas, om alles weer in op te bergen!\nVoordelen\nStevig & lichtgewicht\nBeschermt tegen muggen en andere insecten\nTe gebruiken als speelbox en als slaapplek\nMakkelijk mee te nemen\nEenvoudig op te zetten en in te vouwen\nHet bedje is geschikt voor kindje van 0 tot ongeveer 4,5 jaar.\nGebruiksvriendelijkheid en kwaliteit staan in een hoog vaandel bij de DERYAN-familie. De materialen waarmee de DERYAN PeuterBox gemaakt is, zijn brandvertragend en 50% UV-bestendig.\n\nDankzij het handige en zeer sterke gaas, welke kleiner dan 1 mm is, houdt de DERYAN Peuter Box alle muggen en overige insecten tegen. Een bijkomend voordeel is dat het voor een prima luchtventilatie zorgt.\n\nKenmerken Deryan Peuterbox:\n• Geschikt van 0 tot ongeveer 4.5 jaar. \n• Gewicht +/- 4Kg\n• Afmeting uitgevouwen: 84 x 62 x 136 cm (BxHxL)\n• Te gebruiken als reiswieg(tent) en box\nWat zit er in de verpakking? \nDe Peuterbox\nAluminium stokken\n4 voetjes\n4 koppelstukken",
+          "link": "https://nl.pepper.com/aanbiedingen/bolcom-deryan-peuterbox-campingbedje-babybox-silver-eur4422-255192",
+          "publishedOn": "2022-11-11T19:01:49.000Z",
+          "wordCount": 1304,
+          "title": "[bol.com] Deryan Peuterbox Campingbedje - babybox - Silver €44,22",
+          "imageUrl": null
+        },
         {
           "id": "https://nl.pepper.com/aanbiedingen/meg-piraten-festijn-in-gelredome-255044",
           "author": null,
@@ -12896,206 +13016,6 @@
           "publishedOn": "2022-10-13T17:26:40.000Z",
           "wordCount": 1152,
           "title": "Dicey Dungeons voor Nintendo Switch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/langlekker-volle-melk-12-liter-252049",
-          "author": null,
-          "description": "€12 - Amazon.nl\nOmdat halfvol al uitverkocht is.\n12 liter , 12 euro  gratis verzending prime \n\nDe magere melk er ook.  6 liter voor 6 euro",
-          "link": "https://nl.pepper.com/aanbiedingen/langlekker-volle-melk-12-liter-252049",
-          "publishedOn": "2022-10-13T00:01:26.000Z",
-          "wordCount": 1186,
-          "title": "Langlekker volle melk * 12 liter ( magere melk in de omschrijving)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/gratis-walibi-tickets-bij-een-boeking-europarcs-zuiderzee-252048",
-          "author": null,
-          "description": "EuroParcs\nOntvang deze herfstvakantie gratis tickets voor Walibi. Deze kaarten zijn toe te voegen tijdens de boeking voor Zuiderzee bij extra's. \nTickets zijn geldig van maandag 17 t/m woensdag 19 oktober, en van maandag 24 t/m 26 oktober.",
-          "link": "https://nl.pepper.com/aanbiedingen/gratis-walibi-tickets-bij-een-boeking-europarcs-zuiderzee-252048",
-          "publishedOn": "2022-10-12T22:14:44.000Z",
-          "wordCount": 1145,
-          "title": "Gratis Walibi Tickets bij een boeking EuroParcs Zuiderzee",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/bolcom-faber-castell-waskrijt-jumbo-24-stuks-fc-120034-eur349-252047",
-          "author": null,
-          "description": "€3,49 - Bol.com\nBij bol.com;\nFaber-Castell waskrijt - Jumbo - 24 stuks - FC-120034\n€3,49 dagdeal\nGratis verzending vanaf €20 of met select.\nAnders €2,99 verzendkosten.\nElders;\n€11,95\nProductbeschrijving\nFaber-Castell jumbo waskrijtjes 24 stuks in mooie kunststof bewaarbox\nErgonomische driekantige vorm voor een betere grip. Ideaal voor gemengde technieken. Briljante kleuren. Geleverd in mooie plastic opbergbox. Inhoud: 24 kleuren (incl. 6 neon kleuren)\n Kleuterschool en school\n Jumbo waskrijtjes\n Ergonomische driehoekige vorm om moeiteloos te kleuren\n Levendige kleuren\n Met papieren huls\n Waterbestendig\n Praktische, herbruikbare kunststof doos van 24",
-          "link": "https://nl.pepper.com/aanbiedingen/bolcom-faber-castell-waskrijt-jumbo-24-stuks-fc-120034-eur349-252047",
-          "publishedOn": "2022-10-12T22:14:40.000Z",
-          "wordCount": 1312,
-          "title": "[bol.com] Faber-Castell waskrijt - Jumbo - 24 stuks - FC-120034 €3,49",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/gratis-3-dollar-aan-oo-token-crypto-bij-coinbase-252046",
-          "author": null,
-          "description": "Coinbase\nVraag 1: What is P00LS ?\nAntwoord: A social token platform for fans, artists, creators and brands.\nVraag 2: What is the OO token ?\nAntwoord: The official token of the zerozero ecosystem\nVraag 3: Which is not one of the ways creators have rewarded social token holders on P00LS?\nAntwoord: Giving social token holders their phone number",
-          "link": "https://nl.pepper.com/aanbiedingen/gratis-3-dollar-aan-oo-token-crypto-bij-coinbase-252046",
-          "publishedOn": "2022-10-12T22:08:33.000Z",
-          "wordCount": 1180,
-          "title": "Gratis 3 dollar aan OO Token Crypto bij Coinbase",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/hema-15-korting-vanaf-eur20-code-252019",
-          "author": null,
-          "description": "HEMA\nTot en met zondag krijg je - met de code HERFST15 - 15% korting op bijna alles bij HEMA als je voor €20 of meer besteedt. De voorwaarden en uitzonderingen vind je hieronder.\n| voorwaarden\n\n15% korting bij minimale besteding vanaf €20,-\ndeze actie loopt van donderdag 13 oktober t/m zondag 16 oktober 2022\ngeldig in de webshop en bij alle HEMA vestigingen in Nederland\nom de korting te verzilveren op hema.nl vul je in het besteloverzicht bij het veld <kortingscode invoeren> de kortingscode HERFST15 in - vervolgens druk je op toevoegen waarna de korting automatisch verrekend wordt\nin de HEMA vestigingen wordt na het scannen van de Hema pas de korting automatisch verrekend\ndeze actie is niet geldig i.c.m. lopende acties, aanbiedingen, vouchers of kortingscodes\nuitgesloten van deze actie zijn: reeds afgeprijsde artikelen, boeken en media, huiswijn, bakkerij-assortiment, cadeaukaarten, fotoartikelen en fotoservice, HEMA-tickets, Instax®, smart-verlichting, raambekleding op maat, telecomproducten, verzekeringen en zelfzorgmedicatie.\nde korting is niet geldig met terugwerkende kracht en niet inwisselbaar voor contant geld\nkortingen zijn niet cumuleerbaar\nde korting wordt verrekend over het totaalbedrag van de aankoop\nbij retourneren van (een van) de producten uit de aankoop wordt de verstrekte korting verrekend\nHEMA behoudt zich het recht voor de actievoorwaarden tussentijds te wijzigen. Druk- en\nzetfouten voorbehouden\n\nVerzending & retourneren\n\nAfhalen in een HEMA vestiging naar keuze is gratis bij besteding vanaf €10 (anders €2,50 verwerkingskosten)\nJe bestelling wordt gratis thuisbezorgd bij besteding vanaf €25 (anders €3,95)\nGratis retourneren binnen 30 dagen in de winkel\nThuisbezorgde bestellingen kun je ook gratis terugsturen via UPS - Info over retourneren via UPS vind je hier ◄\n\nBetaalopties\n\niDeal\nPayPal\ncreditcard\nHEMA-cadeaukaart\nBetalen bij ophalen in de winkel",
-          "link": "https://nl.pepper.com/aanbiedingen/hema-15-korting-vanaf-eur20-code-252019",
-          "publishedOn": "2022-10-12T22:00:00.000Z",
-          "wordCount": 1631,
-          "title": "HEMA: 15% korting vanaf €20 (code)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/hellyhansen-donsjas-voor-een-prikkie-252045",
-          "author": null,
-          "description": "€51,99 - Amazon.nl\nNormaal rond de 200 euro of meer, nu voor 51,99 voor prime members.\nALLEEN GELDIG VOOR MAAT L",
-          "link": "https://nl.pepper.com/aanbiedingen/hellyhansen-donsjas-voor-een-prikkie-252045",
-          "publishedOn": "2022-10-12T21:46:15.000Z",
-          "wordCount": 1149,
-          "title": "HellyHansen Donsjas voor een prikkie",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/bosch-professional-7-delige-robust-line-houtspiraalborenset-252044",
-          "author": null,
-          "description": "€4,98 - Amazon.nl\nOm ff lekker te boren in hout!",
-          "link": "https://nl.pepper.com/aanbiedingen/bosch-professional-7-delige-robust-line-houtspiraalborenset-252044",
-          "publishedOn": "2022-10-12T20:35:47.000Z",
-          "wordCount": 1096,
-          "title": "[PRIME]Bosch Professional 7-delige Robust Line houtspiraalborenset",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/historisch-muurverf-252042",
-          "author": null,
-          "description": "€17,50 - Bol.com\nVerschillende kleuren van Histor 2,5L veel goedkoper dan in de bouwmarkten \nDeze kleur bijv ook 2,5L\nbij karwei €41,49\nbij gamma €40,99\nEtc…",
-          "link": "https://nl.pepper.com/aanbiedingen/historisch-muurverf-252042",
-          "publishedOn": "2022-10-12T20:18:42.000Z",
-          "wordCount": 1072,
-          "title": "Histor muurverf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/triominos-junior-252040",
-          "author": null,
-          "description": "€10 - Amazon.nl\nTriominos Junior voor 10 euro en gratis verzenden met prime (eerste maand gratis).\nMet Triominos Junior leren kinderen spelenderwijs de namen van de verschillende kleuren van de stenen. Daarnaast leren ze ook te tellen, door de verdiende fiches bij elkaar op te tellen om te kijken of ze hebben gewonnen.\nDe stenen in deze editie zijn wat steviger gemaakt, waardoor ze lang meegaan. Ook als kinderen er wat enthousiaster mee omgaan. Het spelen met de stenen bevordert de fijne motoriek van de kinderen. Hutsel de stenen door elkaar en het is tijd om te spelen!\nDe Triominos stenen zijn een unieke en leuke variant op de stenen van Domino. Bij Triominos moet je ervoor zorgen dat jouw bordje als eerste leeg is. Maar let op, het aantal punten dat je verzamelt is uiteindelijk doorslaggevend of je hebt gewonnen of niet!\nOf je gaat voor een avondje rustig spelen of een avond vol tactisch nadenken, er is voor ieder een speelwijze mogelijk en gegarandeerd plezier!\nIn de doos zitten 36 stenen, 60 fiches en 4 bordjes om de stenen op te zetten en de instructies.",
-          "link": "https://nl.pepper.com/aanbiedingen/triominos-junior-252040",
-          "publishedOn": "2022-10-12T20:07:01.000Z",
-          "wordCount": 1426,
-          "title": "Triominos junior",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/amazon-prime-razer-goliathus-chroma-extended-zwart-252041",
-          "author": null,
-          "description": "€26,93 - Amazon.nl\nNu bij Amazon met Prime deze XL Razor muismat met ingebouwde verlichting.\nAfmeting: 90 x 30 cm\nLaagste prijs elders (Amazon zonder Prime) € 43,19.",
-          "link": "https://nl.pepper.com/aanbiedingen/amazon-prime-razer-goliathus-chroma-extended-zwart-252041",
-          "publishedOn": "2022-10-12T20:02:38.000Z",
-          "wordCount": 1188,
-          "title": "[Amazon Prime] Razer Goliathus Chroma Extended - Zwart",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/flitsboek-30-dagen-gratis-252039",
-          "author": null,
-          "description": "€0,40\nFlitsboek maakt samenvattingen van boeken en zijn zo gemaakt dat je ze binnen 15/20 min kan lezen.\n30 dagen gratis, daarna 5.95 p/m en is maandelijks opzegbaar.",
-          "link": "https://nl.pepper.com/aanbiedingen/flitsboek-30-dagen-gratis-252039",
-          "publishedOn": "2022-10-12T19:04:30.000Z",
-          "wordCount": 1096,
-          "title": "Flitsboek 30 dagen 'gratis'",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/samsung-galaxy-s21-fe-icm-simyo-abonnement-252037",
-          "author": null,
-          "description": "€408 - Simyo\nI.c.m. een abonnement kost dit toestel €408 terwijl de goedkoopste op Tweakers voor €510 staat.\nDe A53 5G is ook te koop voor €288 i.p.v. €353 (wederom Tweakers).",
-          "link": "https://nl.pepper.com/aanbiedingen/samsung-galaxy-s21-fe-icm-simyo-abonnement-252037",
-          "publishedOn": "2022-10-12T18:49:01.000Z",
-          "wordCount": 1155,
-          "title": "Samsung Galaxy S21 FE i.c.m. Simyo abonnement",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/belgie-gratis-perfectdraft-pro-bij-eur50-bier-252036",
-          "author": null,
-          "description": "€50\nAlleen geldig bij Hypermarkten van Carrefour BonusCard is verplicht! \nKoop voor 50 euro Jupiler, Triple karmeliet, Corona, Kwak, Leffe, Victoria, Hoegaarden, Belle-Vue en Stella Artois, en krijg de nieuwste Perfectdraft Pro tap gratis!",
-          "link": "https://nl.pepper.com/aanbiedingen/belgie-gratis-perfectdraft-pro-bij-eur50-bier-252036",
-          "publishedOn": "2022-10-12T18:41:25.000Z",
-          "wordCount": 1149,
-          "title": "[BELGIE] Gratis Perfectdraft Pro bij €50,- bier",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/tommy-hilfiger-mens-multi-dial-quartz-horloge-kyle-met-roestvrij-stalen-band-252033",
-          "author": null,
-          "description": "€83 - Amazon.nl\nTommy Hilfiger Mens multi Dial Quartz horloge Kyle met roestvrij stalen band",
-          "link": "https://nl.pepper.com/aanbiedingen/tommy-hilfiger-mens-multi-dial-quartz-horloge-kyle-met-roestvrij-stalen-band-252033",
-          "publishedOn": "2022-10-12T18:32:20.000Z",
-          "wordCount": 1157,
-          "title": "Tommy Hilfiger Mens multi Dial Quartz horloge Kyle met roestvrij stalen band",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/lenovo-legion-t5-ryzen-5800rtx307016gb-ram1tb-252031",
-          "author": null,
-          "description": "€1.399 - Megekko\nBest mooie gaming pc alvast samengesteld\nspecs:\nAMD ryzen 7 5800\n16gb ram\n1000gb nvme\nnvidia 3070\nVeel RGB en wifi AX\nTekst van Megekko:\nLenovo Legion T5: een krachtpatser van de nieuwste generatie\nMet de Lenovo Legion T5 haalt u een echte gaming krachtpatser in huis. De nieuwste AMD Ryzen 7 processor heeft een turbo kloksnelheid van 4,6 Ghz en maar liefst 8 cores en 16 threads. In combinatie met het werkgeheugen van 16 GB en de snelle 1 TB SSD zorgt dit voor krachtige prestaties. Zo kunt u niet alleen genieten van de nieuwste games, maar is deze desktop ook uiterst geschikt voor taken als rendering, 3D tekenen en foto- en of videobewerking.\nKrachtige thermische prestaties\nDe Legion T5 heeft indrukwekkende specificaties, alles is optimaal gekoeld voor maximale prestaties m…",
-          "link": "https://nl.pepper.com/aanbiedingen/lenovo-legion-t5-ryzen-5800rtx307016gb-ram1tb-252031",
-          "publishedOn": "2022-10-12T18:32:09.000Z",
-          "wordCount": 1839,
-          "title": "Lenovo Legion T5 Ryzen 5800/RTX3070/16gb ram/1TB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/prime-garmin-venu-sq-music-white-252028",
-          "author": null,
-          "description": "€148,99 - Amazon.nl\nWas zelf aan het wachten op een normale GARMIN Venu Sq maar deze bleef de laatste tijd steken op €169. Nu voor €20 minder een Music edition (alleen WIT),  zodat je ook muziek erop kan slaan. De Music versie kost normaal €219, was niet zo van de witte versie dus ik heb ook nog een zwart bandje meebesteld voor €6 . Wel met Amazon Prime, maar daar was ik nog niet lid van geweest dus dat was gratis.\nEn blijkbaar had ik de ANWB aanbiedingen gemist, maar ja troostprijsje dan maar dit.\nhttps://nl.pepper.com/share-deal-from-app/251838",
-          "link": "https://nl.pepper.com/aanbiedingen/prime-garmin-venu-sq-music-white-252028",
-          "publishedOn": "2022-10-12T18:31:59.000Z",
-          "wordCount": 1338,
-          "title": "[PRIME] GARMIN Venu Sq Music White",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/amazon-fr-clarks-desert-boots-meerdere-kleuren-in-de-aanbieding-252027",
-          "author": null,
-          "description": "€60,56 - Amazon.fr\nClarks desert boots \nMeeste maten nog aanwezig. \nKorting verschilt per kleur \nLet op: prime abonnement nodig, je kan prime abbo afsluiten en nadat je de schoen hebt besteld weer stopzetten.",
-          "link": "https://nl.pepper.com/aanbiedingen/amazon-fr-clarks-desert-boots-meerdere-kleuren-in-de-aanbieding-252027",
-          "publishedOn": "2022-10-12T18:31:58.000Z",
-          "wordCount": 1225,
-          "title": "[Amazon FR] Clarks desert boots meerdere kleuren in de aanbieding",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/onbeperkt-dal-reizen-met-de-bus-in-gelderland-overijssel-en-flevoland-voor-eur3208-252034",
-          "author": null,
-          "description": "€32,08 - Ervaar Het OV\nVia Ervaarhetov.nl kan je een jaarabonnement afsluiten om een jaar lang onbeperkt te reizen met de daluren in Gelderland, Overijssel en Flevoland (behalve in Almere en Lelystad). \nZo lang je niet in de ochtendspits incheckt, dus vóór 6:25 en na 8:55 kun je de hele dag onbeperkt met de bus reizen. Ook als je vóór de ochtendspits hebt ingecheckt kan je gewoon in de spits reizen en overstappen (mits je bus binnen 35 minuten na check-uit vertrekt).\nAls je dit abonnement via webshop.arriva.nl afsluit (alvast sterkte met de onoverzichtelijke website) kan je dit jaarabonnement ook maandelijks betalen. Je betaalt dan €32,08 per maand in plaats van €385,00 per jaar.\nLet op dat dit abonnement niet werkt op kaarten waar ook NS-flex op staat. Gelukkig is een 2e kaart maar €7,50.",
-          "link": "https://nl.pepper.com/aanbiedingen/onbeperkt-dal-reizen-met-de-bus-in-gelderland-overijssel-en-flevoland-voor-eur3208-252034",
-          "publishedOn": "2022-10-12T18:23:30.000Z",
-          "wordCount": 1351,
-          "title": "Onbeperkt dal reizen met de bus in Gelderland, Overijssel en Flevoland* voor €32,08 per maand",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/prime-campina-langlekker-halfvolle-melk-12-x-1-l-252032",
-          "author": null,
-          "description": "€10 - Amazon.nl\nOmgerekend €0,83 per pak. \nAlbert Heijn nu €1,49 per pak of €1,40 als je ze per 4 koopt.\nPrima deal als je zoals ik een kindje hebt die net over is naar melk ipv flesvoeding :-)",
-          "link": "https://nl.pepper.com/aanbiedingen/prime-campina-langlekker-halfvolle-melk-12-x-1-l-252032",
-          "publishedOn": "2022-10-12T17:55:58.000Z",
-          "wordCount": 1254,
-          "title": "[Prime] Campina Langlekker Halfvolle Melk 12 x 1 L",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/kortingscode/15-korting-op-bijna-alles-bij-besteding-van-eur-20-252030",
-          "author": null,
-          "description": "HEMA\nDe HEMA heeft alweer een leuke kortingsactie! Vanaf de 13e krijg je met de kortingscode 15% korting op bijna alles. Als het goed is zal deze actie zowel online als in de winkel gelden.\nDe precieze voorwaarden zijn nog niet gepubliceerd, evenals de barcode voor gebruik in de winkel, maar deze zullen niet (erg) afwijken van die van de vorige keer bij Koningsdag:\n\nDe korting is geldig voor betaalde aankopen met een minimale besteding van €20,- geplaatst van woensdag 27 april t/m zondag 1 mei\nMet deze actie ontvang je 15% korting op een groot deel van het HEMA assortiment\nOm de korting te verzilveren op hema.nl vul je in het besteloverzicht bij het veld de kortingscode in. Vervolgens druk je op toevoegen, de korting wordt daarna automatisch verrekend.\nUitgesloten van deze actie zijn: reeds afgeprijsde artikelen, boeken en media, huiswijn, bakkerij-assortiment, cadeaukaarten, fotoartikelen en fotoservice, gebak, HEMA-tickets, Instax®, smart-verlichting, raambekleding op maat, telecomproducten, verzekeringen en zelfzorgmedicatie.\nDe actie is niet geldig in combinatie met andere acties, vouchers of kortingscodes.\nDe aanbiedingen zijn niet te combineren met elkaar of met andere lopende acties.\nDe korting is niet inwisselbaar voor contant geld.\nBij retourneren van (één van) de goederen zal de waarde van de goederen minus de gegeven korting worden uitbetaald.\n\nHieronder nog overige gegevens over de HEMA met dank aan @Bargainian  :D \nBetaalmogelijkheden\n\nPayPal (retourkosten vergoeding eindigt 27/11!)\nCredit card\niDEAL\nHEMA-cadeaukaart\nBetalen bij ophalen in de winkel\n\nVerzending & retourneren\n\nAfhalen in een HEMA-winkel naar keuze is gratis bij besteding vanaf €10. Onder de €10 betaal je €2,50 toeslag.\nGratis verzending boven de €25 (daaronder €3,95)\nGratis retourneren binnen 30 dagen\nGratis online bestelling die thuisbezorgd is retourneren via UPS",
-          "link": "https://nl.pepper.com/kortingscode/15-korting-op-bijna-alles-bij-besteding-van-eur-20-252030",
-          "publishedOn": "2022-10-12T17:48:25.000Z",
-          "wordCount": 1530,
-          "title": "15% korting op bijna alles bij besteding van € 20",
           "imageUrl": null
         }
       ]
