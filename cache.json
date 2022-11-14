@@ -12,6 +12,86 @@
       "siteUrl": "https://tweakers.net/",
       "articles": [
         {
+          "id": "https://tweakers.net/downloads/62432",
+          "author": "Bart van Klaveren",
+          "description": "Moritz Bunkus heeft versie 72 van MKVToolNix uitgebracht. Met dit opensourceprogramma kunnen matroska-bestanden bekeken, bewerkt en worden geconverteerd. Zo kunnen geluidssporen en ondertiteling worden toegevoegd, verwijderd of juist als standaard worden ingesteld. MKVToolNix is een verzameling afzonderlijke commandline-tools, maar er wordt ook een grafische gebruikersinterface meegeleverd. Downloads zijn beschikbaar voor Windows, macOS en diverse Linux-distributies. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New features and enhancements",
+          "link": "https://tweakers.net/downloads/62432/mkvtoolnix-7200.html",
+          "publishedOn": "2022-11-13T17:28:34.000Z",
+          "wordCount": 2476,
+          "title": "MKVToolnix 72.0.0",
+          "imageUrl": "https://tweakers.net/i/9BGnSWTKcoSeWhPNI1gN8Hn4aSs=/134x134/filters:strip_exif()/i/2004684608.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/downloads/62430",
+          "author": "Bart van Klaveren",
+          "description": "Er is met versienummer 7.21 een nieuwe ontwikkelbuild van Wine verschenen. Wine is een opensource-implementatie van de Windows-api en maakt het mogelijk om DOS- en Windows-programma's op Linux, FreeBSD, Solaris en macOS te draaien. Een grote groep ontwikkelaars draagt bij aan Wine en er is voor gekozen om elke twee weken een nieuwe zogeheten ontwikkelversie uit te brengen in plaats van te wachten tot er een aantal nieuwe functies klaar is. Een paar keer per jaar verschijnt er een stabiele uitgave. De database met applicaties die onder Wine werken, al dan niet met behulp van kleine aanpassingen, bevat op het moment van schrijven 28.707 titels wat er 14 meer zijn dan verleden week. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: What's new in this release:",
+          "link": "https://tweakers.net/downloads/62430/wine-721.html",
+          "publishedOn": "2022-11-13T16:36:26.000Z",
+          "wordCount": 2134,
+          "title": "Wine 7.21",
+          "imageUrl": "https://tweakers.net/i/2SvNABgHh8YrI8K0KpH8K0HU5Yo=/134x134/filters:strip_exif()/i/2004681612.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/downloads/62428",
+          "author": "Bart van Klaveren",
+          "description": "Mpv is een opensource en cross-platform mediaspeler, voor Windows, Linux, Mac en Android, die ontstaan is als een fork van mplayer2 en MPlayer. Het is klein, snel en heeft een minimalistische gebruikersinterface. Door gebruik te maken van scripts is het mogelijk meer functionaliteit toe te voegen. Versie 0.35.0 is uitgebracht en de changelog voor die uitgave ziet er als volgt uit:",
+          "link": "https://tweakers.net/downloads/62428/mpv-0350.html",
+          "publishedOn": "2022-11-13T16:26:20.000Z",
+          "wordCount": null,
+          "title": "mpv 0.35.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/203368",
+          "author": "Daan van Monsjou",
+          "description": "De specificaties van twee onuitgebrachte Raptor Lake-H-laptopprocessors zijn verschenen op Geekbench. De Core i5- en i7-processors beschikken respectievelijk over 16 en 20 threads, net als hun voorgangers uit de Alder Lake-serie. De cpu's worden dit jaar nog verwacht.",
+          "link": "https://tweakers.net/nieuws/203368/specificaties-onaangekondigde-intel-core-i5-13500h-en-core-i7-13700h-verschijnen.html",
+          "publishedOn": "2022-11-13T11:37:00.000Z",
+          "wordCount": null,
+          "title": "Specificaties onaangekondigde Intel Core i5-13500H en Core i7-13700H verschijnen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/203360",
+          "author": "Tijs Hofmans",
+          "description": "PUBG-ontwikkelaar Krafton koopt Zweedse gamestudio The Ascent, de ontwikkelaar achter actie-rpg The Ascent. De studio werkt ondertussen een firstpersonshooter in een open gamewereld. Het is niet bekend welk bedrag met de overname gemoeid is.",
+          "link": "https://tweakers.net/nieuws/203360/pubg-ontwikkelaar-neemt-studio-achter-the-ascent-over.html",
+          "publishedOn": "2022-11-13T10:49:00.000Z",
+          "wordCount": 2434,
+          "title": "PUBG-ontwikkelaar neemt studio achter The Ascent over",
+          "imageUrl": "https://tweakers.net/i/ZKU-vYwV6EfgIu2T34yL7dZBzC8=/134x134/filters:strip_icc():strip_exif()/i/2004719298.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/203364",
+          "author": "Daan van Monsjou",
+          "description": "Er is zeker een miljard dollar aan geld van klanten verdwenen bij cryptovalutabeurs FTX na verdachte transacties. Dat melden anonieme bronnen aan persbureau Reuters. Het bedrijf vroeg afgelopen vrijdag faillissementsbescherming aan.",
+          "link": "https://tweakers.net/nieuws/203364/reuters-zeker-1-miljard-dollar-van-klanten-verdwenen-bij-cryptovalutabeurs-ftx.html",
+          "publishedOn": "2022-11-13T09:48:00.000Z",
+          "wordCount": 14595,
+          "title": "Reuters: zeker 1 miljard dollar van klanten verdwenen bij cryptovalutabeurs FTX",
+          "imageUrl": "https://tweakers.net/i/vZAEinKmOxvFba70_rYx5ngOmnc=/134x134/filters:strip_icc():strip_exif()/i/2005016912.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/203366",
+          "author": "Tijs Hofmans",
+          "description": "Meta gaat stoppen met een aantal hardwareproducten en -divisies. De virtualrealityheadsets blijven bestaan, maar het bedrijf stopt onder andere met de ontwikkeling van de slimme Portal-hub en zijn project rondom smartwatches.",
+          "link": "https://tweakers.net/nieuws/203366/meta-stopt-met-ontwikkeling-van-portal-display-en-smartwatches.html",
+          "publishedOn": "2022-11-13T09:18:10.000Z",
+          "wordCount": 5968,
+          "title": "Meta stopt met ontwikkeling van Portal-display en smartwatches",
+          "imageUrl": "https://tweakers.net/i/_WGrcX4fpOJX5Qe8rWEms1T0ebg=/134x134/filters:strip_icc():strip_exif()/i/2005176276.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/geek/203132",
+          "author": "Hayte Hugo",
+          "description": "Op Tweakers verschijnen dagelijks tientallen nieuwsberichten, maar bij het schrijven weten we zelden hoe het afloopt met de producten, technieken en ontwikkelingen die we bespreken. In deze rubriek lezen we oude berichten terug en kijken we hoe het verderging.",
+          "link": "https://tweakers.net/geek/203132/terug-in-de-tijd-14-het-begin-van-xbox-live-google-android-en-nl-alert.html",
+          "publishedOn": "2022-11-13T05:00:00.000Z",
+          "wordCount": null,
+          "title": "[Plus] Terug in de tijd #14 - Het begin van Xbox Live, Google Android en NL-Alert",
+          "imageUrl": null
+        },
+        {
           "id": "https://tweakers.net/downloads/62424",
           "author": "Bart van Klaveren",
           "description": "In juli 2017 is versie 1.7.13 van Media Player Classic - Home Cinema uitgekomen en gaven de ontwikkelaars aan dat zij verder geen nieuwe versies meer uit zouden brengen. De broncode is echter open source en een ontwikkelaar die onder de naam clsid bij de website Doom9 bekendstaat en zelf lange tijd bij mpc-hc betrokken was, brengt nu af en toe nieuwe 'onofficiële' versies uit. Deze bevatten voornamelijk kleine verbeteringen en ook worden altijd de laatste versies van de LAV Filters en MediaInfo meegeleverd. De changelog voor versie 1.9.24 is hieronder te vinden.",
@@ -6590,216 +6670,6 @@
           "wordCount": 2163,
           "title": "7+ Taskbar Tweaker 5.14.0",
           "imageUrl": "https://tweakers.net/i/bbtHaCyiuasgJHlpsb2kjnAd-6Q=/134x134/filters:strip_exif()/i/2004681614.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202326",
-          "author": "Jay Stout",
-          "description": "De Europese privacytoezichthouder EDPS pleit voor een Europees verbod op AI-systemen die sociale scores van individuen kunnen maken en mensen kan indelen op basis van biometrische data. De EDPS wil ook maatregelen die burgers moet beschermen tegen zulken use cases.",
-          "link": "https://tweakers.net/nieuws/202326/europese-privacytoezichthouder-wil-verbod-op-ai-die-sociale-scores-kan-maken.html",
-          "publishedOn": "2022-10-15T11:43:10.000Z",
-          "wordCount": 11730,
-          "title": "Europese privacytoezichthouder wil verbod op AI die sociale scores kan maken",
-          "imageUrl": "https://tweakers.net/i/X4fQcOX7bP29UW_5_jPq8Smw7f0=/134x134/filters:strip_exif()/i/2004779058.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202324",
-          "author": "Jay Stout",
-          "description": "Framework is begonnen met het aanbieden van refurbished modellen van de Framework Laptop DIY Edition en expansiekaarten. Het programma loopt momenteel in de Verenigde Staten en Canada, maar zal later ook uitbreiden naar andere landen.",
-          "link": "https://tweakers.net/nieuws/202324/framework-komt-met-refurbished-programma-voor-laptops-en-expansiekaarten.html",
-          "publishedOn": "2022-10-15T10:19:40.000Z",
-          "wordCount": 5247,
-          "title": "Framework komt met Refurbished-programma voor laptops en expansiekaarten",
-          "imageUrl": "https://tweakers.net/i/OVBUTZxc-lrV1thAxfvKLKIYb_A=/134x134/filters:strip_icc():strip_exif()/i/2004696878.jpeg?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202322",
-          "author": "Jay Stout",
-          "description": "Ongeveer 43 procent van de Nederlanders zou positief staan tegenover het digitaal delen van persoonsgegevens. Leeftijd, het gebrek aan vertrouwen in digitaal delen en privacybewustzijn bepalen het meest in welke mate men bereid is om data digitaal te delen.",
-          "link": "https://tweakers.net/nieuws/202322/43-procent-nederlanders-staat-positief-tegenover-digitaal-delen-persoonsgegevens.html",
-          "publishedOn": "2022-10-15T09:12:04.000Z",
-          "wordCount": 10368,
-          "title": "43 procent Nederlanders staat positief tegenover digitaal delen persoonsgegevens",
-          "imageUrl": "https://tweakers.net/i/2abEXSVfX1GqhD-356ifrER9BBc=/134x134/filters:strip_exif()/i/2004907232.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/downloads/62062",
-          "author": "Bart van Klaveren",
-          "description": "Versie 3.12 van Tixati is uitgekomen, als opvolger van versie 2.89. Tixati is een uitgebreide en efficiënte bittorrentclient voor Windows en Linux met ondersteuning voor dht, magnet-links en rss-feeds. Het programma geeft uitgebreide informatie over alle aspecten van de download en het in- en uitgaande netwerkverkeer. Downloads zijn beschikbaar voor Windows en Linux en het programma toont geen advertenties. De release notes voor deze uitgave zien er als volgt uit: Changes in Tixati version 3.12:",
-          "link": "https://tweakers.net/downloads/62062/tixati-312.html",
-          "publishedOn": "2022-10-15T08:02:12.000Z",
-          "wordCount": 2527,
-          "title": "Tixati 3.12",
-          "imageUrl": "https://tweakers.net/i/fRwJEAwnU2KnxNlfGwYdsa4UIqs=/134x134/filters:strip_icc():strip_exif()/i/2004743140.jpeg?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202320",
-          "author": "Jay Stout",
-          "description": "Een Reddit-gebruiker zegt een enquête te hebben gekregen van Spotify waarin het bedrijf gepeild zou hebben naar de plannen van de gebruiker om terug te keren naar de streamingdienst. In die enquête zou Spotify ook melding hebben gemaakt van een HiFi-abonnement.",
-          "link": "https://tweakers.net/nieuws/202320/reddit-gebruiker-krijgt-spotify-hifi-abonnement-te-zien-in-enquete-muziekdienst.html",
-          "publishedOn": "2022-10-15T07:38:58.000Z",
-          "wordCount": 7849,
-          "title": "Reddit-gebruiker krijgt Spotify-HiFi-abonnement te zien in enquête muziekdienst",
-          "imageUrl": "https://tweakers.net/i/w2JpMvVH2azNWjsbkUFrAbra2QI=/134x134/filters:strip_exif()/i/2004642236.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/downloads/62060",
-          "author": "Bart van Klaveren",
-          "description": "Na ruim twee jaar stilte is er kort geleden een nieuwe versie van Transmission verschenen, een bèta release. Deze torrentclient gebruikt weinig resources, is platformonafhankelijk en opensource, en heeft een eenvoudige en overzichtelijke interface. Het programma is ontwikkeld voor gebruik op macOS, maar op de downloadpagina zijn ook versies voor Windows, Linux, FreeBSD en enkele nas-systemen te vinden. In versie 4.0.0 is het programma herschreven in C++, waardoor het beter presteert en minder resources gebruikt. De uitgebreide changelog is hier te vinden, dit zijn de belangrijkste verbeteringen: Transmission 4.0.0-beta.1 Pre-release",
-          "link": "https://tweakers.net/downloads/62060/transmission-400-beta-1.html",
-          "publishedOn": "2022-10-15T06:32:42.000Z",
-          "wordCount": 2505,
-          "title": "Transmission 4.0.0 bèta 1",
-          "imageUrl": "https://tweakers.net/i/Ngn5OwyQKE_-BqWiRpsdPT25WhI=/134x134/filters:strip_exif()/i/2005410006.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/downloads/62056",
-          "author": "Bart van Klaveren",
-          "description": "Het pakket OPNsense is een firewall met uitgebreide mogelijkheden. Het is gebaseerd op het besturingssysteem FreeBSD en is oorspronkelijk een fork van m0n0wall en pfSense. Het pakket kan volledig via een webinterface worden ingesteld en heeft onder andere ondersteuning voor 2fa, openvpn, ipsec, carp en captive portal. Daarnaast kan het packetfiltering toepassen en beschikt het over een traffic shaper. De ontwikkelaars hebben OPNsense 22.7.6 uitgebracht en deze versie gaat vergezeld met de volgende aantekeningen: OPNsense 22.7.6 released",
-          "link": "https://tweakers.net/downloads/62056/opnsense-2276.html",
-          "publishedOn": "2022-10-15T05:59:01.000Z",
-          "wordCount": 2263,
-          "title": "OPNsense 22.7.6",
-          "imageUrl": "https://tweakers.net/i/gGgQbGnXQRzxW7zHm4vXY9DIFvs=/134x134/filters:strip_exif()/i/2004653170.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/downloads/62058",
-          "author": "Bart van Klaveren",
-          "description": "Versie 10.52 van Total Commander is in ontwikkeling en hiervan is nu de tweede release candidate verschenen. Dit programma kan als vervanging voor Windows Verkenner worden gebruikt. Doordat het beeld in tweeën is gesplitst, is het eenvoudig om bestanden te kopiëren, maar het programma kan veel meer. Zo zijn er diverse manieren om bestanden aan te passen, zijn een ingebouwde ftp-client en een multirename-tool aanwezig, en is er ondersteuning voor een groot aantal compressieformaten. Verder kan de functionaliteit met plug-ins worden uitgebreid. Versie 10.52 is een zogenaamde bugfix-release die voornamelijk kleine problemen verhelpt, maar ook enkele nieuwe mogelijkheden toevoegt. New functions in Total Commander 10.52",
-          "link": "https://tweakers.net/downloads/62058/total-commander-1052-rc3.html",
-          "publishedOn": "2022-10-15T05:52:40.000Z",
-          "wordCount": 2739,
-          "title": "Total Commander 10.52 RC3",
-          "imageUrl": "https://tweakers.net/i/M8-TTP8D9MFh1fnr8Yz6UhA5J-c=/134x134/filters:strip_exif()/i/2005046262.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/reviews/10562",
-          "author": "Tomas Hochstenbach",
-          "description": "In deze review van de AMD Ryzen 9 7900X en Ryzen 5 7600X kijken we naar de laatste twee nieuwe Ryzen 7000-processors, inclusief de resultaten van extra tests in de Eco-Mode.",
-          "link": "https://tweakers.net/reviews/10562/amd-ryzen-5-7600x-en-ryzen-9-7900x-met-eco-mode-en-koelertests.html",
-          "publishedOn": "2022-10-15T04:01:00.000Z",
-          "wordCount": 2592,
-          "title": "AMD Ryzen 5 7600X en Ryzen 9 7900X - Mét Eco-Mode en koelertests",
-          "imageUrl": "https://tweakers.net/ext/i/2005408332.jpeg"
-        },
-        {
-          "id": "https://tweakers.net/reviews/10568",
-          "author": "Tijs Hofmans",
-          "description": "Privacy Guides is een toonaangevende website waar gebruikers terechtkunnen voor advies over privacyvriendelijke tools. Tweakers sprak met een Nederlandse deelnemer.",
-          "link": "https://tweakers.net/reviews/10568/op-zoek-naar-privacyvriendelijke-tools-niek-de-wilde-van-privacy-guides.html",
-          "publishedOn": "2022-10-15T04:00:00.000Z",
-          "wordCount": 1881,
-          "title": "[Plus] Op zoek naar privacyvriendelijke tools - Niek de Wilde van Privacy Guides",
-          "imageUrl": "https://tweakers.net/ext/i/2005409400.jpeg"
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202316",
-          "author": "Yannick Spinner",
-          "description": "Activision Blizzard gaat vanaf het tweede seizoen van Overwatch 2 de eerste balansupdates voor de personages, bekend als heroes, uitbrengen. Tot en met 6 december is de ontwikkelaar niet van plan om te tweaken aan de kracht en uitwerking van de vaardigheden van de heroes.",
-          "link": "https://tweakers.net/nieuws/202316/blizzard-start-in-tweede-seizoen-overwatch-2-met-balansupdates-heroes.html",
-          "publishedOn": "2022-10-14T19:23:20.000Z",
-          "wordCount": null,
-          "title": "Blizzard start in tweede seizoen Overwatch 2 met balansupdates heroes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202318",
-          "author": "Yannick Spinner",
-          "description": "Nvidia annuleert de release van de aankomende GeForce RTX 4080 met 12GB ram, nog voordat de videokaart in de schappen ligt. Er komt alleen een variant met 16GB GDDR6X-geheugen op de markt. De GeForce RTX 4080 16GB komt op 16 november uit voor een adviesprijs van 1469 euro.",
-          "link": "https://tweakers.net/nieuws/202318/nvidia-annuleert-rtx-4080-met-12gb-ram-16gb-variant-komt-op-16-november-uit.html",
-          "publishedOn": "2022-10-14T18:38:51.000Z",
-          "wordCount": 8678,
-          "title": "Nvidia annuleert RTX 4080 met 12GB ram, 16GB-variant komt op 16 november uit",
-          "imageUrl": "https://tweakers.net/i/E_xzmlae00S26oSfgP_-51K1ER0=/134x134/filters:strip_exif()/i/2004695548.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202314",
-          "author": "Yannick Spinner",
-          "description": "De Nederlandse politie heeft meer dan 150 decryptiesleutels voor ransomware Deadbolt verkregen door met bitcoin te betalen en de betaling vervolgens weer in te trekken. In totaal zouden hierdoor 20 slachtoffers weer bij hun bestanden kunnen.",
-          "link": "https://tweakers.net/nieuws/202314/nederlandse-politie-bemachtigt-decryptiesleutels-dankzij-truc-met-bitcoin.html",
-          "publishedOn": "2022-10-14T17:31:26.000Z",
-          "wordCount": null,
-          "title": "Nederlandse politie bemachtigt decryptiesleutels dankzij truc met bitcoin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/downloads/62044",
-          "author": "Bart van Klaveren",
-          "description": "Node.js is open source en platformonafhankelijk, en is gericht op het ontwikkelen van server-sidewebapplicaties. Die applicaties worden geschreven in JavaScript en uitgevoerd binnen de Node.js-runtime op de server. Het biedt een event-gedreven omgeving aan waarbij non-blocking i/o een belangrijk uitgangspunt is geweest. Voor meer informatie over Node.js verwijzen we naar deze pagina. Het ontwikkelteam heeft versies 16.18.0, een versie met extra lange ondersteuning, en 18.11.0 vrijgegeven. De belangrijkste veranderingen die in beide versies zijn aangebracht zijn hieronder voor je samengevat. Node v18.11.0 (Current) Notable changes",
-          "link": "https://tweakers.net/downloads/62044/node-punt-js-16180-lts-18110.html",
-          "publishedOn": "2022-10-14T16:18:13.000Z",
-          "wordCount": 2150,
-          "title": "Node.js 16.18.0 (LTS) / 18.11.0",
-          "imageUrl": "https://tweakers.net/i/YPeFRwk1YTRNMrxndotZtCnpgMc=/134x134/filters:strip_exif()/i/2005057066.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/downloads/62054",
-          "author": "Bart van Klaveren",
-          "description": "Poikosoft heeft versie 10.2.1 van EZ CD Audio Converter uitgebracht. EZ CD Audio Converter is een alles-in-een-programma voor het rippen, bewerken en converteren van audiobestanden en kan daarnaast ook worden gebruikt om cd's en dvd's te branden. Ondersteuning is aanwezig voor alle bekende audioformaten, waaronder mp3, aac, he aac, Dolby Pulse, Apple Lossless, flac, Vorbis, Opus en Windows Media Audio. Een licentie kost vier tientjes en het programma kan drie weken worden geprobeerd. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 10.2.1:",
-          "link": "https://tweakers.net/downloads/62054/ez-cd-audio-converter-10211.html",
-          "publishedOn": "2022-10-14T16:04:04.000Z",
-          "wordCount": null,
-          "title": "EZ CD Audio Converter 10.2.1.1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202312",
-          "author": "Yannick Spinner",
-          "description": "Microsoft introduceert een optie om met inlogpogingbeperkingen administratoraccounts te beschermen tegen brute-forceaanvallen. De nieuwe optie is onderdeel van de Oktober-update voor Windows 11.",
-          "link": "https://tweakers.net/nieuws/202312/microsoft-brengt-bescherming-tegen-brute-forceaanvallen-op-adminaccounts-uit.html",
-          "publishedOn": "2022-10-14T15:40:29.000Z",
-          "wordCount": null,
-          "title": "Microsoft brengt bescherming tegen brute-forceaanvallen op adminaccounts uit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202310",
-          "author": "Hayte Hugo",
-          "description": "De Omgevingswet is opnieuw uitgesteld; deze keer moet de wet op 1 juli 2023 ingaan. Minister De Jonge zegt dat er meer tijd nodig is om 'verder te testen en te oefenen'. Onlangs waarschuwde het Adviescollege ICT-toetsing voor 'grote problemen' als de wet op 1 januari in zou gaan.",
-          "link": "https://tweakers.net/nieuws/202310/minister-de-jonge-stelt-omgevingswet-nogmaals-uit-vanwege-ict-problemen.html",
-          "publishedOn": "2022-10-14T15:19:40.000Z",
-          "wordCount": null,
-          "title": "Minister De Jonge stelt Omgevingswet nogmaals uit vanwege ict-problemen",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202308",
-          "author": "Hayte Hugo",
-          "description": "De Belgische provider Telenet stopt over 'enkele maanden' met de Yelo-app. Met deze app kunnen klanten met hun smartphone tv-kijken. Klanten met een Digibox of Digicorder worden overgeschakeld naar de Telenet TV-app, die wat beperkingen heeft ten opzichte van de Yelo-app.",
-          "link": "https://tweakers.net/nieuws/202308/telenet-stopt-met-yelo-tv-app-en-schakelt-gebruikers-over-naar-telenet-tv-app.html",
-          "publishedOn": "2022-10-14T14:53:11.000Z",
-          "wordCount": 3316,
-          "title": "Telenet stopt met Yelo-tv-app en schakelt gebruikers over naar Telenet TV-app",
-          "imageUrl": "https://tweakers.net/i/ThEHjHqNc2Hk5iYiR81o3XJeEdA=/134x134/filters:strip_icc():strip_exif()/i/2004696834.jpeg?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202306",
-          "author": "Daan van Monsjou",
-          "description": "Proton voegt de optie toe om in te loggen met fysieke U2F- en FIDO2-beveiligingssleutels in diensten als Proton Mail, Proton Drive en Proton Calendar. De functie werkt vooralsnog alleen als extra inlogmethode en kan alleen worden ingeschakeld als ook totp-authenticatie wordt gebruikt.",
-          "link": "https://tweakers.net/nieuws/202306/proton-voegt-ondersteuning-voor-beveiligingssleutels-toe-als-extra-2fa-optie.html",
-          "publishedOn": "2022-10-14T14:47:55.000Z",
-          "wordCount": null,
-          "title": "Proton voegt ondersteuning voor beveiligingssleutels toe als extra 2fa-optie",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202304",
-          "author": "Hayte Hugo",
-          "description": "Russische inlichtingenofficieren die in maart Nederland zijn uitgezet, verzamelden informatie over chips voor het Russische leger. Nederland en België hebben daarnaast Russische officieren uitgezet die zich bezighielden met de Russische encryptiedienst op ambassades.",
-          "link": "https://tweakers.net/nieuws/202304/nos-uitgezette-russische-spionnen-verzamelden-informatie-over-chips-in-nl.html",
-          "publishedOn": "2022-10-14T14:17:15.000Z",
-          "wordCount": null,
-          "title": "NOS: uitgezette Russische spionnen verzamelden informatie over chips in NL",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/nieuws/202302",
-          "author": "Daan van Monsjou",
-          "description": "Elden Ring-update 1.07 bevat onder meer verborgen opties voor raytracing. Dat ontdekte een dataminer, die zijn bevindingen op Twitter deelt. De update lijkt ook verwijzingen naar nieuwe gebieden te bevatten, mogelijk voor toekomstige dlc.",
-          "link": "https://tweakers.net/nieuws/202302/elden-ring-patch-hint-op-komst-raytracing-en-bevat-verwijzingen-naar-nieuwe-maps.html",
-          "publishedOn": "2022-10-14T13:58:02.000Z",
-          "wordCount": 2924,
-          "title": "Elden Ring-patch hint op komst raytracing en bevat verwijzingen naar nieuwe maps",
-          "imageUrl": "https://tweakers.net/i/awSqS9A1pwX5DRyPq5TrSdTmens=/134x134/filters:strip_icc():strip_exif()/i/2004708336.jpeg?f=meta"
         }
       ]
     },
@@ -6808,6 +6678,206 @@
       "feedUrl": "https://nl.pepper.com/rss/overzicht%20van%20de%20populairste%20groepen",
       "siteUrl": "https://nl.pepper.com",
       "articles": [
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/sony-linkbuds-s-at-mediamarkt-255337",
+          "author": null,
+          "description": "€119 - MediaMarkt\nPrijsvergelijking \nOok verkrijgbaar in het wit en taupe\nMaak kennis met ’s werelds kleinste en lichtste draadloze oordopjes met Noise Cancelling en hi-res audio ondersteuning: de Sony LinkBuds S. Deze ultra compacte oordopjes draag je dankzij het lichte ontwerp en perfecte pasvorm zorgeloos de hele dag door. Met maar liefst 20 verschillende ruisonderdrukkingsinstellingen geniet je in iedere situatie in alle stilte van jouw muziek en met Adaptive Sound Control worden deze instellingen zelfs automatisch voor je aangepast. Voor optimale Noise Cancelling en extra comfort detecteert de fitting guidance-functie in combinatie met de app automatisch de juiste maat van de oordopjes voor jouw oren. Bovendien blijf je dankzij Precise Voice Pickup- technologie en een speciaal ontwikkeld ruisonderdrukkingsalgoritme helder verstaanbaar tijdens je telefoongesprekken. Daaraast ondersteunen de LinkBuds S hi-res audio content en schalen ze door middel van DSEE Extreme het geluid op, waardoor het weer bijna net zo klinkt als het originele audiobestand. Met behulp van slimme functies als Fast Pair kun je de oordopjes eenvoudig verbinden met jouw apparaat en hoef je door de Speak-to-Chat feature de oordopjes niet eens meer uit te doen om een gesprek te kunnen voeren. Met de oplaadcase kunnen de LinkBuds S tot wel 30 uur muziek afspelen en dankzij de snellaadfunctie kun je al met 5 minuten laden 60 minuten vooruit.",
+          "link": "https://nl.pepper.com/aanbiedingen/sony-linkbuds-s-at-mediamarkt-255337",
+          "publishedOn": "2022-11-14T00:39:32.000Z",
+          "wordCount": 1325,
+          "title": "SONY LinkBuds S",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/samsung-qe55s95b-255336",
+          "author": null,
+          "description": "€1.145 - Hofma\n\nPrijs is na cashback \nLaagste prijs elders €1499\n\n\nDe Samsung QE55S95B beschikt over de nieuwste QD-OLED technologie. Met behulp van Quantum Dot en OLED technologie biedt de tv indrukwekkende kleuren en een hogere helderheid vergeleken met normale OLED tv's. De Samsung QE55S95B heeft een 55 inch scherm met een diameter van 140cm.\nDiep zwart en heldere kleuren met QD-OLED\nDankzij technologisch leiderschap en sterke know-how slaagt Samsung er in om Quantum Dot en OLED te combineren. De synergie tussen deze twee technologieën zorgt voor een hoogstaand resultaat. Samsung OLED S95B series biedt indrukwekkende contrasten, meer kleur, hoge helderheid, een ruime kijkhoek en dat allemaal in een ultradun design.\nZeer krachtig en een dieper contrast\nGeniet van een helderheid tot 1.500…",
+          "link": "https://nl.pepper.com/aanbiedingen/samsung-qe55s95b-255336",
+          "publishedOn": "2022-11-14T00:38:19.000Z",
+          "wordCount": 1497,
+          "title": "Samsung QE55S95B (55\" QD OLED, HDR10+, 1500 Nits, HDMI 2.1)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/laptop-acer-nitro-5-an515-58-56bl-156-inch-intel-core-i5-16-gb-512-gb-rtx-3060-255335",
+          "author": null,
+          "description": "€888 - MediaMarkt\nAlleen te koop bij mediamarkt en tweakers Pricewatch zegt dat die voor vandaag 1429 koste.\nHier wat meer info over de laptop:\nProcessor: Intel Core i5-12500H\nWerkgeheugen: 16 GB\nOpslag: 512 GB\nGrafische kaart: NVIDIA GeForce RTX 3060\nSpeel op het hoogste niveau met de 15 inch Acer Nitro 5 AN515-58-56BL gaming-laptop. Met de krachtige processor en graphics heb je alles wat je nodig hebt om je game-ervaring episch te maken. Dit apparaat heeft een stevige behuizing en is gebouwd met het nieuwste Microsoft Windows 11 Home besturingssysteem, waarmee jij jouw applicaties altijd op de nieuwste software draait. Ook heeft de laptop een stevige behuizing en is hij speciaal gemaakt om te gamen. Met dit systeem op je bureau geniet je niet alleen van kracht, maar ook van stijl een sfeer. De Intel Core i5-12500H-processor biedt een grote innovatie op het gebied van prestaties en responscapaciteit. Zo verwerkt deze processor data met een snelheid van wel 2.5 GHz, en tot wel 4.5 GHz met turbotechnologie. Met deze processor multitask je probleemloos tussen al jouw tabs, games en applicaties. En dankzij maar liefst 512 GB SSD aan opslagruimte en 16 GB aan werkgeheugen verwerkt de Acer Nitro data met een zeer hoge snelheid, en heb jij plaats voor al jouw favoriete applicaties en games. Daarnaast zorgt de NVIDIA GeForce RTX 3060 grafische kaart en de Full HD resolutie ervoor dat jij altijd in vloeiende graphics speelt. Tot slot is de laptop voorzien van de nieuwste Wi-Fi 6 technologie, waarmee jouw netwerk gestabiliseerd wordt en sneller draait dan ooit tevoren. Op deze krachtige gaming-laptop krijg je 2 jaar fabrieksgarantie. \nDit krijg je erbij:\n1x laptop, 1x AC-adapter (230 W), 1x handleiding",
+          "link": "https://nl.pepper.com/aanbiedingen/laptop-acer-nitro-5-an515-58-56bl-156-inch-intel-core-i5-16-gb-512-gb-rtx-3060-255335",
+          "publishedOn": "2022-11-14T00:32:14.000Z",
+          "wordCount": 1446,
+          "title": "Laptop ACER NITRO 5 AN515-58-56BL (15.6 inch - Intel Core i5 - 16 GB - 512 GB - RTX 3060)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/lenovo-tab-p12-pro-126-tablet-2k-amoled-120hz-snapdragon-870-256gb-ufs-31-8gb-lpddr5-android-12l-255334",
+          "author": null,
+          "description": "€569 - MediaMarkt\nLaagste prijs elders: €805\nSpecificaties:\n\nProcessor: Qualcomm® Snapdragon™ 870-processor (8 cores, 8x Kryo 585 @3,20 GHz)\nBesturingssysteem: Android 11 (update naar Android 12L is beschikbaar)\nBeeldscherm: 12.6\" 2K (2560 x 1600), AMOLED, Touch, 400 Nits\nRefreshrate: 120Hz\nTotaal geheugen: 8 GB gesoldeerd LPDDR5\nVaste schijf: 256 GB (UFS 3.1)\nGarantie: 2 jaar depot met 1 jaar batterij\nAC Adapter: 30W\nGrafische kaart: Integrated Qualcomm® Adreno 650 GPU\nBatterij: Geïntegreerde 10000mAh / 10200mAh\nCamera: Front 8.0MP + ToF Sensor / Rear 13.0MP (Wide) + 5.0MP (Ultrawide)\nWLAN: 11 (2x2) & Bluetooth® 5.2\nInclusief Lenovo Precision Pen 3\n\nVideoreview:\n\t\t\t[shortcode id=\"1358415\"/]",
+          "link": "https://nl.pepper.com/aanbiedingen/lenovo-tab-p12-pro-126-tablet-2k-amoled-120hz-snapdragon-870-256gb-ufs-31-8gb-lpddr5-android-12l-255334",
+          "publishedOn": "2022-11-14T00:31:16.000Z",
+          "wordCount": 1270,
+          "title": "Lenovo Tab P12 Pro 12.6\" Tablet (2K, AMOLED, 120Hz, Snapdragon 870, 256GB UFS 3.1, 8GB LPDDR5, Precision Pen 3, Android 12L)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/sandisk-extreme-v2-2tb-externe-ssd-255333",
+          "author": null,
+          "description": "€169 - MediaMarkt\nLaagste prijs elders: €209\nDe SanDisk Extreme Portable V2 is een draagbare externe SSD van 2TB. De externe harde schijf kan hoge overdrachtssnelheden behalen en is een compact ontwerp op zakformaat. De leessnelheden zijn tot 1050 MB/s. Dit maakt hem ideaal voor het opslaan en bewerken van foto's en video's met hoge resolutie. Verder biedt de SSD schijf een veilige opslag, dankzij de IP55-rating. Dit betekent dat hij stof-, water- en schokbestendig is. Doordat de schijf ook nog eens zeer compact en licht is, neem je hem makkelijk overal mee naar toe.\nKenmerken:\nOpslagcapaciteit van 2TB\nLeessnelheid van 1050 MB/s\nSchrijfsnelheid van 1000 MB/s\nVoorzien van een sleutelring\nHeeft een IP55-rating (stof-, water- en schokbestendig)\nWachtwoordbeveiliging met 256-bits AES-hardwareversleuteling\nCompact en licht van gewicht\n5 jaar garantie\n\nVideoreview:\n[shortcode id=\"1358414\"/]",
+          "link": "https://nl.pepper.com/aanbiedingen/sandisk-extreme-v2-2tb-externe-ssd-255333",
+          "publishedOn": "2022-11-14T00:23:25.000Z",
+          "wordCount": 1262,
+          "title": "Sandisk Extreme V2 2TB Externe SSD",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/lenovo-smart-clock-essential-slimme-wekker-255332",
+          "author": null,
+          "description": "€19,99 - MediaMarkt\nLaagste prijs elders: €59\nVerzending is gratis als je Club lid bent, gratis aanmelden kan via deze link.\nDe Lenovo Smart Clock Essential is een slimme wekker, geschikt voor elke kamer. Vanuit elke kamer kun je duidelijk de tijd zien dankzij het grote display van de wekker. De Lenovo is bestuurbaar via Google Assistent om met je spraak te besturen. Zo vraag je de tijd en de weersvoorspellingen, maar zet je ook een timer tijdens het koken, voeg je producten toe aan je boodschappenlijstje of pleeg je een handsfree telefoontje. Met de slimme wekker is het ook mogelijk om muziek te luisteren met de interne speakers. Wanneer je de Lenovo als wekker gebruikt, schakel je eenvoudig de nachtstand in, zodat je ongestoord van je nachtrust geniet. De achterkant van de wekker beschikt over een subtiel nachtlampje voor als je in het donker toch je bed uit moet. De Lenovo Smart Clock is ook compatibel met jouw smart home apparatuur. Zo kun je deze verbinden met bijvoorbeeld je slimme verlichting om het licht te dimmen of met je thermostaat om de temperatuur aan te passen. Dankzij de USB-aansluiting is het mogelijk om je smartphone direct te verbinden met de wekker en deze zo op te laden.\nVideoreview:\n\t\t[shortcode id=\"1358413\"/]",
+          "link": "https://nl.pepper.com/aanbiedingen/lenovo-smart-clock-essential-slimme-wekker-255332",
+          "publishedOn": "2022-11-14T00:13:48.000Z",
+          "wordCount": 1333,
+          "title": "Lenovo Smart Clock Essential Slimme Wekker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/sony-inzone-h9-noise-cancelling-wireless-gaming-headset-eur50-playstation-tegoed-255331",
+          "author": null,
+          "description": "€229 - Amazon.nl\nLaagste prijs elders: €296\nVia Sony krijg je €50 PlayStation tegoed, aanmelden voor deze actie kan hier (let op! Aankoop datum tot en met 14 november 2022, indienen kan tot 31 december 2022).\nDe Sony INZONE H9 is een draadloze headset met Noice Cancelling, die perfect is om te gebruiken bij het gamen op jouw Playstation 5 of PC. De gaming headset zet 2-kanaals stereo geluid om in een 7.1- kanaals surround sound waardoor de game ervaring nog realistischer wordt en je de bewegingen van jouw tegenstander precies kunt horen. De diafragma met unieke vorm kan extreem hoge en lage frequenties reproduceren. Daarnaast is de headset draadloos en kan je de headset 32 uur gebruiken (zonder NC ingeschakeld) met maar één keer opladen. De oorkussens zijn van syntetisch leer gemaakt om de draagcomfort te verbeteren.\nVideoreview:\n\t\t\t\t\t[shortcode id=\"1358411\"/]",
+          "link": "https://nl.pepper.com/aanbiedingen/sony-inzone-h9-noise-cancelling-wireless-gaming-headset-eur50-playstation-tegoed-255331",
+          "publishedOn": "2022-11-13T23:37:22.000Z",
+          "wordCount": 1236,
+          "title": "Sony INZONE H9 Noise Cancelling Wireless Gaming Headset + €50 PlayStation Tegoed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/samsung-galaxy-watch-4-40mm-smartwatch-255330",
+          "author": null,
+          "description": "€119 - MediaMarkt\nLaagste prijs elders: €137,95\nVerkrijgbaar in de kleuren zwart, wit en roze.\nDe Samsung Galaxy Watch4 is een stijlvol vormgegeven smartwatch die volledig naar jouw eigen smaak aan te passen valt, van de wijzerplaat tot de horlogeband. De Watch4 biedt jouw alle voordelen van een smartwatch, van het bedienen van je muziekspeler, het beantwoorden van berichtjes en oproepen tot het navigeren van je route dankzij het ingebouwde kompas. Het nieuwe Wear OS van Samsung maakt het horloge erg gemakkelijk te bedienen, dit doe je door middel van de twee knoppen aan de zijkant, de digitale bezel of gewoon via het 1.2-inch-touchscreen. De Watch4 is op ieder situatie voorbereidt, hij is water- en stofdicht, gaat minstens 24 uur lang mee en is dankzij het Super AMOLED-display altijd goed af te lezen. De Galaxy Watch4 is niet alleen een slim horloge, het is ook een handig horloge. Zo brengt hij overzichtelijk jouw gezondheid in kaart. Dit kan hij door middel van verschillende sensoren, zoals een bloeddrukmeter, hartslagmeter, zuurstofmeter en hij kan zelfs jouw spiermassa, vetmassa en vochtgehalte meten met de Bioelectrical Empendance Analysis. Alle gegevens die jou Watch4 door de dag heen verzameld worden overzichtelijk weergegeven in de Samsung Health-app op jouw smartphone. Op basis van jouw resultaten zal de Watch jou voorzien van slimme plannen en routines om zo nog gezonder te leven. Ook beschikt de Watch4 over ECG-functies. Deze functies vereisen een Galaxy smartphone met Android 7.0 of hoger.\nSpecificaties:\n\n1,2 inch Super AMOLED (396 x 396 pixels)\nDual-core processor (1.18GHz)\nNFC, GPS, Bluetooth 5.0, WiFi 2.4 en 5 GHz\nWear OS met Samsung-skin\n1,5GB werkgeheugen\n16GB opslagruimte (waarvan 7,6GB beschikbaar)\n247 mAh accu\n\nVideoreviews: \n\t\t[shortcode id=\"1358409\"/]\n\t\t[shortcode id=\"1358410\"/]",
+          "link": "https://nl.pepper.com/aanbiedingen/samsung-galaxy-watch-4-40mm-smartwatch-255330",
+          "publishedOn": "2022-11-13T23:25:33.000Z",
+          "wordCount": 1386,
+          "title": "Samsung Galaxy Watch 4 (40mm) Smartwatch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/trekpleister-speelgoed-2e-halve-prijs-255329",
+          "author": null,
+          "description": "€8,98 - Trekpleister\ntrekpleister.nl/a/3498361/speelgoed-2e-halve-prijs\n\nBijvoorbeeld:\n999 games kaartspelen van €10,99 voor €5,99 \n2 stuks voor €8,98",
+          "link": "https://nl.pepper.com/aanbiedingen/trekpleister-speelgoed-2e-halve-prijs-255329",
+          "publishedOn": "2022-11-13T23:22:54.000Z",
+          "wordCount": 1115,
+          "title": "Trekpleister: Speelgoed 2e halve prijs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/acer-chromebook-315-156-fhd-ips-n4020-4gb-128gb-255328",
+          "author": null,
+          "description": "€177 - MediaMarkt\nLaagste prijs elders: €335\nDe Acer Chromebook 315 CB315-3H-C1FV is uitgerust met een Intel Celeron N4020 processor en draait op het Chrome OS besturingssysteem. Het FULL-HD IPS display heeft een beeldformaat van 15,6 inch. Daarnaast heeft de Acer laptop 4GB DDR4 aan RAM werkgeheugen en een totale opslagcapaciteit van 128GB eMMC.\nBij aankoop van dit product ontvang je nu tijdelijk 12 maanden Google One cadeau bij je Chromebook. Hiermee heb je genoeg ruimte voor al je bestanden met 100 GB cloudopslag die je kunt gebruiken voor Google Drive, Gmail en Google Foto's. Deze actie is geldig tot en met 31 december 2022. Klik hier voor meer informatie, de actievoorwaarden of om je aankoop te registreren.\nSpecificaties:\n\n15.6\" FHD IPS ComfyView™ \nIntel® Celeron® N4020\n4GB DDR4\n128GB eMMC\nIntel® UHD Graphics 600\n Intel® Wi-Fi 5 AC 9560 (2x2) + BT 5\n 48 Wh batterij\nHD Camera met Microfoon\nTPM H1\nUS Int. toetsenbord.\nAutomatische updates tot juni 2027\n\nMeer informatie zie website van Acer.\n\nVideoreview:\n\t[shortcode id=\"1358408\"/]",
+          "link": "https://nl.pepper.com/aanbiedingen/acer-chromebook-315-156-fhd-ips-n4020-4gb-128gb-255328",
+          "publishedOn": "2022-11-13T23:07:35.000Z",
+          "wordCount": 1324,
+          "title": "ACER Chromebook 315 15,6'' (FHD, IPS, N4020, 4GB DDR4, 128GB eMMC)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/sony-wh1000xm4-draadloze-hoofdtelefoon-met-noise-cancelling-255327",
+          "author": null,
+          "description": "€229 - Amazon.nl\nLaagste prijs elders: €247\nVerkrijgbaar in de kleuren zilver, zwart en blauw.\nDe Sony WH-1000XM4 is de opvolger van de succesvolle Sony WH-1000XM3. De Sony WH-1000XM4 over-ear koptelefoon biedt verbeterde Noise Cancelling, verbeterde geluidskwaliteit en nog slimmere functies. Deze draadloze bluetooth koptelefoon heeft een totale batterijduur van 30 uur en na slechtst 10 minuten in de oplader kan de koptelefoon weer 5 uur mee. Met een multipoint-verbinding kan de Sony-hoofdtelefoon tegelijkertijd met twee Bluetooth-apparaten worden gekoppeld. Bovendien beschikt de Sony WH-1000XM4 koptelefoon over een ingebouwde microfoon, waardoor deze ideaal is om mee te bellen.\nKenmerken:\n\nDraadloos: Verbind de koptelefoon draadloos via Bluetooth met je device of koppel via NFC. Voor gebr…",
+          "link": "https://nl.pepper.com/aanbiedingen/sony-wh1000xm4-draadloze-hoofdtelefoon-met-noise-cancelling-255327",
+          "publishedOn": "2022-11-13T23:05:49.000Z",
+          "wordCount": 1408,
+          "title": "Sony WH1000XM4 Draadloze Hoofdtelefoon met Noise Cancelling",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/sony-wf-1000xm4-draadloze-oordopjes-met-noise-cancelling-255326",
+          "author": null,
+          "description": "€179 - Amazon.nl\nLaagste prijs elders: €209\nVerkrijgbaar in de kleuren zwart en wit.\nDe Sony WF-1000XM4 is de opvolger van de succesvolle Sony WF-1000XM3. De Sony WF-1000XM4 in-ear bluetooth oordopjes bieden verbeterde Noise Cancelling, verbeterde geluidskwaliteit, nog slimmere functies en zijn dankzij de IPX4 rating spatwaterbestendig. Geniet van een volle werkdag aan batterij, samen met de oplaadcase is de batterijduur 24 uur. Heb je haast? Na 5 minuten oplaadtijd heb je weer tot 60 minuten afspeeltijd.\nKenmerken:\n\nNoise cancelling: Met de nieuwe processor, nieuw ontworpen microfoons en innovatieve geluids isolerende eartips kan je meer geluid dempen dan ooit.\nNieuw type eartips met fitting guidance: Nog beter draagcomfort en ruisonderdrukking door hogere luchtdichtheid dankzij nieuw ont…",
+          "link": "https://nl.pepper.com/aanbiedingen/sony-wf-1000xm4-draadloze-oordopjes-met-noise-cancelling-255326",
+          "publishedOn": "2022-11-13T23:00:00.000Z",
+          "wordCount": 1509,
+          "title": "Sony WF-1000XM4 Draadloze Oordopjes met Noise Cancelling",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/3-8-56-stuks-huggies-pure-extra-care-babydoekjes-1344-stuks-voor-eur20-at-trekpleister-255325",
+          "author": null,
+          "description": "€19,99 - Trekpleister\nBestellen via: \ntrekpleister.nl/huggies-pure-extra-care-babydoekjes/p/5412898\nwww.trekpleister.nl/huggies-pure-extra-care-babydoekjes/p/5412898\n\nPrijsvergelijking 8 * 56 stuks Huggies Pure Extra Care Babydoekjes\n€19,99 kruidvat.nl/huggies-pure-extra-care-babydoekjes/p/5412898\n€19,99 trekpleister.nl/huggies-pure-extra-care-babydoekjes/p/5412898",
+          "link": "https://nl.pepper.com/aanbiedingen/3-8-56-stuks-huggies-pure-extra-care-babydoekjes-1344-stuks-voor-eur20-at-trekpleister-255325",
+          "publishedOn": "2022-11-13T22:35:54.000Z",
+          "wordCount": 1150,
+          "title": "3 * 8 * 56 stuks Huggies Pure Extra Care Babydoekjes (1344 stuks) voor €20 bij Kruidvat & Trekpleister",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/2-stuks-odorex-deodorant-voor-eur250-bij-trekpleister-255323",
+          "author": null,
+          "description": "€2,50 - Trekpleister\nVanaf dinsdag 15 november \nm.u.v. Extra dry\nAssortiment:\ntrekpleister.nl/search?size=100&sort=price-desc&page=0&q=Odorex\nPrijsvergelijking 2 stuks Odorex Ultra Protect Deodorant Spray (EAN 8710919121124)\n€7,78 trekpleister.nl/odorex-ultra-protect-deodorant-spray/p/4278947\n\nBij Kruidvat 3 stuks voor €5\nkruidvat.nl/a/3488491/odorex-deodorant-3-voor-5-00?page=0&size=20&sort=price-desc",
+          "link": "https://nl.pepper.com/aanbiedingen/2-stuks-odorex-deodorant-voor-eur250-bij-trekpleister-255323",
+          "publishedOn": "2022-11-13T21:54:57.000Z",
+          "wordCount": 1143,
+          "title": "2 stuks Odorex deodorant voor €2,50 bij Trekpleister",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/medion-s20-sw-stofzuigrobot-md20011-255317",
+          "author": null,
+          "description": "€149 - Medion\nPerfecte schoon \nMet zijn doeltreffende cycloontechnologie zorgt de S20 SW-stofzuigrobot (MD20011) in een mum van tijd voor een goede schoonmaak. Dankzij de intelligente smart control reinigt hij niet alleen volgens een vooraf ingesteld schema, maar kan hij desgewenst ook op afstand via een app worden bediend. Als je een klein ongelukje hebt, maakt de robot op verzoek schoon dankzij zijn spraakbesturing. Bovendien is de S20 SW een echte allrounder en heeft hij een geïntegreerde dweil functie. Dankzij het grote stofreservoir met een royale inhoud van 0,6 liter hoef je je zelden zorgen te maken over het legen ervan. De robotstofzuiger met een batterijcapaciteit tot 100 minuten en een oplaadtijd van slechts 3 uur is ook geschikt voor grote flats. Voor mensen met een allergie heeft de S20 SW zelfs twee optionele stofzuigerzakken aan boord, naast de zeer effectieve deeltjesfilter.\n\n3% via CashbackXl",
+          "link": "https://nl.pepper.com/aanbiedingen/medion-s20-sw-stofzuigrobot-md20011-255317",
+          "publishedOn": "2022-11-13T21:23:00.000Z",
+          "wordCount": 1207,
+          "title": "Medion S20 SW-stofzuigrobot (MD20011",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/didas-adilette-aqua-255313",
+          "author": null,
+          "description": "€15 - Amazon.nl\nCaractéristiques principales:\n\nadidas Adilette Aqua Slippers Zwart\nNormale pasvorm\nInstapperconstructie\nWreefband uit één stuk gegoten EVA\nEVA-loopzool\nZacht Cloudfoam-voetbed\nVoelt licht aan\nSneldrogend materiaal\n\nSpoel je na een duik in het zwembad af in deze douchevriendelijke badslippers. Het simpele, gestroomlijnde model zit vol adidas DNA, wat te zien is aan de karakteristieke 3-Stripes. Zachte demping verwent vermoeide voeten met luxe comfort. Let op! De adilette slippers vallen klein, we raden je aan een maat groter dan gebruikelijk te kiezen.",
+          "link": "https://nl.pepper.com/aanbiedingen/didas-adilette-aqua-255313",
+          "publishedOn": "2022-11-13T21:21:53.000Z",
+          "wordCount": 1120,
+          "title": "adidas Adilette Aqua",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/soundtheory-gullfoss-gullfoss-live-gullfoss-master-255321",
+          "author": null,
+          "description": "€111\nBlack Friday plugin deal, 40% korting!\nLaagste prijs ooit voor deze populaire mixing en mastering plugin. Met ook de live versie met low latency.",
+          "link": "https://nl.pepper.com/aanbiedingen/soundtheory-gullfoss-gullfoss-live-gullfoss-master-255321",
+          "publishedOn": "2022-11-13T21:14:31.000Z",
+          "wordCount": 1104,
+          "title": "Black Friday: 40% korting op Soundtheory Gullfoss, Gullfoss Live, Gullfoss Master",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/5-pakken-pampers-baby-dry-of-premium-protection-luierbroekjes-voor-eur32-255320",
+          "author": null,
+          "description": "€32 - Kruidvat\nVanaf maandag bij Kruidvat en Trekpleister\nkruidvat.nl/a/1029171/pampers-5-voor-32-00?page=0&size=20&sort=price-desc\n\ntrekpleister.nl/a/3015383?sort=name-asc\n\nNormale prijs\n€12 Pampers Baby-Dry Maat 4 Luierbroekjes\n€12 Pampers Baby-Dry Maat 5 Luierbroekjes\n€12 Pampers Baby-Dry Maat 6 Luierbroekjes\n€12 Pampers Premium Protection Luierbroekjes maat 4\n€12 Pampers Premium Protection Luierbroekjes maat 5\n€12 Pampers Premium Protection Luierbroekjes maat 6",
+          "link": "https://nl.pepper.com/aanbiedingen/5-pakken-pampers-baby-dry-of-premium-protection-luierbroekjes-voor-eur32-255320",
+          "publishedOn": "2022-11-13T21:06:15.000Z",
+          "wordCount": 1183,
+          "title": "5 pakken Pampers Baby-Dry of Premium Protection Luierbroekjes voor €32",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/faber-castell-viltstiften-connector-33-stuks-in-metalen-handtas-255319",
+          "author": null,
+          "description": "€5,99 - Bol.com\nOok verkrijgbaar bij Amazon.nl voor dezelfde prijs.\n---\nLeuk verpakt in hoogwaardig blik in handtas vorm, ideaal voor opslag en voor onderweg. Het perfecte cadeau voor elke gelegenheid.\nDeze stiften moedigen kinderen aan om geweldige tekentechnieken te ontwikkelen voor onbeperkte creativiteit. De viltstift met de speciale clip, de connector viltstift. Door speciale clip op de doppen kunnen de viltstiften eenvoudig in elkaar worden geklikt. De set heeft schitterende kleuren, wast uit de meeste textielsoorten. \nInhoud: 33 stuks assorti kleuren.\n\n33 stuks\ninkt op waterbasis\nintense kleuren\nuitwasbaar uit meeste stoffen\nin handige opbergkoffer (handtas model)\nEAN: 4005401555377\n---\nGratis verzending met Select\nGratis verzending door bol.com vanaf 20 euro\nOphalen bij een bol.com afhaalpunt mogelijk\n30 dagen bedenktijd en gratis retourneren",
+          "link": "https://nl.pepper.com/aanbiedingen/faber-castell-viltstiften-connector-33-stuks-in-metalen-handtas-255319",
+          "publishedOn": "2022-11-13T20:44:11.000Z",
+          "wordCount": 1233,
+          "title": "Faber-Castell viltstiften Connector 33 stuks in blikken koffertje [ook op Amazon.nl]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/chicks-love-food-kookboek-voor-eur134-at-albert-heijb-255318",
+          "author": null,
+          "description": "€1,34 - Albert Heijn\nBij aankoop van 2 producten van grand italia, saitaku, patak's, go-tan of santa maria een kookboek gratis bij Albert Heijn.\nDeze producten zijn ook 2e halve prijs\nHet goedkoopste product wat ik kon vinden zijn de grand italia crissini soepstengels a €0,89 - \n2e halve prijs = 1,34\nOok de santa maria kruidenmix is een van de goedkopere opties a €0,99 per stuk\nIk kan de actie online niet vinden dus wellicht alleen in de fysieke winkel",
+          "link": "https://nl.pepper.com/aanbiedingen/chicks-love-food-kookboek-voor-eur134-at-albert-heijb-255318",
+          "publishedOn": "2022-11-13T20:29:32.000Z",
+          "wordCount": 1191,
+          "title": "Chicks love food kookboek voor €1,34 @ Albert Heijn",
+          "imageUrl": null
+        },
         {
           "id": "https://nl.pepper.com/aanbiedingen/naif-255264",
           "author": null,
@@ -12596,206 +12666,6 @@
           "publishedOn": "2022-10-15T15:31:05.000Z",
           "wordCount": 1166,
           "title": "Ikea Hengelo pax aanbiedingen en nog veel meer.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/evga-geforce-rtx-3090-ti-ftw3-black-gaming-24g-p5-4981-kr-24gb-gddr6x-252275",
-          "author": null,
-          "description": "€1.388,86 - Amazon.de\nIs kennelijk niet echt een aanbieding:\nhttps://www.tomshardware.com/news/evga-slashes-dollar1000-off-geforce-rtx-3090-ti-gpus-starting-at-dollar1149",
-          "link": "https://nl.pepper.com/aanbiedingen/evga-geforce-rtx-3090-ti-ftw3-black-gaming-24g-p5-4981-kr-24gb-gddr6x-252275",
-          "publishedOn": "2022-10-15T02:05:21.000Z",
-          "wordCount": 1170,
-          "title": "EVGA GeForce RTX 3090 Ti FTW3 Black Gaming, 24G-P5-4981-KR, 24GB GDDR6X",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/eur5-korting-op-je-volgende-aankoop-vanaf-eur15-bij-amazonnl-252274",
-          "author": null,
-          "description": "€5 - Amazon.nl\nKreeg deze pop-up op amazon.nl.\nOp mijn andere account niet geldig.\nEr stond er wel bij vermeld dat er maar (100) stuks waren.\nTerms:\n€5 korting op de eerst volgende aankoop vanaf 15, geldig voor een periode van 14 dagen (tot 23.59 uur op de laatste dag) vanaf het moment dat ze de korting hebben opgeslagen in hun account. • De korting is beperkt beschikbaar en alleen voor de eerste 100 klanten die voldoen aan deze voorwaarden. De korting verloopt 14 dagen (tot 23.59 uur op de laatste dag)",
-          "link": "https://nl.pepper.com/aanbiedingen/eur5-korting-op-je-volgende-aankoop-vanaf-eur15-bij-amazonnl-252274",
-          "publishedOn": "2022-10-15T01:44:36.000Z",
-          "wordCount": 1219,
-          "title": "€5 korting op je volgende aankoop vanaf €15 bij Amazon.nl",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/kortingscode/hema-tot-eur1500-kortingsvoucher-252273",
-          "author": null,
-          "description": "ING\nDe code is alléén online te verzilveren op hema.nl\nBij een kortingsvoucher van € 5,- geldt een minimum besteding van € 25,-\nBij een kortingsvoucher van € 15,- geldt een minimum besteding van € 70,-\nUitgesloten van deze actie zijn: reeds afgeprijsde artikelen, boeken en media, bakkerij-assortiment, cadeaukaarten, fotoartikelen en fotoservice, gebak, HEMA-tickets, Instax®, smart lightning, raambekleding op maat, telecomproducten, verzekeringen en zelfzorgmedicatie.\nDe actie is niet geldig in combinatie met andere acties, vouchers of kortingscodes. De aanbiedingen zijn niet te combineren met elkaar of met andere lopende acties.\nDe korting is niet inwisselbaar voor contant geld. Bij retourneren van (één van) de goederen zal de waarde van de goederen minus de gegeven korting worden uitbetaald.\nHEMA behoudt zich het recht voor de actievoorwaarden tussentijds te wijzigen. Druk- en zetfouten voorbehouden.\nVoor de voucher geldt geen recht op retour.\nDeze voucher is in te wisselen tot 31-05-2023",
-          "link": "https://nl.pepper.com/kortingscode/hema-tot-eur1500-kortingsvoucher-252273",
-          "publishedOn": "2022-10-14T23:03:56.000Z",
-          "wordCount": 1300,
-          "title": "HEMA €15,00 kortingsvoucher bij inwisselen van 500 punten",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/philips-powerbatterijen-24x-aa-16x-aaa-252268",
-          "author": null,
-          "description": "€9,99 - Lidl\nVanaf volgende week Zaterdag bij lidl mooie deal op deze power batterijen van Philips",
-          "link": "https://nl.pepper.com/aanbiedingen/philips-powerbatterijen-24x-aa-16x-aaa-252268",
-          "publishedOn": "2022-10-14T22:43:02.000Z",
-          "wordCount": 1114,
-          "title": "Philips powerbatterijen 24x aa & 16x aaa",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/lsc-smart-connect-heating-set-radiatorknop-252271",
-          "author": null,
-          "description": "€99,95 - Action\nBeschrijving\nBespaar energie\nStel de temperatuur van elke kamer individueel in\nGebruik de app om je huis op afstand alvast te verwarmen\nLet op: dit product is alléén online verkrijgbaar\nZorg dat je in iedere ruimte de perfecte temperatuur hebt met deze slimme radiatorknop. Met verschillende handige functies, zoals open raam detectie, vakantiemodus, een verbindmethode met Amazon Alexa of Google Home en zelfs een app waarmee je alle kamers individueel kan verwarmen is deze handige gadget niet verlegen aan functies. Hij is gemakkelijk te plaatsen, je hebt hiervoor geen apart gereedschap nodig en hij werkt bij de meeste radiators.\nDaarnaast wordt het aangeraden om de handleiding voor het installeren goed door te lezen, wat betreft installatie en functies, omdat je je zal verbazen wat deze gadget allemaal kan. Wanneer je bijvoorbeeld een raam opendoet, herkent de radiatorknop dit vanwege de plotselinge daling in temperatuur (standaard ingesteld op een daling van -5 °C in 5 minuten) en zal deze de kamer niet verder verwarmen, om stroom te besparen. Dit kan je natuurlijk zelf ook instellen via de app.",
-          "link": "https://nl.pepper.com/aanbiedingen/lsc-smart-connect-heating-set-radiatorknop-252271",
-          "publishedOn": "2022-10-14T22:42:53.000Z",
-          "wordCount": 1402,
-          "title": "LSC Smart Connect heating set radiatorknop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/funko-pop-18-inch-batman-252270",
-          "author": null,
-          "description": "€66\nVoor alle Funko Pop en vinyl poppen liefhebbers is dit wel een mooie deal. Deze grote 18\" (= 45,72 cm) grote Batman Funko Pop is een echte eyecatcher. Heb zelf helaas vorig jaar meer dan €120 betaald voor deze pop maar ben er nog steeds blij mee :D \nNu tijdelijk gratis verzending naar Nederland voor alle bestellingen van meer dan €50 + een gratis Freddy Pop Birthday party (mogelijk tijdelijk zolang de voorraad strekt) - Exclusief mogelijke invoerkosten (wat mij niet bekend is maar ik meld dat toch even).\nPs. let op je krijg bij het afrekenen een fout eindbedrag te zien.\nNadat je werkelijk gaat betalen (bij Checkout) zie je wel het juiste bedrag.\nSucces ;) \n\nItem Number:            42122    \n         Category:         Batman,     \tBirthday Sale,     \tDC Comics,     \tKING-SIZED,     \tMovies & TV,     \tPop!,     \tShop All,     \tWhats New Funko    \t                               \t\n   \t\t\t\t                   License:   \t\t\t\t              \t                \t\t\tBATMAN \n         Product Type:     POP! 18\"\nVideo review;\n\t\t\t\t[shortcode id=\"1358064\"/]",
-          "link": "https://nl.pepper.com/aanbiedingen/funko-pop-18-inch-batman-252270",
-          "publishedOn": "2022-10-14T22:07:59.000Z",
-          "wordCount": 1423,
-          "title": "Funko Pop! 18\" inch Batman + Tijdelijk gratis Freddy Pop!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/bolcom-superdeal-eufy-by-anker-video-deurbel-draadloze-deurbelset-inclusief-homebase-2-252269",
-          "author": null,
-          "description": "€119 - Bol.com\nBol.com prijsalarm oktober!\nEufy Video Doorbell HomeBase 2\nDe draadloze videodeurbel van Eufy werkt op batterijen, waardoor je hem makkelijk zelf installeert. Bedraad installeren is in dit geval niet mogelijk. Bovendien zit je niet vast aan maandelijkse kosten. Al je gegevens worden namelijk lokaal opgeslagen op de interne 16 GB E MMC kaart. Wanneer de opslag vol is, worden de oudste gebeurtenissen overschreven. Hierdoor hoef je nooit te betalen voor extra cloudopslag. Ook heb je geen SD-kaart nodig.\nDe Eufy Video Doorbell is voorzien van AI (Artificial Intelligence) om mensen te kunnen detecteren. Dankzij de 2-weg audio kun je met mensen praten die voor de deur staan. De deurbel heeft een horizontale kijkhoek van 120 graden en een verticale kijkhoek van 90 graden.\nHoudt er rekening mee dat er maximaal 10 meter tussen de deurbel en basisstation kan zitten. De HomeBase moet door middel van een ethernet-kabel aangesloten worden op de modem. Daarnaast is er een 2.4 GHz verbinding vereist om de verbinding tussen de deurbel en de HomeBase tot stand te brengen.\n\nKenmerken:\nEufy beschermt jou, je gezin en je privacy\nIngebouwde Sony 2K-sensor en professionele lens\nUitgebreide gezichtsveld met de verhoogde beeldverhouding van 4:3\nNon-stop werking bij extreme temperaturen van -4 ° F tot 122 ° F (-20 ° C tot 50 ° C)\nGeen maandelijkse kosten\nBatterijduur van 180 dagen\nGeïnstalleerd in een oogwenk\nAES-256-gegevenscodering van militaire kwaliteit zorgt ervoor dat je opnamen privé blijven\nOntvang realtime meldingen wanneer iemand nadert\nMogelijk om 16 producten te koppelen aan de HomeBase 2\nWat is inbegrepen:\n• Videodeurbel 2K (op batterijen)\n• Schroefgat positioneringskaart\n• Montagebeugel\n• 15 graden wig\n• USB-oplaadkabel\n• Verlengingsdraden (voor bedrade verbinding)\n• Schroefpakketten\n• Deurbelontkoppelingspen\n• HomeBase 2 (basisstation)\n• Voedingsadapter (voor HomeBase 2)\n• Ethernet-kabel (voor HomeBase 2)\n• Handleiding",
-          "link": "https://nl.pepper.com/aanbiedingen/bolcom-superdeal-eufy-by-anker-video-deurbel-draadloze-deurbelset-inclusief-homebase-2-252269",
-          "publishedOn": "2022-10-14T22:02:36.000Z",
-          "wordCount": 1750,
-          "title": "Bol.com prijsalarm: Eufy by Anker Video Deurbel - Draadloze Deurbelset - Inclusief HomeBase 2 -",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/lego-75336-star-wars-transport-van-de-inquisitor-scythe-obi-wan-kenobi-set-met-bouwbaar-starship-poppetjes-en-lichtzwaard-252265",
-          "author": null,
-          "description": "€76,59 - Amazon.nl\nLeuke Star Wars bouwset van Lego.\nUpdate/Edit:\nDeze set was kort geleden nog aangeboden voor 59,45, @NotSoSteady bedankt voor je/uw alertheid ;) \nhttps://nl.pepper.com/aanbiedingen/lego-75336-star-wars-transport-van-de-inquisitor-scythe-251644\n\nVideo review:\n\t\t[shortcode id=\"1358063\"/]\nBetaalmogelijkheden:\n\nCreditcard\niDeal\nBancontact\nBankafschrijving\nAmazon NL cadeaubon\n\nVerzending Amazon NL:\n\nGratis verzending voor Prime-leden*\n*= Je kan een gratis 30 dagen proefperiode op Prime nemen. Je kan je direct afmelden na aanmelden, en behoudt je voordelen gedurende die 30 dagen.\nGratis verzending naar een afhaalpunt.\nGratis verzending boven de €20.\nOnder de €20 betaal je naar NL (huis) €2,49 zonder prime.",
-          "link": "https://nl.pepper.com/aanbiedingen/lego-75336-star-wars-transport-van-de-inquisitor-scythe-obi-wan-kenobi-set-met-bouwbaar-starship-poppetjes-en-lichtzwaard-252265",
-          "publishedOn": "2022-10-14T21:39:34.000Z",
-          "wordCount": 1267,
-          "title": "LEGO 75336 Star Wars Transport van de Inquisitor Scythe, Obi-Wan Kenobi Set met Bouwbaar Starship, Poppetjes en Lichtzwaard",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/jack-jones-jorbrink-knit-crew-neck-heren-trui-252267",
-          "author": null,
-          "description": "€14,99 - Amazon.nl\nJACK & JONES Jorbrink Knit Crew Neck heren Trui\nKleur: bordeaux\nBeschikbaar in de maten: S t/m XL\nOver dit item\nOndersteunt het Better Cotton Initiative\n53% katoen, 47% polyacryl,\ntruien\nduurzaam\nVerzending Amazon NL:\nGratis verzending naar afhaalpunt\nGratis verzending voor Prime-leden\nJe kan een gratis 30 dagen proefperiode op Prime nemen. Je kan je direct afmelden na aanmelden, en behoudt je voordelen gedurende die 30 dagen.\nGratis verzending boven de €20\nOnder de €20 betaal je naar NL (huis) €2,49 zonder prime",
-          "link": "https://nl.pepper.com/aanbiedingen/jack-jones-jorbrink-knit-crew-neck-heren-trui-252267",
-          "publishedOn": "2022-10-14T21:34:10.000Z",
-          "wordCount": 1236,
-          "title": "JACK & JONES Jorbrink Knit Crew Neck heren Trui",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/lylescott-longsleeve-252266",
-          "author": null,
-          "description": "€26,95 - Zalando\nLyle&Scott Longsleeve\nKleur: jet black\nBeschikbaar in de maten: XXS t/m XXL\nGratis verzending & Retour!\nFitting\nLichaamslengte model: Ons model is 189 cm lang en draagt maat M\nPasvorm: Regular Fit\nVorm: Recht\nLengte: Lang\nMouwlengte: Lange mouwen\nMouwlengte: 72 cm bij maat M\nTotale lengte: 77 cm bij maat M\nAlles over dit product\nHalslijn: Ronde hals\nPatroon: Effen\nMateriaal buitenlaag: 100% katoen\nMateriaalverwerking: Jersey\nWasvoorschrift: Niet geschikt voor de droger, machinewas tot 30°C",
-          "link": "https://nl.pepper.com/aanbiedingen/lylescott-longsleeve-252266",
-          "publishedOn": "2022-10-14T21:26:35.000Z",
-          "wordCount": 1159,
-          "title": "Lyle&Scott Longsleeve",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/kruidvat-sun-jaarvoorraad-300-stuks-vaatwastabletten-252264",
-          "author": null,
-          "description": "€34,99 - Kruidvat\n300 stuks vaatwastabletten, niet meer zo goedkoop als eerder maar voor de mensen die bijna door hun voorraad heen zijn, doe je voordeel(y)",
-          "link": "https://nl.pepper.com/aanbiedingen/kruidvat-sun-jaarvoorraad-300-stuks-vaatwastabletten-252264",
-          "publishedOn": "2022-10-14T21:06:50.000Z",
-          "wordCount": 1120,
-          "title": "Kruidvat Sun jaarvoorraad 300 stuks vaatwastabletten",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/gratis-maand-ah-premium-252263",
-          "author": null,
-          "description": "Je kunt vanaf maandag een gratis maand AH premium aanvragen. Het voordeel is dat je dubbele zegels spaart, maar ook meer bonus aanbiedingen kunt kiezen. Daarnaast kun je met voordeel een abonnement op Bol.com select afsluiten. Denk altijd het proberen waard als je het nog niet hebt. Maar gok dat veel Pepperaars het überhaupt al hebben.\nOverigens ook select is een maand gratis te proberen. Zie daarvoor één van mijn oudere deals.\n\nqr.ah.nl/q5yRX3",
-          "link": "https://nl.pepper.com/aanbiedingen/gratis-maand-ah-premium-252263",
-          "publishedOn": "2022-10-14T20:41:54.000Z",
-          "wordCount": 1219,
-          "title": "Gratis maand AH Premium",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/xiaomi-mi-smart-tv-p1-43-eu-warehouse-252262",
-          "author": null,
-          "description": "€279,20 - Gshopper\nFijne televisie met Google TV. Zelf begin dit jaar in de aanbieding gekocht bij Gshopper voor €299,-\nSite fabrikant: mi.com/nl/…43/\nPricewatch: tweakers.net/pri…tml",
-          "link": "https://nl.pepper.com/aanbiedingen/xiaomi-mi-smart-tv-p1-43-eu-warehouse-252262",
-          "publishedOn": "2022-10-14T19:54:08.000Z",
-          "wordCount": 1144,
-          "title": "Xiaomi Mi Smart TV P1 43\" EU Warehouse",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/lego-technic-reddingshovercraft-42120-252261",
-          "author": null,
-          "description": "€14,99 - Lidl\nEr is al een deal gepost met de dagdeals maar ik zag deze nergens daarin terug dus voor wie het interessant vindt… Dagdeal nu bij Lidl voor 14,99. Er staat een 0 teveel bij de Lidl advertentie dus niet zo goed vindbaar. Komen verzendkosten bij tenzij je voor 30 euro besteld en de kortingscode uit deze advertentie gebruikt https://nl.pepper.com/aanbiedingen/vrijdagavond-deals-bij-lidl-251400\nBeste prijs ooit bij brickwatch 15,87 https://www.brickwatch.net/nl-NL/set/42120/Rescue-Hovercraft.html nu beste prijs leverbaar naar Nederland 21,99 bij Amazon",
-          "link": "https://nl.pepper.com/aanbiedingen/lego-technic-reddingshovercraft-42120-252261",
-          "publishedOn": "2022-10-14T19:50:52.000Z",
-          "wordCount": 1266,
-          "title": "Lego Technic Reddingshovercraft (42120)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/microsoft-xbox-series-s-512gb-console-252260",
-          "author": null,
-          "description": "€216,19 - Rebuy\nAls nieuw en 3 jaar garantie. \nMet kortingscode CECONSOLES08 kom je uit op €216,19.\nVeel game plezier.  (y)",
-          "link": "https://nl.pepper.com/aanbiedingen/microsoft-xbox-series-s-512gb-console-252260",
-          "publishedOn": "2022-10-14T19:48:17.000Z",
-          "wordCount": 1144,
-          "title": "Microsoft Xbox Series S 512GB Console",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/gshopper-a6-electric-scooter-gratis-verzending-252258",
-          "author": null,
-          "description": "€240 - Gshopper\ngratis verzending.\nXiaomi: https://www.amazon.nl/Xiaomi-Electric-Scooter-30806-Grijs/dp/B09GPLG941/ 434€\nA5: 240€\nDe belangrijkste verschillen tussen A6 en Xiaomi M365:\n1, vouwapparaat is anders, A6 vouwapparaat keurt smeedproces goed, handiger en veiliger. De Xiaomi-map is gewoon;\n2, de A6-band is een honingraat-massieve band;\n3, A6 Fender metalen beugel toegevoegd;\n4, A6 Motorvermogen en Waterdicht zijn verbeterd.\nYesi: \n\nAmazon-specialist\nGshopper-specialist",
-          "link": "https://nl.pepper.com/aanbiedingen/gshopper-a6-electric-scooter-gratis-verzending-252258",
-          "publishedOn": "2022-10-14T19:18:25.000Z",
-          "wordCount": 1184,
-          "title": "Gshopper - A6 Electric Scooter gratis verzending",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/playmobil-city-action-politiebureau-6919-252250",
-          "author": null,
-          "description": "€59,90 - Amazon.fr\n6919 playmobil politie bureau/ gevangenis\nTip om alvast in te slaan voor de feestdagen.",
-          "link": "https://nl.pepper.com/aanbiedingen/playmobil-city-action-politiebureau-6919-252250",
-          "publishedOn": "2022-10-14T19:07:08.000Z",
-          "wordCount": 1110,
-          "title": "Playmobil city action politiebureau 6919",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/amazon-prime-otterbox-slim-series-hoesje-voor-iphone-12-mini-met-magsafe-252257",
-          "author": null,
-          "description": "€9,90 - Amazon.nl\n\nBescherm je smartphone met de ultradunne Slim-serie, de iPhone 12 mini-hoes die eenvoudig te installeren is en duurzame bescherming biedt tegen vallen, stoten en krassen.\nDeze ultradunne, broekzakvriendelijke hoes heeft verhoogde schermranden om het touchscreen te beschermen.\nSlim Series-hoezen garanderen compatibiliteit met MagSafe dankzij ingebouwde magneten, die uitstekend geschikt zijn om draadloos opladen sneller en gemakkelijker te laten verlopen, dan ooit te voren. Bevestig en verwijder MagSafe-accessoires naadloos door middel van ingebouwde magneten.\nCombineer je hoes met een krasbestendige en duurzame OtterBox-schermbeschermer voor totale bescherming van 360 graden.\nCompatibel met iPhone 12 mini\nMinder afvalverpakking: Bij OtterBox hebben we concrete stappen genomen om onze impact te verminderen, daarom hebben we onze retailverpakkingen gemaakt van duurzame materialen die volledig recyclebaar zijn en bijna geen plastic gebruiken.",
-          "link": "https://nl.pepper.com/aanbiedingen/amazon-prime-otterbox-slim-series-hoesje-voor-iphone-12-mini-met-magsafe-252257",
-          "publishedOn": "2022-10-14T19:04:48.000Z",
-          "wordCount": 1385,
-          "title": "Amazon Prime OtterBox Slim Series-hoesje voor iPhone 12 mini met MagSafe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/nike-air-max-90-ltr-252256",
-          "author": null,
-          "description": "€70 - Snipes\nNike Air Max 90 LTR\nBeschikbaar in de maten: 36 , 38 & 40\n€70,00 \nGratis verzending & Retour!",
-          "link": "https://nl.pepper.com/aanbiedingen/nike-air-max-90-ltr-252256",
-          "publishedOn": "2022-10-14T19:03:18.000Z",
-          "wordCount": 1099,
-          "title": "Nike Air Max 90 LTR",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/avonddeal-vacumeermachine-met-snijder-van-lidl-252255",
-          "author": null,
-          "description": "€19,99 - Lidl\nNog een paar uurtjes beschikbaar tijdens de avonddeal bij lidl.\nZe verkopen ook rollen folie voor een mooie prijs.\nGratis verzending vanaf 30 euro met de code AVONDDEALS2022\nhopelijk heeft iemand er ook wat aan!",
-          "link": "https://nl.pepper.com/aanbiedingen/avonddeal-vacumeermachine-met-snijder-van-lidl-252255",
-          "publishedOn": "2022-10-14T18:51:44.000Z",
-          "wordCount": 1185,
-          "title": "Avonddeal Vacumeermachine met snijder van Lidl",
           "imageUrl": null
         }
       ]
