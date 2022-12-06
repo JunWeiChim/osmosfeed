@@ -12,6 +12,316 @@
       "siteUrl": "https://tweakers.net/",
       "articles": [
         {
+          "id": "https://tweakers.net/downloads/62672",
+          "author": "Japke Rosink",
+          "description": "PHP is een recursief acroniem en staat voor PHP: Hypertext Preprocessor. Het wordt voornamelijk gebruikt om op webservers dynamische webpagina's te creëren, vaak in combinatie met databaseprogramma's. Maar je kunt PHP ook voor andere zaken inzetten, zoals scripten op de commandline. De ontwikkelaars hebben enkele dagen geleden versies 8.1.13 en 8.0.26 uitgebracht met de volgende aankondigingen: PHP 8.1.13 Released! The PHP development team announces the immediate availability of PHP 8.1.13. This is a bug fix release. All PHP 8.1 users are encouraged to upgrade to this version. For source downloads of PHP 8.1.13 please visit our downloads page, Windows source and binaries can be found on windows.php.net/download/. The list of changes is recorded in the ChangeLog.",
+          "link": "https://tweakers.net/downloads/62672/php-8113-8026.html",
+          "publishedOn": "2022-12-05T23:25:18.000Z",
+          "wordCount": 2201,
+          "title": "PHP 8.1.13 / 8.0.26",
+          "imageUrl": "https://tweakers.net/i/018JeKzTDiUsufSJ2MqiR9nOqXU=/fit-in/134x134/filters:fill(white):strip_exif()/i/1371972860.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/downloads/62670",
+          "author": "Japke Rosink",
+          "description": "Het team achter CockroachDB heeft een nieuwe versie uitgebracht met 22.2.0 als het versienummer. Dit is een opensourcedatabase die uitermate geschikt is voor cloudomgevingen en die verschillende opties voor het opvangen van problemen in de bijbehorende verspreide data biedt. Voor meer informatie verwijzen we naar deze pagina, waar de meest gestelde vragen worden beantwoord. De lijst met aanpassingen van deze uitgave ziet er als volgt uit: What's New in v22.2 With the release of CockroachDB v22.2, we've added new capabilities in CockroachDB to help you build, optimize, and operate more effectively and efficiently. Check out a summary of the most significant user-facing changes and then upgrade to CockroachDB v22.2. For demos and videos on the new features, see the v22.2 launch page. Join our webinar on schema design and query tuning in a distributed SQL database. Feature highlights This section summarizes the most significant user-facing changes in v22.2.0. For a complete list of features and changes, including bug fixes and performance improvements, see the release notes for previous testing releases. You can also search for what's new in v22.2 in our docs. SQL",
+          "link": "https://tweakers.net/downloads/62670/cockroachdb-2220.html",
+          "publishedOn": "2022-12-05T23:13:25.000Z",
+          "wordCount": 3552,
+          "title": "CockroachDB 22.2.0",
+          "imageUrl": "https://tweakers.net/i/F_5ltc7eTwQTf7PINZ-9BwL4pCU=/fit-in/134x134/filters:strip_icc():fill(white):strip_exif()/i/2004042720.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/downloads/62668",
+          "author": "Japke Rosink",
+          "description": "Symantec Messaging Gateway is een product voor het beveiligen van in- en uitgaande mailstromen. Het borduurt voort op Brightmail, dat in 2004 werd overgenomen door Symantec, dat op haar beurt weer in 2019 door Broadcom werd overgenomen. Hoewel beide overnames alweer even geleden zijn gebeurd, komen ze nog terug in de naam en beschrijving van het product. Het programma biedt antispam- en antimalwareopties, geavanceerde contentfiltering en data loss prevention, en biedt ook encryptieopties aan door te integreren met Symantec-encryptieproducten. SMG kan op een bijbehorende hardwareappliance worden gedraaid of virtueel in VMware, Hyper-V, KVM of binnen Azure. Versie 10.8.0 is verschenen met de volgende veranderingen: What's new in SMG 10.8.0 This release (10.8.0) includes the following key features:",
+          "link": "https://tweakers.net/downloads/62668/symantec-messaging-gateway-1080.html",
+          "publishedOn": "2022-12-05T22:57:48.000Z",
+          "wordCount": null,
+          "title": "Symantec Messaging Gateway 10.8.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/62666",
+          "author": "Japke Rosink",
+          "description": "GnuPG staat voor GNU Privacy Guard en wordt ook vaak afgekort tot GPG. Dit is een verzameling tools voor het beveiligen van communicatiestromen en data. Het kan worden gebruikt om data te versleutelen en digitale handtekeningen aan te maken, en voor het aanbieden van een framework voor public-keycryptografie. Het ondersteunt zowel OpenPGP als s/mime-standaarden. Voor meer informatie verwijzen we naar deze pagina. De ontwikkelaars hebben GnuPG 2.3.8 even geleden uitgebracht met de volgende aanpassingen: GnuPG 2.3.8 released We are pleased to announce the availability of a new stable GnuPG release: version 2.3.8. This release comes with a lot of new features and the binary releases come with the fix for the Libksba vulnerability CVE-2022-3515 (https://gnupg.org/blog/20221017-pepe-left-the-ksba.html). Noteworthy changes in version 2.3.8",
+          "link": "https://tweakers.net/downloads/62666/gnupg-238.html",
+          "publishedOn": "2022-12-05T22:47:20.000Z",
+          "wordCount": 2054,
+          "title": "GnuPG 2.3.8",
+          "imageUrl": "https://tweakers.net/i/yLfXt0mI6pB-G3YX5fl7PCZXzyc=/fit-in/134x134/filters:fill(white):strip_exif()/i/2001309935.png?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/downloads/62664",
+          "author": "Japke Rosink",
+          "description": "Rust is een programmeertaal bedacht door Graydon Hoare en oorspronkelijk ontwikkeld door Mozilla. Het is deels geïnspireerd op de programmeertaal C, maar kent syntactische en semantische verschillen. Het focust op veiligheid en beoogt moderne computersystemen efficiënter te benutten. Het wordt ingezet door onder ander Cloudflare, OVH, Mozilla, Deliveroo, Coursera, AppSignal en Threema. Versie 1.65.0 is vorige maand uitgebracht met de volgende aankondiging: Announcing Rust 1.65.0 The Rust team is happy to announce a new version of Rust, 1.65.0. Rust is a programming language empowering everyone to build reliable and efficient software. Before going into the details of the new Rust release, we'd like to draw attention to the tragic death of Mahsa Amini and the death and violent suppression of many others, by the religious morality police of Iran. See https://en.wikipedia.org/wiki/Mahsa_Amini_protests for more details. We stand in solidarity with the people in Iran struggling for human rights. If you have a previous version of Rust installed via rustup, you can get 1.65.0 with: rustup update stable If you don't have it already, you can get rustup from the appropriate page on our website, and check out the detailed release notes for 1.65.0 on GitHub. If you'd like to help us out by testing future releases, you might consider updating locally to use the beta channel (rustup default beta) or the nightly channel (rustup default nightly). Please report any bugs you might come across! What's in 1.65.0 stable Generic associated types (GATs) Lifetime, type, and const generics can now be defined on associated types, like so: trait Foo { type Bar Option Self::Array",
+          "link": "https://tweakers.net/downloads/62664/rust-1650.html",
+          "publishedOn": "2022-12-05T22:35:17.000Z",
+          "wordCount": null,
+          "title": "Rust 1.65.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/204168",
+          "author": "Yannick Spinner",
+          "description": "De bekende leaker OnLeaks en GadgetGang delen naar eigen zeggen de officiële renders van de aankomende OnePlus 11. Het toestel lijkt visueel grotendeels op de huidige OnePlus 10, afgezien van het ronde camera-eiland.",
+          "link": "https://tweakers.net/nieuws/204168/onleaks-deelt-specificaties-en-officiele-renders-oneplus-11.html",
+          "publishedOn": "2022-12-05T20:17:54.000Z",
+          "wordCount": 2277,
+          "title": "OnLeaks deelt specificaties en 'officiële' renders OnePlus 11",
+          "imageUrl": "https://tweakers.net/i/NOyBUSCaD33Dk27O5tXoHDGOMqs=/134x134/filters:strip_icc():strip_exif()/i/2005342948.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/downloads/62662",
+          "author": "Bart van Klaveren",
+          "description": "Versie 5.8.0 van SOGo is kort geleden uitgekomen. Scalable OpenGroupware.org maakt gebruik van de broncode van OpenGroupware.org en richt zich op het delen van agenda's, contactpersonen en e-mails. Daarnaast is het volgens de ontwikkelaars goed schaalbaar en kan het via een webinterface worden aangesproken. Verder worden aangepaste versies van Mozilla Thunderbird en Lightning meegeleverd als client. Er kunnen ook andere clients worden gebruikt, zoals Microsoft Outlook, of mobiele apparaten zoals een BlackBerry. Voor meer informatie verwijzen we naar deze pagina, waar de documentatie te vinden is. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Features",
+          "link": "https://tweakers.net/downloads/62662/sogo-580.html",
+          "publishedOn": "2022-12-05T20:07:17.000Z",
+          "wordCount": null,
+          "title": "SOGo 5.8.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/204166",
+          "author": "Yannick Spinner",
+          "description": "Microsoft verhoogt de adviesprijzen van first-partygames in elk geval in de Verenigde Staten vanaf 2023 van 60 naar 70 dollar voor alle platformen. Het is niet duidelijk of dergelijke spellen ook in de Benelux duurder worden.",
+          "link": "https://tweakers.net/nieuws/204166/microsoft-verhoogt-dollaradviesprijzen-next-gen-games-voor-alle-platformen.html",
+          "publishedOn": "2022-12-05T19:49:50.000Z",
+          "wordCount": null,
+          "title": "Microsoft verhoogt dollaradviesprijzen 'next-gen' games voor alle platformen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/204164",
+          "author": "Yannick Spinner",
+          "description": "Op de Steam-pagina van Star Wars Jedi: Survivor stond tijdelijk dat de game op 15 maart 2023 uitkomt. De releasedatum is ondertussen weer van de pagina verwijderd, maar is via een archiefpagina van Wayback Machine nog te zien.",
+          "link": "https://tweakers.net/nieuws/204164/star-wars-jedi-survivor-komt-volgens-steam-pagina-op-15-maart-2023-uit.html",
+          "publishedOn": "2022-12-05T18:15:22.000Z",
+          "wordCount": null,
+          "title": "Star Wars Jedi: Survivor komt volgens Steam-pagina op 15 maart 2023 uit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/204156",
+          "author": "Arnoud Wokke",
+          "description": "Google brengt de Clear Calling-functie uit voor Pixel 7-telefoons. De functie schoont de audio in telefoongesprekken op, waardoor de gebruiker van een Pixel-telefoon aan de andere kant van de lijn minder achtergrondgeluid hoort en de beller beter kan verstaan.",
+          "link": "https://tweakers.net/nieuws/204156/google-brengt-clear-calling-functie-voor-pixel-7-telefoons-uit.html",
+          "publishedOn": "2022-12-05T18:00:00.000Z",
+          "wordCount": 2831,
+          "title": "Google brengt Clear Calling-functie voor Pixel 7-telefoons uit",
+          "imageUrl": "https://tweakers.net/i/f4816RmTwuD7cXeY1Gu18SBx82g=/134x134/filters:strip_icc():strip_exif()/i/2005405468.jpeg?f=meta"
+        },
+        {
+          "id": "https://tweakers.net/nieuws/204162",
+          "author": "Yannick Spinner",
+          "description": "Techfabrikant OnePlus werkt samen met toetsenbordmaker Keychron aan een 'volledig aanpasbaar' mechanisch toetsenbord. Er moeten verschillende keycaps en mechanische switches voor het toetsenbord beschikbaar komen. Er is nog geen releasedatum of prijs gedeeld.",
+          "link": "https://tweakers.net/nieuws/204162/oneplus-werkt-met-keychron-aan-mechanisch-toetsenbord.html",
+          "publishedOn": "2022-12-05T16:44:28.000Z",
+          "wordCount": null,
+          "title": "OnePlus werkt met Keychron aan mechanisch toetsenbord",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/204158",
+          "author": "Daan van Monsjou",
+          "description": "CD Projekt RED stopt in 2024 met het uitbrengen van nieuwe content voor online kaartgame Gwent. De studio komt volgend jaar nog met nieuwe kaarten en e-sporttoernooien rondom het spel, maar houdt daar in 2024 mee op. Gwent blijft na die tijd wel online.",
+          "link": "https://tweakers.net/nieuws/204158/cd-projekt-red-brengt-vanaf-2024-geen-nieuwe-content-meer-uit-voor-gwent.html",
+          "publishedOn": "2022-12-05T15:40:36.000Z",
+          "wordCount": null,
+          "title": "CD Projekt RED brengt vanaf 2024 geen nieuwe content meer uit voor Gwent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/204154",
+          "author": "Daan van Monsjou",
+          "description": "Een Italiaanse webwinkel heeft een webpagina voor de GeForce RTX 4070 Ti online gezet. De winkel toont een countdown voor een ASUS TUF-kaart, die afloopt op 5 januari. De gpu, die eerder werd aangekondigd als de RTX 4080 12GB, zou tijdens de CES aangekondigd worden.",
+          "link": "https://tweakers.net/nieuws/204154/italiaanse-webwinkel-nvidia-geforce-rtx-4070-ti-komt-begin-januari-uit.html",
+          "publishedOn": "2022-12-05T14:33:47.000Z",
+          "wordCount": null,
+          "title": "Italiaanse webwinkel: Nvidia GeForce RTX 4070 Ti komt begin januari uit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/204144",
+          "author": "Mark Hendrikman",
+          "description": "De creative director van Halo Infinites multiplayermodus is vertrokken bij ontwikkelaar 343 Industries. Het is het derde kopstuk dat de studio verlaat in een periode van slechts enkele maanden.",
+          "link": "https://tweakers.net/nieuws/204144/hoofd-multiplayerontwerp-halo-infinite-ontwikkelaar-vertrekt-bij-studio.html",
+          "publishedOn": "2022-12-05T13:56:51.000Z",
+          "wordCount": null,
+          "title": "Hoofd multiplayerontwerp Halo Infinite-ontwikkelaar vertrekt bij studio",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/204150",
+          "author": "Daan van Monsjou",
+          "description": "Nvidia heeft de adviesprijzen van zijn GeForce RTX 4090 en 4080 Founders Editions verlaagd in Europa. Het betreft verlagingen van ongeveer 5 procent. Vermoedelijk doet het bedrijf dat vanwege de waardestijging van de euro ten opzichte van de dollar.",
+          "link": "https://tweakers.net/nieuws/204150/nvidia-verlaagt-prijzen-geforce-rtx-4090-en-4080-founders-editions-met-5-procent.html",
+          "publishedOn": "2022-12-05T13:37:01.000Z",
+          "wordCount": null,
+          "title": "Nvidia verlaagt prijzen GeForce RTX 4090 en 4080 Founders Editions met 5 procent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/62654",
+          "author": "Bart van Klaveren",
+          "description": "Versie 1.18 van Core Temp is uitgekomen. Dit kleine, gratis programma kan de processor van de computer identificeren en in de gaten houden. Zo laat Core Temp onder meer de temperatuur en werkdruk van de afzonderlijke cores zien. Op deze pagina is een lijst van alle ondersteunde processors te vinden. De verzamelde informatie wordt in een log weggeschreven, zodat deze later in een grafiek kan worden gezet, bijvoorbeeld in Excel. Ook is het mogelijk om de processor via een Android- of Windows Phone-app in de gaten te houden. In versie 1.18 zijn de volgende veranderingen en verbeteringen aangebracht: New:",
+          "link": "https://tweakers.net/downloads/62654/core-temp-118.html",
+          "publishedOn": "2022-12-05T13:32:41.000Z",
+          "wordCount": null,
+          "title": "Core Temp 1.18",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/204152",
+          "author": "Arnoud Wokke",
+          "description": "Stack Overflow verbiedt het gebruik van tekstgenerator ChatGPT voor antwoorden op de site. Volgens de site zijn de antwoorden te vaak onjuist, terwijl gebruikers kunnen denken dat de antwoorden wel kloppen.",
+          "link": "https://tweakers.net/nieuws/204152/stack-overflow-verbiedt-gebruik-van-ai-tool-chatgpt-voor-antwoorden.html",
+          "publishedOn": "2022-12-05T13:21:52.000Z",
+          "wordCount": null,
+          "title": "Stack Overflow verbiedt gebruik van AI-tool ChatGPT voor antwoorden",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/204148",
+          "author": "Arnoud Wokke",
+          "description": "Foxconn zou eind december of in januari weer op volledige capaciteit kunnen draaien bij zijn fabriek in het Chinese Zhengzou. De fabriek was afgelopen tijd niet volledig beschikbaar door lockdowns vanwege corona.",
+          "link": "https://tweakers.net/nieuws/204148/foxconn-denkt-eind-december-weer-op-volledige-capaciteit-te-draaien.html",
+          "publishedOn": "2022-12-05T13:12:55.000Z",
+          "wordCount": null,
+          "title": "'Foxconn denkt eind december weer op volledige capaciteit te draaien'",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/62652",
+          "author": "Bart van Klaveren",
+          "description": "JetBrains brengt verschillende ontwikkelomgevingen uit, zoals CLion gericht op C en C++, DataGrip gericht op sql, PhpStorm gericht op php en IntelliJ Idea gericht op Java. IntelliJ Idea biedt slimme codecompletion, deep static analysis, intelligent refactorings, een debugger en een testrunner, en kan ook overweg met Kotlin, Groovy, Coffee- en Actionscript. Voor een overzicht van de mogelijkheden verwijzen we naar deze pagina. IntelliJ Idea is beschikbaar in twee smaken, een gelicentieerde Ultimate-smaak met meer functionaliteit en een gratis opensource-Community-smaak. Voor de Ultimate-smaak zal voor zakelijk en thuisgebruik betaald moeten worden, maar als de software wordt gebruikt voor onderwijs of niet-commerciële opensourceprojecten, is de licentie gratis. JetBrains heeft kort geleden IntelliJ Idea 2022.3 uitgebracht en de belangrijkste veranderingen die daarin zijn aangebracht zijn hieronder voor je op een rijtje gezet. Key updates",
+          "link": "https://tweakers.net/downloads/62652/intellij-idea-20223.html",
+          "publishedOn": "2022-12-05T13:12:11.000Z",
+          "wordCount": null,
+          "title": "IntelliJ IDEA 2022.3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/62660",
+          "author": "Bart van Klaveren",
+          "description": "Versie 22.3.0 van DBeaver is uitgekomen. Met dit programma kunnen databases worden beheerd. Het kan onder andere query's uitvoeren en data tonen, filteren en bewerken. Ondersteuning voor de bekende databases, zoals MySQL, Oracle, DB2, SQL Server, PostgreSQL, Firebird en SQLite, is aanwezig. Het is verkrijgbaar in een opensource-CE-uitvoering en drie verschillende commerciële uitvoeringen. Deze voegen onder meer ondersteuning voor verschillende nosql-databases toe, zoals MongoDB, Apache Cassandra en Apache Hive, en bevatten verder extra plug-ins en jdbc-drivers. De changelog voor deze uitgave ziet er als volgt uit: Changes in DBeaver version 22.3.0",
+          "link": "https://tweakers.net/downloads/62660/dbeaver-2230.html",
+          "publishedOn": "2022-12-05T13:00:58.000Z",
+          "wordCount": null,
+          "title": "DBeaver 22.3.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/62656",
+          "author": "Bart van Klaveren",
+          "description": "Versie 0.20.2 van FreeCAD is uitgekomen. FreeCAD is een gratis en opensource Computer Aided Design-programma en is primair bedoeld voor werktuigbouwkundige ontwerpen, maar kan ook prima voor elektronische ontwerpen of in de architectuur worden gebruikt. Versie 0.20.2 is een zogenaamde bugfix-release en deze moet de volgende problemen verhelpen: Addon Manager fixes:",
+          "link": "https://tweakers.net/downloads/62656/freecad-0202.html",
+          "publishedOn": "2022-12-05T12:53:01.000Z",
+          "wordCount": null,
+          "title": "FreeCAD 0.20.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/204146",
+          "author": "Arnoud Wokke",
+          "description": "Beginnende smartphonefabrikant Nothing heeft tot nu toe 500.000 exemplaren verkocht van de Phone (1). Dat zegt oprichter Carl Pei in een interview. Daarmee heeft de fabrikant een marktaandeel van vermoedelijk minder dan 0,1 procent.",
+          "link": "https://tweakers.net/nieuws/204146/nothing-heeft-500000-exemplaren-geleverd-van-phone-1.html",
+          "publishedOn": "2022-12-05T11:33:27.000Z",
+          "wordCount": null,
+          "title": "Nothing heeft 500.000 exemplaren geleverd van Phone (1)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/204134",
+          "author": "Arnoud Wokke",
+          "description": "Xiaomi gaat vermoedelijk de primaire camera van de 13 Ultra-smartphone voorzien van gimbalstabilisatie. Dat claimt een leaker. Het zou om dezelfde 1\"-camerasensor gaan van 120 vierkante millimeter als bij voorganger 12S Ultra. Die kwam nooit uit in Europa.",
+          "link": "https://tweakers.net/nieuws/204134/gerucht-xiaomi-13-ultra-krijgt-gimbalstabilisatie.html",
+          "publishedOn": "2022-12-05T10:21:39.000Z",
+          "wordCount": null,
+          "title": "Gerucht: Xiaomi 13 Ultra krijgt gimbalstabilisatie",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/204132",
+          "author": "Daan van Monsjou",
+          "description": "Epic Games introduceert Chapter 4 van battleroyalegame Fortnite. Hiermee stapt de game over op Unreal Engine 5.1, waarmee Fortnite onder meer ondersteuning krijgt voor grafische features als Nanite, Lumen en Temporal Super Resolution. Fortnite Chapter 4 is vanaf nu beschikbaar.",
+          "link": "https://tweakers.net/nieuws/204132/epic-games-kondigt-fortnite-chapter-4-aan-met-unreal-engine-51-nanite-en-lumen.html",
+          "publishedOn": "2022-12-05T10:17:34.000Z",
+          "wordCount": null,
+          "title": "Epic Games kondigt Fortnite Chapter 4 aan met Unreal Engine 5.1, Nanite en Lumen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/204130",
+          "author": "Daan van Monsjou",
+          "description": "AMD introduceert mogelijk verschillende nieuwe Ryzen 7000-desktopprocessors tijdens de CES in januari. Het bedrijf zou met een Ryzen 9 7900, Ryzen 7 7700 en Ryzen 5 7600 komen, alle drie zonder 'X'-achtervoegsel. De processors moeten op dinsdag 10 januari uitkomen.",
+          "link": "https://tweakers.net/nieuws/204130/gerucht-amd-brengt-ryzen-9-7900-ryzen-7-7700-en-ryzen-5-7600-in-januari-uit.html",
+          "publishedOn": "2022-12-05T09:11:30.000Z",
+          "wordCount": null,
+          "title": "Gerucht: AMD brengt Ryzen 9 7900, Ryzen 7 7700 en Ryzen 5 7600 in januari uit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/204128",
+          "author": "Arnoud Wokke",
+          "description": "De onaangekondigde DJI Mini 3-drone lijkt al in de schappen te liggen in een Amerikaanse winkel. De Chinese dronefabrikant zou de goedkopere versie van de Mini 3 Pro deze week willen presenteren.",
+          "link": "https://tweakers.net/nieuws/204128/onaangekondigde-dji-mini-3-drone-lijkt-al-in-winkel-te-liggen.html",
+          "publishedOn": "2022-12-05T08:37:59.000Z",
+          "wordCount": null,
+          "title": "Onaangekondigde DJI Mini 3-drone lijkt al in winkel te liggen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/204126",
+          "author": "Arnoud Wokke",
+          "description": "Google lijkt de installatie van updates op Android met Seamless Updates sneller te willen maken met twee technieken. De installatie van updates op de achtergrond duurt nu bij veel gebruikers lang en Google claimt dat het sneller kan.",
+          "link": "https://tweakers.net/nieuws/204126/google-lijkt-installatie-updates-op-android-sneller-te-willen-maken.html",
+          "publishedOn": "2022-12-05T07:26:13.000Z",
+          "wordCount": null,
+          "title": "Google lijkt installatie updates op Android sneller te willen maken",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/204124",
+          "author": "Arnoud Wokke",
+          "description": "Apple stelt de release van zijn VR-headset uit tot de tweede helft van volgend jaar. Dat zegt analist Ming-Chi Kuo, die vaak veel informatie heeft over onaangekondigde Apple-producten. De release zou eerst in het voorjaar plaatsvinden.",
+          "link": "https://tweakers.net/nieuws/204124/ming-chi-kuo-apple-stelt-release-vr-headset-uit.html",
+          "publishedOn": "2022-12-05T06:29:14.000Z",
+          "wordCount": null,
+          "title": "Ming-Chi Kuo: Apple stelt release VR-headset uit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/nieuws/204122",
+          "author": "Arnoud Wokke",
+          "description": "De leveringen van goedkope smartwatches zijn afgelopen tijd fors gestegen. Dat concludeert analistenbureau Counterpoint, die leveringen van alle fabrikanten in de gaten houdt. Dat komt vooral door een forse stijging in India.",
+          "link": "https://tweakers.net/nieuws/204122/analistenbureau-wereldwijd-stijgen-leveringen-goedkope-smartwatches.html",
+          "publishedOn": "2022-12-05T06:16:35.000Z",
+          "wordCount": null,
+          "title": "Analistenbureau: wereldwijd stijgen leveringen goedkope smartwatches",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/reviews/10662",
+          "author": "Friso Weijers",
+          "description": "Welke monitor kun je nu het best kopen? Voor deze BBG zochten we naar de beste betaalbare schermen, goedkope gamingschermen, USB-C-monitoren en de ultieme superwides.",
+          "link": "https://tweakers.net/reviews/10662/monitor-best-buy-guide-december-2022.html",
+          "publishedOn": "2022-12-05T05:00:00.000Z",
+          "wordCount": null,
+          "title": "Monitor Best Buy Guide - December 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tweakers.net/downloads/62650",
+          "author": "Bart van Klaveren",
+          "description": "Versie 11.0 van Umbraco is kort geleden uitgekomen. Umbraco is een contentmanagementsysteem voor het bewerken en beheren van dynamische webpagina's. Het geheel is geschreven in C# en draait op een Microsoft-infrastructuur. Er zit een positieve en proactieve community achter met ruim 50.000 geregistreerde gebruikers en ontwikkelaars en die zorgen voor een stabiele stroom aan releases. De belangrijkste veranderingen in versie 11 zijn hieronder voor je op een rijtje gezet New Property Editor: Block Grid Editor",
+          "link": "https://tweakers.net/downloads/62650/umbraco-cms-110.html",
+          "publishedOn": "2022-12-05T04:46:54.000Z",
+          "wordCount": null,
+          "title": "Umbraco CMS 11.0",
+          "imageUrl": null
+        },
+        {
           "id": "https://tweakers.net/downloads/62648",
           "author": "Bart van Klaveren",
           "description": "Versie 1.0.84 van Ventoy is uitgekomen, 1.0.83 is wegens problemen overgeslagen. Met dit opensourceprogramma kunnen zelfstartende USB-sticks worden gemaakt. De manier waarop het dat doet, is echter anders dan vergelijkbare tools. De USB-stick hoeft slechts eenmaal geprepareerd te worden en daarna kunnen net zoveel ISO-bestanden op de stick geplaatst worden als er vrije ruimte is. Ventoy maakt zelf automatisch een bootmenu aan voor de aanwezige ISO-bestanden. Ondersteuning is aanwezig voor zowel UEFI- als legacy-boot en het is getest met 1041 verschillende ISO-bestanden. De changelog voor deze uitgave ziet er als volgt uit: Changes in Ventoy 1.0.84:",
@@ -6320,76 +6630,6 @@
           "wordCount": 2699,
           "title": "Domoticz 2022.2",
           "imageUrl": "https://tweakers.net/i/MlJRtUtQ1hthhPg4NuovD5AhC6w=/134x134/filters:strip_exif()/i/2004907424.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/nieuws/203106",
-          "author": "Sabine Schults",
-          "description": "Diablo IV wordt mogelijk in december officieel onthuld tijdens The Game Awards en vervolgens in april 2023 uitgebracht. De bèta, die toegankelijk moet zijn met een pre-order, begint mogelijk in februari van volgend jaar.",
-          "link": "https://tweakers.net/nieuws/203106/gerucht-diablo-iv-verschijnt-in-april-2023.html",
-          "publishedOn": "2022-11-06T11:57:37.000Z",
-          "wordCount": 7032,
-          "title": "Gerucht: Diablo IV verschijnt in april 2023",
-          "imageUrl": "https://tweakers.net/i/Wf15wknt7Fj9mnEKj9Y18GiwzwE=/134x134/filters:strip_icc():strip_exif()/i/2005073872.jpeg?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/nieuws/203104",
-          "author": "Sabine Schults",
-          "description": "De Duitse start-up Holoride heeft een VR-platform uitgebracht voor passagiers achterin de auto. De bewegingen van de auto, waaronder accelereren, remmen en het maken van bochten, worden gesynchroniseerd met wat de gebruiker in virtual reality ziet.",
-          "link": "https://tweakers.net/nieuws/203104/duitse-start-up-brengt-vr-platform-uit-voor-passagiers-in-de-auto.html",
-          "publishedOn": "2022-11-06T10:08:57.000Z",
-          "wordCount": 4325,
-          "title": "Duitse start-up brengt VR-platform uit voor passagiers in de auto",
-          "imageUrl": "https://tweakers.net/i/_G8vrX_V1LU4rVmGT2aKV6ktozE=/134x134/filters:strip_icc():strip_exif()/i/2005435156.jpeg?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/nieuws/203102",
-          "author": "Sabine Schults",
-          "description": "Starlink gaat met ingang van december het satellietinternet van thuisgebruikers beperken wanneer klanten meer dan 1TB aan data per maand gebruiken tijdens piekuren. Na overschrijding van 1TB worden gebruikers teruggezet naar lagere snelheden.",
-          "link": "https://tweakers.net/nieuws/203102/starlink-gaat-datagebruik-boven-1tb-beperken-in-vs-en-canada.html",
-          "publishedOn": "2022-11-06T09:04:26.000Z",
-          "wordCount": 14487,
-          "title": "Starlink gaat datagebruik boven 1TB beperken in VS en Canada",
-          "imageUrl": "https://tweakers.net/i/YvM4P9ItS0mN8PHuF1v_HitKGDU=/134x134/filters:strip_exif()/i/2004366950.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/nieuws/203096",
-          "author": "Sabine Schults",
-          "description": "Microsoft is van plan om te stoppen met het aanbieden van gepersonaliseerde e-mailadressen voor gebruikers van Microsoft 365 Personal en Family. De ondersteuning stopt aan het eind van november 2023.",
-          "link": "https://tweakers.net/nieuws/203096/microsoft-gepersonaliseerde-e-mailadressen-in-365-personal-en-family-verdwijnen.html",
-          "publishedOn": "2022-11-06T08:13:46.000Z",
-          "wordCount": null,
-          "title": "Microsoft: gepersonaliseerde e-mailadressen in 365 Personal en Family verdwijnen",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/reviews/10600",
-          "author": "Hayte Hugo",
-          "description": "Sommige auto's krijgen nu 800V-accu's, waarmee ze sneller kunnen laden dan 400V-auto's. Soms laadt die 800V-auto echter juist trager. We leggen uit waarom.",
-          "link": "https://tweakers.net/reviews/10600/de-achilleshiel-van-audi-en-maserati-800v-evs-laden-soms-trager-dan-400v.html",
-          "publishedOn": "2022-11-06T05:00:00.000Z",
-          "wordCount": null,
-          "title": "[Plus] De achilleshiel van Audi en Maserati? - 800V-EV's laden soms trager dan 400V",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tweakers.net/downloads/62350",
-          "author": "Bart van Klaveren",
-          "description": "Versie 28.1.2 van OBS Studio is uitgekomen. Open Broadcaster Software Studio is opensource- en crossplatformsoftware bedoeld voor het opnemen en streamen van videobeelden van een of meer bronnen, zoals een webcam, microfoon, mediabestanden en de desktop. In versie 28 is onder meer ondersteuning voor 10-bit en hdr-video-encoding toegevoegd, is er een versie voor Apple-hardware uitgerust met een Apple Silicon-cpu en is de overstap naar Qt 6 voor de gebruikersinterface gemaakt. In versie 28.1.2 zijn de volgende twee problemen verholpen: 28.1.2 Hotfix Changes",
-          "link": "https://tweakers.net/downloads/62350/obs-studio-2812.html",
-          "publishedOn": "2022-11-06T03:49:16.000Z",
-          "wordCount": 1793,
-          "title": "OBS Studio 28.1.2",
-          "imageUrl": "https://tweakers.net/i/JQTNqZOGtrC56bzb8qqLbOOG7_U=/134x134/filters:strip_exif()/i/2004647858.png?f=meta"
-        },
-        {
-          "id": "https://tweakers.net/downloads/62348",
-          "author": "Bart van Klaveren",
-          "description": "Versie 3.7.0 van SABnzbd is uitgekomen. Met SABnzbd kunnen bestanden van usenet worden gedownload. Dit opensourceprogramma is beschikbaar voor Windows, Linux en macOS, en biedt de mogelijkheid om nzb-bestanden te laden, waarna de juiste bestanden van usenet worden geplukt. Met de ingebouwde webinterface is het mogelijk om het programma via een webbrowser te bedienen. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes",
-          "link": "https://tweakers.net/downloads/62348/sabnzbd-370.html",
-          "publishedOn": "2022-11-05T14:06:15.000Z",
-          "wordCount": 3263,
-          "title": "SABnzbd 3.7.0",
-          "imageUrl": "https://tweakers.net/i/qoevqV-lrfaIYgPkTvK9TySIZFE=/134x134/filters:strip_exif()/i/2004634808.png?f=meta"
         }
       ]
     },
@@ -6398,6 +6638,206 @@
       "feedUrl": "https://nl.pepper.com/rss/overzicht%20van%20de%20populairste%20groepen",
       "siteUrl": "https://nl.pepper.com",
       "articles": [
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/arriva-zuid-holland-samenreisdagkaart-2-tm-5-pers-van-eur-260025",
+          "author": null,
+          "description": "€9,95 - Arriva\nVan 26 november t/m 8 januari 2023: Samenreisdagkaart (2 t/m 5 pers.) voor maar 9,95 euro\nGewoon te koop bij de buschauffeur\nGezellig samen op pad rond de feestdagen? \nVan 26 november 2022 tot en met 8 januari 2023 is de extra voordelige Samenreisdagkaart weer te koop! \nVoor maar 9,95 kun je met tot wel vijf personen onbeperkt door Zuid-Holland reizen. \nDoordeweeks vanaf 9.00 uur, in het weekend de hele dag. \nVraag naar de kaart bij de buschauffeur. Betalen doe je eenvoudig met je pinpas.\nActievoorwaarden Samenreisdagkaart\nDagkaart voor minimaal 2 en maximaal 5 personen;\nGeldig op de dag van aankoop;\nHele dag geldig (doordeweeks vanaf 9.00 uur);\nGeldig en te koop in alle Arriva-bussen in Zuid-Holland;\nActieperiode: 26 november 2022 t/m 8 januari 2023.\n\nDe leukste uitstapjesIn Zuid-Holland valt genoeg te doen en te ontdekken. Op www.oppadmetarriva.nl hebben we de leukste uitstapjes voor je verzameld; van stedentrips tot natuur. Al die plekken zijn makkelijk te bereiken met de bus en … soms krijg je op vertoon van je Samenreisdagkaart nog eens extra korting!",
+          "link": "https://nl.pepper.com/aanbiedingen/arriva-zuid-holland-samenreisdagkaart-2-tm-5-pers-van-eur-260025",
+          "publishedOn": "2022-12-05T23:51:34.000Z",
+          "wordCount": 1251,
+          "title": "Arriva Zuid-Holland Samenreisdagkaart (2 t/m 5 pers.) van €",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/playboy-epaper-abonnement-voor-12-maanden-gratis-stopt-automatisch-260024",
+          "author": null,
+          "description": "Even een fake Duits adres invullen. De eerste download is al beschikbaar.\nDe tekst is in het Duits, maar het gaat toch om de plaatjes.  (:I",
+          "link": "https://nl.pepper.com/aanbiedingen/playboy-epaper-abonnement-voor-12-maanden-gratis-stopt-automatisch-260024",
+          "publishedOn": "2022-12-05T23:49:30.000Z",
+          "wordCount": 1095,
+          "title": "Duitse Playboy ePaper-abonnement voor 12 maanden gratis (stopt automatisch) bij Abo24.de",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/actie-rrreis-bussen-in-overijssel-en-noord-veluwe-ebs-kinderen-reizen-gratis-mee-260023",
+          "author": null,
+          "description": "Actie: kinderen reizen gratis mee\nReis je met kinderen onder de 12 jaar? Dan hebben we goed nieuws. \nKinderen mogen vanaf 11 december tot en met 5 maart 2023 gratis mee \nmet de elektrische RRReis bussen in Overijssel en Noord-Veluwe. \nGa je op bezoek, naar de stad of gezellig een dagje uit met het hele gezin? Neem dan voordelig de RRReis-bus: Het openbaar vervoer als aantrekkelijk alternatief voor de auto! Mensen met kind(eren) krijgen de mogelijkheid om op een veilige, comfortabele en schone manier te reizen, zonder een parkeerplaats te hoeven zoeken. Kinderen krijgen op deze manier de kans om van jongs af aan vertrouwd te raken met het openbaar vervoer.\n\nVoorwaarden:\n\nKinderen van 4 t/m 11 jaar kunnen de hele dag gratis reizen, onder begeleiding van een volwassene die zelf in het bezit i…",
+          "link": "https://nl.pepper.com/aanbiedingen/actie-rrreis-bussen-in-overijssel-en-noord-veluwe-ebs-kinderen-reizen-gratis-mee-260023",
+          "publishedOn": "2022-12-05T23:40:05.000Z",
+          "wordCount": 1455,
+          "title": "Actie RRReis-bussen in Overijssel en Noord-Veluwe (EBS) : kinderen reizen gratis mee",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/bosch-mum5-startline-mum54r00-keukenmachine-260022",
+          "author": null,
+          "description": "€117,99 - Amazon.nl\nLaagste prijs elders: €175\nDe Bosch MUM5 StartLine MUM54R00 keukenmachine heeft een krachtige 900 wattmotor en 7 snelheden met momentschakeling. Zo kneed je zelfs de meest taaie deegwaren binnen een mum van tijd. De grote roestvrijstalen mengkom heeft een volume van 3,9 liter. Hierin kan je ongeveer 2 kg cakebeslag en 1,5 kg gistdeeg kwijt. Met slechts 1 druk op de knop verplaats je de multifunctionele arm eenvoudig in de juiste positie. Mede dankzij de automatische parkeerstand en het transparante anti-spatdeksel is de mengkom gemakkelijk te vullen. Met behulp van 3D PlanetaryMixing beweegt het mengsysteem van de keukenmachine in 3 dimensies tegelijk. Zo worden ook de ingrediënten aan de bovenkant van de mengkom meegenomen. Bij het terugschakelen naar een lagere snelheidsstand bouwt de Bosch MUM54R00 gelijkmatig snelheid af om spetteren te voorkomen. Wil je ook beslag maken of eiwit kloppen? De keukenmachine wordt geleverd met een roestvrijstalen kneedhaak, roergarde en klopgarde. De patisserieset berg je snel op in de accessoirestas die precies in de mixkom past. Zo heb je alle tools direct bij de hand. Alle accessoires van de Bosch MUM54R00 keukenmachine zijn vaatwasmachinebestendig.\nInhoud:\n\nHandleiding(1,76 MB)\nRoergarde\nKlopgarde\nKneedhaak\nAntispatdeksel\nOpbergtas voor roer- en klopgarde en kneedhaak",
+          "link": "https://nl.pepper.com/aanbiedingen/bosch-mum5-startline-mum54r00-keukenmachine-260022",
+          "publishedOn": "2022-12-05T23:39:47.000Z",
+          "wordCount": 1263,
+          "title": "Bosch MUM5 StartLine MUM54R00 Keukenmachine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/allgo-bus-almere-winter-wonder-ticket-voor-eur1-260021",
+          "author": null,
+          "description": "€1\nWinter Wonder Ticket €1\nStop een beetje magie in je winter met het Winter Wonder Ticket van allGo. \nOf je nu naar de stad, de bioscoop of vrienden gaat: \npak de bus voor maar € 1,- en geniet van magische wintertripjes.\nWinter Wonder Ticket voor al jouw magische tripjes\nDit half uur kaartje is op doordeweeks dagen te gebruiken na 18.00 uur \nen in het weekend de gehele dag. \nDit actieticket is van vrijdag 2 december 2022 t/m zondag 8 januari 2023 verkrijgbaar in de allGo app. \nLet op: bij een Ideal betaling krijg je momenteel een foutmelding als je vanuit de bankomgeving terugkeert naar de allGo app. De betaling is echter wel goed gegaan. Na enkele minuten staat het ticket in je wallet.\nDe actievoorwaarden op een rij:\nDe actietickets zijn alleen te koop en te gebruiken van 2 december 2022…",
+          "link": "https://nl.pepper.com/aanbiedingen/allgo-bus-almere-winter-wonder-ticket-voor-eur1-260021",
+          "publishedOn": "2022-12-05T23:28:55.000Z",
+          "wordCount": 1541,
+          "title": "allGo Bus Almere Winter Wonder Ticket voor €1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/tefal-ultimum-pannenset-2x-koekenpan-1x-wok-260020",
+          "author": null,
+          "description": "€59,95 - iBOOD\nTefal Ultimum Pannenset | 2x Koekenpan & 1x Wok\nHoogwaardige coating\nVoorzien van Thermo Signal \nVoor alle hittebronnen en inductie\nHet fingerspitzengefühl, je hebt het wel een beetje nodig tijdens het koken. En als jij nou denkt: dat krijg ik nooit! Wacht maar tot je deze pannen in je handen hebt.\nHaal de chef-kok in je naar boven met de Ultimum pannenset van Tefal. En dankzij de hoogwaardige coating en duurzame roestvaststalen handgrepen geniet je van langdurige prestaties.\nLekker bakken, lekker wokken!\nDe Tefal Ultimum pannenset bestaan uit twee koekenpannen en een wokpan. De pannen hebben een ronde vorm, wat ze ideaal maakt voor het bakken en wokken van groente, vlees en vis. De pannen zijn erg stevig en stabiel dankzij de roestvaststalen handgrepen. Door de hoogwaardige coating bak en wok je eenvoudig zonder vet of toegevoegde olie. Dat zorgt natuurlijk voor een gezond resultaat en een heerlijke smaak.\nDe pannen zijn geschikt voor alle warmtebronnen, inclusief inductie. Daarnaast zijn ze recylcebaar en dus milieuvriendelijk! \nThermo Signal\nWat de pannen al helemaal ideaal maakt, is de ThermoSignal. De Thermo-Signal in de bodem van de pan geeft aan wanneer de ideale baktemperatuur is bereikt. Op deze temperatuur blijven texturen, kleuren en smaken behouden.\nVan voorgerecht tot dessert, geniet van de heerlijke perfecte resultaten met de Tefal Ultimum pannenset!\nMerk: Tefal\nType: Ultimum Pannenset\nGarantie: 2 jaar via iBOOD / 10 jaar via Tefal\nHoogwaardige coating\nVoorzien van Thermo Signal \nVoor alle hittebronnen en inductie\nPannenset\nWokpan: 28 cm\nKoekenpan: 24 cm \nKoekenpan: 28 cm\n\nKenmerken:\nMateriaal: roestvast staal\nWarmtebron: gas, elektrisch, keramisch, inductie, halogeen\nGeschikt voor gebruik in de oven: ja tot 250 °C \nVaatwasmachinebestendig\nAfwerking binnenzijde: mirror effect stainless steel\nAfwerking buitenzijde: spiegelgepolijst roestvast staal\nType handgreep: vast\nGietrand\nThermo-Spot",
+          "link": "https://nl.pepper.com/aanbiedingen/tefal-ultimum-pannenset-2x-koekenpan-1x-wok-260020",
+          "publishedOn": "2022-12-05T23:26:04.000Z",
+          "wordCount": 1367,
+          "title": "Tefal Ultimum Pannenset | 2x Koekenpan & 1x Wok",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/powera-wireless-nintendo-switch-controller-260019",
+          "author": null,
+          "description": "€35,57 - Amazon.de\nPowerA Wireless Nintendo Switch controller\nLaagste prijs elder 52,99\nNiet op voorraad maar wel te bestellen.",
+          "link": "https://nl.pepper.com/aanbiedingen/powera-wireless-nintendo-switch-controller-260019",
+          "publishedOn": "2022-12-05T23:20:27.000Z",
+          "wordCount": 1110,
+          "title": "PowerA Wireless Nintendo Switch controller",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/gratis-999-games-verjaardagskalender-260018",
+          "author": null,
+          "description": "999 Games\n\nZolang de voorraad strekt\nMaximaal 1 verjaarskalender per persoon / bestelling\nBetaal alleen de verzendkosten. Als je samen met deze kalender op een totaalbedrag van meer dan € 29 uitkomt, worden binnen Nederland geen verzendkosten gerekend. Voor België worden geen verzendkosten gerekend bij bestellingen van meer dan € 39.\nAlleen geldig op www.999games.nl\n\n\"Vandaag kun je de enige echte 999 Games verjaardagskalender bestellen! Onze verjaardagskalender bevat foto’s en illustraties uit 30 jaar bordspellengeschiedenis. Om de kalender te bestellen betaal je alleen de verzendkosten. Verder is deze dus helemaal gratis. Wees er echter wel snel bij, want op = op\"",
+          "link": "https://nl.pepper.com/aanbiedingen/gratis-999-games-verjaardagskalender-260018",
+          "publishedOn": "2022-12-05T23:17:37.000Z",
+          "wordCount": 1196,
+          "title": "Gratis 999 games verjaardagskalender",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/twents-winter-wonder-ticket-vanaf-eur1-stad-of-eur3-streek-260017",
+          "author": null,
+          "description": "€3\nWinter Wonder Ticket vanaf €1\nStop een beetje magie in je winter met het Winter Wonder Ticket van Twents. \nOf je nu naar de stad, de bioscoop of vrienden gaat: \npak de bus vanaf € 1,- en geniet van magische wintertripjes.\nWinter Wonder Tickets voor al jouw magisch tripjes...\nDeze tickets zijn verkrijgbaar bij de chauffeur \nop doordeweekse dagen na 18.00 uur en in het weekend de gehele dag. \nWanneer je overstapt op een andere bus heb je een nieuw kaartje nodig.\nWinterticket stad € 1,-                                            \nAlleen geldig bij Twents voor een rit binnen de stad Almelo, Hengelo of Enschede. \nWinterticket streek € 3,- \n        Geldig bij alle Twents bussen. \nTot wanneer geldt de actie?\nDe actie loopt van 1 december t/m 8 januari 2023.\n\nDe actievoorwaarden op een rij:\nActie loopt t/m 8 januari.\nDe Winter Wonder Tickets zijn alleen te koop en te gebruiken bij Twents.\nDe wintertickets Stad zijn geldig bij Twents voor een rit binnen de stad Almelo, Enschede en Hengelo.\nDe wintertickets streek zijn geldig in alle Twents-bussen.\nWanneer je overstapt op een andere bus heb je een nieuw kaartje nodig.\nNiet geldig in de regiotaxi, buurt- of flexbus\nDe algemene vervoervoorwaarden van Syntus/Keolis zijn van toepassing op deze actie.\nSyntus/Keolis kan, naar eigen inzicht en zonder voorafgaande kennisgeving, gedurende de actielooptijd de actievoorwaarden wijzigen en/of de actie stoppen.\n\nPrijsvergelijking\ntwents.nl/vervoerbewijzen/ritkaart-dagkaart\n\nHet tarief van de RITkaart bedraagt € 2,45. De prijs van jouw reis is afhankelijk van de gereisde afstand. Hoe verder je reist, des te meer kaartjes van € 2,45 je moet hebben. Je betaalt dan vervolgens € 2,45, € 4,90, € 7,35, € 9,80 of € 12,25.",
+          "link": "https://nl.pepper.com/aanbiedingen/twents-winter-wonder-ticket-vanaf-eur1-stad-of-eur3-streek-260017",
+          "publishedOn": "2022-12-05T23:16:41.000Z",
+          "wordCount": 1361,
+          "title": "Twents Winter Wonder Ticket vanaf €1 (Stad) of €3 (Streek)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/princess-airfryer-xl-35-liter-met-receptenboek-260016",
+          "author": null,
+          "description": "€62,99 - Amazon.nl\nLaagste prijs elders: €99,99\nKenmerken:\nGrill, rooster en bak uw favoriete gerechten met minder calorieën, maar behoud dezelfde smaak en textuur als een conventionele friteuse\nHoge snelheid lucht conventie technologie maakt het mogelijk om ingrediënten te bereiden met alleen hete lucht\nGemakkelijk te gebruiken, instelbare temperatuurregeling, geïntegreerde timer en digitaal bedieningspaneel\nHet grote volume (3,5L) biedt genoeg frites voor 5 porties in één bakbeurt\nBak knapperige frietjes en krokante kip in een handomdraai\n10 Automatische programma's\nDigital Touch Screen\nInhoud van 3,5 liter",
+          "link": "https://nl.pepper.com/aanbiedingen/princess-airfryer-xl-35-liter-met-receptenboek-260016",
+          "publishedOn": "2022-12-05T23:13:47.000Z",
+          "wordCount": 1139,
+          "title": "Princess 182031 Digital Aerofryer XL 3.5 liter met Receptenboek",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/syntus-utrecht-winter-wonder-ticket-vanaf-eur1-260014",
+          "author": null,
+          "description": "€1 - syntus\nStop een beetje magie in je winter met het Winter Wonder Ticket van Syntus Utrecht \nOf je nu naar de stad, de bioscoop of vrienden gaat: pak de bus vanaf slechts € 1,- \nen geniet van magische wintertripjes.\nWinter Wonder Tickets voor al jouw magisch tripjes...\nDeze tickets zijn verkrijgbaar bij de chauffeur op \ndoordeweekse dagen na 18.00 uur en in het weekend de gehele dag.\nWinterticket 1-2 zones €1,-60 minuten geldig\nWinterticket 3-4 zones €2,-90 minuten geldig\nWinterticket 5-6 zones €3,-120 minuten geldig\nWinterticket >7 zones €4,-150 minuten geldig\nTot wanneer geldt de actie?\nDe actie loopt van 1 december t/m 8 januari 2023.\nDe actievoorwaarden op een rij:\nHet Winter Wonder Ticket betreft een OV reiskaart van 1-2, 3-4, 5-6 of 7 zones of meer\nActie loopt t/m 8 januari 2022.\n…",
+          "link": "https://nl.pepper.com/aanbiedingen/syntus-utrecht-winter-wonder-ticket-vanaf-eur1-260014",
+          "publishedOn": "2022-12-05T22:54:23.000Z",
+          "wordCount": 1470,
+          "title": "Syntus Utrecht Winter Wonder Ticket vanaf €1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/royal-catering-40l-brouwketel-260013",
+          "author": null,
+          "description": "€264\nComplete brouwketel type (RIMS) van 40L geschikt voor beginnende en gevorderde bierbrouwers. Inclusief controller. Als je je inschrijft voor de nieuwsbrief krijg je nog 15 euro korting. Pas op brouwen is een verslavende hobby. Je hebt om te starten minimaal nog een koeler, roerlepel, vergistingsvat, ingrediënten, en desinfectie spullen nodig.",
+          "link": "https://nl.pepper.com/aanbiedingen/royal-catering-40l-brouwketel-260013",
+          "publishedOn": "2022-12-05T21:59:32.000Z",
+          "wordCount": 1080,
+          "title": "Royal catering 40l brouwketel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/philips-hue-starterkit-white-and-color-ambiance-2-x-9w-e27-1100lm-bridge-smart-button-260008",
+          "author": null,
+          "description": "€99,99 - Bol.com\nLet op: externe verkoper (maar de reviews zien er prima / goed uit).\nNet zo goedkoop als dezelfde set zonder smart button. \nExact dezelfde set vergelijken is lastig, lijkt slecht verkrijgbaar maar bij Philips zelf betaal je de jackpot: 149,99",
+          "link": "https://nl.pepper.com/aanbiedingen/philips-hue-starterkit-white-and-color-ambiance-2-x-9w-e27-1100lm-bridge-smart-button-260008",
+          "publishedOn": "2022-12-05T21:55:58.000Z",
+          "wordCount": 1197,
+          "title": "Philips Hue starterkit - White and Color Ambiance - 2 x 9W - E27 - 1100lm + Bridge & Smart Button",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/win-je-tankbedrag-terug-met-de-christmas-cashback-actie-260012",
+          "author": null,
+          "description": "Maak in de periode van donderdag 1 december t/m zaterdag 31 december 2022 dagelijks kans om te winnen!\nDoe mee aan de actie door met jouw ViaAVIA account in te loggen en je tankbon te uploaden. De tankbon kan alleen worden geüpload op de dag van tanken.\nBen jij één van deze winnaars? Dan krijg je het getankte bedrag van ons terug in de vorm van een prepaid AVIA tankkaart. Als dat geen mooi cadeau is?! Bewaar de komende tijd jouw AVIA tankbon dus goed en doe mee!\nJe mag iedere dag meedoen aan de actie als je wil.",
+          "link": "https://nl.pepper.com/aanbiedingen/win-je-tankbedrag-terug-met-de-christmas-cashback-actie-260012",
+          "publishedOn": "2022-12-05T21:55:33.000Z",
+          "wordCount": 1179,
+          "title": "Win je tankbedrag terug met de Christmas Cashback-actie!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/gratis-fossil-smartwatch-bij-jbl-partybox-710-260010",
+          "author": null,
+          "description": "€669 - JBL\nBij JBL krijg je momenteel gratis een Fossil Gen 6 Smartwatch en extra bandje als je een Partybox 710 koopt. JBL heeft dezelfde prijs als alle andere retailers maar inclusief gratis horloge. \nMoet wel een code voor gebruikt worden bij checkout. JBLFOSSIL",
+          "link": "https://nl.pepper.com/aanbiedingen/gratis-fossil-smartwatch-bij-jbl-partybox-710-260010",
+          "publishedOn": "2022-12-05T21:49:15.000Z",
+          "wordCount": 1177,
+          "title": "Gratis Fossil Gen 6 Smartwatch bij JBL Partybox 710",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/lidl-cien-cellular-beauty-verzorgingsproducten-260009",
+          "author": null,
+          "description": "Lidl\nVoor de liefhebbers is deze lijn vanaf vandaag weer verkrijgbaar in de winkels van de Lidl. Ik gebruik zelf de serum en nachtcrème al jaren, big fan! \nDe Cien Cellular Beauty lijn, een verzorgingslijn dat heel erg lijkt op de peperdure crème van La Prairie (die 100x zo duur is!).\nAlleen te koop in de winkel.\nCien Cellular Beauty dagcrème – € 3,99\nCien Cellular Beauty nachtcrème– € 3,99\nCien Cellular Beauty serum – € 3,99\nCien Cellular Beauty oogmousse – € 2,99",
+          "link": "https://nl.pepper.com/aanbiedingen/lidl-cien-cellular-beauty-verzorgingsproducten-260009",
+          "publishedOn": "2022-12-05T21:47:13.000Z",
+          "wordCount": 1171,
+          "title": "Lidl Cien Cellular Beauty verzorgingsproducten",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/gratis-tijdschriften-lezen-en-boeken-luisteren-in-het-ov-brabant-260007",
+          "author": null,
+          "description": "Lees de hele maand december GRATIS en zonder voorwaarden de leukste tijdschriften en boeken in alle bussen en op alle haltes in Brabant (met uitzondering van de buurtbussen).  \n&C, Cosmo, Quote, Elsevier, Weekend: met tegen de 100 tijdschriften en vele boeken is er voor elk wat wils. Liever je ogen even dicht? Ook dat kan, Wait heeft de mooiste luisterboeken voor je!\nHoe werkt het?Na het downloaden van de app hoef je geen account aan te maken. Zet je locatievoorziening van je telefoon aan, open de app en klik op het OV icoon. De app herkent vanzelf of je bij één van de 2.500 Wait locaties bent, waaronder het gehele OV. Het maakt niet uit of je zit te wachten bij de halte of onderweg bent met de trein of bus.\nJe kunt al op ruim 2000 plekken deze digitale leesmap gebruiken\nwait.nl/leesmap-bezorgen/\nOverzicht van Luisterboeken, Tijdschriften en Boeken:\nwait.nl/ontdek-de-app/content\nbravo.info/nieuws/gratis-tijdschriften-en-luisterboeken-het-ov-december",
+          "link": "https://nl.pepper.com/aanbiedingen/gratis-tijdschriften-lezen-en-boeken-luisteren-in-het-ov-brabant-260007",
+          "publishedOn": "2022-12-05T21:31:17.000Z",
+          "wordCount": 1292,
+          "title": "Gratis tijdschriften lezen en boeken luisteren in het OV van Bravo & Hermes (Wait dé digitale leesmap)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/bij-getir-010-cent-voor-een-zak-frolic-260006",
+          "author": null,
+          "description": "€0,10\nFout bij getir",
+          "link": "https://nl.pepper.com/aanbiedingen/bij-getir-010-cent-voor-een-zak-frolic-260006",
+          "publishedOn": "2022-12-05T20:40:09.000Z",
+          "wordCount": 1011,
+          "title": "Bij getir 10 cent voor een zak frolic hondenvoer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/plus-sparen-voor-boodschappenpakket-260005",
+          "author": null,
+          "description": "PLUS\nBij PLUS kun je weer sparen voor het GRATIS Boodschappenpakket ter waarde van ruim €55,-. Een mooi cadeau voor jezelf of leuk om weg te geven. \nBoodschappen moeten we toch doen, en als er dan een boodschappenpakket bij te krijgen is, is het alleen maar mooi. Ook al zijn het producten bij die je zelf niet veel gebruikt, kun je ze altijd nog weggeven!\n\nSparen kan van 4 december 2022 tot en met 25 februari 2023. Bij elke € 10,-* euro aan boodschappen krijg je dan één zegel. Digitaal sparen kan natuurlijk ook, dan krijg je direct 3 extra zegels cadeau. Bij 65 zegels lever je je volle spaarkaart in en neem je jouw GRATIS Boodschappenpakket direct mee! In dit pakket zitten 18 producten met een waarde van meer dan €55,-\n*Van de actie zijn uitgezonderd: geneesmiddelen, slijterij-artikelen, tabak, zuigelingenvoeding, boeken, telefoonkaarten, postzegels, cadeaubonnen, toegangstickets, loten, beltegoed, statiegeld, emballage en eventuele overige wettelijk niet toegestane artikelen.\nDeze week spaar je extra snel voor het boodschappenpakket bij onder andere:\n Een net citroenen;\n Kipkrokantschnitzels;\n Peijnenburg ontbijtkoek;\n Melkunie vla;\n Haribo of Maoam snoep;\n Fanta of Sprite;\n Alle Honig maaltijdmixen;\n Alle Robijn wasmiddel of wasverzachter!",
+          "link": "https://nl.pepper.com/aanbiedingen/plus-sparen-voor-boodschappenpakket-260005",
+          "publishedOn": "2022-12-05T20:28:53.000Z",
+          "wordCount": 1299,
+          "title": "[PLUS] Sparen voor gratis boodschappenpakket",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nl.pepper.com/aanbiedingen/tray-van-24-blikjes-pepsi-max-of-cherry-eur899-260004",
+          "author": null,
+          "description": "€8,99 - Kruidvat\nPepsi (max) of cherry blikjes bij kruidvat. Net iets meer dan 1,12 per liter. \nVoordeel van blikjes is dat er geen statiegeld op zit, je gedoseerd kan drinken dus niet zonder je het door hebt een fles leeg drinkt (heb ik zelf weleens last van) en dat er altijd prik in blijft omdat je niet in 1x een fles open maakt. (y) \nHelaas alleen in de winkels te verkrijgen. op=op\nIk weet dat niet iedereen hier fan is van Pepsi maar in mijn ogen is het wel een A merk. Mensen die er niet zo veel om geven, bij de Plus is de FirstChoice cola komende week 1+1 (:I",
+          "link": "https://nl.pepper.com/aanbiedingen/tray-van-24-blikjes-pepsi-max-of-cherry-eur899-260004",
+          "publishedOn": "2022-12-05T20:25:46.000Z",
+          "wordCount": 1203,
+          "title": "Tray van 24 blikjes Pepsi (max) of cherry €8.99",
+          "imageUrl": null
+        },
         {
           "id": "https://nl.pepper.com/aanbiedingen/twinkly-rgbw-slimme-kerstverlichting-259864",
           "author": null,
@@ -12196,206 +12636,6 @@
           "publishedOn": "2022-11-06T16:43:22.000Z",
           "wordCount": 1124,
           "title": "Carrera RC Auto/Quad - Yoshi - schaal 1:20 - 2,4 GHz",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/apple-siliconenhoesje-met-magsafe-iphone-13-inktblauw-254391",
-          "author": null,
-          "description": "€24,99 - Amazon.nl\nOp de foto's word het zwart aangegeven, maar het blauwe is in werkelijkheid enorm donker dat het bijna zwart is.",
-          "link": "https://nl.pepper.com/aanbiedingen/apple-siliconenhoesje-met-magsafe-iphone-13-inktblauw-254391",
-          "publishedOn": "2022-11-06T00:57:16.000Z",
-          "wordCount": 1105,
-          "title": "Apple Siliconenhoesje met MagSafe iPhone 13 Inktblauw",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/lego-tm-eur1999-21-gratis-bij-de-kruidvat-254384",
-          "author": null,
-          "description": "Kruidvat\nVan 8/11 t/m 20/11 zijn de Lego sets tot €19.99 2+1 gratis bij de kruidvat",
-          "link": "https://nl.pepper.com/aanbiedingen/lego-tm-eur1999-21-gratis-bij-de-kruidvat-254384",
-          "publishedOn": "2022-11-05T23:33:32.000Z",
-          "wordCount": 1093,
-          "title": "Lego t/m €19.99 2+1 gratis bij de Kruidvat",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/5-dagen-new-york-spotprijs-254386",
-          "author": null,
-          "description": "Leukste Tickets\nKortingsvoucher €549,00 \nDe deal op een rijtje\nVouchers zijn t/m 31 december 2022 te verzilveren\nReisperiode: t/m 31 maart 2023 (let op: toeslag van €150,- p.p. bij vertrek in september t/m december)\nHeen- en terugvlucht inclusief handbagage\n3 overnachtingen in een 3-sterrenhotel in Manhattan en 1 overnachting in het vliegtuig\nANVR, SGR, Calamiteitenfonds dekking\nHoe werkt het?\nBestel jouw vouchers\nGa uiterlijk 31 december 2022 naar flywise.nl\nVerzilver hier jouw unieke vouchercodes en boek de reis",
-          "link": "https://nl.pepper.com/aanbiedingen/5-dagen-new-york-spotprijs-254386",
-          "publishedOn": "2022-11-05T23:32:41.000Z",
-          "wordCount": 1125,
-          "title": "5 dagen New York spotprijs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/fairywill-elektrische-tandenborstel-met-timer-5-poetsopties-en-oplaadbaar-254388",
-          "author": null,
-          "description": "€12,50 - Dagknaller\nElders €31,04\nIn de kleuren wit of roze.\nAlleen vandaag te koop voor €12,50 inclusief verzendkosten.",
-          "link": "https://nl.pepper.com/aanbiedingen/fairywill-elektrische-tandenborstel-met-timer-5-poetsopties-en-oplaadbaar-254388",
-          "publishedOn": "2022-11-05T23:26:51.000Z",
-          "wordCount": 1134,
-          "title": "Fairywill D7 Elektrische Tandenborstel met timer, 5 poetsopties en oplaadbare accu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/brandfield-surprise-goodiebox-bij-minimaal-50-euro-254350",
-          "author": null,
-          "description": "Brandfield\nJe hebt een Surprise Goodiebox gewonnen met een waarde van maar liefst €100,- (bij een aankoop vanaf €50,-). Shop nu je favoriete merk(en) en ontvang deze Surprise Goodiebox cadeau. Er zitten altijd twéé items van topmerken in!\nGebruik de volgende code in de winkelmand:\nFALL-100 \n* OP=OP, zie je het (gratis) product niet in je winkelmand, dan is het product uitverkocht.\nJe ontvangt de Surprise Goodiebox alleen als je de code verzilverd hebt.\n** Korting op korting is niet mogelijk.",
-          "link": "https://nl.pepper.com/aanbiedingen/brandfield-surprise-goodiebox-bij-minimaal-50-euro-254350",
-          "publishedOn": "2022-11-05T23:22:42.000Z",
-          "wordCount": 1121,
-          "title": "Brandfield - Surprise Goodiebox (bij minimaal 50 euro).",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/1-kg-kruidnoten-254387",
-          "author": null,
-          "description": "€1,49 - Kruidvat\nGoedkoopste zak van Nederland.\nGeniet van deze knapperige, brosse kruidnoten. \nDe Kruidvat Kruidnoten zijn lekker snoepgoed om mee te strooien.\n\nPrijsvergelijking\n€1,49 kruidvat.nl/kruidvat-kruidnoten/p/2592101\n€1,57 jumbo.com/producten/kruidnoten-1000g-168859ZK\n€1,59 ah.nl/producten/product/wi418839/ah-kruidnoten\n€1,59 plus.nl/product/plus-kruidnoten-zak-1000-gram-262563\n€1,59 coop.nl/product/8710624315160/gwoon-Kruidnoten\n€1,59 aldi.nl/producten/pepergoedkoop/kruidnoten-2004686-1-0.article.html\n€1,59 lidl.nl/p/kruidnoten/p6605386\n€1,69 dirk.nl/boodschappen/snacks-snoep/seizoens-zoetwaren/1-de-beste-kruidnoten/79953\n€3,19 janlinders.nl/bolletje-221367.html Bolletje",
-          "link": "https://nl.pepper.com/aanbiedingen/1-kg-kruidnoten-254387",
-          "publishedOn": "2022-11-05T22:48:44.000Z",
-          "wordCount": 1126,
-          "title": "1 kg Kruidnoten",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/karcher-natdroogzuigerdecoupeer-zaagtafelmetaalbandzaag-254383",
-          "author": null,
-          "description": "Lidl\nLidl Singles day vanaf  maandag 7/11 alleen op Lidl.nl (op=op)\nVerschillende leuke aanbiedingen.\n*Gratis verzenden (vanaf €50,-) op het hele online assortiment via de kortingscode op de Lidl Plus app.\nKärcher nat/droogzuiger KDW4(1000watt) van €145,- voor €99,99\n----------------------------------\nParkside Decoupeer zaagtafel van 89,99 voor 49,99 \n120watt, voor fijn zaagwerk, toerental 500-1700 tpm, zaaghoek 0-45°\n----------------------------------\nParkside Metaalbandzaag van €129,- voor €79,99\n1100 watt toerental 0-290 tpm, verstek 0-45°\n----------------------------------\nParkside Performance Accu-slagboorschroefmachine van €99,99 voor 69,99 (Staat al op Pepper)\n-----------------------------------\nBosch stofzuiger BGBSBU1T5 serie 2\nVan €159,95 voor €99,99\nDe link naar de aanbiedingen is nu nog niet actief. Aanbieding staat wel al in de folder.",
-          "link": "https://nl.pepper.com/aanbiedingen/karcher-natdroogzuigerdecoupeer-zaagtafelmetaalbandzaag-254383",
-          "publishedOn": "2022-11-05T22:21:32.000Z",
-          "wordCount": 1230,
-          "title": "Lidl Singles day: Kärcher nat-droogzuiger / decoupeer zaagtafel / Metaalbandzaag / Bosch stofzuiger",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/brennenstuhl-reisstekkerreisadapter-reisstekkeradapter-voor-vs-aansluiting-en-eurostekker-15am-max-1875w-zwart-254382",
-          "author": null,
-          "description": "€2,19 - Amazon.nl\nBrennenstuhl Reisstekker/reisadapter (reisstekkeradapter voor VS-aansluiting en eurostekker) 15Am| Max 1875W, zwart\nLaagste prijs elders bij bol.com €7,99\n-->  \nbol.com/nl/p/brennenstuhl-reisstekker-reisadapter-kleur-zwart/9200000023815771?referrer=socialshare_pdp_androidapp\nProductgegevens\nMerkBrennenstuhl\nKleurZwart\nGewicht1.38 Ons\nAfmetingen van item (L x B x H)28 x 28 x 18 centimeter\nType stekkerType B\n1 aardingscontactreisstekker voor het aansluiten van elektrische apparaten met Duits aardingscontactstekkersysteem voor stopcontacten in Amerika, Canada,\nAdapter is ideaal voor het opladen van uw apparaten tijdens het reizen of op vakantie\nGeschikt voor stopcontacten in landen: VS, Thailand, Mexico, Canada, Dominicaanse Republiek,...\nmet verhoogde contactbescherming: kunststof platen verzegelen de contacten van de mof\nInhoud: 1 x reisadapter voor het stopcontact in zwart - in de beste kwaliteit van brennenstuhl\nVerzending Amazon NL:\nGratis verzending naar afhaalpunt\nGratis verzending voor Prime-leden\nJe kan een gratis 30 dagen proefperiode op Prime nemen. Je kan je direct afmelden na aanmelden, en behoudt je voordelen gedurende die 30 dagen.\nGratis verzending boven de €20\nOnder de €20 betaal je naar NL (huis) €2,49 zonder prime",
-          "link": "https://nl.pepper.com/aanbiedingen/brennenstuhl-reisstekkerreisadapter-reisstekkeradapter-voor-vs-aansluiting-en-eurostekker-15am-max-1875w-zwart-254382",
-          "publishedOn": "2022-11-05T22:14:49.000Z",
-          "wordCount": 1208,
-          "title": "Brennenstuhl Reisstekker/reisadapter (reisstekkeradapter voor VS-aansluiting en eurostekker) 15Am| Max 1875W, zwart",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/parker-ballpoint-pen-jotter-254381",
-          "author": null,
-          "description": "€3,41 - Amazon.nl\nLeuke PARKER Ballpoint pen JOTTER Originals in Gift box blue blister. Gratis verzenden met Amazon prime.",
-          "link": "https://nl.pepper.com/aanbiedingen/parker-ballpoint-pen-jotter-254381",
-          "publishedOn": "2022-11-05T21:52:43.000Z",
-          "wordCount": 1031,
-          "title": "PARKER Ballpoint pen JOTTER",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/only-sons-heren-jeans-slim-onsloom-jog-dk-blue-pk-0431-noos-254380",
-          "author": null,
-          "description": "€16,95 - Amazon.nl\nOnly & Sons heren jeans (slim) onsLOOM JOG DK BLUE PK 0431 NOOS\nKleur: Blue Denim\nBeschikbaar in enkele maten!\nVerzending Amazon NL:\nGratis verzending naar afhaalpunt\nGratis verzending voor Prime-leden\nJe kan een gratis 30 dagen proefperiode op Prime nemen. Je kan je direct afmelden na aanmelden, en behoudt je voordelen gedurende die 30 dagen.\nGratis verzending boven de €20\nOnder de €20 betaal je naar NL (huis) €2,49 zonder prime",
-          "link": "https://nl.pepper.com/aanbiedingen/only-sons-heren-jeans-slim-onsloom-jog-dk-blue-pk-0431-noos-254380",
-          "publishedOn": "2022-11-05T21:44:44.000Z",
-          "wordCount": 1184,
-          "title": "Only & Sons heren jeans (slim) onsLOOM JOG DK BLUE PK 0431 NOOS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/medisana-ftc-digitale-klinische-thermometer-voor-baby-kinderen-en-volwassenen-oraal-axillair-of-rectaal-waterdicht-met-koortsalarm-254378",
-          "author": null,
-          "description": "€2,55 - Amazon.nl\nmedisana FTC digitale klinische thermometer voor baby, kinderen en volwassenen, oraal, axillair of rectaal, waterdicht met koortsalarm\nBij bol.com €6,99\nNauwkeurig: een nauwkeurige meting kan met de FTC koortsthermometer op drie lichaamsplekken. Oraal (onder de tong), axillair (onder de oksel) en rectaal (in de aars)\nEenvoudige reiniging: de FTC kan na de meting gemakkelijk worden gereinigd. Voor de reiniging is een doek geschikt dat in een milde alcoholische oplossing wordt gedrenkt.\nKoortsalarm: Stelt de thermometer een temperatuur vast van boven 37,7 °C, dan weerklinkt een koortsalarm in de vorm van 10 drievoudige pieptonen.\nGeheugenfunctie: de koortsthermometer, slaat het meetresultaat op dankzij zijn geheugenfunctie en laat het bij het volgende inschakelen kort op het display oplichten\nAutomatische uitschakeling: het resultaat wordt na ca. 60 sec. getoond. De FTC schakelt na 8 minuten automatisch uit\nVerzending Amazon NL:\nGratis verzending naar afhaalpunt\nGratis verzending voor Prime-leden\nJe kan een gratis 30 dagen proefperiode op Prime nemen. Je kan je direct afmelden na aanmelden, en behoudt je voordelen gedurende die 30 dagen.\nGratis verzending boven de €20\nOnder de €20 betaal je naar NL (huis) €2,49 zonder prime",
-          "link": "https://nl.pepper.com/aanbiedingen/medisana-ftc-digitale-klinische-thermometer-voor-baby-kinderen-en-volwassenen-oraal-axillair-of-rectaal-waterdicht-met-koortsalarm-254378",
-          "publishedOn": "2022-11-05T21:17:42.000Z",
-          "wordCount": 1294,
-          "title": "medisana FTC digitale klinische thermometer voor baby, kinderen en volwassenen, oraal, axillair of rectaal, waterdicht met koortsalarm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/boxer-brief-coel-heren-boxershorts-3-pack-254377",
-          "author": null,
-          "description": "€22,95 - Amazon.nl\nBoxer Brief CO/EL heren boxershorts (3-Pack)\nBeschikbaar in de maten: S t/m XXL\n\nVerzending Amazon NL:\nGratis verzending naar afhaalpunt\nGratis verzending voor Prime-leden\nJe kan een gratis 30 dagen proefperiode op Prime nemen. Je kan je direct afmelden na aanmelden, en behoudt je voordelen gedurende die 30 dagen.\nGratis verzending boven de €20\nOnder de €20 betaal je naar NL (huis) €2,49 zonder prime",
-          "link": "https://nl.pepper.com/aanbiedingen/boxer-brief-coel-heren-boxershorts-3-pack-254377",
-          "publishedOn": "2022-11-05T21:09:06.000Z",
-          "wordCount": 1127,
-          "title": "Boxer Brief CO/EL heren boxershorts (3-Pack)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/lee-dames-jeans-legendary-skinny-254375",
-          "author": null,
-          "description": "€14,99 - Amazon.nl\nLee dames Jeans Legendary Skinny\nKleur: Blauw\nBeschikbaar in enkele maten!\nOver dit item:\ndenim stretch\nSkinny\nSpade Pocket\nVerzending Amazon NL:\nGratis verzending naar afhaalpunt\nGratis verzending voor Prime-leden\nJe kan een gratis 30 dagen proefperiode op Prime nemen. Je kan je direct afmelden na aanmelden, en behoudt je voordelen gedurende die 30 dagen.\nGratis verzending boven de €20\nOnder de €20 betaal je naar NL (huis) €2,49 zonder prime",
-          "link": "https://nl.pepper.com/aanbiedingen/lee-dames-jeans-legendary-skinny-254375",
-          "publishedOn": "2022-11-05T20:51:00.000Z",
-          "wordCount": 1157,
-          "title": "Lee dames Jeans Legendary Skinny",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/8-oral-b-tandpasta-met-gratis-dreft-tabs-254373",
-          "author": null,
-          "description": "€7,49 - Trekpleister\n2e gratis en gratis Dreft vaatwastabletten. Bij deze set van 2 x 4 tubes betaal je nu €7.49 bij ophalen in een Trekpleister winkel (plus gratis vaatwastabletten).  Verzenden kan ook en is €3.99.",
-          "link": "https://nl.pepper.com/aanbiedingen/8-oral-b-tandpasta-met-gratis-dreft-tabs-254373",
-          "publishedOn": "2022-11-05T20:25:33.000Z",
-          "wordCount": 1176,
-          "title": "8 Oral b tandpasta met gratis Dreft tabs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/jumbo-legpuzzel-wasgij-mysteri-5-zondagse-lunch-1000-stukjes-zelfde-prijs-voor-trouble-brewing-tijdreizen-of-last-minute-boeking-254372",
-          "author": null,
-          "description": "€5,95 - Internet-Toys\n\nHet is een typische zondagmiddag in een restaurant en de menigte heeft honger.\nDe serveersters worden overrompeld met bestellingen en de afwas loopt alleen maar op. Maar wat zorgt ervoor dat het eten is bedorven en de gasten een smaak in hun mond hebben waar ze niet voor hebben betaald? \nProbeer je in te beelden wat er er voor kan hebben gezorgd dat het zo'n chaos is in het restaurant; dat is het beeld wat je moet gaan puzzelen. Deze Jumbo legpuzzel is voorzien van 1000 stukjes, gemaakt van karton en heeft een afmeting van 68 x 49 cm.\n\nZelfde prijs ook verkrijgbaar:\n\nJumbo legpuzzel Wasgij Mystery 21 Trouble Brewing 1000 stukjes\n\nJumbo legpuzzel Wasgij Tijdreizen 68 x 49 cm 1000 stukjes\n\nJumbo legpuzzel Wasgij Last-minute boeking! 68 cm 1000 stukjes",
-          "link": "https://nl.pepper.com/aanbiedingen/jumbo-legpuzzel-wasgij-mysteri-5-zondagse-lunch-1000-stukjes-zelfde-prijs-voor-trouble-brewing-tijdreizen-of-last-minute-boeking-254372",
-          "publishedOn": "2022-11-05T20:24:01.000Z",
-          "wordCount": 1339,
-          "title": "Jumbo legpuzzel Wasgij Mysteri 5, Zondagse lunch! 1000 stukjes (zelfde prijs voor: Trouble Brewing, Tijdreizen of Last-minute boeking )",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/lg-oled-77b26la-120hz-hdmi-21-254370",
-          "author": null,
-          "description": "€1.999 - MediaMarkt\nNet voor het WK 2022 begint een mooie LG OLED van 77 inch in de aanbieding. Vergeet de Mediamarkt nieuwsbrief en Cashbackxl niet voor extra korting. Prijs is ook aangepast bij coolblue nu, mocht je voorkeur daar liggen. \nMet de LG OLED 77B26LA bekijk jij jouw favoriete films en series in zeer realistische kleurdetails en grote contrastverschillen. Deze LG OLED televisie beschikt over miljoenen pixels die individueel aan en uit gezet kunnen worden. Deze zelfoplichtende pixels zorgen voor een scherp contrast en de diepste zwarttinten. Zo mis jij geen enkel detail van je favoriete film of serie. OLED motion pro en 4k HFR technieken zorgen voor een verfijning van snelle en soepele beelden. Of je nu een serie kijkt of game speelt. Dankzij de a7 Gen5 processor worden beeld- en geluidsinstellingen aangepast aan op hetgeen dat je aan het kijken bent en je omgeving. Meer een gamefanaat? Ook daarvoor biedt de LG OLED 77B26LA diverse mogelijkheden. Met een responstijd van 0.1 ms komt zelfs ultrasnelle actie soepel over. Je bedient de LG OLED tv met de Magic Remote. Deze heeft een handig aanwijs- en scrolsysteem en verbindt je telefoon eenvoudig met de tv. Via het Home Dashboard bedien je met deze smart-tv ook alle verbonden appraten.",
-          "link": "https://nl.pepper.com/aanbiedingen/lg-oled-77b26la-120hz-hdmi-21-254370",
-          "publishedOn": "2022-11-05T20:09:42.000Z",
-          "wordCount": 1328,
-          "title": "LG OLED 77B26LA | 120Hz | HDMI 2.1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/reebok-nano-x2-schoenen-verschillende-kleuren-254362",
-          "author": null,
-          "description": "€91 - Reebok\nEr is een weekend aanbieding bij reebok.com: 30% korting op de Reebok Nano X2. De korting geldt voor een selectie van heren/dames varianten in verschillende maten en kleuren.\nPrijzen elders zijn gevarieerd afhankelijk van de kleuren en beschikbare maten, maar over het algemeen meer dan €110.",
-          "link": "https://nl.pepper.com/aanbiedingen/reebok-nano-x2-schoenen-verschillende-kleuren-254362",
-          "publishedOn": "2022-11-05T19:37:02.000Z",
-          "wordCount": 1128,
-          "title": "Reebok Nano X2 Schoenen (verschillende kleuren)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/10-extra-korting-bij-leen-bakker-254367",
-          "author": null,
-          "description": "Leen Bakker\n10% extra korting* bij Leen Bakker t/m 6 zondag november. Je hebt geen kortingcode nodig. De korting wordt automatisch verrekend. \n*m.u.v. Laagblijvers, Easy, 3=1 dekbedovertrekken actie, Stock collecties, partner aanbod, bezorg-, confectie-, leg- en servicekosten.",
-          "link": "https://nl.pepper.com/aanbiedingen/10-extra-korting-bij-leen-bakker-254367",
-          "publishedOn": "2022-11-05T19:35:31.000Z",
-          "wordCount": 1064,
-          "title": "10% extra korting bij Leen Bakker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/korting-op-tickets-toverland-via-ah-254368",
-          "author": null,
-          "description": "€23,50 - Albert Heijn\nIn de ticketshop van de Albert Heijn kun je nu tickets voor Toverland bestellen met korting. \n-Een ticket voor volwassenen en kinderen van 140 cm kost 23.50 (i.p.v. 36)\n-Een ticket voor kinderen tussen de 90 en 140 cm kost 17.00\n-Kinderen onder de 90 cm en jarigen hebben gratis entree (let op: ook voor hen moet je reserveren!)\nDe tickets zijn geldig op openingsdata van 26 november 2022 t/m 15 januari 2023.",
-          "link": "https://nl.pepper.com/aanbiedingen/korting-op-tickets-toverland-via-ah-254368",
-          "publishedOn": "2022-11-05T19:35:27.000Z",
-          "wordCount": 1156,
-          "title": "Korting op tickets Toverland via AH",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nl.pepper.com/aanbiedingen/asus-tuf-gaming-rx-6900-xt-oc-16g-254356",
-          "author": null,
-          "description": "€699 - Azerty\nLaagste prijs voor een 6900 XT op dit moment. Eerder deze week heeft Megekko de ASrock Phantom Gaming D 16G OC verlaagd naar € 702,95. Kloksnelheden zijn nagenoeg hetzelfde, die van Asus heeft niet zoveel RGB. \nIk denk het delen waard, op dit moment heeft NVIDIA geen tegenhanger voor een normale prijs. \nLet wel op dat AMD met de nieuwe 7900 XT en XTX komt op 19 december, deze zijn een stuk beter en zullen rond de € 1099,- en  1209,- komen te liggen.\n\nPrijsvergelijk: Tweakers link",
-          "link": "https://nl.pepper.com/aanbiedingen/asus-tuf-gaming-rx-6900-xt-oc-16g-254356",
-          "publishedOn": "2022-11-05T19:32:15.000Z",
-          "wordCount": 1214,
-          "title": "Asus TUF Gaming RX 6900 XT OC 16G",
           "imageUrl": null
         }
       ]
