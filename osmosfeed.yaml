@@ -6,7 +6,6 @@
 cacheUrl: https://JunWeiChim.github.io/osmosfeed/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://feeds.feedburner.com/tweakers/mixed
-  - href: https://nl.pepper.com/rss/overzicht%20van%20de%20populairste%20groepen
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCgnOOjRn8Rb8A1IMdB58nnw
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UChumckoLQjHepvdYTO-62YQ
+  - href: https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline
