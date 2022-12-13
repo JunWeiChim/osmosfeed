@@ -938,6 +938,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6241748/",
+          "author": "onze nieuwsredactie",
+          "description": "Oprichter Sam Bankman-Fried van het omgevallen cryptoplatform FTX heeft zich schuldig gemaakt aan jarenlange oplichting van investeerders. Dat stelt de Amerikaanse beurstoezichthouder SEC dinsdag.",
+          "link": "https://www.nu.nl/economie/6241748/beurswaakhond-vs-beschuldigt-ftx-oprichter-van-jarenlange-fraude.html",
+          "publishedOn": "2022-12-13T13:19:32.000Z",
+          "wordCount": 1020,
+          "title": "Beurswaakhond VS beschuldigt FTX-oprichter van jarenlange fraude",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/xvgxknmaj77u_sqr256.jpg/beurswaakhond-vs-beschuldigt-ftx-oprichter-van-jarenlange-fraude.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/xvgxknmaj77u_sqr256.jpg/beurswaakhond-vs-beschuldigt-ftx-oprichter-van-jarenlange-fraude.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6241860/",
           "author": "onze economieredactie",
           "description": "Bedrijven van buiten de EU krijgen een CO2-heffing opgelegd als ze producten in de EU verkopen. Hierover hebben onderhandelaars van het Europees Parlement en lidstaten dinsdagochtend een akkoord bereikt.",
@@ -2294,6 +2309,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/c/codicil.asp",
+          "author": "Julia Kagan",
+          "description": "A codicil is an addendum to a will used to change the provisions in the will.",
+          "link": "https://www.investopedia.com/terms/c/codicil.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2022-12-13T12:55:17.000Z",
+          "wordCount": 4467,
+          "title": "Codicil Definition",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/UafQXt0QhVdM5i9_aOWIMPTJx5M=/380x254/rbv2_53-5bfc2b8ac9e77c0058770499.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/UafQXt0QhVdM5i9_aOWIMPTJx5M=/380x254/rbv2_53-5bfc2b8ac9e77c0058770499.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/c/comparables.asp",
           "author": "Will Kenton",
@@ -6132,6 +6162,56 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "stock-market-news-live-updates-stock-futures-climb-ahead-of-inflation-print-124836638.html",
+          "author": null,
+          "description": "U.S. stock futures edge higher on Tuesday morning ahead of a highly anticipated inflation print.",
+          "link": "https://finance.yahoo.com/news/stock-market-news-live-updates-stock-futures-climb-ahead-of-inflation-print-124836638.html",
+          "publishedOn": "2022-12-13T12:48:36.000Z",
+          "wordCount": 13831,
+          "title": "Stock market news live updates: Stock futures climb ahead of inflation print",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/5OSGaLolGEdSiCzoQE.upQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/543d3e50-70fd-11ed-9ad3-3911a36c343f"
+        },
+        {
+          "id": "cpi-set-up-fed-in-the-wings-bah-humbug-sam-bankman-fried-bullish-pfizer-16110581?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "If the CPI number prints a bit frosty, there will be and should be some questions.",
+          "link": "https://realmoney.thestreet.com/markets/cpi-set-up-fed-in-the-wings-bah-humbug-sam-bankman-fried-bullish-pfizer-16110581?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2022-12-13T12:39:00.000Z",
+          "wordCount": 7184,
+          "title": "A CPI Set-Up? Fed in the Wings, Bah Humbug, Sam Bankman-Fried, Bullish Pfizer",
+          "imageUrl": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/5a522a38-136c-11e8-b8cf-074c479e2d81.png"
+        },
+        {
+          "id": "probably-last-rally-jim-rogers-140000690.html",
+          "author": null,
+          "description": "Dead cat bounce? This legend certainly thinks so.",
+          "link": "https://finance.yahoo.com/news/probably-last-rally-jim-rogers-140000690.html",
+          "publishedOn": "2022-12-13T12:00:00.000Z",
+          "wordCount": 14381,
+          "title": "'Probably the last rally': Jim Rogers warns not to get too excited over the market's recent bump — these are the shockproof assets he likes best right now",
+          "imageUrl": "https://media.zenfs.com/en/moneywise_327/6b427ce6b610c6c2f170b4f0bf1b9cfc"
+        },
+        {
+          "id": "eli-lilly-sets-guidance-for-2023-and-stock-falls-as-eps-lags-current-consensus-2022-12-13?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Eli Lilly & Co. undefined announced guidance for 2023 on Tuesday and highlighted potential launches for a series of treatments, including a potential...",
+          "link": "https://www.marketwatch.com/story/eli-lilly-sets-guidance-for-2023-and-stock-falls-as-eps-lags-current-consensus-2022-12-13?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2022-12-13T11:54:30.000Z",
+          "wordCount": 6574,
+          "title": "Eli Lilly sets guidance for 2023 and stock falls as EPS lags current consensus",
+          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
+        {
+          "id": "oil-has-crashed-more-than-40-from-its-peak-heres-how-and-why-one-trader-is-getting-back-in-11670931602?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The fundamentals on oil really haven't changed much from the peak in March, argues one trader.",
+          "link": "https://www.marketwatch.com/story/oil-has-crashed-more-than-40-from-its-peak-heres-how-and-why-one-trader-is-getting-back-in-11670931602?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2022-12-13T11:40:00.000Z",
+          "wordCount": 7750,
+          "title": "Oil has crashed more than 40% from its peak. Here’s how, and why, one trader is getting back in.",
+          "imageUrl": "https://images.mktw.net/im-684380/social"
+        },
+        {
           "id": "united-airlines-buys-100-boeing-787-dreamliners-113009034.html",
           "author": null,
           "description": "United Airlines goes all in with Boeing's 787 Dreamliner.",
@@ -6170,6 +6250,16 @@
           "wordCount": 6328,
           "title": "Stocks Moving the Most Today: Oracle, Mirati, Pinterest, and More",
           "imageUrl": "https://images.barrons.com/im-455772/social"
+        },
+        {
+          "id": "broadcoms-target-company-vmware-ousts-103012177.html",
+          "author": null,
+          "description": "Three senior VMware, Inc (NYSE: VMW) executives exited the enterprise software company that Broadcom Inc (NASDAQ: AVGO) aims to acquire for $61 billion. VMware CEO Raghu Raghuram said the senior vice presidents of cloud infrastructure, Mark Lohmeyer; applications and management business, Ajay Patel; and networking and advanced security, Tom Gillis, departed an internal memo, the Wall Street Journal reports. In May, Broadcom shared its plans of scooping VMware as part of a broader push by the chi",
+          "link": "https://finance.yahoo.com/news/broadcoms-target-company-vmware-ousts-103012177.html",
+          "publishedOn": "2022-12-13T10:30:12.000Z",
+          "wordCount": 13785,
+          "title": "Broadcom's Target Company VMware Ousts Three Executives As Part Of Restructuring",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/4d19dd5c7490048b2f76b6ae67bbcd56"
         },
         {
           "id": "ftxs-bahamas-liquidators-seek-exclude-100018590.html",
