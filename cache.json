@@ -20,955 +20,115 @@
     },
     {
       "title": "Company News",
-      "feedUrl": "https://rss.app/feeds/Rtr6tpEUodFZ9ONv.xml",
+      "feedUrl": "https://rss.app/feeds/m1GKLhte0k03RiZk.xml",
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
-        {
-          "id": "6827a856afba4e95e7778cfb18c72424",
-          "author": "rss.app",
-          "description": "Your trial has expired. Please update your subscription plan at rss.app. - (Rtr6tpEUodFZ9ONv)",
-          "link": "https://rss.app/",
-          "publishedOn": "2022-12-14T19:11:05.000Z",
-          "wordCount": 1962,
-          "title": "[Action required] Your RSS.app Trial has Expired.",
-          "imageUrl": "https://rss.app/static/img/images/rss-app.png"
-        },
-        {
-          "id": "30a8e0c03cdd491dbf55e9bdbca55244",
-          "author": "investopedia.com",
-          "description": "Apple (AAPL) is the latest tech giant that reportedly plans to slow hiring and spending growth next year to cope with a potential economic downturn.",
-          "link": "https://www.investopedia.com/apple-hiring-holdup-5680326",
-          "publishedOn": "2022-12-14T15:13:56.457Z",
-          "wordCount": 3007,
-          "title": "Apple’s Hiring Holdup By Danial Clark Published Jul 19, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/wGRGrPu7zAApRuYHLjlPSJVx8a0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-520929624-43752fa7e3b94950bdee92b171793eb9.jpg"
-        },
-        {
-          "id": "84e391113391bf5fb90c60d61f1b9078",
-          "author": "investopedia.com",
-          "description": "Semiconductor firms Nvidia (NVDA) and Advanced Micro Devices (AMD) reported new U.S. export restrictions would limit sales to China, sending shares of both companies and other semiconductor stocks tumbling on Thursday.",
-          "link": "https://www.investopedia.com/semiconductor-stocks-fall-on-us-export-restrictions-6542012",
-          "publishedOn": "2022-12-12T01:22:25.102Z",
-          "wordCount": 3427,
-          "title": "Semiconductor Stocks Fall on US Export Restrictions",
-          "imageUrl": "https://www.investopedia.com/thmb/WMa25geGCnIBP0msTDKTf03lhlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed-f30ec20566b746e28b96420e6467252a.jpg"
-        },
         {
           "id": "fd77516072cfea50ccb91258e16c2859",
           "author": "Investopedia",
           "description": "First Solar, the largest U.S.-based solar panel manufacturer, announced on Tuesday it is planning to spend up to $1 billion to construct a new manufacturing facility in the U.S.",
-          "link": "https://www.investopedia.com/first-solar-to-invest-1-billion-in-new-u-s-factory-6541142",
-          "publishedOn": "2022-12-12T01:22:24.963Z",
-          "wordCount": 3106,
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca806ed5f10be84f36848f2aeee63560864a49c6239175e0df402248d7629a3d9c9b1421cde322ffe0ae33afee8f2eb123fb3342d4611b590258af",
+          "publishedOn": "2022-12-14T22:08:41.168Z",
+          "wordCount": 412,
           "title": "First Solar to Invest $1 Billion in New U.S. Factory",
-          "imageUrl": "https://www.investopedia.com/thmb/UNe1x416suNeoQQVD13wLJyoA10=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1368229727-a7ad723699ec426088080236cda78ec7.jpg"
+          "imageUrl": null
+        },
+        {
+          "id": "b5f4781b7e9a852ad74e6bf6fea43964",
+          "author": "rss.app",
+          "description": "",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8e68c9e61ee8503ec58837b1ff7727804d51d77d933dbf86573941966d9a219c9357388eb278b0fcef2cebe78060a72dfd3e0a902d02185f0df3e7e58f22099d86e3f1",
+          "publishedOn": "2022-12-14T22:08:40.736Z",
+          "wordCount": 412,
+          "title": "Honda, LG Form Joint Venture for a $4.4 Billion Battery Plant By Mack Wilowski Published Aug 30, 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "84e391113391bf5fb90c60d61f1b9078",
+          "author": "rss.app",
+          "description": "",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9562caeb1caa523d9d8d2cace0773e9b4b5cc823c83eb09e4e664bd52680209c97027cccf421ffe7e633f6fa872eb125e6241ccf621a5c015caca1",
+          "publishedOn": "2022-12-14T22:08:40.720Z",
+          "wordCount": 412,
+          "title": "Semiconductor Stocks Fall on US Export Restrictions By Kara Greenberg and Mack Wilowski Published Sep 01, 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "30a8e0c03cdd491dbf55e9bdbca55244",
+          "author": "rss.app",
+          "description": "",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8777d7ee1ae854309a8736a4bf322283404ad37dd06ee9c2117912",
+          "publishedOn": "2022-12-14T22:08:40.714Z",
+          "wordCount": 412,
+          "title": "Apple’s Hiring Holdup By Danial Clark Published Jul 19, 2022",
+          "imageUrl": null
         },
         {
           "id": "982e43ef1c1806e1638f8d056f888e08",
           "author": "Investopedia",
           "description": "Tesla’s (TSLA) 3-for-1 stock split has arrived. The company declared the split in early August. Shares ended yesterday at $891, and began trading at roughly around $297 per share this morning.",
-          "link": "https://www.investopedia.com/tesla-stock-split-takes-effect-6503073",
-          "publishedOn": "2022-12-12T01:22:24.914Z",
-          "wordCount": 3122,
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9262d4ee1ee84f2d878d33eee12a21865012d7318e3da2df472d42de68817e87c74a3f93b166",
+          "publishedOn": "2022-12-14T22:08:40.677Z",
+          "wordCount": 412,
           "title": "Tesla's Stock Split Takes Effect",
-          "imageUrl": "https://www.investopedia.com/thmb/hMwLJI2S-rrSb79FAfgpXL5uSkQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-187005526-cde1b46e0c97434d936f11e254bcb7f7.jpg"
-        },
-        {
-          "id": "b5f4781b7e9a852ad74e6bf6fea43964",
-          "author": "investopedia.com",
-          "description": "Honda Motor Company announced it is partnering with South Korea-based LG Energy Solution to construct a new battery plant in the U.S., establishing a joint venture with the battery manufacturer.",
-          "link": "https://www.investopedia.com/honda-lg-form-joint-venture-for-a-4-4-billion-battery-plant-6504453",
-          "publishedOn": "2022-12-12T01:22:24.841Z",
-          "wordCount": 3116,
-          "title": "Honda, LG Form Joint Venture for a $4.4 Billion Battery Plant By Mack Wilowski Published Aug 30, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/4XhJkdyY9be6mOOIRjRnqbboVnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed-f6c50281dd364d65bbf833e7005da1bb.jpg"
-        },
-        {
-          "id": "9ed3116f4342ca3c5f0f7c51dcaffd03",
-          "author": "Investopedia",
-          "description": "Executives at Credit Suisse announced their corporate restructuring plan, in conjunction with a disappointing third-quarter earnings report.",
-          "link": "https://www.investopedia.com/credit-suisse-to-restructure-6822449",
-          "publishedOn": "2022-12-09T01:22:09.978Z",
-          "wordCount": 3526,
-          "title": "Credit Suisse to Restructure",
-          "imageUrl": "https://www.investopedia.com/thmb/AWA0Z5QYbuD9TJd8EajLKgXXHfI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-521438750-c08fa9e6a2824443af49a8d525cb2c32.jpg"
-        },
-        {
-          "id": "7591fe395cc1fd245c73538023ba81a0",
-          "author": "Investopedia",
-          "description": "Exxon Mobil (XOM) shares surged after issuing an earnings outlook suggesting natural gas prices would support already strong expectations for its third quarter, after a record second quarter.",
-          "link": "https://www.investopedia.com/exxon-mobil-signals-strong-earnings-expectations-6747802",
-          "publishedOn": "2022-12-09T01:22:09.588Z",
-          "wordCount": 3106,
-          "title": "Exxon Mobil Signals Strong Earnings Expectations",
-          "imageUrl": "https://www.investopedia.com/thmb/nMjqK3Dv_fRLxzUHuUeMH-9xLZc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1059376284-7f954114b7a94b4397a9f733d948ba94.jpg"
-        },
-        {
-          "id": "ffecfd567c953bc16d06b9592a5cb06d",
-          "author": "Investopedia",
-          "description": "Twitter (TWTR) shares jumped over 22% yesterday and are flat in pre-market trading after Elon Musk revived his deal to buy the company at the original price.",
-          "link": "https://www.investopedia.com/elon-musk-reverses-course-to-revive-twitter-deal-6747310",
-          "publishedOn": "2022-12-09T01:22:09.517Z",
-          "wordCount": 3130,
-          "title": "Elon Musk Reverses Course to Revive Twitter Deal",
-          "imageUrl": "https://www.investopedia.com/thmb/nhixVHM7shJhrD2vl4WwcPzV7UI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1393786687-110a4c4a3dc848b69774e2b6095df98b.jpg"
-        },
-        {
-          "id": "fdfdc0f28171d2343eb582c0a50c96d7",
-          "author": "Investopedia",
-          "description": "Some of the world's largest tech companies report earnings this week, including Apple, Alphabet, Meta Platforms, Microsoft, and Amazon.",
-          "link": "https://www.investopedia.com/tech-earnings-on-tap-6754421",
-          "publishedOn": "2022-12-09T01:22:08.777Z",
-          "wordCount": 3099,
-          "title": "Tech Earnings On Tap",
-          "imageUrl": "https://www.investopedia.com/thmb/DaFyaGePQ4QjFuE56tZK3vJjRnM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-477483948-31083c742d224795b7122436c4a16009.jpg"
-        },
-        {
-          "id": "f49d9fea509aee6892a4f2fd91a62eff",
-          "author": "Investopedia",
-          "description": "FedEx outlined plans to park planes, suspend some Sunday deliveries, and shut corporate offices after falling demand impacted its first quarter profits and prompted the company to withdraw its forecast last week.",
-          "link": "https://www.investopedia.com/fedex-raises-package-rates-outlines-cost-cuts-6743216",
-          "publishedOn": "2022-12-09T01:22:08.678Z",
-          "wordCount": 3092,
-          "title": "FedEx Raises Package Rates, Outlines Cost Cuts",
-          "imageUrl": "https://www.investopedia.com/thmb/94jK4_IOyTbsM0mHfusvDN6vBDw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1388223647-70b9facc6c9f474682eae3f929d769aa.jpg"
-        },
-        {
-          "id": "704591044dc9f55533cf2aa0089350b9",
-          "author": "Investopedia",
-          "description": "Kroger announced it will acquire smaller rival Albertsons in a deal that will create a super-sized new grocery giant.",
-          "link": "https://www.investopedia.com/kroger-to-acquire-smaller-rival-albertsons-6751196",
-          "publishedOn": "2022-12-09T01:22:08.651Z",
-          "wordCount": 3034,
-          "title": "Super-Sized Supermarket Merger",
-          "imageUrl": "https://www.investopedia.com/thmb/DhqUEHD7gUN3EX5YKYTFLbiQkR4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1210117345-9f21d0e236d04a4bb89806cfe3fb73c5.jpg"
-        },
-        {
-          "id": "b13772d8e999817a91a4d1b4e439eb62",
-          "author": "Investopedia",
-          "description": "As Apple gets set to unveil its latest iPhones today, a new report shows it is gaining on digital ad rivals Facebook and Google.",
-          "link": "https://www.investopedia.com/apple-digital-ads-gain-on-facebook-and-google-6543705",
-          "publishedOn": "2022-12-09T01:22:08.435Z",
-          "wordCount": 3103,
-          "title": "Apple Digital Ads Gain on Facebook and Google",
-          "imageUrl": "https://www.investopedia.com/thmb/PEgaL4UKo7kBv-NFg0NHQH_4OhI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-520929624-75d3f2fdb2af4bd98ddf52437f829bb9.jpg"
-        },
-        {
-          "id": "871f8960676e4f4c21a193e14e11e2f4",
-          "author": "Investopedia",
-          "description": "Harley-Davidson (HOG) spun off its electric motorcycle division, LiveWire, in an SPAC deal creating the first publicly-traded electric motorcycle company in the U.S.",
-          "link": "https://www.investopedia.com/harley-davidson-spins-off-its-electric-motorcycle-division-6744760",
-          "publishedOn": "2022-12-09T01:22:08.367Z",
-          "wordCount": 3076,
-          "title": "Harley-Davidson Spins Off Electric Motorcycle Division",
-          "imageUrl": "https://www.investopedia.com/thmb/TaefN0qSZ3YXkjoJ4luqSJYbCj0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-929119522-d195a5bfedf74deda577c924ec6fc43f.jpg"
-        },
-        {
-          "id": "faae57a4020f2931820d514e022c65f0",
-          "author": "Investopedia",
-          "description": "Lease signings fall, a sign renters are being priced out",
-          "link": "https://www.investopedia.com/nyc-rent-hikes-6889670",
-          "publishedOn": "2022-12-09T01:22:07.975Z",
-          "wordCount": 3343,
-          "title": "New York rents, already in stratosphere, rise anew, pricing out tenants",
-          "imageUrl": "https://www.investopedia.com/thmb/MZk9bxMB9HTJEcbaz5cVafSAc48=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-922788110-a2a64c288a934df4aa621202d4f8566e.jpg"
-        },
-        {
-          "id": "4f0f5a6975cfe37d64ba3d269b6bd502",
-          "author": "Investopedia",
-          "description": "Best Buy, Abercrombie, Dick's beat estimates as shopping ramps up.",
-          "link": "https://www.investopedia.com/holiday-shopping-retailers-6832037",
-          "publishedOn": "2022-12-09T01:22:07.924Z",
-          "wordCount": 4221,
-          "title": "Black Friday Looms as Some Retailers Say Sky Isn't Falling",
-          "imageUrl": "https://www.investopedia.com/thmb/XY8KixuiwikqgXdeDc8VwXZ_uOc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gettyimages-878436690-e1541686516421-2000-e626aae80419427bb279a88ac70433d0.jpg"
-        },
-        {
-          "id": "209f0d5852e9e57f56e6e4be6efcc261",
-          "author": "Investopedia",
-          "description": "General Motors (GM) made big sales gains in a sign the semiconductor shortage is easing. GM shares are rising over 2% in pre-market trading.",
-          "link": "https://www.investopedia.com/gm-sales-beat-rival-toyota-6746826",
-          "publishedOn": "2022-12-09T01:22:07.823Z",
-          "wordCount": 3145,
-          "title": "GM Sales Beat Rival Toyota",
-          "imageUrl": "https://www.investopedia.com/thmb/g4GEvGTwqRXQrf9EuATRzRj-GFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1236625749-981494db1b904d00b6a62bb5fe2ed3ca.jpg"
-        },
-        {
-          "id": "4154750c64f868489c64433a767f9a80",
-          "author": "Investopedia",
-          "description": "The head of a technology-focused hedge fund called on Meta Platforms (META) to slash its workforce and pull back spending on its metaverse technology, saying it’s time for the social media giant to “get fit.”",
-          "link": "https://www.investopedia.com/meta-investor-calls-for-major-changes-6754911",
-          "publishedOn": "2022-12-09T01:22:07.805Z",
-          "wordCount": 3316,
-          "title": "Meta Investor Calls for Major Changes",
-          "imageUrl": "https://www.investopedia.com/thmb/aIahZseuTC4iOxs4fdqDIt2Lwo8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1349800127-ea2e687619d94abcaca80b20bf81f583.jpg"
-        },
-        {
-          "id": "5cb93ad2f7ad8a56888f5776401464f0",
-          "author": "Investopedia",
-          "description": "Businesses are bracing for the looming possibility of a railroad strike, as a union representing more than 90,000 workers for the nation’s freight railroads could be poised to go on strike this Friday.",
-          "link": "https://www.investopedia.com/businesses-brace-for-rail-strike-6561088",
-          "publishedOn": "2022-12-09T01:22:07.744Z",
-          "wordCount": 3064,
-          "title": "Businesses Brace for Rail Strike",
-          "imageUrl": "https://www.investopedia.com/thmb/ov_dPuc9UXJeJIJdEfFDWX1AksA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1369744644-3cb597cabcc142c9b6b2bcb00fc49182.jpg"
-        },
-        {
-          "id": "92788a9bdc4bd308e3727b43ddead70a",
-          "author": "Investopedia",
-          "description": "The buyout by world's richest man has hit some early bumps in the road",
-          "link": "https://www.investopedia.com/musk-twitter-whats-happening-6826361",
-          "publishedOn": "2022-12-07T18:50:04.265Z",
-          "wordCount": 4651,
-          "title": "What's Happening With Elon Musk at Twitter?",
-          "imageUrl": "https://www.investopedia.com/thmb/nhixVHM7shJhrD2vl4WwcPzV7UI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1393786687-110a4c4a3dc848b69774e2b6095df98b.jpg"
-        },
-        {
-          "id": "f66e1c60af8f33ae84f3dc2fc61618f4",
-          "author": "academy.investopedia.com",
-          "description": "Learn to day trade from a Wall Street Professional. Our Day Trading course will teach you proven strategies to get you started in the market.",
-          "link": "https://academy.investopedia.com/products/become-a-day-trader?aca_ref=header_course_1",
-          "publishedOn": "2022-12-07T18:50:04.142Z",
-          "wordCount": 2648,
-          "title": "Become a Day Trader",
-          "imageUrl": "http://cdn.shopify.com/s/files/1/1976/0763/products/become_a_day_trader_1024x1024.jpg?v=1518564521"
-        },
-        {
-          "id": "7075572ee4ed328f330ba80b5dd612dc",
-          "author": "investopedia.com",
-          "description": "While job cuts at Twitter and Meta have dominated headlines, they are far from the only companies that have had massive layoffs this year. Here's what to know.",
-          "link": "https://www.investopedia.com/biggest-layoffs-2022-6826521",
-          "publishedOn": "2022-12-07T18:50:04.124Z",
-          "wordCount": 4604,
-          "title": "Largest Layoffs of 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/agKRStBwwHNmqhgdw-AmwbSJSgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1244493480-26077e448a3e472796ffe73bafa691ef.jpg"
-        },
-        {
-          "id": "8c387d7e09232773528ab623362feb01",
-          "author": "Investopedia",
-          "description": "Meta (Facebook) is implementing the biggest layoffs in the 18-year history of the company, slashing 13% of its work force as ad growth slows.",
-          "link": "https://www.investopedia.com/meta-facebook-begins-biggest-layoffs-in-company-history-6827152",
-          "publishedOn": "2022-12-07T18:50:04.093Z",
-          "wordCount": 3894,
-          "title": "Meta (Facebook) Begins Biggest Layoffs in Company's History",
-          "imageUrl": "https://www.investopedia.com/thmb/teRnejtu_-xNtB8-oYyxxcua-pk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mark-zuckerberg-fb98af5638eb48628a82410a9477dd5c.jpg"
-        },
-        {
-          "id": "249209807e806c3280dcdc5a525a3416",
-          "author": "investopedia.com",
-          "description": "Apple (AAPL) is facing antitrust action from the EU over Apple Pay, which regulators claim is being shielded from competition on iPhones.",
-          "link": "https://www.investopedia.com/apple-faces-eu-antitrust-action-on-apple-pay-5271156",
-          "publishedOn": "2022-12-07T18:50:04.060Z",
-          "wordCount": 3403,
-          "title": "Apple (AAPL) Faces EU Antitrust Action on Apple Pay By Mark Kolakowski Published May 09, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/VbLfozFsieF7NaKL_VycK_Z8gOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-881495806-5bfedc3346e0fb0051bea27f.jpg"
-        },
-        {
-          "id": "38291aede055fc5e163017a3fa3ffc2a",
-          "author": "Investopedia",
-          "description": "Apple (AAPL) announced, on Sept. 7, 2022, a new iPhone 14 series, new AirPods Pro, and new Apple Watch versions, all with added features.",
-          "link": "https://www.investopedia.com/aapl-september-2022-event-6543693",
-          "publishedOn": "2022-12-07T18:50:04.045Z",
-          "wordCount": 4087,
-          "title": "Apple (AAPL) 'Far Out' 2022 Product Event Prompts Muted Reaction",
-          "imageUrl": "https://www.investopedia.com/thmb/fCa5CICwNzw35fKrSrf8tcc1S90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/APPLEEVENT0217-ddff4c4d611440298a1b2065c29fa4f2.jpg"
-        },
-        {
-          "id": "89e0afd2c7b0d609802836bbe5b4ee98",
-          "author": "Investopedia",
-          "description": "He sold some $19 billion in stock this year; Twitter and China haven't helped",
-          "link": "https://www.investopedia.com/musk-wealth-6831817",
-          "publishedOn": "2022-12-07T18:50:03.931Z",
-          "wordCount": 4005,
-          "title": "Musk Down $100 Billion in 2022 as Tesla Tanks",
-          "imageUrl": "https://www.investopedia.com/thmb/U3EI1P34C66O5MFEZoM5w1D9xo0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/elon-musk-assistant-2000-c6b3d3af5bd2460796a53a84f41be6d9.jpg"
-        },
-        {
-          "id": "32d8d78c973ff821146976820da1f162",
-          "author": "Investopedia",
-          "description": "FIFA announced two days before the start of the event that beer sales are banned",
-          "link": "https://www.investopedia.com/budweiser-can-t-serve-beer-at-world-cup-stadium-6830822",
-          "publishedOn": "2022-12-07T18:50:03.876Z",
-          "wordCount": 3573,
-          "title": "This Bud's Not for You: Qatar Bans Beer Sales at World Cup Stadiums",
-          "imageUrl": "https://www.investopedia.com/thmb/SP0vuZlmI93Xqwt2lgZ4GmuCyBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Qatar-Bans-Beer-at-World-Cup-FT-BLOG1122-7730b94ee8b74a28a619aa8b61d47f4b.jpg"
-        },
-        {
-          "id": "976c3887a0eec9b82259166c2e895dd3",
-          "author": "Investopedia",
-          "description": "Twitter's CEO publicly attacked one of the company's largest advertisers, accusing it of censorship.",
-          "link": "https://www.investopedia.com/musk-apple-free-speech-6833616",
-          "publishedOn": "2022-12-07T18:50:03.847Z",
-          "wordCount": 4345,
-          "title": "Musk Targets Apple Over Ad Cuts, App Store Fees",
-          "imageUrl": "https://www.investopedia.com/thmb/bScZ6D5hbQgOk0z-Qs4QQ1-hIlg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1242720124-bed240f47dbd493690e27d0710e2054a.jpg"
-        },
-        {
-          "id": "54333fcb59e1457512632516cee1c0be",
-          "author": "investopedia.com",
-          "description": "Paxlovid, Pfizer's (PFE) pill for treating COVID-19, fell short of expectations in a preventative therapy trial.",
-          "link": "https://www.investopedia.com/pfizer-covid-treatment-pill-falls-short-5271094",
-          "publishedOn": "2022-12-07T18:50:03.819Z",
-          "wordCount": 3712,
-          "title": "Pfizer's (PFE) COVID Treatment Pill Falls Short By Nathan Reiff Published May 05, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/PFzGncii2kXJ8CK_O7tiNPMdaQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/New-Pfizer-COVID-Pill-GettyImages-152407032-2000-cccac99f45d0484b949ecdf534c533ba.jpg"
-        },
-        {
-          "id": "43580e9a0c92392bf7ed33de7ff75525",
-          "author": "Investopedia",
-          "description": "Yvon Chouinard, founder of outdoor apparel maker Patagonia, has donated his $3 billion company to fight climate change.",
-          "link": "https://www.investopedia.com/patagonia-donated-climate-change-6666257",
-          "publishedOn": "2022-12-07T18:50:03.803Z",
-          "wordCount": 3692,
-          "title": "Patagonia Founder Donates Company to Fight Climate Change",
-          "imageUrl": "https://www.investopedia.com/thmb/VctsAaqK0YlpjMJXk-Svo3jUpHI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__treehugger__images__2020__03__fullsizeoutput_3ee4-a152d902d0904646a701dca60e20c1fc.jpeg"
-        },
-        {
-          "id": "9b0e41873974e74a324ffce1493aed3f",
-          "author": "investopedia.com",
-          "description": "Amazon (AMZN) has rolled out six enhancements to Amazon Web Services (AWS) that increase its utility to customers.",
-          "link": "https://www.investopedia.com/amazon-rolls-out-web-services-aws-innovations-5271379",
-          "publishedOn": "2022-12-07T18:50:03.769Z",
-          "wordCount": 3708,
-          "title": "Amazon (AMZN) Rolls Out Web Services (AWS) Innovations By Mark Kolakowski Published May 09, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/1b4YpQtRLpSSWXs00yTtgdKwymQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1248800419-e0facff4c07a48f282fc362e8203720e.jpg"
-        },
-        {
-          "id": "6f4d5f95ea630c5f84f1b52bf0094fbf",
-          "author": "investopedia.com",
-          "description": "Graphic chip maker NVIDIA (NVDA) agreed to a $5.5 million fine for understating crypto mining demand. Here's what you need to know.",
-          "link": "https://www.investopedia.com/nvidia-fined-over-crypto-mining-disclosures-5271410",
-          "publishedOn": "2022-12-07T18:50:03.742Z",
-          "wordCount": 3623,
-          "title": "NVIDIA (NVDA) Fined $5.5M for Failing to Disclose Crypto Mining Impact By Timothy Smith Published May 09, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/FTyghQm8Kn_F46To-5E4o7vJ6pI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/crypto_mining_shutterstock_652855306-5bfc2fdf4cedfd0026c1df7c.jpg"
-        },
-        {
-          "id": "1ebef17244727e0455774a9e2dd702aa",
-          "author": "investopedia.com",
-          "description": "Companies including Yelp, Amazon, and others have said they'll reimburse expenses for abortion services for employees who must travel to obtain care.",
-          "link": "https://www.investopedia.com/companies-reimbursing-abortion-travel-expenses-5271510",
-          "publishedOn": "2022-12-07T18:50:03.725Z",
-          "wordCount": 4373,
-          "title": "More Than a Dozen Companies Set To Reimburse Abortion Travel Expenses By Jim Probasco Published May 12, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/Ed4u3QqjcEZBgdanQMDsOTpdwvM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1128922189-6ffeab8eaa0f4365933365574527145b.jpg"
-        },
-        {
-          "id": "500a1da363ea8eb04d95492f7dde4161",
-          "author": "Investopedia",
-          "description": "Berkshire Hathaway (BRK.A) missed profit estimates. Operating revenue and earnings rise as investment losses drag on results.",
-          "link": "https://www.investopedia.com/berkshire-q3-earnings-6826006",
-          "publishedOn": "2022-12-07T18:50:03.676Z",
-          "wordCount": 3837,
-          "title": "Berkshire Hathaway Posts Unexpected Loss",
-          "imageUrl": "https://www.investopedia.com/thmb/VO_lglR0NBg73p1yXr4Uq-jswjQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/10311228024_6742e515d2_k-557d3af912204a2fa2094b1d80666fee.jpg"
-        },
-        {
-          "id": "9ee66bb010f69b87d47b7d96860a8ef9",
-          "author": "investopedia.com",
-          "description": "Commercial airplane maker Boeing (BA) announced a slowdown in its deliveries in April 2022. Here's what you need to know.",
-          "link": "https://www.investopedia.com/boeing-deliveries-drop-in-april-but-rise-from-year-ago-5271713",
-          "publishedOn": "2022-12-07T18:50:03.637Z",
-          "wordCount": 3613,
-          "title": "Boeing (BA) Deliveries Drop in April but Rise From a Year Ago By Timothy Smith Published May 11, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/XxIFcxnVnsSNp-8tiG5FtjKlPrQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-521629530-591e3ec75f9b58f4c0e080a4.jpg"
-        },
-        {
-          "id": "a0dd351afbe3cc7846d91e01f893c9dc",
-          "author": "investopedia.com",
-          "description": "The Google unit of Alphabet Inc. (GOOGL, GOOG) is a major target of a new U.K. government push against the power of big tech.",
-          "link": "https://www.investopedia.com/alphabet-faces-uk-move-against-big-tech-5271282",
-          "publishedOn": "2022-12-07T18:50:03.606Z",
-          "wordCount": 3610,
-          "title": "Alphabet (GOOGL) Faces U.K. Move Against Big Tech By Mark Kolakowski Published May 09, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/4hN-EmziZCzPihyEs5daH8Yb2zk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1337404394-da899f75737c434e99a69c24da5bb3f2.jpg"
-        },
-        {
-          "id": "215cb5158dfede49dd72343fd70e2141",
-          "author": "investopedia.com",
-          "description": "Chief corporate affairs officer Geoff Morrell is out after three months with the company, potentially signaling a shift in Disney's approach.",
-          "link": "https://www.investopedia.com/disney-corporate-affairs-officer-leaves-amid-turmoil-5271302",
-          "publishedOn": "2022-12-07T18:50:03.588Z",
-          "wordCount": 3920,
-          "title": "Disney Corporate Affairs Officer Leaves Amid Turmoil By Nathan Reiff Published May 07, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/fnX0S13z3uoyhDcO1Pw6r1PNNfY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/DisneyWorld-5b0af37f3de4230037cad1e4.jpg"
-        },
-        {
-          "id": "8e0a59bcd7ed38e0612d7471a3ac23b2",
-          "author": "investopedia.com",
-          "description": "Ranjan has extensive experience scaling IT operations and could be key to growing AMD's IT business.",
-          "link": "https://www.investopedia.com/amd-appoints-hasmukh-ranjan-as-cio-5271097",
-          "publishedOn": "2022-12-07T18:50:03.557Z",
-          "wordCount": 3643,
-          "title": "AMD Appoints Hasmukh Ranjan as Chief Information Officer By Nathan Reiff Published May 05, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/FLi29PvBZ9EWzbKv8xYOTA8onIQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ap_100713151478-5bfc383446e0fb0051c14702.jpg"
-        },
-        {
-          "id": "a978cef5e049f01e60029d417f2d090f",
-          "author": "investopedia.com",
-          "description": "Stories circulating online in recent days that Pfizer said its COVID-19 vaccine is unsafe for pregnant women are not true, per reports.",
-          "link": "https://www.investopedia.com/misinformation-proliferates-surrounding-pfizer-vaccine-5271959",
-          "publishedOn": "2022-12-07T18:50:03.522Z",
-          "wordCount": 3873,
-          "title": "Misinformation Proliferates Surrounding Pfizer (PFE) Vaccine By Nathan Reiff Published May 12, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/PzhjhcJQ-zz_mIJz6nWgtUn2j0I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pfizer-vaccine-AdobeStock_391950775_Editorial_Use_Only-5059a28e95194bc98a31db3b795eafd9.jpg"
-        },
-        {
-          "id": "49b47cf9f060e878e6736316e08d7765",
-          "author": "investopedia.com",
-          "description": "Tesla (TSLA) recalled 130,000 Model S, Model 3, Model X SUVs, and Model Y SUVs from 2021 and 2022 whose touch screens overheat and go blank.",
-          "link": "https://www.investopedia.com/tesla-recalls-vehicles-over-touch-screen-issues-5271765",
-          "publishedOn": "2022-12-07T18:50:03.499Z",
-          "wordCount": 3612,
-          "title": "Tesla (TSLA) Recalls 130,000 U.S. Vehicles Over Touch Screen Issues By Vidya Ramakrishnan Published May 12, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/4CSqAd_4Ikt2-PGccLm6NEgQRc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/bram-van-oost-2NAquPmxld8-unsplash-b3ccc9b241704cf7a63db834744a77d9.jpg"
-        },
-        {
-          "id": "f6795cf9098b46e68e1e61c40055fe80",
-          "author": "Investopedia",
-          "description": "Strong government regulations and Meta's global restructuring may have impacted the executives' choices to leave",
-          "link": "https://www.investopedia.com/three-executives-leave-meta-india-6829632",
-          "publishedOn": "2022-12-07T18:50:03.460Z",
-          "wordCount": 3591,
-          "title": "Three executives leave Meta India",
-          "imageUrl": "https://www.investopedia.com/thmb/HoIuRUco2XrVkfExWfCAIzfqumg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/META-Facebook-turned-over-chat-messages-01-080922-0e8b22d36cbe42018f8ee91e23785d81.jpg"
-        },
-        {
-          "id": "88c996c5c7c6f1077c93c05883ccd43b",
-          "author": "investopedia.com",
-          "description": "Exit comes after co-CEO of parent Salesforce announced his resignation.",
-          "link": "https://www.investopedia.com/slack-ceo-exits-6835883",
-          "publishedOn": "2022-12-07T18:50:03.424Z",
-          "wordCount": 3468,
-          "title": "Slack CEO to Leave the Company",
-          "imageUrl": "https://www.investopedia.com/thmb/u83e2aBPBQS2iNepmHwr_mo91GA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/004__how-to-use-slack-huddles-6830663-9d53c31ff3304d0ebcf10d7afc361475.jpg"
-        },
-        {
-          "id": "3bea4f151b87c580a3361a41a319dcdc",
-          "author": "Investopedia",
-          "description": "Internal advertising revenue projections have fallen to $1.1 billion from $1.4 billion since Musk's takeover.",
-          "link": "https://www.investopedia.com/twitter-advertisers-6835691",
-          "publishedOn": "2022-12-07T18:50:03.363Z",
-          "wordCount": 3634,
-          "title": "Musk Struggles to Retain Twitter Advertisers",
-          "imageUrl": "https://www.investopedia.com/thmb/nhixVHM7shJhrD2vl4WwcPzV7UI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1393786687-110a4c4a3dc848b69774e2b6095df98b.jpg"
-        },
-        {
-          "id": "ce73e438ec9c62663c8289d413b98d6d",
-          "author": "Investopedia",
-          "description": "The vacancy rate in San Francisco now tops 25% with more cuts on the way",
-          "link": "https://www.investopedia.com/tech-layoffs-2022-6829344",
-          "publishedOn": "2022-12-07T18:50:03.308Z",
-          "wordCount": 3929,
-          "title": "Tech Layoffs, Work From Home Weigh on Office Markets",
-          "imageUrl": "https://www.investopedia.com/thmb/2zoGjlIzB0liKuvI5-sOKlCeGcg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/london-breed-725307cdec8648969aa0fa8cde5be42a.jpg"
+          "imageUrl": null
         }
       ]
     },
     {
       "title": "Markets News",
-      "feedUrl": "https://rss.app/feeds/qa7DNKzrFJZOz8Bc.xml",
+      "feedUrl": "https://rss.app/feeds/UWnMV6nTNN8mPDUG.xml",
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
-          "id": "6827a856afba4e95e7778cfb18c72424",
-          "author": "rss.app",
-          "description": "Your trial has expired. Please update your subscription plan at rss.app. - (qa7DNKzrFJZOz8Bc)",
-          "link": "https://rss.app/",
-          "publishedOn": "2022-12-14T19:11:05.000Z",
-          "wordCount": 1962,
-          "title": "[Action required] Your RSS.app Trial has Expired.",
-          "imageUrl": "https://rss.app/static/img/images/rss-app.png"
-        },
-        {
-          "id": "13d360dde87d4020913955c9412b4846",
-          "author": "investopedia.com",
-          "description": "The markets expect the FOMC to vote for a 25-basis-point fed funds rate hike at its meeting on March 15-16, 2022.",
-          "link": "https://www.investopedia.com/markets-expect-25-basis-point-rate-hike-in-march-2022-5221737",
-          "publishedOn": "2022-12-13T19:10:46.223Z",
-          "wordCount": 4277,
-          "title": "Markets Expect 25-Basis-Point Fed Rate Hike in March 2022 By Mark Kolakowski Updated Apr 03, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/_4kxGljcDzrAnkZY7tagXcYlKOk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/interest_rate_calc_istock_523159608-0bc83ed2fad2402eaddefa2419649148.jpg"
-        },
-        {
-          "id": "75577dbb7470a00befac908c6cd39868",
+          "id": "a1aef70baf83ee4267c35c804b1e908b",
           "author": "Investopedia",
-          "description": "International and U.S. small-cap stocks are attractively priced after this year's losses, according to the investing firm.",
-          "link": "https://www.investopedia.com/vanguard-2023-bonds-recession-6890716",
-          "publishedOn": "2022-12-12T21:12:22.685Z",
-          "wordCount": 3344,
-          "title": "Bonds to Help Investors Weather 2023 Recession, Vanguard Says",
-          "imageUrl": "https://www.investopedia.com/thmb/JiS0hNlLDmDGuq5wMEjf0QEfm_A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/BondValuation_GettyImages-1226825433-0c7b9a198a004bc9b2892774f48e0894.jpg"
+          "description": "As the Federal Reserve meets to discuss how to deal with rising inflation, soaring energy prices continue to create problems.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8866d3f70da450748f8f2beee228248c414c8e238a39a3df1779138b32c663",
+          "publishedOn": "2022-12-14T22:08:41.165Z",
+          "wordCount": 412,
+          "title": "Natural Gas Prices Soar",
+          "imageUrl": null
         },
         {
           "id": "8492c376f55e76f7d5e46c182a6a6f67",
           "author": "Investopedia",
           "description": "After a whirlwind year in the markets, financial advisors and investing professionals share their advice to clients about what to expect in 2023.",
-          "link": "https://www.investopedia.com/financial-advisors-on-what-the-new-year-will-bring-for-clients-6890687",
-          "publishedOn": "2022-12-12T18:17:03.389Z",
-          "wordCount": 3718,
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca806ec9e311a6553884c339a7e4333e80564c8e3f8b75a69a433f09cf63907edf970d21dae334a0b8f429eee4c32fb725e72d42843b5d455000f4f6a6cd64149f8aeff28c94ce",
+          "publishedOn": "2022-12-14T22:08:40.709Z",
+          "wordCount": 412,
           "title": "Financial Advisors on What 2023 Will Bring for Clients",
-          "imageUrl": "https://www.investopedia.com/thmb/Y3TuoFxiajvwchkzKSos67DYM54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/advisorssentiment-b2e111e87d57409eb1706f437213908c.jpg"
+          "imageUrl": null
+        },
+        {
+          "id": "75577dbb7470a00befac908c6cd39868",
+          "author": "Investopedia",
+          "description": "International and U.S. small-cap stocks are attractively priced after this year's losses, according to the investing firm.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9066c9e50aa44e3dc5dc68f1a1772f804a5bd07d973db29751384dd465d86589cb4a3b92b0",
+          "publishedOn": "2022-12-14T22:08:40.703Z",
+          "wordCount": 412,
+          "title": "Bonds to Help Investors Weather 2023 Recession, Vanguard Says",
+          "imageUrl": null
+        },
+        {
+          "id": "13d360dde87d4020913955c9412b4846",
+          "author": "rss.app",
+          "description": "",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b66d5e91ab14f748d9628a6f12e60dd1112c1319631a2df52244dd57fd821d0861f21cbef3eb7b8ea2eafe58f3fa624a4785fd066025d015eaca4fb8e",
+          "publishedOn": "2022-12-14T22:08:40.698Z",
+          "wordCount": 412,
+          "title": "Markets Expect 25-Basis-Point Fed Rate Hike in March 2022 By Mark Kolakowski Updated Apr 03, 2022",
+          "imageUrl": null
         },
         {
           "id": "837ca90fe1f26b76d80d4551dd7732a1",
           "author": "Investopedia",
           "description": "Cryptocurrency prices were hammered over the weekend following last week’s big sell-off in U.S. stocks. The price of Bitcoin fell about 4% between Friday night and Sunday to below $33,000.",
-          "link": "https://www.investopedia.com/crypto-collapse-5271439",
-          "publishedOn": "2022-12-12T12:26:57.194Z",
-          "wordCount": 3011,
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8575def20baa113a878234a2e22928c2110d9461d16be8",
+          "publishedOn": "2022-12-14T22:08:40.691Z",
+          "wordCount": 412,
           "title": "Crypto Collapse",
-          "imageUrl": "https://www.investopedia.com/thmb/gHDBSZwEhuNa4EAAwzYQUyxPDWg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/bitcoin-2008262_640-ebd71792a6894a64a60d36fa6ba204cc.jpg"
-        },
-        {
-          "id": "a1aef70baf83ee4267c35c804b1e908b",
-          "author": "Investopedia",
-          "description": "As the Federal Reserve meets to discuss how to deal with rising inflation, soaring energy prices continue to create problems.",
-          "link": "https://www.investopedia.com/natural-gas-prices-soar-5270930",
-          "publishedOn": "2022-12-12T12:26:57.016Z",
-          "wordCount": 2996,
-          "title": "Natural Gas Prices Soar",
-          "imageUrl": "https://www.investopedia.com/thmb/dc9uZ0GuwZZG3cq4j-QlYHDnnnM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-524198046-ea657597816d4ee1b531620a05392d02.jpg"
-        },
-        {
-          "id": "fbea8377bfc3a8d1d513f6b416f2bad5",
-          "author": "Investopedia",
-          "description": "The Dow Jones Transportation Average (DJTA) has lost more than 6% of its value this week and is down about 25% from its 52-week high, putting it into bear market territory.",
-          "link": "https://www.investopedia.com/transports-off-the-rails-5296146",
-          "publishedOn": "2022-12-10T01:17:19.006Z",
-          "wordCount": 3091,
-          "title": "Transports Off the Rails",
-          "imageUrl": "https://www.investopedia.com/thmb/30hvl4hxTT5C1-Vd4n029-uTqkw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/csx_2-5bfc43f3c9e77c00263611db.jpg"
-        },
-        {
-          "id": "97cc7a799d933714f64f73fc8908c167",
-          "author": "Investopedia",
-          "description": "Oil prices surged yesterday after European Union (EU) leaders reached a deal to ban 90% of Russian crude.",
-          "link": "https://www.investopedia.com/slick-gains-for-oil-markets-5324107",
-          "publishedOn": "2022-12-10T01:17:18.939Z",
-          "wordCount": 3062,
-          "title": "Oil Prices Surged Following EU Ban on Russian Crude",
-          "imageUrl": "https://www.investopedia.com/thmb/S9-v5RLkYCHZ4S2dvpOIeW74dVs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/shutterstock_244552450_oil-8c0960706c9d489bbfd23308c1866f50.jpg"
-        },
-        {
-          "id": "4c9df08699b661b749dd02232f7920e5",
-          "author": "Investopedia",
-          "description": "Natural gas prices surged 36% in Europe over the weekend after Russia announced it was halting the flow of natural gas through its Nord Stream gas pipeline. European natural gas prices are now up 400% from a year ago, though off their August highs.",
-          "link": "https://www.investopedia.com/russia-pipeline-halt-sends-natural-gas-prices-soaring-6543235",
-          "publishedOn": "2022-12-09T01:22:09.661Z",
-          "wordCount": 3220,
-          "title": "Russia Pipeline Halt Sends Natural Gas Prices Soaring",
-          "imageUrl": "https://www.investopedia.com/thmb/uqnRCOsypTqpA63HTXpwRUblRXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1407996561-3cc080f169604676949692def00a7a94.jpg"
-        },
-        {
-          "id": "e27bad64418fd6eb05aded796b2031e9",
-          "author": "Investopedia",
-          "description": "Retail gasoline prices have declined for 50 consecutive days on the back of falling crude oil prices. The national average price for a gallon of gas has fallen to $4.14, from a peak of $5.02 in mid-June.",
-          "link": "https://www.investopedia.com/oil-and-gas-prices-slide-6363217",
-          "publishedOn": "2022-12-09T01:22:08.615Z",
-          "wordCount": 3181,
-          "title": "Oil and Gas Prices Slide",
-          "imageUrl": "https://www.investopedia.com/thmb/uVksXRiVbgDHp22yLahZMzJaZdw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1384112000-5a6ed12094be4021b4e1d5406dc8e1f0.jpg"
-        },
-        {
-          "id": "85d5a5eaa5410f1a2434158161fd2495",
-          "author": "Investopedia",
-          "description": "For the first time in 20 years, the U.S. dollar is nearing parity with the euro and has hit a twenty-year high against the Japanese yen. The earnings of major U.S. corporations, which obtain much of their sales revenue overseas, are likely to be negatively impacted.",
-          "link": "https://www.investopedia.com/strong-dollar-earnings-impact-5546932",
-          "publishedOn": "2022-12-09T01:22:08.588Z",
-          "wordCount": 3177,
-          "title": "Strong Dollar's Earnings Impact",
-          "imageUrl": "https://www.investopedia.com/thmb/S31F0PFEvC2vGm9b21cl1QegFeI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1325296925-062f4b7c9b674f1389a1aa01fb05a276.jpg"
-        },
-        {
-          "id": "b71d8c673a0f0cc08ae58e40006bdf02",
-          "author": "Investopedia",
-          "description": "Shares of cruise line operators jumped Friday after Carnival forecast a profit for the current quarter, lifting shares of Royal Caribbean (RCL) and Norwegian Cruise Line (NCLH)",
-          "link": "https://www.investopedia.com/cruise-lines-recover-5498635",
-          "publishedOn": "2022-12-09T01:22:08.573Z",
-          "wordCount": 3108,
-          "title": "Cruise Lines Recover",
-          "imageUrl": "https://www.investopedia.com/thmb/mqt7tSuDb__csM8KDNCX7iEiKF8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-200424334-001-c8a14e75a0fd4caf9531d72547ed5859.jpg"
-        },
-        {
-          "id": "2ea2f3e94f6d7f12b328d2873ac6b89c",
-          "author": "Investopedia",
-          "description": "Retreating inflation, plentiful jobs, and bearish sentiment provide potential fuel for further gains",
-          "link": "https://www.investopedia.com/reasons-stock-rally-may-continue-6834578",
-          "publishedOn": "2022-12-09T01:22:08.554Z",
-          "wordCount": 4833,
-          "title": "Five Reasons Stock Rally May Continue",
-          "imageUrl": "https://www.investopedia.com/thmb/2u_-i8Pv1JPzT5o275xRNGq8Pyk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/BuyStocksinaBearMarket-e4bdfd7266ef47e4893bd296058f092d.jpg"
-        },
-        {
-          "id": "8252949b6cb3cc1b14c445a7b39c0573",
-          "author": "Investopedia",
-          "description": "Traders are increasingly pricing in a rate hike of 100 basis points (bps) at the Federal Reserve's upcoming July policy meeting, following a hotter-than-expected inflation reading.",
-          "link": "https://www.investopedia.com/traders-bet-on-bigger-rate-hike-5649177",
-          "publishedOn": "2022-12-09T01:22:08.482Z",
-          "wordCount": 3155,
-          "title": "Traders Bet on Bigger Rate Hike",
-          "imageUrl": "https://www.investopedia.com/thmb/Dc8ogFN4CjwoJFxpW8S_TntK2nY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1359344663-d5355f6fbc7d4c67b8d66d5d7bda3505.jpg"
-        },
-        {
-          "id": "d2cfa07324040b97eb80532a3e847ce9",
-          "author": "Investopedia",
-          "description": "The retail sector will take center stage this week, offering investors a look at how slowing spending and changes in consumer buying habits are affecting sales.",
-          "link": "https://www.investopedia.com/retail-reports-in-focus-6455932",
-          "publishedOn": "2022-12-09T01:22:08.351Z",
-          "wordCount": 3252,
-          "title": "Retail Reports in Focus",
-          "imageUrl": "https://www.investopedia.com/thmb/nvhtUDgj82GcEPedJogbsVItEuc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1397973588-20334c07ed6a4f8ba744909a976da6c9.jpg"
-        },
-        {
-          "id": "94a29714dd9080ed10404e23a0f9a4fe",
-          "author": "Investopedia",
-          "description": "OPEC and its allies meet this week and will reportedly consider a production cut of over one million barrels per day to address what it considers a weak market.",
-          "link": "https://www.investopedia.com/oil-prices-surge-as-opec-considers-cut-6746387",
-          "publishedOn": "2022-12-09T01:22:08.284Z",
-          "wordCount": 3124,
-          "title": "Oil Prices Surge as OPEC Considers Cut",
-          "imageUrl": "https://www.investopedia.com/thmb/eER8fm4b2utbMMX2yXh0v7_nlhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1398175221-81c449b3c3f04ecf99fc40b76358105f.jpg"
-        },
-        {
-          "id": "37145d64d9d4b24300464ef467fe4471",
-          "author": "Investopedia",
-          "description": "The dearth of dealmaking at major banks is leading to layoffs, with Goldman Sachs planning to cut hundreds of jobs this month.",
-          "link": "https://www.investopedia.com/dearth-of-dealmaking-leads-to-layoffs-6665843",
-          "publishedOn": "2022-12-09T01:22:08.252Z",
-          "wordCount": 3078,
-          "title": "Dearth of Dealmaking Leads to Layoffs",
-          "imageUrl": "https://www.investopedia.com/thmb/DAnFhd8vIrsC3tmYCmvtcQSi2F0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-526243022-51269a29862c443695eceb221310b1d1.jpg"
-        },
-        {
-          "id": "ca513067971a49f4a2dce6f725c3e18f",
-          "author": "Investopedia",
-          "description": "The oil sector of the stock market has been the best-performing sector this year, and based on a new forecast for oil demand from OPEC, that could continue, at least over the short term.",
-          "link": "https://www.investopedia.com/opec-sees-booming-oil-demand-6824059",
-          "publishedOn": "2022-12-09T01:22:07.940Z",
-          "wordCount": 3101,
-          "title": "OPEC Sees Booming Oil Demand",
-          "imageUrl": "https://www.investopedia.com/thmb/eJirLiOpht5TlmJDD5JUYR6dEHM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1197308287-2f2158ea8b0c46dab0126cec9e1b6c61.jpg"
-        },
-        {
-          "id": "b0a30f955e1cb30252d94da8a17052ab",
-          "author": "Investopedia",
-          "description": "Big banks will kick off earnings season next week with JPMorgan, Citigroup, and Morgan Stanley expected to report results.",
-          "link": "https://www.investopedia.com/big-banks-impacted-by-deal-decline-5525444",
-          "publishedOn": "2022-12-09T01:22:07.875Z",
-          "wordCount": 3134,
-          "title": "Big Banks Impacted by Deal Decline",
-          "imageUrl": "https://www.investopedia.com/thmb/X4WrT9fGVqcEXW0MS9C_9mOA1AY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1327247780-29e323dbf07e45e6965c0fc40dc4d528.jpg"
-        },
-        {
-          "id": "4e078bc7ba10f7da53b45aaddf2a70dd",
-          "author": "Investopedia",
-          "description": "Earnings season kicks off in earnest this week, with major consumer and financial companies reporting results.",
-          "link": "https://www.investopedia.com/earnings-season-kicks-off-5525871",
-          "publishedOn": "2022-12-09T01:22:07.774Z",
-          "wordCount": 3179,
-          "title": "Earnings Season Kicks Off",
-          "imageUrl": "https://www.investopedia.com/thmb/ZGbVuopZ8XbP5VrZp6et1mlcGk4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1312224957-59be899a175c4554bc53ef24f74a981d.jpg"
-        },
-        {
-          "id": "8432468054a47a2a4a98611d366d935b",
-          "author": "Investopedia",
-          "description": "With most of the S&P 500 companies having reported third quarter earnings, analysts are now training their sights on fourth quarter profits and 2023 expectations.",
-          "link": "https://www.investopedia.com/q4-2023-earnings-estimates-begin-to-fall-6831342",
-          "publishedOn": "2022-12-09T01:22:07.706Z",
-          "wordCount": 3117,
-          "title": "Q4 2022 Earnings Estimates Begin to Fall",
-          "imageUrl": "https://www.investopedia.com/thmb/VN-wD4jmjqwYQUCCGeUEyKlaMk0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1296722635-89a5384ce58c430ea65de7ebee2a8bd2.jpg"
-        },
-        {
-          "id": "19c46b1f63329797ccbad926c42d5ad9",
-          "author": "Investopedia",
-          "description": "Several of the nation's largest banks have announced plans to boost dividends, with Morgan Stanley, Goldman Sachs, Bank of America, and Wells Fargo among those increasing dividends",
-          "link": "https://www.investopedia.com/big-banks-announce-dividend-plans-5498885",
-          "publishedOn": "2022-12-09T01:22:07.631Z",
-          "wordCount": 3087,
-          "title": "Big Banks Announce Dividend Plans",
-          "imageUrl": "https://www.investopedia.com/thmb/lIOEi-hFI20icsKVOqZX1jc1Yzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-171080523-509e59769647440c8edf435db5fbd4df.jpg"
-        },
-        {
-          "id": "0a32b738424f8aec2647c86cfc0b1060",
-          "author": "Investopedia",
-          "description": "While the S&P 500 posted its worst performance for the first half of the year since the 1970s, and other global markets have struggled as central banks raise interest rates, there’s a bull market underway in China.",
-          "link": "https://www.investopedia.com/china-stock-market-rally-5524655",
-          "publishedOn": "2022-12-09T01:22:07.592Z",
-          "wordCount": 3151,
-          "title": "China's Stock Market Rallies",
-          "imageUrl": "https://www.investopedia.com/thmb/8iMtAygDeRiFHu-j6DiNpT9_zUE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-636731690-3ceef8075a9a430a8520912d189ef2ec.jpg"
-        },
-        {
-          "id": "c03fbbc54a40d6e50500bd20064a759d",
-          "author": "Investopedia",
-          "description": "Oil prices plummeted yesterday in their biggest daily drop since March, reflecting concerns about a potential global recession and lockdowns in China that could slash demand.",
-          "link": "https://www.investopedia.com/oil-prices-plunge-as-price-predictions-vary-5525340",
-          "publishedOn": "2022-12-09T01:22:07.565Z",
-          "wordCount": 3091,
-          "title": "Oil Prices Plunge as Price Predictions Vary",
-          "imageUrl": "https://www.investopedia.com/thmb/VkJanAOFBUKpe_BCl8vBZfkIUdM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1213625754-1d1db8f6379540f8adceb319235fbf16.jpg"
-        },
-        {
-          "id": "0eeca877e72b51f9fac05d3d77172717",
-          "author": "Investopedia",
-          "description": "Oil prices are on the rise as the U.S. plans to release more crude oil from its Strategic Petroleum Reserve.",
-          "link": "https://www.investopedia.com/oil-prices-rise-as-us-plans-to-tap-oil-reserves-6753409",
-          "publishedOn": "2022-12-09T01:22:07.504Z",
-          "wordCount": 3119,
-          "title": "Oil Prices Rise as US Plans to Tap Oil Reserves",
-          "imageUrl": "https://www.investopedia.com/thmb/VPCX5ODDVxPCO6wPlTGwK9OqQIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1327982065-0225a2073a8845c59550d16cc89763b4.jpg"
-        },
-        {
-          "id": "7fd573d58af487ae06855fba4cf8fd42",
-          "author": "investopedia.com",
-          "description": "Stocks in the U.S. are adding to yesterday's gains that were sparked by Fed comments that rates will be hiked less than expected.",
-          "link": "https://www.investopedia.com/russia-credit-cut-to-junk-on-sanctions-5221006",
-          "publishedOn": "2022-12-07T18:50:05.074Z",
-          "wordCount": 3799,
-          "title": "Moody's Cuts Russia's Credit, Wheat Prices Soar, Powell Allays Investors' Fears By Ron Day Published Mar 03, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/h4opHMdth8zB3JmTeTfaj_cfg54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gettyimages_187748203-5bfc376cc9e77c0026b80c91.jpg"
-        },
-        {
-          "id": "02754d9dfe47dfbdf48b10b4e8f9cda2",
-          "author": "investopedia.com",
-          "description": "The Federal Reserve has sent its semi-annual report to Congress ahead of Jerome Powell's testimony on March 2-3, 2022.",
-          "link": "https://www.investopedia.com/federal-reserve-reports-on-monetary-policy-to-congress-5220788",
-          "publishedOn": "2022-12-07T18:50:05.059Z",
-          "wordCount": 4542,
-          "title": "Federal Reserve Reports on Monetary Policy to Congress By Mark Kolakowski Published Mar 01, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/Zs3PwWVXfEy78IKV7HWewIp6d5w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/43016849-Close-up-of-FEDERAL-RESERVE-SYSTEM-seal-on-US-dollar-bill-banknote-Stock-Photo-56a31bb13df78cf7727bd00b.jpg"
-        },
-        {
-          "id": "135efd115421be1dfca684a9d556df77",
-          "author": "investopedia.com",
-          "description": "In response to Russia's war on Ukraine, leading Western nations pledge to bar several Russian banks from the SWIFT system.",
-          "link": "https://www.investopedia.com/russian-banks-threatened-with-removal-from-swift-5220531",
-          "publishedOn": "2022-12-07T18:50:05.026Z",
-          "wordCount": 4101,
-          "title": "Russian Banks Threatened With Removal From SWIFT By Mark Kolakowski Updated Mar 01, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/bgDDPYZ4IvTT6-Ncq6hyI9B1hxo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/29_--shutterstock_295157267-5bfc390d46e0fb00517fa779.jpg"
-        },
-        {
-          "id": "833eec46887ca14fa9eab89e476ff52e",
-          "author": "Investopedia",
-          "description": "Emerging markets had a tough 2022, with inflation, a strong dollar, and volatile commodities markets all weighing on growth. We look forward to the year ahead for five major emerging markets.",
-          "link": "https://www.investopedia.com/emerging-markets-rebound-2023-6835105",
-          "publishedOn": "2022-12-07T18:50:05.000Z",
-          "wordCount": 5414,
-          "title": "Will Emerging Markets Rebound in 2023?",
-          "imageUrl": "https://www.investopedia.com/thmb/jnYLGiQL4PaAourjZFr5psepM9o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-526528747-a286d230034c4cfbb5342987ea86ce74.jpg"
-        },
-        {
-          "id": "2dc272b202fd77e0e5123ce81af48f1c",
-          "author": "investopedia.com",
-          "description": "Stocks are moving higher, gaining back ground lost yesterday, despite the Federal Reserve saying interest rates will move higher this month.",
-          "link": "https://www.investopedia.com/stocks-rise-powell-sticks-rate-hike-5220921",
-          "publishedOn": "2022-12-07T18:50:04.866Z",
-          "wordCount": 3781,
-          "title": "Market Wrap: Powell Sticks to Rate Hike, Ford Announces EV Move, AutoZone Soars By Ron Day Published Mar 02, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/OE7bDgHzypWdrG9Bri69zokCMK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/FedChairJeromePowell-617e160cd97142f0abb6068f312bfbd1.jpg"
-        },
-        {
-          "id": "f2bf70c69cde81506c84be266765f38d",
-          "author": "investopedia.com",
-          "description": "Gasoline prices may reach $4.50 soon, as the U.S. discusses banning Russian oil imports while Germany nixes such a plan.",
-          "link": "https://www.investopedia.com/gasoline-prices-pointing-to-all-time-highs-5221349",
-          "publishedOn": "2022-12-07T18:50:04.842Z",
-          "wordCount": 3602,
-          "title": "Gasoline Prices Pointing to All-Time Highs By Ron Day Published Mar 07, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/xazqQAEoEJdRInrIVLg5zjRrRZc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Manrefuelinghiscaratgasstation-c90606aaf39642e3a33088a97514b9cd.jpg"
-        },
-        {
-          "id": "3681f3e63cd4066ce4380f485c9204ac",
-          "author": "Investopedia",
-          "description": "The U.S. Securities and Exchange Commission (SEC) reportedly will not seek to ban payment for order flow, a key part of Robinhood's (HOOD) business model.",
-          "link": "https://www.investopedia.com/sec-won-t-prohibit-popf-6742632",
-          "publishedOn": "2022-12-07T18:50:04.815Z",
-          "wordCount": 3673,
-          "title": "SEC Will Not Prohibit Payment for Order Flow",
-          "imageUrl": "https://www.investopedia.com/thmb/FPWbIoO1KrgFsCTwYHC4bGjklEc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1342123442-fd171ae9946a4dc5b8b3ed65d07cea6d.jpg"
-        },
-        {
-          "id": "0c7102f0e5b40df51558b06e8aa2a805",
-          "author": "investopedia.com",
-          "description": "U.S. stocks are retreating from earlier gains on concerns the Russian war on Ukraine will contribute to worsening inflation, and services grew less than expected.",
-          "link": "https://www.investopedia.com/jobless-claims-cool-best-buy-soars-5221036",
-          "publishedOn": "2022-12-07T18:50:04.754Z",
-          "wordCount": 3435,
-          "title": "Jobless Claims Reach Lowest Level in 2022 By Ron Day Updated Mar 03, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/AdzQ6BtR1RPqZzdRv0omFCFj-3E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/shutterstock_476166214_bls_bureau_labor_statistics-5bfc3ee7c9e77c00587bc249.jpg"
-        },
-        {
-          "id": "1247ddb4d08e9890132df37c8284bc80",
-          "author": "Investopedia",
-          "description": "Shares of both tech giants are rising on the latest releases.",
-          "link": "https://www.investopedia.com/alphabet-announces-usd5-4-billion-acquisition-of-cybersecurity-firm-mandiant-inc-5221509",
-          "publishedOn": "2022-12-07T18:50:04.730Z",
-          "wordCount": 3136,
-          "title": "Alphabet Announces $5.4 Billion Acquisition of Cybersecurity Firm Mandiant, Inc. By Daniel Rathburn Updated Mar 08, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/gVvLxKimtihtlSHnKcClQQqnOn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/google-offices-in-berlin-467363984-5a6f3746875db900372007ef.jpg"
-        },
-        {
-          "id": "0b403ee386cb09c40721d03cd193c34c",
-          "author": "investopedia.com",
-          "description": "The U.S. Securities and Exchange Commission (SEC) voted on March 9, 2022, to mandate cybersecurity disclosures by public companies.",
-          "link": "https://www.investopedia.com/sec-proposes-mandatory-cybersecurity-disclosures-5221613",
-          "publishedOn": "2022-12-07T18:50:04.709Z",
-          "wordCount": 3882,
-          "title": "SEC Proposes Mandatory Cybersecurity Disclosures By Mark Kolakowski Updated Mar 09, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/UH_s36J-rnLoES69J8KaNAZqtfQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1035342596-53e9eac510854363b7939cfa6b3a2d2e.jpg"
-        },
-        {
-          "id": "e0fcd869776812fc2686cffc5df3017e",
-          "author": "investopedia.com",
-          "description": "The Dow Jones fell more than 600 points as crude oil surges past $105 a barrel, while financial and travel company shares slump.",
-          "link": "https://www.investopedia.com/stocks-rout-deepens-as-oil-soars-russian-invasion-raises-recovery-worries-5220791",
-          "publishedOn": "2022-12-07T18:50:04.693Z",
-          "wordCount": 3733,
-          "title": "Stocks' Rout Deepens as Oil Soars and Russian Invasion Raises Recovery Worries By Ron Day Published Mar 01, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/dTk0Wakf0vy0PEnl8Qk-3CGPnws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1311007681-2afbfba73b744b88ab3bd388ae6c8b00.jpg"
-        },
-        {
-          "id": "cf03b05b35a4239542c06d712dbe54b7",
-          "author": "investopedia.com",
-          "description": "Stocks are wavering, to mostly down, in the U.S. as investors grapple with rising uncertainty in global stability and interest rates",
-          "link": "https://www.investopedia.com/ceasefire-prospects-dim-after-talks-as-fear-index-jumps-5220588",
-          "publishedOn": "2022-12-07T18:50:04.668Z",
-          "wordCount": 3822,
-          "title": "Ruble Plummets, Stocks Drop, and Fear Index Rises as Ceasefire Hopes Fade By Ron Day Published Feb 28, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/150mDb9f8dREHKwI-dVMUVluhSw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-886586436-5b56883246e0fb0037cae12c.jpg"
-        },
-        {
-          "id": "4a4ed87ae5b4736c8f68aff0e9b0acd7",
-          "author": "Investopedia",
-          "description": "Experts share what investors should expect in 2023. See what they think will happen to inflation, sector rotation, and more.",
-          "link": "https://www.investopedia.com/experts-expect-2023-6836191",
-          "publishedOn": "2022-12-07T18:50:04.644Z",
-          "wordCount": 4354,
-          "title": "Experts Share Their Takes on What to Expect in 2023",
-          "imageUrl": "https://www.investopedia.com/thmb/udfrVl22zZkUNLDV72LDtXqJ4es=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-539253481-a9372b99675548a1a37b5b07e2f42773.jpg"
-        },
-        {
-          "id": "be4cd5d768326134ada800fc534feaa7",
-          "author": "Investopedia",
-          "description": "Federal Reserve Chair Jerome Powell said the central bank may moderate the magnitude of its interest rate increases but won't back down in inflation fight",
-          "link": "https://www.investopedia.com/fed-powell-markets-6834226",
-          "publishedOn": "2022-12-07T18:50:04.627Z",
-          "wordCount": 3836,
-          "title": "Fed's Powell Signals Intent to Moderate Interest Rate Hikes",
-          "imageUrl": "https://www.investopedia.com/thmb/Pl9N58U4bt2nXycs9c9KA-nsUBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/JeromeJayPowellFederalReserve_AdobeStock_251605607_Editorial_Use_Only-5c92b73246e0fb0001c3815a.jpeg"
-        },
-        {
-          "id": "de98e8c9e133fb6e9a0930f4286b2fd6",
-          "author": "investopedia.com",
-          "description": "Stocks worldwide continue being pounded as Russia's Ukrainian attack shows no sign of stopping. Wheat, corn, oil, and bond prices rose.",
-          "link": "https://www.investopedia.com/stocks-continue-to-plunge-as-war-rages-5220743",
-          "publishedOn": "2022-12-07T18:50:04.578Z",
-          "wordCount": 3769,
-          "title": "Major U.S. Indices Fell by 3% in February Amid Russia-Ukraine Conflict By Ron Day Published Mar 01, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/topMGtgqqFsl5MAP5imucjYMjw8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/172374670_Getty_RF_LO_BC1-1205977dde4b4433a12e3533b786ac0e.jpg"
-        },
-        {
-          "id": "7c18d24faa0e986fb0b725620dd4b88e",
-          "author": "investopedia.com",
-          "description": "Stocks around the world are rising after yesterday's slump, while commodity prices including oil, gas, wheat and corn rose",
-          "link": "https://www.investopedia.com/u-s-halts-russian-flights-as-war-rages-fed-sees-rate-hike-this-month-5220877",
-          "publishedOn": "2022-12-07T18:50:04.552Z",
-          "wordCount": 3887,
-          "title": "U.S. Halts Russian Flights as War Rages; Fed Sees Rate Hike This Month By Ron Day Published Mar 02, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/pRdAWzfqBrFLVQ-Fod26CJs2tsA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/FedChairJeromePowellTestifyingBeforetheSenateBankingCommittee-c41769970fe0417b92cfac961a990140.jpg"
-        },
-        {
-          "id": "d0d4ebc35d2fbe9f30ff5617513dba1e",
-          "author": "investopedia.com",
-          "description": "Gasoline prices around the U.S. topped $4 on average, with California pumps passing $5, as the U.S. considers banning Russian oil imports",
-          "link": "https://www.investopedia.com/fuel-prices-soar-as-u-s-considers-russian-oil-ban-5221293",
-          "publishedOn": "2022-12-07T18:50:04.525Z",
-          "wordCount": 3341,
-          "title": "Fuel Prices Reach 10-Year High as the U.S. Considers Russian Oil Ban By Ron Day Published Mar 07, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/dcF91xXmn-LY8To8dGJ_dg0w1nY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/u-s--gas-prices-rise-12-cents-in-past-week-174246471-2b24adf64eef4c83bf90c6a5b4af996d.jpg"
-        },
-        {
-          "id": "56c7a8d250247a03784316d0a32a318f",
-          "author": "Investopedia",
-          "description": "Soaring fuel, food and housing prices pushed prices up 7.9% since last year, as inflation hit a new 40-year high.",
-          "link": "https://www.investopedia.com/inflation-hits-new-40-year-high-as-war-pushes-oil-commodities-higher-5221751",
-          "publishedOn": "2022-12-07T18:50:04.495Z",
-          "wordCount": 3409,
-          "title": "Inflation Hits New 40-Year High as War Pushes Oil, Commodities Higher",
-          "imageUrl": "https://www.investopedia.com/thmb/cl9m0yzBfVAoG9O4QaYKfR-QZ-k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1193044978-17c3674bc4b3489abc009001d655a4f1.jpg"
-        },
-        {
-          "id": "4c0651f636a9f431098db1279431db87",
-          "author": "Investopedia",
-          "description": "The rule requiring masks on planes, buses and trains was set to expire March 18 and is extended one month, government agency says.",
-          "link": "https://www.investopedia.com/goldman-mcdonald-s-exit-russia-5221843",
-          "publishedOn": "2022-12-07T18:50:04.480Z",
-          "wordCount": 3484,
-          "title": "Goldman, McDonald's Latest Companies to Exit Russia By Ron Day Published Mar 10, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/tAfeSwormF_6dkRegyn6_a7RygM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-526243022-ce5c15fca7c24d10b989ce9eacaae392.jpg"
-        },
-        {
-          "id": "c93892e27dec810e0afd7d660bdc268e",
-          "author": "investopedia.com",
-          "description": "U.S. hiring boom expanded in February, with job gains in many economic sectors and the unemployment rate dropping to 3.8%",
-          "link": "https://www.investopedia.com/new-jobs-soar-unemployment-drops-on-widespread-gains-5221120",
-          "publishedOn": "2022-12-07T18:50:04.456Z",
-          "wordCount": 3264,
-          "title": "Hiring Soars Past Expectations, Dropping Unemployment to 3.8% By Ron Day Published Mar 04, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/WgEsYac6IC4s5rB-oCoxsW3wmd4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/BureauofLaborStatistics-0a868acbc1dd4b67a4f0dcfcb2bf040b.jpg"
-        },
-        {
-          "id": "9eca2b50c1b97cdf4ab1f1ad76d23e3d",
-          "author": "investopedia.com",
-          "description": "The SEC is seeking to increase public disclosures related to short sales, especially those made by large institutional investors.",
-          "link": "https://www.investopedia.com/sec-proposes-short-sale-disclosure-rule-5220340",
-          "publishedOn": "2022-12-07T18:50:04.427Z",
-          "wordCount": 3755,
-          "title": "SEC Proposes Short Sale Disclosure Rule By Mark Kolakowski Published Feb 25, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/rV7LbkVc6--_9QqexzrTjKMe0nc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-98203437-eec8c7f3e3b14449817b2a196bba0edf.jpg"
-        },
-        {
-          "id": "afecdb7add0009d8290e369048360217",
-          "author": "investopedia.com",
-          "description": "Bumble shares fly after the online dating app operator reported big gains in revenue and earnings in the fourth quarter.",
-          "link": "https://www.investopedia.com/bumble-s-buzz-shares-soar-45-as-online-dating-app-signs-up-more-users-5221653",
-          "publishedOn": "2022-12-07T18:50:04.412Z",
-          "wordCount": 3393,
-          "title": "Bumble's Buzz: Shares Fly 45% as Dating App Adds More Users By Ron Day Published Mar 09, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/CWE6afwXPkBV3yVI5sXlq758wYA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/WomanholdingiPhone-1d2dfc4c01ef4f8bbc362dd501a19ba2.jpg"
-        },
-        {
-          "id": "c41c6c45cd60c4878fe3c410f48bb02a",
-          "author": "Investopedia",
-          "description": "The SEC and the CFTC have levied nearly $2 billion in penalties on various Wall Street firms for record-keeping failures.",
-          "link": "https://www.investopedia.com/firms-fined-whatsapp-6744781",
-          "publishedOn": "2022-12-07T18:50:04.378Z",
-          "wordCount": 3823,
-          "title": "Wall Street Faces Nearly $2B in Penalties Over Record Keeping",
-          "imageUrl": "https://www.investopedia.com/thmb/A4wfkCpvcLLkBWgQY4lQ_msKUyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-82880353-064135cb483940ff9230420d095b6d31.jpg"
-        },
-        {
-          "id": "fdc9fa60de19f6c9d99e2e0ffcfef905",
-          "author": "investopedia.com",
-          "description": "Stocks around the world are falling as fighting continues in Ukraine amid talks at the border as oil, gas and grain prices jumped.",
-          "link": "https://www.investopedia.com/russians-ukrainians-hold-talks-at-border-as-sanctions-bite-russia-financial-system-5220534",
-          "publishedOn": "2022-12-07T18:50:04.333Z",
-          "wordCount": 3816,
-          "title": "Stocks Fall as Fighting Continues and Sanctions Deepen; Talks Open at Border By Ron Day Published Feb 28, 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/OlMjRapZbLpKOXVYBy7u9_ZIQkk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/russia_bank-5bfc401fc9e77c00587bff03.jpg"
-        },
-        {
-          "id": "f66e1c60af8f33ae84f3dc2fc61618f4",
-          "author": "academy.investopedia.com",
-          "description": "Learn to day trade from a Wall Street Professional. Our Day Trading course will teach you proven strategies to get you started in the market.",
-          "link": "https://academy.investopedia.com/products/become-a-day-trader?aca_ref=header_course_1",
-          "publishedOn": "2022-12-07T18:50:04.172Z",
-          "wordCount": 2648,
-          "title": "Become a Day Trader",
-          "imageUrl": "http://cdn.shopify.com/s/files/1/1976/0763/products/become_a_day_trader_1024x1024.jpg?v=1518564521"
+          "imageUrl": null
         }
       ]
     },
@@ -2649,6 +1809,76 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-december-13-2022-rates-drop-6891759",
+          "author": "Sabrina Karl",
+          "description": "Shedding almost a quarter percentage point, the 30-year mortgage average has dropped to its lowest point in three months.",
+          "link": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-december-13-2022-rates-drop-6891759?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2022-12-14T21:51:56.000Z",
+          "wordCount": 3539,
+          "title": "Today's Mortgage Rates & Trends - December 14, 2022: Rates drop",
+          "imageUrl": "https://www.investopedia.com/thmb/2BWpWcP0p_fm30EW4qMrW7YcR4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/DecemberMortageRatesNews-14-393cd44738fb4d99b5a96bab0c47d77e.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/financial-edge/0812/smartest-things-to-do-with-10000-of-savings.aspx",
+          "author": "David Bakke",
+          "description": "It's crucial that you put your hard-earned cash to good use. Putting away $10,000 is comforting, but investing that money prudently is even better.",
+          "link": "https://www.investopedia.com/financial-edge/0812/smartest-things-to-do-with-10000-of-savings.aspx?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2022-12-14T21:49:20.000Z",
+          "wordCount": 4612,
+          "title": "Smartest Things to Do With $10,000 of Savings",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/vGyVEfmtpkUhDQjHZB5eL7Errws=/205x136/86527910-5bfc2ddb46e0fb00517c52ee.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/vGyVEfmtpkUhDQjHZB5eL7Errws=/205x136/86527910-5bfc2ddb46e0fb00517c52ee.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/f/federalfundsrate.asp",
+          "author": "James Chen",
+          "description": "The federal funds rate is the target interest rate set by the Fed at which commercial banks borrow & lend their extra reserves to one other overnight.",
+          "link": "https://www.investopedia.com/terms/f/federalfundsrate.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2022-12-14T21:47:40.000Z",
+          "wordCount": 5499,
+          "title": "Federal Funds Rate: What It Is, How It's Determined, and Why It's Important",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/VjUIx3g5IkHvsKd4oWwAR8Wzg3w=/205x136/investing13-5bfc2b8f46e0fb0026016f4d.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/VjUIx3g5IkHvsKd4oWwAR8Wzg3w=/205x136/investing13-5bfc2b8f46e0fb0026016f4d.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/fed-rate-hike-dec2022-6891883",
+          "author": "Igor Greenwald",
+          "description": "The central bank raised its key rate by 50 basis points and suggested it may increase rates another 75 basis points to more than 5% next year.",
+          "link": "https://www.investopedia.com/fed-rate-hike-dec2022-6891883?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2022-12-14T21:44:04.000Z",
+          "wordCount": 3196,
+          "title": "Fed Downsizes Latest Rate Hike, Remains Hawkish on 2023",
+          "imageUrl": "https://www.investopedia.com/thmb/zRzZtlC2C_WLqJY5wm0TaVECYYs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1449167342-e321e2025aca4047889645666c1f2ed7.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/study-shows-manufactured-home-financing-still-difficult-6890065",
+          "author": "Matt Ryan Webber",
+          "description": "Pew research released in December 2022 shows that many homebuyers are denied financing for buying manufactured homes. In 2021 lenders denied 54% of completed applications for financing a purchase of a manufactured home. They have called for the federal government’s Title I Manufactured Housing Program to be extended.",
+          "link": "https://www.investopedia.com/study-shows-manufactured-home-financing-still-difficult-6890065?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2022-12-14T21:10:36.000Z",
+          "wordCount": 3500,
+          "title": "Pew Study Shows Financing For Manufactured Homes Still Difficult",
+          "imageUrl": "https://www.investopedia.com/thmb/DTRkBZhWRhSbp8KWCF2NhcpUdr0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-508486964-f3658c06a5e34648ac0843c11ddaf7ff.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/musk-rent-twitter-6891694",
+          "author": "Igor Greenwald",
+          "description": "The EV maker's stock is down more than 30% in under two months while its CEO has been fanning political feuds on Twitter.",
+          "link": "https://www.investopedia.com/musk-rent-twitter-6891694?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2022-12-14T20:55:55.000Z",
+          "wordCount": 3934,
+          "title": "Musk Bombshells Keep Coming Amid Tesla Shares' Crash",
+          "imageUrl": "https://www.investopedia.com/thmb/QcF4ZICXmbTTzBIH0yZYwvNAgvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1242718802-1df0398cc4844bb09e24fa6458c3f523.jpg"
+        },
         {
           "id": "https://www.investopedia.com/ask/answers/03/072903.asp",
           "author": "Denise Appleby",
@@ -6997,6 +6227,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/research/ibd-stock-of-the-day/ge-nears-buy-point-amid-turnaround-historical-split/?src=A00220&yptr=yahoo",
+          "publishedOn": "2022-12-14T21:40:35.000Z",
+          "wordCount": null,
+          "title": "GE, Stock Of The Day, Nears Buy Point Amid Turnaround, Historic Split",
+          "imageUrl": null
+        },
+        {
           "id": "wall-street-saying-fed-rate-194747450.html",
           "author": null,
           "description": "(Bloomberg) -- For investors trying to gauge levels of hawkishness at the Federal Reserve, Wednesday was an example of words carrying more weight than actions. Most Read from BloombergApple to Allow Outside App Stores in Overhaul Spurred by EU LawsIn 60 Seconds Before CPI Hit, Heavy Trading Drove Mystery RallyMusk Loses World’s Richest Title to Arnault With Tesla UnwindingWho Is Bernard Arnault, the World’s Richest Person?Is Putin Finally Getting Smart About His Ukraine Disaster?As part of its r",
@@ -7005,6 +6245,16 @@
           "wordCount": 14405,
           "title": "Here’s What Wall Street Is Saying About the Fed’s Rate Hike",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/34c3c50ecb07a506e9065a91f798e75c"
+        },
+        {
+          "id": "is-there-still-time-to-buy-at-t-stock-the-chart-hints?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "AT&T stock pays out a 5.8% dividend and has been trading much better lately. Here's how to approach it now.",
+          "link": "https://www.thestreet.com/investing/stocks/is-there-still-time-to-buy-at-t-stock-the-chart-hints?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2022-12-14T20:25:00.000Z",
+          "wordCount": 3538,
+          "title": "Is There Still Time to Buy AT&T Stock? The Chart Hints.",
+          "imageUrl": "https://www.thestreet.com/.image/t_share/MTgxMDc5NTQ3MzUxOTM0MzEy/att_3.jpg"
         },
         {
           "id": "plug-power-stock-hydrogen-51671048374?siteid=yhoof2&yptr=yahoo",
