@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "30a8e0c03cdd491dbf55e9bdbca55244",
+          "author": "investopedia.com",
+          "description": "Apple (AAPL) is the latest tech giant that reportedly plans to slow hiring and spending growth next year to cope with a potential economic downturn.",
+          "link": "https://www.investopedia.com/apple-hiring-holdup-5680326",
+          "publishedOn": "2022-12-14T15:13:56.457Z",
+          "wordCount": 3007,
+          "title": "Apple’s Hiring Holdup By Danial Clark Published Jul 19, 2022",
+          "imageUrl": "https://www.investopedia.com/thmb/wGRGrPu7zAApRuYHLjlPSJVx8a0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-520929624-43752fa7e3b94950bdee92b171793eb9.jpg"
+        },
+        {
           "id": "84e391113391bf5fb90c60d61f1b9078",
           "author": "investopedia.com",
           "description": "Semiconductor firms Nvidia (NVDA) and Advanced Micro Devices (AMD) reported new U.S. export restrictions would limit sales to China, sending shares of both companies and other semiconductor stocks tumbling on Thursday.",
@@ -947,6 +957,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6242088/",
+          "author": "Thijs Rösken",
+          "description": "De zuidelijke supermarktketen Jan Linders gaat tientallen winkels met de Albert Heijn-formule uitbaten. Het bestaande personeel kan in de winkels blijven werken.",
+          "link": "https://www.nu.nl/economie/6242088/albert-heijn-slaat-slag-bij-limburgse-keten-jan-linders-winkels-worden-ahs.html",
+          "publishedOn": "2022-12-14T14:30:43.000Z",
+          "wordCount": 1072,
+          "title": "Albert Heijn slaat slag bij Limburgse keten: Jan Linders-winkels worden AH's",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/auexzu3afxig_sqr256.jpg/albert-heijn-slaat-slag-bij-limburgse-keten-jan-linders-winkels-worden-ahs.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/auexzu3afxig_sqr256.jpg/albert-heijn-slaat-slag-bij-limburgse-keten-jan-linders-winkels-worden-ahs.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6242088/",
           "author": "Thijs Rösken",
@@ -6815,6 +6840,56 @@
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
+          "link": "https://www.investors.com/news/economy/fed-meeting-soft-cpi-sets-stage-for-hawkish-surprise-sp-500/?src=A00220&yptr=yahoo",
+          "publishedOn": "2022-12-14T14:50:24.000Z",
+          "wordCount": null,
+          "title": "Fed Meeting: Get Ready For A Hawkish Surprise; S&P 500 Rally Faces Test",
+          "imageUrl": null
+        },
+        {
+          "id": "stock-market-news-live-updates-december-14-2022-111241774.html",
+          "author": null,
+          "description": "U.S. stocks struggled for direction at Wednesday's open as investors face the Federal Reserve’s seventh and final interest rate increase of 2022.",
+          "link": "https://finance.yahoo.com/news/stock-market-news-live-updates-december-14-2022-111241774.html",
+          "publishedOn": "2022-12-14T14:36:53.000Z",
+          "wordCount": 14053,
+          "title": "Stock market news live updates: Stocks nudge higher as rate decision from Fed looms",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Vrc_FQDxiXdHrH9ItTyb1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/1ad71c10-7b18-11ed-bbe6-988d51f45f62"
+        },
+        {
+          "id": "goldman-sachs-quantumscape-stock-downgrade-51671027242?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Goldman Sachs automotive analyst Mark Delaney downgraded QuantumScape (ticker; QS) stock to Sell from Hold late Tuesday. He cut his price target to $5 a share from $8.",
+          "link": "https://www.barrons.com/articles/goldman-sachs-quantumscape-stock-downgrade-51671027242?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2022-12-14T14:15:00.000Z",
+          "wordCount": 6334,
+          "title": "Goldman Sachs Sours on QuantumScape Stock. The Stock Is Falling.",
+          "imageUrl": "https://images.barrons.com/im-685324/social"
+        },
+        {
+          "id": "hit-inflation-irs-1-400-172147085.html",
+          "author": null,
+          "description": "The IRS has started sending out letters to approximately 9 million households that might have missed out on several pandemic-related tax refunds and stimulus checks, which may include the third round of stimulus payments that delivered $1,400 to individuals, $2,800 … Continue reading → The post Hit by Inflation? The IRS Has $1,400 Waiting For You appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/hit-inflation-irs-1-400-172147085.html",
+          "publishedOn": "2022-12-14T14:00:36.000Z",
+          "wordCount": 14348,
+          "title": "The IRS May Still Owe You $1,400: Here's How to Check",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/fad63a13df0cdbcdd236af6599d8ac24"
+        },
+        {
+          "id": "genius-idiot-3-reasons-why-225000954.html",
+          "author": null,
+          "description": "Despite Musk’s outlandish tweets, he’s serious about turning things around.",
+          "link": "https://finance.yahoo.com/news/genius-idiot-3-reasons-why-225000954.html",
+          "publishedOn": "2022-12-14T14:00:00.000Z",
+          "wordCount": 14565,
+          "title": "It's fun to boo a billionaire, but here's 3 reasons why Elon Musk might actually know what he's doing with Twitter — and could get the last laugh",
+          "imageUrl": "https://media.zenfs.com/en/moneywise_327/343ba5c50424a58d2f771b8845f8f82e"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
           "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-ahead-of-fed-rate-hike-powell-comments-tesla-stock-continues-to-fall/?src=A00220&yptr=yahoo",
           "publishedOn": "2022-12-14T13:57:35.000Z",
           "wordCount": null,
@@ -6920,6 +6995,16 @@
           "wordCount": 14070,
           "title": "Why United Airlines stock fell 7% despite massive Boeing deal",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/WO6qYxqovXKjL4tpqKKXJg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/45fa78a0-7ba0-11ed-bdf0-69ad4a256665"
+        },
+        {
+          "id": "sec-alleges-100-million-stock-manipulation-scheme-via-social-media-11671015948?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The Securities and Exchange Commission has filed a lawsuit against eight individuals who allegedly earned $100 million via stock manipulation.",
+          "link": "https://www.marketwatch.com/story/sec-alleges-100-million-stock-manipulation-scheme-via-social-media-11671015948?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2022-12-14T11:05:00.000Z",
+          "wordCount": 6761,
+          "title": "SEC alleges $100 million stock manipulation scheme via social media",
+          "imageUrl": "https://images.mktw.net/im-685025/social"
         },
         {
           "id": "60-seconds-cpi-hit-heavy-110000031.html",
@@ -7190,6 +7275,16 @@
           "wordCount": 14334,
           "title": "Fed preview: Central bank set to slow rate hikes at final meeting of 2022",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/nR.cSL2Y3mK0wYu2RRtd8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/933d81b0-7764-11ed-bff5-99aa6b6fdbd1"
+        },
+        {
+          "id": "mattress-company-serta-simmons-prepares-193914866.html",
+          "author": null,
+          "description": "(Bloomberg) -- Serta Simmons Bedding is preparing to seek bankruptcy protection as soon as January, according to people with knowledge of the situation.Most Read from BloombergMusk Loses World’s Richest Title to Arnault With Tesla UnwindingApple to Allow Outside App Stores in Overhaul Spurred by EU LawsElon Musk Is Ruining Trump’s Presidential CampaignUS Core Inflation Slows, Giving Fed Some Breathing Room on RatesTesla Stock Has Never Been This Cheap — And It Could Still Drop FurtherThe closely",
+          "link": "https://finance.yahoo.com/news/mattress-company-serta-simmons-prepares-193914866.html",
+          "publishedOn": "2022-12-13T19:39:14.000Z",
+          "wordCount": 14046,
+          "title": "Mattress Company Serta Simmons Prepares to File for Bankruptcy Protection",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/nUtDjZSULRU3nmg0FjP.8Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDE-/https://media.zenfs.com/en/bloomberg_markets_842/494737057b6f4a03e01f017115ca4a97"
         },
         {
           "id": "ftx-fallout-continues-with-bankman-fried-arrest-but-where-is-former-alameda-ceo-caroline-ellison-11670959834?siteid=yhoof2&yptr=yahoo",
@@ -7562,6 +7657,16 @@
           "imageUrl": "https://media.zenfs.com/en/smartasset_475/c6c2ef788e3e709e6007e20d54083487"
         },
         {
+          "id": "much-does-300-000-annuity-140000765.html",
+          "author": null,
+          "description": "When you need another stream of income for retirement, you might consider an annuity. You purchase the annuity from an insurance company and receive payments back at a later date. Before buying an annuity, it's important to consider how much … Continue reading → The post How Much Does a $300,000 Annuity Pay Per Month? appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/much-does-300-000-annuity-140000765.html",
+          "publishedOn": "2022-12-13T14:00:00.000Z",
+          "wordCount": 14875,
+          "title": "How Much Does a $300,000 Annuity Pay Per Month?",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/6f86cee2f63e85d404c9fbbf17f65a93"
+        },
+        {
           "id": "social-security-getting-8-7-173000456.html",
           "author": null,
           "description": "The Senior Citizen’s League says there ‘may be no COLA payable in 2024.'",
@@ -7650,6 +7755,16 @@
           "wordCount": null,
           "title": "You Can Still Score On 6 Stocks Before They Join The Nasdaq 100",
           "imageUrl": null
+        },
+        {
+          "id": "tiktok-star-paid-off-17-160000078.html",
+          "author": null,
+          "description": "This viral trend is helping young people survive rapidly rising prices.",
+          "link": "https://finance.yahoo.com/news/tiktok-star-paid-off-17-160000078.html",
+          "publishedOn": "2022-12-13T13:00:00.000Z",
+          "wordCount": 14382,
+          "title": "A TikTok influencer paid off $17,000 in credit card debt by 'cash stuffing' — how this budgeting hack can help your finances",
+          "imageUrl": "https://media.zenfs.com/en/moneywise_327/bffe0c4b0fc1e0b47343dcfe1dc721c1"
         },
         {
           "id": "stock-market-news-live-updates-december-13-124836966.html",
