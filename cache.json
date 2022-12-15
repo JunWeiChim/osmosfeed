@@ -138,6 +138,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6242081/",
+          "author": "Ertan Basekin",
+          "description": "Het aantal vaste werknemers en zzp'ers is het afgelopen kwartaal flink toegenomen ten opzichte van dezelfde periode vorig jaar. Zo zijn er 95.000 mensen met een vast contract en 48.000 flexwerkers bij gekomen. Het aantal zelfstandigen groeide met 127.000 naar 1,2 miljoen.",
+          "link": "https://www.nu.nl/economie/6242081/meer-vaste-contracten-en-zzpers-vanwege-krappe-arbeidsmarkt.html",
+          "publishedOn": "2022-12-15T00:02:06.000Z",
+          "wordCount": 1136,
+          "title": "Meer vaste contracten en zzp'ers vanwege krappe arbeidsmarkt",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/x1rxlc0a7eqw_sqr256.jpg/meer-vaste-contracten-en-zzpers-vanwege-krappe-arbeidsmarkt.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/x1rxlc0a7eqw_sqr256.jpg/meer-vaste-contracten-en-zzpers-vanwege-krappe-arbeidsmarkt.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6242179/",
           "author": "onze nieuwsredactie",
           "description": "De Amerikaanse Federal Reserve (Fed) heeft de rente woensdag met 0,5 procentpunt verhoogd. Die verhoging is minder sterk dan de afgelopen vier keer, toen er telkens 0,75 procentpunt bij kwam.",
@@ -1809,6 +1824,76 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/p/primerate.asp",
+          "author": "James Chen",
+          "description": "The prime rate is the interest rate that commercial banks charge their most creditworthy customers.",
+          "link": "https://www.investopedia.com/terms/p/primerate.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2022-12-15T00:22:27.000Z",
+          "wordCount": 5041,
+          "title": "Prime Rate Definition",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ic151SncHrkriOsxpp9_aA2zhSg=/4501x3010/GettyImages-673404055-febd82747ad6491c9f394a843b8feb93.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ic151SncHrkriOsxpp9_aA2zhSg=/4501x3010/GettyImages-673404055-febd82747ad6491c9f394a843b8feb93.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/f/federalreservesystem.asp",
+          "author": "James Chen",
+          "description": "The Federal Reserve System, commonly known as the Fed, is the central bank of the U.S., which regulates the U.S. monetary and financial system.",
+          "link": "https://www.investopedia.com/terms/f/federalreservesystem.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2022-12-14T23:29:19.000Z",
+          "wordCount": 6047,
+          "title": "Federal Reserve System (FRS)",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/df3LuT9Y8XQUv7WCTwxRM5giO3Y=/2119x1415/united-states-federal-reserve-building--washington-dc--usa-699686820-4fe8a5acea0b451b8998d683dfcd87db.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/df3LuT9Y8XQUv7WCTwxRM5giO3Y=/2119x1415/united-states-federal-reserve-building--washington-dc--usa-699686820-4fe8a5acea0b451b8998d683dfcd87db.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/111314/what-methods-can-government-use-control-inflation.asp",
+          "author": "Leslie Kramer",
+          "description": "There are many methods used by the government to control inflation; one popular method is contractionary monetary policy.",
+          "link": "https://www.investopedia.com/ask/answers/111314/what-methods-can-government-use-control-inflation.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2022-12-14T23:25:35.000Z",
+          "wordCount": 5006,
+          "title": "How Do Governments Fight Inflation?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/5pvsGdTJBymIGe7Vwnk3Wj6b8zU=/680x440/wall_street_179681980-5bfc2b9746e0fb0083c07d29.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/5pvsGdTJBymIGe7Vwnk3Wj6b8zU=/680x440/wall_street_179681980-5bfc2b9746e0fb0083c07d29.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/homebuying-guide-4776300",
+          "author": "Amy Fontinelle",
+          "description": "From mortgage preapproval to closing costs, this step-by-step homebuying guide can help make your dreams of residential equity a reality.",
+          "link": "https://www.investopedia.com/homebuying-guide-4776300?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2022-12-14T23:15:31.000Z",
+          "wordCount": 6981,
+          "title": "The Complete Homebuying Guide",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/1bhrugo5gFLrGd4tmxmII0QAf4s=/2400x1087/GettyImages-709135585_2400-5a53efe228b343769ad7cc4342a8278a.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/1bhrugo5gFLrGd4tmxmII0QAf4s=/2400x1087/GettyImages-709135585_2400-5a53efe228b343769ad7cc4342a8278a.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/mortgage-calculator-5084794",
+          "author": "Jean Folger",
+          "description": "Use Investopedia's mortgage calculator to see how different inputs for the home price, down payment, loan terms, and interest rate would change your monthly payment.",
+          "link": "https://www.investopedia.com/mortgage-calculator-5084794?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2022-12-14T23:15:01.000Z",
+          "wordCount": 5506,
+          "title": "Mortgage Calculator",
+          "imageUrl": "https://www.investopedia.com/thmb/pn38-YORxl7_b7WSoo7cUAaaNTM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/housecalculator-56a7dc723df78cf7729a0745.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/f/fomc.asp",
           "author": "Troy Segal",
@@ -6242,6 +6327,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "novavax-proposes-125m-separate-stock-debt-offering.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "author": null,
+          "description": "The Gaithersburg biotech, which also detailed changes to a U.K. sales agreement for its Covid vaccine, saw its share price drop in after-hours trading.",
+          "link": "https://www.bizjournals.com/washington/news/2022/12/14/novavax-proposes-125m-separate-stock-debt-offering.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "publishedOn": "2022-12-14T23:56:16.000Z",
+          "wordCount": 4801,
+          "title": "Novavax intends to offer $250M through simultaneous stock and debt offerings",
+          "imageUrl": "https://media.bizj.us/view/img/12034285/unknown-2*1200xx4032-2268-0-378.jpg"
+        },
+        {
+          "id": "2-strong-buy-stocks-too-233945777.html",
+          "author": null,
+          "description": "What to make of the markets today? The CPI numbers came in on Tuesday, and were better than expected; that is, inflation remains high, but the rate of increase appears to be cooling off. The annualized CPI rate for November registered 7.1%, compared to the 7.3% forecast, and markets spiked on the news. And then they slipped back today, after the Federal Reserve raised interest rates by half a percentage point, as expected, but also signaled it would have to take rates higher through next year. F",
+          "link": "https://finance.yahoo.com/news/2-strong-buy-stocks-too-233945777.html",
+          "publishedOn": "2022-12-14T23:39:45.000Z",
+          "wordCount": 14505,
+          "title": "2 “Strong Buy” Stocks That Are Too Cheap to Ignore",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/36dfdfa1abbd0938fbd08a32d233fddf"
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -6250,6 +6355,16 @@
           "wordCount": null,
           "title": "Market Rally Falls On Higher Peak Fed Rate, Powell Comments; Tesla Keeps Falling, These Stocks Shine",
           "imageUrl": null
+        },
+        {
+          "id": "binance-deliberately-caused-ftx-collapse-222249217.html",
+          "author": null,
+          "description": "The star of “Shark Tank” had some strong words for the exchange at the FTX hearing in the U.S. Senate today.",
+          "link": "https://finance.yahoo.com/news/binance-deliberately-caused-ftx-collapse-222249217.html",
+          "publishedOn": "2022-12-14T22:22:49.000Z",
+          "wordCount": 13945,
+          "title": "Binance Deliberately Caused FTX Collapse: Kevin O’Leary",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/zlZXTBHto3Fry9h7Gw_yxA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_media_980/5e262af85993ca3ac09741f462264810"
         },
         {
           "id": "novavax-stock-sinks-after-proposed-125-million-share-sale-convertible-debt-offering-2022-12-14?siteid=yhoof2&yptr=yahoo",
@@ -6340,6 +6455,16 @@
           "wordCount": null,
           "title": "10 Tesla Investors Lose $132.5 Billion From Musk's Twitter Fiasco",
           "imageUrl": null
+        },
+        {
+          "id": "billionaire-howard-marks-says-investors-193137245.html",
+          "author": null,
+          "description": "Marks became a billionaire by recognizing one of the biggest sea changes in the markets as it was happening—now he’s calling another.",
+          "link": "https://finance.yahoo.com/news/billionaire-howard-marks-says-investors-193137245.html",
+          "publishedOn": "2022-12-14T19:31:37.000Z",
+          "wordCount": 14119,
+          "title": "Billionaire Howard Marks says investors have ‘gone from the low-return world of 2009-21 to a full-return world,’ and it’s a ‘sea change’ from the last 40 years",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/piMyKBWwva2ZsHwiLHI1Qg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/fortune_175/46ad17159d3d8295409c22575bae2488"
         },
         {
           "id": "ftx-spox-oleary-says-called-190311103.html",
