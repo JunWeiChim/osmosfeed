@@ -158,6 +158,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6243018/",
+          "author": "onze economieredactie",
+          "description": "In de eerste tien maanden van dit jaar hebben 29.700 jongeren tot 27 jaar een WW-uitkering aangevraagd. Dat is 30 procent minder dan in dezelfde periode vorig jaar, blijkt maandag uit cijfers van uitkeringsinstantie UWV.",
+          "link": "https://www.nu.nl/economie/6243018/jongeren-vragen-dit-jaar-flink-minder-ww-uitkeringen-aan.html",
+          "publishedOn": "2022-12-19T11:24:30.000Z",
+          "wordCount": 784,
+          "title": "Jongeren vragen dit jaar flink minder WW-uitkeringen aan",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/oelxxxvaxyxq_sqr256.jpg/jongeren-vragen-dit-jaar-flink-minder-ww-uitkeringen-aan.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/oelxxxvaxyxq_sqr256.jpg/jongeren-vragen-dit-jaar-flink-minder-ww-uitkeringen-aan.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6243012/",
           "author": "Ertan Basekin",
           "description": "Hogere lonen vormen geen bedreiging voor de Nederlandse economie.  De gemiddelde loonstijging komt volgend jaar uit op 5 procent en er zit nog meer in het vat, zo voorspelt De Nederlandsche Bank (DNB). “Deze ontwikkeling vinden wij goed en er zijn sectoren waar een hogere loonsverhoging mogelijk is”, zegt directeur en hoofdeconoom Olaf Sleijpen op vragen van NU.nl.",
@@ -8532,6 +8547,36 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "tesla-stock-leaps-as-elon-musk-says-he-may-quit-as-twitter-ceo?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "\"Should I step down as head of Twitter? I will abide by the results of this poll.\" Musk asked his 122.1 million followers on Sunday.",
+          "link": "https://www.thestreet.com/markets/tesla-stock-leaps-as-elon-musk-says-he-may-quit-as-twitter-ceo?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2022-12-19T11:34:00.000Z",
+          "wordCount": 3675,
+          "title": "Tesla Stock Leaps As Poll Results Say Elon Musk Should Step Down As Twitter CEO",
+          "imageUrl": "https://www.thestreet.com/.image/t_share/MTkwODY4NDk1ODg0MzYzMzQ1/thumb-twitter-tesla-google2.jpg"
+        },
+        {
+          "id": "grayscale-explore-returning-20-investor-110110992.html",
+          "author": null,
+          "description": "Grayscale Investments is exploring options to return a portion of capital underlying its flagship Grayscale Bitcoin (GBTC) product if the SEC refuses to grant a bitcoin exchange-traded fund (ETF), according to a report.",
+          "link": "https://finance.yahoo.com/news/grayscale-explore-returning-20-investor-110110992.html",
+          "publishedOn": "2022-12-19T11:01:10.000Z",
+          "wordCount": 13799,
+          "title": "Grayscale Will Explore Returning 20% of Investor Capital if SEC Refuses Spot Bitcoin ETF: Report",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/q6Vuyqh5mrYWXwc8i4Kt_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/coindesk_75/717b250500907cb0345ad2435a6661ee"
+        },
+        {
+          "id": "world-worried-saudi-aramco-world-160000039.html",
+          "author": null,
+          "description": "Energy inflation remains a serious concern. Protect your portfolio.",
+          "link": "https://finance.yahoo.com/news/world-worried-saudi-aramco-world-160000039.html",
+          "publishedOn": "2022-12-19T11:00:00.000Z",
+          "wordCount": 14288,
+          "title": "‘The world should be worried’: Saudi Aramco — the world’s largest oil producer — issued a dire warning over 'extremely low' capacity. Here are 3 energy stocks for protection",
+          "imageUrl": "https://media.zenfs.com/en/moneywise_327/b4c53ec6b4741d2532dd1fc52ac4f094"
+        },
+        {
           "id": "tesla-aerojet-microsoft-stock-market-movers-51671206867?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Tesla shares rise Monday. Aerojet Rocketdyne is up slightly after agreeing to be acquired by L3Harris Technologies for $4.7 billion.",
@@ -8580,6 +8625,16 @@
           "wordCount": 14356,
           "title": "Morgan Stanley’s Wilson Says US Profit Drop Could Rival 2008 Era",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/de4a9206255d27add96639009667fe1a"
+        },
+        {
+          "id": "us-inflation-slowdown-isnt-coming-090000094.html",
+          "author": null,
+          "description": "Recent US inflation data has been a win for team transitory—the economists who predicted that inflation would come down without interest rate hikes.",
+          "link": "https://finance.yahoo.com/news/us-inflation-slowdown-isnt-coming-090000094.html",
+          "publishedOn": "2022-12-19T09:00:00.000Z",
+          "wordCount": 14041,
+          "title": "The US inflation slowdown isn't coming from the Fed's rate hikes",
+          "imageUrl": "https://media.zenfs.com/en/quartz.com/1dc26b930bdc4947c24bae9715799d17"
         },
         {
           "id": "asian-stocks-decline-rates-path-002505137.html",
@@ -9040,6 +9095,16 @@
           "wordCount": 16836,
           "title": "How foreign states raided Britain’s crown jewels",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/bmsa29WCrOZstXwGpGO15Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/bfc00307e2c4ed26224e472924476dbe"
+        },
+        {
+          "id": "2-dividend-hikes-watch-week-054037653.html",
+          "author": null,
+          "description": "Companies often establish a pattern of hiking dividends at the same time each year, so it's useful to look at what companies did this time last year. But as we are fast approaching the holidays and year-end, only three firms raised their dividends this time last year through the end of 2021 - and one of these already hiked again this past week (Preferred Bank (NASDAQ:PFBC)).",
+          "link": "https://finance.yahoo.com/news/2-dividend-hikes-watch-week-054037653.html",
+          "publishedOn": "2022-12-18T05:40:37.000Z",
+          "wordCount": 13988,
+          "title": "2 dividend hikes to watch for this week",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
         },
         {
           "id": "whats-difference-between-googles-goog-and-googl-stock-tickers.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
