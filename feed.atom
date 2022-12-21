@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T03:14:19.744Z</updated>
+    <updated>2022-12-21T04:15:52.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Young Investors: What Are You Waiting for?]]></title>
+        <id>https://www.investopedia.com/articles/younginvestors/09/college_finance.asp</id>
+        <link href="https://www.investopedia.com/articles/younginvestors/09/college_finance.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
+        <updated>2022-12-21T03:20:45.000Z</updated>
+        <summary type="html"><![CDATA[By investing at a younger age, you can harness the power of compounding—not penny-pinching—for profit.]]></summary>
+        <author>
+            <name>Chris Seabury</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Getting Married Affects Your Roth IRA]]></title>
         <id>https://www.investopedia.com/married-roth-ira-5220933</id>
@@ -730,6 +740,16 @@ The Treasury Department said yesterday it would delay releasing proposed guidanc
         <id>?src=A00220&amp;yptr=yahoo</id>
         <link href="https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-ahead-of-economic-data-tesla-stock-price-target-slashed/?src=A00220&amp;yptr=yahoo"/>
         <updated>2022-12-20T14:00:47.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Much Interest Will I Earn on $5 Million?]]></title>
+        <id>5-million-earn-much-money-130002898.html</id>
+        <link href="https://finance.yahoo.com/news/5-million-earn-much-money-130002898.html"/>
+        <updated>2022-12-20T14:00:46.000Z</updated>
+        <summary type="html"><![CDATA[When people think of their ideal nest egg, many aim for – or hope for – $1 million. They want a sufficient cushion to carry them and any loved ones through their golden years. However, that may not actually be … Continue reading → The post How Much Interest Will I Earn on $5 Million? appeared first on SmartAsset Blog.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
