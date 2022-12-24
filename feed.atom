@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-24T20:12:33.456Z</updated>
+    <updated>2022-12-24T21:10:36.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -42,6 +42,16 @@
         <link href="https://www.barrons.com/articles/tesla-shanghai-plant-tsla-stock-elon-musk-51671896103?siteid=yhoof2&amp;yptr=yahoo"/>
         <updated>2022-12-24T15:36:00.000Z</updated>
         <summary type="html"><![CDATA[Tesla is closing down production for the rest of the year in China. Don't overreact to the data point.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[McDonald's unveils first automated location, social media worried it will cut 'millions' of jobs]]></title>
+        <id>mcdonalds-unveils-first-automated-location-141911535.html</id>
+        <link href="https://finance.yahoo.com/news/mcdonalds-unveils-first-automated-location-141911535.html"/>
+        <updated>2022-12-24T14:19:11.000Z</updated>
+        <summary type="html"><![CDATA[Some users worried the technology will end up cutting "millions" of jobs, but McDonald's argued the system helps restaurant crews focus on speed and accuracy in food prep.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
