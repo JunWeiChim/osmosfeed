@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-28T01:03:35.641Z</updated>
+    <updated>2022-12-28T02:33:32.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Federal Income Tax]]></title>
+        <id>https://www.investopedia.com/terms/f/federal_income_tax.asp</id>
+        <link href="https://www.investopedia.com/terms/f/federal_income_tax.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
+        <updated>2022-12-28T02:11:31.000Z</updated>
+        <summary type="html"><![CDATA[Learn about U.S. federal income tax brackets and find out which tax bracket you're in. We explain marginal tax rates, state taxes, and federal taxes.]]></summary>
+        <author>
+            <name>Julia Kagan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roth Conversion]]></title>
         <id>https://www.investopedia.com/articles/financial-advisors/102715/pros-and-cons-creating-backdoor-roth-ira.asp</id>
@@ -121,6 +131,16 @@
         <link href="https://www.thestreet.com/retail/target-offers-huge-post-christmas-clearance-deals?puc=yahoo&amp;cm_ven=YAHOO&amp;yptr=yahoo"/>
         <updated>2022-12-27T20:33:00.000Z</updated>
         <summary type="html"><![CDATA[The big-box retailer is launching more discounts during a rolling holiday sales period.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLD Could Surprise on the Upside in 2023]]></title>
+        <id>gld-could-surprise-upside-2023-201500007.html</id>
+        <link href="https://finance.yahoo.com/news/gld-could-surprise-upside-2023-201500007.html"/>
+        <updated>2022-12-27T20:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The yellow metal that’s enchanted for centuries showed why its appeal endures this year.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
