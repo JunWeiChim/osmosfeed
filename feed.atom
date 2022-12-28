@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-28T05:11:50.354Z</updated>
+    <updated>2022-12-28T06:16:51.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -242,6 +242,16 @@ In an affidavit provided to the Eastern Caribbean Supreme Court before [his arre
         <link href="https://www.barrons.com/articles/tesla-stock-price-market-cap-tsla-51672162042?siteid=yhoof2&amp;yptr=yahoo"/>
         <updated>2022-12-27T19:08:00.000Z</updated>
         <summary type="html"><![CDATA[Tesla shares have fallen for seven straight days, marking the longest losing streak for the stock since September 2018.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple stock slumps toward lowest close in 18 months, worst yearly performance since 2008]]></title>
+        <id>apple-stock-slumps-toward-lowest-close-in-18-months-worst-yearly-performance-since-2008-01672167821?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.marketwatch.com/story/apple-stock-slumps-toward-lowest-close-in-18-months-worst-yearly-performance-since-2008-01672167821?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2022-12-27T19:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Shares of Apple Inc. slumped 1.7% in afternoon trading, enough to pace the Dow Jones Industrial Average’s decliners, as they flirted with their first...]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
