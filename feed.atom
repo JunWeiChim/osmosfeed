@@ -2,15 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T02:35:06.035Z</updated>
+    <updated>2022-12-29T03:14:06.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Canada vs. U.S. Tax Rates: Do Canadians Pay More?]]></title>
+        <id>https://www.investopedia.com/financial-edge/0411/do-canadians-really-pay-more-taxes-than-americans.aspx</id>
+        <link href="https://www.investopedia.com/financial-edge/0411/do-canadians-really-pay-more-taxes-than-americans.aspx?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
+        <updated>2022-12-29T02:53:38.000Z</updated>
+        <summary type="html"><![CDATA[We look at the difference in tax rates and services offered on both sides of the border.]]></summary>
+        <author>
+            <name>Angie Mohr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dow Jones, Nasdaq Break Key Levels As Apple Skids, Tesla Ends Dive; What To Do Now]]></title>
         <id>?src=A00220&amp;yptr=yahoo</id>
         <link href="https://www.investors.com/market-trend/stock-market-today/dow-jones-breaks-key-level-nasdaq-sets-bear-closing-low-as-apple-skids-tesla-ends-dive/?src=A00220&amp;yptr=yahoo"/>
         <updated>2022-12-29T02:17:47.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soaring Egg Prices Lead Nation’s Largest Producer to Record Sales]]></title>
+        <id>cal-maine-foods-calm-q2-earnings-report-2023-11672267744?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.wsj.com/articles/cal-maine-foods-calm-q2-earnings-report-2023-11672267744?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2022-12-28T23:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Cal-Maine reports rising prices and healthy demand despite bird flu.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
