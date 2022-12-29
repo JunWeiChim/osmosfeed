@@ -2,15 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T12:23:41.203Z</updated>
+    <updated>2022-12-29T13:17:18.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Italië wil dat ook andere EU-landen reizigers uit China testen op corona]]></title>
+        <id>https://www.nu.nl/-/6244771/</id>
+        <link href="https://www.nu.nl/economie/6244771/italie-wil-dat-ook-andere-eu-landen-reizigers-uit-china-testen-op-corona.html"/>
+        <updated>2022-12-29T12:53:27.000Z</updated>
+        <summary type="html"><![CDATA[Italië heeft de andere landen uit de Europese Unie (EU) opgeroepen om net als zij, reizigers uit China te testen op corona. Vooralsnog zijn de EU-landen hier verdeeld over.]]></summary>
+        <author>
+            <name>Eva Schouten</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dow Jones Futures Rise, Tesla Bounces After Market Breaks Key Levels]]></title>
         <id>?src=A00220&amp;yptr=yahoo</id>
         <link href="https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-extends-bounce-after-market-breaks-key-levels/?src=A00220&amp;yptr=yahoo"/>
         <updated>2022-12-29T12:09:47.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s the next mega tech stock likely to fall into the bear market’s clutches, according to this chart]]></title>
+        <id>heres-the-next-mega-tech-stock-likely-to-fall-into-the-bear-markets-clutches-according-to-this-chart-11672315762?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.marketwatch.com/story/heres-the-next-mega-tech-stock-likely-to-fall-into-the-bear-markets-clutches-according-to-this-chart-11672315762?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2022-12-29T12:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Our call of the day is looking at Apple as the next possible victim of this bear market.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin is still well below $20,000 — so why haven't Kevin O’Leary, Edward Snowden and other celebrity investors given up on it?]]></title>
+        <id>cryptos-crashed-why-kevin-o-120000671.html</id>
+        <link href="https://finance.yahoo.com/news/cryptos-crashed-why-kevin-o-120000671.html"/>
+        <updated>2022-12-29T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite huge losses in the first half of the year that crypto hasn't been able to rebound from, enthusiasts refuse to give up hope.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -46,11 +76,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Half of Gen Zers say they don’t see a point in saving money until things return to 'normal' — instead they're investing in themselves. Here's what that looks like]]></title>
+        <id>half-gen-z-see-no-100000808.html</id>
+        <link href="https://finance.yahoo.com/news/half-gen-z-see-no-100000808.html"/>
+        <updated>2022-12-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With all the economic uncertainty going on right now, young folks may be seeking some sort of control, experts say.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[These Stocks Are Moving the Most Today: Apple, Tesla, Disney, and More]]></title>
         <id>stock-market-movers-apple-tesla-disney-51672250011?siteid=yhoof2&amp;yptr=yahoo</id>
         <link href="https://www.barrons.com/articles/stock-market-movers-apple-tesla-disney-51672250011?siteid=yhoof2&amp;yptr=yahoo"/>
         <updated>2022-12-29T10:53:00.000Z</updated>
         <summary type="html"><![CDATA[Apple fell 3.1% on Wednesday to its lowest level in 18 months. Tesla shares are extending gains after the stock ended a seven-session losing streak.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cash Flow Will Be Key in 2023 for Ford, GM, and Tesla Investors]]></title>
+        <id>ford-gm-tesla-cash-flow-51672309165?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.barrons.com/articles/ford-gm-tesla-cash-flow-51672309165?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2022-12-29T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[With so much to worry about in 2023, car investors should just focus on cash flow.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -156,6 +206,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The IRS Is Preparing for Tax Season. Expect Some Changes.]]></title>
+        <id>irs-tax-returns-changes-51671745186?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.barrons.com/articles/irs-tax-returns-changes-51671745186?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2022-12-29T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The IRS has hired at least 4,000 agents, adopted scanning technology to free agents from data entry, and is tackling a backlog of paper tax returns.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Alameda Research Liquidated Ether-Based Token Holdings for Bitcoin in Past 24 Hours, On-Chain Data Shows]]></title>
         <id>alameda-research-liquidated-ether-based-064002038.html</id>
         <link href="https://finance.yahoo.com/news/alameda-research-liquidated-ether-based-064002038.html"/>
@@ -255,6 +315,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How Much Do Millennials Need To Save for Retirement?]]></title>
+        <id>how-much-millennials-should-save-retire-comfortably.asp?utm_campaign=quote-yahoo&amp;utm_source=yahoo&amp;utm_medium=referral&amp;yptr=yahoo</id>
+        <link href="https://www.investopedia.com/articles/financial-advisors/122815/how-much-millennials-should-save-retire-comfortably.asp?utm_campaign=quote-yahoo&amp;utm_source=yahoo&amp;utm_medium=referral&amp;yptr=yahoo"/>
+        <updated>2022-12-28T22:35:11.000Z</updated>
+        <summary type="html"><![CDATA[Millennials may not be worrying about retirement just yet, but they should be thinking about how much they’ll need to save.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tesla’s Losing Streak Is Over. It Has a Dubious Distinction.]]></title>
         <id>tesla-stock-losing-streak-worst-tech-ever-51672266149?siteid=yhoof2&amp;yptr=yahoo</id>
         <link href="https://www.barrons.com/articles/tesla-stock-losing-streak-worst-tech-ever-51672266149?siteid=yhoof2&amp;yptr=yahoo"/>
@@ -272,6 +342,16 @@
         <summary type="html"><![CDATA[Spousal IRA contributions allow a working spouse to put money in their nonworking spouse's retirement account, if they meet these requirements.]]></summary>
         <author>
             <name>Denise Appleby</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Spousal IRA Contributions]]></title>
+        <id>?utm_campaign=quote-yahoo&amp;utm_source=yahoo&amp;utm_medium=referral&amp;yptr=yahoo</id>
+        <link href="https://www.investopedia.com/retirement/making-spousal-ira-contributions/?utm_campaign=quote-yahoo&amp;utm_source=yahoo&amp;utm_medium=referral&amp;yptr=yahoo"/>
+        <updated>2022-12-28T22:14:34.000Z</updated>
+        <summary type="html"><![CDATA[Spousal IRA contributions allow a working spouse to put money in their nonworking spouse's retirement account, if they meet these requirements.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
         </author>
     </entry>
     <entry>
@@ -325,11 +405,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[US Department of Justice Investigating Massive FTX Hack: Report]]></title>
+        <id>us-department-justice-investigating-massive-210640891.html</id>
+        <link href="https://finance.yahoo.com/news/us-department-justice-investigating-massive-210640891.html"/>
+        <updated>2022-12-28T21:06:40.000Z</updated>
+        <summary type="html"><![CDATA[An estimated $650 million worth of crypto went missing after FTX declared bankruptcy, and now U.S. authorities are reportedly investigating.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Big Tech's $4.5 Trillion Bloodbath]]></title>
         <id>big-techs-4-5-trillion-bloodbath?puc=yahoo&amp;cm_ven=YAHOO&amp;yptr=yahoo</id>
         <link href="https://www.thestreet.com/technology/big-techs-4-5-trillion-bloodbath?puc=yahoo&amp;cm_ven=YAHOO&amp;yptr=yahoo"/>
         <updated>2022-12-28T20:55:00.000Z</updated>
         <summary type="html"><![CDATA[Waves of massive job cuts, abandoned projects and billions of dollars in market cap evaporated: big tech has had a hard landing in 2022.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New 2022 Lows For These 3 REITs]]></title>
+        <id>2022-lows-3-reits-205135864.html</id>
+        <link href="https://finance.yahoo.com/news/2022-lows-3-reits-205135864.html"/>
+        <updated>2022-12-28T20:51:35.000Z</updated>
+        <summary type="html"><![CDATA[The carnage in the real estate investment trust sector continues as new names hit new 52-week lows. The effect of rising interest rates is hitting the group hard and it’s not clear when the Fed might “pivot” to lower rates – late 2023, early 2024? In the meantime, these rate-sensitive REITs are not attracting buyers the way they used to. Ashford Hospitality Trust Inc (NYSE: AHT) is a hotel real estate investment trust with headquarters in Dallas, Texas. The company’s assets include 99 hotels wit]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
