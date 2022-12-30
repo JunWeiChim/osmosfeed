@@ -258,6 +258,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6244738/",
+          "author": "NU.nl",
+          "description": "Je salaris valt in 2023 hoger uit. De winst zit 'm vooral in de arbeidskorting. Dit is een korting die je krijgt op de inkomstenbelasting. We leggen uit hoeveel je hier per maand ongeveer aan overhoudt.",
+          "link": "https://www.nu.nl/algemeen/6244738/hoeveel-hoger-is-je-eerste-loonstrook-in-2023.html",
+          "publishedOn": "2022-12-30T20:29:15.000Z",
+          "wordCount": 841,
+          "title": "Video | Hoeveel hoger is je eerste loonstrook in 2023?",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/eo9xeuna0bpv_sqr256.jpg/hoeveel-hoger-is-je-eerste-loonstrook-in-2023.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/eo9xeuna0bpv_sqr256.jpg/hoeveel-hoger-is-je-eerste-loonstrook-in-2023.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6245035/",
           "author": "onze economieredactie",
           "description": "De Amsterdamse beursindex AEX sluit het jaar 13,7 procent lager af dan een jaar eerder. De AEX eindigt 2022 op 689,01 punten, terwijl de index dit jaar nog boven de 800 punten begon. 2022 is daarmee het slechtste beursjaar voor de AEX sinds 2008, het jaar waarin de kredietcrisis begon.",
@@ -4239,6 +4254,91 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/i/inferior-good.asp",
+          "author": "Will Kenton",
+          "description": "An inferior good is a good whose demand drops when people's incomes rise; \"inferior\" indicates affordability, not quality.",
+          "link": "https://www.investopedia.com/terms/i/inferior-good.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2022-12-30T20:57:12.000Z",
+          "wordCount": 5745,
+          "title": "Inferior Good: Definition, Examples, and Role of Consumer Behavior",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/6W_Z1ieTvooysGWAvWXnGor4LB4=/680x440/investing8-5bfc2b8d46e0fb005144dbe3.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/6W_Z1ieTvooysGWAvWXnGor4LB4=/680x440/investing8-5bfc2b8d46e0fb005144dbe3.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/financial-advisors/022416/pros-and-cons-sep-account-todays-volatile-markets.asp",
+          "author": "Eric Whiteside",
+          "description": "Discover why you don't have to worry about a volatile market's impact on your simplified employee pension plan. Learn to use your SEP to navigate the markets.",
+          "link": "https://www.investopedia.com/articles/financial-advisors/022416/pros-and-cons-sep-account-todays-volatile-markets.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2022-12-30T20:56:12.000Z",
+          "wordCount": 4775,
+          "title": "The Pros and Cons of a SEP Account in Today's Volatile Markets",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/AygtTPnz8QmJAbhLK4Kbhgd8Mig=/680x440/thinkstockphotos_493208894-5bfc2b9746e0fb0051bde2b8.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/AygtTPnz8QmJAbhLK4Kbhgd8Mig=/680x440/thinkstockphotos_493208894-5bfc2b9746e0fb0051bde2b8.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/f/futurevalue.asp",
+          "author": "James Chen",
+          "description": "Future value (FV) is the value of a current asset at a future date based on an assumed rate of growth over time.",
+          "link": "https://www.investopedia.com/terms/f/futurevalue.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2022-12-30T20:36:23.000Z",
+          "wordCount": 6730,
+          "title": "Future Value: Definition, Formula, How to Calculate, Example, and Uses",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Pu7gYry_rDIE3GMigr67auv3Q1I=/680x440/investing4-5bfc2b8ec9e77c0026b4f956.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Pu7gYry_rDIE3GMigr67auv3Q1I=/680x440/investing4-5bfc2b8ec9e77c0026b4f956.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/retirement/09/employer-cuts-401k-match.asp",
+          "author": "Brigitte Yuille",
+          "description": "In hard times companies may stop matching your 401(k) contribution, but there are ways to offset the hit.",
+          "link": "https://www.investopedia.com/articles/retirement/09/employer-cuts-401k-match.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2022-12-30T20:35:26.000Z",
+          "wordCount": 4722,
+          "title": "When Your Employer Cuts Your 401(k) Match",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/N3IkOrWDQSq3_AGZeY7OstaiG2g=/285x260/options-lrg-4-5bfc2b2046e0fb0051199e91.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/N3IkOrWDQSq3_AGZeY7OstaiG2g=/285x260/options-lrg-4-5bfc2b2046e0fb0051199e91.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/f/fifo.asp",
+          "author": "Will Kenton",
+          "description": "First-in, first-out (FIFO) is a valuation method in which the assets produced or acquired first are sold, used, or disposed of first.",
+          "link": "https://www.investopedia.com/terms/f/fifo.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2022-12-30T20:26:09.000Z",
+          "wordCount": 6622,
+          "title": "FIFO: What the First In, First Out Method Is and How to Use It",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/VjUIx3g5IkHvsKd4oWwAR8Wzg3w=/205x136/investing13-5bfc2b8f46e0fb0026016f4d.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/VjUIx3g5IkHvsKd4oWwAR8Wzg3w=/205x136/investing13-5bfc2b8f46e0fb0026016f4d.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/best-time-invest-roth-ira-5219334",
+          "author": "Daniel Liberto",
+          "description": "Get the timing right and you’ll be able to maximize the tax benefits of a Roth IRA. Get it wrong and you may be better off investing elsewhere.",
+          "link": "https://www.investopedia.com/best-time-invest-roth-ira-5219334?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2022-12-30T20:09:26.000Z",
+          "wordCount": 5345,
+          "title": "The Best Time To Invest in a Roth IRA",
+          "imageUrl": "https://www.investopedia.com/thmb/AuvsAE-BudF_TbAPj4EdMEs254I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-489614604-6cf7c070a91b4ef988255776bd32380f.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/personal-finance/110615/best-strategies-maximize-your-ira.asp",
           "author": "Jean Folger",
@@ -13977,6 +14077,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "why-trump-didnt-want-you-to-see-his-tax-returns-195636685.html",
+          "author": null,
+          "description": "The self-described business genius seems to declare business losses year after year.",
+          "link": "https://finance.yahoo.com/news/why-trump-didnt-want-you-to-see-his-tax-returns-195636685.html",
+          "publishedOn": "2022-12-30T19:56:36.000Z",
+          "wordCount": 14460,
+          "title": "Why Trump didn’t want you to see his tax returns",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_vjD8wLd06mxujBwmSBOaQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/7fd8fa20-8879-11ed-bcd7-673081a3513f"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/amazon-stock-buy-now/?src=A00220&yptr=yahoo",
+          "publishedOn": "2022-12-30T19:17:51.000Z",
+          "wordCount": null,
+          "title": "Is Amazon Stock A Buy As It Restructures Workforce In Tough Times",
+          "imageUrl": null
+        },
+        {
           "id": "u-s-stock-futures-wilt-as-trading-year-comes-to-an-end-11672397533?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "U.S. stocks trade lower Friday afternoon, on track for their worst annual losses since 2008, as tax-loss harvesting along with anxieties about the outlook...",
@@ -14005,6 +14125,16 @@
           "wordCount": 14351,
           "title": "EV tax credit for consumer leases a ‘positive development for industry’",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_B5zAK8K2CM4FueB0ycLSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTE-/https://s.yimg.com/os/creatr-uploaded-images/2021-06/78e88df0-ce0f-11eb-bf66-da136db6cbad"
+        },
+        {
+          "id": "4-reits-trading-below-book-181128659.html",
+          "author": null,
+          "description": "Ares Commercial Real Estate Corp. (NYSE: ACRE) is a mortgage real estate investment trust (mREIT) now going for just 78% of book value. The Atlanta-based mREIT’s market capitalization comes to $586 million, a relatively small figure for a New York Stock Exchange-listed real estate investment trust. Funds from operations (FFO) are up by 115% this year and the past five-year FFO results increased by 9.3%. Bank of America Securities issued a Buy on Ares in October with a price target of $13. The mR",
+          "link": "https://finance.yahoo.com/news/4-reits-trading-below-book-181128659.html",
+          "publishedOn": "2022-12-30T18:11:28.000Z",
+          "wordCount": 13965,
+          "title": "These 4 REITs are Trading Below Book Value and Paying Dividends",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/1ae2f4a091412529698e510693426105"
         },
         {
           "id": "invest-100-000-150848743.html",
