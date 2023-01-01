@@ -258,6 +258,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6243358/",
+          "author": "Eva Schouten",
+          "description": "De feestdagen vielen in 2022 voor werknemers iets gunstiger dan het jaar daarvoor. Maar het kan nog beter. Deze Nieuwjaarsdag - een erkende feestdag - valt op een zondag en is dus voor de werkgever. Maar het eind van dit jaar wordt het echt feest.",
+          "link": "https://www.nu.nl/economie/6243358/feestdagen-vielen-al-iets-beter-dit-jaar-wordt-een-werknemersparadijs.html",
+          "publishedOn": "2023-01-01T09:12:20.000Z",
+          "wordCount": 1157,
+          "title": "Feestdagen vielen al iets beter, dit jaar wordt een 'werknemersparadijs'",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/3uoxv1za6lq4_sqr256.jpg/feestdagen-vielen-al-iets-beter-dit-jaar-wordt-een-werknemersparadijs.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/3uoxv1za6lq4_sqr256.jpg/feestdagen-vielen-al-iets-beter-dit-jaar-wordt-een-werknemersparadijs.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6244798/",
           "author": "Eva Schouten",
           "description": "De 48-jarige Wael Sawan is vanaf 1 januari de nieuwe topman van Shell en wordt daarmee de jongste CEO uit de geschiedenis van het energieconcern. De Libanese Canadees neemt de functie over van de Nederlander Ben van Beurden, die negen jaar aan het roer stond.",
@@ -14173,36 +14188,6 @@
           "wordCount": 3642,
           "title": "Florida Pulls $2 Billion From BlackRock Over ESG",
           "imageUrl": "https://www.investopedia.com/thmb/es26bh0AHXrL_QY1pzB2qLLvnQ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1383619365-1f2de2aeb58c43f6996a919811a152f2.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/student-loan-repayment-options-what-s-the-best-way-to-pay-4772402",
-          "author": "Rebecca Lake",
-          "description": "There are several student loan repayment options you can choose from to pay off your debt. Learn what they are and how to pick the right one for you.",
-          "link": "https://www.investopedia.com/student-loan-repayment-options-what-s-the-best-way-to-pay-4772402?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-02T22:12:46.000Z",
-          "wordCount": 5733,
-          "title": "Student Loan Repayment Options: What's the Best Way to Pay?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/xDzaglPwtPtsiAgFyMDM4ggqvAA=/2265x1324/GettyImages-570258715-1--58241b4b3df78c6f6a824a83.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/xDzaglPwtPtsiAgFyMDM4ggqvAA=/2265x1324/GettyImages-570258715-1--58241b4b3df78c6f6a824a83.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/what-to-expect-for-the-markets-next-week-4584772",
-          "author": "Kara Greenberg",
-          "description": "Coming up next week: PMI surveys, producer inflation, and a consumer sentiment update",
-          "link": "https://www.investopedia.com/what-to-expect-for-the-markets-next-week-4584772?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-02T21:45:01.000Z",
-          "wordCount": 3709,
-          "title": "What to Expect in the Markets Next Week",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/C4IMxcW_6G4iTVvsszA52gJ0PSw=/2048x858/8-force-awakens-gallery-56a8f9843df78cf772a26415.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/C4IMxcW_6G4iTVvsszA52gJ0PSw=/2048x858/8-force-awakens-gallery-56a8f9843df78cf772a26415.jpg"
         }
       ]
     },
@@ -14211,6 +14196,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "crypto-winter-last-2023-maybe-232035993.html",
+          "author": null,
+          "description": "“We won’t exit this 'crypto winter’ in 2023, and probably not in 2024 either,” Marcus wrote in a year-end blog post.",
+          "link": "https://finance.yahoo.com/news/crypto-winter-last-2023-maybe-232035993.html",
+          "publishedOn": "2022-12-31T23:20:35.000Z",
+          "wordCount": 14114,
+          "title": "The Crypto Winter will last through 2023 and maybe 2024, predicts PayPal and Meta alum David Marcus",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/drFOJmacA9DtO6jnXp3IDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/98a3c8bfede4a27955a2efa7f030b873"
+        },
+        {
+          "id": "strategy-oil-companies-2023-220000576.html",
+          "author": null,
+          "description": "In a world where governments and activist investors are calling for an energy transition and oil demand growth is set to slow, how should a rational oil CEO act?",
+          "link": "https://finance.yahoo.com/news/strategy-oil-companies-2023-220000576.html",
+          "publishedOn": "2022-12-31T22:00:00.000Z",
+          "wordCount": 14762,
+          "title": "The Right Strategy For Oil Companies In 2023",
+          "imageUrl": "https://media.zenfs.com/en/oilprice.com/65a576d1c9c679131ca5c366ee5aaccd"
+        },
         {
           "id": "i-retired-at-50-went-back-to-work-at-53-then-had-a-major-medical-issue-that-left-me-unemployed-theres-no-such-thing-as-a-safe-amount-of-money-for-retirement-11642133454?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -14442,6 +14447,16 @@
           "imageUrl": "https://images.wsj.net/im-694440/social"
         },
         {
+          "id": "nlrb-tesla-violated-the-law-telling-employees-not-to-talk-about-pay-085124724.html",
+          "author": null,
+          "description": "According to Bloomberg, NLRB's Tampa regional director filed a complaint against the automaker in September for breaking the law when it told employees not to discuss their pay with other people and not to talk about the termination of another employee.",
+          "link": "https://finance.yahoo.com/news/nlrb-tesla-violated-the-law-telling-employees-not-to-talk-about-pay-085124724.html",
+          "publishedOn": "2022-12-31T08:51:24.000Z",
+          "wordCount": 13631,
+          "title": "NLRB says Tesla violated the law by telling employees not to talk about pay",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Z3s0yj8coe0CTwX5lhY8pA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDk-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/9f244360-704d-11ed-bfbf-135a5110df30"
+        },
+        {
           "id": "stock-market-dow-nasdaq-51672424419?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "There were few places for investors to hide in this year’s bloodbath, but those exposed to the tech-heavy Nasdaq Composite index undoubtedly had it the worst.",
@@ -14502,6 +14517,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/qW7NNx.S2ZbapjREA3xAmg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDU-/https://media.zenfs.com/en/techcrunch_350/45362068dcaf88332b33b7ca5cde911a"
         },
         {
+          "id": "bed-bath-beyond-shares-fall-012408121.html",
+          "author": null,
+          "description": "The share price of Bed Bath & Beyond reportedly dipped following the company revealing correspondence pertaining to its 2021 annual report that it had with the SEC.",
+          "link": "https://finance.yahoo.com/news/bed-bath-beyond-shares-fall-012408121.html",
+          "publishedOn": "2022-12-31T01:24:08.000Z",
+          "wordCount": 14091,
+          "title": "Bed Bath & Beyond shares fall after SEC requests info",
+          "imageUrl": "https://media.zenfs.com/en/fox_business_text_367/fa8820c06b5a61254a320eb3f8947c4a"
+        },
+        {
           "id": "income-investing-dividends-yield-51672449027?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Yields are up on a range of attractive investments—and many beat inflation. 12 ways to cash in.",
@@ -14510,6 +14535,26 @@
           "wordCount": 6954,
           "title": "The Best Income Investing Ideas for 2023",
           "imageUrl": "https://images.barrons.com/im-694271/social"
+        },
+        {
+          "id": "stock-market-recession-economy-fed-51672447470?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "If the economy stays robust in 2023, the Fed will make good on its threat of boosting rates above Wall Street’s expectations. That would be more bad news for stocks.",
+          "link": "https://www.barrons.com/articles/stock-market-recession-economy-fed-51672447470?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2022-12-31T00:51:00.000Z",
+          "wordCount": 6508,
+          "title": "The Bulls’ Worst Recession Fear: There Won’t Be One",
+          "imageUrl": "https://images.barrons.com/im-694783/social"
+        },
+        {
+          "id": "markets-sectors-investing-51672445673?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Energy, consumer staples, and healthcare stocks could continue to outperform. What you need to know.",
+          "link": "https://www.barrons.com/articles/markets-sectors-investing-51672445673?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2022-12-31T00:33:00.000Z",
+          "wordCount": 6517,
+          "title": "These 3 Sectors Have Had a Good Run. They Still Look Strong for 2023.",
+          "imageUrl": "https://images.barrons.com/im-695004/social"
         },
         {
           "id": "take-two-stock-micron-warner-bros-discovery-51672445119?siteid=yhoof2&yptr=yahoo",
