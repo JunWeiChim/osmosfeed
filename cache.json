@@ -258,6 +258,36 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6245381/",
+          "author": "Tom van Gurp",
+          "description": "In december waren er 27.308 aanvragen voor een hypotheek. Dat is 40 procent minder dan in dezelfde maand vorig jaar, blijkt uit gegevens van dataverzamelaar HDN. Het is de derde maand op rij dat het aantal aanvragen tientallen procenten lager is dan een jaar eerder.",
+          "link": "https://www.nu.nl/economie/6245381/aantal-hypotheekaanvragen-voor-derde-maand-op-rij-flink-gedaald.html",
+          "publishedOn": "2023-01-02T13:14:40.000Z",
+          "wordCount": 793,
+          "title": "Aantal hypotheekaanvragen voor derde maand op rij flink gedaald",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/f20x14wagfox_sqr256.jpg/aantal-hypotheekaanvragen-voor-derde-maand-op-rij-flink-gedaald.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/f20x14wagfox_sqr256.jpg/aantal-hypotheekaanvragen-voor-derde-maand-op-rij-flink-gedaald.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6245027/",
+          "author": "Tom van Gurp",
+          "description": "Een logboek waarin alle biedingen op een koophuis staan geregistreerd: dat moet zorgen voor meer transparantie en wantoestanden op de huizenmarkt tegengaan. Vanaf 1 januari werken alle makelaars van brancheverenigingen NVM, VBO en Vastgoedpro ermee. Maar hoe werkt zo'n logboek precies? En hoe zit het met de privacy?",
+          "link": "https://www.nu.nl/economie/6245027/huizenkoper-krijgt-meer-inzicht-in-andere-biedingen-door-nieuw-logboek.html",
+          "publishedOn": "2023-01-02T12:23:59.000Z",
+          "wordCount": 1985,
+          "title": "Huizenkoper krijgt meer inzicht in andere biedingen door nieuw logboek",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/4boxfgvapmpz_sqr256.jpg/huizenkoper-krijgt-meer-inzicht-in-andere-biedingen-door-nieuw-logboek.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/4boxfgvapmpz_sqr256.jpg/huizenkoper-krijgt-meer-inzicht-in-andere-biedingen-door-nieuw-logboek.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6245373/",
           "author": "onze economieredactie",
           "description": "De Europese Commissie wil de stroommarkt in Europa hervormen om elektriciteit uit hernieuwbare bronnen goedkoper te maken. Dat schrijft Financial Times maandag op basis van een ingezien ontwerpplan. Stroom is al maanden veel duurder dan normaal vanwege de hoge gasprijs.",
@@ -4509,6 +4539,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/n/notching.asp",
+          "author": "Will Kenton",
+          "description": "Notching is where rating agencies give higher or lower credit ratings to particular obligations of a single issuer.",
+          "link": "https://www.investopedia.com/terms/n/notching.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-02T13:02:26.000Z",
+          "wordCount": 5818,
+          "title": "Notching Definition",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/UWG0khn64HlNL5OPxFsC8IAfozE=/680x440/investing1-5bfc2b9046e0fb005119b292.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/UWG0khn64HlNL5OPxFsC8IAfozE=/680x440/investing1-5bfc2b9046e0fb005119b292.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/personal-finance/120616/difference-between-annual-compensation-and-annual-salary.asp",
           "author": "Rebecca Lake",
@@ -14468,21 +14513,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/lHz5KZ0r2RzkxSz7zhyI6eaftsk=/1500x1000/GettyImages-929595526-ee443a1d527a4410942e3cbe6b0315cc.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/personal-finance/030416/how-social-security-legal-immigrants-works.asp",
-          "author": "Amy Fontinelle",
-          "description": "Legal immigrants in the U.S. can be eligible for Social Security benefits, but only if they meet certain requirements.",
-          "link": "https://www.investopedia.com/articles/personal-finance/030416/how-social-security-legal-immigrants-works.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-04T01:07:09.000Z",
-          "wordCount": 6060,
-          "title": "Qualifying for Social Security as a Legal Immigrant",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Jt_SOZUPwQu2kZvCcj-UHPP93oY=/2121x1414/GettyImages-491405688-50703ef854a2468ea1e1c7ce2d75405a.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Jt_SOZUPwQu2kZvCcj-UHPP93oY=/2121x1414/GettyImages-491405688-50703ef854a2468ea1e1c7ce2d75405a.jpg"
         }
       ]
     },
@@ -14491,6 +14521,46 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "issb-plans-to-finalize-rules-on-disclosure-of-climate-related-risks-in-2023-11671834008?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "A year into the role as chair of the sustainability standard-setter organization, Emmanuel Faber sees it picking up speed in 2023",
+          "link": "https://www.wsj.com/articles/issb-plans-to-finalize-rules-on-disclosure-of-climate-related-risks-in-2023-11671834008?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-02T13:00:00.000Z",
+          "wordCount": 12447,
+          "title": "ISSB Plans to Finalize Rules on Disclosure of Climate-Related Risks in 2023",
+          "imageUrl": "https://images.wsj.net/im-692079/social"
+        },
+        {
+          "id": "so-you-worked-for-ftx-now-what-advice-from-recruiters-and-employers-11671837567?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Former employees of FTX will likely face extra scrutiny in their job hunt. But recruiters and hiring managers say they can move on if they are transparent and address the elephant in the room.",
+          "link": "https://www.wsj.com/articles/so-you-worked-for-ftx-now-what-advice-from-recruiters-and-employers-11671837567?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-02T13:00:00.000Z",
+          "wordCount": 12438,
+          "title": "So You Worked for FTX. Now What? Advice From Recruiters and Employers",
+          "imageUrl": "https://images.wsj.net/im-692211/social"
+        },
+        {
+          "id": "general-electric-set-to-spin-off-health-unitputting-focus-back-on-power-division-11672617632?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "GE HealthCare shares start trading this week, but investors are cautious about prospects for the spinoff of the power business.",
+          "link": "https://www.wsj.com/articles/general-electric-set-to-spin-off-health-unitputting-focus-back-on-power-division-11672617632?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-02T13:00:00.000Z",
+          "wordCount": 7655,
+          "title": "General Electric Set to Spin Off Health Unit—Putting Focus Back on Power Division",
+          "imageUrl": "https://images.wsj.net/im-690084/social"
+        },
+        {
+          "id": "forget-the-22-500-limit-some-workers-can-supersize-their-tax-deferred-retirement-savings-up-to-265-000-in-2023-11667238372?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "If you have self-employment income, your limits are much higher than those on 401(k)s.",
+          "link": "https://www.marketwatch.com/story/forget-the-22-500-limit-some-workers-can-supersize-their-tax-deferred-retirement-savings-up-to-265-000-in-2023-11667238372?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-02T12:30:00.000Z",
+          "wordCount": 7869,
+          "title": "Forget that $22,500 limit. Some workers can supersize their tax-deferred retirement savings up to $265,000 in 2023.",
+          "imageUrl": "https://images.mktw.net/im-655241/social"
+        },
         {
           "id": "cio-2023-priorities-sustainability-11672255668?siteid=yhoof2&yptr=yahoo",
           "author": null,
