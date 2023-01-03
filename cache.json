@@ -288,6 +288,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6245560/",
+          "author": "onze nieuwsredactie",
+          "description": "FTX-oprichter Sam Bankman-Fried heeft dinsdag verklaard onschuldig te zijn aan fraude. De voormalige techmiljardair verscheen voor een rechtbank in New York, waar hij zich moet verantwoorden voor zijn rol in de ondergang van cryptobeurs FTX.",
+          "link": "https://www.nu.nl/economie/6245560/ftx-oprichter-en-cryptokoning-zegt-onschuldig-te-zijn-aan-fraude.html",
+          "publishedOn": "2023-01-03T21:06:32.000Z",
+          "wordCount": 944,
+          "title": "FTX-oprichter en 'cryptokoning' zegt onschuldig te zijn aan fraude",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/tt6xnjharc4u_sqr256.jpg/ftx-oprichter-en-cryptokoning-zegt-onschuldig-te-zijn-aan-fraude.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/tt6xnjharc4u_sqr256.jpg/ftx-oprichter-en-cryptokoning-zegt-onschuldig-te-zijn-aan-fraude.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6245528/",
           "author": "onze economieredactie",
           "description": "De Franse overheid vindt dat energiebedrijven bakkers in het land moeten helpen als die worstelen met hun steeds hogere energierekening. Dat zei minister van Financiën Bruno Le Maire toen hij dinsdag onderweg was naar een ontmoeting met vertegenwoordigers van die energiebedrijven.",
@@ -4726,21 +4741,6 @@
             "url": "https://media.nu.nl/m/orpxztga4dyw_sqr256.jpg/turkse-inflatie-stijgt-niet-verder-maar-blijft-torenhoog.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/orpxztga4dyw_sqr256.jpg/turkse-inflatie-stijgt-niet-verder-maar-blijft-torenhoog.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6239922/",
-          "author": "onze economieredactie",
-          "description": "De kwaliteit van het leven in ons land is het afgelopen jaar op veel vlakken gelijk gebleven of toegenomen. Op de langere termijn staat die kwaliteit wel onder druk, met name op economisch en natuurlijk vlak. Dat concludeert statistiekbureau CBS in zijn jaarlijkse regionale Monitor Brede Welvaart.",
-          "link": "https://www.nu.nl/economie/6239922/kwaliteit-van-leven-blijft-op-peil-maar-staat-in-toekomst-onder-druk.html",
-          "publishedOn": "2022-12-05T08:45:08.000Z",
-          "wordCount": 1282,
-          "title": "Kwaliteit van leven blijft op peil, maar staat in toekomst onder druk",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/p4txkgjab86t_sqr256.jpg/kwaliteit-van-leven-blijft-op-peil-maar-staat-in-toekomst-onder-druk.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/p4txkgjab86t_sqr256.jpg/kwaliteit-van-leven-blijft-op-peil-maar-staat-in-toekomst-onder-druk.jpg"
         }
       ]
     },
@@ -4749,6 +4749,66 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/sbf-pleads-not-guilty-7091075",
+          "author": "Kathleen Marshall",
+          "description": "Plea sets up a legal battle with his former business partners who have already admitted to fraud.",
+          "link": "https://www.investopedia.com/sbf-pleads-not-guilty-7091075?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-03T21:04:07.000Z",
+          "wordCount": 3404,
+          "title": "FTX Founder Sam Bankman-Fried Pleads Not Guilty, Trial in October",
+          "imageUrl": "https://www.investopedia.com/thmb/wtHOaGhjMkSVY_LI9dSu07SsSA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1245786421-7e023ca9ece546c895dcc0561208000a.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/the-express-podcast-episode-118-7090864",
+          "author": "Staff Author",
+          "description": "The Express is back on the tracks and riding into 2023 with the tale of the tape from last year's historically challenging markets, and the outlook for the year ahead. Plus, Salim Ramji, Global Head of iShares and Index Investments for BlackRock, joins the show to talk about why 2023 will be big for bond ETFs, and why the overall market for exchange-traded products is only getting bigger as investors demand customization. And... Warren Buffett's secret to not buying stocks.",
+          "link": "https://www.investopedia.com/the-express-podcast-episode-118-7090864?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-03T20:59:08.000Z",
+          "wordCount": 7482,
+          "title": "Barreling into 2023 with Bond ETFs",
+          "imageUrl": "https://www.investopedia.com/thmb/X73UR0U2tzIwdTJKLR2QBUc3TU4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/expressthumb-a36bbb96d8334b23bf1b081e786c77bc-7121f805a71440c88c8992653c93d05b.png"
+        },
+        {
+          "id": "https://www.investopedia.com/tesla-shares-slide-7090869",
+          "author": "Igor Greenwald",
+          "description": "The weakest stock in the S&P 500 was also hit by news that most Tesla models won't qualify for new U.S. tax credits",
+          "link": "https://www.investopedia.com/tesla-shares-slide-7090869?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-03T20:07:44.000Z",
+          "wordCount": 4188,
+          "title": "Tesla Skids 15% After Deliveries Shortfall",
+          "imageUrl": "https://www.investopedia.com/thmb/LAkq5FYv0Jf3ZN5mu0RspmJxyw4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Cybertruck-Beer-FT-BLOG1021-50e230031f9c4e078c892f6befb1558e.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/best-brokers-for-international-trading-4587881",
+          "author": "Michael Sacchitello",
+          "description": "We reviewed the best brokers for international trading platforms for both U.S.-based and non-U.S. citizens. Get details on the features, as well as their pros and cons.",
+          "link": "https://www.investopedia.com/best-brokers-for-international-trading-4587881?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-03T19:59:57.000Z",
+          "wordCount": 6075,
+          "title": "Best Brokers for International Trading 2023",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/I-ZwabpfwN_tvZSYbj275B8ico8=/2347x1565/inv-best-of-template-11-5c5c405446e0fb00015873d7.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/I-ZwabpfwN_tvZSYbj275B8ico8=/2347x1565/inv-best-of-template-11-5c5c405446e0fb00015873d7.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/f/fire-insurance.asp",
+          "author": "Alexandra Twin",
+          "description": "Fire insurance covers damage and losses caused by fire and is often purchased in addition to standard homeowners insurance. Learn how coverage works.",
+          "link": "https://www.investopedia.com/terms/f/fire-insurance.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-03T19:59:51.000Z",
+          "wordCount": 4596,
+          "title": "Fire Insurance: Definition, Elements, How It Works, and Example",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Cm1SSr6HJMo1KotOE3CR-Gv2q6s=/380x254/200270955-001-5bfc2b8bc9e77c00517fd20f.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Cm1SSr6HJMo1KotOE3CR-Gv2q6s=/380x254/200270955-001-5bfc2b8bc9e77c00517fd20f.jpg"
+        },
         {
           "id": "https://www.investopedia.com/credit-unions-claim-market-share-with-lower-auto-loan-rates-7090702",
           "author": "Staff Author",
@@ -14883,31 +14943,6 @@
           "wordCount": 3896,
           "title": "Today's Mortgage Rates & Trends - December 5, 2022: Rates move up",
           "imageUrl": "https://www.investopedia.com/thmb/tCoHxCH53GwhNc6SoPB0kyoTMGM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/DecemberMortageRatesNews-05-dc6e09ec627f45d2a850739530c3f7b2.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/government-assistance-programs-4845368",
-          "author": "Jim Probasco",
-          "description": "Government assistance programs are in great demand when there is high unemployment or low wages. Learn what’s available, how to qualify, and where to apply.",
-          "link": "https://www.investopedia.com/government-assistance-programs-4845368?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-05T08:33:15.000Z",
-          "wordCount": 9480,
-          "title": "Government Assistance Programs",
-          "imageUrl": "https://www.investopedia.com/thmb/4ukRH_LrW54kSmCtJGkB1HLSbak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-180963427-589b03f03df78caebc613fab.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/c/catchupcontribution.asp",
-          "author": "Julia Kagan",
-          "description": "A catch-up contribution is a type of retirement contribution that allows those 50 or older to make additional contributions to their 401(k) and IRAs.",
-          "link": "https://www.investopedia.com/terms/c/catchupcontribution.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-05T08:24:57.000Z",
-          "wordCount": 4501,
-          "title": "Catch-Up Contribution: What It Is, How It Works, Rules, and Limits",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/dv0vV77g-G_uV2g_Wvc4pa_R0eA=/680x440/148985994-5bfc2b8c46e0fb0083c07ba8.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/dv0vV77g-G_uV2g_Wvc4pa_R0eA=/680x440/148985994-5bfc2b8c46e0fb0083c07ba8.jpg"
         }
       ]
     },
@@ -14917,6 +14952,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "apple-stock-price-market-cap-51672768369?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The tech giant is one of only five U.S. companies to have ever closed with a market cap of $1 trillion or greater.",
+          "link": "https://www.barrons.com/articles/apple-stock-price-market-cap-51672768369?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-03T20:44:00.000Z",
+          "wordCount": 6413,
+          "title": "Apple Stock Just Keeps Falling. It’s Worth Less Than $2 Trillion Now.",
+          "imageUrl": "https://images.barrons.com/im-693886/social"
+        },
+        {
           "id": "bed-bath-beyond-stock-is-plummeting-again-182735978.html",
           "author": null,
           "description": "Bed Bath & Beyond shares see a huge reversal.",
@@ -14925,6 +14970,26 @@
           "wordCount": 13854,
           "title": "Bed Bath & Beyond stock is plummeting again",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/4Y4XTak6luaQ3a79wTcX1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/13020f50-fddb-11ec-b54f-cbefc8d3cebf"
+        },
+        {
+          "id": "tesla-cinderella-ride-over-demand-182343636.html",
+          "author": null,
+          "description": "“The Cinderella ride is over for Tesla, and Musk now needs to navigate the company through this Category 5 dark macro storm,” Tesla bull Dan Ives wrote in a Tuesday note.",
+          "link": "https://finance.yahoo.com/news/tesla-cinderella-ride-over-demand-182343636.html",
+          "publishedOn": "2023-01-03T18:23:43.000Z",
+          "wordCount": 14451,
+          "title": "Tesla’s ‘Cinderella ride’ is over and demand is ‘starting to crack,’ Wedbush’s Dan Ives says. Here’s what could come next",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/HBMJcazpTkOUhcVGTTUTMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/208674503a74fb9208a888b2d44e04fb"
+        },
+        {
+          "id": "fear-global-natural-gas-crisis-035021773.html",
+          "author": null,
+          "description": "(Bloomberg) -- A warmer-than-expected start to winter in large parts of the world that could linger for weeks — especially across the US — is easing fears of a natural gas crisis that had been predicted to trigger outages and add to power bills.Most Read from BloombergChina’s Foreign Minister Says ‘Deeply Impressed’ With AmericansElon Musk Becomes First Person Ever to Lose $200 BillionShopify Tells Employees to Just Say No to MeetingsBodies Pile Up in China as Covid Surge Overwhelms Crematoriums",
+          "link": "https://finance.yahoo.com/news/fear-global-natural-gas-crisis-035021773.html",
+          "publishedOn": "2023-01-03T18:12:25.000Z",
+          "wordCount": 13903,
+          "title": "Natural Gas Prices Are Plunging On a Warmer Start to Winter",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/379dbcbea746223f8ec530250a807987"
         },
         {
           "id": "oil-gas-prices-slide-start-180000964.html",
@@ -14945,6 +15010,16 @@
           "wordCount": 6390,
           "title": "A Sweet Deal: Blackstone REIT Promises 11% Return on $4 Billion Investment",
           "imageUrl": "https://images.barrons.com/im-530738/social"
+        },
+        {
+          "id": "ultrawealthy-ride-recession-1-200-174851459.html",
+          "author": null,
+          "description": "The über-rich are keeping their powder dry in the new year, a poll of ultra-high-net-worth investors found. Then they'll \"pounce.\"",
+          "link": "https://finance.yahoo.com/news/ultrawealthy-ride-recession-1-200-174851459.html",
+          "publishedOn": "2023-01-03T17:48:51.000Z",
+          "wordCount": 14172,
+          "title": "How will the ultrawealthy ride out the recession? 1,200 investors worth $130 billion have one big strategy—and it’s not playing the stock market",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/JOuihDhIBlf.rTrI5ctR9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/be806e87ac370b081f0a8429c3a4722a"
         },
         {
           "id": "terrified-tiktoker-went-viral-explaining-140000603.html",
@@ -15155,6 +15230,16 @@
           "wordCount": 14520,
           "title": "Can I Retire on $1.5 Million Comfortably?",
           "imageUrl": "https://media.zenfs.com/en/smartasset_475/1d6344ca1c52164354cf93390b800159"
+        },
+        {
+          "id": "buy-home-60-140009364.html",
+          "author": null,
+          "description": "While you might not immediately associate retirement with homeownership, buying a home after age 60 can be thrilling and financially savvy. Instead of looking for highly rated school districts, you can find the ideal combination of comfort, affordability and proximity … Continue reading → The post Pros and Cons of Buying a House After Age 60 appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/buy-home-60-140009364.html",
+          "publishedOn": "2023-01-03T14:00:09.000Z",
+          "wordCount": 15057,
+          "title": "Should I Buy a Home After 60?",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/5d255fb9cdc755c7df9789110e3b8111"
         },
         {
           "id": "3m-tries-to-contain-legal-battles-over-forever-chemicals-earplugs-11672746205?siteid=yhoof2&yptr=yahoo",
