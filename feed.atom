@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T02:37:20.105Z</updated>
+    <updated>2023-01-04T03:14:09.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -886,6 +886,16 @@ Tesla delivered 405,278 vehicles globally for the quarter, missing analyst expec
         <link href="https://finance.yahoo.com/news/amid-amc-stock-slump-ceo-decries-twisted-conspiracy-theorists-105619921.html"/>
         <updated>2023-01-03T10:56:19.000Z</updated>
         <summary type="html"><![CDATA[AMC will look to rebound in 2023 after a plunge in its stock price.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India's numerous jobs scams show the depth of its unemployment crisis]]></title>
+        <id>indias-numerous-jobs-scams-show-105500472.html</id>
+        <link href="https://finance.yahoo.com/news/indias-numerous-jobs-scams-show-105500472.html"/>
+        <updated>2023-01-03T10:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Indians looking to escape the country’s chronic unemployment rut frequently fall prey to rackets. One such ring has reportedly conned at least 50,000 people since 2020, making it one of India’s biggest job frauds in recent times.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -29231,26 +29241,6 @@ What's spooking investors? A new analyst report downgrading the stock from a bul
         <summary type="html"><![CDATA[An inverted yield curve is an unusual state in which longer-term bonds have a lower yield than short-term debt instruments.]]></summary>
         <author>
             <name>Walden Siew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does Days to Cover Mean, and How Do Investors Use It?]]></title>
-        <id>https://www.investopedia.com/terms/d/daystocover.asp</id>
-        <link href="https://www.investopedia.com/terms/d/daystocover.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2022-12-05T14:54:05.000Z</updated>
-        <summary type="html"><![CDATA[Days to cover measures the expected number of days needed to close out a company's shares outstanding that have been shorted. It's a measure of short interest in a stock.]]></summary>
-        <author>
-            <name>Akhilesh Ganti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today's Mortgage Rates & Trends - December 5, 2022: Rates move up]]></title>
-        <id>https://www.investopedia.com/today-s-mortgage-rates-and-trends-december-5-2022-rates-move-up-6835583</id>
-        <link href="https://www.investopedia.com/today-s-mortgage-rates-and-trends-december-5-2022-rates-move-up-6835583?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2022-12-05T14:46:49.000Z</updated>
-        <summary type="html"><![CDATA[The 30-year average climbed a tenth of a point, but after sinking a half point the previous day, the average still ended the week at its lowest level since mid-September.]]></summary>
-        <author>
-            <name>Sabrina Karl</name>
         </author>
     </entry>
 </feed>
