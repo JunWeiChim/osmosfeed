@@ -288,6 +288,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6245587/",
+          "author": "onze techredactie",
+          "description": "Amerikaanse politieke advertenties zijn over een paar weken weer welkom op Twitter. Drie jaar geleden werden die juist verboden.",
+          "link": "https://www.nu.nl/tech/6245587/elon-musk-draait-jarenlang-verbod-op-politieke-advertenties-op-twitter-terug.html",
+          "publishedOn": "2023-01-04T08:16:26.000Z",
+          "wordCount": 937,
+          "title": "Elon Musk draait jarenlang verbod op politieke advertenties op Twitter terug",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/yrbxa8za6yuo_sqr256.jpg/elon-musk-draait-jarenlang-verbod-op-politieke-advertenties-op-twitter-terug.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/yrbxa8za6yuo_sqr256.jpg/elon-musk-draait-jarenlang-verbod-op-politieke-advertenties-op-twitter-terug.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6245579/",
           "author": "onze economieredactie",
           "description": "Supermarktketen Jumbo wil niet langer actief zijn als sponsor in de motorsport. Ook de sponsoring van de autosport komt deels ten einde, meldt een woordvoerder. Het besluit komt enkele maanden nadat Frits van Eerd, ex-topman en mede-eigenaar van Jumbo, als verdachte is aangemerkt in een witwaszaak.",
@@ -14798,36 +14813,6 @@
           "wordCount": 8148,
           "title": "Strategic Investing in the Home Stretch of 2022",
           "imageUrl": "https://www.investopedia.com/thmb/X73UR0U2tzIwdTJKLR2QBUc3TU4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/expressthumb-a36bbb96d8334b23bf1b081e786c77bc-7121f805a71440c88c8992653c93d05b.png"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/etfs-mutual-funds/042616/2-cybersecurity-etfs-consider-cibr-hack.asp",
-          "author": "Charles Munyi",
-          "description": "First Trust Nasdaq Cybersecurity, iShares Cybersecurity & Tech, and ETFMG Prime Cyber Security focus own companies competing in a market as big as $2 trillion.",
-          "link": "https://www.investopedia.com/articles/etfs-mutual-funds/042616/2-cybersecurity-etfs-consider-cibr-hack.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-05T19:36:43.000Z",
-          "wordCount": 4450,
-          "title": "Top Cybersecurity ETFs",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/vrYNvqpZY8sJAgSmv9P6z2Ho2UM=/680x440/shutterstock_112522391-5bfc2b9846e0fb0051bde2d3.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/vrYNvqpZY8sJAgSmv9P6z2Ho2UM=/680x440/shutterstock_112522391-5bfc2b9846e0fb0051bde2d3.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/investing/agriculture-etfs/",
-          "author": "Nathan Reiff",
-          "description": "Teucrium's Soybean, Corn, and Wheat funds hold futures contracts for these three commodities, respectively. The funds rose as much as 27% in the past year while the S&P 500 Index has fallen.",
-          "link": "https://www.investopedia.com/investing/agriculture-etfs/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-05T19:30:01.000Z",
-          "wordCount": 3936,
-          "title": "Top Agricultural Commodity ETFs",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/LEmLB8bWxbrV_FIpaAsQvG0W5_I=/680x440/thinkstockphotos151513663-5bfc3ae446e0fb0083c48631.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/LEmLB8bWxbrV_FIpaAsQvG0W5_I=/680x440/thinkstockphotos151513663-5bfc3ae446e0fb0083c48631.jpg"
         }
       ]
     },
@@ -14836,6 +14821,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "cathie-wood-tesla-51672791575?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The leader of the ARK Innovation Fund is unfazed by Elon Musk's handling of Twitter.",
+          "link": "https://www.barrons.com/articles/cathie-wood-tesla-51672791575?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-04T07:30:00.000Z",
+          "wordCount": 6554,
+          "title": "ARK’s Cathie Wood Says Tesla Stock Still Has ‘Miles to Run’",
+          "imageUrl": "https://images.barrons.com/im-696210/social"
+        },
         {
           "id": "asian-markets-mostly-rose-ahead-of-fed-update-01672805245?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -14935,6 +14930,16 @@
           "wordCount": 6448,
           "title": "Chip Stocks Had a Terrible Year. 3 That Could Be Good Plays Now.",
           "imageUrl": "https://images.barrons.com/im-695846/social"
+        },
+        {
+          "id": "2023-another-busy-nio-morgan-180159875.html",
+          "author": null,
+          "description": "NIO (NIO) got off to a good start in 2023, after announcing a record 15,815 deliveries for December 2022, amounting to a 50.8% year-over-year increase. After the myriad issues encountered last year, namely the zero-Covid policies’ impact on production alongside supply chain snags, investors will be hoping the uptick is a harbinger of things to come and not merely a one-off event. The December delivery numbers come in the wake of the company’s December 24th NIO Day. At the event, as anticipated,",
+          "link": "https://finance.yahoo.com/news/2023-another-busy-nio-morgan-180159875.html",
+          "publishedOn": "2023-01-03T22:02:00.000Z",
+          "wordCount": 13762,
+          "title": "‘2023 will be another busy year for NIO’: Morgan Stanley says ‘buy’ the stock",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/0dd813a005b8467a7e5b0293d4e3e6a9"
         },
         {
           "id": "people-vote-feet-florida-just-213000437.html",
@@ -15115,6 +15120,16 @@
           "wordCount": null,
           "title": "Apple Stock Falls Amid Report Of Product Orders Being Cut In Asia",
           "imageUrl": null
+        },
+        {
+          "id": "nvidia-stock-foxconn-autonomous-cars-51672754262?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "In a pre-CES keynote presentation, the chip maker also announced updated graphics chips and PC designs.",
+          "link": "https://www.barrons.com/articles/nvidia-stock-foxconn-autonomous-cars-51672754262?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-03T16:45:00.000Z",
+          "wordCount": 6564,
+          "title": "Nvidia in Pact With Foxconn to Build Autonomous Cars",
+          "imageUrl": "https://images.barrons.com/im-695766/social"
         },
         {
           "id": "lawsuit-involving-unitedhealth-group-ends.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
