@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T16:20:19.316Z</updated>
+    <updated>2023-01-05T17:12:06.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -22,6 +22,16 @@
         <link href="https://realmoney.thestreet.com/investing/microsoft-and-amazon-here-s-why-this-is-no-contest-16112896?puc=yahoo&amp;cm_ven=YAHOO&amp;yptr=yahoo"/>
         <updated>2023-01-05T15:45:00.000Z</updated>
         <summary type="html"><![CDATA[While there's significant commonality between the two only one stands out.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walgreens Beats Earnings Expectations but Posts Net Loss on Opioid Settlement]]></title>
+        <id>walgreens-earnings-stock-price-51672923021?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.barrons.com/articles/walgreens-earnings-stock-price-51672923021?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2023-01-05T15:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The net loss was driven by a $5.2 billion after-tax charge for opioid-related claims and litigation, the retail pharmacy chain said.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -30345,16 +30355,6 @@ What's spooking investors? A new analyst report downgrading the stock from a bul
         <summary type="html"><![CDATA[Vanwege personeelstekorten bij de BelastingTelefoon van de Belastingdienst konden burgers en bedrijven er in de afgelopen maanden ongeveer 900.000 keer niet met hun vragen terecht. Dat bevestigt een woordvoerder van de Belastingdienst aan NU.nl na berichtgeving van NRC.]]></summary>
         <author>
             <name>Joost ter Bogt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sam Bankman-Fried hires attorney Mark Cohen amid probes of failed FTX exchange]]></title>
-        <id>sam-bankman-fried-hires-attorney-044604189.html</id>
-        <link href="https://finance.yahoo.com/news/sam-bankman-fried-hires-attorney-044604189.html"/>
-        <updated>2022-12-07T04:46:04.000Z</updated>
-        <summary type="html"><![CDATA[Sam Bankman-Fried, founder and former chief executive officer of the bankrupt cryptocurrency exchange FTX, has hired white-collar crime specialist Mark Cohen to represent him, said a Bankman-Fried spokesman.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
         </author>
     </entry>
 </feed>
