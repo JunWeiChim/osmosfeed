@@ -4831,21 +4831,6 @@
             "url": "https://media.nu.nl/m/fbhx1h8ayohv_sqr256.jpg/koopkracht-daalt-dit-en-volgend-jaar-met-in-totaal-4-procent-door-inflatie.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/fbhx1h8ayohv_sqr256.jpg/koopkracht-daalt-dit-en-volgend-jaar-met-in-totaal-4-procent-door-inflatie.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6240581/",
-          "author": "onze economieredactie",
-          "description": "De schade die honderden gedupeerden in de zogeheten aandelenleaseaffaire geleden hebben wordt na jaren alsnog volledig vergoed door de Belgische bank Dexia. Dat blijkt dinsdag uit een uitspraak van het gerechtshof in Den Bosch.",
-          "link": "https://www.nu.nl/economie/6240581/gedupeerden-in-aandelenleaseaffaire-krijgen-schade-toch-volledig-vergoed.html",
-          "publishedOn": "2022-12-06T15:43:36.000Z",
-          "wordCount": 945,
-          "title": "Gedupeerden in aandelenleaseaffaire krijgen schade toch volledig vergoed",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/m1nx058aoa72_sqr256.jpg/gedupeerden-in-aandelenleaseaffaire-krijgen-schade-toch-volledig-vergoed.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/m1nx058aoa72_sqr256.jpg/gedupeerden-in-aandelenleaseaffaire-krijgen-schade-toch-volledig-vergoed.jpg"
         }
       ]
     },
@@ -4854,6 +4839,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/personal-finance/120715/what-happens-retirement-accounts-if-spouse-dies.asp",
+          "author": "Tim Parker",
+          "description": "Estate planning determines who will inherit your IRA, 401(k), or other retirement accounts.",
+          "link": "https://www.investopedia.com/articles/personal-finance/120715/what-happens-retirement-accounts-if-spouse-dies.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-05T03:55:54.000Z",
+          "wordCount": 5200,
+          "title": "Retirement: What Happens If a Spouse Dies?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/a-66PXJWIBSoZ7MtNLyiT5vD4uc=/680x440/home_quity_line_of_credit_what_you_need_to_know_to_refinance-5bfc3751c9e77c00587a07cd.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/a-66PXJWIBSoZ7MtNLyiT5vD4uc=/680x440/home_quity_line_of_credit_what_you_need_to_know_to_refinance-5bfc3751c9e77c00587a07cd.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/a/aggregatedemand.asp",
           "author": "Will Kenton",
@@ -14971,6 +14971,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stocks-rise-microsoft-tumbles-beware-doing-this/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-01-05T03:09:22.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Fall After Stocks Rise, Microsoft Tumbles; Beware Doing This",
+          "imageUrl": null
+        },
         {
           "id": "amazon-slash-more-18-000-011930609.html",
           "author": null,
