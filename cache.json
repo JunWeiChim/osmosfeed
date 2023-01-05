@@ -318,6 +318,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6245789/",
+          "author": "Tom van Gurp",
+          "description": "Duitsland en Noorwegen willen samen meer schone energie produceren en gebruiken. Beide landen hebben donderdag afspraken gemaakt over onder andere waterstof, windparken op zee en ondergrondse opslag van CO2.",
+          "link": "https://www.nu.nl/economie/6245789/duitsers-en-noren-gaan-meer-groene-energie-produceren-nu-rusland-wegvalt.html",
+          "publishedOn": "2023-01-05T13:49:12.000Z",
+          "wordCount": 941,
+          "title": "Duitsers en Noren gaan meer groene energie produceren nu Rusland wegvalt",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/1lyxanaanxz4_sqr256.jpg/duitsers-en-noren-gaan-meer-groene-energie-produceren-nu-rusland-wegvalt.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/1lyxanaanxz4_sqr256.jpg/duitsers-en-noren-gaan-meer-groene-energie-produceren-nu-rusland-wegvalt.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6245752/",
           "author": "Jeroen Kraan",
           "description": "Er is beter toezicht op de veiligheid van oudere windmolens nodig, zeggen experts. Woensdag viel een bijna 25 jaar oude windturbine in Zeewolde om, waardoor duizenden kilo's aan staal op een (gelukkig verlaten) dijk belandden.",
@@ -14797,6 +14812,66 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-ahead-of-jobs-data-amazon-rallies-on-plans-to-lay-off-18000-employees/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-01-05T13:57:39.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Extend Losses On Strong Jobs Data; Silvergate Crashes On $8.1 Billion In Withdrawals",
+          "imageUrl": null
+        },
+        {
+          "id": "us-firms-add-235-000-133519545.html",
+          "author": null,
+          "description": "(Bloomberg) -- US companies added more jobs than expected in December, driven by small- and medium-sized businesses, and highlighting the resilience of labor demand that’s underpinning wage growth. Most Read from BloombergIf You Have Student Loans, Mark These Dates on Your CalendarWhy Conservatives Are Blocking McCarthy as Speaker — and Throwing Congress Into ChaosAmazon to Slash More Than 18,000 Jobs in Escalation of CutsFed Affirms Inflation Resolve, Pushes Back Against Rate-Cut BetsShopify Te",
+          "link": "https://finance.yahoo.com/news/us-firms-add-235-000-133519545.html",
+          "publishedOn": "2023-01-05T13:48:14.000Z",
+          "wordCount": 14012,
+          "title": "US Employers Add 235,000 Jobs, More Than Forecast",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/f02d1f54cff3eabd94491580c6f63703"
+        },
+        {
+          "id": "bed-bath-beyond-stock-plunges-as-retailer-explores-bankruptcy?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "Bed Bath & Beyond said it \"continues to consider all strategic alternatives ... including obtaining relief under the U.S. Bankruptcy Code.\"",
+          "link": "https://www.thestreet.com/markets/bed-bath-beyond-stock-plunges-as-retailer-explores-bankruptcy?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-01-05T13:39:00.000Z",
+          "wordCount": 3417,
+          "title": "Bed Bath & Beyond Stock Plunges As Retailer Explores Bankruptcy, Restructuring Options",
+          "imageUrl": "https://www.thestreet.com/.image/t_share/MTY5NjIyMzM1Mjc0MzYyNjkz/bed-bath--beyond2.jpg"
+        },
+        {
+          "id": "microsoft-buy-rating-artificial-intelligence-stock-51672924943?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Analysts at Davidson say incorporating ChatGPT into cloud services and internet search could boost Microsoft shares.",
+          "link": "https://www.barrons.com/articles/microsoft-buy-rating-artificial-intelligence-stock-51672924943?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-05T13:23:00.000Z",
+          "wordCount": 6470,
+          "title": "Microsoft Gets a New Buy Rating. Artificial Intelligence Could Be a Game Changer.",
+          "imageUrl": "https://images.barrons.com/im-657257/social"
+        },
+        {
+          "id": "market-conditions-are-perfect-right-now-to-pay-tax-on-some-of-your-retirement-funds-and-avoid-a-bigger-hit-later-11672902656?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Market conditions are perfect right now to pay tax on some of your retirement funds and avoid a bigger hit later.",
+          "link": "https://www.marketwatch.com/story/market-conditions-are-perfect-right-now-to-pay-tax-on-some-of-your-retirement-funds-and-avoid-a-bigger-hit-later-11672902656?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-05T13:00:00.000Z",
+          "wordCount": 8158,
+          "title": "Roth IRA conversions: Take advantage of this limited-time offer to save on your tax hit",
+          "imageUrl": "https://images.mktw.net/im-697140/social"
+        },
+        {
+          "id": "walgreens-wba-q1-earnings-report-2023-11672923378?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The drugstore chain swung to a quarterly loss due to previously disclosed $6.5 billion opioid settlement.",
+          "link": "https://www.wsj.com/articles/walgreens-wba-q1-earnings-report-2023-11672923378?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-05T12:57:00.000Z",
+          "wordCount": 7297,
+          "title": "Walgreens Sales Fall as Demand for Covid Vaccines Wanes",
+          "imageUrl": "https://images.wsj.net/im-694288/social"
+        },
+        {
           "id": "constellation-brands-third-quarter-profit-drops-01672923010?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Constellation Brands Inc. shares fell 1.8% in premarket trades after the spirits maker reported a lower third-quarter profit. Constellation Brands said its...",
@@ -15017,6 +15092,16 @@
           "imageUrl": "https://images.wsj.net/im-697169/social"
         },
         {
+          "id": "what-are-roth-401k-withdrawal-rules.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "Understanding the rules for withdrawals from a Roth 401(k) will keep you from losing part of your retirement savings to taxes and penalties.",
+          "link": "https://www.investopedia.com/ask/answers/101314/what-are-roth-401k-withdrawal-rules.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-01-05T00:28:26.000Z",
+          "wordCount": 5757,
+          "title": "What Are the Roth 401(k) Withdrawal Rules?",
+          "imageUrl": "https://www.investopedia.com/thmb/5yTM4_eWHQ0t3rsHtASMBEeYanU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/retirement-planning_86520349-5bfc2b3bc9e77c002630567c.jpg"
+        },
+        {
           "id": "oppenheimer-says-p-500-could-000904883.html",
           "author": null,
           "description": "The bear run of 2022 was brutal on stock investors, in fact, it was the worst market year since the Great Recession of 2008. But – some of the Street’s strategists are predicting that this year has a recovery, or at least a partial rebound, in store. Even though the S&P 500 lost nearly 20% last year, inflation is still running at more than 7% annualized, and the Federal Reserve has bumped interest rates up to 4.25% in response, John Stoltzfus, Oppenheimer Asset Management chief investment strate",
@@ -15085,6 +15170,16 @@
           "wordCount": 14201,
           "title": "Wall Street’s Top Bear Sees Another Big Down Year for S&P 500",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/ad1ec50840695cd8135a635150265e7d"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/pfizer-stock-how-this-covid-darling-became-a-show-me-story-in-2023/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-01-04T21:08:26.000Z",
+          "wordCount": null,
+          "title": "How 'Covid Darling' Pfizer Became A 'Show Me' Story For 2023",
+          "imageUrl": null
         },
         {
           "id": "judge-ordered-seizure-of-money-from-ftx-digital-markets-accounts-at-silvergate-11672866368?siteid=yhoof2&yptr=yahoo",
