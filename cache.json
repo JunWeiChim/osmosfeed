@@ -348,6 +348,36 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6246238/",
+          "author": "Ertan Basekin",
+          "description": "De lonen zijn afgelopen jaar met gemiddeld 3,8 procent gestegen, zo blijkt uit cijfers van werkgeversvereniging  AWVN. In december gingen de salarissen met 5,9 procent omhoog.",
+          "link": "https://www.nu.nl/economie/6246238/lonen-zijn-afgelopen-jaar-met-38-procent-gestegen.html",
+          "publishedOn": "2023-01-09T10:47:16.000Z",
+          "wordCount": 711,
+          "title": "Lonen zijn afgelopen jaar met 3,8 procent gestegen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/kgwxpzxa0kmo_sqr256.jpg/lonen-zijn-afgelopen-jaar-met-38-procent-gestegen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/kgwxpzxa0kmo_sqr256.jpg/lonen-zijn-afgelopen-jaar-met-38-procent-gestegen.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6246233/",
+          "author": "onze economieredactie",
+          "description": "Tony's Chocolonely is het afgelopen jaar ondanks de hoge inflatie stevig gegroeid. Het Nederlandse chocolademerk werd vooral populairder in het buitenland. Met name in de Verenigde Staten waren de chocoladerepen niet aan te slepen.",
+          "link": "https://www.nu.nl/economie/6246233/tonys-chocolonely-groeit-hard-voornamelijk-door-populariteit-in-vs.html",
+          "publishedOn": "2023-01-09T10:43:18.000Z",
+          "wordCount": 1071,
+          "title": "Tony's Chocolonely groeit hard, voornamelijk door populariteit in VS",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/hudx433agbgm_sqr256.jpg/tonys-chocolonely-groeit-hard-voornamelijk-door-populariteit-in-vs.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/hudx433agbgm_sqr256.jpg/tonys-chocolonely-groeit-hard-voornamelijk-door-populariteit-in-vs.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6245964/",
           "author": "NU.nl",
           "description": "Het wordt druk op de maan in 2023. Meerdere onbemande maanmissies staan gepland voor dit jaar. Waarom wordt het zo druk op de maan?",
@@ -14362,6 +14392,46 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "stock-market-movers-alibaba-cincor-macys-51673027720?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "CinCor Pharma is being acquired by AstraZeneca in a deal valued at about $1.8 billion; Macy's issues a sales warning.",
+          "link": "https://www.barrons.com/articles/stock-market-movers-alibaba-cincor-macys-51673027720?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-09T10:44:00.000Z",
+          "wordCount": 6461,
+          "title": "These Stocks Are Moving the Most Monday: CinCor, Albireo, Macy’s, Alibaba, and More",
+          "imageUrl": "https://images.barrons.com/im-695660/social"
+        },
+        {
+          "id": "alibaba-shares-soar-after-billionaire-jack-ma-cedes-control-of-ant-9NMOgh1rKNjRMcLTeC9f?yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/livecoverage/stock-market-news-today-01-09-2023/card/alibaba-shares-soar-after-billionaire-jack-ma-cedes-control-of-ant-9NMOgh1rKNjRMcLTeC9f?yptr=yahoo",
+          "publishedOn": "2023-01-09T10:39:37.000Z",
+          "wordCount": null,
+          "title": "Alibaba Shares Soar After Billionaire Jack Ma Cedes Control of Ant",
+          "imageUrl": null
+        },
+        {
+          "id": "astrazeneca-to-buy-cincor-pharma-51673254630?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "AstraZeneca said the deal, expected to close in the first quarter of 2023, will bolster its cardiorenal pipeline",
+          "link": "https://www.barrons.com/articles/astrazeneca-to-buy-cincor-pharma-51673254630?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-09T10:25:00.000Z",
+          "wordCount": 6442,
+          "title": "CinCor Pharma Stock Surges on Deal to Be Acquired by AstraZeneca",
+          "imageUrl": "https://images.barrons.com/im-294255/social"
+        },
+        {
+          "id": "morgan-stanley-michael-wilson-says-091415896.html",
+          "author": null,
+          "description": "(Bloomberg) -- US equities face much sharper declines than many pessimists expect with the specter of recession likely to compound their biggest annual slump since the global financial crisis, according to Morgan Stanley strategists.Most Read from BloombergGoldman to Cut About 3,200 Jobs This Week After Cost ReviewBrazil Capital Reels After Anti-Lula Rioters Storm CongressShip Refloated After Running Aground in Egypt’s Suez CanalPutin’s Energy Gambit Fizzles as Warm Winter Saves EuropeSouth Afri",
+          "link": "https://finance.yahoo.com/news/morgan-stanley-michael-wilson-says-091415896.html",
+          "publishedOn": "2023-01-09T09:14:15.000Z",
+          "wordCount": 13906,
+          "title": "Morgan Stanley Warns US Stocks Risk 22% Slump",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/b7e6c3b36f9bbbb99ff7d3bc0d2ce8ab"
+        },
+        {
           "id": "alibaba-stock-jack-ma-ant-51673253910?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Alibaba owns a 33% stake in Ant Group, which could revive its IPO plans if Chinese regulators are satisfied by its reorganization.",
@@ -14430,6 +14500,16 @@
           "wordCount": 5847,
           "title": "6 Surprising Facts About Retirement",
           "imageUrl": "https://www.investopedia.com/thmb/hOy9h2SPV-MbJPS6MmStcHVasiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25_thinkstockphotos186100272-5bfc3c75c9e77c00587b57f7.jpg"
+        },
+        {
+          "id": "markets-bitcoin-back-above-us-011844710.html",
+          "author": null,
+          "description": "Bitcoin and Ether rose in Monday morning trading in Asia, rising with the rest of the top 10 non-stablecoin cryptocurrencies by market capitalization, with Cardano and BNB changing the most.",
+          "link": "https://finance.yahoo.com/news/markets-bitcoin-back-above-us-011844710.html",
+          "publishedOn": "2023-01-09T01:18:44.000Z",
+          "wordCount": 14072,
+          "title": "Markets: Bitcoin back above US$17,000; Ether, crypto market extend weekend gains",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/FWtuzcV0nhv3p1bLR2bR_w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/forkast_news_articles_672/e5fb1325a28816bd962685c4d69e3c62"
         },
         {
           "id": "elon-musk-sends-subtle-message-to-disenchanted-tesla-shareholders?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
