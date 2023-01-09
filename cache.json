@@ -348,6 +348,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6246151/",
+          "author": "Sanne Oving",
+          "description": "Al bijna twee jaar lang bezetten klimaatactivisten het Duitse dorpje Lützerath. Vanaf dinsdag moeten ze weg, maar dat gaat tot nu toe niet zonder slag of stoot. Dit is hoe het bruinkooldorp van een rustig gehucht veranderde in het middelpunt van klimaatactivisme.",
+          "link": "https://www.nu.nl/buitenland/6246151/waarom-activisten-een-duits-dorp-bezetten-en-de-politie-met-veel-agenten-ingrijpt.html",
+          "publishedOn": "2023-01-09T06:36:27.000Z",
+          "wordCount": 2022,
+          "title": "Waarom activisten een Duits dorp bezetten (en de politie met veel agenten ingrijpt)",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/3g9xvtnahyoa_sqr256.jpg/waarom-activisten-een-duits-dorp-bezetten-en-de-politie-met-veel-agenten-ingrijpt.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/3g9xvtnahyoa_sqr256.jpg/waarom-activisten-een-duits-dorp-bezetten-en-de-politie-met-veel-agenten-ingrijpt.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6245933/",
           "author": "Tom van Gurp",
           "description": "Er zijn in Nederland inmiddels meer dan een miljoen personenauto's die geheel of gedeeltelijk op stroom kunnen rijden. Dat is bijna net zoveel als het aantal diesels, blijkt uit cijfers die NU.nl opvroeg bij de RDW.",
@@ -4726,21 +4741,6 @@
             "url": "https://media.nu.nl/m/f0jx3qhafuwa_sqr256.jpg/kerstdiner-ontkomt-niet-aan-inflatie-kalkoen-en-eend-dit-jaar-duur.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/f0jx3qhafuwa_sqr256.jpg/kerstdiner-ontkomt-niet-aan-inflatie-kalkoen-en-eend-dit-jaar-duur.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6240751/",
-          "author": "Govrien Oldenburger",
-          "description": "De boodschappen worden duurder, net als de energie en benzine. Voor starters is het moeilijk om een huis te vinden. En studenten bouwen soms torenhoge studieschulden op. In deze rubriek vertellen jonge mensen hoe zij rondkomen en geeft het Nibud tips. Deze week: Daan* (29). Hij spaart 1.500 à 2.000 euro per maand en belegt in crypto.",
-          "link": "https://www.nu.nl/geldzaken/6240751/hoe-kom-jij-rond-daan-29-ik-wil-over-zeven-jaar-met-pensioen.html",
-          "publishedOn": "2022-12-10T18:56:10.000Z",
-          "wordCount": 1746,
-          "title": "Hoe kom jij rond? Daan (29): 'Ik wil over zeven jaar met pensioen'",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/99pxxztac0mh_sqr256.jpg/hoe-kom-jij-rond-daan-29-ik-wil-over-zeven-jaar-met-pensioen.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/99pxxztac0mh_sqr256.jpg/hoe-kom-jij-rond-daan-29-ik-wil-over-zeven-jaar-met-pensioen.jpg"
         }
       ]
     },
@@ -4749,6 +4749,31 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/ask/answers/111715/do-401k-savings-earn-interest.asp",
+          "author": "Jason Morris",
+          "description": "Learn about the various interest-bearing securities you can use to add stable, recurring income to your employer-sponsored 401(k) account.",
+          "link": "https://www.investopedia.com/ask/answers/111715/do-401k-savings-earn-interest.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-09T06:42:40.000Z",
+          "wordCount": 3869,
+          "title": "Do 401(k) Savings Earn Interest?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/AygtTPnz8QmJAbhLK4Kbhgd8Mig=/680x440/thinkstockphotos_493208894-5bfc2b9746e0fb0051bde2b8.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/AygtTPnz8QmJAbhLK4Kbhgd8Mig=/680x440/thinkstockphotos_493208894-5bfc2b9746e0fb0051bde2b8.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/robo-roth-ira-5221267",
+          "author": "Rae Hartley Beck",
+          "description": "Learn about robo Roth IRAs and if you should consider using a robo-advisor to manage your Roth IRA.",
+          "link": "https://www.investopedia.com/robo-roth-ira-5221267?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-09T06:26:27.000Z",
+          "wordCount": 4767,
+          "title": "Can You Have a Robo Roth IRA?",
+          "imageUrl": "https://www.investopedia.com/thmb/n5HDmFix2RzoyHx16PQ_sk1e10A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1281452710-96bfdd0047fb41928c4f41f7e43a2865.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/personal-finance/032615/take-these-simple-steps-open-ira.asp",
           "author": "Carol M. Kopp",
@@ -14178,16 +14203,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/S39W6gSaf_AX90MvbsO7IWA2t8M=/2121x1414/GettyImages-1063752094-eeb9434228524868946a02406d2f3930.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/interactive-brokers-vs-webull-6748186",
-          "author": "Staff Author",
-          "description": "The Old vs the New Trading Platform: Learn Which is Best for You",
-          "link": "https://www.investopedia.com/interactive-brokers-vs-webull-6748186?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-10T19:08:48.000Z",
-          "wordCount": 5209,
-          "title": "Interactive Brokers vs. Webull 2022",
-          "imageUrl": "https://www.investopedia.com/thmb/NPv0iqdJGx_1eg15wk9H42GBVpU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Webull-vs-Interactive-Head-to-Head-0bd2e230d7f74db7ba7a7c149cb52036.jpg"
         }
       ]
     },
@@ -14495,6 +14510,16 @@
           "wordCount": 14469,
           "title": "Ask An Advisor: Can I Harness the Bear Market to Cut My RMDs and Tax Bill?",
           "imageUrl": "https://media.zenfs.com/en/smartasset_475/69625cfb4e09d78de10f3f1e89b0b5fc"
+        },
+        {
+          "id": "bonds-open-2023-with-a-rally-11673133135?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/articles/bonds-open-2023-with-a-rally-11673133135?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-08T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Bonds Open 2023 With a Rally",
+          "imageUrl": null
         },
         {
           "id": "delta-fixes-a-key-passenger-pain-point-and-the-solution-is-free?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
@@ -34775,36 +34800,6 @@
           "wordCount": 3892,
           "title": "Anti-Tesla Investors Hit The Jackpot",
           "imageUrl": "https://www.thestreet.com/.image/t_share/MTkzMjU4MDE5NDYxNTM5NzQ3/thumb-tesla-2-js-102422.jpg"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/cathie-wood-has-bet-big-on-these-10-stocks-how-theyre-performing/?src=A00220&yptr=yahoo",
-          "publishedOn": "2022-12-10T19:11:44.000Z",
-          "wordCount": null,
-          "title": "Cathie Wood Has Bet Big On These 10 Stocks; Here's How They're Performing",
-          "imageUrl": null
-        },
-        {
-          "id": "world-top-money-managers-see-190000455.html",
-          "author": null,
-          "description": "(Bloomberg) -- Some of the world’s biggest investors predict that stocks will see low double-digit gains next year, yet the path to a rebound won’t be a straight line.Most Read from BloombergElon Musk Steps Up Attacks on Twitter’s Former Safety HeadChina’s Top Medical Adviser Says Omicron’s Risks Same as FluPutin Says Russia May Add Nuclear First Strike to StrategyHarry and Meghan Throw the Gauntlet to William and KateFed’s Message That Rates Will Stay on Hold for ‘Some Time’ Clashes With 2023 R",
-          "link": "https://finance.yahoo.com/news/world-top-money-managers-see-190000455.html",
-          "publishedOn": "2022-12-10T19:00:00.000Z",
-          "wordCount": 14307,
-          "title": "World’s Top Money Managers See Global Stocks Recovering in 2023",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/tovbzQU6N6TiEGt65xkAZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mjg-/https://media.zenfs.com/en/bloomberg_markets_842/eba1c9cdab54242a70ffb3f3e96424e3"
-        },
-        {
-          "id": "investors-call-time-faang-stock-190000390.html",
-          "author": null,
-          "description": "(Bloomberg) -- For some investors, this year’s rout in high-flying technology stocks is more than a bear market: It’s the end of an era for a handful of giant companies such as Facebook parent Meta Platforms Inc. and Amazon.com Inc.Most Read from BloombergPutin Says Russia May Add Nuclear First Strike to StrategyHarry and Meghan Throw the Gauntlet to William and KateThe Harry and Meghan Show Is a Royal KnockoutTwitter Sued for Refusing to Pay for Two Private Jet ChartersSports Writer Grant Wahl",
-          "link": "https://finance.yahoo.com/news/investors-call-time-faang-stock-190000390.html",
-          "publishedOn": "2022-12-10T19:00:00.000Z",
-          "wordCount": 14757,
-          "title": "Investors Call Time on FAANG Stock Dominance After Nasdaq’s Rout",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/c60ca3889d4a83bccd428b271b3783ac"
         }
       ]
     }
