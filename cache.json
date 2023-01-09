@@ -348,6 +348,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6245933/",
+          "author": "Tom van Gurp",
+          "description": "Er zijn in Nederland inmiddels meer dan een miljoen personenauto's die geheel of gedeeltelijk op stroom kunnen rijden. Dat is bijna net zoveel als het aantal diesels, blijkt uit cijfers die NU.nl opvroeg bij de RDW.",
+          "link": "https://www.nu.nl/economie/6245933/elektrische-auto-is-diesel-bijna-voorbijgereden.html",
+          "publishedOn": "2023-01-09T04:17:49.000Z",
+          "wordCount": 998,
+          "title": "Elektrische auto is diesel bijna voorbijgereden",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/xmnxoz9av1ki_sqr256.jpg/elektrische-auto-is-diesel-bijna-voorbijgereden.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/xmnxoz9av1ki_sqr256.jpg/elektrische-auto-is-diesel-bijna-voorbijgereden.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6246177/",
           "author": "onze nieuwsredactie",
           "description": "Het bedrijf Air Products, dat verantwoordelijk is voor de bouw van de stikstoffabriek bij Zuidbroek, heeft het contract met onderaannemer Ballast Nedam zaterdag per direct opgezegd. Ballast Nedam zou zich niet aan de afspraken hebben gehouden.",
@@ -4734,6 +4749,46 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/personal-finance/032615/take-these-simple-steps-open-ira.asp",
+          "author": "Carol M. Kopp",
+          "description": "Opening up an individual retirement account (IRA) is a simple move that will save you tax money today and help you save for tomorrow.",
+          "link": "https://www.investopedia.com/articles/personal-finance/032615/take-these-simple-steps-open-ira.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-09T04:55:21.000Z",
+          "wordCount": 4678,
+          "title": "Simple Steps To Open an IRA",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/7V0kevWbTZRX3SGs0obPhl6dP0U=/680x440/thinkstockphotos-aa000085-5bfc346a46e0fb0051467c35.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/7V0kevWbTZRX3SGs0obPhl6dP0U=/680x440/thinkstockphotos-aa000085-5bfc346a46e0fb0051467c35.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/retirement/06/addroths.asp",
+          "author": "Denise Appleby",
+          "description": "If your employer offers a 401(k), a 403(b), or a 457(b) retirement plan, you may consider the Roth option, which is more pain now for big gain later.",
+          "link": "https://www.investopedia.com/articles/retirement/06/addroths.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-09T04:39:56.000Z",
+          "wordCount": 4284,
+          "title": "Should I Choose a Traditional or Roth Retirement Account?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/DVyu4Bi5FAc_SJp-PbLfoZW1iP4=/205x136/retirement-lrg-4-5bfc2b1e46e0fb0051199e46.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/DVyu4Bi5FAc_SJp-PbLfoZW1iP4=/205x136/retirement-lrg-4-5bfc2b1e46e0fb0051199e46.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/irs-form-8880-credit-for-qualified-retirement-savings-contributions-5114767",
+          "author": "Rebecca Lake",
+          "description": "Form 8880: Credit for Qualified Retirement Savings Contributions is an IRS form for claiming the retirement saver's credit on an individual's taxes.",
+          "link": "https://www.investopedia.com/irs-form-8880-credit-for-qualified-retirement-savings-contributions-5114767?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-09T04:09:31.000Z",
+          "wordCount": 5029,
+          "title": "IRS Form 8880: Who Qualifies for the Retirement Saver's Credit",
+          "imageUrl": "https://www.investopedia.com/thmb/v4e-lI3owwKspmyYptk2DTH3hE0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/portrait-of-pensive-business-woman-wearing-glasses-at-workplace-in-office--young-handsome-female-worker-using-modern-laptop-1188205076-9e7e31f3895347a180afefba64320aaa.jpg"
+        },
         {
           "id": "https://www.investopedia.com/how-to-convert-a-401-k-to-a-roth-401-k-4770588",
           "author": "The Investopedia Team",
@@ -14152,6 +14207,16 @@
           "imageUrl": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         },
         {
+          "id": "asia-stocks-track-enter-bull-020819925.html",
+          "author": null,
+          "description": "(Bloomberg) -- Asia’s benchmark stock index was on track to enter a bull market, as China’s reopening and a weakening dollar lure investors back to the region. Most Read from BloombergGoldman to Cut About 3,200 Jobs This Week After Cost ReviewUkraine Latest: Zelenskiy Says Extra Troops Will Defend BakhmutPro-Bolsonaro Rioters Invade Brasilia in Challenge to LulaEconomists Fret Over Perils Ahead for Global GrowthPutin’s Energy Gambit Fizzles as Warm Winter Saves EuropeThe MSCI Asia Pacific Index",
+          "link": "https://finance.yahoo.com/news/asia-stocks-track-enter-bull-020819925.html",
+          "publishedOn": "2023-01-09T02:37:38.000Z",
+          "wordCount": 13972,
+          "title": "Asia Stocks On Track to Enter Bull Market as China Rally Extends",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/26c09fe3eb8d4739eca6e780473657ca"
+        },
+        {
           "id": "alibaba-leads-china-tech-gains-014428604.html",
           "author": null,
           "description": "(Bloomberg) -- Chinese tech stocks jumped as the sector’s outlook improved further following regulator comments that a years-long crackdown is ending. Most Read from BloombergGoldman to Cut About 3,200 Jobs This Week After Cost ReviewUkraine Latest: Zelenskiy Says Extra Troops Will Defend BakhmutThailand Brings Back Covid Entry Rules as China’s Borders ReopenEconomists Fret Over Perils Ahead for Global GrowthPutin’s Energy Gambit Fizzles as Warm Winter Saves EuropeAlibaba Group Holding Ltd. rall",
@@ -14330,6 +14395,26 @@
           "wordCount": 3439,
           "title": "Bearish Bets: 3 Big Board Stocks You Should Think About Shorting This Week",
           "imageUrl": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/772ef7e8-7d5d-11ec-b2aa-1bd70abf4ebe.jpg"
+        },
+        {
+          "id": "google-might-need-to-be-un-google-like-11673152950?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/articles/google-might-need-to-be-un-google-like-11673152950?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-08T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Google Might Need to Be Un-Google-Like",
+          "imageUrl": null
+        },
+        {
+          "id": "adobes-ceo-sizes-up-the-state-of-tech-now-11673151167?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/articles/adobes-ceo-sizes-up-the-state-of-tech-now-11673151167?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-08T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Adobe’s CEO Sizes Up the State of Tech Now",
+          "imageUrl": null
         },
         {
           "id": "stock-market-week-ahead-cpi-report-inflation-bank-earnings-144340262.html",
@@ -34760,66 +34845,6 @@
           "wordCount": 7828,
           "title": "Binance Is Trying to Calm Investors, but Its Finances Remain a Mystery",
           "imageUrl": "https://images.wsj.net/im-682783/social"
-        },
-        {
-          "id": "carvana-autonation-penske-car-dealer-stocks-51670636205?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "New-car dealers are insulated from much of the swing in used car-prices, and their inventory costs and sales prices are more stable. Here are some options.",
-          "link": "https://www.barrons.com/articles/carvana-autonation-penske-car-dealer-stocks-51670636205?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-10T16:54:00.000Z",
-          "wordCount": 6369,
-          "title": "As Carvana Plunges, Consider These 5 Car Dealer Stocks Instead",
-          "imageUrl": "https://images.barrons.com/im-682599/social"
-        },
-        {
-          "id": "visamastercard-microsoft-lam-research-stock-screen-51670635706?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "We screened for companies resistant to inflation, recession, and rate hikes. We came up with names ranging from Microsoft to Moody’s.",
-          "link": "https://www.barrons.com/articles/visamastercard-microsoft-lam-research-stock-screen-51670635706?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-10T16:51:00.000Z",
-          "wordCount": 6490,
-          "title": "16 Stocks That Can Survive a Triple Whammy",
-          "imageUrl": "https://images.barrons.com/im-682981/social"
-        },
-        {
-          "id": "blackstone-retail-real-estate-fund-breit-liquidity-51670632249?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The firm’s nontraded real estate income trust, BREIT, was a big success until the turmoil of 2022. When redemption requests mounted, the firm limited them, raising a raft of issues, from fears of outflows to regulatory scrutiny.",
-          "link": "https://www.barrons.com/articles/blackstone-retail-real-estate-fund-breit-liquidity-51670632249?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-10T16:47:00.000Z",
-          "wordCount": 6503,
-          "title": "The Lesson of Blackstone’s Retail Real Estate Fund: Liquidity Matters",
-          "imageUrl": "https://images.barrons.com/im-682979/social"
-        },
-        {
-          "id": "iac-stock-price-bargain-tech-51670627973?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Some tech stocks might have already hit bottom, and IAC looks like a textbook case of an undervalued stock that deserves more attention from investors.",
-          "link": "https://www.barrons.com/articles/iac-stock-price-bargain-tech-51670627973?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-10T16:38:00.000Z",
-          "wordCount": 6472,
-          "title": "Tech Stocks Are Cheap. Here’s 1 That May Actually Be a Bargain.",
-          "imageUrl": "https://images.barrons.com/im-682206/social"
-        },
-        {
-          "id": "economy-recession-interest-rates-fed-51670622600?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Rampant wage growth is fueling inflation and eating into profit margins in the services sector, where prices continue to soar, even as other sectors begin to see some relief.",
-          "link": "https://www.barrons.com/articles/economy-recession-interest-rates-fed-51670622600?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-10T16:32:00.000Z",
-          "wordCount": 6467,
-          "title": "Buckle Up: It’s Going to Be a Hard Landing",
-          "imageUrl": "https://images.barrons.com/im-682622/social"
-        },
-        {
-          "id": "netflix-workday-costco-caterpillar-and-more-these-stocks-are-cowens-favorites-for-2023-11670689223?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Across the market, Cowen & Co. analysts see undervalued stocks.",
-          "link": "https://www.marketwatch.com/story/netflix-workday-costco-caterpillar-and-more-these-stocks-are-cowens-favorites-for-2023-11670689223?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-10T16:20:00.000Z",
-          "wordCount": 7525,
-          "title": "Netflix, Workday, Costco, Caterpillar and more: These stocks are Cowen’s favorites for 2023",
-          "imageUrl": "https://images.mktw.net/im-595785/social"
         }
       ]
     }
