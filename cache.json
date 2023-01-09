@@ -348,6 +348,51 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6245964/",
+          "author": "NU.nl",
+          "description": "Het wordt druk op de maan in 2023. Meerdere onbemande maanmissies staan gepland voor dit jaar. Waarom wordt het zo druk op de maan?",
+          "link": "https://www.nu.nl/uitleg/6245964/waarom-het-dit-jaar-erg-druk-wordt-op-de-maan.html",
+          "publishedOn": "2023-01-09T10:00:02.000Z",
+          "wordCount": 832,
+          "title": "Video | Waarom het dit jaar erg druk wordt op de maan",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/homxx4jaznat_sqr256.jpg/waarom-het-dit-jaar-erg-druk-wordt-op-de-maan.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/homxx4jaznat_sqr256.jpg/waarom-het-dit-jaar-erg-druk-wordt-op-de-maan.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6246196/",
+          "author": "onze nieuwsredactie",
+          "description": "Een raket wordt meestal gelanceerd vanaf een bekende lanceerbasis, zoals die in Cape Canaveral, Bajkonoer of Kourou. Maar maandag is West-Europa voor het eerst aan de beurt. Ten zuiden van Ierland, boven de Atlantische Oceaan worden satellieten gelanceerd. De gloed daarvan is mogelijk ook vanuit Nederland te zien. Als je naar het zuidwesten kijkt, kun je er misschien een glimp van opvangen.",
+          "link": "https://www.nu.nl/tech/6246196/eerste-satellietlancering-in-west-europa-mogelijk-vanuit-nederland-te-zien.html",
+          "publishedOn": "2023-01-09T09:55:09.000Z",
+          "wordCount": 1104,
+          "title": "Eerste satellietlancering in West-Europa mogelijk vanuit Nederland te zien",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/t62xadpazku5_sqr256.jpg/eerste-satellietlancering-in-west-europa-mogelijk-vanuit-nederland-te-zien.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/t62xadpazku5_sqr256.jpg/eerste-satellietlancering-in-west-europa-mogelijk-vanuit-nederland-te-zien.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6245887/",
+          "author": "Erik Nusselder",
+          "description": "Vingerafdrukken, vlekken, stof of lelijke strepen: soms heeft je nieuwe tv een flinke poetsbeurt nodig. Met deze tips doe je dat zonder je scherm te beschadigen.",
+          "link": "https://www.nu.nl/tech/6245887/wat-je-niet-moet-doen-als-je-de-tv-schoonmaakt-en-wat-wel.html",
+          "publishedOn": "2023-01-09T09:19:19.000Z",
+          "wordCount": 1500,
+          "title": "Wat je niet moet doen als je de tv schoonmaakt (en wat wel)",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/so7x5qoazxmh_sqr256.jpg/wat-je-niet-moet-doen-als-je-de-tv-schoonmaakt-en-wat-wel.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/so7x5qoazxmh_sqr256.jpg/wat-je-niet-moet-doen-als-je-de-tv-schoonmaakt-en-wat-wel.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6246182/",
           "author": "Tom van Gurp",
           "description": "Horecabedrijven verdienden afgelopen jaar in totaal 25,9 miljard euro. Dat is iets meer dan in het laatste jaar voor de pandemie, meldt brancheorganisatie KHN maandag op vakbeurs Horecava. Toch worstelen veel ondernemers nog.",
@@ -14316,6 +14361,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "alibaba-stock-jack-ma-ant-51673253910?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Alibaba owns a 33% stake in Ant Group, which could revive its IPO plans if Chinese regulators are satisfied by its reorganization.",
+          "link": "https://www.barrons.com/articles/alibaba-stock-jack-ma-ant-51673253910?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-09T08:59:00.000Z",
+          "wordCount": 6414,
+          "title": "Alibaba Stock Surges After Jack Ma Gives Up Control of Ant Group",
+          "imageUrl": "https://images.barrons.com/im-699254/social"
+        },
+        {
+          "id": "astrazeneca-to-buy-u-s-cardiorenal-drug-maker-11673252698?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/articles/astrazeneca-to-buy-u-s-cardiorenal-drug-maker-11673252698?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-09T08:25:00.000Z",
+          "wordCount": null,
+          "title": "AstraZeneca to Buy U.S. Cardiorenal-Drug Maker",
+          "imageUrl": null
+        },
         {
           "id": "how-to-convert-a-401-k-to-a-roth-401-k-4770588?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
           "author": null,
@@ -34885,16 +34950,6 @@
           "wordCount": 14514,
           "title": "How a $144 Million Property Default Started Korea’s Credit Crunch",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/yuogz_5hrl2ktZ013lO9XA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/d32e7bc9bff15fd7e3734c3596b4df6c"
-        },
-        {
-          "id": "us-prosecutors-reportedly-investigating-ftx-founder-sam-bankman-fried-fraud-214946075.html",
-          "author": null,
-          "description": "In a recent meeting between FTX, federal prosecutors and FBI agents, Justice Department officials asked for documents from the crypto exchange.",
-          "link": "https://finance.yahoo.com/news/us-prosecutors-reportedly-investigating-ftx-founder-sam-bankman-fried-fraud-214946075.html",
-          "publishedOn": "2022-12-10T21:49:46.000Z",
-          "wordCount": 13807,
-          "title": "US prosecutors are reportedly investigating FTX founder Sam Bankman-Fried for fraud",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/WYcaxRyWTpoqokXKUYcALw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/4990c390-78d3-11ed-811a-2b62287eefcd"
         }
       ]
     }
