@@ -378,6 +378,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6246468/",
+          "author": "onze economieredactie",
+          "description": "Werknemers van de regionale vervoerders Arriva en Keolis leggen vrijdag opnieuw het werk neer. Het gaat om een 24 uursstaking. De vakbonden laten weten dat de werkgevers nog steeds geen gehoor hebben gegeven aan hun eisen.",
+          "link": "https://www.nu.nl/economie/6246468/regionale-vervoerders-leggen-vrijdag-opnieuw-werk-neer.html",
+          "publishedOn": "2023-01-11T06:31:26.000Z",
+          "wordCount": 875,
+          "title": "Regionale vervoerders leggen vrijdag opnieuw werk neer",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/nsmxu6wajq3h_sqr256.jpg/regionale-vervoerders-leggen-vrijdag-opnieuw-werk-neer.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/nsmxu6wajq3h_sqr256.jpg/regionale-vervoerders-leggen-vrijdag-opnieuw-werk-neer.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6246382/",
           "author": "Ertan Basekin",
           "description": "We gaan de komende maanden nog meer betalen voor vlees, zuivel, graanproducten, olie en groente. Maar ook de prijzen van bijvoorbeeld verzorgingsproducten, pennen, schoonmaakmiddelen en pannen zullen verder stijgen. Datzelfde geldt voor een glas wijn en een diner in de horeca, zeggen verschillende economen en brancheverenigingen tegen NU.nl.",
@@ -14938,31 +14953,6 @@
           "wordCount": 4985,
           "title": "Can You Own Crypto in Your Roth IRA?",
           "imageUrl": "https://www.investopedia.com/thmb/ITg1uIo2LSzE5v-1Ar5lYYt_4Fc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/crypto_shutterstock_1039691803-274fc4d3c98e4c43a7c8878405daf6e7.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/the-express-podcast-episode-116-6890677",
-          "author": "Staff Author",
-          "description": "Professor Burton Malkiel, author of the seminal investing bible, \"A Random Walk Down Wall Street,\" joins the show to celebrate the 50th anniversary of the masterpiece, and shares timeless advice for investors today. Plus, we share Investopedia's Top Terms of 2022, and what was top of mind for investors during this tumultuous year. We also discuss why this could be the most important week of the year for the markets.",
-          "link": "https://www.investopedia.com/the-express-podcast-episode-116-6890677?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-12T19:07:49.000Z",
-          "wordCount": 7098,
-          "title": "\"A Random Walk Down Wall Street\" Turns 50, and Our Top Terms of the Year",
-          "imageUrl": "https://www.investopedia.com/thmb/X73UR0U2tzIwdTJKLR2QBUc3TU4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/expressthumb-a36bbb96d8334b23bf1b081e786c77bc-7121f805a71440c88c8992653c93d05b.png"
-        },
-        {
-          "id": "https://www.investopedia.com/investing/natural-gas-stocks/",
-          "author": "Nathan Reiff",
-          "description": "Antero Resources, Comstock Resources, and Chesapeake Energy are among the top-performing natural gas stocks, surging as much as 80% in the past year as natural gas prices quadrupled.",
-          "link": "https://www.investopedia.com/investing/natural-gas-stocks/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-12T18:52:14.000Z",
-          "wordCount": 5067,
-          "title": "Top Natural Gas Stocks",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Cjn4J74TIudYBVHEOXdVvfPJtLI=/680x440/ap_080908049309-5bfc3ae046e0fb00260f31db.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Cjn4J74TIudYBVHEOXdVvfPJtLI=/680x440/ap_080908049309-5bfc3ae046e0fb00260f31db.jpg"
         }
       ]
     },
@@ -15080,6 +15070,16 @@
           "wordCount": null,
           "title": "AT&T Stock: Is It A Buy Ahead Of Earnings? Here's What Charts Show",
           "imageUrl": null
+        },
+        {
+          "id": "hanesbrands-citigroup-undervalued-stocks-morningstar?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "Value has creamed growth in the past year, with Russell 1000 Value slipping 17 percentage points less than Russell 1000 Growth.",
+          "link": "https://www.thestreet.com/stocks/hanesbrands-citigroup-undervalued-stocks-morningstar?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-01-10T20:19:00.000Z",
+          "wordCount": 3548,
+          "title": "Hanes, Citigroup Make List of Undervalued Stocks",
+          "imageUrl": "https://www.thestreet.com/.image/t_share/MTgwOTQxMTc4NTM4MDQyNzI4/hanes_4.jpg"
         },
         {
           "id": "republicans-first-bill-makes-tax-201300527.html",
@@ -36020,86 +36020,6 @@
           "wordCount": 14208,
           "title": "Bonds: Is now a good time to buy? Experts weigh in",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_ZBzXo.VZb_dOhM12Jkd.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-06/0d1c7960-caea-11eb-bfff-d62a120c11e0"
-        },
-        {
-          "id": "spirit-surges-on-air-india-order.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
-          "author": null,
-          "description": "The carrier is said to be close to ordering up to 500 jets from Boeing and Airbus.",
-          "link": "https://www.bizjournals.com/wichita/news/2022/12/12/spirit-surges-on-air-india-order.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
-          "publishedOn": "2022-12-12T19:07:10.000Z",
-          "wordCount": 4416,
-          "title": "Spirit AeroSystems shares jump on talk of huge Air India aircraft order",
-          "imageUrl": "https://media.bizj.us/view/img/3944521/7085089449a17531db1ck*1200xx2048-1151-0-147.jpg"
-        },
-        {
-          "id": "alphabet-google-stock-declines-51670871567?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Shares of the parent company of Google are on track for their longest losing streak since September 2018.",
-          "link": "https://www.barrons.com/articles/alphabet-google-stock-declines-51670871567?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-12T19:07:00.000Z",
-          "wordCount": 6404,
-          "title": "Alphabet Stock Is Having a Horrible 7-Day Stretch. These Numbers Tell the Story.",
-          "imageUrl": "https://images.barrons.com/im-349672/social"
-        },
-        {
-          "id": "clovis-enters-bankruptcy-with-deal-to-sell-cancer-drug-candidate-to-novartis-11670871930?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Clovis Oncology, maker of ovarian cancer drug Rubraca, has filed for chapter 11 and proposed selling a separate therapy to a Novartis affiliate.",
-          "link": "https://www.wsj.com/articles/clovis-enters-bankruptcy-with-deal-to-sell-cancer-drug-candidate-to-novartis-11670871930?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-12T19:05:00.000Z",
-          "wordCount": 7758,
-          "title": "Clovis Enters Bankruptcy With Deal to Sell Cancer-Drug Candidate to Novartis",
-          "imageUrl": "https://images.wsj.net/im-683944/social"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/economy/fade-the-cpi-this-new-fed-inflation-chart-is-key-for-sp-500/?src=A00220&yptr=yahoo",
-          "publishedOn": "2022-12-12T19:00:19.000Z",
-          "wordCount": null,
-          "title": "Fade The CPI; This New Fed Inflation Chart Is Key For S&P 500",
-          "imageUrl": null
-        },
-        {
-          "id": "under-armour-stock-analysis-balance-sheet-51670871325?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "A Stifel analyst upgraded Under Armour to Buy from Hold, while raising his price target to $12 from $9.",
-          "link": "https://www.barrons.com/articles/under-armour-stock-analysis-balance-sheet-51670871325?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-12T18:57:00.000Z",
-          "wordCount": 6349,
-          "title": "Under Armour Has the Balance Sheet to Survive. Here Is What Needs to Thrive.",
-          "imageUrl": "https://images.barrons.com/im-683610/social"
-        },
-        {
-          "id": "crypto-problems-grow-binance-might-face-charges?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "U.S. prosecutors are considering charges against the cryptocurrency exchange and its executives, including CEO Changpeng Zhao, according to Reuters.",
-          "link": "https://www.thestreet.com/investing/cryptocurrency/crypto-problems-grow-binance-might-face-charges?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2022-12-12T18:53:00.000Z",
-          "wordCount": 3268,
-          "title": "Crypto Problems Grow: Binance Might Face Money-Laundering Charges",
-          "imageUrl": "https://www.thestreet.com/.image/t_share/MTkzNzY2NzY3MTk2MTIwNTE1/changpeng-zhao-2-lead-js-111522.jpg"
-        },
-        {
-          "id": "?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Antero Resources, Comstock Resources, and Chesapeake Energy are among the top-performing natural gas stocks, surging as much as 80% in the past year as natural gas prices quadrupled.",
-          "link": "https://www.investopedia.com/investing/natural-gas-stocks/?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2022-12-12T18:52:15.000Z",
-          "wordCount": 5057,
-          "title": "Top Natural Gas Stocks",
-          "imageUrl": "https://www.investopedia.com/thmb/hw2nunBcDaU9W6FxqzobdhWGuaE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ap_080908049309-5bfc3ae046e0fb00260f31db.jpg"
-        },
-        {
-          "id": "vanguard-fixed-income-chief-sees-183835750.html",
-          "author": null,
-          "description": "(Bloomberg) -- For Vanguard’s Sara Devereux, the recent debt rally brought the chance to reduce credit exposure and buy mortgage agency securities based on valuations, setting up what promises to be a bond picker’s paradise in the new year.Most Read from BloombergElon Musk Is Ruining Trump’s Presidential CampaignChina’s Rapid Covid Reversal Sparks Whiplash as Cases SurgeUS Says Scientists Make Breakthrough in Nuclear Fusion EnergySam Bankman-Fried Arrested in Bahamas as US Files FTX ChargesKeyst",
-          "link": "https://finance.yahoo.com/news/vanguard-fixed-income-chief-sees-183835750.html",
-          "publishedOn": "2022-12-12T18:38:35.000Z",
-          "wordCount": 14068,
-          "title": "Vanguard Fixed-Income Chief Sees Good Year Ahead for Bonds — If You Pick the Right Ones",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/34e619b6aa03e0bc96a243ca3a4362fd"
         }
       ]
     }
