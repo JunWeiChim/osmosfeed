@@ -5121,21 +5121,6 @@
             "url": "https://media.nu.nl/m/mj0xal4apb3w_sqr256.jpg/ongeveer-15-miljoen-woningen-moeten-verduurzaamd-worden-tot-2030.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/mj0xal4apb3w_sqr256.jpg/ongeveer-15-miljoen-woningen-moeten-verduurzaamd-worden-tot-2030.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6241642/",
-          "author": "Ertan Basekin",
-          "description": "De overnameslag onder flitsbezorgers is in volle gang nu het Turkse Getir zijn concurrent Gorillas heeft overgenomen. De verwachting is dat er uiteindelijk een of twee sterke partijen overblijven. De volgende stap is dat de flitsbezorgers ook rendabel worden. Een lastige klus, aangezien het om een kleine markt gaat, zeggen deskundigen tegen NU.nl.",
-          "link": "https://www.nu.nl/economie/6241642/overnameslag-onder-flitsbezorgers-in-volle-gang-winst-maken-blijft-lastig.html",
-          "publishedOn": "2022-12-13T04:31:44.000Z",
-          "wordCount": 1253,
-          "title": "Overnameslag onder flitsbezorgers in volle gang, winst maken blijft lastig",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/kpoxq2mac9yn_sqr256.jpg/overnameslag-onder-flitsbezorgers-in-volle-gang-winst-maken-blijft-lastig.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/kpoxq2mac9yn_sqr256.jpg/overnameslag-onder-flitsbezorgers-in-volle-gang-winst-maken-blijft-lastig.jpg"
         }
       ]
     },
@@ -5144,6 +5129,16 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-january-11-2022-rates-rise-7093888",
+          "author": "Sabrina Karl",
+          "description": "After plunging more than a half point in two days, 30-year mortgage rates have reversed course and raised the average back up by more than an eighth of a point.",
+          "link": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-january-11-2022-rates-rise-7093888?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-11T16:50:24.000Z",
+          "wordCount": 3580,
+          "title": "Today's Mortgage Rates & Trends - January 11, 2022: Rates rise",
+          "imageUrl": "https://www.investopedia.com/thmb/y0U9Ick6eINn3GLprsPtJCIsMPE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/January23MortageRatesNews-11-434df876d31049969c525ee78aecf77d.jpg"
+        },
         {
           "id": "https://www.investopedia.com/biden-student-loan-repayment-7093526",
           "author": "Lisa Iannucci",
@@ -15092,6 +15087,46 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/isrg-stock-dives-as-new-system-rumors-flop-inmd-stock-also-skids/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-01-11T16:41:36.000Z",
+          "wordCount": null,
+          "title": "Intuitive Surgical Dives As New System Rumors Flop; InMode Also Skids",
+          "imageUrl": null
+        },
+        {
+          "id": "oil-edges-higher-as-traders-weigh-u-s-inventory-jump-china-demand-11673441653?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Oil prices continue to move higher on Wednesday, buoyed by expectations for stronger demand from China, despite a hefty weekly rise in U.S. crude inventories.",
+          "link": "https://www.marketwatch.com/story/oil-edges-higher-as-traders-weigh-u-s-inventory-jump-china-demand-11673441653?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-11T16:15:00.000Z",
+          "wordCount": 7662,
+          "title": "Oil prices higher even as the EIA reports one of its biggest weekly crude supply increases on record",
+          "imageUrl": "https://images.mktw.net/im-599447/social"
+        },
+        {
+          "id": "coinbase-strikes-a-massive-blow-to-bankman-fried-and-ftx?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "Cryptocurrency exchange CEO Brian Armstrong delivers a scathing critique of his rival.",
+          "link": "https://www.thestreet.com/investing/cryptocurrency/coinbase-strikes-a-massive-blow-to-bankman-fried-and-ftx?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-01-11T16:09:00.000Z",
+          "wordCount": 3199,
+          "title": "Coinbase Strikes a Massive Blow to Bankman-Fried and FTX",
+          "imageUrl": "https://www.thestreet.com/.image/t_share/MTg2NDY2NDE1NTkzOTI0Mjkx/brian-armstrong.jpg"
+        },
+        {
+          "id": "2-strong-buy-penny-stocks-154832841.html",
+          "author": null,
+          "description": "Let’s take a moment to talk about opportunity, share price, and risk/reward considerations. These are some of the factors investors must consider when moving into penny stocks – and we haven’t even touched on the fundamental soundness of the company or its business model. Penny stocks – as their name suggests, they once traded for just a pennies per share, but these days are considered those equities trading at less than $5 – are a challenging market niche. The penny stock critics make valid poi",
+          "link": "https://finance.yahoo.com/news/2-strong-buy-penny-stocks-154832841.html",
+          "publishedOn": "2023-01-11T15:48:32.000Z",
+          "wordCount": 14782,
+          "title": "2 “Strong Buy” Penny Stocks With Over 400% Upside on the Horizon",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/f36bce37a35e9a6529329c355905dc22"
+        },
+        {
           "id": "bed-bath-beyond-how-stock-buybacks-undermined-the-company-154202427.html",
           "author": null,
           "description": "One of the major — and overlooked--reasons that Bed Bath & Beyond is in desperate trouble is that when it comes to its own stock, it's violated the key retailer's rule of buy cheap and sell dear.",
@@ -15172,6 +15207,16 @@
           "imageUrl": "https://media.zenfs.com/en/smartasset_475/f40d144c7a818d6928566f7e5d5c4f13"
         },
         {
+          "id": "deduct-rent-taxes-150852137.html",
+          "author": null,
+          "description": "If you're wondering whether you can deduct your rent on your taxes, the short answer is yes. You can deduct rent if you live in a state that allows it. However, only 22 states offer this type of deduction. Here's … Continue reading → The post Can You Deduct Rent on Your Taxes? appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/deduct-rent-taxes-150852137.html",
+          "publishedOn": "2023-01-11T14:00:29.000Z",
+          "wordCount": 14440,
+          "title": "Can I Deduct Rent on My Taxes?",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/60e415b00cbed700fe942c12868ca906"
+        },
+        {
           "id": "know-im-rich-140000452.html",
           "author": null,
           "description": "Openly discussing the topic can be uncomfortable. But you've probably wondered who can be considered truly rich and whether you fit that definition (or ever will). According to Schwab's 2022 Modern Wealth Survey, the average American thinks being rich means … Continue reading → The post How Do You Know If You Are Rich? appeared first on SmartAsset Blog.",
@@ -15200,6 +15245,16 @@
           "wordCount": 7196,
           "title": "Stop buying XPeng stock, J.P. Morgan says",
           "imageUrl": "https://images.mktw.net/im-701388/social"
+        },
+        {
+          "id": "apples-vr-headset-might-biggest-133454045.html",
+          "author": null,
+          "description": "The virtual reality (VR) market has been heating up, with dozens of major players and startups rolling out their versions of the original Oculus. The clear winner is currently Meta Platforms Inc. (NASDAQ: META) with a reported 90% market share in the VR industry. This is in line with the company’s massive spending in the sector. Meta has spent over $100 billion on building out its VR and metaverse goals, which has yet to pay off, resulting in a roughly 70% decline in its stock price this year. D",
+          "link": "https://finance.yahoo.com/news/apples-vr-headset-might-biggest-133454045.html",
+          "publishedOn": "2023-01-11T13:34:54.000Z",
+          "wordCount": 14099,
+          "title": "Apple's VR Headset Might Be Its Biggest Flop in Decades — Here's Who the Real Winners Will Be",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/40a3098cd9c0add6808daed83e93179d"
         },
         {
           "id": "oracle-stock-buy-cloud-amazon-51673443585?siteid=yhoof2&yptr=yahoo",
@@ -15760,6 +15815,16 @@
           "wordCount": 14059,
           "title": "Here’s why the IRS would want to audit your taxes",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/mBxwhNuMbU5Fi7P09AHBjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02OTk-/https://s.yimg.com/os/creatr-images/2020-06/5bb9ecc0-a5b0-11ea-a35d-35dd9b3df1e9"
+        },
+        {
+          "id": "mark-cuban-just-told-bill-170000142.html",
+          "author": null,
+          "description": "Is crypto really the new gold?",
+          "link": "https://finance.yahoo.com/news/mark-cuban-just-told-bill-170000142.html",
+          "publishedOn": "2023-01-10T17:00:00.000Z",
+          "wordCount": 13970,
+          "title": "Mark Cuban just told Bill Maher that buying gold is ‘dumb’ — and wants bitcoin to keep plunging so he can buy more. Here are 3 simple ways to gain crypto exposure",
+          "imageUrl": "https://media.zenfs.com/en/moneywise_327/7d51454e183bed368db99d34c59e50c3"
         },
         {
           "id": "apple-stock-chip-broadcom-51673367766?siteid=yhoof2&yptr=yahoo",
