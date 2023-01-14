@@ -5121,21 +5121,6 @@
             "url": "https://media.nu.nl/m/2cbxiyrar3s9_sqr256.jpg/we-hebben-dit-jaar-al-vijf-miljard-keer-gepind.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/2cbxiyrar3s9_sqr256.jpg/we-hebben-dit-jaar-al-vijf-miljard-keer-gepind.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6242334/",
-          "author": "Tom van Gurp",
-          "description": "Voor de vierde keer in korte tijd verhoogt de Europese Centrale Bank (ECB) zijn rente. Het gaat om een verhoging van 0,5 procentpunt, waardoor de rente uitkomt op 2 procent. Dat heeft de Europese bankentoezichthouder donderdag bekendgemaakt.",
-          "link": "https://www.nu.nl/economie/6242334/ecb-schroeft-rente-opnieuw-op-om-inflatie-tot-bedaren-te-brengen.html",
-          "publishedOn": "2022-12-15T13:18:16.000Z",
-          "wordCount": 986,
-          "title": "ECB schroeft rente opnieuw op om inflatie tot bedaren te brengen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/he3xzjdapa11_sqr256.jpg/ecb-schroeft-rente-opnieuw-op-om-inflatie-tot-bedaren-te-brengen.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/he3xzjdapa11_sqr256.jpg/ecb-schroeft-rente-opnieuw-op-om-inflatie-tot-bedaren-te-brengen.jpg"
         }
       ]
     },
@@ -5144,6 +5129,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/investing/081516/how-add-bitcoins-your-retirement-account.asp",
+          "author": "Prableen Bajpai",
+          "description": "Cryptocurrency is considered an alternative investment and under certain conditions can be placed into a retirement account. Learn how it works.",
+          "link": "https://www.investopedia.com/articles/investing/081516/how-add-bitcoins-your-retirement-account.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-14T01:18:18.000Z",
+          "wordCount": 4845,
+          "title": "How to Add Crypto to Your Retirement Account",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/PWdxCr1uF04XXABLLoCiqg-tOyY=/680x438/btc-5bfc3bc146e0fb005149114f.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/PWdxCr1uF04XXABLLoCiqg-tOyY=/680x438/btc-5bfc3bc146e0fb005149114f.jpg"
+        },
         {
           "id": "https://www.investopedia.com/morgan-stanley-q4-2022-earnings-preview-7094972",
           "author": "Lyle Niedens",
@@ -15317,6 +15317,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "debt-ceiling-showdown-threatens-stocks-economy-51673658516?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The stock market ignored news that the U.S. would hit its limit this month. It shouldn’t.",
+          "link": "https://www.barrons.com/articles/debt-ceiling-showdown-threatens-stocks-economy-51673658516?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-14T01:10:00.000Z",
+          "wordCount": 6802,
+          "title": "Too Much Government Debt Could Become a Big Problem for the Stock Market",
+          "imageUrl": "https://images.barrons.com/im-703643/social"
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -15355,6 +15365,16 @@
           "wordCount": 13888,
           "title": "US Banks See Customers Demanding Higher Yields on Deposits",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/DgL7C0cWWaTzrVFMsjtpGA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzI-/https://media.zenfs.com/en/bloomberg_markets_842/ff06013cc0f893850a95fc835814e7a5"
+        },
+        {
+          "id": "analysts-just-upgraded-3-healthcare-205722229.html",
+          "author": null,
+          "description": "A new year often brings new hope for the stock market, and after the terrible performance of real estate investment trusts (REITs) in 2022, it’s refreshing to see analysts coming out with improved forecasts for the same REITs that were downgraded so heavily last year. Healthcare is one area of the overall market often cited as being recession resistant, and with fears of a 2023 recession pervading the market, several analysts are turning their attention to this sector in a positive way. Take a l",
+          "link": "https://finance.yahoo.com/news/analysts-just-upgraded-3-healthcare-205722229.html",
+          "publishedOn": "2023-01-13T20:57:22.000Z",
+          "wordCount": 14263,
+          "title": "Analysts Just Upgraded These 3 Healthcare REITs",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/61acc90dd585771be4cda781319e780f"
         },
         {
           "id": "fedex-motion-new-trial-reduced-damages-harris.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
@@ -15415,6 +15435,16 @@
           "wordCount": 4821,
           "title": "Microsoft to let City Center Plaza lease expire, dealing another blow to Bellevue office market",
           "imageUrl": "https://media.bizj.us/view/img/12426645/555-110th-ave-ne-tower-in-bellevue-01*1200xx4762-2679-0-144.jpg"
+        },
+        {
+          "id": "once-reluctant-scaramucci-alleges-ftxs-182650558.html",
+          "author": null,
+          "description": "Crypto exchange FTX (FTT/USD) bought a 30% stake in SkyBridge Capital in September before the crypto company filed for bankruptcy in November. SkyBridge's founder Anthony Scaramucci said the investment firm can buyback, but the issue will likely take months to resolve. \"We're waiting for the clearance from the bankruptcy people, the lawyers, and the investment bankers to figure out exactly what we're going to be buying back and when,\" Scaramucci told CNBC, adding that the situation likely won't",
+          "link": "https://finance.yahoo.com/news/once-reluctant-scaramucci-alleges-ftxs-182650558.html",
+          "publishedOn": "2023-01-13T18:26:50.000Z",
+          "wordCount": 13542,
+          "title": "Once Reluctant, Scaramucci Alleges FTX's Sam Bankman-Fried 'Committed Fraud'",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/522ec472e55e08289d6fed323450a67a"
         },
         {
           "id": "lisa-marie-presleys-net-worth-180736572.html",
@@ -36635,86 +36665,6 @@
           "wordCount": 3470,
           "title": "Comcast Doubles Down on a Shady Billing Practice (It Will Cost You)",
           "imageUrl": "https://www.thestreet.com/.image/t_share/MTY5OTQ3MDMxNTgwNzE0MzYx/comcast2.jpg"
-        },
-        {
-          "id": "everything-know-investing-bonds-now-175803620.html",
-          "author": null,
-          "description": "Bonds are one of the two most basic investment options, along with stocks. While stocks are fairly well understood - you buy a piece of a company and make money when the company does well and becomes worth more - … Continue reading → The post Everything You Need to Know About Investing in Bonds Right Now appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/everything-know-investing-bonds-now-175803620.html",
-          "publishedOn": "2022-12-15T14:00:17.000Z",
-          "wordCount": 14578,
-          "title": "Should I Invest in Bonds Right Now?",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/87c97d1347f3be92d9fee53fd5c0b6ed"
-        },
-        {
-          "id": "much-interest-does-2-million-175100886.html",
-          "author": null,
-          "description": "For older Americans, living off the interest and returns of your retirement account is how retirement is structured. The goal is that by the time you hit your late 60s you will ideally have enough saved up to coast indefinitely. … Continue reading → The post How Much Interest Does $2 Million Pay Monthly? appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/much-interest-does-2-million-175100886.html",
-          "publishedOn": "2022-12-15T14:00:17.000Z",
-          "wordCount": 15254,
-          "title": "How Much Monthly Interest Will I Get Off $2 Million?",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/84261f1b22f5561859866b41e56c9ccc"
-        },
-        {
-          "id": "retire-2-million-130057330.html",
-          "author": null,
-          "description": "For years, financial experts have suggested a target retirement savings goal of $1 million. But when you consider things like inflation, the rising cost of healthcare and longer life expectancies, that amount of money may not go as far as … Continue reading → The post How to Retire With $2 Million appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/retire-2-million-130057330.html",
-          "publishedOn": "2022-12-15T14:00:08.000Z",
-          "wordCount": 15072,
-          "title": "Can I Retire With $2 Million?",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/88a1ab95fd325962c3c99207fae0e175"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-ahead-of-jobless-claims-retail-sales-tesla-drops-on-elon-musk-stock-sales/?src=A00220&yptr=yahoo",
-          "publishedOn": "2022-12-15T13:47:20.000Z",
-          "wordCount": null,
-          "title": "Dow Jones Futures Fall After Jobless Claims, Retail Sales; Tesla Set To Hit New Low On Elon Musk Stock Sales",
-          "imageUrl": null
-        },
-        {
-          "id": "netflix-stock-tumbles-amid-doubts-over-ad-service-viewer-targets?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "Netflix may have a problem with its newly-launched ad-supported streaming tier.",
-          "link": "https://www.thestreet.com/markets/netflix-stock-tumbles-amid-doubts-over-ad-service-viewer-targets?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2022-12-15T13:33:00.000Z",
-          "wordCount": 3067,
-          "title": "Netflix Stock Tumbles Amid Doubts Over Ad-Service Viewer Targets",
-          "imageUrl": "https://www.thestreet.com/.image/t_share/MTg4OTIyMTc0NTQ1ODYzNzMy/netflix-flop.jpg"
-        },
-        {
-          "id": "third-harmonics-stock-falls-75-after-discontinuing-clinical-trial-2022-12-15?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Shares of Third Harmonic Bio Inc. undefined tumbled 75% in premarket trading on Thursday after the company said it discontinued the Phase 1b study of its...",
-          "link": "https://www.marketwatch.com/story/third-harmonics-stock-falls-75-after-discontinuing-clinical-trial-2022-12-15?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-15T13:22:56.000Z",
-          "wordCount": 5962,
-          "title": "Third Harmonic's stock falls 75% after discontinuing clinical trial",
-          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
-        },
-        {
-          "id": "the-fed-raised-interest-rates-yesterday-heres-where-you-can-earn-3-4-or-more-on-your-savings-account-01671110355?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The latest rates on savings accounts, CDs and money market accounts",
-          "link": "https://www.marketwatch.com/picks/the-fed-raised-interest-rates-yesterday-heres-where-you-can-earn-3-4-or-more-on-your-savings-account-01671110355?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-15T13:19:00.000Z",
-          "wordCount": 7364,
-          "title": "The Fed raised interest rates yesterday. Here’s where you can earn 3-4% or more on your savings account",
-          "imageUrl": "https://images.mktw.net/im-677145/social"
-        },
-        {
-          "id": "nucor-to-miss-fourth-quarter-earnings-target-on-weakness-in-its-steel-mills-and-raw-materials-units-2022-12-15?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Nucor Corp. undefined said Thursday it expects fourth-quarter earnings to be in the range of $4.25 a share to $4.35 a share, below the latest analyst...",
-          "link": "https://www.marketwatch.com/story/nucor-to-miss-fourth-quarter-earnings-target-on-weakness-in-its-steel-mills-and-raw-materials-units-2022-12-15?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-15T13:18:56.000Z",
-          "wordCount": 6009,
-          "title": "Nucor to miss fourth-quarter earnings target on weakness in its steel mills and raw materials units",
-          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
         }
       ]
     }
