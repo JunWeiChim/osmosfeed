@@ -5051,21 +5051,6 @@
             "url": "https://media.nu.nl/m/6hyxsisal637_sqr256.jpg/wereldwijd-nog-nooit-zo-veel-steenkool-verbruikt-als-in-dit-jaar.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/6hyxsisal637_sqr256.jpg/wereldwijd-nog-nooit-zo-veel-steenkool-verbruikt-als-in-dit-jaar.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6242478/",
-          "author": "onze economieredactie",
-          "description": "Energieconcerns Eneco en Shell bouwen de komende jaren een windpark op de Noordzee, zo'n 50 kilometer buiten de kust van IJmuiden. Beide bedrijven hebben de tender gewonnen voor het park Hollandse Kust (west), dat over vier jaar moet gaan draaien.",
-          "link": "https://www.nu.nl/economie/6242478/shell-en-eneco-bouwen-nieuw-windpark-op-noordzee.html",
-          "publishedOn": "2022-12-16T06:59:15.000Z",
-          "wordCount": 904,
-          "title": "Shell en Eneco bouwen nieuw windpark op Noordzee",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/8zrxe2cat9m6_sqr256.jpg/shell-en-eneco-bouwen-nieuw-windpark-op-noordzee.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/8zrxe2cat9m6_sqr256.jpg/shell-en-eneco-bouwen-nieuw-windpark-op-noordzee.jpg"
         }
       ]
     },
@@ -5074,6 +5059,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/p/predictive-modeling.asp",
+          "author": "Jake Frankenfield",
+          "description": "Predictive modeling uses known results to create, process, and validate a model that can be used to forecast future outcomes.",
+          "link": "https://www.investopedia.com/terms/p/predictive-modeling.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-14T18:06:02.000Z",
+          "wordCount": 4411,
+          "title": "Predictive Modeling Definition",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/AygtTPnz8QmJAbhLK4Kbhgd8Mig=/680x440/thinkstockphotos_493208894-5bfc2b9746e0fb0051bde2b8.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/AygtTPnz8QmJAbhLK4Kbhgd8Mig=/680x440/thinkstockphotos_493208894-5bfc2b9746e0fb0051bde2b8.jpg"
+        },
         {
           "id": "https://www.investopedia.com/etoro-vs-webull-6822411",
           "author": "Staff Author",
@@ -14878,21 +14878,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/Pu7gYry_rDIE3GMigr67auv3Q1I=/680x440/investing4-5bfc2b8ec9e77c0026b4f956.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/s/strategicalliance.asp",
-          "author": "Will Kenton",
-          "description": "A strategic alliance is an arrangement between two companies to undertake a mutually beneficial project. Each of the parties remains an independent entity.",
-          "link": "https://www.investopedia.com/terms/s/strategicalliance.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-16T07:02:45.000Z",
-          "wordCount": 6129,
-          "title": "Strategic Alliances: How They Work in Business, With Examples",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/tKpuc5xgpPIJecXA8FrOuDmDreg=/680x440/investing7-5bfc2b8d46e0fb0051bddff8.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/tKpuc5xgpPIJecXA8FrOuDmDreg=/680x440/investing7-5bfc2b8d46e0fb0051bddff8.jpg"
         }
       ]
     },
@@ -14902,6 +14887,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "elon-musk-reveals-teslas-savior?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "Tesla has become the world leader in electric vehicles. But 14 years ago, the automaker was desperate.",
+          "link": "https://www.thestreet.com/electric-vehicles/elon-musk-reveals-teslas-savior?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-01-14T17:15:00.000Z",
+          "wordCount": 3859,
+          "title": "Elon Musk Reveals Tesla's Savior",
+          "imageUrl": "https://www.thestreet.com/.image/t_share/MTg4MTMwMzE3NTk5NTE2NDU4/tesla-model-3.jpg"
+        },
+        {
           "id": "bitcoin-spikes-above-21-000-is-the-crypto-bear-market-over-11673711967?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Bitcoin, the largest cryptocurrency by market capitalization, has spiked above the the $21,000 mark on Saturday.",
@@ -14910,6 +14905,16 @@
           "wordCount": 7161,
           "title": "Bitcoin spikes above $21,000: is the crypto bear market over ?",
           "imageUrl": "https://images.mktw.net/im-701580/social"
+        },
+        {
+          "id": "tech-slump-camouflages-rally-sweeping-160000740.html",
+          "author": null,
+          "description": "(Bloomberg) -- The S&P 500 is technically still mired in a bear market, but a closer look below the surface shows that most of its stocks are in the midst of a big rally.Most Read from BloombergPfizer Bivalent Vaccine Linked to Strokes in Preliminary Data‘I Feel Like I Got Duped’: Tesla Price Drop Angers Current OwnersTrump’s Attack on NY Sexual Assault Law Called ‘Absurd’ By JudgeThe Document That Separates Biden and TrumpTwitter Workers Forced to Drop Group Lawsuit Over SeveranceWhile the benc",
+          "link": "https://finance.yahoo.com/news/tech-slump-camouflages-rally-sweeping-160000740.html",
+          "publishedOn": "2023-01-14T16:00:00.000Z",
+          "wordCount": 14172,
+          "title": "Tech’s Slump Camouflages a Rally Sweeping Across Most of S&P 500",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/94b2f91df2b66b44aec782b107d22b73"
         },
         {
           "id": "much-retired-person-earn-without-205612737.html",
@@ -36200,16 +36205,6 @@
           "wordCount": 10775,
           "title": "The Crypto Ice Age Is Here. It Could Get Even Worse.",
           "imageUrl": "https://images.barrons.com/im-684946/social"
-        },
-        {
-          "id": "elon-musk-tesla-third-richest-person-51671136265?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Elon Musk's wealth has taken a beating lately. Investors are undoubted aware. They probably feel more pain than Musk when Tesla stock falls.",
-          "link": "https://www.barrons.com/articles/elon-musk-tesla-third-richest-person-51671136265?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-16T06:30:00.000Z",
-          "wordCount": 6524,
-          "title": "The Surprise Winner if Elon Musk Falls Further Down the Rich List",
-          "imageUrl": "https://images.barrons.com/im-686224/social"
         }
       ]
     }
