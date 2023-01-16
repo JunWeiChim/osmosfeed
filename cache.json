@@ -378,6 +378,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6247151/",
+          "author": "onze economieredactie",
+          "description": "Rusland heeft de inkomsten uit olie en gas vorig jaar met bijna 30 procent zien stijgen tot 2,5 biljoen roebel (33,9 miljard euro).",
+          "link": "https://www.nu.nl/economie/6247151/rusland-ziet-inkomsten-uit-olie-en-gas-stijgen.html",
+          "publishedOn": "2023-01-16T09:59:20.000Z",
+          "wordCount": 840,
+          "title": "Rusland ziet inkomsten uit olie en gas stijgen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/3z9xva3aomnk_sqr256.jpg/rusland-ziet-inkomsten-uit-olie-en-gas-stijgen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/3z9xva3aomnk_sqr256.jpg/rusland-ziet-inkomsten-uit-olie-en-gas-stijgen.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6247143/",
           "author": "Tom van Gurp",
           "description": "De prijs voor 1 megawattuur gas dook maandagochtend voor korte tijd onder de 60 euro. Voor het eerst sinds december 2021 was de gasprijs zo laag.",
@@ -14728,21 +14743,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/6HFaTlkA18JSeT7kBxaSGy8gD98=/380x253/78480983-5bfc2b9cc9e77c0026b4fbfc.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/personal-finance/080514/what-your-life-insurance-agent-makes-you.asp",
-          "author": "Daniel Kurt",
-          "description": "Life insurance agents receive a commission, which gives them an incentive to sell bigger policies and specialized financial products. Here's how to factor that in before you buy.",
-          "link": "https://www.investopedia.com/articles/personal-finance/080514/what-your-life-insurance-agent-makes-you.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-17T21:40:02.000Z",
-          "wordCount": 4759,
-          "title": "What Your Life Insurance Agent Makes on You",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/N5Bw2lQMgUYHNl4xAQokHGRF1TU=/680x440/agent_121198814-5bfc386846e0fb00265f75a0.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/N5Bw2lQMgUYHNl4xAQokHGRF1TU=/680x440/agent_121198814-5bfc386846e0fb00265f75a0.jpg"
         }
       ]
     },
@@ -14751,6 +14751,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "foreigners-return-china-bluechips-stocks-063811545.html",
+          "author": null,
+          "description": "(Bloomberg) -- Global investors are snapping up Chinese blue chips from large consumer staples to financial firms again as the nation’s stocks rally on optimism about a reopening from Covid curbs. Most Read from BloombergPfizer Bivalent Vaccine Linked to Strokes in Preliminary DataThe Apartment Market Is About to Get UglyAt Least 68 Dead as Nepal Plane Crashes Seconds Before LandingThis Isn’t Your Mom and Dad’s Recession, Says BofA’s SubramanianHuge Sanctions Are Looming for the Fuel That Powers",
+          "link": "https://finance.yahoo.com/news/foreigners-return-china-bluechips-stocks-063811545.html",
+          "publishedOn": "2023-01-16T08:28:11.000Z",
+          "wordCount": 14119,
+          "title": "Foreigners Return to China Bluechips as Stocks Near Bull Market",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/9EMMPiESnEs5Z63mcGNUrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/bloomberg_markets_842/f2f6e1ed73d6c0c4b3badfd6a9d9e8db"
+        },
         {
           "id": "bitcoin-surge-causes-over-500m-074632640.html",
           "author": null,
@@ -14800,6 +14810,16 @@
           "wordCount": 14265,
           "title": "Taiwan Is Still Semiconductor Leader as Chip Exports Rise Again",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/2psxQjoQ14Yr_8jxVQZ7NQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDQ-/https://media.zenfs.com/en/bloomberg_technology_68/8a44073d99343a056bb07679161491f3"
+        },
+        {
+          "id": "former-ftx-us-president-accuses-204056656.html",
+          "author": null,
+          "description": "Following his sudden departure from FTX US in September, Brett Harrison describes prolonged tension with Sam Bankman-Fried.",
+          "link": "https://finance.yahoo.com/news/former-ftx-us-president-accuses-204056656.html",
+          "publishedOn": "2023-01-15T20:40:56.000Z",
+          "wordCount": 14370,
+          "title": "Former FTX US President Accuses SBF of ‘Gaslighting and Manipulation’",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/fciZYDhEymAS5sdh_mqYTQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_media_980/cacbceb8c7d8ad07dec5c643db225fae"
         },
         {
           "id": "netflix-goldman-sachs-united-airlines-morgan-stanley-and-more-stocks-for-investors-to-watch-this-week-51673812865?siteid=yhoof2&yptr=yahoo",
@@ -35750,16 +35770,6 @@
           "wordCount": 14246,
           "title": "Stock Strategists Predict Asia Market Rally After Terrible 2022",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/c50f7d05b4fc5f6bf969dc72f6065e99"
-        },
-        {
-          "id": "dutch-bitcoin-exchange-bitvavo-alleges-220933875.html",
-          "author": null,
-          "description": "DCG subsidiary Genesis still has a withdrawal freeze on its lending arm, and Grayscale’s Bitcoin fund is trading at record discounts.",
-          "link": "https://finance.yahoo.com/news/dutch-bitcoin-exchange-bitvavo-alleges-220933875.html",
-          "publishedOn": "2022-12-17T22:09:33.000Z",
-          "wordCount": 13841,
-          "title": "Dutch Bitcoin Exchange Bitvavo Alleges Digital Currency Group Is Having ‘Liquidity Problems’",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/RkmvErK0d5UU9wDsY4uc_g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_media_980/c289fba1c1678afa61e024ed3cba10bf"
         }
       ]
     }
