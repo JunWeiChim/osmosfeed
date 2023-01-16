@@ -378,6 +378,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6245022/",
+          "author": "Marloe van der Schrier",
+          "description": "Goed nieuws deze week: de gasprijs is nog een stuk verder gedaald. Maar wat betekent dat voor onze tarieven en wanneer zien we dat terug op onze energierekening? Vier vragen en antwoorden.",
+          "link": "https://www.nu.nl/geldzaken/6245022/gasprijs-is-een-stuk-lager-wanneer-zie-je-dat-terug-op-je-energierekening.html",
+          "publishedOn": "2023-01-16T13:47:09.000Z",
+          "wordCount": 1838,
+          "title": "Gasprijs is een stuk lager: wanneer zie je dat terug op je energierekening?",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/ngjx3d3a8xwj_sqr256.jpg/gasprijs-is-een-stuk-lager-wanneer-zie-je-dat-terug-op-je-energierekening.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/ngjx3d3a8xwj_sqr256.jpg/gasprijs-is-een-stuk-lager-wanneer-zie-je-dat-terug-op-je-energierekening.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6247179/",
           "author": "Tom van Gurp",
           "description": "De koers van de bitcoin is in zeven dagen tijd met meer dan 20 procent gestegen. Voor een exemplaar van de grootste digitale munt moest je maandagochtend 20.847 dollar (19.244 euro) betalen. Een week eerder was de munt nog ongeveer 17.000 dollar waard.",
@@ -14713,36 +14728,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/vPZ-T0MDllxnfwZvzRnHwA5sKVw=/380x254/aa014176-5bfc2b8bc9e77c002630643b.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/b/bengraham.asp",
-          "author": "Julia Kagan",
-          "description": "Benjamin Graham was an influential investor who is regarded as the father of value investing.",
-          "link": "https://www.investopedia.com/terms/b/bengraham.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-18T02:02:29.000Z",
-          "wordCount": 5567,
-          "title": "Who Was Benjamin Graham? The Father of Value Investing",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/n0qfScaEs1g6yycarnpU9Q9LSaE=/680x440/investing6-5bfc2b8ec9e77c005143f13b.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/n0qfScaEs1g6yycarnpU9Q9LSaE=/680x440/investing6-5bfc2b8ec9e77c005143f13b.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/07/401(k)_ira.asp",
-          "author": "Andrew Bloomenthal",
-          "description": "Having both a 401(k) and an IRA can diversify your retirement portfolio and provide greater investment flexibility, if you follow the rules.",
-          "link": "https://www.investopedia.com/ask/answers/07/401(k)_ira.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-18T01:36:57.000Z",
-          "wordCount": 5258,
-          "title": "401(k) and IRA Contributions: You Can Do Both",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/uCzShsQ9WB-UbaFmR51S9yl-EZs=/1500x998/GettyImages-580502931-fe55d88033904806bc9533ac85619abc.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/uCzShsQ9WB-UbaFmR51S9yl-EZs=/1500x998/GettyImages-580502931-fe55d88033904806bc9533ac85619abc.jpg"
         }
       ]
     },
@@ -14751,6 +14736,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "new-retirement-withdrawal-rule-could-backfire-in-costly-way-134251542.html",
+          "author": null,
+          "description": "The age that retirees must start taking required minimum distributions, or RMDs, from IRAs, 401(k)s, and 403(b) plans, is 73 this year.",
+          "link": "https://finance.yahoo.com/news/new-retirement-withdrawal-rule-could-backfire-in-costly-way-134251542.html",
+          "publishedOn": "2023-01-16T13:42:51.000Z",
+          "wordCount": 14368,
+          "title": "New retirement withdrawal rule could backfire in costly way",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/xXz16RDz5eZYQ_5QkEUhcA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2020-03/7a494700-6d2d-11ea-bfbd-b712a2130759"
+        },
+        {
+          "id": "alibaba-jd-com-tencent-china-regulation-tech-stock-51673872391?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "There is sweeping optimism that Beijing's crackdown on the technology sector that has also hit Tencent and JD.com, is thawing as companies address issues such as market dominance and data sharing.",
+          "link": "https://www.barrons.com/articles/alibaba-jd-com-tencent-china-regulation-tech-stock-51673872391?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-16T12:54:00.000Z",
+          "wordCount": 6778,
+          "title": "Alibaba and Other Chinese Stocks Are Soaring as Tech Clampdown Eases",
+          "imageUrl": "https://images.barrons.com/im-449549/social"
+        },
         {
           "id": "aint-seen-nothing-yet-president-171500112.html",
           "author": null,
@@ -14782,6 +14787,16 @@
           "imageUrl": "https://images.barrons.com/im-377175/social"
         },
         {
+          "id": "more-16-000-bmw-evs-110003240.html",
+          "author": null,
+          "description": "Chevrolet is offering to buy back certain 2022-23 Malibu vehicles that have a defect that hampers their safety features.",
+          "link": "https://finance.yahoo.com/news/more-16-000-bmw-evs-110003240.html",
+          "publishedOn": "2023-01-16T11:00:03.000Z",
+          "wordCount": 13912,
+          "title": "More than 16,000 BMW EVs, Chevy Malibu sedans and more under recall this week",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/V2k6M9p8eswFSk8ybiY7Ew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/usa_today_money_325/9dafae13432adda919c298c272fc6816"
+        },
+        {
           "id": "markets-bitcoin-ether-rises-solana-084506951.html",
           "author": null,
           "description": "Bitcoin and Ether gained in Monday afternoon trading in Asia, along with all other top 10 non-stablecoin cryptocurrencies.",
@@ -14790,6 +14805,16 @@
           "wordCount": 13629,
           "title": "Markets: Bitcoin, Ether rises; Solana is biggest gainer among top 10",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Aw058_Kct3O1WgQ7pPqgQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/forkast_news_articles_672/2a5032c8e57e0bc66a0f3c6c289e9528"
+        },
+        {
+          "id": "india-now-buying-33-times-083545336.html",
+          "author": null,
+          "description": "(Bloomberg) -- India bought a record amount of Russian oil last month, with the country importing a whopping 33 times more than a year earlier. Most Read from BloombergPfizer Bivalent Vaccine Linked to Strokes in Preliminary DataThe Apartment Market Is About to Get UglyAt Least 68 Dead as Nepal Plane Crashes Seconds Before LandingHuge Sanctions Are Looming for the Fuel That Powers the WorldThis Isn’t Your Mom and Dad’s Recession, Says BofA’s SubramanianThe world’s third-biggest crude importer pu",
+          "link": "https://finance.yahoo.com/news/india-now-buying-33-times-083545336.html",
+          "publishedOn": "2023-01-16T08:35:45.000Z",
+          "wordCount": 14083,
+          "title": "India Now Buying 33 Times More Russian Oil Than a Year Earlier",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/74d85662e67a6c29f672eaeaf189ee12"
         },
         {
           "id": "foreigners-return-china-bluechips-stocks-063811545.html",
@@ -35850,16 +35875,6 @@
           "wordCount": 5107,
           "title": "Alphabet’s GOOG vs. GOOGL: What’s the Difference?",
           "imageUrl": "https://www.investopedia.com/thmb/8tu8WPQNw9H4-xHk6i0fY1dwtYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-615253358-9af1d3b4735c4609a2d82981892a8bc0.jpg"
-        },
-        {
-          "id": "401(k)_ira.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Having both a 401(k) and an IRA can diversify your retirement portfolio and provide greater investment flexibility, if you follow the rules.",
-          "link": "https://www.investopedia.com/ask/answers/07/401(k)_ira.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2022-12-18T01:36:49.000Z",
-          "wordCount": 5258,
-          "title": "401(k) and IRA Contributions: You Can Do Both",
-          "imageUrl": "https://www.investopedia.com/thmb/GovhGl5qlN72A-M_vA1vynQIy4c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-580502931-fe55d88033904806bc9533ac85619abc.jpg"
         }
       ]
     }
