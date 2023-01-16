@@ -378,6 +378,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6247223/",
+          "author": "Douwe van Veen",
+          "description": "Van premier Mark Rutte en de Duitse bondskanselier Olaf Schulz tot megasterren als acteur Idris Elba. Veel grote namen zijn deze week in het Zwitserse Davos voor het jaarlijkse World Economic Forum (WEF). Maar de organisatie lijkt zelf weinig macht te hebben, dus waarom eigenlijk? NU.nl legt het uit.",
+          "link": "https://www.nu.nl/economie/6247223/wereldwijde-elite-vliegt-deze-week-naar-davos-maar-waarom-eigenlijk.html",
+          "publishedOn": "2023-01-16T16:43:08.000Z",
+          "wordCount": 1260,
+          "title": "Wereldwijde elite vliegt deze week naar Davos, maar waarom eigenlijk?",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/g80xrwya8zox_sqr256.jpg/wereldwijde-elite-vliegt-deze-week-naar-davos-maar-waarom-eigenlijk.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/g80xrwya8zox_sqr256.jpg/wereldwijde-elite-vliegt-deze-week-naar-davos-maar-waarom-eigenlijk.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6247222/",
           "author": "Tom van Gurp",
           "description": "Wie een lening wil afsluiten om bijvoorbeeld een auto te kopen, moet daar steeds meer rente over betalen. Zo steeg de laagste rente voor een lening van 50.000 euro van 4,8 procent begin december naar 5,4 procent nu, meldt vergelijkingssite Geld.nl maandag.",
@@ -5101,21 +5116,6 @@
             "url": "https://media.nu.nl/m/69dxolja7wa8_sqr256.jpg/biefstuk-koop-ik-nu-niet-meer-zo-snel.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/69dxolja7wa8_sqr256.jpg/biefstuk-koop-ik-nu-niet-meer-zo-snel.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6242108/",
-          "author": "Tom van Gurp en Marloe van der Schrier",
-          "description": "De inflatie is hoog en zal dat volgend jaar ook nog wel even blijven. Niet onverstandig om goed op je centen te letten. Deze dingen kun je dit jaar nog doen om volgend jaar geld te besparen.",
-          "link": "https://www.nu.nl/geldzaken/6242108/deze-zeven-dingen-kun-je-dit-jaar-nog-doen-om-in-2023-geld-te-besparen.html",
-          "publishedOn": "2022-12-18T04:26:22.000Z",
-          "wordCount": 2151,
-          "title": "Deze zeven dingen kun je dit jaar nog doen om in 2023 geld te besparen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/5omxvdwa3ft6_sqr256.jpg/deze-zeven-dingen-kun-je-dit-jaar-nog-doen-om-in-2023-geld-te-besparen.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/5omxvdwa3ft6_sqr256.jpg/deze-zeven-dingen-kun-je-dit-jaar-nog-doen-om-in-2023-geld-te-besparen.jpg"
         }
       ]
     },
@@ -5124,6 +5124,31 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/cryptocurrencies-to-watch-week-of-january-16-7095519",
+          "author": "Rahul Nambiampurath",
+          "description": "This week’s cryptocurrencies to watch are Aptos (APT), STEPN (GMT), Gala (GALA), Curve DAO (CRV), Flow (FLOW), and Shiba Inu (SHIB).",
+          "link": "https://www.investopedia.com/cryptocurrencies-to-watch-week-of-january-16-7095519?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-16T16:55:57.000Z",
+          "wordCount": 3963,
+          "title": "Cryptocurrencies To Watch: Week of January 16",
+          "imageUrl": "https://www.investopedia.com/thmb/KlakF0E237eI10h9KfKS2rfboXo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/CryptoInvesting_GettyImages-1250405669-c29a42e2fe774133ad64e6f3cc17d74a.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/roth-ira-required-minimum-distribution-rmd-4770561",
+          "author": "Jean Folger",
+          "description": "You don’t have to take required minimum distributions from your Roth IRA during your lifetime, but your heirs eventually may have to.",
+          "link": "https://www.investopedia.com/roth-ira-required-minimum-distribution-rmd-4770561?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-16T16:28:31.000Z",
+          "wordCount": 6001,
+          "title": "Roth IRA Required Minimum Distributions (RMDs)",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/zt948iTKrISbZZas4jPNy0d_6xU=/680x440/RetiredWorkingatComputerAP274547327090-7f845d260c3040fab69c2f43a47b7ffa.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/zt948iTKrISbZZas4jPNy0d_6xU=/680x440/RetiredWorkingatComputerAP274547327090-7f845d260c3040fab69c2f43a47b7ffa.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/retirement/05/011005.asp",
           "author": "Denise Appleby",
@@ -14728,51 +14753,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/PsBLRE_Q6DkK2NZPcyoKNkADRM0=/380x254/200393273-001-5bfc2b8bc9e77c0026b4f8ce.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/052615/whats-difference-between-googles-goog-and-googl-stock-tickers.asp",
-          "author": "The Investopedia Team",
-          "description": "Learn the difference between the GOOG and GOOGL stock ticker symbols for Alphabet (the company formerly known as Google).",
-          "link": "https://www.investopedia.com/ask/answers/052615/whats-difference-between-googles-goog-and-googl-stock-tickers.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-18T04:39:16.000Z",
-          "wordCount": 5114,
-          "title": "Alphabet’s GOOG vs. GOOGL: What’s the Difference?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/xQPS5B4-HsJ2ke3f7CLq3lITHPU=/2119x1415/GettyImages-615253358-9af1d3b4735c4609a2d82981892a8bc0.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/xQPS5B4-HsJ2ke3f7CLq3lITHPU=/2119x1415/GettyImages-615253358-9af1d3b4735c4609a2d82981892a8bc0.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/t/termsheet.asp",
-          "author": "Akhilesh Ganti",
-          "description": "A term sheet is a non-binding agreement that sets out the basic terms and conditions of an investment.",
-          "link": "https://www.investopedia.com/terms/t/termsheet.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-18T04:35:13.000Z",
-          "wordCount": 5942,
-          "title": "Term Sheets: Definition, What's Included, Examples, and Key Terms",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/1Wkv-VI8K_SmYg-oiafArkEGgDw=/680x440/153221908-5bfc2b8c4cedfd0026c118f2.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/1Wkv-VI8K_SmYg-oiafArkEGgDw=/680x440/153221908-5bfc2b8c4cedfd0026c118f2.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/financial-theory/11/corporate-project-valuation-methods.asp",
-          "author": "Arthur Pinkasovitch",
-          "description": "We look at three widely used methods in capital budgeting to figure out how companies decide on which project to embark on or asset to purchase.",
-          "link": "https://www.investopedia.com/articles/financial-theory/11/corporate-project-valuation-methods.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-18T04:22:47.000Z",
-          "wordCount": 6700,
-          "title": "An Introduction to Capital Budgeting",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/vPZ-T0MDllxnfwZvzRnHwA5sKVw=/380x254/aa014176-5bfc2b8bc9e77c002630643b.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/vPZ-T0MDllxnfwZvzRnHwA5sKVw=/380x254/aa014176-5bfc2b8bc9e77c002630643b.jpg"
         }
       ]
     },
@@ -14781,6 +14761,66 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "debt-ceiling-stock-market-economy-51673658516?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The stock market ignored news that the U.S. would hit its limit this month. It shouldn’t.",
+          "link": "https://www.barrons.com/articles/debt-ceiling-stock-market-economy-51673658516?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-16T17:02:00.000Z",
+          "wordCount": 6797,
+          "title": "Government Debt Could Be a Big Problem For the Stock Market",
+          "imageUrl": "https://images.barrons.com/im-703643/social"
+        },
+        {
+          "id": "alibaba-jd-com-tencent-china-hong-kong-stock-price-51673872391?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "There is sweeping optimism that Beijing's crackdown on the technology sector that has also hit Tencent and JD.com, is thawing as companies address issues such as market dominance and data sharing.",
+          "link": "https://www.barrons.com/articles/alibaba-jd-com-tencent-china-hong-kong-stock-price-51673872391?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-16T16:48:00.000Z",
+          "wordCount": 6803,
+          "title": "Alibaba and Other Chinese Stocks Are Soaring as Tech Clampdown Eases",
+          "imageUrl": "https://images.barrons.com/im-449549/social"
+        },
+        {
+          "id": "canadian-home-prices-post-record-143929244.html",
+          "author": null,
+          "description": "(Bloomberg) -- Canadian home prices fell by the most on record in 2022, as rapidly rising interest rates forced a market adjustment that may have further to go. Most Read from BloombergPfizer Bivalent Vaccine Linked to Strokes in Preliminary DataThe Apartment Market Is About to Get UglyEuropean Stocks Rise as US Futures Signal Caution: Markets WrapAt Least 68 Dead as Nepal Plane Crashes Seconds Before LandingCar Lease Ending Soon? Might Be Time to BuyThe country’s benchmark home price fell 1.6%",
+          "link": "https://finance.yahoo.com/news/canadian-home-prices-post-record-143929244.html",
+          "publishedOn": "2023-01-16T16:33:25.000Z",
+          "wordCount": 14424,
+          "title": "Canada Home Prices See Record Drop as High Rates Hit Buyers",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/FmP1GpAUYczRxejADgdYGQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/ec5d6b7136aaeec8427d3e1d41f1b16b"
+        },
+        {
+          "id": "tesla-stock-price-vehicle-cost-cuts-earnings-51673643311?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Tesla is cutting prices so Wall Street is worried that  profit margins will be decimated in 2023. Things might turn out better than feared, though.",
+          "link": "https://www.barrons.com/articles/tesla-stock-price-vehicle-cost-cuts-earnings-51673643311?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-16T16:32:00.000Z",
+          "wordCount": 6754,
+          "title": "Tesla’s Profits Are at Risk From Price Cuts. It Could Get Ugly.",
+          "imageUrl": "https://images.barrons.com/im-703219/social"
+        },
+        {
+          "id": "big-tech-stocks-amazon-alphabet-rebound-51673628172?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Analysts think that Wall Street is too pessimistic on beaten-up names such as Amazon, and that expanding breadth in a global rally will lift big tech stocks.",
+          "link": "https://www.barrons.com/articles/big-tech-stocks-amazon-alphabet-rebound-51673628172?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-16T16:29:00.000Z",
+          "wordCount": 6729,
+          "title": "Big Tech Stocks Could Rebound Big Time. Here’s How.",
+          "imageUrl": "https://images.barrons.com/im-703233/social"
+        },
+        {
+          "id": "cathie-wood-watch-ark-keeps-building-its-tesla-position?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "Wood's flagship Ark Innovation ETF has shed 55% during the past year and 77% from its February 2021 peak.",
+          "link": "https://www.thestreet.com/investing/stocks/cathie-wood-watch-ark-keeps-building-its-tesla-position?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-01-16T15:32:00.000Z",
+          "wordCount": 3633,
+          "title": "Cathie Wood Watch: Ark Keeps Building Its Tesla Position",
+          "imageUrl": "https://www.thestreet.com/.image/t_share/MTg3ODEyNjAxMTUyMDg3MDkx/cathie-wood_2.jpg"
+        },
         {
           "id": "cold-cash-strapped-4-hot-150000473.html",
           "author": null,
@@ -35950,16 +35990,6 @@
           "wordCount": 13988,
           "title": "2 dividend hikes to watch for this week",
           "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
-        },
-        {
-          "id": "whats-difference-between-googles-goog-and-googl-stock-tickers.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Learn the difference between the GOOG and GOOGL stock ticker symbols for Alphabet (the company formerly known as Google).",
-          "link": "https://www.investopedia.com/ask/answers/052615/whats-difference-between-googles-goog-and-googl-stock-tickers.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2022-12-18T04:39:16.000Z",
-          "wordCount": 5107,
-          "title": "Alphabet’s GOOG vs. GOOGL: What’s the Difference?",
-          "imageUrl": "https://www.investopedia.com/thmb/8tu8WPQNw9H4-xHk6i0fY1dwtYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-615253358-9af1d3b4735c4609a2d82981892a8bc0.jpg"
         }
       ]
     }
