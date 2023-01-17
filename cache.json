@@ -388,6 +388,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6247359/",
+          "author": "onze techredactie",
+          "description": "Apple heeft nieuwe uitvoeringen van zijn 14 en 16 inch MacBook Pro aangekondigd. Het uiterlijk van de laptops is niet veranderd. De grootste vernieuwing is de eveneens nieuwe Apple M2 Pro en M2 Max-processor.",
+          "link": "https://www.nu.nl/tech/6247359/apple-vernieuwt-macbook-pro-laptops-en-voorziet-ze-van-nieuwe-m2-chips.html",
+          "publishedOn": "2023-01-17T16:16:48.000Z",
+          "wordCount": 867,
+          "title": "Apple vernieuwt MacBook Pro-laptops en voorziet ze van nieuwe M2-chips",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/jbqxtsxa6npt_sqr256.jpg/apple-vernieuwt-macbook-pro-laptops-en-voorziet-ze-van-nieuwe-m2-chips.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/jbqxtsxa6npt_sqr256.jpg/apple-vernieuwt-macbook-pro-laptops-en-voorziet-ze-van-nieuwe-m2-chips.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6247336/",
           "author": "Ertan Basekin",
           "description": "Enkele tienduizenden klanten van energieleverancier Oxxio krijgen eind deze maand te horen hoe ze worden gecompenseerd voor een fout bij de verhoging van energietarieven.",
@@ -5201,21 +5216,6 @@
             "url": "https://media.nu.nl/m/befx0zsal24e_sqr256.jpg/steeds-meer-mensen-bouwen-geen-pensioen-op-maar-er-is-nog-geen-oplossing.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/befx0zsal24e_sqr256.jpg/steeds-meer-mensen-bouwen-geen-pensioen-op-maar-er-is-nog-geen-oplossing.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6242619/",
-          "author": "Thijs Rösken",
-          "description": "Een kwart van de werkenden bouwt amper pensioen op. Nu steeds meer werkenden in het onderwijs en de zorg als zzp'er aan de slag gaan, wordt dat probleem alleen maar groter. Bij de nieuwe pensioenwet zitten voorstellen om hier wat aan te doen, maar die bieden nauwelijks soelaas. Dat zeggen experts tegen NU.nl.",
-          "link": "https://www.nu.nl/economie/6242619/steeds-meer-mensen-bouwen-geen-pensioen-op-maar-een-oplossing-is-er-nog-niet.html",
-          "publishedOn": "2022-12-19T04:02:05.000Z",
-          "wordCount": 2003,
-          "title": "Steeds meer mensen bouwen geen pensioen op, maar een oplossing is er nog niet",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/befx0zsal24e_sqr256.jpg/steeds-meer-mensen-bouwen-geen-pensioen-op-maar-een-oplossing-is-er-nog-niet.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/befx0zsal24e_sqr256.jpg/steeds-meer-mensen-bouwen-geen-pensioen-op-maar-een-oplossing-is-er-nog-niet.jpg"
         }
       ]
     },
@@ -5224,6 +5224,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/fund-managers-are-becoming-less-bearish-7095801",
+          "author": "Staff Author",
+          "description": "Fund managers are still bearish, but “a lot less bearish” about the economy this month than during the fourth quarter of last year, according to research by the Bank of America.",
+          "link": "https://www.investopedia.com/fund-managers-are-becoming-less-bearish-7095801?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-17T15:50:19.000Z",
+          "wordCount": 2973,
+          "title": "Fund Managers Are Becoming Less Bearish",
+          "imageUrl": "https://www.investopedia.com/thmb/MyYmfgyqzghsXTCsVt4L8qYZ93A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1141541123-d726ddafb0a44a65839e2b9fd2077388.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/d/debt-ceiling.asp",
+          "author": "Will Kenton",
+          "description": "The debt ceiling is a limit Congress imposes on the amount the federal government can owe. Discover the current debt ceiling and its economic impact.",
+          "link": "https://www.investopedia.com/terms/d/debt-ceiling.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-17T15:40:37.000Z",
+          "wordCount": 6025,
+          "title": "Debt Ceiling Defined: What Is the U.S. National Debt Ceiling?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/WkSoCYs2YMcp_-cbfuhh5Kk2KdM=/680x440/investing3-5bfc2b8e46e0fb0026016f32.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/WkSoCYs2YMcp_-cbfuhh5Kk2KdM=/680x440/investing3-5bfc2b8e46e0fb0026016f32.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/what-is-chatgpt-7094342",
+          "author": "Nathan Reiff",
+          "description": "ChatGPT is a chatbot capable of understanding context and providing natural, fluid dialogue responses to prompts and queries.",
+          "link": "https://www.investopedia.com/what-is-chatgpt-7094342?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-17T15:38:16.000Z",
+          "wordCount": 4415,
+          "title": "What is ChatGPT and How Does It Make Money?",
+          "imageUrl": "https://www.investopedia.com/thmb/Sxark7T9uD1N9O3iHTTQlzAKFKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/investopedia-social-share-default-ab113c8afd9a439dbc4c68b1926292f4.png"
+        },
+        {
+          "id": "https://www.investopedia.com/cd-rate-trends-week-of-january-16-rates-steady-7095685",
+          "author": "Sabrina Karl",
+          "description": "The best nationwide CD rates marched in place this week in all but two terms.",
+          "link": "https://www.investopedia.com/cd-rate-trends-week-of-january-16-rates-steady-7095685?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-17T15:14:41.000Z",
+          "wordCount": 3165,
+          "title": "CD Rate Trends, Week of January 16: Rates steady",
+          "imageUrl": "https://www.investopedia.com/thmb/mRWkfXFkOWOLZwuUvI_HWPvSznw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Primary-Image-best-emergency-loans-for-bad-credit-of-january-2023-507553-98ebce5147784588a525c4b1d4709b1c.jpg"
+        },
         {
           "id": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-january-17-2022-rates-hold-7095372",
           "author": "Sabrina Karl",
@@ -14508,66 +14553,6 @@
           "wordCount": 5849,
           "title": "How To Make an IRA Contribution as a Gift",
           "imageUrl": "https://www.investopedia.com/thmb/Ge3rpGIF0NwbXQJmp078hA5kYIc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/200119074-001-56a7f9e73df78cf7729b448f.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/personal-finance/081715/yes-you-can-manage-your-own-retirement.asp",
-          "author": "Sean Ross",
-          "description": "If you don't want to pay a financial pro to help you plan for retirement, consider mapping out a plan with these simple, do-it-yourself strategies.",
-          "link": "https://www.investopedia.com/articles/personal-finance/081715/yes-you-can-manage-your-own-retirement.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-19T04:05:00.000Z",
-          "wordCount": 6196,
-          "title": "Yes, You Can Manage Your Own Retirement!",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/wjaF-JHD0--Cp8fIsZPsr8CVLL8=/680x440/shutterstock_184391351-5bfc364e46e0fb00260d45ed.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/wjaF-JHD0--Cp8fIsZPsr8CVLL8=/680x440/shutterstock_184391351-5bfc364e46e0fb00260d45ed.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/t/testamentarytrust.asp",
-          "author": "Julia Kagan",
-          "description": "A testamentary trust is a legal entity that manages the assets of a deceased person in accordance with instructions in the person's will.",
-          "link": "https://www.investopedia.com/terms/t/testamentarytrust.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-19T03:47:37.000Z",
-          "wordCount": 5487,
-          "title": "Testamentary Trust: Definition, Examples, Pros & Cons",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/UZJDk7D_FCfVOKrL_NKMrcSHkbg=/3972x2648/head-of-david-2639097-e5b6f98d0c6141c48bbff875bab61426.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/UZJDk7D_FCfVOKrL_NKMrcSHkbg=/3972x2648/head-of-david-2639097-e5b6f98d0c6141c48bbff875bab61426.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/i/interestcoverageratio.asp",
-          "author": "Adam Hayes",
-          "description": "The interest coverage ratio is a debt and profitability ratio used to determine how easily a company can pay interest on its outstanding debt.",
-          "link": "https://www.investopedia.com/terms/i/interestcoverageratio.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-19T03:47:27.000Z",
-          "wordCount": 6283,
-          "title": "Interest Coverage Ratio: The Formula, How It Works, an Example",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/tKpuc5xgpPIJecXA8FrOuDmDreg=/680x440/investing7-5bfc2b8d46e0fb0051bddff8.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/tKpuc5xgpPIJecXA8FrOuDmDreg=/680x440/investing7-5bfc2b8d46e0fb0051bddff8.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/f/frictionalunemployment.asp",
-          "author": "Julia Kagan",
-          "description": "Frictional unemployment is the result of voluntary employment transitions within an economy.",
-          "link": "https://www.investopedia.com/terms/f/frictionalunemployment.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-19T03:35:35.000Z",
-          "wordCount": 5640,
-          "title": "Frictional Unemployment: Definition, Causes, and Quit Rate Explained",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/l9ET8spWP2FX62jPG3J2gkfSCeU=/380x254/stk128219rke-5bfc2b8a46e0fb005144db8f.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/l9ET8spWP2FX62jPG3J2gkfSCeU=/380x254/stk128219rke-5bfc2b8a46e0fb005144db8f.jpg"
         }
       ]
     },
@@ -14576,6 +14561,46 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/pfizer-stock-needs-a-covid-reset-according-to-one-analyst-shares-dive/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-01-17T15:24:30.000Z",
+          "wordCount": null,
+          "title": "Pfizer Stock Dives As Analyst Calls For 'Covid Reset' And Downgrades Shares",
+          "imageUrl": null
+        },
+        {
+          "id": "national-instruments-stock-jumps-on-emerson-electric-offer-auyqvlyXYGsKd0QUIo0p?yptr=yahoo",
+          "author": null,
+          "description": "Shares of National Instruments jumped in early Tuesday trading after Emerson Electric disclosed a nearly $7 billion offer to buy the company.\nNational Instruments' stock was recently u",
+          "link": "https://www.wsj.com/livecoverage/stock-market-news-today-01-17-2023/card/national-instruments-stock-jumps-on-emerson-electric-offer-auyqvlyXYGsKd0QUIo0p?yptr=yahoo",
+          "publishedOn": "2023-01-17T15:15:01.000Z",
+          "wordCount": 7364,
+          "title": "National Instruments Stock Jumps on Emerson Electric Offer",
+          "imageUrl": "https://images.wsj.net/im-704557?width=600"
+        },
+        {
+          "id": "carvana-poison-pill-nol-carryforward-losses-stocks-51673967389?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The so-called 'NOLs carryforwards' are tax provisions that discourage the acquisition of more than 4.9% of the company’s stock. They are seen as a move to avoid a hostile takeover.",
+          "link": "https://www.barrons.com/articles/carvana-poison-pill-nol-carryforward-losses-stocks-51673967389?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-17T15:01:00.000Z",
+          "wordCount": 6729,
+          "title": "Carvana Adopts a ‘Poison Pill’ to Roll Over Losses. Stock Bounces.",
+          "imageUrl": "https://images.barrons.com/im-570397/social"
+        },
+        {
+          "id": "seeking-least-7-dividend-yield-145005337.html",
+          "author": null,
+          "description": "The conventional wisdom outlook for 2023 is mixed – most market watchers and economists would say that a recession is likely during the first half of the year, with disagreements centered more on the duration and depth of a downturn than its likelihood, and a rebound will come in the second half, leading to stock markets finishing this year about where they began. Weighing in from Morgan Stanley, chief Us equity strategist Mike Wilson notes the conventional wisdom, saying: “Both the sell and buy",
+          "link": "https://finance.yahoo.com/news/seeking-least-7-dividend-yield-145005337.html",
+          "publishedOn": "2023-01-17T14:50:05.000Z",
+          "wordCount": 14769,
+          "title": "Seeking at Least 7% Dividend Yield? Morgan Stanley Suggests 2 Dividend Stocks to Buy",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/02b0de2ced503e0223d389765545dbf2"
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
@@ -14595,6 +14620,16 @@
           "wordCount": 6712,
           "title": "Roblox stock pops after upbeat bookings update",
           "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
+        {
+          "id": "these-2-states-account-for-a-third-of-americas-public-sector-pensions-crisis-11673964199?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The accounting holes in these pension funds widened so dramatically last year because of the terrible returns in the stock and bond markets.",
+          "link": "https://www.marketwatch.com/story/these-2-states-account-for-a-third-of-americas-public-sector-pensions-crisis-11673964199?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-17T14:03:00.000Z",
+          "wordCount": 7350,
+          "title": "These 2 states account for a third of America’s public sector pensions crisis",
+          "imageUrl": "https://images.mktw.net/im-703573/social"
         },
         {
           "id": "charles-schwab-says-now-time-193757015.html",
@@ -14667,6 +14702,16 @@
           "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
         },
         {
+          "id": "shockwave-medical-seeks-bolster-cardiovascular-135042909.html",
+          "author": null,
+          "description": "Shockwave Medical Inc (NASDAQ: SWAV) has agreed to acquire Neovasc Inc (NASDAQ: NVCN) for an upfront cash payment of $27.25 per share, corresponding to an enterprise value of approximately $100 million. The upfront cash consideration represents a 27% and 68% premium to the closing price and 30-day VWAP, respectively, of Neovasc's common shares on Jan. 13, 2023. Neovasc shareholders will also receive a potential deferred payment in the form of a non-tradable contingent value right (CVR), entitlin",
+          "link": "https://finance.yahoo.com/news/shockwave-medical-seeks-bolster-cardiovascular-135042909.html",
+          "publishedOn": "2023-01-17T13:50:42.000Z",
+          "wordCount": 13682,
+          "title": "Shockwave Medical Seeks To Bolster Its Cardiovascular Disease Portfolio With Neovasc Acquisition",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/52f2342957d5e92cfd504540c311109e"
+        },
+        {
           "id": "don-t-blindsided-cooling-prices-134524056.html",
           "author": null,
           "description": "(Bloomberg) -- When Bob Michele shares his investment views, it’s worth paying attention because the bond market veteran has proved to be pretty prescient. Most Read from BloombergChina’s Population Shrinks for First Time Since 1960s in Seismic ShiftChief Executives, Economists Brace for Recession as Davos BeginsMicrosoft to Add ChatGPT to Azure Cloud Services ‘Soon’European Stocks Rise as US Futures Signal Caution: Markets WrapItaly’s Most-Wanted Mafia Boss Arrested After 30 YearsThe chief inve",
@@ -14725,6 +14770,16 @@
           "wordCount": 4630,
           "title": "Emerson reveals $7.6B buyout bid for Texas-based public company",
           "imageUrl": "https://media.bizj.us/view/img/12380613/picture-emerson-beauty-shot-headquarters-2-data-7539374*1200xx2000-1127-0-175.jpg"
+        },
+        {
+          "id": "travelers-earnings-miss-winter-storms-51673961715?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Travelers says it expects to report net income of $3.44 a share, while Wall Street is expecting $4.04.",
+          "link": "https://www.barrons.com/articles/travelers-earnings-miss-winter-storms-51673961715?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-17T13:22:00.000Z",
+          "wordCount": 6677,
+          "title": "Travelers Expects Fourth-Quarter Earnings Miss. Winter Storms Are to Blame.",
+          "imageUrl": "https://images.barrons.com/im-44279/social"
         },
         {
           "id": "tesla-xpeng-price-cuts-51673945496?siteid=yhoof2&yptr=yahoo",
@@ -36085,46 +36140,6 @@
           "wordCount": 14638,
           "title": "Vanguard Exit Has Lawyers Mapping Out Wall Street’s Top ESG Risk",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/6EuL_O6U5grdoY2GipV0pQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/2b84cf8e42140cfb4e222348592820e4"
-        },
-        {
-          "id": "yes-you-can-manage-your-own-retirement.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "If you don't want to pay a financial pro to help you plan for retirement, consider mapping out a plan with these simple, do-it-yourself strategies.",
-          "link": "https://www.investopedia.com/articles/personal-finance/081715/yes-you-can-manage-your-own-retirement.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2022-12-19T04:01:08.000Z",
-          "wordCount": 6199,
-          "title": "Yes, You Can Manage Your Own Retirement!",
-          "imageUrl": "https://www.investopedia.com/thmb/URTdGIDfcdmnVTQE2bwn3JcoGts=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-529341269-6231468bb7ce4793a38e016d18e932d1.jpg"
-        },
-        {
-          "id": "asian-stock-markets-sink-under-035210214.html",
-          "author": null,
-          "description": "Asian stock markets fell again Monday as investors wrestled with fears the Federal Reserve and European central banks might be willing to cause a recession to crush inflation.  Shanghai, Tokyo, Hong Kong and Sydney declined.  Wall Street fell Friday after the Fed raised its forecast of how long interest rates have to stay elevated to cool inflation that is near a four-decade high.",
-          "link": "https://finance.yahoo.com/news/asian-stock-markets-sink-under-035210214.html",
-          "publishedOn": "2022-12-19T03:52:10.000Z",
-          "wordCount": 14037,
-          "title": "Asian stock markets sink under global recession fears",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/WtQNoq5FE2TAPnI4IULlOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/be2b1d16487272bc333f9f2ebf518ba5"
-        },
-        {
-          "id": "ripple-ceo-attorney-resign-counsel-034020746.html",
-          "author": null,
-          "description": "Ripple CEO Bradley Garlinghouse's attorney has applied to withdraw as his counsel in Ripple's ongoing lawsuit against the SEC.",
-          "link": "https://finance.yahoo.com/news/ripple-ceo-attorney-resign-counsel-034020746.html",
-          "publishedOn": "2022-12-19T03:40:20.000Z",
-          "wordCount": 13706,
-          "title": "Ripple CEO’s attorney to resign as counsel on XRP lawsuit against SEC",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/WBSk2HPX1UH04YoHOn7ENQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/forkast_news_articles_672/c8d0b91af3e197d86475efe9dcbc2e2e"
-        },
-        {
-          "id": "china-equities-gain-authorities-signal-021534145.html",
-          "author": null,
-          "description": "(Bloomberg) -- Chinese stocks slid as growing disruptions from Covid outbreaks hurt sentiment, offsetting the boost from a key policy meeting where authorities pledged growth support. Most Read from BloombergMusk Poll on Stepping Down as Twitter Chief Leans Toward YesTruth Is Reasserting Itself Over Trump’s LiesTrump Gets a 45-Day Extension to Provide Details on His Wealth to VotersHarry and Meghan Aren't Doing Themselves Any FavorsArgentina’s World Cup Title Caps Qatar’s Surreal TournamentThe C",
-          "link": "https://finance.yahoo.com/news/china-equities-gain-authorities-signal-021534145.html",
-          "publishedOn": "2022-12-19T03:21:32.000Z",
-          "wordCount": 14364,
-          "title": "China Stocks Erase Rally as Covid Woes Outweigh Policy Push",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/vwIvWWdCMnU3a07Gii.4vw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/3f5a6a32db4197da6d3ca951f6000e9a"
         }
       ]
     }
