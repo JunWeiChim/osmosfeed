@@ -378,6 +378,36 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6247288/",
+          "author": "onze economieredactie",
+          "description": "De Chinese economie groeide in het afgelopen jaar met 3 procent, meldt het Chinese statistiekbureau. Dat is het slechtste economische cijfer sinds de krimp van 1,6 procent in 1976.",
+          "link": "https://www.nu.nl/economie/6247288/chinese-economie-groeit-in-laagste-tempo-in-jaren.html",
+          "publishedOn": "2023-01-17T08:52:06.000Z",
+          "wordCount": 759,
+          "title": "Chinese economie groeit in laagste tempo in jaren",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/1r2xp37agtcm_sqr256.jpg/chinese-economie-groeit-in-laagste-tempo-in-jaren.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/1r2xp37agtcm_sqr256.jpg/chinese-economie-groeit-in-laagste-tempo-in-jaren.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6247286/",
+          "author": "onze techredactie",
+          "description": "De Europese Commissie (EC) gaat een lijst met bezwaren naar Microsoft sturen, schrijft persbureau Reuters. Daarin zet de toezichthouder alle zorgen over de geplande overname van gameontwikkelaar Activision Blizzard op een rij.",
+          "link": "https://www.nu.nl/tech/6247286/eu-werkt-aan-lijst-met-bezwaren-over-activision-blizzard-overname.html",
+          "publishedOn": "2023-01-17T08:50:14.000Z",
+          "wordCount": 1072,
+          "title": "EU werkt aan lijst met bezwaren over Activision Blizzard-overname",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/6zgxpcbadugn_sqr256.jpg/eu-werkt-aan-lijst-met-bezwaren-over-activision-blizzard-overname.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/6zgxpcbadugn_sqr256.jpg/eu-werkt-aan-lijst-met-bezwaren-over-activision-blizzard-overname.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6247272/",
           "author": "onze economieredactie",
           "description": "De maatschappelijke uitdagingen in ons land zorgen voor meer vraag naar personeel in verschillende sectoren. Zo zijn mensen die bijdragen aan de energietransitie, zoals monteurs van zonnepanelen en duurzaamheidsadviseurs, momenteel zeer gewild.",
@@ -14658,21 +14688,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/UekINQEzFR0jlIF57a4yvLWENpI=/2122x1415/GettyImages-150973258-572b9eaf3df78c038e291890.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/d/demand-schedule.asp",
-          "author": "Jake Frankenfield",
-          "description": "In economics, a demand schedule is a table that shows the quantity demanded of a good at different price levels.",
-          "link": "https://www.investopedia.com/terms/d/demand-schedule.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-18T20:19:01.000Z",
-          "wordCount": 5290,
-          "title": "Demand Schedule: Definition, Examples, and How To Graph One",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/UWG0khn64HlNL5OPxFsC8IAfozE=/680x440/investing1-5bfc2b9046e0fb005119b292.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/UWG0khn64HlNL5OPxFsC8IAfozE=/680x440/investing1-5bfc2b9046e0fb005119b292.jpg"
         }
       ]
     },
@@ -14682,6 +14697,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "us-recession-economy-banks-jpmorgan-citi-fed-51673648996?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "How the economy fares as the Fed sticks with its inflation fight is a hot topic. The big banks are prepping for a downturn.",
+          "link": "https://www.barrons.com/articles/us-recession-economy-banks-jpmorgan-citi-fed-51673648996?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-17T07:00:00.000Z",
+          "wordCount": 7981,
+          "title": "What JPMorgan and Other Banking Giants Are Saying About a Possible Recession",
+          "imageUrl": "https://images.barrons.com/im-570784/social"
+        },
+        {
           "id": "asian-stocks-trade-mixed-rally-233102447.html",
           "author": null,
           "description": "(Bloomberg) -- Asian stocks and US equity futures edged lower as traders digested data that showed China’s economy growing at the second slowest pace since the 1970s. Most Read from BloombergEuropean Stocks Rise as US Futures Signal Caution: Markets WrapChief Executives, Economists Brace for Recession as Davos BeginsItaly’s Most-Wanted Mafia Boss Arrested After 30 YearsChina’s Population Shrinks for First Time Since 1960s in Seismic ShiftMicrosoft to Add ChatGPT to Azure Cloud Services ‘Soon’An",
@@ -14690,6 +14715,16 @@
           "wordCount": 14703,
           "title": "Asian Stocks Drop as China Growth Slows, BOJ Looms: Markets Wrap",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/8297b29919cd5c5f25fe9c71ec137efc"
+        },
+        {
+          "id": "auddev&yptr=yahoo",
+          "author": null,
+          "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+          "link": "https://www.ft.com/cms/s/25f67d89-2940-43b9-9a42-bfc34d262631,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev&yptr=yahoo",
+          "publishedOn": "2023-01-17T05:00:05.000Z",
+          "wordCount": 1648,
+          "title": "Looming Twitter interest payment leaves Elon Musk with unpalatable options",
+          "imageUrl": null
         },
         {
           "id": "alibaba-bulls-see-140-billion-043931908.html",
@@ -35880,16 +35915,6 @@
           "wordCount": 5610,
           "title": "How Are IRA Withdrawals Taxed?",
           "imageUrl": "https://www.investopedia.com/thmb/CetBbsPLLIFejF86FI84ReE1B-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Maturewomanusingsmartphone-4a180053c97047138a62bfab338e2f7a.jpg"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-suffers-ugly-outside-week/?src=A00220&yptr=yahoo",
-          "publishedOn": "2022-12-18T21:02:21.000Z",
-          "wordCount": null,
-          "title": "Dow Jones Futures: After Stock Market Rally's Ugly Outside Week, Here's What To Do",
-          "imageUrl": null
         }
       ]
     }
