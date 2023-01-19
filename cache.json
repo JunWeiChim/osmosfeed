@@ -5536,21 +5536,6 @@
             "url": "https://media.nu.nl/m/iitxjhfahvi6_sqr256.jpg/rusland-opent-groot-nieuw-gasveld-voor-china.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/iitxjhfahvi6_sqr256.jpg/rusland-opent-groot-nieuw-gasveld-voor-china.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6243408/",
-          "author": "Tom van Gurp",
-          "description": "De prijs voor 1 megawattuur gas was woensdag korte tijd lager dan 97 euro. Het is voor het eerst sinds oktober dat handelaren op de belangrijkste Europese handelsbeurs daar minder dan 100 euro aan kwijt waren.",
-          "link": "https://www.nu.nl/economie/6243408/gasprijs-duikt-onder-de-100-euro-door-zachter-weer-en-eu-akkoord.html",
-          "publishedOn": "2022-12-21T09:45:48.000Z",
-          "wordCount": 994,
-          "title": "Gasprijs duikt onder de 100 euro door zachter weer en EU-akkoord",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/3frxet2af41j_sqr256.jpg/gasprijs-duikt-onder-de-100-euro-door-zachter-weer-en-eu-akkoord.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/3frxet2af41j_sqr256.jpg/gasprijs-duikt-onder-de-100-euro-door-zachter-weer-en-eu-akkoord.jpg"
         }
       ]
     },
@@ -5559,6 +5544,56 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/personal-finance/060215/how-flexible-spending-accounts-work.asp",
+          "author": "Tim Parker",
+          "description": "Learn how a flexible spending account works and why using one can help you beat the high cost of healthcare.",
+          "link": "https://www.investopedia.com/articles/personal-finance/060215/how-flexible-spending-accounts-work.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-19T21:33:55.000Z",
+          "wordCount": 5059,
+          "title": "How Flexible Spending Accounts Work",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Ged7F7s6ZehmM8FZJJdzj4NP9v4=/680x440/24-5bfc391346e0fb00511d75f1.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Ged7F7s6ZehmM8FZJJdzj4NP9v4=/680x440/24-5bfc391346e0fb00511d75f1.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ge-q4-2022-earnings-preview-7096299",
+          "author": "Nathan Reiff",
+          "description": "GE's recently completed spinoff of its healthcare business brings it closer to only running its core aviation business.",
+          "link": "https://www.investopedia.com/ge-q4-2022-earnings-preview-7096299?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-19T21:19:48.000Z",
+          "wordCount": 3300,
+          "title": "GE Aviation Gains Could Boost Overall Q4 Performance",
+          "imageUrl": "https://www.investopedia.com/thmb/z296i-_GUy9y9yxKsV2S5f1PycM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/boeing-general-electric-ge9x-engine-newengine1117-55e145d4de3c4220b61c9972a04ab4dc.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/forex/10/gold-the-other-currency.asp",
+          "author": "Cory Mitchell",
+          "description": "Throughout history, gold has held its value against paper currencies. Learn how it can help offset market risks.",
+          "link": "https://www.investopedia.com/articles/forex/10/gold-the-other-currency.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-19T21:05:26.000Z",
+          "wordCount": 5292,
+          "title": "Gold: The Other Currency",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/6ok4cd2zWAkEzpzFy4i3aCGuZO8=/380x253/147426339-5bfc2b9446e0fb005144dd09.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/6ok4cd2zWAkEzpzFy4i3aCGuZO8=/380x253/147426339-5bfc2b9446e0fb005144dd09.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/student-loan-debt-by-gender-5194243",
+          "author": "Ward Williams",
+          "description": "While student loan debt is a burden for all borrowers, gendered wage gaps and other factors cause some to have a harder time than others.",
+          "link": "https://www.investopedia.com/student-loan-debt-by-gender-5194243?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-19T20:52:16.000Z",
+          "wordCount": 7432,
+          "title": "Student Loan Debt by Gender",
+          "imageUrl": "https://www.investopedia.com/thmb/1YbwaZ2LW2c3b647t70TTCZvRqI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1225831428-ff47377b807d4003af5ce613ea86f0fb.jpg"
+        },
         {
           "id": "https://www.investopedia.com/should-i-get-a-student-credit-card-5192378",
           "author": "Andrew Martins",
@@ -14686,6 +14721,46 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/netflix-stock-fourth-quarter-subscribers-beat-views/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-01-19T21:33:42.000Z",
+          "wordCount": null,
+          "title": "Netflix Wins More Subscribers Than Expected, But Profit Misses Views",
+          "imageUrl": null
+        },
+        {
+          "id": "texas-instruments-taps-haviv-ilan-as-new-ceo-company-declares-dividend-01674163481?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Texas Instruments on Thursday said that its board had chosen 24-year company veteran Haviv Ilan as its new chief executive and president, starting April 1....",
+          "link": "https://www.marketwatch.com/story/texas-instruments-taps-haviv-ilan-as-new-ceo-company-declares-dividend-01674163481?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-19T21:24:00.000Z",
+          "wordCount": 6708,
+          "title": "Texas Instruments taps Haviv Ilan as new CEO, company declares dividend",
+          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
+        {
+          "id": "netflix-stock-leaps-on-blowout-subscriber-gains-hastings-ceo-exit?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "\"While it’s still early days for ads and we have lots to do (in particular better targeting and measurement), we are pleased with our progress to date,\" Netflix said.",
+          "link": "https://www.thestreet.com/markets/netflix-stock-leaps-on-blowout-subscriber-gains-hastings-ceo-exit?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-01-19T21:13:00.000Z",
+          "wordCount": 3695,
+          "title": "Netflix Stock Leaps On Blowout Q4 Subscriber Gains; Reed Hastings Steps Down As Co-CEO",
+          "imageUrl": "https://www.thestreet.com/.image/t_share/MTc0MDI5MTY3NDA5NTA1NTg3/netflix.jpg"
+        },
+        {
+          "id": "netflix-q4-earnings-january-2023-131305718.html",
+          "author": null,
+          "description": "Netflix reported fourth quarter financial results after the bell on Thursday — here's what to know.",
+          "link": "https://finance.yahoo.com/news/netflix-q4-earnings-january-2023-131305718.html",
+          "publishedOn": "2023-01-19T21:09:27.000Z",
+          "wordCount": 14009,
+          "title": "Netflix earnings: CEO Reed Hastings steps down, COO Greg Peters to take co-CEO role",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/iXIUXQIWOH0gufUI2NVruw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/c83ecfa0-983d-11ed-bfdf-838ccd92597a"
+        },
         {
           "id": "netflix-stock-options-priced-for-a-big-post-earnings-move-but-not-quite-as-big-as-usual-01674156236?siteid=yhoof2&yptr=yahoo",
           "author": null,
