@@ -448,6 +448,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6247494/",
+          "author": "Eva Schouten",
+          "description": "In 2022 waren we misschien wel vaker ziek dan ooit tevoren en in 2023 zijn we in ieder geval slecht begonnen. Volgens cijfers van HumanCapitalCare, de grootste arbodienstverlener van Nederland, zaten afgelopen jaar iedere dag gemiddeld 48 op de 1.000 werknemers ziek thuis. Dat is voor zover bekend een record, zegt medisch directeur Jurriaan Penders.",
+          "link": "https://www.nu.nl/economie/6247494/we-eindigden-en-beginnen-het-jaar-ziek-zwak-en-misselijk.html",
+          "publishedOn": "2023-01-19T04:31:20.000Z",
+          "wordCount": 1026,
+          "title": "We eindigden en beginnen het jaar ziek, zwak en misselijk",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/wqlx54saljld_sqr256.jpg/we-eindigden-en-beginnen-het-jaar-ziek-zwak-en-misselijk.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/wqlx54saljld_sqr256.jpg/we-eindigden-en-beginnen-het-jaar-ziek-zwak-en-misselijk.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6247461/",
           "author": "NU.nl",
           "description": "Voor 1 november 2022 moesten de gasopslagen in de Europese Unie voor 80 procent gevuld zijn om de winter 'veilig' door te komen. Dat doel werd in september al bereikt. Inmiddels zijn we een paar maanden verder. Hoe staat het nu met de gasvoorraden in Nederland en de EU?",
@@ -5261,36 +5276,6 @@
             "url": "https://media.nu.nl/m/0mfxx0mayiph_sqr256.jpg/jubelton-kent-nog-een-opleving-op-weg-naar-het-einde.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/0mfxx0mayiph_sqr256.jpg/jubelton-kent-nog-een-opleving-op-weg-naar-het-einde.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6243283/",
-          "author": "Noémi van de Pol",
-          "description": "Ouders kunnen komend jaar nog meer toeslag krijgen voor de kinderopvang dan verwacht. Het kabinet heeft besloten de maximale uurtarieven waarvoor ouders toeslag mogen aanvragen voor de tweede keer te verhogen.",
-          "link": "https://www.nu.nl/economie/6243283/kabinet-verhoogt-kinderopvangtoeslag-voor-de-tweede-keer.html",
-          "publishedOn": "2022-12-20T16:46:43.000Z",
-          "wordCount": 815,
-          "title": "Kabinet verhoogt kinderopvangtoeslag voor de tweede keer",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/aiwxayta209c_sqr256.jpg/kabinet-verhoogt-kinderopvangtoeslag-voor-de-tweede-keer.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/aiwxayta209c_sqr256.jpg/kabinet-verhoogt-kinderopvangtoeslag-voor-de-tweede-keer.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6243281/",
-          "author": "Tom van Gurp",
-          "description": "EU-landen zijn het deze week eens geworden over een prijsplafond voor gas, om zo de energierekening voor huishoudens betaalbaar te houden. Maar er zijn grote twijfels of de maatregel wel nut heeft. En wat zijn de gevolgen voor Nederland precies, want we hadden toch al een prijsplafond?",
-          "link": "https://www.nu.nl/economie/6243281/veel-twijfels-over-nut-van-europees-prijsplafond-voor-gas.html",
-          "publishedOn": "2022-12-20T16:20:12.000Z",
-          "wordCount": 1594,
-          "title": "Veel twijfels over nut van Europees prijsplafond voor gas",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/um6xkefamknp_sqr256.jpg/veel-twijfels-over-nut-van-europees-prijsplafond-voor-gas.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/um6xkefamknp_sqr256.jpg/veel-twijfels-over-nut-van-europees-prijsplafond-voor-gas.jpg"
         }
       ]
     },
@@ -5299,6 +5284,16 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/home-equity-loan-help-kids-buy-first-home-5271843",
+          "author": "Rae Hartley Beck",
+          "description": "Homeownership is harder than ever to achieve. Can you leverage your home equity to help your kids become homeowners?",
+          "link": "https://www.investopedia.com/home-equity-loan-help-kids-buy-first-home-5271843?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-19T04:18:25.000Z",
+          "wordCount": 4971,
+          "title": "Using a Home Equity Loan to Help Your Kids Buy Their First Home",
+          "imageUrl": "https://www.investopedia.com/thmb/tVNL4bXqO1bMCYt-9oN0VMtVC08=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/buying-house-57a63be95f9b58974a3befe9.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/investing/040515/are-there-taxes-bitcoins.asp",
           "author": "Kushal Agarwal",
@@ -14678,46 +14673,6 @@
           "wordCount": 5040,
           "title": "Why Is Stagflation Bad for the Economy?",
           "imageUrl": "https://www.investopedia.com/thmb/wOp5uYD8qHAhuUReLRE-TrX8o9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-521813443-2000-a659eb34349043f4a70a2a861299d401.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/top-tech-stocks-4581295",
-          "author": "Matthew Johnston",
-          "description": "Arrow Electronics provides the best value, Analog Devices the fastest growth, and First Solar the most momentum.",
-          "link": "https://www.investopedia.com/top-tech-stocks-4581295?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-20T17:03:49.000Z",
-          "wordCount": 5935,
-          "title": "Top Tech Stocks",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/2BG_qAN3HToHXKaNO3PwbbSjdfE=/2103x1428/Stock-Market-Charts-Are-Useless-56a093595f9b58eba4b1ae5b.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/2BG_qAN3HToHXKaNO3PwbbSjdfE=/2103x1428/Stock-Market-Charts-Are-Useless-56a093595f9b58eba4b1ae5b.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/top-reits-4582128",
-          "author": "Charles Munyi",
-          "description": "Top-performing real estate investment trusts (REITs) this month include VICI Properties, Gaming and Leisure Properties, and Omega Healthcare Investors, which have risen as much as 70% in the past year while the Russell 1000 has fallen 17%.",
-          "link": "https://www.investopedia.com/top-reits-4582128?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-20T17:00:10.000Z",
-          "wordCount": 5246,
-          "title": "Top REITs",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/vutZ7yOyC0zuQrZhIPqwrZiLvRo=/3000x2000/homebuilder-56a9a7325f9b58b7d0fdb2c2.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/vutZ7yOyC0zuQrZhIPqwrZiLvRo=/3000x2000/homebuilder-56a9a7325f9b58b7d0fdb2c2.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-december-20-2022-rates-edge-higher-6951018",
-          "author": "Sabrina Karl",
-          "description": "After last week dropping to its lowest level since September, the 30-year average has since reclaimed almost two-tenths of a point, rising back up above 6.5%.",
-          "link": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-december-20-2022-rates-edge-higher-6951018?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-20T16:49:52.000Z",
-          "wordCount": 3588,
-          "title": "Today's Mortgage Rates & Trends - December 20, 2022: Rates edge higher",
-          "imageUrl": "https://www.investopedia.com/thmb/K11RgTWaUHoB6AdIKLdF3HjDPDs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/DecemberMortageRatesNews-20-05502b016ce541acb74a50f4a201d87f.jpg"
         }
       ]
     },
@@ -14745,6 +14700,16 @@
           "wordCount": 4569,
           "title": "Kinder Morgan CEO Steve Kean to step down, succeeded by President Kim Dang",
           "imageUrl": "https://media.bizj.us/view/img/12060937/steve-kean*1200xx2002-1128-0-514.jpg"
+        },
+        {
+          "id": "a-timeline-of-arcimotos-rise-and-fall.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "author": null,
+          "description": "From its founding in 2007 to today.",
+          "link": "https://www.bizjournals.com/portland/news/2023/01/18/a-timeline-of-arcimotos-rise-and-fall.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "publishedOn": "2023-01-18T23:06:37.000Z",
+          "wordCount": 4746,
+          "title": "A timeline of Arcimoto's rise and fall",
+          "imageUrl": "https://media.bizj.us/view/img/11988094/arcimoto-factory-floor*1200xx2560-1438-0-285.jpg"
         },
         {
           "id": "microsoft-to-cut-dozens-of-silicon-valley-workers.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
@@ -14815,6 +14780,16 @@
           "wordCount": 6880,
           "title": "Discover results beat, but signs grow that customers are falling behind; company declares dividends",
           "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
+        {
+          "id": "cathie-wood-ark-snatches-tesla?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "Ark has snapped up more almost 757,000 shares of the electric car titan in January alone, buying after the stock plunged.",
+          "link": "https://www.thestreet.com/investing/stocks/cathie-wood-ark-snatches-tesla?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-01-18T21:17:00.000Z",
+          "wordCount": 3528,
+          "title": "Cathie Wood Watch: Ark Piles Its Tesla Holding High",
+          "imageUrl": "https://www.thestreet.com/.image/t_share/MTg3ODEyNTY4NDAyNzY0ODUx/cathie-wood_4.jpg"
         },
         {
           "id": "5-ways-finances-could-impacted-191617467.html",
@@ -36295,56 +36270,6 @@
           "wordCount": 14151,
           "title": "Gov. Ron DeSantis takes steps to ‘help the average person’ afford a home: Real estate expert",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/SnrUb8kcWrfo0_yzez5yhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_business_text_367/50315f802f7b738235572ab7c24ccac3"
-        },
-        {
-          "id": "retirees-can-safely-withdraw-more-in-2023-and-not-run-out-of-money-report-finds-164146668.html",
-          "author": null,
-          "description": "Morningstar recommends withdrawing no more than 3.8% of your retirement savings in the first year, up from 3.3%.",
-          "link": "https://finance.yahoo.com/news/retirees-can-safely-withdraw-more-in-2023-and-not-run-out-of-money-report-finds-164146668.html",
-          "publishedOn": "2022-12-20T16:41:46.000Z",
-          "wordCount": 14570,
-          "title": "Retirees can safely withdraw more in 2023 and not run out of money, report finds",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/DTOk_DgE0xiJdujjXp8u1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/4c2ad520-8083-11ed-a6f4-b09376553f29"
-        },
-        {
-          "id": "elon-musk-picks-high-stake-fight-with-senator-elizabeth-warren?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "The liberal senator wrote to the board of Tesla to inquire about Musk, amid revolt of individual investors.",
-          "link": "https://www.thestreet.com/technology/elon-musk-picks-high-stake-fight-with-senator-elizabeth-warren?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2022-12-20T16:33:00.000Z",
-          "wordCount": 4368,
-          "title": "Elon Musk Picks High Stake Fight With Senator Elizabeth Warren",
-          "imageUrl": "https://www.thestreet.com/.image/t_share/MTg4NDExOTA1MDUwNjgyNTg3/elon-musk-elizabeth-warren_2.jpg"
-        },
-        {
-          "id": "cathie-wood-s-arkk-etf-trades-near-lowest-since-2017-aQ5PfSiKblUKoeUBFdnH?yptr=yahoo",
-          "author": null,
-          "description": "Cathie Wood's ARK Innovation exchange-traded fund fell to a five-year low Tuesday.\nThe fund, known by its ticker symbol ARKK, dropped 0.7% to $31.97 Tuesday, the lowest level since August 2017. ARKK is down 79% from its all-time high.\n\nMany investors bought the dip in Ms. Wood's funds earlier this",
-          "link": "https://www.wsj.com/livecoverage/stock-market-news-today-12-20-2022/card/cathie-wood-s-arkk-etf-trades-near-lowest-since-2017-aQ5PfSiKblUKoeUBFdnH?yptr=yahoo",
-          "publishedOn": "2022-12-20T16:30:00.000Z",
-          "wordCount": 6763,
-          "title": "Cathie Wood's ARKK ETF Falls to Lowest Level Since 2017",
-          "imageUrl": "https://images.wsj.net/im-689230?width=600"
-        },
-        {
-          "id": "3-reits-just-increased-dividends-162845384.html",
-          "author": null,
-          "description": "Most everyone loves an early holiday present. And for some real estate investment trust (REIT) investors, that early gift came in the form of a dividend increase over the past two weeks. Of course, a dividend increase is great because it puts more income into the pockets of investors and increases the yield on their purchase price, but more importantly, a dividend increase also signals to the markets that the company expects to perform well, perhaps generating increases in revenue and funds from",
-          "link": "https://finance.yahoo.com/news/3-reits-just-increased-dividends-162845384.html",
-          "publishedOn": "2022-12-20T16:28:45.000Z",
-          "wordCount": 14342,
-          "title": "3 REITS That Just Increased Their Dividends",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/e59e847c2df288403ed41f3d9d4e67be"
-        },
-        {
-          "id": "residential-reit-centerspace-107-50-162033762.html",
-          "author": null,
-          "description": "Shares of residential real estate investment trust (REIT) Centerspace (NYSE: CSR) sold with extraordinarily heavy volume and touched a brand new 52-week low. Based in Minot, North Dakota, Centerspace is a residential REIT focused on apartment homes. Its properties are found in Minneapolis, Denver and Omaha, Nebraska, among other Midwestern locations. The company is a smaller type of real estate investment trust with a market capitalization of $933 million. To compare, one of the majors in the fi",
-          "link": "https://finance.yahoo.com/news/residential-reit-centerspace-107-50-162033762.html",
-          "publishedOn": "2022-12-20T16:20:33.000Z",
-          "wordCount": 14005,
-          "title": "Residential REIT Centerspace: From $107.50 to $60.16 In 12 Months",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/fd3f58e8b98130171320cea5ddde608a"
         }
       ]
     }
