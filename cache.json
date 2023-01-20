@@ -478,6 +478,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6247833/",
+          "author": "Afran Groenewoud",
+          "description": "De Belastingdienst zegt pas vanaf 2013 discriminerende databestanden en risicoprofielen te hebben gebruikt om fraude met kinderopvangtoeslag op te sporen. De fiscus staat tegenover een toeslagenouder die zegt voor die tijd te zijn gediscrimineerd vanwege haar afkomst.",
+          "link": "https://www.nu.nl/binnenland/6247833/belastingdienst-pas-vanaf-2013-discriminerende-systemen-rond-toeslagen.html",
+          "publishedOn": "2023-01-20T18:15:26.000Z",
+          "wordCount": 1884,
+          "title": "Belastingdienst: 'Pas vanaf 2013 discriminerende systemen rond toeslagen'",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/dahxmimasvid_sqr256.jpg/belastingdienst-pas-vanaf-2013-discriminerende-systemen-rond-toeslagen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/dahxmimasvid_sqr256.jpg/belastingdienst-pas-vanaf-2013-discriminerende-systemen-rond-toeslagen.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6247838/",
           "author": "onze economieredactie",
           "description": "Omdat China's economie weer opengaat na de strenge coronamaatregelen, kan de inflatie in Europa weer toenemen. Dat heeft ECB-president Christine Lagarde vrijdag gezegd tijdens het World Economic Forum in Davos.",
@@ -5591,21 +5606,6 @@
             "url": "https://media.nu.nl/m/mi9xqaaazx25_sqr256.jpg/huisje-van-de-kerstman-is-dit-jaar-12-procent-in-waarde-gestegen.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/mi9xqaaazx25_sqr256.jpg/huisje-van-de-kerstman-is-dit-jaar-12-procent-in-waarde-gestegen.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6243524/",
-          "author": "onze economieredactie",
-          "description": "Ongeveer 90 procent van de mensen die recht hebben op de energietoeslag van 1.300 euro heeft die ook aangevraagd. Dat zei minister Carola Schouten (Armoedebeleid) woensdag in de Tweede Kamer.",
-          "link": "https://www.nu.nl/economie/6243524/energietoeslag-door-negen-op-de-tien-rechthebbenden-aangevraagd.html",
-          "publishedOn": "2022-12-22T05:57:02.000Z",
-          "wordCount": 873,
-          "title": "Energietoeslag door negen op de tien rechthebbenden aangevraagd",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/qttxsi6a7l0r_sqr256.jpg/energietoeslag-door-negen-op-de-tien-rechthebbenden-aangevraagd.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/qttxsi6a7l0r_sqr256.jpg/energietoeslag-door-negen-op-de-tien-rechthebbenden-aangevraagd.jpg"
         }
       ]
     },
@@ -14493,21 +14493,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/eMW3R7OKZH6SB_376QqvqWD96DY=/3000x2000/not_for_profit_nonprofit_charity_AdobeStock_93906620-c07fd22b87c84bf28cf8b9caba9a1b67.jpeg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/s/statute-of-frauds.asp",
-          "author": "James Chen",
-          "description": "The statute of frauds is a legal concept that stipulates that certain types of contracts must be executed in writing to be valid.",
-          "link": "https://www.investopedia.com/terms/s/statute-of-frauds.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-22T05:55:04.000Z",
-          "wordCount": 5184,
-          "title": "Statute of Frauds: Purpose, Contracts It Covers, and Exceptions",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/O0M1G5vkPtSuw6hfQqFmFrw1DGg=/680x440/ThinkstockPhotos-481063266-8ac0871cbb66477e96d76419c8267371.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/O0M1G5vkPtSuw6hfQqFmFrw1DGg=/680x440/ThinkstockPhotos-481063266-8ac0871cbb66477e96d76419c8267371.jpg"
         }
       ]
     },
@@ -14516,6 +14501,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "goldman-shares-drop-after-news-of-consumer-bank-investigation-HCQ4dkoEIi6J80iA7tYy?yptr=yahoo",
+          "author": null,
+          "description": "More trouble for the consumer banking business at Goldman Sachs is sparking another selloff in its stock.\nGoldman shares were down about 3% midday Friday, after The Wall Street Journal reported that t",
+          "link": "https://www.wsj.com/livecoverage/stock-market-news-today-01-20-2023/card/goldman-shares-drop-after-news-of-consumer-bank-investigation-HCQ4dkoEIi6J80iA7tYy?yptr=yahoo",
+          "publishedOn": "2023-01-20T17:16:53.000Z",
+          "wordCount": 7358,
+          "title": "Goldman Shares Drop After News of Consumer Bank Investigation",
+          "imageUrl": "https://images.wsj.net/im-707398?width=600"
+        },
         {
           "id": "whats-ahead-for-verizon-after-a-dismal-2022-its-time-to-hear-the-turnaround-plan-11674230528?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -14775,6 +14770,16 @@
           "wordCount": 14411,
           "title": "Alibaba Seen Fighting Off Cohen’s Pressure for Stock Buybacks",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/pWs6f4JTMFWqmktv5vwpNQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTQ-/https://media.zenfs.com/en/bloomberg_markets_842/b4791e44d953a8e0495e9d6a4d678e9a"
+        },
+        {
+          "id": "californias-high-gas-prices-regulation-11674163435?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Drivers in the most populous U.S. state are paying more at the pump than anyone else. California’s gas taxes and its strict clean-air policies don’t explain away all of the $1.23-a-gallon difference.",
+          "link": "https://www.wsj.com/articles/californias-high-gas-prices-regulation-11674163435?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-20T10:30:00.000Z",
+          "wordCount": 7477,
+          "title": "California Has a Gas-Price Mystery: Too High, But Why?",
+          "imageUrl": "https://images.wsj.net/im-703471/social"
         },
         {
           "id": "earnings-estimates-keep-falling-which-might-be-no-problem-for-stocks-morning-brief-101825444.html",
@@ -36225,36 +36230,6 @@
           "wordCount": 6528,
           "title": "Costco Stock Is on Sale. It’s a Good Time to Buy.",
           "imageUrl": "https://images.barrons.com/im-687367/social"
-        },
-        {
-          "id": "bill-miller-interview-bullish-on-bitcoin-amazon-51671661918?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "As the famed value investor heads for retirement, he isn’t giving up on crypto. Why he likes Amazon.com, Delta Air Lines, and small-caps, too.",
-          "link": "https://www.barrons.com/articles/bill-miller-interview-bullish-on-bitcoin-amazon-51671661918?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-22T06:15:00.000Z",
-          "wordCount": 6590,
-          "title": "Bill Miller Is Still Bullish on Bitcoin, Amazon, and More",
-          "imageUrl": "https://images.barrons.com/im-690230/social"
-        },
-        {
-          "id": "omnibus-spending-bill-retirement-401k-plans-ukraine-tiktok-51671655321?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The primary goal of the massive legislation is to fund the government through the fiscal year ending September 2023.  But it also contains a legion of agenda items.",
-          "link": "https://www.barrons.com/articles/omnibus-spending-bill-retirement-401k-plans-ukraine-tiktok-51671655321?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-22T06:00:00.000Z",
-          "wordCount": 6519,
-          "title": "Your Retirement Plans Will Change With the $1.7 Trillion Federal Spending Bill",
-          "imageUrl": "https://images.barrons.com/im-690019/social"
-        },
-        {
-          "id": "hundreds-workers-leaving-tyson-foods-055951323.html",
-          "author": null,
-          "description": "Tyson announced a consolidation of offices in October, but hundreds of employees have decided not to relocate.",
-          "link": "https://finance.yahoo.com/news/hundreds-workers-leaving-tyson-foods-055951323.html",
-          "publishedOn": "2022-12-22T05:59:51.000Z",
-          "wordCount": 13651,
-          "title": "Hundreds of workers leaving Tyson Foods as company closes offices: report",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/zwJAMhm3vq1WYU6qQ8br6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_business_text_367/435b7c4c5872f6a5f8554acf94c6126b"
         }
       ]
     }
