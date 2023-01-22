@@ -478,6 +478,36 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6247664/",
+          "author": "Chantal van Wees",
+          "description": "Elke dag naar de super om de hoek of één keer per week alle koopjes af? Met de huidige kostencrisis zijn we kritischer op onze uitgaven, ook in de supermarkt. In de rubriek Het Bonnetje spreken we elke week met een Nederlander over zijn supermarktstrategie in tijden van inflatie.",
+          "link": "https://www.nu.nl/geldzaken/6247664/mensen-vragen-vaak-of-ze-iets-voor-me-kunnen-meenemen.html",
+          "publishedOn": "2023-01-22T11:05:43.000Z",
+          "wordCount": 1691,
+          "title": "Het Bonnetje | 'Mensen vragen vaak of ze iets voor me kunnen meenemen'",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/69dxolja7wa8_sqr256.jpg/mensen-vragen-vaak-of-ze-iets-voor-me-kunnen-meenemen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/69dxolja7wa8_sqr256.jpg/mensen-vragen-vaak-of-ze-iets-voor-me-kunnen-meenemen.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6248012/",
+          "author": "onze techredactie",
+          "description": "Twitter gaat het over een andere boeg gooien. Waar het verdienmodel van het sociale medium voorheen altijd was gebaseerd op reclameopbrengsten, zal het binnenkort minder advertenties gaan tonen. Ook komt er een abonnement waarmee gebruikers Twitter volledig reclamevrij kunnen gebruiken.",
+          "link": "https://www.nu.nl/tech/6248012/twitter-verdienmodel-op-de-schop-minder-advertenties-reclamevrij-abonnement.html",
+          "publishedOn": "2023-01-22T10:54:47.000Z",
+          "wordCount": 955,
+          "title": "Twitter-verdienmodel op de schop: minder advertenties, reclamevrij abonnement",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/m1vxkhrawi56_sqr256.jpg/twitter-verdienmodel-op-de-schop-minder-advertenties-reclamevrij-abonnement.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/m1vxkhrawi56_sqr256.jpg/twitter-verdienmodel-op-de-schop-minder-advertenties-reclamevrij-abonnement.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6247819/",
           "author": "Ertan Basekin",
           "description": "Werknemers die tijdens hun vakantie ziek worden, melden dit vaak niet bij hun baas. En dat betekent dat je vakantiedagen inlevert, terwijl je werkgever bij ziekte je loon moet doorbetalen. \"Het is bij veel werknemers onbekend. Wij krijgen daar vragen over en daar schrikken we van. Het staat namelijk niet voor niets in de wet\", zegt vicevoorzitter Kitty Jong van vakbond FNV tegen NU.nl.",
@@ -14188,21 +14218,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/F8vEi2wpNp0r_wW_z8M0yG6w3Hs=/640x640/pricing-56a492f65f9b58b7d0d79dd8.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/personal-finance/010715/worlds-top-10-insurance-companies.asp",
-          "author": "Nathan Reiff",
-          "description": "With Berkshire Hathaway leading the pack, these are the 10 biggest insurance companies by revenue.",
-          "link": "https://www.investopedia.com/articles/personal-finance/010715/worlds-top-10-insurance-companies.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-23T22:41:57.000Z",
-          "wordCount": 3924,
-          "title": "10 Biggest Insurance Companies",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/AygtTPnz8QmJAbhLK4Kbhgd8Mig=/680x440/thinkstockphotos_493208894-5bfc2b9746e0fb0051bde2b8.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/AygtTPnz8QmJAbhLK4Kbhgd8Mig=/680x440/thinkstockphotos_493208894-5bfc2b9746e0fb0051bde2b8.jpg"
         }
       ]
     },
@@ -14211,6 +14226,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "tipranks-perfect-10-list-market-093934254.html",
+          "author": null,
+          "description": "Stock picking can boil down to a numbers crunching game, sifting through the ever-shifting data that pours in from the markets as thousands of investors make decisions on thousands of stocks. The permutations are endless. Not every investors has the time or ability to handle this sorting, but the data tools at TipRanks, especially the Smart Score, have already done the necessary collection and collation. The Smart Score algorithm, after gathering the latest information on every stock, sorts it a",
+          "link": "https://finance.yahoo.com/news/tipranks-perfect-10-list-market-093934254.html",
+          "publishedOn": "2023-01-22T09:39:34.000Z",
+          "wordCount": 14701,
+          "title": "TipRanks ‘Perfect 10’ List: In a Market Full of Uncertainty These 2 Stocks Look Attractive",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/33a83d81bf1d6a6ddf907637fb0cd623"
+        },
         {
           "id": "bullish-calls-mount-asian-stocks-010000853.html",
           "author": null,
@@ -14582,6 +14607,16 @@
           "imageUrl": "https://images.barrons.com/im-707287/social"
         },
         {
+          "id": "the-argument-for-bonds-over-stocks-51674268720?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Recent commentary on the markets by money managers, investment strategists, research firms, and newsletter writers.",
+          "link": "https://www.barrons.com/articles/the-argument-for-bonds-over-stocks-51674268720?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-21T02:38:00.000Z",
+          "wordCount": 6544,
+          "title": "The Argument for Bonds Over Stocks",
+          "imageUrl": "https://images.barrons.com/im-665072/social"
+        },
+        {
           "id": "wells-fargo-disney-and-10-other-stocks-value-investors-are-watching-51674266852?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "For some money managers, value investing means wading into controversial situations in which a business is unloved due to past transgressions.",
@@ -14590,6 +14625,16 @@
           "wordCount": 6634,
           "title": "Wells Fargo, Disney, and 10 Other Stocks Value Investors Are Watching Right Now",
           "imageUrl": "https://s.wsj.net/public/resources/images/BP-AA374_DIS201_G_20170510113112.jpg"
+        },
+        {
+          "id": "stock-market-dow-nasdaq-sp500-51674262537?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The Nasdaq keeps gaining, a sign of confidence in economic growth. Bonds are rising, too, portending a possible slowdown.",
+          "link": "https://www.barrons.com/articles/stock-market-dow-nasdaq-sp500-51674262537?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-21T01:58:00.000Z",
+          "wordCount": 6654,
+          "title": "Stocks and Bonds Are Sending Different Messages. One of Them Is Wrong.",
+          "imageUrl": "https://images.barrons.com/im-707654/social"
         },
         {
           "id": "netflix-shares-rise-as-content-drives-strong-subscriber-growth-11674234501?siteid=yhoof2&yptr=yahoo",
@@ -14642,6 +14687,16 @@
           "imageUrl": null
         },
         {
+          "id": "davos-ceo-borgwarner-nasdaq-blackstone-thermofisher-51674259347?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The World Economic Forum isn’t all parties and hobnobbing. There are substantive conversations with big-company CEOs.",
+          "link": "https://www.barrons.com/articles/davos-ceo-borgwarner-nasdaq-blackstone-thermofisher-51674259347?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-21T00:06:00.000Z",
+          "wordCount": 6757,
+          "title": "A Davos First-Timer’s Notes on BorgWarner, Thermo Fisher, Blackstone, and Nasdaq",
+          "imageUrl": "https://images.barrons.com/im-707626/social"
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -14650,6 +14705,26 @@
           "wordCount": null,
           "title": "Stock Market Investing Action Plan: Tesla, Chevron, Microsoft And A Blue Wave Of Earnings",
           "imageUrl": null
+        },
+        {
+          "id": "genesis-crypto-trading-arm-moving-233332894.html",
+          "author": null,
+          "description": "About $125 million was sent to exchanges in the run-up to Genesis’ lending division filing for Chapter 11, and more was moved the next day.",
+          "link": "https://finance.yahoo.com/news/genesis-crypto-trading-arm-moving-233332894.html",
+          "publishedOn": "2023-01-20T23:33:32.000Z",
+          "wordCount": 13717,
+          "title": "Genesis’ Crypto Trading Arm Is Moving Money Around, a Sign of Normalcy Amid Sibling’s Bankruptcy",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/.jKSVeHf_2_mu7SdmgVwdw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/coindesk_75/cbf85fcf7c4ff60218b1bb17d73ea06f"
+        },
+        {
+          "id": "schlumberger-slb-olivier-le-peuch-2023-outlook.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "author": null,
+          "description": "Schlumberger CEO Olivier Le Peuch sees oil and gas activity accelerating in the Middle East and Latin America while slowing down in North America in 2023.",
+          "link": "https://www.bizjournals.com/houston/news/2023/01/20/schlumberger-slb-olivier-le-peuch-2023-outlook.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "publishedOn": "2023-01-20T23:31:24.000Z",
+          "wordCount": 4205,
+          "title": "Schlumberger CEO bullish on oil field service fundamentals despite global recession worries",
+          "imageUrl": "https://media.bizj.us/view/img/11215346/le-peuch-olivier-schlumberger*1200xx500-281-0-108.jpg"
         },
         {
           "id": "arcimoto-closes-12-million-stock-sale.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
@@ -35180,66 +35255,6 @@
           "wordCount": 6534,
           "title": "A Reckoning for Crypto and FTX",
           "imageUrl": "https://images.barrons.com/im-665069/social"
-        },
-        {
-          "id": "mark-cuban-weighs-gold-bitcoin-225517771.html",
-          "author": null,
-          "description": "Billionaire Mark Cuban offered his thoughts on gold and bitcoin in an upcoming podcast episode with Bill Maher, saying they both are both a \"store of value.\"",
-          "link": "https://finance.yahoo.com/news/mark-cuban-weighs-gold-bitcoin-225517771.html",
-          "publishedOn": "2022-12-23T22:55:17.000Z",
-          "wordCount": 13683,
-          "title": "Mark Cuban weighs in on gold and bitcoin, says both 'a store of value'",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/5G0MHuoyfSYUrRtGLmzh_w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_business_text_367/e7edeca30d35bf3013972af61c5abd1b"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/market-rally-not-finished-yet-five-growth-stocks-to-watch-as-tesla-nvidia-tumble/?src=A00220&yptr=yahoo",
-          "publishedOn": "2022-12-23T22:43:32.000Z",
-          "wordCount": null,
-          "title": "Market Rally Not Finished Yet; Five Growth Stocks To Watch As Tesla, Nvidia Tumble",
-          "imageUrl": null
-        },
-        {
-          "id": "worlds-top-10-insurance-companies.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "With Berkshire Hathaway leading the pack, these are the 10 biggest insurance companies by revenue.",
-          "link": "https://www.investopedia.com/articles/personal-finance/010715/worlds-top-10-insurance-companies.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2022-12-23T22:41:57.000Z",
-          "wordCount": 3926,
-          "title": "10 Biggest Insurance Companies",
-          "imageUrl": "https://www.investopedia.com/thmb/pvXYCECC7yLZFGJZD5IKl5YN91E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/thinkstockphotos_493208894-5bfc2b9746e0fb0051bde2b8.jpg"
-        },
-        {
-          "id": "gas-prices-drop-heading-223818755.html",
-          "author": null,
-          "description": "Prices for gas have dipped, but it's not clear for how long. 'The real question is, how will the markets respond after January,' an Auto Club rep said.",
-          "link": "https://finance.yahoo.com/news/gas-prices-drop-heading-223818755.html",
-          "publishedOn": "2022-12-23T22:38:18.000Z",
-          "wordCount": 14030,
-          "title": "Gas prices drop heading into the new year",
-          "imageUrl": "https://media.zenfs.com/en/la_times_articles_853/e34003a624c9a36996001541e46c6b8e"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/research/stock-market-holidays/?src=A00220&yptr=yahoo",
-          "publishedOn": "2022-12-23T22:30:00.000Z",
-          "wordCount": null,
-          "title": "Stock Market Holidays 2022: Wall Street Readies For Christmas Break",
-          "imageUrl": null
-        },
-        {
-          "id": "speculators-slash-bets-against-yen-221801365.html",
-          "author": null,
-          "description": "(Bloomberg) -- The yen looks to be losing its appeal as the currency of choice to fund so-called carry trades, with speculators cutting bearish bets on it to the lowest level in nearly four months in the wake of this week’s shock move by the Bank of Japan.Most Read from BloombergElon Musk Warns Against Margin Debt on Risk of Market ‘Mass Panic’China Estimates Covid Surge Is Infecting 37 Million People a DayPower Outages, Flight Delays as US Storm Leaves Trail of ChaosEastern US Power Grid Orders",
-          "link": "https://finance.yahoo.com/news/speculators-slash-bets-against-yen-221801365.html",
-          "publishedOn": "2022-12-23T22:18:01.000Z",
-          "wordCount": 14367,
-          "title": "Speculators Slash Bets Against the Yen as BOJ Leaves Carry Traders Gasping",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/a8858490b046327b040ede89dccdbbcc"
         }
       ]
     }
