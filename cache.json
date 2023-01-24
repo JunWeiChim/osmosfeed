@@ -468,6 +468,36 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6248248/",
+          "author": "onze economieredactie",
+          "description": "Maker van elektrische zonneauto's Lightyear stopt met de productie van zijn eerste dure model. Het bedrijf laat het bedrijfsonderdeel dat daarvoor verantwoordelijk is failliet gaan. De focus wordt volledig verlegd naar het goedkopere model, dat op grote schaal geproduceerd kan worden, zo laat Lightyear weten.",
+          "link": "https://www.nu.nl/economie/6248248/lightyear-trekt-de-stekker-uit-de-eerste-commerciele-zonneauto.html",
+          "publishedOn": "2023-01-24T08:08:49.000Z",
+          "wordCount": 900,
+          "title": "Lightyear trekt de stekker uit de eerste commerciële zonneauto",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/wojxl1ta02qa_sqr256.jpg/lightyear-trekt-de-stekker-uit-de-eerste-commerciele-zonneauto.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/wojxl1ta02qa_sqr256.jpg/lightyear-trekt-de-stekker-uit-de-eerste-commerciele-zonneauto.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6248247/",
+          "author": "onze economieredactie",
+          "description": "De pensioenen in ons land zijn dit jaar gemiddeld 7,18 procent hoger. Dat heeft het FD uitgezocht. Deze behoorlijke plussen volgen op jaren met geen of marginale stijgingen.",
+          "link": "https://www.nu.nl/economie/6248247/pensioenverhogingen-uit-de-jaren-zeventig-terug-op-tafel.html",
+          "publishedOn": "2023-01-24T07:21:37.000Z",
+          "wordCount": 878,
+          "title": "Pensioenverhogingen uit de jaren zeventig terug op tafel",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/taux7q7ak6bj_sqr256.jpg/pensioenverhogingen-uit-de-jaren-zeventig-terug-op-tafel.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/taux7q7ak6bj_sqr256.jpg/pensioenverhogingen-uit-de-jaren-zeventig-terug-op-tafel.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6248170/",
           "author": "Noémi van de Pol",
           "description": "Nederland voerde afgelopen jaar voor 122,3 miljard euro aan landbouwgoederen uit. Dat is ruim 17 procent meer dan in 2021. Vooral van de Nederlandse melk en eieren kreeg het buitenland geen genoeg.",
@@ -15098,16 +15128,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/OxWQP5e6txLAjjXgB2NRVNqX-uI=/680x440/ira-5bfc3726c9e77c00519d889b.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/pre-tax-and-roth-contributions-5219963",
-          "author": "Andrew Martins",
-          "description": "With tax advantage retirement plans, you either make pretax or after-tax contributions, depending on the type of plan. Learn about the pros and cons.",
-          "link": "https://www.investopedia.com/pre-tax-and-roth-contributions-5219963?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-25T19:58:03.000Z",
-          "wordCount": 4885,
-          "title": "What's the Difference Between Pretax and Roth Contributions?",
-          "imageUrl": "https://www.investopedia.com/thmb/dGiwjM8y86QnPJCBtrFAUxBr498=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/financial-planning-like-a-pro-1277773881-1801a7d54b69450f8b571355d9f8e8bd.jpg"
         }
       ]
     },
@@ -15116,6 +15136,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "microsoft-earning-stock-price-51674510719?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "One of the key questions: How much is the slowing economy affecting Microsoft's Azure cloud business?",
+          "link": "https://www.barrons.com/articles/microsoft-earning-stock-price-51674510719?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-24T06:30:00.000Z",
+          "wordCount": 6537,
+          "title": "Microsoft’s Earnings Are Coming. 2 Major Issues Hang Over Investors.",
+          "imageUrl": "https://images.barrons.com/im-708311/social"
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
@@ -15185,6 +15215,16 @@
           "wordCount": 3736,
           "title": "Tesla Probably Had Weakest Profit and Revenue Gains in Years",
           "imageUrl": "https://www.investopedia.com/thmb/UO4SiFOuAwhWtJhUW-T0_9HMz4U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1024608362-df2679b0bb35465f978b86a23ef67c16.jpg"
+        },
+        {
+          "id": "elon-musk-googles-alphabet-had-standing-interest-in-buying-tesla-01674508383?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Google’s parent Alphabet Inc. had a “standing interest” in buying Tesla Inc. Chief Executive Elon Musk said in court Monday, referring to an earlier...",
+          "link": "https://www.marketwatch.com/story/elon-musk-googles-alphabet-had-standing-interest-in-buying-tesla-01674508383?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-23T21:13:00.000Z",
+          "wordCount": 6507,
+          "title": "Elon Musk: Google’s Alphabet had ‘standing interest’ in buying Tesla",
+          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
         },
         {
           "id": "google-pichai-tells-staff-cuts-185944242.html",
@@ -36795,16 +36835,6 @@
           "wordCount": 7382,
           "title": "Financial well-being declined in 2022 — and consumers aren’t ready for a potential downturn",
           "imageUrl": "https://images.mktw.net/im-691323/social"
-        },
-        {
-          "id": "christmas-stock-market-closing-housing-and-labor-data-and-more-for-investors-to-watch-this-week-51671998440?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The stock market is closed on Monday for Christmas. It will be a quiet week on the earnings front, and we’ll see only a few economic data releases.",
-          "link": "https://www.barrons.com/articles/christmas-stock-market-closing-housing-and-labor-data-and-more-for-investors-to-watch-this-week-51671998440?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-25T20:00:00.000Z",
-          "wordCount": 6494,
-          "title": "Christmas Stock Market Closing, Housing and Labor Data, and More for Investors to Watch This Week",
-          "imageUrl": "https://images.barrons.com/im-635263/social"
         }
       ]
     }
