@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "f60264e227e747bdfb8ade572b6b378a",
+          "author": "Investopedia",
+          "description": "Amazon (AMZN) announced the launch of RxPass, which will provide unlimited access to a roster of generic medicines for a monthly subscription fee.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca876ac6f810ab11368e883db1e17720804a4bcb3c9c75a180473847c9628527d89d1421c7f420b5b8f32ce3e6c37af575b1735ed7",
+          "publishedOn": "2023-01-25T02:37:18.799Z",
+          "wordCount": 412,
+          "title": "Amazon Offers $5 Monthly Prescription Drug Plan",
+          "imageUrl": null
+        },
+        {
           "id": "1370fc9d693c2433ee487d9570a86896",
           "author": "Investopedia",
           "description": "Microsoft's (MSFT) quarterly report released on Jan. 24, 2023, showed progress on cloud revenue, sending shares higher in extended trading.",
@@ -15408,51 +15418,6 @@
           "wordCount": 3611,
           "title": "Cryptocurrencies To Watch: Week of December 26",
           "imageUrl": "https://www.investopedia.com/thmb/-JBjOrO_eobsy-W4OQeOxMVz2CQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Cryptocurrencyovertradingapp-3b7855f531754d128fed81555549a552.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/b/bullmarket.asp",
-          "author": "Adam Hayes",
-          "description": "A bull market is a financial market in which prices are rising or are expected to rise.",
-          "link": "https://www.investopedia.com/terms/b/bullmarket.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-26T13:50:58.000Z",
-          "wordCount": 6717,
-          "title": "What Is a Bull Market, and How Can Investors Benefit From One?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/fgRiavDlo494SDwVjtLxSYH-KYg=/205x136/activetrading15-5bfc2b9ac9e77c00519aa803.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/fgRiavDlo494SDwVjtLxSYH-KYg=/205x136/activetrading15-5bfc2b9ac9e77c00519aa803.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/y/yieldmaintenance.asp",
-          "author": "Julia Kagan",
-          "description": "Yield maintenance is a prepayment premium that allows investors to attain the same yield as if the borrower made all scheduled interest payments.",
-          "link": "https://www.investopedia.com/terms/y/yieldmaintenance.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-26T13:47:45.000Z",
-          "wordCount": 4093,
-          "title": "Yield Maintenance: Definition, Formula, and How It Works",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Cm1SSr6HJMo1KotOE3CR-Gv2q6s=/380x254/200270955-001-5bfc2b8bc9e77c00517fd20f.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Cm1SSr6HJMo1KotOE3CR-Gv2q6s=/380x254/200270955-001-5bfc2b8bc9e77c00517fd20f.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/l/learning-curve.asp",
-          "author": "Julia Kagan",
-          "description": "A learning curve is a mathematical concept that graphically depicts how a process is improved over time due to learning and increased proficiency.",
-          "link": "https://www.investopedia.com/terms/l/learning-curve.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-26T13:27:02.000Z",
-          "wordCount": 5829,
-          "title": "What Is a Learning Curve? Formula, Calculation, and Example",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/6pt6VALavABxSsU9sVpBXT5RMpY=/680x440/147323400-5bfc2b8c4cedfd0026c11901.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/6pt6VALavABxSsU9sVpBXT5RMpY=/680x440/147323400-5bfc2b8c4cedfd0026c11901.jpg"
         }
       ]
     },
@@ -15461,6 +15426,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "microsoft-gave-wall-street-hope-but-then-the-cloud-forecast-turned-dark-11674611597?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Microsoft Corp. sparked a relief rally for the cloud Tuesday, then rained on that parade after less than two hours of joy.",
+          "link": "https://www.marketwatch.com/story/microsoft-gave-wall-street-hope-but-then-the-cloud-forecast-turned-dark-11674611597?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-25T01:53:00.000Z",
+          "wordCount": 5956,
+          "title": "Microsoft gave Wall Street hope, but then the cloud forecast turned dark",
+          "imageUrl": "https://images.mktw.net/im-709706/social"
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
@@ -15490,6 +15465,16 @@
           "wordCount": 5987,
           "title": "Microsoft stock dives into the red after forecast misses, CFO warns about deceleration",
           "imageUrl": "https://images.mktw.net/im-709442/social"
+        },
+        {
+          "id": "at-t-earnings-preview-what-to-expect-11674600969?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "A day after Verizon Communications Inc. posted earnings, AT&T Inc. will share its perspective on the state of the wireless market.",
+          "link": "https://www.marketwatch.com/story/at-t-earnings-preview-what-to-expect-11674600969?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-24T22:56:00.000Z",
+          "wordCount": 5848,
+          "title": "AT&T earnings preview: What to expect",
+          "imageUrl": "https://images.mktw.net/im-645194/social"
         },
         {
           "id": "intuitive-surgical-stock-drops-10-covid-resurgence-hobbles-sales-01674599258?siteid=yhoof2&yptr=yahoo",
@@ -15580,6 +15565,16 @@
           "wordCount": null,
           "title": "Tesla Stock Rebounds In January With Earnings Due",
           "imageUrl": null
+        },
+        {
+          "id": "google-cutting-hundreds-of-bay-area-workers.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "author": null,
+          "description": "Less than a week after Google announced it was slashing 12,000 workers, it laid out just how many would be cut in the Bay Area and statewide.",
+          "link": "https://www.bizjournals.com/sanjose/news/2023/01/24/google-cutting-hundreds-of-bay-area-workers.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "publishedOn": "2023-01-24T20:54:27.000Z",
+          "wordCount": 4342,
+          "title": "Google is cutting 346 workers in the Bay Area, including at the Googleplex",
+          "imageUrl": "https://media.bizj.us/view/img/11827329/tech-hearing-fashion-4-1*1200xx4827-2714-0-329.jpg"
         },
         {
           "id": "microsoft-second-quarter-fiscal-2023-earnings-live-blog?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
@@ -15790,6 +15785,16 @@
           "wordCount": 14233,
           "title": "Jeremy Grantham Warns of a 17% Plunge in the S&P 500 This Year",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/h9KbWXCtMotwWS.2ffDcOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MTc-/https://media.zenfs.com/en/bloomberg_markets_842/1e704ffc7e467d86607bc0347dc3e0a5"
+        },
+        {
+          "id": "how-a-money-drain-in-2023-could-upset-the-banks-again-and-cause-another-market-meltdown-investor-warns-11674560661?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Our call of the day from Thomas Kee Jr. says investors need to start paying attention to liquidity in the financial system, or a big lack thereof that could...",
+          "link": "https://www.marketwatch.com/story/how-a-money-drain-in-2023-could-upset-the-banks-again-and-cause-another-market-meltdown-investor-warns-11674560661?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-24T14:54:00.000Z",
+          "wordCount": 6053,
+          "title": "If the stock market crashes in 2023 it will be the fault of the Fed and U.S. banks. Here’s what could go wrong.",
+          "imageUrl": "https://images.mktw.net/im-671849/social"
         },
         {
           "id": "microsoft-earnings-tech-giant-to-report-q2-earnings-amid-declining-pc-sales-cloud-growth-143300569.html",
@@ -37460,46 +37465,6 @@
           "wordCount": 6915,
           "title": "Etsy Looks Crafted to Last",
           "imageUrl": "https://images.wsj.net/im-692009/social"
-        },
-        {
-          "id": "retire-30-step-step-plan-190025041.html",
-          "author": null,
-          "description": "For many Americans, the prospect of retiring at or near 30 is a thrilling idea. Although it is possible to do, it takes a monumental amount of work and planning to accomplish. According to a 2021 PWC report and data from … Continue reading → The post How to Retire at 30: Step-by-Step Plan appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/retire-30-step-step-plan-190025041.html",
-          "publishedOn": "2022-12-26T14:00:25.000Z",
-          "wordCount": 14761,
-          "title": "How to Retire at 30: Step-by-Step Plan",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/891e2d721ff3733b5aa2bbe29d68ccbf"
-        },
-        {
-          "id": "401-k-worth-181247337.html",
-          "author": null,
-          "description": "Until the 1980s, most of America used pensions to plan for retirement. These defined-benefit plans offered by employers saved a fund on behalf of their workers and calculated each employee's retirement benefits individually. This put all the responsibility and associated risks … Continue reading → The post Is a 401(k) Worth It? appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/401-k-worth-181247337.html",
-          "publishedOn": "2022-12-26T14:00:07.000Z",
-          "wordCount": 15991,
-          "title": "Is a 401(k) Worth It Anymore?",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/a69339e1a695d73152c9a2375827cf5e"
-        },
-        {
-          "id": "bain-co-identifies-young-affluent-162348551.html",
-          "author": null,
-          "description": "As young investors grow their wealth, financial services firms gain a once-in-a-generation opportunity to score new business, according to a brief from management consulting firm Bain & Company. Wealth management is an important path through which to connect to this … Continue reading → The post Bain & Co. Identifies What Young, Affluent Clients Want From Advisors appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/bain-co-identifies-young-affluent-162348551.html",
-          "publishedOn": "2022-12-26T14:00:00.000Z",
-          "wordCount": 14170,
-          "title": "Bain & Co Say Young, Affluent Clients Want This From Advisors",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/635541f16cf6a0f58eb6fbde64885a72"
-        },
-        {
-          "id": "bad-crypto-even-worse-guys-131500463.html",
-          "author": null,
-          "description": "Some of the industry’s biggest names fell from historic highs historically quickly.",
-          "link": "https://finance.yahoo.com/news/bad-crypto-even-worse-guys-131500463.html",
-          "publishedOn": "2022-12-26T13:15:00.000Z",
-          "wordCount": 14230,
-          "title": "It was a bad year for crypto. It was even worse for these guys",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/8s0UlbX.CK_bzEdgvG7xjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/530542ade69cd6cac8cda9cf42923730"
         }
       ]
     }
