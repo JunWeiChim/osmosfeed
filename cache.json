@@ -538,6 +538,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6248472/",
+          "author": "onze techredactie",
+          "description": "Het cybercrimeteam van de Amsterdamse politie heeft een 25-jarige man uit Almere aangehouden. De man wordt ervan verdacht persoonlijke gegevens van tientallen miljoenen mensen van over de hele wereld te hebben gestolen.",
+          "link": "https://www.nu.nl/tech/6248472/almeerder-opgepakt-vanwege-handel-in-gegevens-tientallen-miljoenen-mensen.html",
+          "publishedOn": "2023-01-25T14:47:57.000Z",
+          "wordCount": 865,
+          "title": "Almeerder opgepakt vanwege handel in gegevens tientallen miljoenen mensen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/nt9xbyuanu21_sqr256.jpg/almeerder-opgepakt-vanwege-handel-in-gegevens-tientallen-miljoenen-mensen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/nt9xbyuanu21_sqr256.jpg/almeerder-opgepakt-vanwege-handel-in-gegevens-tientallen-miljoenen-mensen.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6248460/",
           "author": "onze economieredactie",
           "description": "Zo'n driehonderd vluchten van en naar de luchthaven Berlin Brandenburg zijn woensdag geannuleerd vanwege een staking. Beveiligers en grondpersoneel hebben het werk neergelegd omdat ze een hoger loon eisen.",
@@ -6169,6 +6184,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp",
+          "author": "Jake Frankenfield",
+          "description": "A robo-advisor is a type of automated financial advisor that provides algorithm-driven wealth management services with little to no human intervention. Here’s how it works.",
+          "link": "https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-25T14:45:13.000Z",
+          "wordCount": 6112,
+          "title": "Robo-Advisor",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/NC_yuYZym1e1Z7685DjfNU9CL0s=/2121x1414/GettyImages-1045571806-7be7d6e45a16448882139f55f7f78ad6.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/NC_yuYZym1e1Z7685DjfNU9CL0s=/2121x1414/GettyImages-1045571806-7be7d6e45a16448882139f55f7f78ad6.jpg"
+        },
         {
           "id": "https://www.investopedia.com/ask/answers/032515/what-difference-between-real-and-nominal-interest-rates.asp",
           "author": "Steven Nickolas",
@@ -15552,6 +15582,86 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "who-makes-m1-abrams-tanks-ukraine-general-dynamics-51674656323?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The Biden administration is poised to send a significant number of Abrams M1 tanks to Ukraine, according to the Wall Street Journal.",
+          "link": "https://www.barrons.com/articles/who-makes-m1-abrams-tanks-ukraine-general-dynamics-51674656323?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-25T15:00:00.000Z",
+          "wordCount": 6897,
+          "title": "The U.S. Is Expected to Send Tanks to Ukraine. Here’s Who Makes Them.",
+          "imageUrl": "https://images.barrons.com/im-709849/social"
+        },
+        {
+          "id": "tesla-q4-earnings-143918843.html",
+          "author": null,
+          "description": "It seems it is said every quarter, but Wednesday’s Tesla Q4 earnings report after the bell will be a big one. Especially considering Tesla shares are hovering near 2-year lows.",
+          "link": "https://finance.yahoo.com/news/tesla-q4-earnings-143918843.html",
+          "publishedOn": "2023-01-25T14:39:18.000Z",
+          "wordCount": 13940,
+          "title": "Tesla Q4 earnings preview: Big report on deck with stock at 2-year lows",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/39g552s.ZHgvzaSlrl5f1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTA-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/61a748d0-601b-11ed-adeb-575ede6321f6"
+        },
+        {
+          "id": "fisker-lucid-rivian-tesla-stock-price-buy-sell-51674651147?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Morgan Stanley analyst Adam Jonas has cut price targets for stocks in electric-vehicle makers.",
+          "link": "https://www.barrons.com/articles/fisker-lucid-rivian-tesla-stock-price-buy-sell-51674651147?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-25T14:19:00.000Z",
+          "wordCount": 6668,
+          "title": "An EV Upheaval Looms. Analyst Says to Sell These 2 Stocks and Buy Rivian and Tesla.",
+          "imageUrl": "https://images.barrons.com/im-550274/social"
+        },
+        {
+          "id": "cloud-amazon-microsoft-salesforce-stock-price-51674646111?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Microsoft projected growth in its cloud computing business shy of Wall Street's estimates. That's weighing on Amazon, Salesforce, Snowflake, and others.",
+          "link": "https://www.barrons.com/articles/cloud-amazon-microsoft-salesforce-stock-price-51674646111?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-25T14:15:00.000Z",
+          "wordCount": 6629,
+          "title": "Microsoft’s Earnings Warning Is Hitting Amazon and Other Cloud Stocks",
+          "imageUrl": "https://images.barrons.com/im-470770/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/freeport-mcmoran-earnings-beat-fcx-stock-dips-on-copper-prices-outlook/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-01-25T14:12:24.000Z",
+          "wordCount": null,
+          "title": "Freeport-McMoRan Earnings Beat; FCX Stock Dips On Copper Prices, Outlook",
+          "imageUrl": null
+        },
+        {
+          "id": "asml-earnings-stock-price-51674636628?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The maker of the world's most advanced semiconductor manufacturing equipment expects a more than 25% rise in net sales in 2023.",
+          "link": "https://www.barrons.com/articles/asml-earnings-stock-price-51674636628?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-25T14:09:00.000Z",
+          "wordCount": 6639,
+          "title": "ASML Profit Tops Expectations. It Sees a Chip Market Rebound.",
+          "imageUrl": "https://images.barrons.com/im-207753/social"
+        },
+        {
+          "id": "enough-retirement-income-live-comfortably-130022302.html",
+          "author": null,
+          "description": "Saving for retirement is perhaps the most major financial goal every American has. But once you retire, you'll need an adequate income to replace what you were making pre-retirement. As you might imagine, this number will vary from person to … Continue reading → The post What Is a Good Retirement Income? appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/enough-retirement-income-live-comfortably-130022302.html",
+          "publishedOn": "2023-01-25T14:00:29.000Z",
+          "wordCount": 15027,
+          "title": "How Much Retirement Income Do I Need to Live Comfortably?",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/4d9cd26d9f9310bab069cb1136340824"
+        },
+        {
+          "id": "treasury-bills-vs-bonds-best-140027182.html",
+          "author": null,
+          "description": "Fixed-income securities play an important role within individual investment portfolios and the economy at large. But like other securities, fixed-income instruments come in a myriad of variations, from short-term Treasury bills that only pay interest when the bill matures, to … Continue reading → The post Treasury Bills vs. Bonds: What's the Difference? appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/treasury-bills-vs-bonds-best-140027182.html",
+          "publishedOn": "2023-01-25T14:00:27.000Z",
+          "wordCount": 14549,
+          "title": "Treasury Bills vs. Bonds: Which Is Best For Me in 2023?",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/58efbc97cf6341f3f9ce7ddcb232bd39"
+        },
+        {
           "id": "us-short-seller-takes-asia-120057556.html",
           "author": null,
           "description": "(Bloomberg) -- US short seller Hindenburg Research LLC is targeting Asia’s richest man with accusations of market manipulation and fraud after a run of often-successful bets against companies ranging from electric-vehicle maker Nikola Corp. to Twitter Inc.Most Read from BloombergHindenburg’s Short Sell Call Shaves $12 Billion Off Adani StocksUS Confronts China Over Companies’ Ties to Russia War EffortUS and Germany Set to Send Tanks to Ukraine, Breaking DeadlockChina Slams US on Debt Limit and A",
@@ -15640,6 +15750,16 @@
           "wordCount": 5804,
           "title": "Kleenex maker Kimberly-Clark stock falls after profit tops expectations but sales come up shy",
           "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
+        {
+          "id": "canoo-gains-distribution-agreement-gcc-124054648.html",
+          "author": null,
+          "description": "Canoo Inc (NASDAQ: GOEV) has signed an exclusive agreement with GCC Olayan, a subsidiary of Olayan Saudi Holding Company (OSHCO). The agreement is for sale, service, and distribution of Canoo fleet solutions in Saudi Arabia. The first phase of the agreement is for the sale, distribution, service maintenance, and repair of Canoo vehicles. Canoo and GCC Olayan will also work to develop a joint venture to launch a digital vehicle ecosystem for service maintenance repair, local assembly, and manufac",
+          "link": "https://finance.yahoo.com/news/canoo-gains-distribution-agreement-gcc-124054648.html",
+          "publishedOn": "2023-01-25T12:40:54.000Z",
+          "wordCount": 13369,
+          "title": "Canoo Gains On Distribution Agreement With GCC Olayan In Saudi Arabia",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/525a683e97d80ea7550dc4fb09d20cc8"
         },
         {
           "id": "boeing-stock-slumps-on-surprise-q4-loss-cash-flow-turns-positive?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
@@ -16120,6 +16240,16 @@
           "wordCount": 3595,
           "title": "Microsoft Second-Quarter Earnings Live Blog",
           "imageUrl": "https://www.thestreet.com/.image/t_share/MTkzMTE3MTYzMzI0NzEyNTAx/microsoft_office_1_kl_101822.jpg"
+        },
+        {
+          "id": "american-southwest-airlines-fourth-quarter-preview.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "author": null,
+          "description": "American Airlines comes in with momentum while Southwest Airlines executives will have some explaining to do after a holiday operations meltdown.",
+          "link": "https://www.bizjournals.com/dallas/news/2023/01/24/american-southwest-airlines-fourth-quarter-preview.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "publishedOn": "2023-01-24T20:37:13.000Z",
+          "wordCount": 4499,
+          "title": "What to expect when American, Southwest report 4Q earnings",
+          "imageUrl": "https://media.bizj.us/view/img/11629718/american-airlines-pilot*1200xx5184-2916-0-270.jpg"
         },
         {
           "id": "raytheon-earnings-reconfiguring-business-segments.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
@@ -37860,36 +37990,6 @@
           "wordCount": 6593,
           "title": "This Giant Oil ETF Is Seeing Phenomenal Returns. Why It’s Far Outpacing the Price of Oil.",
           "imageUrl": "https://images.barrons.com/im-689576/social"
-        },
-        {
-          "id": "eur-usd-2023-outlook-euros-025927005.html",
-          "author": null,
-          "description": "By David Wagner",
-          "link": "https://finance.yahoo.com/news/eur-usd-2023-outlook-euros-025927005.html",
-          "publishedOn": "2022-12-27T02:59:27.000Z",
-          "wordCount": 14434,
-          "title": "EUR/USD 2023 Outlook: The Euro's reversal vs. a return to parity",
-          "imageUrl": "https://media.zenfs.com/en/investing_com_631/a509d83690a24e2fc1f5456a3a0efe2e"
-        },
-        {
-          "id": "u-s-stock-futures-rise-ahead-of-last-trading-week-of-2022-11672109677?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Friday marked the start of the so-called Santa Claus rally period — the final five trading days of the calendar year and the first two trading days of the...",
-          "link": "https://www.marketwatch.com/story/u-s-stock-futures-rise-ahead-of-last-trading-week-of-2022-11672109677?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-27T02:54:00.000Z",
-          "wordCount": 6968,
-          "title": "U.S. stock futures rise ahead of last trading week of 2022",
-          "imageUrl": "https://images.mktw.net/im-692646/social"
-        },
-        {
-          "id": "gold-rises-china-covid-shift-022327718.html",
-          "author": null,
-          "description": "(Bloomberg) -- Gold rose — trading above $1,800 an ounce — as China swept away more of its Covid-19 controls, piling pressure on the dollar as risk assets gained.Most Read from BloombergChina Reopens Borders to World In Removing Last Covid Zero CurbsIran Compels Jet to Land, Removes Family of Football Icon Ali DaeiSouthwest Storm Chaos to Continue as Flight Schedules SlashedSouth Korea Sends Drones to Kim Jong Un’s Airspace in Unprecedented MoveWorld Economy Is Headed for a Recession in 2023, Re",
-          "link": "https://finance.yahoo.com/news/gold-rises-china-covid-shift-022327718.html",
-          "publishedOn": "2022-12-27T02:23:27.000Z",
-          "wordCount": 13828,
-          "title": "Gold Rises on China’s Covid Shift, Signs of Cooler US Inflation",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/paO7y4HmYBU2lKKMJFYkgg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzM-/https://media.zenfs.com/en/bloomberg_markets_842/438bbc44ba6e8f0094e487041d932972"
         }
       ]
     }
