@@ -538,6 +538,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6248406/",
+          "author": "onze techredactie",
+          "description": "De storing in de online dienst Microsoft 365 is woensdagmiddag verholpen. Door de storing waren de online versies van bijvoorbeeld tekstverwerker Word, e-mailprogramma Outlook en Teams niet of moeilijk bereikbaar.",
+          "link": "https://www.nu.nl/tech/6248406/storing-in-clouddienst-microsoft-365-verholpen.html",
+          "publishedOn": "2023-01-25T13:09:13.000Z",
+          "wordCount": 705,
+          "title": "Storing in clouddienst Microsoft 365 verholpen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/96ex5yzaequ7_sqr256.jpg/storing-in-clouddienst-microsoft-365-verholpen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/96ex5yzaequ7_sqr256.jpg/storing-in-clouddienst-microsoft-365-verholpen.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6248436/",
           "author": "Eva Schouten",
           "description": "Als de Verenigde Staten hun zin krijgen en de exportbeperkingen voor chipmachines verder worden uitgebreid, kan dat weleens ongewilde consequenties hebben. Dat zegt ASML-topman Peter Wennink tegen NU.nl in een toelichting op de jaarcijfers van het concern uit Veldhoven.",
@@ -15522,6 +15537,66 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "boeing-earnings-stock-weak-following-surprise-loss-revenue-miss-125329025.html",
+          "author": null,
+          "description": "Boeing shares are trading weaker in the pre-market as the aerospace and defense company reported a fourth quarter revenue miss, and surprise EPS loss.",
+          "link": "https://finance.yahoo.com/news/boeing-earnings-stock-weak-following-surprise-loss-revenue-miss-125329025.html",
+          "publishedOn": "2023-01-25T12:53:29.000Z",
+          "wordCount": 13888,
+          "title": "Boeing earnings: Stock weak following surprise loss, revenue miss",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/SNISle6h4kvHS5C6bqnyPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDk-/https://s.yimg.com/os/creatr-uploaded-images/2021-07/30e06360-e39b-11eb-8fdf-78a19746e6ee"
+        },
+        {
+          "id": "abbott-beats-earnings-revenue-expectations-in-q4-01674650786?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Abbott Laboratories had better-than-expected earnings and revenue in the fourth quarter of 2022, though headwinds from its baby formula business and...",
+          "link": "https://www.marketwatch.com/story/abbott-beats-earnings-revenue-expectations-in-q4-01674650786?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-25T12:46:00.000Z",
+          "wordCount": 5763,
+          "title": "Abbott beats earnings, revenue expectations in Q4",
+          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
+        {
+          "id": "kleenex-maker-kimberly-clark-stock-falls-after-profit-tops-expectations-but-sales-come-up-shy-01674650752?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shares of Kimberly-Clark Corp. fell 3.8% toward a two-month low in premarket trading Wednesday, after the consumer products company, with brands including...",
+          "link": "https://www.marketwatch.com/story/kleenex-maker-kimberly-clark-stock-falls-after-profit-tops-expectations-but-sales-come-up-shy-01674650752?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-25T12:45:00.000Z",
+          "wordCount": 5804,
+          "title": "Kleenex maker Kimberly-Clark stock falls after profit tops expectations but sales come up shy",
+          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
+        {
+          "id": "boeing-stock-slumps-on-surprise-q4-loss-cash-flow-turns-positive?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "\"Demand across our portfolio is strong, and we remain focused on driving stability in our operations and within the supply chain to meet our commitments in 2023 and beyond,\" said CEO Dave Calhoun.",
+          "link": "https://www.thestreet.com/markets/boeing-stock-slumps-on-surprise-q4-loss-cash-flow-turns-positive?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-01-25T12:40:00.000Z",
+          "wordCount": 3364,
+          "title": "Boeing Stock Slumps On Surprise Q4 Loss, But Free Cash Flow Turns Positive",
+          "imageUrl": "https://www.thestreet.com/.image/t_share/MTcxMjI3OTcyMDIyMzE0OTkw/boeing.png"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/t-stock-att-earnings-q4-2022/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-01-25T12:23:44.000Z",
+          "wordCount": null,
+          "title": "AT&T Earnings, Full-Year Free Cash Flow Top Estimates",
+          "imageUrl": null
+        },
+        {
+          "id": "tesla-earnings-preview-margins-in-focus-as-musk-bets-on-price-cuts?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "\"The upcoming call and guidance commentary (will be) one of the most important moments in the history of Tesla and for Elon Musk himself,\" said Wedbush analyst Dan Ives.",
+          "link": "https://www.thestreet.com/markets/tesla-earnings-preview-margins-in-focus-as-musk-bets-on-price-cuts?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-01-25T12:11:00.000Z",
+          "wordCount": 3695,
+          "title": "Tesla Earnings Preview: Margins In Focus As Musk Bets Price Cuts Will Stoke Demand",
+          "imageUrl": "https://www.thestreet.com/.image/t_share/MTcwMTA5NDg3Mzc2NTA4NzI4/tesla.jpg"
+        },
+        {
           "id": "att-t-q4-earnings-report-2022-11674647723?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "AT&T added subscribers for its core wireless business but recorded a large fourth-quarter loss after it booked a $25 billion accounting charge tied to its legacy landline infrastructure.",
@@ -15530,6 +15605,26 @@
           "wordCount": 6684,
           "title": "AT&T Adds Wireless Customers, Plans to Keep Spending Big on 5G",
           "imageUrl": "https://images.wsj.net/im-706276/social"
+        },
+        {
+          "id": "intel-stocks-dividend-sticks-out-among-chip-makers-but-a-cut-may-be-coming-11674648495?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The company's free cash flow isn't expected to support its current dividend payout",
+          "link": "https://www.marketwatch.com/story/intel-stocks-dividend-sticks-out-among-chip-makers-but-a-cut-may-be-coming-11674648495?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-25T12:08:00.000Z",
+          "wordCount": 6062,
+          "title": "Intel stock’s dividend sticks out among chip makers. But a cut may be coming.",
+          "imageUrl": "https://images.mktw.net/im-709546/social"
+        },
+        {
+          "id": "bofa-warns-us-economy-start-170000414.html",
+          "author": null,
+          "description": "Things might look fine now. BofA says not for long.",
+          "link": "https://finance.yahoo.com/news/bofa-warns-us-economy-start-170000414.html",
+          "publishedOn": "2023-01-25T12:00:00.000Z",
+          "wordCount": 14479,
+          "title": "BofA warns that the US economy will begin to lose 175,000 jobs per month during Q1 of 2023, expects a ‘harder landing’ rather than a softer one — here’s why",
+          "imageUrl": "https://media.zenfs.com/en/moneywise_327/0911bbfac70be3e89d930ebbeccdf626"
         },
         {
           "id": "at-t-stock-moves-higher-after-earnings-as-subscriber-growth-story-continues-11674647718?siteid=yhoof2&yptr=yahoo",
@@ -15580,6 +15675,16 @@
           "wordCount": 6602,
           "title": "AT&T Throws Off Cash as Earnings Top Expectations",
           "imageUrl": "https://images.barrons.com/im-345781/social"
+        },
+        {
+          "id": "amazon-stock-microsoft-cloud-51674646111?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Microsoft projected growth in its cloud computing business shy of Wall Street's estimates. That's weighing on Amazon, Salesforce, Snowflake, and others.",
+          "link": "https://www.barrons.com/articles/amazon-stock-microsoft-cloud-51674646111?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-25T11:29:00.000Z",
+          "wordCount": 6650,
+          "title": "Amazon Stock Falls. Microsoft’s Gloomy Outlook Is Bad News for Cloud Computing Stocks.",
+          "imageUrl": "https://images.barrons.com/im-470770/social"
         },
         {
           "id": "one-clear-theme-dominated-microsofts-earnings-call-112431929.html",
@@ -15930,6 +16035,16 @@
           "wordCount": 3595,
           "title": "Microsoft Second-Quarter Earnings Live Blog",
           "imageUrl": "https://www.thestreet.com/.image/t_share/MTkzMTE3MTYzMzI0NzEyNTAx/microsoft_office_1_kl_101822.jpg"
+        },
+        {
+          "id": "raytheon-earnings-reconfiguring-business-segments.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "author": null,
+          "description": "The Arlington defense contractor says the restructuring is to better align its business with customer needs.",
+          "link": "https://www.bizjournals.com/washington/news/2023/01/24/raytheon-earnings-reconfiguring-business-segments.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "publishedOn": "2023-01-24T20:23:34.000Z",
+          "wordCount": 4318,
+          "title": "Raytheon Technologies is reorganizing its four business units into three",
+          "imageUrl": "https://media.bizj.us/view/img/12292554/dsc06451*1200xx5790-3257-0-302.jpg"
         },
         {
           "id": "cathie-wood-ark-exact-sciences?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
@@ -37700,26 +37815,6 @@
           "wordCount": 13631,
           "title": "Markets: Bitcoin, Ether rise; XRP leads gains",
           "imageUrl": "https://media.zenfs.com/en/forkast_news_articles_672/5b7c0a743f474bbabe0471392adb45f6"
-        },
-        {
-          "id": "caroline-ellison-knew-wrong-implicates-011350730.html",
-          "author": null,
-          "description": "Misleading financial statements hid just how entangled Alameda and FTX finances were.",
-          "link": "https://finance.yahoo.com/news/caroline-ellison-knew-wrong-implicates-011350730.html",
-          "publishedOn": "2022-12-27T01:13:50.000Z",
-          "wordCount": 14052,
-          "title": "Caroline Ellison 'Knew That It Was Wrong,' Implicates Sam Bankman Fried",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/nIFjECjy95R445LLLD7XnQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_media_980/afdbeba303f8ac82034b4aefc19a1d43"
-        },
-        {
-          "id": "investors-look-inflation-path-china-223325086.html",
-          "author": null,
-          "description": "(Bloomberg) -- Equities and crude oil climbed Tuesday while the dollar declined amid positive sentiment from China’s rollback of Covid isolation measures and the cooling of a key inflation measure in the US.Most Read from BloombergIran Compels Jet to Land, Removes Family of Football Icon Ali DaeiChina to End Quarantines for Inbound Travelers as ‘Covid Zero’ DismantledWorld Economy Is Headed for a Recession in 2023, Researcher SaysStocks Rise, Currencies Mixed in Cautious Trading: Markets WrapElo",
-          "link": "https://finance.yahoo.com/news/investors-look-inflation-path-china-223325086.html",
-          "publishedOn": "2022-12-27T00:27:30.000Z",
-          "wordCount": 14055,
-          "title": "Equities Rise, Dollar Falls Amid China Covid Shift: Markets Wrap",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/EjZCQt5jDS4lgvBzUPaJdw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/d8854fc965099ba47f8ab15fae243356"
         }
       ]
     }
