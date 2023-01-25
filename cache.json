@@ -538,6 +538,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6248433/",
+          "author": "onze economieredactie",
+          "description": "Vorig jaar is wereldwijd minder cognac gedronken dan in 2021. Toch was 2022 het op twee na beste jaar voor de cognacindustrie. Ondanks de daling van de verkopen ging de omzet van de bekende dranksoort juist omhoog.",
+          "link": "https://www.nu.nl/economie/6248433/we-dronken-vorig-jaar-minder-cognac-toch-hadden-verkopers-weinig-te-klagen.html",
+          "publishedOn": "2023-01-25T11:05:28.000Z",
+          "wordCount": 880,
+          "title": "We dronken vorig jaar minder cognac, toch hadden verkopers weinig te klagen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/p17xikeayzui_sqr256.jpg/we-dronken-vorig-jaar-minder-cognac-toch-hadden-verkopers-weinig-te-klagen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/p17xikeayzui_sqr256.jpg/we-dronken-vorig-jaar-minder-cognac-toch-hadden-verkopers-weinig-te-klagen.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6248403/",
           "author": "onze economieredactie",
           "description": "Microsoft heeft in de laatste drie maanden van vorig jaar een lagere omzet geboekt dan verwacht. Toch sloot de techgigant 2022 goed af, doordat het concern in het laatste kwartaal weer goede zaken deed met zijn cloudactiviteiten. Ondanks de lastige economische omstandigheden steeg de omzet van cloudplatform Azure met 38 procent ten opzichte van een jaar eerder.",
@@ -15453,21 +15468,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/vPZ-T0MDllxnfwZvzRnHwA5sKVw=/380x254/aa014176-5bfc2b8bc9e77c002630643b.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/why-roth-iras-make-sense-for-millennials-4770748",
-          "author": "Jean Folger",
-          "description": "Millennials can take advantage of decades of tax-free earnings, and then tax-free withdrawals during retirement, with a Roth IRA.",
-          "link": "https://www.investopedia.com/why-roth-iras-make-sense-for-millennials-4770748?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-26T22:21:15.000Z",
-          "wordCount": 6400,
-          "title": "Why Roth IRAs Make Sense for Millennials",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/mLJxAxFdHJXqJ11hoApXplLWmPo=/1920x640/millennials-in-front-brick-wall-on-phones-1-56e215a15f9b5854a9f8a29a.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/mLJxAxFdHJXqJ11hoApXplLWmPo=/1920x640/millennials-in-front-brick-wall-on-phones-1-56e215a15f9b5854a9f8a29a.jpg"
         }
       ]
     },
@@ -15477,6 +15477,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "tesla-tsla-q4-earnings-report-2022-11674617368?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Elon Musk’s electric-car maker is facing challenges, including higher interest rates and stronger competition.",
+          "link": "https://www.wsj.com/articles/tesla-tsla-q4-earnings-report-2022-11674617368?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-25T10:30:00.000Z",
+          "wordCount": 7014,
+          "title": "Tesla Poised for Record Quarterly Earnings Amid Wall Street Unease",
+          "imageUrl": "https://images.wsj.net/im-701524/social"
+        },
+        {
+          "id": "stocks-move-lower-microsoft-tesla-boeing-fox-5-things-to-know?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "Stock futures lower as U.S. earnings underwhelm; Microsoft slumps as cloud outlook offsets Q2 earnings beat; Tesla earnings on deck with price cuts, margins in focus; Boeing set to return to profit as orders build, China re-opens and Rupert Murdoch pulls plug on Fox-news Corp merger.",
+          "link": "https://www.thestreet.com/markets/stocks-move-lower-microsoft-tesla-boeing-fox-5-things-to-know?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-01-25T10:02:00.000Z",
+          "wordCount": 5790,
+          "title": "Stocks Move Lower, Microsoft, Tesla, Boeing, Fox In Focus - Five Things To Know",
+          "imageUrl": "https://www.thestreet.com/.image/t_share/MTcxMzQxNTk2NzI0MzA3NjM1/wall-street_17.jpg"
+        },
+        {
           "id": "chip-asml-stock-earnings-51674636628?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "The maker of the world's most advanced semiconductor manufacturing equipment expects a more than 25% rise in net sales in 2023.",
@@ -15485,6 +15505,16 @@
           "wordCount": 6641,
           "title": "ASML Profit Tops Expectations. It Sees a Chip Market Rebound.",
           "imageUrl": "https://images.barrons.com/im-207753/social"
+        },
+        {
+          "id": "asian-stocks-stumble-tech-damps-004428261.html",
+          "author": null,
+          "description": "(Bloomberg) -- Equity markets slipped on Wednesday after tech giant Microsoft Corp. and a slew of other major firms forecast slowing earnings, while lackluster US business activity data reminded investors of the likelihood of recession in the world’s biggest economy.Most Read from BloombergUS Confronts China Over Companies’ Ties to Russia War EffortHindenburg Targets Asia’s Richest Man, Triggering Adani SelloffUS and Germany Set to Send Tanks to Ukraine, Breaking DeadlockChina Slams US on Debt L",
+          "link": "https://finance.yahoo.com/news/asian-stocks-stumble-tech-damps-004428261.html",
+          "publishedOn": "2023-01-25T09:05:56.000Z",
+          "wordCount": 14159,
+          "title": "Shares Fall, Microsoft Signals Darker Tech Outlook: Markets Wrap",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/TJHtnvx9n.Z_Lk9foP6blw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bloomberg_markets_842/58977d0c30e31d540e05588908a1fc91"
         },
         {
           "id": "asml-2022-net-pft-eur5-6b-271674627935?siteid=yhoof2&yptr=yahoo",
@@ -15655,6 +15685,16 @@
           "wordCount": 13681,
           "title": "Stocks moving after hours: Microsoft, Texas Instruments, Capital One, Fox",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/PsA08xnHzyQA3vkpDeTXUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMzUw/https://s.yimg.com/os/creatr-uploaded-images/2023-01/8f9aa550-9beb-11ed-befe-e71843206434"
+        },
+        {
+          "id": "j-j-gets-ready-to-break-up-with-tylenol-11674586145?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Johnson & Johnson’s consumer business was the only division to deliver growth in the fourth quarter.",
+          "link": "https://www.wsj.com/articles/j-j-gets-ready-to-break-up-with-tylenol-11674586145?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-24T22:06:00.000Z",
+          "wordCount": 6839,
+          "title": "J&J Gets Ready to Break Up With Tylenol",
+          "imageUrl": "https://images.wsj.net/im-709122/social"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
