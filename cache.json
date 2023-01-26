@@ -558,6 +558,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6248552/",
+          "author": "onze economieredactie",
+          "description": "Wie dit jaar op zoek gaat naar een nieuwbouwwoning, heeft minder huizen om uit te kiezen dan een jaar eerder. De gestegen kosten voor bouwmaterialen en hogere rentes zorgen voor een rem op de bouw. Daarnaast kregen bouwers eind 2022 te maken met een stikstoftegenvaller, die waarschijnlijk ook tot minder nieuwbouw leidt.",
+          "link": "https://www.nu.nl/economie/6248552/bouw-kan-dit-jaar-minder-nieuwe-huizen-opleveren-dan-vorig-jaar.html",
+          "publishedOn": "2023-01-26T07:09:21.000Z",
+          "wordCount": 1175,
+          "title": "Bouw kan dit jaar minder nieuwe huizen opleveren dan vorig jaar",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/5n3xw38aj9r8_sqr256.jpg/bouw-kan-dit-jaar-minder-nieuwe-huizen-opleveren-dan-vorig-jaar.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/5n3xw38aj9r8_sqr256.jpg/bouw-kan-dit-jaar-minder-nieuwe-huizen-opleveren-dan-vorig-jaar.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6248499/",
           "author": "Ertan Basekin",
           "description": "Steeds meer middeninkomens, ouderen en jongeren komen in de financiële problemen door de hoge energierekening en duurdere boodschappen. Sommige gedupeerden raken door hun spaargeld heen en hebben zelfs geen geld meer om eten en drinken te kopen. Dat zegt manager Frederieke Kokol van Geldfit, een initiatief van de Nederlandse Schuldhulproute.",
@@ -6091,21 +6106,6 @@
             "url": "https://media.nu.nl/m/vrmxicnaecg4_sqr256.jpg/basisbeurs-komt-terug-maar-studenten-rekenen-zich-nog-niet-rijk-in-2023.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/vrmxicnaecg4_sqr256.jpg/basisbeurs-komt-terug-maar-studenten-rekenen-zich-nog-niet-rijk-in-2023.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6244404/",
-          "author": "Peter Olsthoorn",
-          "description": "Hoeveel je kunt verdienen in je vak, hangt in Nederland voor een groot deel af van je sector of branche, en mate van ondernemerschap. Maar hoe hoog liggen de lonen voor verschillende beroepen precies? Deze week nemen we het salaris van dierenartsen onder de loep.",
-          "link": "https://www.nu.nl/werk/6244404/dit-verdient-een-dierenarts.html",
-          "publishedOn": "2022-12-27T18:28:15.000Z",
-          "wordCount": 1775,
-          "title": "Dit verdient een dierenarts",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/b4ex965az2zs_sqr256.jpg/dit-verdient-een-dierenarts.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/b4ex965az2zs_sqr256.jpg/dit-verdient-een-dierenarts.jpg"
         }
       ]
     },
@@ -15743,16 +15743,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/QIDn7YKkr_FfzVyZsswUZsoOrjs=/205x136/investing15-5bfc2b8fc9e77c00519aa65b.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-december-27-2022-rates-move-higher-7089676",
-          "author": "Sabrina Karl",
-          "description": "Mortgage rates climbed for a second day, returning the 30-year average to the upper 6% range and to its most expensive level this month.",
-          "link": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-december-27-2022-rates-move-higher-7089676?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-27T18:28:13.000Z",
-          "wordCount": 3563,
-          "title": "Today's Mortgage Rates & Trends - December 27, 2022: Rates move higher",
-          "imageUrl": "https://www.investopedia.com/thmb/fJcIInBNtVH6AC80YSR3o6M5zCY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/DecemberMortageRatesNews-27-5bc41bb8b749416da5df4cd3bf1b1021.jpg"
         }
       ]
     },
@@ -15761,6 +15751,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "sap-4q-non-ifrs-total-rev-eur8-44b-271674713442?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "German software company said it would book most of 250 million euros to 300m euros ($272.9 million - $327.4 million) in restructuring costs in current quarter.",
+          "link": "https://www.marketwatch.com/story/sap-4q-non-ifrs-total-rev-eur8-44b-271674713442?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-26T06:36:00.000Z",
+          "wordCount": 5922,
+          "title": "SAP Q4 revenue hits $9.22 billion but job losses loom",
+          "imageUrl": "https://images.mktw.net/im-278039/social"
+        },
+        {
+          "id": "intel-earnings-stock-chips-51674677365?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Wall Street has low expectations for the chip giant's fourth quarter. They might not be low enough for Intel's current quarter.",
+          "link": "https://www.barrons.com/articles/intel-earnings-stock-chips-51674677365?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-26T06:00:00.000Z",
+          "wordCount": 6578,
+          "title": "Intel’s Earnings Guidance May Disappoint. Tune In After the Close.",
+          "imageUrl": "https://images.barrons.com/im-709894/social"
+        },
         {
           "id": "us-natural-gas-falls-below-220757620.html",
           "author": null,
@@ -15782,6 +15792,16 @@
           "imageUrl": "https://media.zenfs.com/en/tipranks_452/7842eef1101401c92705f1fc5c1aef54"
         },
         {
+          "id": "suze-orman-says-most-of-america-today-has-absolutely-no-money-heres-where-the-guru-is-putting-her-funds-11674695955?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Financial guru Suze Orman thinks that most consumers are, or soon will be, facing dire straits, in an environment of higher interest rates and higher inflation.",
+          "link": "https://www.marketwatch.com/story/suze-orman-says-most-of-america-today-has-absolutely-no-money-heres-where-the-guru-is-putting-her-funds-11674695955?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-26T01:19:00.000Z",
+          "wordCount": 5888,
+          "title": "Suze Orman says ‘most of America today has absolutely no money.’ Here’s where the guru is putting her funds.",
+          "imageUrl": "https://images.mktw.net/im-561645/social"
+        },
+        {
           "id": "compared-tsla-nio-stock-attractively-010400561.html",
           "author": null,
           "description": "There’s not much arguing on the matter anymore with most agreeing that the future of the auto industry lies with electric vehicles (EVs). Between 2022 and 2030, Mizuho analyst Vijay Rakesh projects BEV (battery electric vehicles) sales will grow at a CAGR (compound annual growth rate) of 22% globally and could be “resilient to macro risks from higher interest rates as the overall commercialization runway remains secular.” Right now, China is the segment leader, representing roughly 64% of all BE",
@@ -15790,6 +15810,16 @@
           "wordCount": 13841,
           "title": "Compared to TSLA, NIO Stock Is Attractively Valued, Says Analyst",
           "imageUrl": "https://media.zenfs.com/en/tipranks_452/ef41e65b3a6526cb20a2fe73beaafc8e"
+        },
+        {
+          "id": "lam-research-to-cut-1-300-jobs-amid.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "author": null,
+          "description": "The Fremont-based tool business said that the layoffs represent roughly 7% of its global employees and will affect a wide swath of the staff.",
+          "link": "https://www.bizjournals.com/sanjose/news/2023/01/25/lam-research-to-cut-1-300-jobs-amid.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "publishedOn": "2023-01-26T00:39:06.000Z",
+          "wordCount": 4227,
+          "title": "Lam Research is cutting 1,300 jobs amid the chip industry downturn",
+          "imageUrl": "https://media.bizj.us/view/img/12189464/lamrresearch*1200xx2880-1620-0-150.jpg"
         },
         {
           "id": "stocks-moving-in-after-hours-tesla-ibm-servicenow-levi-231917403.html",
@@ -38110,76 +38140,6 @@
           "wordCount": 3295,
           "title": "Cathie Wood Feels Investors' Pain, Foresees Gains",
           "imageUrl": "https://www.thestreet.com/.image/t_share/MTg5NzM3MzI4NzM3MDAzMTk2/cathie-wood.jpg"
-        },
-        {
-          "id": "tesla-stock-price-market-cap-tsla-51672162042?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Tesla shares have fallen for seven straight days, marking the longest losing streak for the stock since September 2018.",
-          "link": "https://www.barrons.com/articles/tesla-stock-price-market-cap-tsla-51672162042?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-27T19:08:00.000Z",
-          "wordCount": 6511,
-          "title": "Tesla’s Losing Streak Continues. Its Market Cap Is Set to Drop From Top 10.",
-          "imageUrl": "https://images.barrons.com/im-692849/social"
-        },
-        {
-          "id": "apple-stock-slumps-toward-lowest-close-in-18-months-worst-yearly-performance-since-2008-01672167821?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Shares of Apple Inc. slumped 1.7% in afternoon trading, enough to pace the Dow Jones Industrial Average’s decliners, as they flirted with their first...",
-          "link": "https://www.marketwatch.com/story/apple-stock-slumps-toward-lowest-close-in-18-months-worst-yearly-performance-since-2008-01672167821?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-27T19:03:00.000Z",
-          "wordCount": 6782,
-          "title": "Apple stock slumps toward lowest close in 18 months, worst yearly performance since 2008",
-          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
-        },
-        {
-          "id": "doing-roth-rollover-beware-5-185039680.html",
-          "author": null,
-          "description": "The Roth IRA has been called \"the Swiss Army knife\" of personal finance because of its flexibility and the tax-free status of its earnings. That's the reason so many retiring workers move to roll their workplace 401(k) accounts into a … Continue reading → The post Doing a Roth Rollover? Beware the 5-Year Rule appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/doing-roth-rollover-beware-5-185039680.html",
-          "publishedOn": "2022-12-27T18:50:39.000Z",
-          "wordCount": 14398,
-          "title": "Doing a Roth Rollover? Beware the 5-Year Rule",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/264c113236fa25d5bad8e1422dd1dbb6"
-        },
-        {
-          "id": "2023-gas-prices-will-average-50-cents-less-than-2022-but-expect-to-pay-this-at-the-pump-come-may-11672166541?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "GasBuddy doesn't see a repeat of the record above $5 per gallon of gas paid during 2022's wild swings for the energy markets, but prices won't stay this low.",
-          "link": "https://www.marketwatch.com/story/2023-gas-prices-will-average-50-cents-less-than-2022-but-expect-to-pay-this-at-the-pump-come-may-11672166541?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-27T18:42:00.000Z",
-          "wordCount": 7610,
-          "title": "2023 gas prices will average 50 cents less per gallon than 2022, but expect to pay this at the pump come May",
-          "imageUrl": "https://images.mktw.net/im-692958/social"
-        },
-        {
-          "id": "meta-alphabet-losing-advertising-throne-182430061.html",
-          "author": null,
-          "description": "Meta and Alphabet Lose The Advertising Throne It seems that the long-held duopoly ruling the $300 billion advertising market is coming to an end as tech giants are fighting for their piece of the pie. Meta Platform Inc (NASDAQ: META) and Alphabet Inc (NASDAQ: GOOG) are losing their dominance to Amazon.com Inc (NASDAQ: AMZN), Microsoft Corporation (NASDAQ: MSFT) and Apple Inc (NASDAQ: AAPL). Figures According to Insider Intelligence, this will be the first year since 2014 that these two corporati",
-          "link": "https://finance.yahoo.com/news/meta-alphabet-losing-advertising-throne-182430061.html",
-          "publishedOn": "2022-12-27T18:24:30.000Z",
-          "wordCount": 14003,
-          "title": "Meta and Alphabet Are Losing Their Advertising Throne",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/5a9b1ff5c5eeacfbb0bb446cb8c2ba34"
-        },
-        {
-          "id": "sarge-2023-pick-16112094?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "I'll give you my bet for the year, but let me warn you that no good investor just decides on Jan. 1 to hold a stock for a year with no safeguards. This is what they do instead.",
-          "link": "https://realmoney.thestreet.com/investing/stocks/sarge-2023-pick-16112094?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2022-12-27T18:22:00.000Z",
-          "wordCount": 6771,
-          "title": "Here's My 2023 Stock Pick -- and Advice That's Perhaps More Important",
-          "imageUrl": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/54a4c3b1-70bc-11ed-8195-f7ac85179f59.jpg"
-        },
-        {
-          "id": "china-stocks-tell-2-different-stories-about-the-economy-182145697.html",
-          "author": null,
-          "description": "The impact China's economy re-opening is having on stocks shows investors are both optimistic and cautious about the fortunes for the world's second-largest economy.",
-          "link": "https://finance.yahoo.com/news/china-stocks-tell-2-different-stories-about-the-economy-182145697.html",
-          "publishedOn": "2022-12-27T18:21:45.000Z",
-          "wordCount": 14198,
-          "title": "China stocks tell 2 different stories about the economy",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Rteem8tVknJ1h.EEYjicIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/a53a9df0-6155-11ed-bd1b-b0029a02c734"
         }
       ]
     }
