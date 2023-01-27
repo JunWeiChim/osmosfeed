@@ -598,6 +598,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6248766/",
+          "author": "Ertan Basekin",
+          "description": "Een klimaatbudget voor de aanschaf van zonnepanelen, een warmtepomp of energiezuinig witgoed. Steeds meer bedrijven maken groene cao-afspraken om hun medewerkers te ondersteunen bij het verduurzamen van hun huis.",
+          "link": "https://www.nu.nl/economie/6248766/groene-arbeidsvoorwaarden-steunen-werknemers-in-verduurzaming-van-hun-huis.html",
+          "publishedOn": "2023-01-27T11:08:16.000Z",
+          "wordCount": 974,
+          "title": "Groene arbeidsvoorwaarden steunen werknemers in verduurzaming van hun huis",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/hooxlvca1gva_sqr256.jpg/groene-arbeidsvoorwaarden-steunen-werknemers-in-verduurzaming-van-hun-huis.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/hooxlvca1gva_sqr256.jpg/groene-arbeidsvoorwaarden-steunen-werknemers-in-verduurzaming-van-hun-huis.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6248739/",
           "author": "onze economieredactie",
           "description": "Nederland en de Verenigde Staten zitten vrijdag om de tafel in Washington om verdere beperkingen voor de export van chipmachines naar China te bespreken. Dit zou betekenen dat het Nederlandse bedrijf ASML wordt beperkt in de verkoop van machines aan China.",
@@ -16083,36 +16098,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/BqeFdial6ygfATB2XWiWaiv_nKA=/150x114/social-security-is-it-really-bad-5bfc2cf0c9e77c002630a1af.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/financial-advisors/122815/how-much-millennials-should-save-retire-comfortably.asp",
-          "author": "Andrea Travillian",
-          "description": "Millennials may not be worrying about retirement just yet, but they should be thinking about how much they’ll need to save.",
-          "link": "https://www.investopedia.com/articles/financial-advisors/122815/how-much-millennials-should-save-retire-comfortably.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-28T22:35:18.000Z",
-          "wordCount": 5078,
-          "title": "How Much Do Millennials Need To Save for Retirement?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/aaqVkEi3f8-3qbANVPjBv54RXzM=/680x440/thinkstockphotos451675941-5bfc3ab346e0fb00265feefb.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/aaqVkEi3f8-3qbANVPjBv54RXzM=/680x440/thinkstockphotos451675941-5bfc3ab346e0fb00265feefb.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/retirement/making-spousal-ira-contributions/",
-          "author": "Denise Appleby",
-          "description": "Spousal IRA contributions allow a working spouse to put money in their nonworking spouse's retirement account, if they meet these requirements.",
-          "link": "https://www.investopedia.com/retirement/making-spousal-ira-contributions/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-28T22:14:34.000Z",
-          "wordCount": 5458,
-          "title": "Making Spousal IRA Contributions",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/nQyuHbYbE5kXZ5FfXJl1D89BDwQ=/285x260/retirement-lrg-2-5bfc2b1e46e0fb00260b1123.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/nQyuHbYbE5kXZ5FfXJl1D89BDwQ=/285x260/retirement-lrg-2-5bfc2b1e46e0fb00260b1123.jpg"
         }
       ]
     },
@@ -16121,6 +16106,36 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "intel-stock-nvidia-amd-chips-semiconductors-china-51674812212?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Stocks fall as worrying forecast spreads contagion in the market.",
+          "link": "https://www.barrons.com/articles/intel-stock-nvidia-amd-chips-semiconductors-china-51674812212?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-27T09:54:00.000Z",
+          "wordCount": 6609,
+          "title": "Intel’s Data Warning Hits AMD, Nvidia. Chip Sector Upheaval Ahead.",
+          "imageUrl": "https://images.barrons.com/im-499870/social"
+        },
+        {
+          "id": "china-reopening-economy-zero-covid-investing-51674774911?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The country's stocks are up 50% since officials rolled back Covid-19 restrictions. Alibaba, Yum China, and other names stand to gain.",
+          "link": "https://www.barrons.com/articles/china-reopening-economy-zero-covid-investing-51674774911?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-27T08:30:00.000Z",
+          "wordCount": 6724,
+          "title": "China’s Big Comeback Is Just Getting Started. How to Play It.",
+          "imageUrl": "https://images.barrons.com/im-711065/social"
+        },
+        {
+          "id": "fed-set-to-deliver-quarter-point-rate-hike-along-with-one-last-hawkish-sting-in-the-tail-11674807984?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The Federal Reserve on Wednesday will hike rates by a quarter-point, a downshift from December but will make sure to sound hawkish, economists said.",
+          "link": "https://www.marketwatch.com/story/fed-set-to-deliver-quarter-point-rate-hike-along-with-one-last-hawkish-sting-in-the-tail-11674807984?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-27T08:26:00.000Z",
+          "wordCount": 7214,
+          "title": "Fed set to deliver quarter-point rate hike along with ‘one last hawkish sting in the tail’",
+          "imageUrl": "https://images.mktw.net/im-710956/social"
+        },
         {
           "id": "rolls-royce-burning-platform-must-065310965.html",
           "author": null,
@@ -16520,6 +16535,16 @@
           "wordCount": 14048,
           "title": "Sam Bankman-Fried’s Mother and Brother Not Cooperating With Financial Probe, FTX Lawyers Say",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/7ZeMoA.N9yOOHI3rkkEqvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/coindesk_75/1e29646669520d691df16f683d03c28a"
+        },
+        {
+          "id": "shopify-subscription-price-hike-another-165403210.html",
+          "author": null,
+          "description": "Citi analyst Tyler Radke views Shopify Inc's (NYSE: SHOP) price increases for its core monthly subscription plans as incrementally positive for the company's 2023 outlook. The company announced an average ~33% increase for its Basic, Shopify, and Advanced plans from current monthly rates of $29, $79, and $299, respectively. The analyst conducted a scenario analysis below to show the potential incremental benefits to revenue from the pricing change. In the analyst's base case scenario, Radke beli",
+          "link": "https://finance.yahoo.com/news/shopify-subscription-price-hike-another-165403210.html",
+          "publishedOn": "2023-01-26T16:54:03.000Z",
+          "wordCount": 13678,
+          "title": "Shopify Subscription Price Hike Is Another Tailwind For Stock, Analyst Says",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/1bde79c8678eba2d848991862420d520"
         },
         {
           "id": "why-nio-li-shares-popping-165108234.html",
@@ -38810,46 +38835,6 @@
           "wordCount": 7174,
           "title": "GE Healthcare will join S&P 500 as soon as it begins trading",
           "imageUrl": "https://images.mktw.net/im-531576/social"
-        },
-        {
-          "id": "cal-maine-foods-calm-q2-earnings-report-2023-11672267744?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Cal-Maine reports rising prices and healthy demand despite bird flu.",
-          "link": "https://www.wsj.com/articles/cal-maine-foods-calm-q2-earnings-report-2023-11672267744?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-28T23:04:00.000Z",
-          "wordCount": 6955,
-          "title": "Soaring Egg Prices Lead Nation’s Largest Producer to Record Sales",
-          "imageUrl": "https://images.wsj.net/im-693325/social"
-        },
-        {
-          "id": "how-much-millennials-should-save-retire-comfortably.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Millennials may not be worrying about retirement just yet, but they should be thinking about how much they’ll need to save.",
-          "link": "https://www.investopedia.com/articles/financial-advisors/122815/how-much-millennials-should-save-retire-comfortably.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2022-12-28T22:35:11.000Z",
-          "wordCount": 5095,
-          "title": "How Much Do Millennials Need To Save for Retirement?",
-          "imageUrl": "https://www.investopedia.com/thmb/JS4JxycFVrXgolaIiJbnv5St1X4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1313131469-ed9bc5f77292428dbaa222e69be243cf.jpg"
-        },
-        {
-          "id": "tesla-stock-losing-streak-worst-tech-ever-51672266149?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Shares snapped seven straight days of losses Wednesday, rising 3.3% and closing at $112.71.",
-          "link": "https://www.barrons.com/articles/tesla-stock-losing-streak-worst-tech-ever-51672266149?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-28T22:28:00.000Z",
-          "wordCount": 6422,
-          "title": "Tesla’s Losing Streak Is Over. It Has a Dubious Distinction.",
-          "imageUrl": "https://images.barrons.com/im-628958/social"
-        },
-        {
-          "id": "?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Spousal IRA contributions allow a working spouse to put money in their nonworking spouse's retirement account, if they meet these requirements.",
-          "link": "https://www.investopedia.com/retirement/making-spousal-ira-contributions/?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2022-12-28T22:14:34.000Z",
-          "wordCount": 5456,
-          "title": "Making Spousal IRA Contributions",
-          "imageUrl": "https://www.investopedia.com/thmb/xsWUYPpAX8PTWUkAXb3VOfTJzvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/retirement-lrg-2-5bfc2b1e46e0fb00260b1123.jpg"
         }
       ]
     }
