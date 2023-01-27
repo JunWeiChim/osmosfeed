@@ -598,6 +598,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6248822/",
+          "author": "Thijs Rösken",
+          "description": "Gerard Sanderink raakt ook zijn laatste aandeel van het door hem opgerichte bedrijf Centric kwijt. Dat heeft de Ondernemingskamer vrijdag besloten.",
+          "link": "https://www.nu.nl/economie/6248822/centric-oprichter-sanderink-verliest-ook-laatste-aandeel.html",
+          "publishedOn": "2023-01-27T14:54:36.000Z",
+          "wordCount": 1050,
+          "title": "Centric-oprichter Sanderink verliest ook laatste aandeel",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/cr0xu6kayczu_sqr256.jpg/centric-oprichter-sanderink-verliest-ook-laatste-aandeel.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/cr0xu6kayczu_sqr256.jpg/centric-oprichter-sanderink-verliest-ook-laatste-aandeel.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6248807/",
           "author": "onze economieredactie",
           "description": "De Britse minister van Financiën Jeremy Hunt vindt economen te somber over de economische impact van de Brexit. Volgens Hunt is de groei van de Britse economie in de afgelopen jaren niet veel slechter geweest dan in andere Europese landen. Hij ziet zelfs extra groeimogelijkheden door het vertrek uit de Europese Unie.",
@@ -16173,21 +16188,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/ywyN38Qog1Bzrd1aI53Xrcgg0TM=/680x440/AP675784005308-6243d2b356254eeea81e3b8c30c78c7a.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/financial-edge/0411/do-canadians-really-pay-more-taxes-than-americans.aspx",
-          "author": "Angie Mohr",
-          "description": "We look at the difference in tax rates and services offered on both sides of the border.",
-          "link": "https://www.investopedia.com/financial-edge/0411/do-canadians-really-pay-more-taxes-than-americans.aspx?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-29T02:53:38.000Z",
-          "wordCount": 5142,
-          "title": "Canada vs. U.S. Tax Rates: Do Canadians Pay More?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/BqeFdial6ygfATB2XWiWaiv_nKA=/150x114/social-security-is-it-really-bad-5bfc2cf0c9e77c002630a1af.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/BqeFdial6ygfATB2XWiWaiv_nKA=/150x114/social-security-is-it-really-bad-5bfc2cf0c9e77c002630a1af.jpg"
         }
       ]
     },
@@ -16196,6 +16196,86 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-dip-after-inflation-data-intel-plunges-on-earnings/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-01-27T14:53:22.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Reverses After Inflation Data; Intel Plunges 10% On Earnings",
+          "imageUrl": null
+        },
+        {
+          "id": "plug-power-stock-what-wall-street-thinks-51674831095?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shares fell on Thursday after the company gave a disappointing update about fourth-quarter sales. Now analysts are weighing in.",
+          "link": "https://www.barrons.com/articles/plug-power-stock-what-wall-street-thinks-51674831095?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-27T14:53:00.000Z",
+          "wordCount": 6630,
+          "title": "Plug Power Stock Took a Dive. Here’s What Wall Street Thinks.",
+          "imageUrl": "https://images.barrons.com/im-527947/social"
+        },
+        {
+          "id": "2-lidar-stocks-under-10-142644768.html",
+          "author": null,
+          "description": "Every so often, some technological advance comes along that forever alters the world we live in. Henry Ford’s assembly line brought cars to the masses, the internet has changed the way we communicate, and mobile devices have taken those changes to a new level. Improvements in all three of those areas, the automotive, computing, and networking sectors, are coming together now, and will bring enormous change to the inner workings of our cars. One of those coming changes is already starting to appe",
+          "link": "https://finance.yahoo.com/news/2-lidar-stocks-under-10-142644768.html",
+          "publishedOn": "2023-01-27T14:26:44.000Z",
+          "wordCount": 14684,
+          "title": "2 LiDAR Stocks Under $10 With Over 100% Upside Potential; J.P. Morgan Says ‘Buy’",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/622a882ee4cb71f42fe5f9811ebc370c"
+        },
+        {
+          "id": "u-s-inflation-rate-slows-again-to-15-month-low-pce-shows-11674826498?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The cost of U.S. goods and services rose a scant 0.1% in December in yet another sign inflation is cooling off",
+          "link": "https://www.marketwatch.com/story/u-s-inflation-rate-slows-again-to-15-month-low-pce-shows-11674826498?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-27T14:11:00.000Z",
+          "wordCount": 7326,
+          "title": "Inflation rate slows again to 15-month low, PCE shows, as U.S. economy weakens",
+          "imageUrl": "https://images.mktw.net/im-711111/social"
+        },
+        {
+          "id": "intel-nvidia-amd-stock-price-chips-51674812212?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Stocks fall as worrying forecast spreads contagion in the market.",
+          "link": "https://www.barrons.com/articles/intel-nvidia-amd-stock-price-chips-51674812212?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-27T14:04:00.000Z",
+          "wordCount": 6641,
+          "title": "Intel’s Data Warning Hits AMD and Nvidia Stock. A Chip Sector Upheaval Is Near.",
+          "imageUrl": "https://images.barrons.com/im-499870/social"
+        },
+        {
+          "id": "much-really-retire-fidelity-wants-140000364.html",
+          "author": null,
+          "description": "Don't beat yourself with someone else's yardstick.",
+          "link": "https://finance.yahoo.com/news/much-really-retire-fidelity-wants-140000364.html",
+          "publishedOn": "2023-01-27T14:00:00.000Z",
+          "wordCount": 14245,
+          "title": "How much do I really need to retire? Fidelity wants you to save 10 times your income by age 67. But here are 3 reasons why that could be dead wrong",
+          "imageUrl": "https://media.zenfs.com/en/moneywise_327/9ec8e61bf57cbba7051e0ab617788952"
+        },
+        {
+          "id": "plug-stock-why-tumbled-where-135300178.html",
+          "author": null,
+          "description": "Thursday was a good day for the Nasdaq, which closed the day up 1.8%. But Thursday was not a good day for investors in one of the best-known alternative energy plays on the Nasdaq: Hydrogen fuel cell company Plug Power (NASDAQ:PLUG), which closed the day down nearly 6%. What went wrong with Plug stock? To find out, we need to travel back in time, to when Plug Power gave investors its 2023 January Business Update Wednesday evening. Much of what Plug told investors came as no surprise. As before,",
+          "link": "https://finance.yahoo.com/news/plug-stock-why-tumbled-where-135300178.html",
+          "publishedOn": "2023-01-27T13:53:00.000Z",
+          "wordCount": 14397,
+          "title": "Plug Stock: Why It Tumbled and Where It’s Headed",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/5176c1ceb40668cd018f423d50dda68c"
+        },
+        {
+          "id": "goodyear-to-cut-500-jobs-warns-of-earnings-shortfall-11674827324?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The tire maker is shedding roughly 5% of its salaried staff around the world, joining a raft of companies trimming their head counts.",
+          "link": "https://www.wsj.com/articles/goodyear-to-cut-500-jobs-warns-of-earnings-shortfall-11674827324?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-27T13:48:00.000Z",
+          "wordCount": 6875,
+          "title": "Goodyear to Cut 500 Jobs, Warns of Earnings Shortfall",
+          "imageUrl": "https://images.wsj.net/im-711670/social"
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
@@ -16215,6 +16295,16 @@
           "wordCount": 7212,
           "title": "‘It’s not an earnings release, it’s a crime scene.’ Analysts, and social media, react to Intel’s awful quarter",
           "imageUrl": "https://images.mktw.net/im-711648/social"
+        },
+        {
+          "id": "natural-gas-prices-51674768324?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The price per million British Thermal Units is now less than $3, compared with more than $9 as recently as August.",
+          "link": "https://www.barrons.com/articles/natural-gas-prices-51674768324?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-27T13:23:00.000Z",
+          "wordCount": 6647,
+          "title": "Natural Gas Prices Are Dropping—and They’ll Keep Falling",
+          "imageUrl": "https://images.barrons.com/im-711231/social"
         },
         {
           "id": "chevron-earnings-stock-price-51674755180?siteid=yhoof2&yptr=yahoo",
@@ -39145,16 +39235,6 @@
           "wordCount": 13913,
           "title": "Tesla’s Drop Puts $157 Million Korea Structured Products at Risk",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/LT8tpDV38sfsj19gPRjFCQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/4cdf1b0994b208da04ffd877d3b07364"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-breaks-key-level-nasdaq-sets-bear-closing-low-as-apple-skids-tesla-ends-dive/?src=A00220&yptr=yahoo",
-          "publishedOn": "2022-12-29T02:17:47.000Z",
-          "wordCount": null,
-          "title": "Dow Jones, Nasdaq Break Key Levels As Apple Skids, Tesla Ends Dive; What To Do Now",
-          "imageUrl": null
         }
       ]
     }
