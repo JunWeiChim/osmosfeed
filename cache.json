@@ -598,6 +598,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6246866/",
+          "author": "Thijs Rösken",
+          "description": "Betaalproblemen bij gezinnen komen vaker voor en sinds de zomer is dat ook te merken bij de kinderopvang. Incasso-organisaties GGN en Flanderijn zien dat het aantal openstaande bedragen dat zij opeisen namens de kinderopvang sinds afgelopen zomer is toegenomen met 15 tot 20 procent. Het gaat hierbij om duizenden ouders.",
+          "link": "https://www.nu.nl/economie/6246866/fors-meer-ouders-betalen-kinderopvang-niet-op-tijd.html",
+          "publishedOn": "2023-01-27T03:58:33.000Z",
+          "wordCount": 1832,
+          "title": "Fors meer ouders betalen kinderopvang niet op tijd",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/zhjx0vtanqb9_sqr256.jpg/fors-meer-ouders-betalen-kinderopvang-niet-op-tijd.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/zhjx0vtanqb9_sqr256.jpg/fors-meer-ouders-betalen-kinderopvang-niet-op-tijd.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6248683/",
           "author": "onze nieuwsredactie",
           "description": "Het Franse luxeconcern LVMH, onder meer bekend van kledingmerk Louis Vuitton en Moët & Chandon-champagne, heeft zijn omzet het afgelopen jaar tot een recordhoogte zien stijgen. Dat komt door de sterke vraag in onder meer Europa en de Verenigde Staten, meldt het bedrijf donderdag bij de publicatie van zijn jaarcijfers.",
@@ -16142,6 +16157,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "intel-just-had-its-worst-year-since-the-dot-com-bust-and-it-wont-get-better-anytime-soon-11674784330?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "History may be repeating itself as Intel has renewed competition with AMD amid a sharp economic downturn.",
+          "link": "https://www.marketwatch.com/story/intel-just-had-its-worst-year-since-the-dot-com-bust-and-it-wont-get-better-anytime-soon-11674784330?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-27T01:52:00.000Z",
+          "wordCount": 7480,
+          "title": "Intel just had its worst year since the dot-com bust, and it won’t get better anytime soon",
+          "imageUrl": "https://images.mktw.net/im-666889/social"
+        },
+        {
           "id": "risk-comes-opportunity-oppenheimer-suggests-004543369.html",
           "author": null,
           "description": "While the overall stock market direction so far this year remains up, the path ahead still presents plenty of potential headwinds. Inflation has yet to be properly tamed, the geopolitical map remains uncertain with Russia’s invasion of Ukraine still ongoing and Covid variants could reappear at any time. Add in the prospect for a fiery battle in Congress around raising the debt ceiling, and Oppenheimer’s Chief Investment Strategist John Stoltzfus thinks market volatility is “unlikely to leave the",
@@ -16272,6 +16297,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/SN5znguAjyQVv5oocdHDow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDM-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/49f77b80-0c31-11ed-bff3-a3a5aebd9b0d"
         },
         {
+          "id": "what-investors-need-to-know-about-pfizers-latest-downgrade-11674767712?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The company's pipeline, though promising, is still too premature to make up for the looming drop in COVID-19 franchise revenue.",
+          "link": "https://www.marketwatch.com/story/what-investors-need-to-know-about-pfizers-latest-downgrade-11674767712?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-26T21:15:00.000Z",
+          "wordCount": 6934,
+          "title": "What investors need to know about Pfizer’s latest downgrade",
+          "imageUrl": "https://images.mktw.net/im-607269/social"
+        },
+        {
           "id": "bed-bath--beyond-discloses-loan-defaults-weighs-bankruptcy-shares-tank-211050771.html",
           "author": null,
           "description": "Bed Bath & Beyond shares cratered Thursday after the embattled retailer revealed in a fresh regulatory filing that it was hit with a default notice from JPMorgan and does not have adequate funds to repay its loans, while warning again of a potential bankruptcy.",
@@ -16340,6 +16375,16 @@
           "wordCount": 14276,
           "title": "Stock market news live updates: Stocks rise as GDP beats, more earnings roll in",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ubXZ97eAueQe4PaHOJZY1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/949615b0-9d28-11ed-afee-3dbe2e0e4d05"
+        },
+        {
+          "id": "rivian-faces-another-key-exec-resignation?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "Several executives have left Rivian, an electric vehicle startup company, over the past year.",
+          "link": "https://www.thestreet.com/technology/rivian-faces-another-key-exec-resignation?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-01-26T19:06:00.000Z",
+          "wordCount": 3354,
+          "title": "Rivian Faces Another Key Exec Resignation",
+          "imageUrl": "https://www.thestreet.com/.image/t_share/MTg2MDIyNjQ2NDE5MzAyMDgz/rivian_2.jpg"
         },
         {
           "id": "3-reits-shockingly-high-dividend-184809454.html",
@@ -38950,46 +38995,6 @@
           "wordCount": 14465,
           "title": "New bill allows unused 529 college funds to become a retirement tool",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/rBnTXH4yMRwQtKtgA5KaoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDM-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/9b5f4020-86ca-11ed-bdf7-9675095ee055"
-        },
-        {
-          "id": "tesla-set-longest-ever-losing-102443962.html",
-          "author": null,
-          "description": "(Bloomberg) -- Even the worst year ever for Tesla Inc. shares hasn’t shaken individual investors’ faith in the electric-vehicle maker and its billionaire chief executive officer, Elon Musk. Most Read from BloombergSouthwest Air Memos Showed Growing Alarm on Eve of Epic Winter StormSouth Korea Sends Drones to Kim Jong Un’s Airspace in Unprecedented MoveRussia Says Ukraine Must Surrender Even as Putin’s Army RetreatsAlameda Lent Sam Bankman-Fried $546 Million for Robinhood StakeChina Covid Surge L",
-          "link": "https://finance.yahoo.com/news/tesla-set-longest-ever-losing-102443962.html",
-          "publishedOn": "2022-12-28T16:14:43.000Z",
-          "wordCount": 13914,
-          "title": "Tesla Fans Keep Buying, Unbowed by the $720 Billion Wipeout",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/680f527ed2e170d4aae59a23eff86420"
-        },
-        {
-          "id": "lucid-stock-low-saudi-investment-51672238490?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Saudi Arabia’s sovereign-wealth fund bought $915 million of electric-vehicle maker Lucid Group's shares last week. The stock set a record low Tuesday.",
-          "link": "https://www.barrons.com/articles/lucid-stock-low-saudi-investment-51672238490?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-28T16:00:00.000Z",
-          "wordCount": 6514,
-          "title": "Lucid Stock Fell to New Low Despite $1 Billion Saudi Investment",
-          "imageUrl": "https://images.barrons.com/im-693337/social"
-        },
-        {
-          "id": "the-white-house-embraced-debt-forgiveness-in-2022-heres-what-student-loan-borrowers-can-expect-in-2023-11672242526?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "2023 will likely be the year when borrowers learn how it will impact their wallets.",
-          "link": "https://www.marketwatch.com/story/the-white-house-embraced-debt-forgiveness-in-2022-heres-what-student-loan-borrowers-can-expect-in-2023-11672242526?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-28T15:48:00.000Z",
-          "wordCount": 8966,
-          "title": "The White House embraced debt forgiveness in 2022. Here’s what student-loan borrowers can expect in 2023.",
-          "imageUrl": "https://images.mktw.net/im-693368/social"
-        },
-        {
-          "id": "this-asset-will-crush-all-others-in-2023-says-hedge-fund-manager-who-nailed-one-big-call-of-2022-11672229607?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Harris Kupperman, the president of hedge fund Praetorian Capital. predicts 2023 will be “the year of oil crushing all other” investments.",
-          "link": "https://www.marketwatch.com/story/this-asset-will-crush-all-others-in-2023-says-hedge-fund-manager-who-nailed-one-big-call-of-2022-11672229607?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2022-12-28T15:21:00.000Z",
-          "wordCount": 8226,
-          "title": "This asset will crush all others in 2023, says hedge-fund manager who nailed one big call of 2022",
-          "imageUrl": "https://images.mktw.net/im-693306/social"
         }
       ]
     }
