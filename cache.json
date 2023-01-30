@@ -648,6 +648,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6249182/",
+          "author": "onze nieuwsredactie",
+          "description": "Johnson & Johnson (J&J) krijgt van de rechter geen toestemming om via een faillissement onder tienduizenden rechtszaken uit te komen. Het medische bedrijf werd aangeklaagd wegens talkpoeder dat verontreinigd zou zijn met asbest.",
+          "link": "https://www.nu.nl/economie/6249182/jj-kan-via-faillissement-niet-ontkomen-aan-rechtszaken-over-babypoeder.html",
+          "publishedOn": "2023-01-30T21:37:06.000Z",
+          "wordCount": 861,
+          "title": "J&J kan via faillissement niet ontkomen aan rechtszaken over babypoeder",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/1w1xbj9axra4_sqr256.jpg/jj-kan-via-faillissement-niet-ontkomen-aan-rechtszaken-over-babypoeder.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/1w1xbj9axra4_sqr256.jpg/jj-kan-via-faillissement-niet-ontkomen-aan-rechtszaken-over-babypoeder.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6249101/",
           "author": "AutoWeek",
           "description": "Volgens Elon Musk komt de grootste bedreiging voor zijn automerk Tesla niet uit Europa, Japan of de Verenigde Staten, maar uit China. \"Ze werken daar het hardst en slimst. Daarom is het waarschijnlijk dat het tweede elektrische automerk na Tesla uit China zal komen.\"",
@@ -6511,21 +6526,6 @@
             "url": "https://media.nu.nl/m/dvgxhnoa3poh_sqr256.jpg/langstzittende-shell-topman-geeft-stokje-door-aan-de-jongste-ooit.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/dvgxhnoa3poh_sqr256.jpg/langstzittende-shell-topman-geeft-stokje-door-aan-de-jongste-ooit.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6243358/",
-          "author": "Eva Schouten",
-          "description": "De feestdagen vielen in 2022 voor werknemers iets gunstiger dan het jaar daarvoor. Maar het kan nog beter. Deze Nieuwjaarsdag - een erkende feestdag - valt op een zondag en is dus voor de werkgever. Maar het eind van dit jaar wordt het echt feest.",
-          "link": "https://www.nu.nl/economie/6243358/feestdagen-vielen-al-iets-beter-dit-jaar-wordt-een-werknemersparadijs.html",
-          "publishedOn": "2023-01-01T09:12:20.000Z",
-          "wordCount": 1157,
-          "title": "Feestdagen vielen al iets beter, dit jaar wordt een 'werknemersparadijs'",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/3uoxv1za6lq4_sqr256.jpg/feestdagen-vielen-al-iets-beter-dit-jaar-wordt-een-werknemersparadijs.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/3uoxv1za6lq4_sqr256.jpg/feestdagen-vielen-al-iets-beter-dit-jaar-wordt-een-werknemersparadijs.jpg"
         }
       ]
     },
@@ -6534,6 +6534,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/apple-q1-fy-2023-earnings-preview-7100511",
+          "author": "Nathan Reiff",
+          "description": "Apple reports Q1 FY 2023 results on Feb. 2. Analysts expect the tech giant to post falling profit and revenue.",
+          "link": "https://www.investopedia.com/apple-q1-fy-2023-earnings-preview-7100511?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-30T21:50:43.000Z",
+          "wordCount": 3264,
+          "title": "Apple Profit Could Fall on China Production, Demand Slowdown",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/mZRHjD3q9MJf79dr8qzRIFJGSik=/1920x1280/zhiyue-7DOU5NlNIcE-unsplash-4f915e5bbe26424989435aa10f69407c.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/mZRHjD3q9MJf79dr8qzRIFJGSik=/1920x1280/zhiyue-7DOU5NlNIcE-unsplash-4f915e5bbe26424989435aa10f69407c.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/nyc-return-to-office-7100832",
+          "author": "Meg Cunningham",
+          "description": "Partnership for New York City estimated office occupancy would rise to a daily average of 54% by January",
+          "link": "https://www.investopedia.com/nyc-return-to-office-7100832?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-30T21:41:41.000Z",
+          "wordCount": 3174,
+          "title": "New York City office occupancies on the rise",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/u65oLt_opv_OtBCEKjC68HJPY_s=/1800x1200/TAL-one-vanderbilt-exterior-nyc-AMEXLOUNGE0123-042cc1e069fd4b2f9db3eec08706dad9.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/u65oLt_opv_OtBCEKjC68HJPY_s=/1800x1200/TAL-one-vanderbilt-exterior-nyc-AMEXLOUNGE0123-042cc1e069fd4b2f9db3eec08706dad9.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/030316/do-retirement-account-withdrawals-affect-tax-brackets.asp",
+          "author": "Claire Boyte-White",
+          "description": "Find out how and when withdrawals from your traditional or Roth IRAs and 401(k)s affect your tax bracket and how to keep your tax rate low.",
+          "link": "https://www.investopedia.com/ask/answers/030316/do-retirement-account-withdrawals-affect-tax-brackets.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-30T21:25:09.000Z",
+          "wordCount": 6302,
+          "title": "How Retirement Account Withdrawals Affect Your Tax Bracket",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/0d5v1KwbMw-FvNyBIDvfSqvrmZU=/2121x1414/RetirementTaxBrackets-901c5acfcbac42d189807fb3a475ff36.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/0d5v1KwbMw-FvNyBIDvfSqvrmZU=/2121x1414/RetirementTaxBrackets-901c5acfcbac42d189807fb3a475ff36.jpg"
+        },
         {
           "id": "https://www.investopedia.com/ask/answers/033015/what-difference-between-economic-profit-and-accounting-profit.asp",
           "author": "Marshall Hargrave",
@@ -16297,6 +16342,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/nxpi-stock-chipmaker-falls-on-outlook/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-01-30T21:35:56.000Z",
+          "wordCount": null,
+          "title": "NXP Semiconductors Tops Views On Automotive Chip Sales Growth",
+          "imageUrl": null
+        },
+        {
+          "id": "carvana-stock-soars-2023.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "author": null,
+          "description": "Tempe-based Carvana Co.'s stock saw a double-digit positive gain and was briefly halted for volatility in Wall Street trading on Jan. 30 due to a reported short squeeze and heavy options activity.",
+          "link": "https://www.bizjournals.com/phoenix/news/2023/01/30/carvana-stock-soars-2023.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "publishedOn": "2023-01-30T20:56:12.000Z",
+          "wordCount": 4220,
+          "title": "Carvana stock briefly halted for volatility amid reports of 'meme-style' options frenzy",
+          "imageUrl": "https://media.bizj.us/view/img/10331712/carvanaaustin13030wip1*1200xx9600-5392-0-1358.jpg"
+        },
+        {
           "id": "carvana-stock-ramps-up?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
           "author": null,
           "description": "",
@@ -16305,6 +16370,16 @@
           "wordCount": null,
           "title": "Carvana Stock Soars",
           "imageUrl": null
+        },
+        {
+          "id": "evercore-says-stick-value-stocks-201926908.html",
+          "author": null,
+          "description": "The Street’s experts build their reputations by the quality of their market and stock assessments, and they’re coming out in force now to give their interpretations of the strong start we’ve seen in 2023. The S&P 500 index is up 5%, while the teach-heavy Nasdaq has gained nearly 10%. It’s a welcome reprieve from last year’s downward trends; the question is, will it hold? Watching the situation from investment firm Evercore ISI, strategist Julian Emanuel has his doubts. He’s recommending that inv",
+          "link": "https://finance.yahoo.com/news/evercore-says-stick-value-stocks-201926908.html",
+          "publishedOn": "2023-01-30T20:19:26.000Z",
+          "wordCount": 14681,
+          "title": "Evercore Says Stick With Value Stocks in This Market Environment; Here Are 2 Names to Buy",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/906bb6dd575d27ab4f54c179ef735831"
         },
         {
           "id": "amc-stock-ape-units-converge-yJr98TziAirswGLkHge3?yptr=yahoo",
@@ -16645,6 +16720,16 @@
           "wordCount": 14319,
           "title": "I'm 49 years old and have nothing saved for retirement — what should I do? Don't panic. Here are 3 of the easiest ways you can catch up (and fast)",
           "imageUrl": "https://media.zenfs.com/en/moneywise_327/f921a9ddb2c7cfd2b45074ef78e43912"
+        },
+        {
+          "id": "interest-rate-decision-federal-reserve-meeting-51674869657?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The market’s expectations clash with projections from the central bank. The wording of the policy statement after Fed Open Market Committee gathering could indicate how many hikes really are ahead this year.",
+          "link": "https://www.barrons.com/articles/interest-rate-decision-federal-reserve-meeting-51674869657?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-01-30T13:54:00.000Z",
+          "wordCount": 6567,
+          "title": "How High Will Interest Rates Go? This Coming Week’s Fed Meeting Is Key.",
+          "imageUrl": "https://images.barrons.com/im-712295/social"
         },
         {
           "id": "tesla-has-fallen-enough-to-start-buying-berenberg-says-11675084412?siteid=yhoof2&yptr=yahoo",
@@ -39655,16 +39740,6 @@
           "wordCount": 7350,
           "title": "Rookie Traders Are Calling it Quits, and Their Families Are Thrilled",
           "imageUrl": "https://images.wsj.net/im-695058/social"
-        },
-        {
-          "id": "uk-enforces-crypto-tax-break-100000820.html",
-          "author": null,
-          "description": "The measures now in effect are part of the government's plans to turn the country into a crypto hub.",
-          "link": "https://finance.yahoo.com/news/uk-enforces-crypto-tax-break-100000820.html",
-          "publishedOn": "2023-01-01T10:00:00.000Z",
-          "wordCount": 13594,
-          "title": "UK Enforces Crypto Tax Break for Foreigners Using Local Brokers",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/CQg2uM0_ywKjS3ohqwLWdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/coindesk_75/74cbae8a89735ef29e143ace7a3fc80d"
         }
       ]
     }
