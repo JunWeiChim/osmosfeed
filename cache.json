@@ -638,6 +638,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6249057/",
+          "author": "Noémi van de Pol",
+          "description": "Philips schrapt dit jaar wereldwijd drieduizend banen, maakt het bedrijf maandag bekend. De ontslagen horen bij een reorganisatie die topman Roy Jakobs heeft aangekondigd. In Nederland zullen ongeveer elfhonderd arbeidsplaatsen verdwijnen, met name in Eindhoven en Amsterdam.",
+          "link": "https://www.nu.nl/economie/6249057/philips-schrapt-dit-jaar-drieduizend-banen-waarvan-ruim-duizend-in-nederland.html",
+          "publishedOn": "2023-01-30T07:10:33.000Z",
+          "wordCount": 888,
+          "title": "Philips schrapt dit jaar drieduizend banen, waarvan ruim duizend in Nederland",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/b82xx20aj9wl_sqr256.jpg/philips-schrapt-dit-jaar-drieduizend-banen-waarvan-ruim-duizend-in-nederland.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/b82xx20aj9wl_sqr256.jpg/philips-schrapt-dit-jaar-drieduizend-banen-waarvan-ruim-duizend-in-nederland.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6248751/",
           "author": "Ertan Basekin",
           "description": "Werknemers hebben het werk de afgelopen weken steeds vaker neergelegd. Veel stakers eisen een hoger loon om het verlies aan koopkracht te compenseren vanwege de stijgende prijzen. Ook de toegenomen werkdruk vormt in steeds meer sectoren een probleem. NU.nl sprak met een aantal stakers over hun beweegredenen.",
@@ -6284,6 +6299,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/i/irs-pub-571.asp",
+          "author": "Julia Kagan",
+          "description": "IRS Publication 571 provides tax information for filers who have a 403(b) retirement plan.",
+          "link": "https://www.investopedia.com/terms/i/irs-pub-571.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-01-30T06:32:50.000Z",
+          "wordCount": 3974,
+          "title": "IRS Publication 571: Tax-Sheltered Annuity Plans (403(b) Plans)",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/AVowEQQxxaiLw4qNHVwWsA3Iq4o=/380x253/156416606-5bfc2b8b46e0fb00517bdff7.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/AVowEQQxxaiLw4qNHVwWsA3Iq4o=/380x253/156416606-5bfc2b8b46e0fb00517bdff7.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/t/term-certain-method.asp",
           "author": "Adam Hayes",
@@ -15868,21 +15898,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/WkSoCYs2YMcp_-cbfuhh5Kk2KdM=/680x440/investing3-5bfc2b8e46e0fb0026016f32.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/b/bequest.asp",
-          "author": "Julia Kagan",
-          "description": "A bequest is an act of giving personal property or financial assets such as stocks, bonds, jewelry, and cash to an individual or organization through the provisions of a will or estate plan.",
-          "link": "https://www.investopedia.com/terms/b/bequest.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2022-12-31T18:28:28.000Z",
-          "wordCount": 3917,
-          "title": "Bequest Definition",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/AVowEQQxxaiLw4qNHVwWsA3Iq4o=/380x253/156416606-5bfc2b8b46e0fb00517bdff7.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/AVowEQQxxaiLw4qNHVwWsA3Iq4o=/380x253/156416606-5bfc2b8b46e0fb00517bdff7.jpg"
         }
       ]
     },
@@ -16180,6 +16195,16 @@
           "wordCount": 14668,
           "title": "Powell’s Narrow Path Would Avoid Routes Taken by Burns, Volcker",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/09e9356ce5fb8384b4fd2e84e46dc1bf"
+        },
+        {
+          "id": "map-these-are-the-best-and-worst-states-for-internships-132557742.html",
+          "author": null,
+          "description": "As companies send out acceptance and rejection emails for the upcoming summer internship season, not every intern will be equally compensated.",
+          "link": "https://finance.yahoo.com/news/map-these-are-the-best-and-worst-states-for-internships-132557742.html",
+          "publishedOn": "2023-01-29T13:25:57.000Z",
+          "wordCount": 13938,
+          "title": "Map: These are the best and worst states for internships",
+          "imageUrl": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/dc4bfb30-9ffe-11ed-beff-15d53a5f08af"
         },
         {
           "id": "31-old-vlogged-her-job-130000234.html",
@@ -38640,26 +38665,6 @@
           "wordCount": 8161,
           "title": "‘My friends and family say I’m rich.’ I’m 26 and make $100,000 a year living in St. Louis, where I pay $850 in rent. But I can’t afford to buy a home, and am losing money when I invest. Would hiring a financial adviser be a smart move?",
           "imageUrl": "https://images.mktw.net/im-579162/social"
-        },
-        {
-          "id": "cd-ladder-build-one-190100825.html",
-          "author": null,
-          "description": "A CD ladder is a savings strategy where you invest in several certificates of deposit with staggered maturities to take advantage of higher rates on longer-term CDs",
-          "link": "https://finance.yahoo.com/news/cd-ladder-build-one-190100825.html",
-          "publishedOn": "2022-12-31T19:01:00.000Z",
-          "wordCount": 14077,
-          "title": "CD ladder: What it is and how to build one",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/PKMffQ8Pnfe4.KpdPfxwgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fortune_175/6f2f9555afc15eb830bdb100e61fd588"
-        },
-        {
-          "id": "guyana-oil-boom-only-accelerate-190000201.html",
-          "author": null,
-          "description": "Guyana’s oil industry is set for another big year in 2023, with Exxon and other oil companies aggressively exploring and developing",
-          "link": "https://finance.yahoo.com/news/guyana-oil-boom-only-accelerate-190000201.html",
-          "publishedOn": "2022-12-31T19:00:00.000Z",
-          "wordCount": 14818,
-          "title": "Guyana’s Oil Boom Will Only Accelerate In 2023",
-          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
         }
       ]
     }
