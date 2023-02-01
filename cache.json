@@ -748,6 +748,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6249356/",
+          "author": "onze economieredactie",
+          "description": "De inflatie was in januari 7,6 procent. Daarmee was de inflatie fors lager dan de afgelopen maanden, maar nog altijd hoog. Voeding, alcohol en tabak waren ook vorige maand duurder dan een jaar eerder.",
+          "link": "https://www.nu.nl/economie/6249356/inflatie-daalt-in-januari-naar-76-procent-maar-is-nog-steeds-hoog.html",
+          "publishedOn": "2023-02-01T07:09:21.000Z",
+          "wordCount": 1074,
+          "title": "Inflatie daalt in januari naar 7,6 procent, maar is nog steeds hoog",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/zz3x4opa11il_sqr256.jpg/inflatie-daalt-in-januari-naar-76-procent-maar-is-nog-steeds-hoog.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/zz3x4opa11il_sqr256.jpg/inflatie-daalt-in-januari-naar-76-procent-maar-is-nog-steeds-hoog.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6249315/",
           "author": "Eva Schouten",
           "description": "ING verlaagt de standaardlimiet in de app voor mobiel bankieren van 5.000 euro naar 2.000 euro. Later dit jaar past de bank ook de limiet voor internetbankieren aan. De maximale bedragen die je per dag kunt pinnen of opnemen zijn punt van aandacht, laat ING weten.",
@@ -16688,36 +16703,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/dv0vV77g-G_uV2g_Wvc4pa_R0eA=/680x440/148985994-5bfc2b8c46e0fb0083c07ba8.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/a/alternativeminimumtax.asp",
-          "author": "Jim Probasco",
-          "description": "An alternative minimum tax (AMT) places a floor on the percentage of tax that a filer may be required to pay to the government.",
-          "link": "https://www.investopedia.com/terms/a/alternativeminimumtax.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-02T18:57:39.000Z",
-          "wordCount": 5038,
-          "title": "Alternative Minimum Tax (AMT) Definition, How It Works",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ZiNlOBtYs50fpvkf0cwgBVFSlY4=/6000x4000/cropped-image-of-insurance-agent-discussing-with-client-at-desk-1036263996-ea426af87ce2474b8c4a0b0391af2418.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ZiNlOBtYs50fpvkf0cwgBVFSlY4=/6000x4000/cropped-image-of-insurance-agent-discussing-with-client-at-desk-1036263996-ea426af87ce2474b8c4a0b0391af2418.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/t/taxbracket.asp",
-          "author": "Julia Kagan",
-          "description": "A tax bracket is a range of incomes subject to a certain income tax rate.",
-          "link": "https://www.investopedia.com/terms/t/taxbracket.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-02T18:33:33.000Z",
-          "wordCount": 7136,
-          "title": "Understanding Tax Brackets: Examples, Pros, and Cons",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/dYYsDcVvX90OrfQYDxzNOzS9W9A=/1500x1000/GettyImages-987375510-07438fd9aa414ff797d830dbc8a262cd.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/dYYsDcVvX90OrfQYDxzNOzS9W9A=/1500x1000/GettyImages-987375510-07438fd9aa414ff797d830dbc8a262cd.jpg"
         }
       ]
     },
@@ -16726,6 +16711,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "intel-cuts-pay-across-company-022933121.html",
+          "author": null,
+          "description": "(Bloomberg) -- Intel Corp., struggling with a rapid drop in revenue and earnings, is cutting management pay across the company to cope with a shaky economy and preserve cash for an ambitious turnaround plan. Most Read from BloombergSony Slashes PlayStation VR2 Headset Output After Pre-Orders DisappointPutin’s War in Ukraine Pushes Ex-Soviet States Toward New Allies8,000 Layoffs Don’t Exactly Scream Family ValuesMicrosoft Studio Behind Halo Faces a Reboot on Years of TurmoilNational Archives Rele",
+          "link": "https://finance.yahoo.com/news/intel-cuts-pay-across-company-022933121.html",
+          "publishedOn": "2023-02-01T03:07:26.000Z",
+          "wordCount": 14102,
+          "title": "Intel Slashes CEO Pay by 25% as Part of Companywide Cuts",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/lvgMtbgrn9ko3msW9zvbSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjI-/https://media.zenfs.com/en/bloomberg_technology_68/0b4ce4fcf1a34f584b50954089b5fdf2"
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
@@ -16745,6 +16740,16 @@
           "wordCount": null,
           "title": "The Ultimate Warren Buffett Stock Is Near A Buy Point, But Should You Buy It?",
           "imageUrl": null
+        },
+        {
+          "id": "amd-shares-climb-server-market-231550643.html",
+          "author": null,
+          "description": "(Bloomberg) -- Advanced Micro Devices Inc., the second-largest maker of computer processors, gave a better-than-feared sales forecast for the first quarter as gains in the lucrative server market help make up for a collapse in demand for PC chips. Most Read from BloombergSony Slashes PlayStation VR2 Headset Output After Pre-Orders DisappointPutin’s War in Ukraine Pushes Ex-Soviet States Toward New Allies8,000 Layoffs Don’t Exactly Scream Family ValuesMicrosoft Studio Behind Halo Faces a Reboot o",
+          "link": "https://finance.yahoo.com/news/amd-shares-climb-server-market-231550643.html",
+          "publishedOn": "2023-01-31T23:15:50.000Z",
+          "wordCount": 13958,
+          "title": "AMD Shares Climb as Server Market Helps Sales Forecast",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/VvPIsWtcX9FGjWHBuRIe9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/b6af0cbd17e1d296e4fc9ff752235f2b"
         },
         {
           "id": "stocks-moving-in-after-hours-snap-amd-match-group-ea-231315351.html",
@@ -17564,6 +17569,16 @@
           "publishedOn": "2023-01-30T21:55:17.000Z",
           "wordCount": null,
           "title": "Dow Jones Falls 260 Points Ahead Of Fed Meeting, Big Earnings; What To Do Now",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/research/ibd-50-stocks-to-watch-cloud-computing-stock-remains-near-buy-point-after-a-pullback/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-01-30T21:49:46.000Z",
+          "wordCount": null,
+          "title": "Cloud Computing Stock Near Buy Point After A Pullback",
           "imageUrl": null
         },
         {
@@ -40335,16 +40350,6 @@
           "wordCount": 3521,
           "title": "Cathie Wood Watch: Ark Snaps Up More Tesla Shares",
           "imageUrl": "https://www.thestreet.com/.image/t_share/MTgxMzM0MzczMzk4NzUwMzEx/cathie-wood_1_052821.jpg"
-        },
-        {
-          "id": "its-a-touchy-subject-my-in-laws-live-in-our-basement-they-gave-us-our-20-down-payment-should-we-charge-them-for-renovations-11667982954?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "‘My in-laws pay the property taxes, and we pay monthly utilities and home-insurance costs. They do not pay rent.’",
-          "link": "https://www.marketwatch.com/story/its-a-touchy-subject-my-in-laws-live-in-our-basement-they-gave-us-our-20-down-payment-should-we-charge-them-for-renovations-11667982954?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-02T18:39:00.000Z",
-          "wordCount": 7881,
-          "title": "‘It’s a touchy subject’: My in-laws live in our basement. They gave us our 20% down payment. Should we charge them for renovations?",
-          "imageUrl": "https://images.mktw.net/im-262198/social"
         }
       ]
     }
