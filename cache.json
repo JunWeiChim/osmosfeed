@@ -768,6 +768,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6249480/",
+          "author": "onze nieuwsredactie",
+          "description": "De Amerikaanse centrale bankenkoepel Federal Reserve (Fed) heeft woensdag de Amerikaanse rente met 0,25 procentpunt verhoogd. Het is de vijfde keer in iets meer dan een jaar tijd dat dat gebeurt.",
+          "link": "https://www.nu.nl/economie/6249480/amerikaanse-centrale-bank-verhoogt-rente-opnieuw-in-strijd-tegen-inflatie.html",
+          "publishedOn": "2023-02-01T19:41:09.000Z",
+          "wordCount": 995,
+          "title": "Amerikaanse centrale bank verhoogt rente opnieuw in strijd tegen inflatie",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/nhmxlcpa2i69_sqr256.jpg/amerikaanse-centrale-bank-verhoogt-rente-opnieuw-in-strijd-tegen-inflatie.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/nhmxlcpa2i69_sqr256.jpg/amerikaanse-centrale-bank-verhoogt-rente-opnieuw-in-strijd-tegen-inflatie.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6249473/",
           "author": "onze economieredactie",
           "description": "In januari werden 6,5 procent meer nieuwe auto's verkocht dan in dezelfde maand een jaar eerder. Dat melden brancheorganisaties BOVAG en RAI Vereniging en dataspecialist RDC.",
@@ -6976,21 +6991,6 @@
             "url": "https://media.nu.nl/m/zm7x3l7aykvz_sqr256.jpg/jumbo-onderzoek-naar-handel-en-wandel-van-eerd-vindt-niets-onoorbaars.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/zm7x3l7aykvz_sqr256.jpg/jumbo-onderzoek-naar-handel-en-wandel-van-eerd-vindt-niets-onoorbaars.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6245452/",
-          "author": "Tom van Gurp",
-          "description": "Kledingketen Primark ziet nog steeds niets in het optuigen van een webwinkel. Dat zegt topman George Weston in een interview met de Britse zakenkrant Financial Times. Het bedrijf is een van de weinige kledingverkopers zonder online winkel en liep daardoor tijdens de lockdowns veel omzet mis.",
-          "link": "https://www.nu.nl/economie/6245452/topman-primark-wil-nog-altijd-geen-webwinkel-ondanks-verlies-door-lockdowns.html",
-          "publishedOn": "2023-01-03T08:06:43.000Z",
-          "wordCount": 966,
-          "title": "Topman Primark wil nog altijd geen webwinkel ondanks verlies door lockdowns",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/0ucx97yah0yj_sqr256.jpg/topman-primark-wil-nog-altijd-geen-webwinkel-ondanks-verlies-door-lockdowns.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/0ucx97yah0yj_sqr256.jpg/topman-primark-wil-nog-altijd-geen-webwinkel-ondanks-verlies-door-lockdowns.jpg"
         }
       ]
     },
@@ -6999,6 +6999,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/biden-targets-excessive-credit-card-late-fees-7104261",
+          "author": "Lyle Niedens",
+          "description": "President Biden today proposed new regulations targeting excessive credit card late fees and asked Congress to tackle \"junk fees\" on a variety of other products and services",
+          "link": "https://www.investopedia.com/biden-targets-excessive-credit-card-late-fees-7104261?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-01T20:05:00.000Z",
+          "wordCount": 4077,
+          "title": "Biden Proposal Targets Credit Card Late Fees",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/WtOjhCHnRHvwPWMZlnNLNhYNf9E=/3569x2380/GettyImages-14614147121-31db34ff6a52472b9355bc25047ef54b.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/WtOjhCHnRHvwPWMZlnNLNhYNf9E=/3569x2380/GettyImages-14614147121-31db34ff6a52472b9355bc25047ef54b.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/fed-downshifts-inflation-fight-with-quarter-point-rate-hike-7104438",
+          "author": "Staff Author",
+          "description": "The central bank acknowledged the rate hikes have started to quell inflation while signaling determination to keep hiking until the job is done.",
+          "link": "https://www.investopedia.com/fed-downshifts-inflation-fight-with-quarter-point-rate-hike-7104438?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-01T19:59:43.000Z",
+          "wordCount": 3939,
+          "title": "Fed Downshifts Inflation Fight With Quarter-Point Rate Hike",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/d-iqrDIMVG1bvfzc0sVuE-5nZJU=/6000x4000/GettyImages-1449167356-eecc833506854ca0896265f935b87827.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/d-iqrDIMVG1bvfzc0sVuE-5nZJU=/6000x4000/GettyImages-1449167356-eecc833506854ca0896265f935b87827.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/teacher-liability-insurance-7101297",
+          "author": "Staff Author",
+          "description": "Teacher liability insurance should be affordable, comprehensive, and easy to access. Find out the coverages you need and who some of the best providers are.",
+          "link": "https://www.investopedia.com/teacher-liability-insurance-7101297?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-01T19:12:59.000Z",
+          "wordCount": 4251,
+          "title": "Teacher Liability Insurance: What It Is, Costs, and Companies",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/V2mFwxK3RRN0hVXM-iB_bgvP9c4=/1500x1000/Primary-Image-teacher-liability-insurance-what-it-is-costs-and-companies-7101297-c748b8c3155a46309c9bed848ceeccc6.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/V2mFwxK3RRN0hVXM-iB_bgvP9c4=/1500x1000/Primary-Image-teacher-liability-insurance-what-it-is-costs-and-companies-7101297-c748b8c3155a46309c9bed848ceeccc6.jpg"
+        },
         {
           "id": "https://www.investopedia.com/the-new-york-city-economy-tracker-february-1-2023-7104393",
           "author": "Staff Author",
@@ -17077,6 +17122,46 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "intel-cuts-pay-bonuses-and-other-benefits-while-maintaining-dividend-11675279447?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Intel Corp. continues to cut costs for everything except payments to investors.",
+          "link": "https://www.marketwatch.com/story/intel-cuts-pay-bonuses-and-other-benefits-while-maintaining-dividend-11675279447?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-01T19:24:00.000Z",
+          "wordCount": 7077,
+          "title": "Intel cuts pay, bonuses and other benefits while maintaining dividend",
+          "imageUrl": "https://images.mktw.net/im-515112/social"
+        },
+        {
+          "id": "u-s-stocks-whipsaw-as-fed-raises-rates-by-25-basis-points-says-hikes-will-continue-01675279016?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "U.S. stocks whipsawed Wednesday and short-term Treasury yields climbed after the Federal Reserve delivered a 25 basis point interest-rate hike and asserted...",
+          "link": "https://www.marketwatch.com/story/u-s-stocks-whipsaw-as-fed-raises-rates-by-25-basis-points-says-hikes-will-continue-01675279016?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-01T19:16:00.000Z",
+          "wordCount": 6627,
+          "title": "U.S. stocks whipsaw as Fed raises rates by 25 basis points, says hikes will continue",
+          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
+        {
+          "id": "rivian-initiates-a-second-round-of-layoffs-cutting-6-of-workforce-11675272668?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "In a note to employees sent Wednesday, Chief Executive RJ Scaringe said Rivian plans to trim another 6% of its workforce.",
+          "link": "https://www.wsj.com/articles/rivian-initiates-a-second-round-of-layoffs-cutting-6-of-workforce-11675272668?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-01T19:14:00.000Z",
+          "wordCount": 7535,
+          "title": "Rivian to Lay Off 6% of Workforce in EV Maker’s Second Round of Job Cuts",
+          "imageUrl": "https://images.wsj.net/im-714925/social"
+        },
+        {
+          "id": "billionaire-gautam-adanis-empire-makes-a-shocking-u-turn?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.thestreet.com/technology/billionaire-gautam-adanis-empire-makes-a-shocking-u-turn?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-02-01T19:05:00.000Z",
+          "wordCount": null,
+          "title": "Billionaire Gautam Adani's Empire Makes a Shocking U-Turn",
+          "imageUrl": null
+        },
+        {
           "id": "fed-meeting-today-live-updates-113111327.html",
           "author": null,
           "description": "The Fed raised its key interest rate by a smaller amount as it slowed its campaign for a second straight meeting. Chair Jerome Powell speaks next.",
@@ -17085,6 +17170,16 @@
           "wordCount": 15357,
           "title": "Fed interest rate decision today: Central bank hikes by 0.25 percentage point to tame inflation",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Fb4l0HAPQtJFXdP.QMojpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/usa_today_money_325/d6979840ab6d6f9e9cee7bbf67c5c0cb"
+        },
+        {
+          "id": "peloton-stock-is-surging--but-here-are-3-bad-numbers-from-the-latest-earnings-184737339.html",
+          "author": null,
+          "description": "It's far from sunshine and rainbows over at Peloton.",
+          "link": "https://finance.yahoo.com/news/peloton-stock-is-surging--but-here-are-3-bad-numbers-from-the-latest-earnings-184737339.html",
+          "publishedOn": "2023-02-01T18:47:37.000Z",
+          "wordCount": 14310,
+          "title": "Peloton stock is surging — but here are 3 bad numbers from the latest earnings",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/23Cp8RQVbdGyYR8ePPx8aA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-05/62259250-d149-11ec-9fac-02680114fc74"
         },
         {
           "id": "adani-abruptly-abandons-2-4-173135507.html",
@@ -17555,6 +17650,16 @@
           "wordCount": 7557,
           "title": "This may be the ‘biggest mistake’ you’re making with your savings right now — and it could be costing you plenty",
           "imageUrl": "https://images.mktw.net/im-710013/social"
+        },
+        {
+          "id": "want-to-earn-a-guaranteed-4-4-75-on-your-money-while-this-savings-vehicle-hasnt-been-popular-in-recent-years-pros-say-its-now-worth-another-look-01675200551?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The latest rates on CDs",
+          "link": "https://www.marketwatch.com/picks/want-to-earn-a-guaranteed-4-4-75-on-your-money-while-this-savings-vehicle-hasnt-been-popular-in-recent-years-pros-say-its-now-worth-another-look-01675200551?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-01T10:30:00.000Z",
+          "wordCount": 6947,
+          "title": "Want to earn a guaranteed 4%-4.75% on your money? While this savings vehicle hasn’t been that popular in recent years, pros say it’s now worth another look",
+          "imageUrl": "https://images.mktw.net/im-696221/social"
         },
         {
           "id": "meta-platforms-q4-earnings-report-2022-11675203491?siteid=yhoof2&yptr=yahoo",
