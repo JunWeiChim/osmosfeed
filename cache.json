@@ -778,6 +778,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6249496/",
+          "author": "onze nieuwsredactie",
+          "description": "De grote storing die ING woensdag trof, is rond middernacht opgelost. Klanten kunnen weer bankieren via de app en inloggen op Mijn ING.",
+          "link": "https://www.nu.nl/tech/6249496/grote-ing-storing-na-halve-dag-voorbij-klanten-kunnen-weer-inloggen.html",
+          "publishedOn": "2023-02-02T06:41:38.000Z",
+          "wordCount": 711,
+          "title": "Grote ING-storing na halve dag voorbij: klanten kunnen weer inloggen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/ungxt35a0vz0_sqr256.jpg/grote-ing-storing-na-halve-dag-voorbij-klanten-kunnen-weer-inloggen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/ungxt35a0vz0_sqr256.jpg/grote-ing-storing-na-halve-dag-voorbij-klanten-kunnen-weer-inloggen.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6249301/",
           "author": "Jeroen Kraan",
           "description": "Nederland subsidieert het gebruik van fossiele brandstoffen elk jaar met miljarden euro's. Om hoeveel geld het precies gaat, hangt af van wie je het vraagt. Activisten noemen vaak een getal van ruim 17 miljard euro, terwijl het kabinet het houdt op ruim 4 miljard. Hoe je het ook berekent, de miljardensteun is volgens experts niet in lijn met de klimaatdoelen.",
@@ -17158,31 +17173,6 @@
           "wordCount": 3551,
           "title": "Today's Mortgage Rates & Trends - January 3, 2023: Rates dip",
           "imageUrl": "https://www.investopedia.com/thmb/wSkkGiVJA4hzBJo1W9f4nHSquXM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/January23MortageRatesNews-03-751aeac4194447f3b8cbe698ebe9dc4c.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/best-brokers-for-day-trading-4587880",
-          "author": "Michael Sacchitello",
-          "description": "Looking for the best place to trade actively? We reviewed the best brokers & trading platforms based on execution speed, ease of use, pricing, reliability, and customer service.",
-          "link": "https://www.investopedia.com/best-brokers-for-day-trading-4587880?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-03T19:01:37.000Z",
-          "wordCount": 7313,
-          "title": "Best Day Trading Platforms 2023",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/I-ZwabpfwN_tvZSYbj275B8ico8=/2347x1565/inv-best-of-template-11-5c5c405446e0fb00015873d7.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/I-ZwabpfwN_tvZSYbj275B8ico8=/2347x1565/inv-best-of-template-11-5c5c405446e0fb00015873d7.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/federal-pandemic-unemployment-programs-how-they-worked-4801925",
-          "author": "Jean Folger",
-          "description": "The three temporary federal pandemic unemployment programs provided benefits to a wider range of people, plus a longer benefit period, and an extra $600 a week on top of the regular unemployment insurance benefit. Here's how they worked.",
-          "link": "https://www.investopedia.com/federal-pandemic-unemployment-programs-how-they-worked-4801925?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-03T18:36:41.000Z",
-          "wordCount": 5137,
-          "title": "The Federal Pandemic Unemployment Programs: How They Worked",
-          "imageUrl": "https://www.investopedia.com/thmb/qCNxz_-yx5QaHRB41zf1dBPsKKg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-12038540161-9a9bdc71c26644a598c6b2fbfbf43386.jpg"
         }
       ]
     },
@@ -17200,6 +17190,16 @@
           "wordCount": 14583,
           "title": "Adani Stock Wipeout Deepens to $104 Billion After Flagship Firm Pulls Share Sale",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/e1702c86924388323445401f48592e3d"
+        },
+        {
+          "id": "indias-adani-calls-off-2-032338650.html",
+          "author": null,
+          "description": "Indian conglomerate Adani Group’s flagship company Adani Enterprises has called off its $2.5 billion share sale, also known as a follow-on public offer, according to a statement issued by the firm to exchanges on Wednesday. What Happened: The board decided not to go ahead with the share sale, which was fully subscribed. \"Given the unprecedented situation and the current market volatility, the company aims to protect the interest of its investing community by returning the FPO proceeds and withdr",
+          "link": "https://finance.yahoo.com/news/indias-adani-calls-off-2-032338650.html",
+          "publishedOn": "2023-02-02T03:23:38.000Z",
+          "wordCount": 14026,
+          "title": "India's Adani Calls Off $2.5B Share Sale — Bill Ackman Gets Suspicious About Offering",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/0565725a8cfcb412f08fa0f780550b4c"
         },
         {
           "id": "the-world-s-10-most-profitable-companies-4694526?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
@@ -17360,6 +17360,16 @@
           "wordCount": 13847,
           "title": "Meta earnings: Stock spikes after better-than-expected revenue",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/qLW0Y3d8Xlk2G9knntu0yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDM-/https://s.yimg.com/os/creatr-uploaded-images/2022-08/fbe13630-3024-11ed-affd-49f16123bfc3"
+        },
+        {
+          "id": "bitcoin-could-hit-1-5-211052974.html",
+          "author": null,
+          "description": "In the midst of a brutal Crypto Winter, one of Bitcoin’s biggest bulls is as optimistic as ever.",
+          "link": "https://finance.yahoo.com/news/bitcoin-could-hit-1-5-211052974.html",
+          "publishedOn": "2023-02-01T21:10:52.000Z",
+          "wordCount": 13863,
+          "title": "Bitcoin could hit $1.5 million in just 7 years according to a new report from Cathie Wood’s ARK Invest",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/bCzpy_rfMto4bB6c83C78Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/7624e73b7ae7285301deb1669ec96dd3"
         },
         {
           "id": "rivian-has-more-bad-news?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
@@ -17530,6 +17540,16 @@
           "wordCount": 7063,
           "title": "‘Won’t get fooled again’?: Nasdaq jumped over 10% in January. Here’s what history shows happens next to the tech-heavy index",
           "imageUrl": "https://images.mktw.net/im-658522/social"
+        },
+        {
+          "id": "legendary-big-short-investor-michael-163331814.html",
+          "author": null,
+          "description": "Burry is known for spotting bubbles, and he’s worried stocks are still in the midst of one—despite the drop in 2022.",
+          "link": "https://finance.yahoo.com/news/legendary-big-short-investor-michael-163331814.html",
+          "publishedOn": "2023-02-01T16:33:31.000Z",
+          "wordCount": 14382,
+          "title": "Legendary ‘Big Short’ investor Michael Burry issues an ominous warning after the latest stock market rally: ‘Sell.’",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/DybhwMVPnhNrrd7ogcLHwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjI-/https://media.zenfs.com/en/fortune_175/db335aebf6d606445c757367a603f2ff"
         },
         {
           "id": "ask-advisor-am-60-years-154214529.html",
@@ -18010,6 +18030,16 @@
           "wordCount": 14481,
           "title": "Adani Rout Passes $80 Billion as Stock Sale Fails to Stems Doubt",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/cbhNaUOmdi4JDbvIYmeB2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/efdc80a34364667d482816f7b675b0c1"
+        },
+        {
+          "id": "meridian-finalizes-sale-sd-biosensor-sjl-partners.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "author": null,
+          "description": "Meridian Bioscience has finalized its blockbuster sale to a pair of South Korean-based firms, a $1.53 billion acquisition that will end its long-time standing as a publicly traded firm.",
+          "link": "https://www.bizjournals.com/cincinnati/news/2023/02/01/meridian-finalizes-sale-sd-biosensor-sjl-partners.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "publishedOn": "2023-02-01T08:28:22.000Z",
+          "wordCount": 4086,
+          "title": "Meridian Bioscience finalizes $1.53B sale to South Korean-based firms",
+          "imageUrl": "https://media.bizj.us/view/img/10924361/jack-kenny*1200xx1842-1036-19-0.png"
         },
         {
           "id": "gold-prices-gaining-how-to-invest-51675211440?siteid=yhoof2&yptr=yahoo",
@@ -40980,46 +41010,6 @@
           "wordCount": 13923,
           "title": "Ex-Fed Chief Greenspan Says US Recession Is Likely",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/o07qk8aK0geDg86UHoG7iQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/1cec0e78a24e18b029485a13ffe0b258"
-        },
-        {
-          "id": "20-stocks-expected-by-goldman-sachs-to-gain-the-most-from-washingtons-clean-energy-spending-11672772971?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The landmark legislation includes $391 billion in spending, which is expected to help earnings.",
-          "link": "https://www.marketwatch.com/story/20-stocks-expected-by-goldman-sachs-to-gain-the-most-from-washingtons-clean-energy-spending-11672772971?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-03T19:09:00.000Z",
-          "wordCount": 7666,
-          "title": "20 stocks expected by Goldman Sachs to gain the most from Washington’s clean-energy spending",
-          "imageUrl": "https://images.mktw.net/im-695989/social"
-        },
-        {
-          "id": "costco-stock-may-be-nearing-a-compelling-tactical-inflection-point-analyst-says-190114454.html",
-          "author": null,
-          "description": "This analyst says to keep an eye on Costco's stock for this important reason.",
-          "link": "https://finance.yahoo.com/news/costco-stock-may-be-nearing-a-compelling-tactical-inflection-point-analyst-says-190114454.html",
-          "publishedOn": "2023-01-03T19:01:14.000Z",
-          "wordCount": 14040,
-          "title": "Costco stock may be nearing a ‘compelling tactical inflection point,’ analyst says",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/T7zqJvY8IYeeRK2iB4aJUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04ODU-/https://s.yimg.com/os/creatr-uploaded-images/2021-04/987736e0-9628-11eb-9da7-bd4a7b2d466c"
-        },
-        {
-          "id": "bed-bath-beyond-stock-is-plummeting-again-182735978.html",
-          "author": null,
-          "description": "Bed Bath & Beyond shares see a huge reversal.",
-          "link": "https://finance.yahoo.com/news/bed-bath-beyond-stock-is-plummeting-again-182735978.html",
-          "publishedOn": "2023-01-03T18:27:35.000Z",
-          "wordCount": 13854,
-          "title": "Bed Bath & Beyond stock is plummeting again",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/4Y4XTak6luaQ3a79wTcX1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/13020f50-fddb-11ec-b54f-cbefc8d3cebf"
-        },
-        {
-          "id": "tesla-cinderella-ride-over-demand-182343636.html",
-          "author": null,
-          "description": "“The Cinderella ride is over for Tesla, and Musk now needs to navigate the company through this Category 5 dark macro storm,” Tesla bull Dan Ives wrote in a Tuesday note.",
-          "link": "https://finance.yahoo.com/news/tesla-cinderella-ride-over-demand-182343636.html",
-          "publishedOn": "2023-01-03T18:23:43.000Z",
-          "wordCount": 14451,
-          "title": "Tesla’s ‘Cinderella ride’ is over and demand is ‘starting to crack,’ Wedbush’s Dan Ives says. Here’s what could come next",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/HBMJcazpTkOUhcVGTTUTMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/208674503a74fb9208a888b2d44e04fb"
         }
       ]
     }
