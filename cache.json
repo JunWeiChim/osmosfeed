@@ -542,16 +542,6 @@
           "wordCount": 412,
           "title": "Salesforce to Axe 10% of Workers",
           "imageUrl": null
-        },
-        {
-          "id": "ae2301c1644d0b0dee905833c5357dfe",
-          "author": "Investopedia",
-          "description": "A new funding round led by Andreessen Horowitz could boost the reusable rocket company as it marks 200th launch.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9577c6e11abd112f89822da2e633228109089369d560e8c1",
-          "publishedOn": "2023-01-03T20:14:03.486Z",
-          "wordCount": 412,
-          "title": "SpaceX Raising $750 Million, Valuing it at $137 Billion",
-          "imageUrl": null
         }
       ]
     },
@@ -777,6 +767,51 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6249517/",
+          "author": "onze economieredactie",
+          "description": "Shell heeft in 2022 een recordwinst van 39,9 miljard dollar (36,3 miljard euro) geboekt. Het bedrijf profiteerde vorig jaar van de hogere olie- en gasprijzen.",
+          "link": "https://www.nu.nl/economie/6249517/shell-boekt-recordwinst-van-bijna-40-miljard-dollar-door-hoge-olie-en-gasprijzen.html",
+          "publishedOn": "2023-02-02T07:53:52.000Z",
+          "wordCount": 967,
+          "title": "Shell boekt recordwinst van bijna 40 miljard dollar door hoge olie- en gasprijzen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/02ixdvqakt20_sqr256.jpg/shell-boekt-recordwinst-van-bijna-40-miljard-dollar-door-hoge-olie-en-gasprijzen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/02ixdvqakt20_sqr256.jpg/shell-boekt-recordwinst-van-bijna-40-miljard-dollar-door-hoge-olie-en-gasprijzen.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6249516/",
+          "author": "onze economieredactie",
+          "description": "Groothandel Sligro heeft afgelopen jaar meer verkocht. Dat was vooral te danken aan het verdwijnen van de coronamaatregelen en de gestegen prijzen als gevolg van de hoge inflatie. De omzet steeg met bijna 31 procent tot 2,5 miljard euro.",
+          "link": "https://www.nu.nl/economie/6249516/sligro-ziet-verkopen-stijgen-door-einde-coronamaatregelen-en-hogere-prijzen.html",
+          "publishedOn": "2023-02-02T07:52:15.000Z",
+          "wordCount": 1069,
+          "title": "Sligro ziet verkopen stijgen door einde coronamaatregelen en hogere prijzen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/ywsx15eany78_sqr256.jpg/sligro-ziet-verkopen-stijgen-door-einde-coronamaatregelen-en-hogere-prijzen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/ywsx15eany78_sqr256.jpg/sligro-ziet-verkopen-stijgen-door-einde-coronamaatregelen-en-hogere-prijzen.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6249511/",
+          "author": "onze economieredactie",
+          "description": "De winst van ING is vorig jaar met 23 procent gedaald naar 3,7 miljard euro. Dat kwam mede door de oorlog in Oekraïne, meldt de bank. ING boerde wel goed met de hogere rentes aan het einde van het jaar, waardoor de bank meer verdiende met kredietverlening.",
+          "link": "https://www.nu.nl/economie/6249511/winst-ing-daalt-met-een-kwart-door-oorlog-in-oekraine.html",
+          "publishedOn": "2023-02-02T07:21:08.000Z",
+          "wordCount": 867,
+          "title": "Winst ING daalt met een kwart door oorlog in Oekraïne",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/0b9xviuaez2b_sqr256.jpg/winst-ing-daalt-met-een-kwart-door-oorlog-in-oekraine.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/0b9xviuaez2b_sqr256.jpg/winst-ing-daalt-met-een-kwart-door-oorlog-in-oekraine.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6249496/",
           "author": "onze nieuwsredactie",
@@ -17088,91 +17123,6 @@
           "wordCount": 7482,
           "title": "Barreling into 2023 with Bond ETFs",
           "imageUrl": "https://www.investopedia.com/thmb/X73UR0U2tzIwdTJKLR2QBUc3TU4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/expressthumb-a36bbb96d8334b23bf1b081e786c77bc-7121f805a71440c88c8992653c93d05b.png"
-        },
-        {
-          "id": "https://www.investopedia.com/tesla-shares-slide-7090869",
-          "author": "Igor Greenwald",
-          "description": "The weakest stock in the S&P 500 was also hit by news that most Tesla models won't qualify for new U.S. tax credits",
-          "link": "https://www.investopedia.com/tesla-shares-slide-7090869?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-03T20:07:44.000Z",
-          "wordCount": 4188,
-          "title": "Tesla Skids 15% After Deliveries Shortfall",
-          "imageUrl": "https://www.investopedia.com/thmb/LAkq5FYv0Jf3ZN5mu0RspmJxyw4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Cybertruck-Beer-FT-BLOG1021-50e230031f9c4e078c892f6befb1558e.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/best-brokers-for-international-trading-4587881",
-          "author": "Michael Sacchitello",
-          "description": "We reviewed the best brokers for international trading platforms for both U.S.-based and non-U.S. citizens. Get details on the features, as well as their pros and cons.",
-          "link": "https://www.investopedia.com/best-brokers-for-international-trading-4587881?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-03T19:59:57.000Z",
-          "wordCount": 6075,
-          "title": "Best Brokers for International Trading 2023",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/I-ZwabpfwN_tvZSYbj275B8ico8=/2347x1565/inv-best-of-template-11-5c5c405446e0fb00015873d7.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/I-ZwabpfwN_tvZSYbj275B8ico8=/2347x1565/inv-best-of-template-11-5c5c405446e0fb00015873d7.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/f/fire-insurance.asp",
-          "author": "Alexandra Twin",
-          "description": "Fire insurance covers damage and losses caused by fire and is often purchased in addition to standard homeowners insurance. Learn how coverage works.",
-          "link": "https://www.investopedia.com/terms/f/fire-insurance.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-03T19:59:51.000Z",
-          "wordCount": 4596,
-          "title": "Fire Insurance: Definition, Elements, How It Works, and Example",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Cm1SSr6HJMo1KotOE3CR-Gv2q6s=/380x254/200270955-001-5bfc2b8bc9e77c00517fd20f.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Cm1SSr6HJMo1KotOE3CR-Gv2q6s=/380x254/200270955-001-5bfc2b8bc9e77c00517fd20f.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/credit-unions-claim-market-share-with-lower-auto-loan-rates-7090702",
-          "author": "Staff Author",
-          "description": "Credit unions are offering consumers more competitive interest rates than banks. As a result, they're now claiming more market share of auto loans.",
-          "link": "https://www.investopedia.com/credit-unions-claim-market-share-with-lower-auto-loan-rates-7090702?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-03T19:33:12.000Z",
-          "wordCount": 3138,
-          "title": "Credit Unions Dominate Auto Loan Market Share with Lower Rates",
-          "imageUrl": "https://www.investopedia.com/thmb/MNFD1EfuJVLv8S3nN_gb0BAYENw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/carshopping-b4475de50d764ab3959136e94b4148ec.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/06/stockexchangeclosed.asp",
-          "author": "Albert Phung",
-          "description": "Like most companies, the major U.S. stock markets are open for trading on normal business days only.",
-          "link": "https://www.investopedia.com/ask/answers/06/stockexchangeclosed.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-03T19:28:43.000Z",
-          "wordCount": 4952,
-          "title": "What Days Are the U.S. Stock Exchanges Closed in 2023?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/oLa8AFwbGfQF4fjlcJMHbiXoHbw=/680x440/nyse-5bfc3180c9e77c0026317a88.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/oLa8AFwbGfQF4fjlcJMHbiXoHbw=/680x440/nyse-5bfc3180c9e77c0026317a88.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/spacex-valuation-7090893",
-          "author": "Nathan Reiff",
-          "description": "A new funding round led by Andreessen Horowitz could boost the reusable rocket company as it marks 200th launch.",
-          "link": "https://www.investopedia.com/spacex-valuation-7090893?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-03T19:25:30.000Z",
-          "wordCount": 3193,
-          "title": "SpaceX Raising $750 Million, Valuing it at $137 Billion",
-          "imageUrl": "https://www.investopedia.com/thmb/MrDHgxuMwzvt3H2vJoLpxw6PwEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spacex-starship-101322-1-0e3e6082b7f24f32851f76f700e7c7ac.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-january-3-2023-rates-dip-7090682",
-          "author": "Sabrina Karl",
-          "description": "After averaging well above 7% for the first time since November, 30-year mortgage rates have dropped back down below the notable threshold.",
-          "link": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-january-3-2023-rates-dip-7090682?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-03T19:15:28.000Z",
-          "wordCount": 3551,
-          "title": "Today's Mortgage Rates & Trends - January 3, 2023: Rates dip",
-          "imageUrl": "https://www.investopedia.com/thmb/wSkkGiVJA4hzBJo1W9f4nHSquXM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/January23MortageRatesNews-03-751aeac4194447f3b8cbe698ebe9dc4c.jpg"
         }
       ]
     },
@@ -17181,6 +17131,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "amazon-earnings-stock-price-aws-51675280721?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The company's fourth-quarter results will likely be muted by weakness in e-commerce, and slower growth in cloud and advertising markets.",
+          "link": "https://www.barrons.com/articles/amazon-earnings-stock-price-aws-51675280721?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-02T05:30:00.000Z",
+          "wordCount": 6602,
+          "title": "Amazon Earnings Are Today. All Eyes Are on Its Cloud Computing Business.",
+          "imageUrl": "https://images.barrons.com/im-714432/social"
+        },
         {
           "id": "adani-stock-wipeout-deepens-104-035342405.html",
           "author": null,
@@ -17310,6 +17270,16 @@
           "wordCount": 13579,
           "title": "Stocks moving in after-hours: Meta, ELF, Align",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/2f1LcG7Do4HxpZou7PQBvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mzc-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/eefd82e0-7d84-11ed-bff6-e002b6488879"
+        },
+        {
+          "id": "byd-ev-sales-china-51675289053?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "January EV sales in China look miserable. Tesla investors should prepare for a weak number when industry data providers release its wholesale delivery figure.",
+          "link": "https://www.barrons.com/articles/byd-ev-sales-china-51675289053?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-01T22:06:00.000Z",
+          "wordCount": 6575,
+          "title": "BYD’s EV Sales Show Contracting China Market. Tesla Could Get Hit Next.",
+          "imageUrl": "https://images.barrons.com/im-654073/social"
         },
         {
           "id": "powell-holds-fire-markets-breaking-212213820.html",
@@ -17540,6 +17510,16 @@
           "wordCount": 7063,
           "title": "‘Won’t get fooled again’?: Nasdaq jumped over 10% in January. Here’s what history shows happens next to the tech-heavy index",
           "imageUrl": "https://images.mktw.net/im-658522/social"
+        },
+        {
+          "id": "silvergate-stock-blackrock-51675269853?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "While Silvergate Capital has fallen double digits in 2023, the stock could be a buy—if the bank is able to pull off its turnaround.",
+          "link": "https://www.barrons.com/articles/silvergate-stock-blackrock-51675269853?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-01T16:44:00.000Z",
+          "wordCount": 6519,
+          "title": "BlackRock Bought Silvergate Stock. Others Are Bullish on the Beaten-Up Crypto Bank.",
+          "imageUrl": "https://images.barrons.com/im-489169/social"
         },
         {
           "id": "legendary-big-short-investor-michael-163331814.html",
@@ -40990,26 +40970,6 @@
           "wordCount": 6413,
           "title": "Apple Stock Just Keeps Falling. It’s Worth Less Than $2 Trillion Now.",
           "imageUrl": "https://images.barrons.com/im-693886/social"
-        },
-        {
-          "id": "united-furniture-involuntary-liquidation-petition.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
-          "author": null,
-          "description": "Involuntary liquidation petition filed against United Furniture over abrupt shutdown.",
-          "link": "https://www.bizjournals.com/triad/news/2023/01/03/united-furniture-involuntary-liquidation-petition.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
-          "publishedOn": "2023-01-03T20:02:48.000Z",
-          "wordCount": 4585,
-          "title": "Wells Fargo, two suppliers seek Chapter 7 liquidation for United Furniture",
-          "imageUrl": "https://media.bizj.us/view/img/10749645/united-furniture*1200xx4032-2268-0-378.jpg"
-        },
-        {
-          "id": "ex-fed-chief-greenspan-says-192229811.html",
-          "author": null,
-          "description": "(Bloomberg) -- Former Federal Reserve Chair Alan Greenspan said a US recession is the “most likely outcome” as the central bank tightens monetary policy to curb inflation. Most Read from BloombergChina’s Foreign Minister Says ‘Deeply Impressed’ With AmericansShopify Tells Employees to Just Say No to MeetingsMcCarthy Loses Third Round of Voting for House SpeakerWhile the last two monthly reports showed a deceleration in consumer-price increases, “I don’t think it will warrant a Fed reversal that",
-          "link": "https://finance.yahoo.com/news/ex-fed-chief-greenspan-says-192229811.html",
-          "publishedOn": "2023-01-03T19:22:29.000Z",
-          "wordCount": 13923,
-          "title": "Ex-Fed Chief Greenspan Says US Recession Is Likely",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/o07qk8aK0geDg86UHoG7iQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/1cec0e78a24e18b029485a13ffe0b258"
         }
       ]
     }
