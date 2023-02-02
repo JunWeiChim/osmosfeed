@@ -768,6 +768,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6249563/",
+          "author": "onze techredactie",
+          "description": "Externe Twitter-apps krijgen vanaf volgende week alleen nog tegen betaling toegang tot het sociale netwerk. Twitter heeft meerdere van die apps, zoals Tweetbot, Twitterrific en Fenix, al weken geblokkeerd.",
+          "link": "https://www.nu.nl/tech/6249563/twitter-wil-geld-zien-van-externe-apps.html",
+          "publishedOn": "2023-02-02T12:26:05.000Z",
+          "wordCount": 862,
+          "title": "Twitter wil geld zien van externe apps",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/h15x6tgaev2a_sqr256.jpg/twitter-wil-geld-zien-van-externe-apps.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/h15x6tgaev2a_sqr256.jpg/twitter-wil-geld-zien-van-externe-apps.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6249542/",
           "author": "Eva Schouten",
           "description": "De gascrisis waar Europa sinds de oorlog in Oekraïne in verzeild is geraakt, had nog veel groter kunnen zijn. We hebben in 2022 nog geluk gehad, zei de nieuwe Shell-topman Wael Sawan bij de presentatie van de jaarcijfers van het energieconcern. Shell draaide een recordwinst, mede dankzij die gascrisis.",
@@ -17128,16 +17143,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/VjUIx3g5IkHvsKd4oWwAR8Wzg3w=/205x136/investing13-5bfc2b8f46e0fb0026016f4d.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/uk-faces-deep-recession-2023-7091133",
-          "author": "Igor Greenwald",
-          "description": "Analysts expect the country to suffer deepest recession and slowest recovery among advanced economies",
-          "link": "https://www.investopedia.com/uk-faces-deep-recession-2023-7091133?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-04T00:08:00.000Z",
-          "wordCount": 3389,
-          "title": "UK Gloom Deepens Amid Strikes, Economic Setbacks",
-          "imageUrl": "https://www.investopedia.com/thmb/54nrPsxfApS016pOkrgWA8L-Hm8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1312550959-a2ade65b126a45d38fe211f8ffae48ca.jpg"
         }
       ]
     },
@@ -17146,6 +17151,66 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "eli-lilly-earnings-51675339392?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The pharmaceutical group reports earnings of $2.09 a share in the fourth quarter on revenue of $7.3 billion.",
+          "link": "https://www.barrons.com/articles/eli-lilly-earnings-51675339392?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-02T12:03:00.000Z",
+          "wordCount": 6589,
+          "title": "Eli Lilly Stock Falls Even as Earnings Crush Estimates",
+          "imageUrl": "https://images.barrons.com/im-638287/social"
+        },
+        {
+          "id": "eli-lilly-tops-q4-profit-forecast-on-continued-trulicity-strength?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.thestreet.com/markets/eli-lilly-tops-q4-profit-forecast-on-continued-trulicity-strength?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-02-02T12:02:00.000Z",
+          "wordCount": null,
+          "title": "Eli Lilly Tops Q4 Earnings Forecast, Lifts 2023 Outlook, On Trulicity Strength",
+          "imageUrl": null
+        },
+        {
+          "id": "honeywell-stock-dips-as-conglomerate-misses-revenue-mark-01675338847?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Honeywell international Inc. stock fell 1.9% in premarket trades after the industrial company beat its adjusted earnings target but fell short of its revenue...",
+          "link": "https://www.marketwatch.com/story/honeywell-stock-dips-as-conglomerate-misses-revenue-mark-01675338847?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-02T11:54:00.000Z",
+          "wordCount": 6511,
+          "title": "Honeywell stock dips as conglomerate misses revenue mark",
+          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
+        {
+          "id": "merck-stock-slumps-as-2023-profit-outlook-clouds-q4-earnings-beat?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.thestreet.com/markets/merck-stock-slumps-as-2023-profit-outlook-clouds-q4-earnings-beat?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-02-02T11:48:00.000Z",
+          "wordCount": null,
+          "title": "Merck Stock Slumps As 2023 Profit Outlook Clouds Q4 Earnings Beat",
+          "imageUrl": null
+        },
+        {
+          "id": "why-meta-stock-is-jumping-earnings-results-miss-111907549.html",
+          "author": null,
+          "description": "In this market, the last thing investors have been rewarding this earnings season is a bottom-line miss vs. expectations of any magnitude. \nExcept if you are Meta.",
+          "link": "https://finance.yahoo.com/news/why-meta-stock-is-jumping-earnings-results-miss-111907549.html",
+          "publishedOn": "2023-02-02T11:19:07.000Z",
+          "wordCount": 14302,
+          "title": "2 reasons Meta stock is exploding 20% after a whopper earnings miss",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/UPTbJZto1O2IlQG09YLALw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/b4723fd0-8234-11ed-afd5-da17577add02"
+        },
+        {
+          "id": "stanley-black-decker-dives-after-q4-results-beat-expectations-but-2023-outlook-is-well-below-forecasts-01675336216?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shares of Stanley Black & Decker dove 4.6% in premarket trading Thursday, after the tools maker reported fourth-quarter results that beat expectations but...",
+          "link": "https://www.marketwatch.com/story/stanley-black-decker-dives-after-q4-results-beat-expectations-but-2023-outlook-is-well-below-forecasts-01675336216?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-02T11:10:00.000Z",
+          "wordCount": 6616,
+          "title": "Stanley Black & Decker dives after Q4 results beat expectations, but 2023 outlook is well below forecasts",
+          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
         {
           "id": "stock-market-movers-meta-apple-google-amazon-51675266424?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -17405,6 +17470,16 @@
           "wordCount": null,
           "title": "Meta Revenue Beats As Company Announces $40 Billion Buyback",
           "imageUrl": null
+        },
+        {
+          "id": "3-reasons-your-401k-not-enough-retirement.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "Learn the basic structure of a 401(k) and why it may not be enough to sustain you during retirement.",
+          "link": "https://www.investopedia.com/articles/personal-finance/081315/3-reasons-your-401k-not-enough-retirement.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-02-01T21:47:12.000Z",
+          "wordCount": 5411,
+          "title": "Reasons Your 401(k) Is Not Enough for Retirement",
+          "imageUrl": "https://www.investopedia.com/thmb/FBx5hdemmsJoNtS7JQNR2JK2Thc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12_--thinkstockphotos-465693050-5bfc39564cedfd0026c4d6f0.jpg"
         },
         {
           "id": "meta-stock-spikes-despite-earnings-miss-as-facebook-hits-2-billion-users-for-first-time-and-sales-guidance-hits-11675286240?siteid=yhoof2&yptr=yahoo",
@@ -40935,56 +41010,6 @@
           "wordCount": 14571,
           "title": "Seeking at Least 10% Dividend Yield? These 2 ‘Strong Buy’ Dividend Stocks Do the Job",
           "imageUrl": "https://media.zenfs.com/en/tipranks_452/91af91475b16eff531d1bd9f9e5b4c96"
-        },
-        {
-          "id": "fed-minutes-reveal-source-inflation-000000159.html",
-          "author": null,
-          "description": "(Bloomberg) -- The Federal Reserve is set to shed more light on why it’s worried that strong inflation may linger as the US economy moves into the new year.Most Read from BloombergChina’s Foreign Minister Says ‘Deeply Impressed’ With AmericansElon Musk Becomes First Person Ever to Lose $200 BillionShopify Tells Employees to Just Say No to MeetingsAt the conclusion of the Dec. 13-14 meeting of the Federal Open Market Committee, policymakers published new projections showing they expected inflatio",
-          "link": "https://finance.yahoo.com/news/fed-minutes-reveal-source-inflation-000000159.html",
-          "publishedOn": "2023-01-04T00:00:00.000Z",
-          "wordCount": 14345,
-          "title": "Fed Minutes to Reveal Source of Inflation Angst Pushing Up Rates",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/5b0f9093ba80a10d1a244d6923a81c75"
-        },
-        {
-          "id": "ford-f-series-remains-top-selling-truck-new-lightning-ev-reportedly-coming-in-2025-233405096.html",
-          "author": null,
-          "description": "For the 46th consecutive year, Ford says its F-Series pick-ups will be the top selling truck in America for 2022.\nThough the official sales Ford data doesn’t come out until January 5th, the Dearborn-based automaker is fairly positive that the over 640,000 F-Series trucks sold will top rivals like GM, Toyota, and Stellantis’ Ram brand.",
-          "link": "https://finance.yahoo.com/news/ford-f-series-remains-top-selling-truck-new-lightning-ev-reportedly-coming-in-2025-233405096.html",
-          "publishedOn": "2023-01-03T23:34:05.000Z",
-          "wordCount": 13881,
-          "title": "Ford F-Series remains top-selling truck; new Lightning EV reportedly coming in 2025",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/kYt.AD1Ym9bUMkC.vxAdBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MzE-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/daf00a30-8bb1-11ed-97f7-a518bc0d2481"
-        },
-        {
-          "id": "ev-startup-rivian-missed-2022-production-target-11672788861?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Rivian fell short of its 25,000-vehicle production target for 2022, capping a challenging year for the electric-truck startup.",
-          "link": "https://www.wsj.com/articles/ev-startup-rivian-missed-2022-production-target-11672788861?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-03T23:34:00.000Z",
-          "wordCount": 7288,
-          "title": "EV Startup Rivian Missed 2022 Production Target",
-          "imageUrl": "https://images.wsj.net/im-696320/social"
-        },
-        {
-          "id": "southwest-gets-even-more-bad-news?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "The fallout from Southwest's holiday meltdown continues.",
-          "link": "https://www.thestreet.com/travel/southwest-gets-even-more-bad-news?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2023-01-03T23:20:00.000Z",
-          "wordCount": 3071,
-          "title": "Southwest Airlines Gets Even More Bad News",
-          "imageUrl": "https://www.thestreet.com/.image/t_share/MTkzNDQ1OTkxOTI2NDc0NDI5/southwest-airlines-lead-js-110122.jpg"
-        },
-        {
-          "id": "teslas-sales-miss-puts-spotlight-on-margins-11672760678?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Tesla’s disappointing deliveries won’t be the last headline about car sales this week. But investors will need to wait longer for firm answers to a more important question: How valuable are those sales?",
-          "link": "https://www.wsj.com/articles/teslas-sales-miss-puts-spotlight-on-margins-11672760678?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-03T23:18:00.000Z",
-          "wordCount": 7702,
-          "title": "Tesla’s Sales Miss Puts Spotlight on Margins",
-          "imageUrl": "https://images.wsj.net/im-695732/social"
         }
       ]
     }
