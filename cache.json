@@ -552,16 +552,6 @@
           "wordCount": 412,
           "title": "SpaceX Raising $750 Million, Valuing it at $137 Billion",
           "imageUrl": null
-        },
-        {
-          "id": "3241a1f9926b7e139360db4407c6101d",
-          "author": "rss.app",
-          "description": "",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8366d5ec16ab5b2ac59c3db3fd28399c090a9161dd6ce0cb",
-          "publishedOn": "2023-01-03T16:18:25.884Z",
-          "wordCount": 412,
-          "title": "Earnings Reports and News",
-          "imageUrl": null
         }
       ]
     },
@@ -779,16 +769,6 @@
           "wordCount": 412,
           "title": "BofA Stock Indicator Nears 'Buy' Signal",
           "imageUrl": null
-        },
-        {
-          "id": "118bcb613102bc7bd139a844ca70f9e9",
-          "author": "Investopedia",
-          "description": "In 2022, major U.S. equity indexes posted their first annual decline since 2018, and the steepest since the 2008 financial crisis.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9066cbf71ae84836989d75a4e0353a9b4c12ca3ec86ae1c01066138b32c56b83c0",
-          "publishedOn": "2023-01-03T16:18:25.815Z",
-          "wordCount": 412,
-          "title": "Value Tops Growth in 2022",
-          "imageUrl": null
         }
       ]
     },
@@ -797,6 +777,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6249301/",
+          "author": "Jeroen Kraan",
+          "description": "Nederland subsidieert het gebruik van fossiele brandstoffen elk jaar met miljarden euro's. Om hoeveel geld het precies gaat, hangt af van wie je het vraagt. Activisten noemen vaak een getal van ruim 17 miljard euro, terwijl het kabinet het houdt op ruim 4 miljard. Hoe je het ook berekent, de miljardensteun is volgens experts niet in lijn met de klimaatdoelen.",
+          "link": "https://www.nu.nl/klimaat/6249301/17-miljard-of-minder-klimaatdoelen-tegengewerkt-door-fossiele-subsidie.html",
+          "publishedOn": "2023-02-02T04:31:45.000Z",
+          "wordCount": 1557,
+          "title": "NU+ | 17 miljard of minder? 'Klimaatdoelen tegengewerkt door fossiele subsidie'",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/2k9xsunar3j6_sqr256.jpg/17-miljard-of-minder-klimaatdoelen-tegengewerkt-door-fossiele-subsidie.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/2k9xsunar3j6_sqr256.jpg/17-miljard-of-minder-klimaatdoelen-tegengewerkt-door-fossiele-subsidie.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6249466/",
           "author": "Thijs Rösken",
@@ -17198,76 +17193,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/I-ZwabpfwN_tvZSYbj275B8ico8=/2347x1565/inv-best-of-template-11-5c5c405446e0fb00015873d7.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/best-brokers-for-etfs-4587875",
-          "author": "Michael Sacchitello",
-          "description": "Looking for the best place to buy and sell ETFs? We reviewed the best ETF brokers & trading platforms based on their selection, research, screeners, and more.",
-          "link": "https://www.investopedia.com/best-brokers-for-etfs-4587875?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-03T16:56:07.000Z",
-          "wordCount": 7043,
-          "title": "Best Brokers for ETFs of 2023",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/I-ZwabpfwN_tvZSYbj275B8ico8=/2347x1565/inv-best-of-template-11-5c5c405446e0fb00015873d7.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/I-ZwabpfwN_tvZSYbj275B8ico8=/2347x1565/inv-best-of-template-11-5c5c405446e0fb00015873d7.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/stocks/11/intro-tax-efficient-investing.asp",
-          "author": "Jean Folger",
-          "description": "Tax-efficient investing can minimize your tax burden and maximize your returns. Find out why tax-efficient investing is important and how it can save you money.",
-          "link": "https://www.investopedia.com/articles/stocks/11/intro-tax-efficient-investing.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-03T16:54:28.000Z",
-          "wordCount": 4851,
-          "title": "Tax-Efficient Investing: A Beginner's Guide",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/KjbRAbpwj4KTe7R8vt-YSyKNfsQ=/680x440/tax_9-5bfc357846e0fb005146b292.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/KjbRAbpwj4KTe7R8vt-YSyKNfsQ=/680x440/tax_9-5bfc357846e0fb005146b292.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/m/mid_cap_fund.asp",
-          "author": "James Chen",
-          "description": "A mid-cap fund is a type of investment fund that focuses its investments on companies with a capitalization in the middle range of listed stocks in the market.",
-          "link": "https://www.investopedia.com/terms/m/mid_cap_fund.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-03T16:53:58.000Z",
-          "wordCount": 4282,
-          "title": "Mid-Cap Fund Definition",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ktwZGiFiJPdbo9yRcv2frkLBMjw=/380x253/e014087-5bfc2b95c9e77c005143f248.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ktwZGiFiJPdbo9yRcv2frkLBMjw=/380x253/e014087-5bfc2b95c9e77c005143f248.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/bitcoin-celebrates-birthday-7090803",
-          "author": "Rahul Nambiampurath",
-          "description": "The first Bitcoin was mined on Jan. 3, 2009, launching a global revolution in finance and other industries.",
-          "link": "https://www.investopedia.com/bitcoin-celebrates-birthday-7090803?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-03T16:50:13.000Z",
-          "wordCount": 3984,
-          "title": "Happy Birthday, Bitcoin: Top Cryptocurrency Turns 14.",
-          "imageUrl": "https://www.investopedia.com/thmb/-OMU3PHRCZGctDqP65AG1vkLUcg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/bitcoin1-2000-7912c2175848490f99c66fb1a93a77ba.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/r/requiredminimumdistribution.asp",
-          "author": "Elizabeth Blessing",
-          "description": "A required minimum distribution is a specific amount of money a retiree must withdraw from a tax-deferred retirement account each year, starting at age 73.",
-          "link": "https://www.investopedia.com/terms/r/requiredminimumdistribution.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-03T16:40:56.000Z",
-          "wordCount": 5998,
-          "title": "Required Minimum Distribution (RMD): Definition and Calculation",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/1Wkv-VI8K_SmYg-oiafArkEGgDw=/680x440/153221908-5bfc2b8c4cedfd0026c118f2.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/1Wkv-VI8K_SmYg-oiafArkEGgDw=/680x440/153221908-5bfc2b8c4cedfd0026c118f2.jpg"
         }
       ]
     },
@@ -17276,6 +17201,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "zuckerberg-and-intel-are-shipping-the-proceeds-from-their-layoffs-straight-to-wall-street-11675299989?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Wall Street long groused about cash-generating tech companies refusing to pay dividends and buy back stock. That is no longer a problem, in multiple respects.",
+          "link": "https://www.marketwatch.com/story/zuckerberg-and-intel-are-shipping-the-proceeds-from-their-layoffs-straight-to-wall-street-11675299989?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-02T01:06:00.000Z",
+          "wordCount": 7284,
+          "title": "Zuckerberg and Intel are shipping the proceeds from their layoffs straight to Wall Street",
+          "imageUrl": "https://images.mktw.net/im-479195/social"
+        },
         {
           "id": "credit-suisse-says-room-over-004639545.html",
           "author": null,
@@ -17295,6 +17230,26 @@
           "wordCount": 7559,
           "title": "Wall Street to Jerome Powell: We don’t believe you",
           "imageUrl": "https://images.mktw.net/im-715443/social"
+        },
+        {
+          "id": "its-payback-time-u-s-stocks-have-been-a-no-brainer-money-maker-for-years-but-those-days-are-over-11675294598?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "5 ways to stay on top of a topsy-turvy stock market and come out ahead.",
+          "link": "https://www.marketwatch.com/story/its-payback-time-u-s-stocks-have-been-a-no-brainer-money-maker-for-years-but-those-days-are-over-11675294598?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-01T23:36:00.000Z",
+          "wordCount": 7645,
+          "title": "‘It’s payback time.’ U.S. stocks have been a no-brainer moneymaker for years — but those days are over.",
+          "imageUrl": "https://images.mktw.net/im-636168/social"
+        },
+        {
+          "id": "investing-ai-stocks-really-deserve-233400012.html",
+          "author": null,
+          "description": "If you’ve read the news, you’ve most likely heard of ChatGPT. The newly released chatbot, based on artificial intelligence, machine learnings, and interactive human training, has made waves for its ability to engage in conversation, and for its mistakes along the way. The jury is still out on whether or not it’s a resounding success, but one thing is clear: it has kickstarted a conversation about the role of artificial intelligence (AI) in the world. AI stocks have been in the public market for",
+          "link": "https://finance.yahoo.com/news/investing-ai-stocks-really-deserve-233400012.html",
+          "publishedOn": "2023-02-01T23:34:00.000Z",
+          "wordCount": 14447,
+          "title": "Investing in AI Stocks: Do They Really Deserve the ChatGPT Hype?",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/0382aae3a7fbaea19f85e07f2d1c20e3"
         },
         {
           "id": "enterprise-products-midstream-earnings-profit.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
@@ -41115,56 +41070,6 @@
           "wordCount": 4291,
           "title": "GE HealthCare to spin out this week — straight into the S&P 500",
           "imageUrl": "https://media.bizj.us/view/img/12044403/2019-pete-arduini-new-photo*1200xx5308-2983-0-147.jpg"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/technology/apple-stock-falls-amid-report-of-product-orders-being-cut-in-asia/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-01-03T17:11:28.000Z",
-          "wordCount": null,
-          "title": "Apple Stock Falls Amid Report Of Product Orders Being Cut In Asia",
-          "imageUrl": null
-        },
-        {
-          "id": "gold-prices-rally-to-start-the-year-tqG20qSAiFSPVbGk1Dl7?yptr=yahoo",
-          "author": null,
-          "description": "The front-month traded gold futures contract rose 1.1% to $1,839.70 a troy ounce Tuesday, settling at the highest value since June 2021.\nPrices were boosted by China’s plan to scrap quarantine requirements for international travelers. Analysts say that the move represents a shift toward opening the",
-          "link": "https://www.wsj.com/livecoverage/stock-market-news-today-01-03-2023/card/gold-prices-rally-to-start-the-year-tqG20qSAiFSPVbGk1Dl7?yptr=yahoo",
-          "publishedOn": "2023-01-03T16:45:01.000Z",
-          "wordCount": 6855,
-          "title": "Gold Prices Rally to Start the Year",
-          "imageUrl": "https://images.wsj.net/im-626280/social"
-        },
-        {
-          "id": "nvidia-stock-foxconn-autonomous-cars-51672754262?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "In a pre-CES keynote presentation, the chip maker also announced updated graphics chips and PC designs.",
-          "link": "https://www.barrons.com/articles/nvidia-stock-foxconn-autonomous-cars-51672754262?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-03T16:45:00.000Z",
-          "wordCount": 6564,
-          "title": "Nvidia in Pact With Foxconn to Build Autonomous Cars",
-          "imageUrl": "https://images.barrons.com/im-695766/social"
-        },
-        {
-          "id": "lawsuit-involving-unitedhealth-group-ends.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
-          "author": null,
-          "description": "A case involving two former high-level executives of United HealthCare Services, who sued the company over allegations they were not paid enough for a billion-dollar business line they helped start, has been closed, according to court records.",
-          "link": "https://www.bizjournals.com/twincities/news/2023/01/03/lawsuit-involving-unitedhealth-group-ends.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
-          "publishedOn": "2023-01-03T16:25:13.000Z",
-          "wordCount": 4334,
-          "title": "Lawsuit between UnitedHealth Group and former employees over $1B business ends",
-          "imageUrl": "https://media.bizj.us/view/img/12303279/unitedhealth-group-headquarters*1200xx2100-1181-0-110.jpg"
-        },
-        {
-          "id": "apple-stock-slides-as-investors-count-iphone-delay-hit-to-earnings?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "Apple shares are trading at an 18-month low Tuesday as investors worry that supply chain disruptions and softer consumer spending will clip December quarter earnings.",
-          "link": "https://www.thestreet.com/markets/apple-stock-slides-as-investors-count-iphone-delay-hit-to-earnings?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2023-01-03T16:21:00.000Z",
-          "wordCount": 3129,
-          "title": "Apple Stock Extends Slide, Falls Below $2 Trillion Level, As Investors Count iPhone Delay Hit To Earnings",
-          "imageUrl": "https://www.thestreet.com/.image/t_share/MTkyMTk1MTQ0OTc5MDY0MzY2/iphone-14-lead-js-090822.jpg"
         }
       ]
     }
