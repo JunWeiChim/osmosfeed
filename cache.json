@@ -768,6 +768,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6249592/",
+          "author": "Eva Schouten",
+          "description": "Op het nieuwe Australische bankbiljet van 5 dollar komt geen afbeelding van de Britse koning Charles te staan. Dat heeft de Reserve Bank of Australia bekendgemaakt. Nu siert een portret van de overleden koningin Elizabeth nog het biljet.",
+          "link": "https://www.nu.nl/economie/6249592/australiers-zetten-koning-charles-niet-op-briefje-van-5-dollar.html",
+          "publishedOn": "2023-02-02T14:24:25.000Z",
+          "wordCount": 813,
+          "title": "Australiërs zetten koning Charles niet op briefje van 5 dollar",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/1xsxkk4axqiv_sqr256.jpg/australiers-zetten-koning-charles-niet-op-briefje-van-5-dollar.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/1xsxkk4axqiv_sqr256.jpg/australiers-zetten-koning-charles-niet-op-briefje-van-5-dollar.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6249581/",
           "author": "Noémi van de Pol",
           "description": "De Europese Centrale Bank (ECB) verhoogt zijn rente voor de vijfde keer in korte tijd. Het gaat om een verhoging van 0,5 procentpunt. De centrale bank heeft ook aangekondigd dat de rente in maart weer met een 0,5 procentpunt zal stijgen.",
@@ -7134,6 +7149,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/c/corporatefinance.asp",
+          "author": "Will Kenton",
+          "description": "Corporate finance is the division of finance that deals with how corporations address funding sources, capital structuring, and investment decisions.",
+          "link": "https://www.investopedia.com/terms/c/corporatefinance.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-02T14:58:38.000Z",
+          "wordCount": 5425,
+          "title": "Corporate Finance Definition and Activities",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/tojmD07EF1B4OoWjxzfZsGbFtNA=/1500x1000/corporate-finance-Final-90e2e40f344a456c8cd371f226cfa6b4.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/tojmD07EF1B4OoWjxzfZsGbFtNA=/1500x1000/corporate-finance-Final-90e2e40f344a456c8cd371f226cfa6b4.jpg"
+        },
         {
           "id": "https://www.investopedia.com/weddings-who-pays-for-what-4687129",
           "author": "Rebecca Lake",
@@ -17215,11 +17245,71 @@
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
+          "link": "https://www.investors.com/news/technology/lly-stock-eli-lilly-earnings-q4-2022/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-02-02T14:55:11.000Z",
+          "wordCount": null,
+          "title": "Eli Lilly Dives After A 'Bump In The Road' Shakes Its Newest Diabetes Drug",
+          "imageUrl": null
+        },
+        {
+          "id": "ford-fourth-quarter-earnings-february-2-2023-145214798.html",
+          "author": null,
+          "description": "Ford earnings are on deck tonight with the company's latest earnings report coming after blowout figures from GM were reported earlier this week.",
+          "link": "https://finance.yahoo.com/news/ford-fourth-quarter-earnings-february-2-2023-145214798.html",
+          "publishedOn": "2023-02-02T14:53:09.000Z",
+          "wordCount": 13883,
+          "title": "Ford earnings preview: Expectations are high following GM's blowout quarter",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/IKSAzOJsdgfSTxPikEVZdw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/6491f5b0-a303-11ed-b0f7-83331e890fd2"
+        },
+        {
+          "id": "hanesbrands-hbi-q4-earnings-report-2022-11675348462?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The apparel maker eliminated its dividend to shore up its balance sheet as sales continue to slump.",
+          "link": "https://www.wsj.com/articles/hanesbrands-hbi-q4-earnings-report-2022-11675348462?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-02T14:36:00.000Z",
+          "wordCount": 6632,
+          "title": "Hanesbrands Shares Plunge After Dividend Cut, Gloomy Earnings and Forecast",
+          "imageUrl": "https://images.wsj.net/im-715706/social"
+        },
+        {
+          "id": "let-3-crucial-things-must-140000077.html",
+          "author": null,
+          "description": "Change doesn't have to be bad.",
+          "link": "https://finance.yahoo.com/news/let-3-crucial-things-must-140000077.html",
+          "publishedOn": "2023-02-02T14:00:00.000Z",
+          "wordCount": 14566,
+          "title": "Let it go: Here are 3 crucial things you must 'say goodbye' to in retirement. Most folks can't do it — but can you?",
+          "imageUrl": "https://media.zenfs.com/en/moneywise_327/f53780121a260a4295bc8d069952ffd0"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
           "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-ahead-of-jobless-claims-meta-soars-on-strong-sales-40-billion-buyback/?src=A00220&yptr=yahoo",
           "publishedOn": "2023-02-02T13:55:39.000Z",
           "wordCount": null,
           "title": "Dow Jones Futures Reverse After Jobless Claims; Meta Soars 19% On Strong Sales, $40 Billion Buyback",
           "imageUrl": null
+        },
+        {
+          "id": "the-federal-reserve-raises-interest-rates-heres-what-that-means-for-the-market-11675292609?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "U.S. stocks and bonds rallied on Wednesday, much to the chagrin of traders who had ramped up bearish bets on the expectation that Federal Reserve Chairman...",
+          "link": "https://www.marketwatch.com/story/the-federal-reserve-raises-interest-rates-heres-what-that-means-for-the-market-11675292609?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-02T13:53:00.000Z",
+          "wordCount": 7574,
+          "title": "Did Powell just give stocks permission to keep on climbing? Here’s what latest Fed decision means for markets",
+          "imageUrl": "https://images.mktw.net/im-685803/social"
+        },
+        {
+          "id": "qualcomm-earnings-stock-price-51675285886?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Wall Street's consensus estimate calls for Qualcomm to report $9.6 billion in revenue for the quarter ended Dec. 31, with adjusted earnings per share of $2.36.",
+          "link": "https://www.barrons.com/articles/qualcomm-earnings-stock-price-51675285886?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-02T13:39:00.000Z",
+          "wordCount": 6610,
+          "title": "Qualcomm Earnings Could Disappoint. Smartphone Demand Could Be Why.",
+          "imageUrl": "https://images.barrons.com/im-715251/social"
         },
         {
           "id": "tesla-stock-price-buy-sell-51675274324?siteid=yhoof2&yptr=yahoo",
@@ -17240,6 +17330,16 @@
           "wordCount": 7148,
           "title": "Amazon earnings: What to expect",
           "imageUrl": "https://images.mktw.net/im-715451/horizontal"
+        },
+        {
+          "id": "3d-printer-desktop-metal-stock-jumps-after-plan-to-cut-jobs-that-could-affect-more-than-200-employees-01675343520?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shares of Desktop Metal Inc. jumped 6.5% toward a two-month high in premarket trading Thursday, after the Boston-based 3D printing company said it would lay...",
+          "link": "https://www.marketwatch.com/story/3d-printer-desktop-metal-stock-jumps-after-plan-to-cut-jobs-that-could-affect-more-than-200-employees-01675343520?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-02T13:12:00.000Z",
+          "wordCount": 6623,
+          "title": "3D printer Desktop Metal stock jumps after plan to cut jobs, that could affect more than 200 employees",
+          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
         },
         {
           "id": "bristol-myers-stock-earnings-revlimid-sales-51675341530?siteid=yhoof2&yptr=yahoo",
@@ -41200,16 +41300,6 @@
           "wordCount": 13823,
           "title": "Cathie Wood Buys Tesla Stock Amid Plunge After Deliveries Miss",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/e.qwUaz8tZ4ax7IKa0PmQw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/d53241accbe1bed01f3ce2bf7b8e6cb8"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-hits-resistance-to-start-2023-apple-tumbles-tesla-dives/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-01-04T02:23:29.000Z",
-          "wordCount": null,
-          "title": "Stock Market Hits Resistance To Start 2023 As Apple Tumbles, Tesla Dives",
-          "imageUrl": null
         }
       ]
     }
