@@ -591,6 +591,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "527c6b4deb550da32c1cb7d845ff49f7",
+          "author": "Investopedia",
+          "description": "U.S. equities posted gains on Feb. 7 after Fed Chair Jerome Powell said that inflation was easing but noted that rate hikes would continue if needed.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b66d5e91ab14f749a872ba6bf3523c25450d4358934fc9b4c2d48da7f9c3cdfdf1963ceeb30bce1f06db5b9de7bfc7fbc",
+          "publishedOn": "2023-02-07T23:12:57.367Z",
+          "wordCount": 412,
+          "title": "Markets Rise on Powell's Inflation Comments",
+          "imageUrl": null
+        },
+        {
           "id": "c2d68b41c4ca443f31de7f5ffdd4c466",
           "author": "Investopedia",
           "description": "U.S. stock markets opened the trading week with declines on Monday, Feb. 6, on concerns about additional tightening moves by the Federal Reserve.",
@@ -817,6 +827,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6250302/",
+          "author": "Thijs Rösken",
+          "description": "Het aantal vacatures in de kinderopvang is in een paar jaar tijd maar liefst verviervoudigd. De werkdruk is hoog en het ziekteverzuim loopt op. Welke problemen spelen er allemaal?",
+          "link": "https://www.nu.nl/economie/6250302/kinderopvang-worstelt-met-groei-aantal-vacatures-en-hogere-werkdruk.html",
+          "publishedOn": "2023-02-07T23:02:29.000Z",
+          "wordCount": 1440,
+          "title": "Kinderopvang worstelt met groei aantal vacatures en hogere werkdruk",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/rp1xj6iagxr6_sqr256.jpg/kinderopvang-worstelt-met-groei-aantal-vacatures-en-hogere-werkdruk.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/rp1xj6iagxr6_sqr256.jpg/kinderopvang-worstelt-met-groei-aantal-vacatures-en-hogere-werkdruk.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6250229/",
           "author": "Jeroen Kraan en Priscilla Slomp",
@@ -7131,36 +7156,6 @@
             "url": "https://media.nu.nl/m/so7x5qoazxmh_sqr256.jpg/lifehack-wat-je-niet-moet-doen-als-je-de-tv-schoonmaakt-en-wat-wel.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/so7x5qoazxmh_sqr256.jpg/lifehack-wat-je-niet-moet-doen-als-je-de-tv-schoonmaakt-en-wat-wel.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6246238/",
-          "author": "Ertan Basekin",
-          "description": "De lonen zijn afgelopen jaar met gemiddeld 3,8 procent gestegen, zo blijkt uit cijfers van werkgeversvereniging  AWVN. In december gingen de salarissen met 5,9 procent omhoog.",
-          "link": "https://www.nu.nl/economie/6246238/lonen-zijn-afgelopen-jaar-met-38-procent-gestegen.html",
-          "publishedOn": "2023-01-09T10:47:16.000Z",
-          "wordCount": 711,
-          "title": "Lonen zijn afgelopen jaar met 3,8 procent gestegen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/kgwxpzxa0kmo_sqr256.jpg/lonen-zijn-afgelopen-jaar-met-38-procent-gestegen.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/kgwxpzxa0kmo_sqr256.jpg/lonen-zijn-afgelopen-jaar-met-38-procent-gestegen.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6246233/",
-          "author": "onze economieredactie",
-          "description": "Tony's Chocolonely is het afgelopen jaar ondanks de hoge inflatie stevig gegroeid. Het Nederlandse chocolademerk werd vooral populairder in het buitenland. Met name in de Verenigde Staten waren de chocoladerepen niet aan te slepen.",
-          "link": "https://www.nu.nl/economie/6246233/tonys-chocolonely-groeit-hard-voornamelijk-door-populariteit-in-vs.html",
-          "publishedOn": "2023-01-09T10:43:18.000Z",
-          "wordCount": 1071,
-          "title": "Tony's Chocolonely groeit hard, voornamelijk door populariteit in VS",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/hudx433agbgm_sqr256.jpg/tonys-chocolonely-groeit-hard-voornamelijk-door-populariteit-in-vs.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/hudx433agbgm_sqr256.jpg/tonys-chocolonely-groeit-hard-voornamelijk-door-populariteit-in-vs.jpg"
         }
       ]
     },
@@ -7169,6 +7164,306 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/markets-rise-on-powell-inflation-comments-7106935",
+          "author": "Staff Author",
+          "description": "U.S. equities posted gains on Feb. 7 after Fed Chair Jerome Powell said that inflation was easing but noted that rate hikes would continue if needed.",
+          "link": "https://www.investopedia.com/markets-rise-on-powell-inflation-comments-7106935?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-07T22:56:39.000Z",
+          "wordCount": 3019,
+          "title": "Markets Rise on Powell's Inflation Comments",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/-hsnPg70ZquF7PWSkTlMe8q_HgE=/1240x820/feb7indexes-8dd97caf9b704f09a9849ac406b5ea2c.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/-hsnPg70ZquF7PWSkTlMe8q_HgE=/1240x820/feb7indexes-8dd97caf9b704f09a9849ac406b5ea2c.png"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/investing/102216/understanding-401ks-and-all-their-benefits.asp",
+          "author": "Amy Bell",
+          "description": "Learn how a 401(k) works, about 401(k) benefits, and what is a Roth 401(k).",
+          "link": "https://www.investopedia.com/articles/investing/102216/understanding-401ks-and-all-their-benefits.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-07T22:55:40.000Z",
+          "wordCount": 6243,
+          "title": "401(k) Tax Benefits and Advantages",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/qdo5h3hwJwLm4kEGijmET3tLtnY=/2071x1450/GettyImages-186848586-5728ea435f9b589e34c6081c.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/qdo5h3hwJwLm4kEGijmET3tLtnY=/2071x1450/GettyImages-186848586-5728ea435f9b589e34c6081c.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/102814/how-soon-do-i-need-start-my-application-social-security-retirement-benefits.asp",
+          "author": "Troy Segal",
+          "description": "Understand when to apply for Social Security benefits and when you can expect to receive monthly payments based on age and date of birth.",
+          "link": "https://www.investopedia.com/ask/answers/102814/how-soon-do-i-need-start-my-application-social-security-retirement-benefits.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-07T22:46:59.000Z",
+          "wordCount": 4921,
+          "title": "When to Apply for Social Security Retirement Benefits",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/4DACj8LtxbMDxkR3gxo6Li28-vI=/5568x3712/socialsecurity-whentoapply-794e7d2e1615450a9c7530288e2f5dad.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/4DACj8LtxbMDxkR3gxo6Li28-vI=/5568x3712/socialsecurity-whentoapply-794e7d2e1615450a9c7530288e2f5dad.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/retirement/04/052604.asp",
+          "author": "Denise Appleby",
+          "description": "In its features and benefits, a SIMPLE 401(k) plan is a cross between a SIMPLE IRA and a traditional 401(k) plan.",
+          "link": "https://www.investopedia.com/articles/retirement/04/052604.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-07T22:45:06.000Z",
+          "wordCount": 5279,
+          "title": "SIMPLE 401(k) Plan Definition",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/WCGQq3EM5k6D9TQLigPRR7zODm8=/680x428/retirement.coins.arrow.680.440.thinkstock.istock.oko_swanomurphy.480059691-5bfc2e484cedfd0026c19756.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/WCGQq3EM5k6D9TQLigPRR7zODm8=/680x428/retirement.coins.arrow.680.440.thinkstock.istock.oko_swanomurphy.480059691-5bfc2e484cedfd0026c19756.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/is-health-insurance-mandatory-4773106",
+          "author": "Rebecca Lake",
+          "description": "Health insurance is not mandatory at the federal level. It used to be mandatory to have health insurance, but that changed in 2019. Here's what happened.",
+          "link": "https://www.investopedia.com/is-health-insurance-mandatory-4773106?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-07T22:43:17.000Z",
+          "wordCount": 4928,
+          "title": "Is Health Insurance Mandatory?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/g3wpeNs02UPgRU1Xg7N45dSmeoQ=/5700x3800/healthinsurancemandatory-156ac01df9504be5833ac916c75e0e85.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/g3wpeNs02UPgRU1Xg7N45dSmeoQ=/5700x3800/healthinsurancemandatory-156ac01df9504be5833ac916c75e0e85.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/102814/are-social-security-survivor-benefits-children-considered-taxable-income.asp",
+          "author": "Troy Segal",
+          "description": "Learn why receiving Social Security survivor benefits on behalf of children does not affect income tax for a surviving parent or guardian.",
+          "link": "https://www.investopedia.com/ask/answers/102814/are-social-security-survivor-benefits-children-considered-taxable-income.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-07T22:39:13.000Z",
+          "wordCount": 3993,
+          "title": "Social Security Survivor Benefits for Children: Are They Taxable?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/2YWteF1BrDn5TXVAIap060OhRaA=/2464x1632/GettyImages-459886417-73d8a2e01b324cdfa3f8b65660ea5552.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/2YWteF1BrDn5TXVAIap060OhRaA=/2464x1632/GettyImages-459886417-73d8a2e01b324cdfa3f8b65660ea5552.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/102814/must-i-pay-social-security-taxes-my-earnings-after-full-retirement-age.asp",
+          "author": "The Investopedia Team",
+          "description": "Paying Social Security contributions continues even past reaching full retirement age, but can increase future Social Security retirement benefits.",
+          "link": "https://www.investopedia.com/ask/answers/102814/must-i-pay-social-security-taxes-my-earnings-after-full-retirement-age.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-07T22:30:14.000Z",
+          "wordCount": 4938,
+          "title": "Paying Social Security Taxes on Earnings After Full Retirement Age",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/rR4lQ71im686Kfw0CIwUDr_gJUs=/2007x1494/GettyImages-1158399390-278304dab763466e88c8eb626f4a50d0.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/rR4lQ71im686Kfw0CIwUDr_gJUs=/2007x1494/GettyImages-1158399390-278304dab763466e88c8eb626f4a50d0.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/021015/what-effect-fiscal-deficit-economy.asp",
+          "author": "Sean Ross",
+          "description": "Discover what a fiscal deficit is. Learn about the real impact of budget deficits on the economy. See why government financing reduces private financing.",
+          "link": "https://www.investopedia.com/ask/answers/021015/what-effect-fiscal-deficit-economy.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-07T22:28:37.000Z",
+          "wordCount": 5923,
+          "title": "Understanding the Effects of Fiscal Deficits on an Economy",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/a2ZDHdhnENNazL1Fnyl9FGvK7TU=/1500x1000/GettyImages-155351397-2bccf3e6acb7475e954a80a98a6c9911.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/a2ZDHdhnENNazL1Fnyl9FGvK7TU=/1500x1000/GettyImages-155351397-2bccf3e6acb7475e954a80a98a6c9911.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/b/budget-deficit.asp",
+          "author": "Adam Barone",
+          "description": "A budget deficit occurs when expenditures exceed revenue and is the term commonly used to refer to government spending and national debt.",
+          "link": "https://www.investopedia.com/terms/b/budget-deficit.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-07T22:17:51.000Z",
+          "wordCount": 5010,
+          "title": "Budget Deficit: Causes, Effects, and Prevention Strategies",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/nCtzunkS4c0AmgfMtWARdxPS19U=/1500x1000/budget-deficit-4200237-d8ecc02a1c694f6f810610367f657daf.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/nCtzunkS4c0AmgfMtWARdxPS19U=/1500x1000/budget-deficit-4200237-d8ecc02a1c694f6f810610367f657daf.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/020315/there-any-way-opt-out-paying-social-security.asp",
+          "author": "Troy Segal",
+          "description": "Understand more about the purpose of the Social Security system and which groups of taxpayers are exempt from the OASDI tax.",
+          "link": "https://www.investopedia.com/ask/answers/020315/there-any-way-opt-out-paying-social-security.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-07T22:16:03.000Z",
+          "wordCount": 5546,
+          "title": "Who Is Exempt from Paying into Social Security?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/pFsjgGVexcudd1035gBjbKfoqfI=/6720x4480/GettyImages-1157031498-8ac74a299d2f4dc0b5eb0f401603be92.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/pFsjgGVexcudd1035gBjbKfoqfI=/6720x4480/GettyImages-1157031498-8ac74a299d2f4dc0b5eb0f401603be92.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/can-adult-child-collect-parent-social-security-benefits-5221671",
+          "author": "Staff Author",
+          "description": "An adult child can not inherit a parent's Social Security benefits after the parent dies. Only adult children with disabilities can receive their parents' benefits.",
+          "link": "https://www.investopedia.com/can-adult-child-collect-parent-social-security-benefits-5221671?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-07T22:15:27.000Z",
+          "wordCount": 4891,
+          "title": "Can an Adult Child Inherit a Parent’s Social Security Benefits?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/rNm8uMOevibuCuvk1yltgnhdyAw=/2000x1372/GettyImages-123167791-f37e1e4a2fac41e9b693ccee64185c02.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/rNm8uMOevibuCuvk1yltgnhdyAw=/2000x1372/GettyImages-123167791-f37e1e4a2fac41e9b693ccee64185c02.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/financial-edge/0412/how-to-profit-from-stock-splits-and-buybacks.aspx",
+          "author": "Tim Parker",
+          "description": "If stock splits and buybacks have been a bit of a mystery to you, you're not alone. Companies may use one of these methods to change their stocks.",
+          "link": "https://www.investopedia.com/financial-edge/0412/how-to-profit-from-stock-splits-and-buybacks.aspx?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-07T22:13:56.000Z",
+          "wordCount": 4068,
+          "title": "How to Profit From Stock Splits & Buybacks",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/a7sVbGXIN1hte8KJIWA6sgv0yHU=/205x136/105755707-5bfc2dfd46e0fb00265c5dde.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/a7sVbGXIN1hte8KJIWA6sgv0yHU=/205x136/105755707-5bfc2dfd46e0fb00265c5dde.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/how-to-get-health-insurance-4772855",
+          "author": "Amy Fontinelle",
+          "description": "If you have to purchase your own health insurance, your best bet is to choose one these five options and sign up during open enrollment.",
+          "link": "https://www.investopedia.com/how-to-get-health-insurance-4772855?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-07T22:10:43.000Z",
+          "wordCount": 6767,
+          "title": "How to Get Health Insurance",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ZV5-xWfe-6hi7zvcBGgHoEHjhPQ=/2121x1414/Havingahealthinsuranceclaimdeniedandhowtoappeal-5bcde88b46e0fb0051f784fb.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ZV5-xWfe-6hi7zvcBGgHoEHjhPQ=/2121x1414/Havingahealthinsuranceclaimdeniedandhowtoappeal-5bcde88b46e0fb0051f784fb.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/i/infrastructure.asp",
+          "author": "The Investopedia Team",
+          "description": "Infrastructure is the basic facilities and systems serving a country, city, or area, such as transportation, power plants, and schools.",
+          "link": "https://www.investopedia.com/terms/i/infrastructure.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-07T22:10:15.000Z",
+          "wordCount": 4937,
+          "title": "Infrastructure: Definition, Meaning, and Examples",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/laE84OdITkQ5svRU2DJ0vym6IC4=/1500x1000/Investopedia_Infrastructure-3c22a20eac8c4f75928ba206be6c4c2f.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/laE84OdITkQ5svRU2DJ0vym6IC4=/1500x1000/Investopedia_Infrastructure-3c22a20eac8c4f75928ba206be6c4c2f.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/r/recession.asp",
+          "author": "The Investopedia Team",
+          "description": "A recession is a significant decline in economic activity that lasts longer than a few months.",
+          "link": "https://www.investopedia.com/terms/r/recession.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-07T22:07:28.000Z",
+          "wordCount": 5826,
+          "title": "Recession: What Is It and What Causes It",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/1KmNKVv0Ly2cnGyOEwkV0a8eKdQ=/1500x1000/recession-0153c288ec634820a0f1d7e917ffda80.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/1KmNKVv0Ly2cnGyOEwkV0a8eKdQ=/1500x1000/recession-0153c288ec634820a0f1d7e917ffda80.png"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/investing/123115/4-reasons-why-investors-buybacks.asp",
+          "author": "Trevir I Nath",
+          "description": "Buybacks benefit investors by increasing share prices, effectively returning money to shareholders in a tax-efficient manner.",
+          "link": "https://www.investopedia.com/articles/investing/123115/4-reasons-why-investors-buybacks.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-07T22:07:18.000Z",
+          "wordCount": 5482,
+          "title": "4 Reasons Investors Like Buybacks",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/NrJB_36bsuW_NtPI7amQhIybsuc=/680x440/thinkstockphotos187399615-5bfc3d38c9e77c0051485c4d.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/NrJB_36bsuW_NtPI7amQhIybsuc=/680x440/thinkstockphotos187399615-5bfc3d38c9e77c0051485c4d.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/investing/052913/inflations-impact-stock-returns.asp",
+          "author": "Kristina Zucchi",
+          "description": "Most studies conclude that inflation hurts some stocks and helps others depending on several factors.",
+          "link": "https://www.investopedia.com/articles/investing/052913/inflations-impact-stock-returns.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-07T22:05:03.000Z",
+          "wordCount": 4984,
+          "title": "Inflation's Impact on Stock Returns",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/GjwUmMlPXGzYXdXbjAAJYU24QeM=/1500x1000/GettyImages-157311703-d5072cb293f44aa4a59c274e56fbd963.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/GjwUmMlPXGzYXdXbjAAJYU24QeM=/1500x1000/GettyImages-157311703-d5072cb293f44aa4a59c274e56fbd963.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/insights/122016/9-common-effects-inflation.asp",
+          "author": "David Floyd",
+          "description": "Inflation erodes purchasing power, but there are some silver linings. Here are the most important effects of inflation.",
+          "link": "https://www.investopedia.com/articles/insights/122016/9-common-effects-inflation.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-07T22:03:18.000Z",
+          "wordCount": 6433,
+          "title": "10 Common Effects of Inflation",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Jw4eSJ_FVT7p_9fHzFvHJc433eM=/2070x1449/GettyImages-1264127452-b4c658402e2841bba566280d4c0eb59a.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Jw4eSJ_FVT7p_9fHzFvHJc433eM=/2070x1449/GettyImages-1264127452-b4c658402e2841bba566280d4c0eb59a.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/n/normal-retirement-age-nra.asp",
+          "author": "Julia Kagan",
+          "description": "Full retirement age is the age at which you can receive full Social Security retirement benefits. The FRA varies depending on the year you were born.",
+          "link": "https://www.investopedia.com/terms/n/normal-retirement-age-nra.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-07T21:58:00.000Z",
+          "wordCount": 5575,
+          "title": "What Is the Full Retirement Age (FRA) for Social Security?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/YnkK_0UdAGu9SF5oL7W9BKf7YB0=/2119x1414/portrait-of-mature-man-on-sofa-smiling-and-wearing-headphones-1032622186-63627a5e18a74b5d82bf4c003474556c.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/YnkK_0UdAGu9SF5oL7W9BKf7YB0=/2119x1414/portrait-of-mature-man-on-sofa-smiling-and-wearing-headphones-1032622186-63627a5e18a74b5d82bf4c003474556c.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/consumer-borrowing-unexpectedly-plunged-in-december-7106899",
+          "author": "Staff Author",
+          "description": "Slow holiday shopping season meant less new debt for credit cards and car loans",
+          "link": "https://www.investopedia.com/consumer-borrowing-unexpectedly-plunged-in-december-7106899?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-07T21:56:22.000Z",
+          "wordCount": 3238,
+          "title": "Consumer Borrowing Unexpectedly Plunged In December",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/iBDx5wAOj5Ax9OH-xwsiaARo9D0=/5700x3800/GettyImages-944243938-af58bb5111044ddaa3b95537842da0b7.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/iBDx5wAOj5Ax9OH-xwsiaARo9D0=/5700x3800/GettyImages-944243938-af58bb5111044ddaa3b95537842da0b7.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/g/great-recession.asp",
           "author": "The Investopedia Team",
@@ -18626,6 +18921,36 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "stocks-moving-in-after-hours-chipotle-vf-corp-fortinet-enphase-energy-223734594.html",
+          "author": null,
+          "description": "Stocks moving in after-hours: Chipotle, VF Corp, Fortinet, Enphase Energy",
+          "link": "https://finance.yahoo.com/news/stocks-moving-in-after-hours-chipotle-vf-corp-fortinet-enphase-energy-223734594.html",
+          "publishedOn": "2023-02-07T22:37:34.000Z",
+          "wordCount": 13336,
+          "title": "Stocks moving in after-hours: Chipotle, VF Corp, Fortinet, Enphase Energy",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/F5QVwUw.BUgx5avVws0Hag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/7ef7f230-a734-11ed-aefb-5f4070e2aec3"
+        },
+        {
+          "id": "bed-bath-beyond-stock-equity-offering-51675805044?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The company said it received initial proceeds of about $225 million in the offering.",
+          "link": "https://www.barrons.com/articles/bed-bath-beyond-stock-equity-offering-51675805044?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-07T22:30:00.000Z",
+          "wordCount": 6734,
+          "title": "Bed Bath & Beyond Completes Its Equity Offering",
+          "imageUrl": "https://images.barrons.com/im-718925/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/vrtx-stock-vertex-earnings-q4-2022/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-02-07T22:02:14.000Z",
+          "wordCount": null,
+          "title": "Vertex Offers Upbeat Guidance After Beating Fourth-Quarter Profit Views",
+          "imageUrl": null
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
@@ -43005,106 +43330,6 @@
           "wordCount": 6803,
           "title": "Ocugen stock up 16% premarket after company announced positive results for its COVID vaccine",
           "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
-        },
-        {
-          "id": "bill-gates-using-dividend-stocks-110000130.html",
-          "author": null,
-          "description": "Bill Gates looks for income, too. This is how he gets it.",
-          "link": "https://finance.yahoo.com/news/bill-gates-using-dividend-stocks-110000130.html",
-          "publishedOn": "2023-01-09T11:00:00.000Z",
-          "wordCount": 14226,
-          "title": "Bill Gates is using these dividend stocks right now to produce a big inflation-fighting income stream ⁠— you might want to do the same in 2023",
-          "imageUrl": "https://media.zenfs.com/en/moneywise_327/519509e6070a79b1a15921ce5944c897"
-        },
-        {
-          "id": "8-places-you-may-earn-between-3-7-or-more-on-your-money-right-now-and-psst-some-have-guaranteed-returns-01673041888?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Make your money work for you",
-          "link": "https://www.marketwatch.com/picks/8-places-you-may-earn-between-3-7-or-more-on-your-money-right-now-and-psst-some-have-guaranteed-returns-01673041888?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-09T11:00:00.000Z",
-          "wordCount": 7227,
-          "title": "8 places you may earn between 3%-7% or more on your money right now (and psst: some have guaranteed returns)",
-          "imageUrl": "https://images.mktw.net/im-699032/social"
-        },
-        {
-          "id": "bed-bath-beyond-stock-pops-on-no-news-as-potential-bankruptcy-looms-105756876.html",
-          "author": null,
-          "description": "Bed Bath & Beyond see some volatile action ahead of its earnings this week.",
-          "link": "https://finance.yahoo.com/news/bed-bath-beyond-stock-pops-on-no-news-as-potential-bankruptcy-looms-105756876.html",
-          "publishedOn": "2023-01-09T10:57:56.000Z",
-          "wordCount": 14010,
-          "title": "Bed Bath & Beyond stock pops on no news as potential bankruptcy looms",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/haEAa.MNWogwkeEpESARmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/22885240-900c-11ed-b7b2-a053d84c342c"
-        },
-        {
-          "id": "battery-maker-sk-likely-pull-105051897.html",
-          "author": null,
-          "description": "Electric vehicle battery maker SK On may call off its intended joint venture with Ford Motor Company (NYSE: F) and Koc Holding AS in Turkey. The parties signed a memorandum of understanding (MoU) for the same in March 2022, Reuters reported. SK plans to retract the JV to produce batteries because of a weak macroeconomic outlook. The JV aimed to produce 30-45 gigawatt hours (GWh) starting in 2025. The final decision whether or not to halt negotiations regarding the joint venture has not been made",
-          "link": "https://finance.yahoo.com/news/battery-maker-sk-likely-pull-105051897.html",
-          "publishedOn": "2023-01-09T10:50:51.000Z",
-          "wordCount": 13702,
-          "title": "Battery Maker SK On Likely To Pull Out Of Proposed JV With Ford",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/af857727c1d4eb8041e8b7736909c67a"
-        },
-        {
-          "id": "suze-orman-says-to-be-very-very-careful-before-you-do-this-but-for-some-people-it-can-be-a-savvy-money-move-01673228515?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "\"If for some reason you can’t keep up with the repayment of the loan or line, you are at risk of losing your home,” says Orman.",
-          "link": "https://www.marketwatch.com/picks/suze-orman-says-to-be-very-very-careful-before-you-do-this-but-for-some-people-it-can-be-a-savvy-money-move-01673228515?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-09T10:45:00.000Z",
-          "wordCount": 7623,
-          "title": "Suze Orman says to be ‘very, very careful’ before you do this — but for some people it can be a savvy money move",
-          "imageUrl": "https://images.mktw.net/im-353803/social"
-        },
-        {
-          "id": "stock-market-movers-alibaba-cincor-macys-51673027720?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "CinCor Pharma is being acquired by AstraZeneca in a deal valued at about $1.8 billion; Macy's issues a sales warning.",
-          "link": "https://www.barrons.com/articles/stock-market-movers-alibaba-cincor-macys-51673027720?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-09T10:44:00.000Z",
-          "wordCount": 6461,
-          "title": "These Stocks Are Moving the Most Monday: CinCor, Albireo, Macy’s, Alibaba, and More",
-          "imageUrl": "https://images.barrons.com/im-695660/social"
-        },
-        {
-          "id": "alibaba-shares-soar-after-billionaire-jack-ma-cedes-control-of-ant-9NMOgh1rKNjRMcLTeC9f?yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.wsj.com/livecoverage/stock-market-news-today-01-09-2023/card/alibaba-shares-soar-after-billionaire-jack-ma-cedes-control-of-ant-9NMOgh1rKNjRMcLTeC9f?yptr=yahoo",
-          "publishedOn": "2023-01-09T10:39:37.000Z",
-          "wordCount": null,
-          "title": "Alibaba Shares Soar After Billionaire Jack Ma Cedes Control of Ant",
-          "imageUrl": null
-        },
-        {
-          "id": "astrazeneca-to-buy-u-s-drugmaker-cincor-for-at-least-1-3-billion-tOtyv8Uk11vL80hafV4l?yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.wsj.com/livecoverage/stock-market-news-today-01-09-2023/card/astrazeneca-to-buy-u-s-drugmaker-cincor-for-at-least-1-3-billion-tOtyv8Uk11vL80hafV4l?yptr=yahoo",
-          "publishedOn": "2023-01-09T10:36:10.000Z",
-          "wordCount": null,
-          "title": "AstraZeneca to Buy U.S. Drugmaker CinCor for at Least $1.3 Billion",
-          "imageUrl": null
-        },
-        {
-          "id": "macys-quietly-lays-an-egg-and-more-may-be-coming-for-retail-morning-brief-102827574.html",
-          "author": null,
-          "description": "Macy's had a poor holiday season. Here's how to be thinking through the retail trade. More on that, and what else to watch in markets on Monday, January 9, 2022.",
-          "link": "https://finance.yahoo.com/news/macys-quietly-lays-an-egg-and-more-may-be-coming-for-retail-morning-brief-102827574.html",
-          "publishedOn": "2023-01-09T10:28:27.000Z",
-          "wordCount": 14233,
-          "title": "Macy's quietly lays an egg — and more may be coming for retail: Morning Brief",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/u_8EeoJDxv9wZ1HFOJnvlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-02/d0dd4710-93e1-11ec-b7d7-d9970a22b142"
-        },
-        {
-          "id": "astrazeneca-to-buy-cincor-pharma-51673254630?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "AstraZeneca said the deal, expected to close in the first quarter of 2023, will bolster its cardiorenal pipeline",
-          "link": "https://www.barrons.com/articles/astrazeneca-to-buy-cincor-pharma-51673254630?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-09T10:25:00.000Z",
-          "wordCount": 6442,
-          "title": "CinCor Pharma Stock Surges on Deal to Be Acquired by AstraZeneca",
-          "imageUrl": "https://images.barrons.com/im-294255/social"
         }
       ]
     }
