@@ -808,6 +808,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6250352/",
+          "author": "onze techredactie",
+          "description": "Microsoft gaat een uitgebreidere versie van ChatGPT inbouwen in zijn zoekmachine Bing. Gebruikers kunnen binnenkort veel gerichtere vragen stellen aan de zoekmachine. Ook kunnen ze met Bing chatten en de zoekmachine opdrachten geven.",
+          "link": "https://www.nu.nl/tech/6250352/microsoft-wil-ons-laten-chatten-met-zoekmachine-bing.html",
+          "publishedOn": "2023-02-08T08:31:51.000Z",
+          "wordCount": 973,
+          "title": "Microsoft wil ons laten chatten met zoekmachine Bing",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/wp2xzr7ag37a_sqr256.jpg/microsoft-wil-ons-laten-chatten-met-zoekmachine-bing.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/wp2xzr7ag37a_sqr256.jpg/microsoft-wil-ons-laten-chatten-met-zoekmachine-bing.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6250343/",
           "author": "onze economieredactie",
           "description": "ABN AMRO heeft vorig jaar flink geprofiteerd van de opgelopen rente, waardoor het concern ruimere marges kan rekenen over het spaargeld van klanten. ABN AMRO boekte een nettowinst van bijna 1,9 miljard euro, tegenover 1,2 miljard euro in 2021.",
@@ -7076,21 +7091,6 @@
             "url": "https://media.nu.nl/m/uelxmlna3w3d_sqr256.jpg/wereldberoemd-restaurant-noma-sluit-eind-2024-de-deuren.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/uelxmlna3w3d_sqr256.jpg/wereldberoemd-restaurant-noma-sluit-eind-2024-de-deuren.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6246321/",
-          "author": "onze nieuwsredactie",
-          "description": "Het wereldberoemde restaurant Noma in Kopenhagen gaat eind dit jaar dicht. Het concept van haute cuisine met \"slopende uren en intense werkcultuur\" heeft een breekpunt bereikt, zegt chef-kok en eigenaar René Redzepi tegen The New York Times.",
-          "link": "https://www.nu.nl/economie/6246321/wereldberoemd-restaurant-noma-sluit-eind-dit-jaar-de-deuren.html",
-          "publishedOn": "2023-01-09T21:09:16.000Z",
-          "wordCount": 973,
-          "title": "Wereldberoemd restaurant Noma sluit eind dit jaar de deuren",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/uelxmlna3w3d_sqr256.jpg/wereldberoemd-restaurant-noma-sluit-eind-dit-jaar-de-deuren.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/uelxmlna3w3d_sqr256.jpg/wereldberoemd-restaurant-noma-sluit-eind-dit-jaar-de-deuren.jpg"
         }
       ]
     },
@@ -18733,21 +18733,6 @@
           "wordCount": 4504,
           "title": "How Much Down Payment Is Needed for a Car?",
           "imageUrl": "https://www.investopedia.com/thmb/YQaqTo1Eks3ulKADLlcfsN3LpAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1280339312-9ba33e97f8734f6f981f88abc3338a4a.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/a/able-account.asp",
-          "author": "Julia Kagan",
-          "description": "An ABLE account is a tax-advantaged savings account available to individuals who have been diagnosed with significant disabilities before turning 26.",
-          "link": "https://www.investopedia.com/terms/a/able-account.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-09T20:44:17.000Z",
-          "wordCount": 4535,
-          "title": "What Is an ABLE Account?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/3CDfzZ5K9E7oTKpQ7hMNFpbgSv4=/680x440/shutterstock_213119035.disabled.cropped-5bfc32a446e0fb00511af9b8.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/3CDfzZ5K9E7oTKpQ7hMNFpbgSv4=/680x440/shutterstock_213119035.disabled.cropped-5bfc32a446e0fb00511af9b8.jpg"
         }
       ]
     },
@@ -18756,6 +18741,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "central-banks-fighting-wrong-war-060000693.html",
+          "author": null,
+          "description": "Monetary tightening is like pulling a brick across a rough table with a piece of elastic. Central banks tug and tug: nothing happens. They tug again: the brick leaps off the surface into their faces.",
+          "link": "https://finance.yahoo.com/news/central-banks-fighting-wrong-war-060000693.html",
+          "publishedOn": "2023-02-08T06:00:00.000Z",
+          "wordCount": 15028,
+          "title": "Central banks are fighting the wrong war – the West’s money supply is already crashing",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/wb_wgkXL7CXPgfzeHQRtfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/5ef91621860bfe597e7217c49e37b8cd"
+        },
+        {
+          "id": "russia-survived-sanctions-investing-never-050000058.html",
+          "author": null,
+          "description": "(Bloomberg) -- Russia is seeking to spend its way out of the self-inflicted economic crisis that threatened to deliver the deepest recession of President Vladimir Putin’s more than two-decade rule.Most Read from BloombergMeta Asks Many Managers to Get Back to Making Things or LeaveQuake Toll Hits 4,000 in Turkey, Syria as Overseas Aid FlowsTrump Charges in Georgia Over 2020 Could Lead to Bigger Fed CasePowell Says Further Rate Hikes Needed and Markets Take HeedWall Street Goes Risk-On Without Po",
+          "link": "https://finance.yahoo.com/news/russia-survived-sanctions-investing-never-050000058.html",
+          "publishedOn": "2023-02-08T05:00:00.000Z",
+          "wordCount": 14888,
+          "title": "Russia Survived a Year of Sanctions by Investing as Never Before",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/IiSeuAcU5UynDS6p9xzvSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MzE-/https://media.zenfs.com/en/bloomberg_markets_842/be0a3ce4d8ffdc8d657b885240295316"
+        },
         {
           "id": "bed-bath-and-beyond-stock-offering-51675784330?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -42605,26 +42610,6 @@
           "wordCount": null,
           "title": "Biotech Giant Regeneron Hit As Eylea Gives Ground To Avastin",
           "imageUrl": null
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/best-defense-stocks-to-buy/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-01-09T20:48:35.000Z",
-          "wordCount": null,
-          "title": "The Best Defense Stocks For Today — And The Future",
-          "imageUrl": null
-        },
-        {
-          "id": "4-more-reits-trading-below-204138699.html",
-          "author": null,
-          "description": "The following real estate investment trusts (REITs) all trade below their book value, and each one pays a dividend. If the Federal Reserve ever makes the pivot back to lowering interest rates, REITs such as these may be of interest to patient investors. While the wait continues for a change in the rate environment, an investor continues to receive a dividend. That’s the idea, anyway. It may or may not work out that way, but for those interested, here are the REITs: Medical Properties Trust Inc.",
-          "link": "https://finance.yahoo.com/news/4-more-reits-trading-below-204138699.html",
-          "publishedOn": "2023-01-09T20:41:38.000Z",
-          "wordCount": 14168,
-          "title": "4 More REITs Trading Below Book Value And Paying Dividends",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/627b5050e16249713125cc6ed34f42a0"
         }
       ]
     }
