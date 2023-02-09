@@ -838,6 +838,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6250560/",
+          "author": "onze economieredactie",
+          "description": "Travelex heeft een boete van 100.000 euro gekregen van De Nederlandsche Bank (DNB). Het geldwisselkantoor meldde jarenlang ongebruikelijke transacties te laat aan de autoriteiten.",
+          "link": "https://www.nu.nl/economie/6250560/geldwisselkantoor-travelex-krijgt-boete-van-1-ton-voor-overtreden-witwasregels.html",
+          "publishedOn": "2023-02-09T14:05:30.000Z",
+          "wordCount": 728,
+          "title": "Geldwisselkantoor Travelex krijgt boete van 1 ton voor overtreden witwasregels",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/1upxfhcamjdw_sqr256.jpg/geldwisselkantoor-travelex-krijgt-boete-van-1-ton-voor-overtreden-witwasregels.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/1upxfhcamjdw_sqr256.jpg/geldwisselkantoor-travelex-krijgt-boete-van-1-ton-voor-overtreden-witwasregels.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6250503/",
           "author": "onze economieredactie",
           "description": "Unilever zal de hogere kosten de komende tijd blijven doorberekenen in de prijzen. Dat laat het bedrijf achter merken als Knorr, Dove en Magnum donderdag weten. De onderneming verwacht dat klanten daardoor minder Unilever-producten zullen kopen.",
@@ -18577,6 +18592,36 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "pepsico-earnings-stock-price-dividend-51675941591?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The beverages and snacks giant reported adjusted earnings per share of $1.67, beating estimates of $1.65, helped by price rises.",
+          "link": "https://www.barrons.com/articles/pepsico-earnings-stock-price-dividend-51675941591?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-09T13:48:00.000Z",
+          "wordCount": 6780,
+          "title": "PepsiCo Beats Earnings Estimates and Hikes Dividend. The Stock Is Rising.",
+          "imageUrl": "https://images.barrons.com/im-495007/social"
+        },
+        {
+          "id": "philip-morris-stock-revenue-profit-earnings-outlook-cigarettes-smokefree-51675949127?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "For 2023, earnings without any adjustments were forecast at $6.09 to $6.21 per share, beating estimates on FactSet for $5.90 per share",
+          "link": "https://www.barrons.com/articles/philip-morris-stock-revenue-profit-earnings-outlook-cigarettes-smokefree-51675949127?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-09T13:27:00.000Z",
+          "wordCount": 6746,
+          "title": "Philip Morris Revenue and Bright Outlook Buoys Stock",
+          "imageUrl": "https://images.barrons.com/im-709846/social"
+        },
+        {
+          "id": "abbott-cardiovascular-systems-acquisition.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "author": null,
+          "description": "The deal for New Brighton-based Cardiovascular Systems is expected to improve Abbott's portfolio of devices that treat vascular disease.",
+          "link": "https://www.bizjournals.com/twincities/news/2023/02/09/abbott-cardiovascular-systems-acquisition.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "publishedOn": "2023-02-09T13:12:56.000Z",
+          "wordCount": 4186,
+          "title": "Abbott Laboratories will acquire Cardiovascular Systems in deal worth $890 million",
+          "imageUrl": "https://media.bizj.us/view/img/10472829/best-dsc9254*1200xx6020-3388-0-252.jpg"
+        },
+        {
           "id": "stock-market-drop-protection-options-51675895808?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Interactive Brokers stock should benefit from the overconfidence and simmering volatility in the stock and options markets.",
@@ -18585,6 +18630,26 @@
           "wordCount": 6814,
           "title": "The Stock Market Could Be Set for a Big Drop. How to Prepare for It.",
           "imageUrl": "https://images.barrons.com/im-720254/social"
+        },
+        {
+          "id": "abbvies-stock-gains-on-q4-results-01675947861?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shares of AbbVie Inc. gained 2.4% in premarket trading on Thursday after the company beat earnings expectations for the fourth quarter of 2022. AbbVie had a...",
+          "link": "https://www.marketwatch.com/story/abbvies-stock-gains-on-q4-results-01675947861?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-09T13:04:00.000Z",
+          "wordCount": 6700,
+          "title": "AbbVie’s stock gains on Q4 results",
+          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/etfs-and-funds/etfs/sp500-we-asked-chatgpt-for-stock-picks-heres-what-it-said/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-02-09T13:00:45.000Z",
+          "wordCount": null,
+          "title": "We Asked ChatGPT For Stock Picks — Here's What It Said",
+          "imageUrl": null
         },
         {
           "id": "paypal-earnings-what-to-expect-11675947340?siteid=yhoof2&yptr=yahoo",
@@ -42615,16 +42680,6 @@
           "wordCount": 14503,
           "title": "What’s up with Wells Fargo exiting their position as America’s top mortgage servicer and third largest originator?",
           "imageUrl": "https://media.zenfs.com/en/the_basis_point_313/ef0b35741300e44da5409550d921eeb5"
-        },
-        {
-          "id": "bankruptcy-filing-reveals-tom-brady-015930384.html",
-          "author": null,
-          "description": "Bankruptcy attorneys released a long list of names and the number of shares held by former associates and investors.",
-          "link": "https://finance.yahoo.com/news/bankruptcy-filing-reveals-tom-brady-015930384.html",
-          "publishedOn": "2023-01-11T01:59:30.000Z",
-          "wordCount": 13489,
-          "title": "Bankruptcy Filing Reveals Tom Brady, Kevin O’Leary, and Coinbase Among Major FTX Creditors",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/a0hx6YDl4NJhxXAq3N4BqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_media_980/eefd352888ae8fe7d3a4f7241b4c1d3f"
         }
       ]
     }
