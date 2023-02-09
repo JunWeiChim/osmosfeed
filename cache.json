@@ -838,6 +838,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6250508/",
+          "author": "onze techredactie",
+          "description": "De Fraudehelpdesk heeft vorig jaar een half miljoen meldingen over oplichting ontvangen. Daarbij werd in 7.661 gevallen ook financiële schade gemeld. Oplichters wisten ruim 43 miljoen euro buit te maken.",
+          "link": "https://www.nu.nl/tech/6250508/oplichters-maakten-vorig-jaar-43-miljoen-euro-buit-vooral-via-beleggingsfraude.html",
+          "publishedOn": "2023-02-09T08:47:46.000Z",
+          "wordCount": 923,
+          "title": "Oplichters maakten vorig jaar 43 miljoen euro buit, vooral via beleggingsfraude",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/v41x1w1aqm8j_sqr256.jpg/oplichters-maakten-vorig-jaar-43-miljoen-euro-buit-vooral-via-beleggingsfraude.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/v41x1w1aqm8j_sqr256.jpg/oplichters-maakten-vorig-jaar-43-miljoen-euro-buit-vooral-via-beleggingsfraude.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6250480/",
           "author": "onze nieuwsredactie",
           "description": "Entertainmentconcern Walt Disney gaat het bedrijf herstructureren, waarbij zevenduizend banen worden geschrapt. Dat komt overeen met 3,6 procent van het wereldwijde personeelsbestand.",
@@ -18618,36 +18633,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/jDn_nZZWpDBxZd2O6wO2mcknvYE=/680x440/401k_statement-5bfc326846e0fb00265d300c.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/f/form-706.asp",
-          "author": "Jean Folger",
-          "description": "Estate executors use IRS Form 706: United States Estate (and Generation-Skipping Transfer) Tax Return to calculate estate tax and compute the generation-skipping transfer (GST) tax.",
-          "link": "https://www.investopedia.com/terms/f/form-706.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-10T20:49:45.000Z",
-          "wordCount": 5387,
-          "title": "What Is IRS Form 706, Who Must File, Related Forms",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/UafQXt0QhVdM5i9_aOWIMPTJx5M=/380x254/rbv2_53-5bfc2b8ac9e77c0058770499.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/UafQXt0QhVdM5i9_aOWIMPTJx5M=/380x254/rbv2_53-5bfc2b8ac9e77c0058770499.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/s/subventedlease.asp",
-          "author": "Julia Kagan",
-          "description": "A subvented lease is a type of lease in which the entity offering the lease reduces the cost through some type of subsidy.",
-          "link": "https://www.investopedia.com/terms/s/subventedlease.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-10T20:44:27.000Z",
-          "wordCount": 4452,
-          "title": "What Is a Subvented Lease?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/XvWgiIR7nFffR9WWsvg2_O6P9HY=/1500x1000/GettyImages-1030828366-cb86ec0660544170a17a7a60c6f20099.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/XvWgiIR7nFffR9WWsvg2_O6P9HY=/1500x1000/GettyImages-1030828366-cb86ec0660544170a17a7a60c6f20099.jpg"
         }
       ]
     },
@@ -18657,6 +18642,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "investors-aggressively-preparing-major-stock-decline-51675895808?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Interactive Brokers stock should benefit from the overconfidence and simmering volatility in the stock and options markets.",
+          "link": "https://www.barrons.com/articles/investors-aggressively-preparing-major-stock-decline-51675895808?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-09T06:30:00.000Z",
+          "wordCount": 6776,
+          "title": "Some Big Investors Are Aggressively Preparing for a Major Stock Decline",
+          "imageUrl": "https://images.barrons.com/im-720254/social"
+        },
+        {
           "id": "paypal-earnings-stock-price-51675888726?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Analysts are concerned that the payment company's outlook for 2023 could be muted amid macroeconomic pressures.",
@@ -18665,6 +18660,16 @@
           "wordCount": 6742,
           "title": "PayPal Earnings Are Coming. Wall Street Is Getting Nervous.",
           "imageUrl": "https://images.barrons.com/im-479278/social"
+        },
+        {
+          "id": "coinbase-ceo-armstrong-decries-rumors-013234459.html",
+          "author": null,
+          "description": "(Bloomberg) -- Coinbase Global Inc.’s head Brian Armstrong escalated his war of words with the US Securities and Exchange Commission, warning he’d heard rumors the agency wants to ‘get rid of’ crypto staking by retail investors.Most Read from BloombergMeta Asks Many Managers to Get Back to Making Things or LeaveGeorge Santos Gets Into Fight With Mitt Romney at State of the Union DebutDeSantis Chides Trump as Republicans’ 2024 Presidential Race Heats UpChinese Balloon Was Part of Years-Long Spyin",
+          "link": "https://finance.yahoo.com/news/coinbase-ceo-armstrong-decries-rumors-013234459.html",
+          "publishedOn": "2023-02-09T05:42:12.000Z",
+          "wordCount": 13925,
+          "title": "Coinbase CEO Armstrong Decries Rumors of Possible US SEC Ban on Crypto Staking",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/L14I1QZVhgr7uTLzKYXcGQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/16332d3462d91f887c0b65641784d250"
         },
         {
           "id": "adani-group-stocks-slide-msci-035607545.html",
@@ -18825,6 +18830,16 @@
           "wordCount": 14340,
           "title": "Big Short in Stocks Is Almost Over After $300 Billion Unwind",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/FeGu4SWys1_A0ct2zl_Oyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njc-/https://media.zenfs.com/en/bloomberg_markets_842/185598309a9865ae1b945db4e02e230a"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/bayer-stock-rockets-to-8-month-high-after-snagging-new-ceo-bill-anderson/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-02-08T21:24:54.000Z",
+          "wordCount": null,
+          "title": "Bayer Snags Ex-Roche Exec Bill Anderson As New CEO; Shares Rocket",
+          "imageUrl": null
         },
         {
           "id": "disney-stock-rises-after-streaming-losses-narrow-in-first-quarter-211256179.html",
@@ -42495,56 +42510,6 @@
           "wordCount": 13805,
           "title": "Netflix stock jumps 4% as Goldman Sachs boosts estimates amid weakening dollar",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/SKJUFFlV3lmNUaugSIvY3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Mzc-/https://s.yimg.com/os/creatr-uploaded-images/2021-02/70d53160-6657-11eb-bf5f-5a7126669bc9"
-        },
-        {
-          "id": "top-rivian-executives-depart-the-electric-vehicle-startup-11673380522?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The exits of executives, including Rivian’s supply-chain head, have come amid the company missing 2022 production targets.",
-          "link": "https://www.wsj.com/articles/top-rivian-executives-depart-the-electric-vehicle-startup-11673380522?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-10T21:00:00.000Z",
-          "wordCount": 7804,
-          "title": "Several Top Rivian Executives Depart the Electric-Vehicle Startup",
-          "imageUrl": "https://images.wsj.net/im-700703/social"
-        },
-        {
-          "id": "ftx-collapse-dispute-between-billionaires-winklevoss-silbert-escalates?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "The bankruptcy of the cryptocurrency exchange FTX has reverberated through the crypto space.",
-          "link": "https://www.thestreet.com/investing/cryptocurrency/ftx-collapse-dispute-between-billionaires-winklevoss-silbert-escalates?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2023-01-10T20:33:00.000Z",
-          "wordCount": 3349,
-          "title": "FTX Collapse: Dispute Between Billionaires Winklevoss, Silbert Escalates",
-          "imageUrl": "https://www.thestreet.com/.image/t_share/MTY3NTQxMjMwMDg5OTM4ODMw/winklevoss-twins-hire-nasdaq-to-monitor-crypto-markets-for-fraud-will-it-work.png"
-        },
-        {
-          "id": "alibaba-top-pick-analyst-boosts-202228382.html",
-          "author": null,
-          "description": "Benchmark analyst Fawne Jiang reiterated Buy on Alibaba Group Holding Limited (NYSE: BABA) with a $180 price target. Jiang views BABA stock as a top pick for a big-cap China value play in 2023. Fundamentally, while retail and e-commerce growth remained muted in the December quarter, Jiang anticipates the industry's fundamental inflection point to kick in by the June quarter (F1Q24) with a reaccelerated growth outlook in FY24. Retail and e-commerce growth faced mounting pressure in the December q",
-          "link": "https://finance.yahoo.com/news/alibaba-top-pick-analyst-boosts-202228382.html",
-          "publishedOn": "2023-01-10T20:22:28.000Z",
-          "wordCount": 13755,
-          "title": "Alibaba Is Top Pick, Analyst Boosts Estimates Expecting Growth Recovery And Easing Logistics From Fiscal 24",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/62d6b0e224dcadc9867b7e50748d4631"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/research/att-stock-buy-now/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-01-10T20:19:34.000Z",
-          "wordCount": null,
-          "title": "AT&T Stock: Is It A Buy Ahead Of Earnings? Here's What Charts Show",
-          "imageUrl": null
-        },
-        {
-          "id": "hanesbrands-citigroup-undervalued-stocks-morningstar?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "Value has creamed growth in the past year, with Russell 1000 Value slipping 17 percentage points less than Russell 1000 Growth.",
-          "link": "https://www.thestreet.com/stocks/hanesbrands-citigroup-undervalued-stocks-morningstar?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2023-01-10T20:19:00.000Z",
-          "wordCount": 3548,
-          "title": "Hanes, Citigroup Make List of Undervalued Stocks",
-          "imageUrl": "https://www.thestreet.com/.image/t_share/MTgwOTQxMTc4NTM4MDQyNzI4/hanes_4.jpg"
         }
       ]
     }
