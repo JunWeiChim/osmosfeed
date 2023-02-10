@@ -838,6 +838,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6250746/",
+          "author": "onze techredactie",
+          "description": "Marsrover Curiosity heeft nieuw bewijs gevonden dat er ooit water is geweest op de rode planeet. Op de helling van een berg fotografeerde het karretje golfpatronen in het gesteente. Volgens wetenschappers van de NASA zijn die gevormd door water.",
+          "link": "https://www.nu.nl/tech/6250746/sporen-van-water-en-golven-ontdekt-op-mars.html",
+          "publishedOn": "2023-02-10T14:02:51.000Z",
+          "wordCount": 1172,
+          "title": "Sporen van water en golven ontdekt op Mars",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/xyjxxvfa5k5v_sqr256.jpg/sporen-van-water-en-golven-ontdekt-op-mars.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/xyjxxvfa5k5v_sqr256.jpg/sporen-van-water-en-golven-ontdekt-op-mars.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6250686/",
           "author": "Tim Wijkman-van Aalst",
           "description": "Discussieplatform Reddit is getroffen door een hack. Na een phishingaanval hebben cybercriminelen toegang tot de systemen van het forum weten te krijgen. Volgens het bedrijf hebben ze geen gebruikersgegevens buitgemaakt.",
@@ -7309,6 +7324,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/economics/09/subprime-market-2008.asp",
+          "author": "Paul Kosakowski",
+          "description": "How did America's strong economy tumble so quickly? Find out here.",
+          "link": "https://www.investopedia.com/articles/economics/09/subprime-market-2008.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-10T13:47:49.000Z",
+          "wordCount": 6282,
+          "title": "The Fall of the Market in the Fall of 2008",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/hzJge58Sh_bL5R6UEsutN3vuqjQ=/2121x1414/GettyImages-668600179-a5321a6fa651488d80c27b0f52bd39b8.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/hzJge58Sh_bL5R6UEsutN3vuqjQ=/2121x1414/GettyImages-668600179-a5321a6fa651488d80c27b0f52bd39b8.jpg"
+        },
         {
           "id": "https://www.investopedia.com/investopedia-team-5193344",
           "author": "Staff Author",
@@ -18923,21 +18953,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/VjUIx3g5IkHvsKd4oWwAR8Wzg3w=/205x136/investing13-5bfc2b8f46e0fb0026016f4d.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/s/stockoption.asp",
-          "author": "James Chen",
-          "description": "A stock option gives an investor the right, but not the obligation, to buy or sell a stock at an agreed-upon price and date. Learn more about how they work.",
-          "link": "https://www.investopedia.com/terms/s/stockoption.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-12T01:54:04.000Z",
-          "wordCount": 7239,
-          "title": "What Are Stock Options? Parameters and Trading, With Examples",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/6ka_s7rA5MyANoeUvbj93ytGmgk=/680x440/122582497-5bfc2b8d46e0fb005119b24b.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/6ka_s7rA5MyANoeUvbj93ytGmgk=/680x440/122582497-5bfc2b8d46e0fb005119b24b.jpg"
         }
       ]
     },
@@ -18947,6 +18962,66 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-ahead-of-inflation-survey-data-lyft-crashes-31-on-earnings-miss/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-02-10T13:46:01.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Fall Ahead Of Inflation Survey Data; Lyft Crashes 31% On Earnings Miss",
+          "imageUrl": null
+        },
+        {
+          "id": "why-ford-stock-is-falling-759e2439?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Friday morning, the stock was down much more than either the broader market or shares of other auto manufacturers.",
+          "link": "https://www.barrons.com/articles/why-ford-stock-is-falling-759e2439?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-10T13:31:00.000Z",
+          "wordCount": 6782,
+          "title": "Ford Stock Is Falling. The Reason Is a Mystery.",
+          "imageUrl": "https://images.barrons.com/im-712866/social"
+        },
+        {
+          "id": "western-digital-micron-seagate-upgrades-bottom-2ed98375?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Micron said late Thursday a board committee has approved plans to cut certain executives’ salaries and suspended all executive bonuses in the fiscal year 2023.",
+          "link": "https://www.barrons.com/articles/western-digital-micron-seagate-upgrades-bottom-2ed98375?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-10T13:30:00.000Z",
+          "wordCount": 6804,
+          "title": "Western Digital, Micron, Seagate All Get Upgrades. A ‘Cyclical Bottom’ Is Forming, Analysts Say.",
+          "imageUrl": "https://images.barrons.com/im-42964/social"
+        },
+        {
+          "id": "tesla-stock-falls-in-danger-of-first-decline-in-9-sessions-633d141a?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shares of Tesla Inc. were suffering a rare loss in premarket trading Friday, as a lower close would only be the second decline in 16 sessions. The electric...",
+          "link": "https://www.marketwatch.com/story/tesla-stock-falls-in-danger-of-first-decline-in-9-sessions-633d141a?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-10T13:12:00.000Z",
+          "wordCount": 6741,
+          "title": "Tesla stock falls, in danger of first decline in 9 sessions",
+          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
+        {
+          "id": "paypal-earnings-leave-much-to-debate-on-a-polarizing-stock-f7e65e96?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "PayPal Holdings Inc. has been a polarizing stock lately, and that looks to be continuing in the wake of the company's most recent earnings report",
+          "link": "https://www.marketwatch.com/story/paypal-earnings-leave-much-to-debate-on-a-polarizing-stock-f7e65e96?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-10T13:04:00.000Z",
+          "wordCount": 7496,
+          "title": "PayPal earnings ‘leave much to debate’ on a polarizing stock",
+          "imageUrl": "https://images.mktw.net/im-594346/social"
+        },
+        {
+          "id": "texas-gas-station-hiring-many-130000967.html",
+          "author": null,
+          "description": "What's in your tank?",
+          "link": "https://finance.yahoo.com/news/texas-gas-station-hiring-many-130000967.html",
+          "publishedOn": "2023-02-10T13:00:00.000Z",
+          "wordCount": 14251,
+          "title": "This Texas gas station is hiring — and many of the openings earn up to $225K per year (with great benefits, plenty of paid vacation). 3 ways to make your own juicy compensation package",
+          "imageUrl": "https://media.zenfs.com/en/moneywise_327/8ad7ef45ae7aefcbd7dbb873163eef57"
+        },
+        {
           "id": "newell-brands-stock-dives-after-warning-of-surprise-loss-in-current-quarter-264e1a98?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Shares of Newell Brands Inc. dove 10.3% in premarket trading Friday, after the consumer goods company, with brands including Rubbermaid, Sharpie, Paper Mate...",
@@ -18955,6 +19030,16 @@
           "wordCount": 6842,
           "title": "Newell Brands stock dives after warning of surprise loss in current quarter",
           "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
+        {
+          "id": "newell-brands-ceo-ravi-saligram-is-retiring-120921800.html",
+          "author": null,
+          "description": "New leadership atop a household name brand.",
+          "link": "https://finance.yahoo.com/news/newell-brands-ceo-ravi-saligram-is-retiring-120921800.html",
+          "publishedOn": "2023-02-10T12:09:21.000Z",
+          "wordCount": 13821,
+          "title": "Newell Brands CEO Ravi Saligram is retiring",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Dd0eoEfJRBv8Uv_Utn8PZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODY-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/d56a7560-a938-11ed-bbff-62c0355fe55e"
         },
         {
           "id": "this-nearly-150-year-old-fund-hasnt-cut-its-dividend-since-1938-here-are-the-stocks-it-likes-and-four-it-doesnt-8957222b?siteid=yhoof2&yptr=yahoo",
@@ -18975,6 +19060,16 @@
           "wordCount": 6829,
           "title": "Tesla Stock’s Rally Could Again Vault Elon Musk to Top of the World’s Richest",
           "imageUrl": "https://images.barrons.com/im-693276/social"
+        },
+        {
+          "id": "im-61-and-want-to-know-if-i-can-retire-at-62-is-it-worth-hiring-an-adviser-to-help-answer-this-or-can-i-do-it-myself-b7c53308?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Have an issue with your financial adviser or looking to hire a new one? Email picks@marketwatch.com.",
+          "link": "https://www.marketwatch.com/picks/im-61-and-want-to-know-if-i-can-retire-at-62-is-it-worth-hiring-an-adviser-to-help-answer-this-or-can-i-do-it-myself-b7c53308?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-10T11:35:00.000Z",
+          "wordCount": 7445,
+          "title": "I’m 61 and want to know if I can retire at 62. Is it worth hiring an adviser to help answer this or can I do it myself?",
+          "imageUrl": "https://images.mktw.net/im-696221/social"
         },
         {
           "id": "u-s-stock-futures-point-to-another-down-day-on-wall-street-amid-earnings-disappointment-e26059bc?siteid=yhoof2&yptr=yahoo",
@@ -19027,6 +19122,16 @@
           "imageUrl": "https://images.mktw.net/im-722111/social"
         },
         {
+          "id": "outrageous-big-oil-made-almost-100511886.html",
+          "author": null,
+          "description": "In year when consumers worldwide faced soaring energy prices after Russia invaded Ukraine, some of the biggest energy companies report record profits.",
+          "link": "https://finance.yahoo.com/news/outrageous-big-oil-made-almost-100511886.html",
+          "publishedOn": "2023-02-10T10:05:11.000Z",
+          "wordCount": 15061,
+          "title": "'Outrageous': Big oil made almost $200 billion in 2022 as world faced energy crisis. Here's the breakdown.",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/7RvfRFPm70grvahOt.t7.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODY-/https://media.zenfs.com/en/usa_today_money_325/62d03bac855fc875d8a0fd520cb5b4e3"
+        },
+        {
           "id": "russia-plans-cut-march-oil-084126947.html",
           "author": null,
           "description": "(Bloomberg) -- Russia said it will cut oil output by 500,000 barrels a day next month, following through on a threat to retaliate against western sanctions and sending oil prices sharply higher.Most Read from BloombergRussia Blames US for Nord Stream Blasts, Threatens ConsequencesCommodity Trader Trafigura Faces $577 Million Loss After Uncovering Nickel FraudChina Balloon Had Western-Made Parts With English Writing, Lawmakers ToldUS Makes Case That Chinese Balloon Was Part of Spying ProgramUS Ta",
@@ -19055,6 +19160,16 @@
           "wordCount": 13717,
           "title": "Brent Oil Jumps Above $86 After Russia Says It Plans Output Cut",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/17f2e98009f071a5975ab8393ec6a183"
+        },
+        {
+          "id": "bofa-says-equity-rally-faces-085224456.html",
+          "author": null,
+          "description": "(Bloomberg) -- Next week’s US inflation data will mark a turning point for the equity rally at a time when investors are swapping stocks for bonds amid the specter of a recession, according to Bank of America Corp. strategists.Most Read from BloombergRussia Blames US for Nord Stream Blasts, Threatens ConsequencesCommodity Trader Trafigura Faces $577 Million Loss After Uncovering Nickel FraudChina Balloon Had Western-Made Parts With English Writing, Lawmakers ToldUS Makes Case That Chinese Balloo",
+          "link": "https://finance.yahoo.com/news/bofa-says-equity-rally-faces-085224456.html",
+          "publishedOn": "2023-02-10T08:52:24.000Z",
+          "wordCount": 14019,
+          "title": "BofA Says Equity Rally Faces Inflation Reckoning",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/0652a4a547ffdb1229d144fe79e91e5c"
         },
         {
           "id": "asia-stocks-face-pressure-rates-233833830.html",
@@ -43085,16 +43200,6 @@
           "wordCount": 13977,
           "title": "Euro Bulls See US CPI Data as Catalyst for Push Toward $1.10",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/abf45409763062998682379c484fae67"
-        },
-        {
-          "id": "markets-bitcoin-ether-continue-run-021052741.html",
-          "author": null,
-          "description": "Bitcoin and Ether prices rose in Thursday morning trading in Asia along with most other top 10 non-stablecoin cryptocurrencies, continuing almost a week’s run of price gains on signs of slower inflation in the U.S.",
-          "link": "https://finance.yahoo.com/news/markets-bitcoin-ether-continue-run-021052741.html",
-          "publishedOn": "2023-01-12T02:10:52.000Z",
-          "wordCount": 13847,
-          "title": "Markets: Bitcoin, Ether continue run up ahead of U.S. inflation report; Avalanche surges",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/m5zCqhp0HIduKz6kl28weg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/forkast_news_articles_672/c6fe845e2fddfda5aa53f7a9e8c7c064"
         }
       ]
     }
