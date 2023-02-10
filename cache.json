@@ -838,6 +838,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6250686/",
+          "author": "Tim Wijkman-van Aalst",
+          "description": "Discussieplatform Reddit is getroffen door een hack. Na een phishingaanval hebben cybercriminelen toegang tot de systemen van het forum weten te krijgen. Volgens het bedrijf hebben ze geen gebruikersgegevens buitgemaakt.",
+          "link": "https://www.nu.nl/tech/6250686/reddit-gehackt-na-succesvolle-phishingaanval.html",
+          "publishedOn": "2023-02-10T12:43:18.000Z",
+          "wordCount": 785,
+          "title": "Reddit gehackt na succesvolle phishingaanval",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/d82xjj7afsqj_sqr256.jpg/reddit-gehackt-na-succesvolle-phishingaanval.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/d82xjj7afsqj_sqr256.jpg/reddit-gehackt-na-succesvolle-phishingaanval.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6250725/",
           "author": "Tom van Gurp",
           "description": "Deze winter geeft NU.nl je regelmatig een overzicht van de ontwikkeling van de gasprijs, het gasverbruik en de vulling van de gasopslagen in Nederland. Dit zijn de cijfers van de afgelopen week in drie grafieken.",
@@ -7294,6 +7309,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/investopedia-team-5193344",
+          "author": "Staff Author",
+          "description": "An overview of the current editorial staff and the history of the people who have contributed to Investopedia",
+          "link": "https://www.investopedia.com/investopedia-team-5193344?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-10T12:54:56.000Z",
+          "wordCount": 3454,
+          "title": "The Investopedia Team",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/YurXawSwyP6PNjypKJB9H55jJTE=/857x861/investopedia_icon-4f30abcdb0cd455b9c740b7d09a07a47.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/YurXawSwyP6PNjypKJB9H55jJTE=/857x861/investopedia_icon-4f30abcdb0cd455b9c740b7d09a07a47.png"
+        },
         {
           "id": "https://www.investopedia.com/gen-z-guide-roth-iras-5220325",
           "author": "Rachel Murphy",
@@ -18917,6 +18947,46 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "newell-brands-stock-dives-after-warning-of-surprise-loss-in-current-quarter-264e1a98?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shares of Newell Brands Inc. dove 10.3% in premarket trading Friday, after the consumer goods company, with brands including Rubbermaid, Sharpie, Paper Mate...",
+          "link": "https://www.marketwatch.com/story/newell-brands-stock-dives-after-warning-of-surprise-loss-in-current-quarter-264e1a98?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-10T12:17:00.000Z",
+          "wordCount": 6842,
+          "title": "Newell Brands stock dives after warning of surprise loss in current quarter",
+          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
+        {
+          "id": "this-nearly-150-year-old-fund-hasnt-cut-its-dividend-since-1938-here-are-the-stocks-it-likes-and-four-it-doesnt-8957222b?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Here's what a fund that's been around for 150 years is doing.",
+          "link": "https://www.marketwatch.com/story/this-nearly-150-year-old-fund-hasnt-cut-its-dividend-since-1938-here-are-the-stocks-it-likes-and-four-it-doesnt-8957222b?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-10T11:49:00.000Z",
+          "wordCount": 8051,
+          "title": "This nearly 150-year-old fund hasn’t cut its dividend since 1938. Here are the stocks it likes, and four it doesn’t.",
+          "imageUrl": "https://images.mktw.net/im-722134/social"
+        },
+        {
+          "id": "tesla-stock-elon-musk-lvmh-arnault-cdcae293?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "An acceleration in gains for Tesla shares, and losses for Bernard Arnault's LVMH stock, mean the top of the world's richest list may be due for a shakeup.",
+          "link": "https://www.barrons.com/articles/tesla-stock-elon-musk-lvmh-arnault-cdcae293?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-10T11:46:00.000Z",
+          "wordCount": 6829,
+          "title": "Tesla Stock’s Rally Could Again Vault Elon Musk to Top of the World’s Richest",
+          "imageUrl": "https://images.barrons.com/im-693276/social"
+        },
+        {
+          "id": "u-s-stock-futures-point-to-another-down-day-on-wall-street-amid-earnings-disappointment-e26059bc?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Investors are weighing up a tough week that has had markets struggling to figure out fresh catalysts to take stocks higher.",
+          "link": "https://www.marketwatch.com/story/u-s-stock-futures-point-to-another-down-day-on-wall-street-amid-earnings-disappointment-e26059bc?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-10T11:35:00.000Z",
+          "wordCount": 7294,
+          "title": "U.S. stock futures point to another down day on Wall Street amid earnings disappointment",
+          "imageUrl": "https://images.mktw.net/im-707475/social"
+        },
+        {
           "id": "is-my-financial-planner-crazy-were-55-and-60-five-years-from-retirement-and-were-told-we-should-invest-more-aggressively-7119ccd5?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Have a question about your own retirement savings? Email us at HelpMeRetire@marketwatch.com",
@@ -19115,6 +19185,16 @@
           "wordCount": null,
           "title": "Cloudflare Climbs As Earnings Top Views Amid Strong Revenue Outlook",
           "imageUrl": null
+        },
+        {
+          "id": "the-short-end-of-the-curve-is-very-sexy-today-but-where-should-etf-investors-bet-on-bonds-11675981334?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The rise in bond yields keeps on resonating with investors.",
+          "link": "https://www.marketwatch.com/story/the-short-end-of-the-curve-is-very-sexy-today-but-where-should-etf-investors-bet-on-bonds-11675981334?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-09T22:22:00.000Z",
+          "wordCount": 8110,
+          "title": "‘The short end of the curve is very sexy today’: But where should ETF investors bet on bonds?",
+          "imageUrl": "https://images.mktw.net/im-341402/social"
         },
         {
           "id": "stocks-moving-in-after-hours-lyft-expedia-paypal-221957577.html",
@@ -43015,36 +43095,6 @@
           "wordCount": 13847,
           "title": "Markets: Bitcoin, Ether continue run up ahead of U.S. inflation report; Avalanche surges",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/m5zCqhp0HIduKz6kl28weg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/forkast_news_articles_672/c6fe845e2fddfda5aa53f7a9e8c7c064"
-        },
-        {
-          "id": "investors-mock-elon-musks-bid-to-move-tesla-trial-from-california-01673484549?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Lawyers for Tesla shareholders suing the electric vehicle maker's CEO Elon Musk over a misleading tweet are urging a federal judge to reject the...",
-          "link": "https://www.marketwatch.com/story/investors-mock-elon-musks-bid-to-move-tesla-trial-from-california-01673484549?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-12T00:49:00.000Z",
-          "wordCount": 7409,
-          "title": "Investors mock Elon Musk’s bid to move Tesla trial from California",
-          "imageUrl": "https://images.mktw.net/im-667143/social"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rallies-into-cpi-inflation-report-amazon-leads/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-01-12T00:47:46.000Z",
-          "wordCount": null,
-          "title": "Dow Jones Futures: Stock Market Rallies Into CPI Inflation Report; Amazon Leads Megacaps",
-          "imageUrl": null
-        },
-        {
-          "id": "ubs-says-2-stocks-offer-004129352.html",
-          "author": null,
-          "description": "Risk and reward should be on every investor’s mind right now, and for good reason. The risks of market investing are piling up; according to Nadia Lovell, senior US equity strategist with UBS, we’re almost certain to see a recession hit this year. The chance of a hard downturn, in her view, is somewhat mitigated by a hot labor market and an excess in consumer savings – but even so, Lovell believes that the S&P 500 will drop to 3,700 this year before rebounding to 4,000 by year’s end. Lovell sees",
-          "link": "https://finance.yahoo.com/news/ubs-says-2-stocks-offer-004129352.html",
-          "publishedOn": "2023-01-12T00:41:29.000Z",
-          "wordCount": 15138,
-          "title": "UBS Says These 2 Stocks Offer Attractive Risk-Reward Right Now — Here’s Why",
-          "imageUrl": "https://media.zenfs.com/en/tipranks_452/1e4aef90608b9fbc67399a5539413cb8"
         }
       ]
     }
