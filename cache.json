@@ -778,6 +778,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6250975/",
+          "author": "onze nieuwsredactie",
+          "description": "De bezetting van een boorplatform van Shell door activisten van Greenpeace is zondag beëindigd. Zes activisten verlieten het boorplatform dat naar de Noorse havenstad Haugesund werd vervoerd. Greenpeace hield het platform zo'n twee weken bezet.",
+          "link": "https://www.nu.nl/economie/6250975/bezetting-boorplatform-shell-door-activisten-greenpeace-ten-einde.html",
+          "publishedOn": "2023-02-12T16:55:44.000Z",
+          "wordCount": 926,
+          "title": "Bezetting boorplatform Shell door activisten Greenpeace ten einde",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/ljpxqt5ae7lu_sqr256.jpg/bezetting-boorplatform-shell-door-activisten-greenpeace-ten-einde.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/ljpxqt5ae7lu_sqr256.jpg/bezetting-boorplatform-shell-door-activisten-greenpeace-ten-einde.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6250261/",
           "author": "Rutger Otto",
           "description": "Bijna dagelijks krijgen overheidsdiensten zoals DigiD en de Belastingdienst ddos-aanvallen voor de kiezen. Die aanvallen kunnen websites en apps platleggen. Overheidsorganisaties en het bedrijfsleven komen twee keer per jaar een hele nacht samen om te trainen op ddos-aanvallen. En dan halen ze alles uit de kast. Dit keer was NU.nl erbij.",
@@ -6881,21 +6896,6 @@
             "url": "https://media.nu.nl/m/sw0x1gba5ffl_sqr256.jpg/de-beste-smartphones-van-rond-de-500-euro.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/sw0x1gba5ffl_sqr256.jpg/de-beste-smartphones-van-rond-de-500-euro.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6246833/",
-          "author": "Noémi van de Pol",
-          "description": "Vanaf zondag is Kroatië officieel het twintigste land waar uitsluitend kan worden betaald met de euro. Hoewel de munt Kroatië verder zou moeten helpen, zien inwoners van het land de prijzen plotseling stijgen na de invoering van de Europese eenheidsmunt. Wat is er aan de hand?",
-          "link": "https://www.nu.nl/economie/6246833/euro-moest-kroatie-verder-helpen-maar-leidt-nu-vooral-tot-frustratie.html",
-          "publishedOn": "2023-01-14T04:30:32.000Z",
-          "wordCount": 1366,
-          "title": "Euro moest Kroatië verder helpen, maar leidt nu vooral tot frustratie",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/fnox4l0aono8_sqr256.jpg/euro-moest-kroatie-verder-helpen-maar-leidt-nu-vooral-tot-frustratie.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/fnox4l0aono8_sqr256.jpg/euro-moest-kroatie-verder-helpen-maar-leidt-nu-vooral-tot-frustratie.jpg"
         }
       ]
     },
@@ -6904,6 +6904,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/c/chargeoff.asp",
+          "author": "Julia Kagan",
+          "description": "A charge-off means a debt that is deemed unlikely to be collected by the creditor but the debt is not necessarily forgiven or written off entirely. Here's how charge-off work.",
+          "link": "https://www.investopedia.com/terms/c/chargeoff.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-12T16:54:52.000Z",
+          "wordCount": 4712,
+          "title": "What Does a Charge-Off Mean? Effect on Credit Score and How to Remove",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/abpFhNWuMTzcklcTpACc6GW-qlo=/2121x1414/financial-problems-504486028-8e476fd2d611497b89eb7383c33386f2.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/abpFhNWuMTzcklcTpACc6GW-qlo=/2121x1414/financial-problems-504486028-8e476fd2d611497b89eb7383c33386f2.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/taxes/taxadvantaged-ways-pay-preschool/",
+          "author": "Daniel Kurt",
+          "description": "There are distinct benefits to grandparents paying for early education for their grandchildren.",
+          "link": "https://www.investopedia.com/taxes/taxadvantaged-ways-pay-preschool/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-12T16:49:03.000Z",
+          "wordCount": 4650,
+          "title": "Tax-Advantaged Ways to Pay for Preschool",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/cDX5pKDDq8hKtvPMuO3HFOlYwtc=/680x440/thinkstockphotos465889861-5bfc3b3e46e0fb00266003e8.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/cDX5pKDDq8hKtvPMuO3HFOlYwtc=/680x440/thinkstockphotos465889861-5bfc3b3e46e0fb00266003e8.jpg"
+        },
         {
           "id": "https://www.investopedia.com/ask/answers/102814/what-debt-cannot-be-discharged-when-filing-bankruptcy.asp",
           "author": "The Investopedia Team",
@@ -18680,6 +18710,16 @@
           "wordCount": 14290,
           "title": "A $1.5 Million Annuity Could Get You This Much Money Every Year",
           "imageUrl": "https://media.zenfs.com/en/smartasset_475/e464f29a1244f836daccbcf60155ed35"
+        },
+        {
+          "id": "strategies-avoid-inheritance-taxes-110200140.html",
+          "author": null,
+          "description": "Although inheritance taxes are less prevalent than estate taxes, you'll want to plan ahead if your state charges one. Here's how to avoid inheritance taxes.",
+          "link": "https://finance.yahoo.com/news/strategies-avoid-inheritance-taxes-110200140.html",
+          "publishedOn": "2023-02-12T14:00:37.000Z",
+          "wordCount": 14381,
+          "title": "How to Avoid Hefty Inheritance Taxes",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/f8ebf8626d28a2649c7a5aa97fcd6b8c"
         },
         {
           "id": "legal-way-avoid-paying-sales-130033476.html",
@@ -42260,16 +42300,6 @@
           "wordCount": 6705,
           "title": "Annuities Aren’t All the Same. The Lowdown on 2 Popular Ones.",
           "imageUrl": "https://images.barrons.com/im-703595/social"
-        },
-        {
-          "id": "chips-semiconductors-manufacturing-china-taiwan-11673650917?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Recent shortages and fears of China’s ambitions to dominate the industry have led to a frenetic effort to rev up U.S. production. But securing the supply of semiconductors will be complicated.",
-          "link": "https://www.wsj.com/articles/chips-semiconductors-manufacturing-china-taiwan-11673650917?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-14T05:00:00.000Z",
-          "wordCount": 6953,
-          "title": "Chips Are the New Oil and America Is Spending Billions to Safeguard Its Supply",
-          "imageUrl": "https://images.wsj.net/im-701045/social"
         }
       ]
     }
