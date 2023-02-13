@@ -521,6 +521,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "b776272a70275c6651147dc8c006605a",
+          "author": "Investopedia",
+          "description": "U.S. stock markets started off the week with gains on Feb. 13, driven by expectations for a positive inflation print.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b66d5e91ab14f74829b35b3bf3523c24d51c53c842cb89d4c664bcb7f9c3ed8811721c2ee30b3f1ae2fe4a58d3dac61be7b5fdb66185f",
+          "publishedOn": "2023-02-13T23:13:51.082Z",
+          "wordCount": 412,
+          "title": "Markets Jump on Inflation Optimism Ahead of CPI",
+          "imageUrl": null
+        },
+        {
           "id": "3ff7765a89f115b3b6cb949f0efe2f3c",
           "author": "Investopedia",
           "description": "U.S. equities indexes were mixed on Friday, Feb. 10, ending a negative week that brought renewed concerns about inflation and the Fed's next moves.",
@@ -777,6 +787,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6251051/",
+          "author": "onze economieredactie",
+          "description": "Het aantal flexwerkers is in het vierde kwartaal van vorig jaar met 64.000 toegenomen tot 2,7 miljoen. Het ging vooral om flexkrachten met relatief veel zekerheid in hun contract. Daarmee maken ze een goede kans op een vaste aanstelling.",
+          "link": "https://www.nu.nl/economie/6251051/aantal-flexwerkers-met-uitzicht-op-vaste-aanstelling-flink-gestegen.html",
+          "publishedOn": "2023-02-13T23:09:08.000Z",
+          "wordCount": 1181,
+          "title": "Aantal flexwerkers met uitzicht op vaste aanstelling flink gestegen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/kl4xx50av54j_sqr256.jpg/aantal-flexwerkers-met-uitzicht-op-vaste-aanstelling-flink-gestegen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/kl4xx50av54j_sqr256.jpg/aantal-flexwerkers-met-uitzicht-op-vaste-aanstelling-flink-gestegen.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6251094/",
+          "author": "Tom van Gurp",
+          "description": "De arbeidsmarkt werd in het vierde kwartaal nog wat krapper dan deze al was. Het aantal vacatures daalde weliswaar, maar het aantal werklozen daalde sneller. Voor elke 100 werklozen zijn er nu 123 vacatures, blijkt dinsdag uit cijfers van statistiekbureau CBS.",
+          "link": "https://www.nu.nl/economie/6251094/arbeidsmarkt-werd-afgelopen-maanden-nog-wat-krapper.html",
+          "publishedOn": "2023-02-13T23:08:45.000Z",
+          "wordCount": 954,
+          "title": "Arbeidsmarkt werd afgelopen maanden nog wat krapper",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/fe1xv24a0pbk_sqr256.jpg/arbeidsmarkt-werd-afgelopen-maanden-nog-wat-krapper.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/fe1xv24a0pbk_sqr256.jpg/arbeidsmarkt-werd-afgelopen-maanden-nog-wat-krapper.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6251131/",
           "author": "onze economieredactie",
@@ -7031,36 +7071,6 @@
             "url": "https://media.nu.nl/m/w2jx3f7aw8u8_sqr256.jpg/bedrijven-vergeten-hun-eigen-personeel-vaak-in-krappe-arbeidsmarkt.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/w2jx3f7aw8u8_sqr256.jpg/bedrijven-vergeten-hun-eigen-personeel-vaak-in-krappe-arbeidsmarkt.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6246899/",
-          "author": "Tom van Gurp",
-          "description": "Nederland krijgt steeds minder café-eigenaren. Dit komt onder meer door hogere kosten, de lockdowns en doordat cafés worden omgebouwd tot bijvoorbeeld een lunchroom of koffiezaak.",
-          "link": "https://www.nu.nl/economie/6246899/veel-kroegbazen-ruilden-cafe-de-afgelopen-jaren-in-voor-iets-anders.html",
-          "publishedOn": "2023-01-15T11:05:21.000Z",
-          "wordCount": 1112,
-          "title": "Veel kroegbazen ruilden café de afgelopen jaren in voor iets anders",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/13yxuyaa98u9_sqr256.jpg/veel-kroegbazen-ruilden-cafe-de-afgelopen-jaren-in-voor-iets-anders.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/13yxuyaa98u9_sqr256.jpg/veel-kroegbazen-ruilden-cafe-de-afgelopen-jaren-in-voor-iets-anders.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6246710/",
-          "author": "Chantal van Wees",
-          "description": "Elke dag naar de super om de hoek of één keer per week alle koopjes af? Met de huidige kostencrisis zijn we kritischer op onze uitgaven, ook in de supermarkt. In de rubriek Het Bonnetje spreken we elke week met een Nederlander over zijn supermarktstrategie in tijden van inflatie.",
-          "link": "https://www.nu.nl/geldzaken/6246710/van-aanbiedingen-moet-je-het-tegenwoordig-steeds-meer-hebben.html",
-          "publishedOn": "2023-01-15T11:04:07.000Z",
-          "wordCount": 1679,
-          "title": "Het Bonnetje | 'Van aanbiedingen moet je het tegenwoordig steeds meer hebben'",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/69dxolja7wa8_sqr256.jpg/van-aanbiedingen-moet-je-het-tegenwoordig-steeds-meer-hebben.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/69dxolja7wa8_sqr256.jpg/van-aanbiedingen-moet-je-het-tegenwoordig-steeds-meer-hebben.jpg"
         }
       ]
     },
@@ -7069,6 +7079,96 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/fis-shares-plummet-on-spinoff-plan-outlook-7109258",
+          "author": "Staff Author",
+          "description": "Shares of Payment services provider Fidelity National Information Services (FIS) dropped on news that it would spin off Worldpay, its merchant unit.",
+          "link": "https://www.investopedia.com/fis-shares-plummet-on-spinoff-plan-outlook-7109258?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-13T23:06:51.000Z",
+          "wordCount": 3042,
+          "title": "FIS Shares Plummet on Spinoff Plan, Outlook",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Wqicwu9Y2OWD8P60XoWbzob46GI=/4139x2759/jonas-leupe-0IVop5v4MMU-unsplash-4957bc11f5154e6aadb2d920788ed416.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Wqicwu9Y2OWD8P60XoWbzob46GI=/4139x2759/jonas-leupe-0IVop5v4MMU-unsplash-4957bc11f5154e6aadb2d920788ed416.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/401-k-match-for-student-loan-repayments-6342924",
+          "author": "Carrie Pallardy",
+          "description": "Some employers are able to offer 401(k) matching for student loan payments, and new legislation could make this a more broadly offered benefit.",
+          "link": "https://www.investopedia.com/401-k-match-for-student-loan-repayments-6342924?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-13T23:05:36.000Z",
+          "wordCount": 3969,
+          "title": "401(k) Match for Student Loan Repayments: What You Need to Know",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/h84mzuA0NZuXaippAE0voyoiOt0=/1280x720/french-workers-are-now-allowed-to-eat-lunch-at-their-desks-c78424ddf85946639267cb9a323a3433",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/h84mzuA0NZuXaippAE0voyoiOt0=/1280x720/french-workers-are-now-allowed-to-eat-lunch-at-their-desks-c78424ddf85946639267cb9a323a3433"
+        },
+        {
+          "id": "https://www.investopedia.com/banking-rights-for-immigrants-5218043",
+          "author": "Rebecca Lake",
+          "description": "Immigrants have rights when it comes to financial services and products, such as credit cards, loans, and mortgages.",
+          "link": "https://www.investopedia.com/banking-rights-for-immigrants-5218043?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-13T23:02:50.000Z",
+          "wordCount": 4720,
+          "title": "How Immigrants Can Access Financial Services",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/M2equ8rPIxPC3zqRhW5369u_2j8=/5096x3372/What-To-Look-for-When-Opening-a-Savings-Account-at-a-Bank-56a091993df78cafdaa2ce88.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/M2equ8rPIxPC3zqRhW5369u_2j8=/5096x3372/What-To-Look-for-When-Opening-a-Savings-Account-at-a-Bank-56a091993df78cafdaa2ce88.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/home-equity-loan-requirements-5323171",
+          "author": "Rachel Murphy",
+          "description": "Tapping your home equity can provide funds you can use for a variety of purposes. First, you’ll need to know about the requirements, including equity limits.",
+          "link": "https://www.investopedia.com/home-equity-loan-requirements-5323171?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-13T23:00:42.000Z",
+          "wordCount": 4756,
+          "title": "What Are the Requirements for a Home Equity Loan?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/xJWw0J-oEo-TwGulfJsKKOac7Po=/2086x1438/Defaultprobability-d4de743fbc9442418f9d41633b65063f.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/xJWw0J-oEo-TwGulfJsKKOac7Po=/2086x1438/Defaultprobability-d4de743fbc9442418f9d41633b65063f.jpeg"
+        },
+        {
+          "id": "https://www.investopedia.com/markets-jump-on-inflation-optimism-ahead-of-cpi-7109277",
+          "author": "Staff Author",
+          "description": "U.S. stock markets started off the week with gains on Feb. 13, driven by expectations for a positive inflation print.",
+          "link": "https://www.investopedia.com/markets-jump-on-inflation-optimism-ahead-of-cpi-7109277?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-13T22:40:11.000Z",
+          "wordCount": 2982,
+          "title": "Markets Jump on Inflation Optimism Ahead of CPI",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Vp1yK_MIbIDrvRMIOE2b0X70YiM=/1240x820/indexesfeb13-9c40a8a741cd4ce5940b455fda140ada.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Vp1yK_MIbIDrvRMIOE2b0X70YiM=/1240x820/indexesfeb13-9c40a8a741cd4ce5940b455fda140ada.png"
+        },
+        {
+          "id": "https://www.investopedia.com/government-sets-may-31-launch-date-for-usd10-billion-clean-energy-tax-credit-7109287",
+          "author": "Staff Author",
+          "description": "The clean energy investment programs authorized by the Inflation Reduction Act took a step closer to becoming a reality Monday when the IRS said it would start accepting applications for a key tax credit on May 31.",
+          "link": "https://www.investopedia.com/government-sets-may-31-launch-date-for-usd10-billion-clean-energy-tax-credit-7109287?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-13T22:35:46.000Z",
+          "wordCount": 3195,
+          "title": "Government Sets May 31 Launch Date For $10 Billion Clean Energy Tax Credit",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/wJOEWUJjUPpA7MEJf2cXjJRR2RQ=/5088x3392/GettyImages-1244434656-78418314f40f4691878114a454ad80d9.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/wJOEWUJjUPpA7MEJf2cXjJRR2RQ=/5088x3392/GettyImages-1244434656-78418314f40f4691878114a454ad80d9.jpg"
+        },
         {
           "id": "https://www.investopedia.com/binance-and-paxos-caught-up-in-cryto-regulatory-crackdown-7108974",
           "author": "Kevin George",
@@ -19152,6 +19252,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "arista-stock-earnings-tech-2f5284ae?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Networking-equipment provider Arista continued to benefit from strong demand from cloud-computing players in the fourth quarter.",
+          "link": "https://www.barrons.com/articles/arista-stock-earnings-tech-2f5284ae?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-13T22:25:00.000Z",
+          "wordCount": 6779,
+          "title": "Arista Stock Is Rising. Profits Topped Estimates.",
+          "imageUrl": "https://images.barrons.com/im-723920/social"
+        },
+        {
+          "id": "stocks-moving-in-after-hours-palantir-avis-dennys-222243747.html",
+          "author": null,
+          "description": "Stocks moving in after-hours: Palantir, Avis, Denny's",
+          "link": "https://finance.yahoo.com/news/stocks-moving-in-after-hours-palantir-avis-dennys-222243747.html",
+          "publishedOn": "2023-02-13T22:22:43.000Z",
+          "wordCount": 13294,
+          "title": "Stocks moving in after-hours: Palantir, Avis, Denny's",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/kkD3t5BqTJueDmkPxw_5iQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDY-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/64c0f4d0-abde-11ed-bddf-954f8615f94d"
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -19200,6 +19320,16 @@
           "wordCount": 7041,
           "title": "Palantir posts first profitable quarter, stock soars after earnings",
           "imageUrl": "https://images.mktw.net/im-704601/social"
+        },
+        {
+          "id": "cpi-show-whether-stocks-bonds-210816814.html",
+          "author": null,
+          "description": "(Bloomberg) -- For the first time in a long time, stock and bond markets are flashing divergent signals on the economy and future Federal Reserve policy. Tuesday’s inflation report will go a long way in determining which one is right.Most Read from BloombergChina Ready to Down Object Flying Near Naval Base: PaperChina Says US Balloons Trespassed Over 10 Times Since Early 2022US Fighters Down More Objects as Tension Ratchets HigherUS Fighter Jet Downs Fourth Aerial Object Over North AmericaUS Sho",
+          "link": "https://finance.yahoo.com/news/cpi-show-whether-stocks-bonds-210816814.html",
+          "publishedOn": "2023-02-13T21:08:16.000Z",
+          "wordCount": 14231,
+          "title": "CPI Will Show Whether Stocks or Bonds Got It Right",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/bac4917efe3a10b1fe763f4b6015f8a2"
         },
         {
           "id": "why-januarys-cpi-report-could-deal-a-massive-blow-to-the-stock-market-296cfe28?siteid=yhoof2&yptr=yahoo",
@@ -43120,56 +43250,6 @@
           "wordCount": 14424,
           "title": "Momentum in AI Is Dialing Up: Here Are 2 Stocks That Analysts Like",
           "imageUrl": "https://media.zenfs.com/en/tipranks_452/d402555715f35fd279a876cc7475e1be"
-        },
-        {
-          "id": "caregivers-crisis-nearly-1-3-120000441.html",
-          "author": null,
-          "description": "Many Americans compromise their own long-term financial security to care for loved ones.",
-          "link": "https://finance.yahoo.com/news/caregivers-crisis-nearly-1-3-120000441.html",
-          "publishedOn": "2023-01-15T11:00:00.000Z",
-          "wordCount": 14855,
-          "title": "Caregivers 'in crisis': Nearly 1 in 3 have left their jobs to tend to ailing loved ones, and the costs add up to thousands of dollars a year",
-          "imageUrl": "https://media.zenfs.com/en/moneywise_327/9d24a7551c7a31a60536aeb6ae1198ef"
-        },
-        {
-          "id": "blackrock-vs-goldman-in-the-fight-over-60-40-11673728658?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Is it time for a new approach or was 2022 just a very bad year?",
-          "link": "https://www.wsj.com/articles/blackrock-vs-goldman-in-the-fight-over-60-40-11673728658?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-15T11:00:00.000Z",
-          "wordCount": 7257,
-          "title": "BlackRock vs. Goldman in the Fight Over 60/40",
-          "imageUrl": "https://images.wsj.net/im-703886/social"
-        },
-        {
-          "id": "crossover-hedge-funds-lost-big-in-2022-theyre-still-launching-in-2023-11673732255?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Managers say opportunities remain despite an uncertain economic outlook.",
-          "link": "https://www.wsj.com/articles/crossover-hedge-funds-lost-big-in-2022-theyre-still-launching-in-2023-11673732255?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-15T10:32:00.000Z",
-          "wordCount": 7159,
-          "title": "Crossover Hedge Funds Lost Big in 2022. They’re Still Launching in 2023.",
-          "imageUrl": "https://images.wsj.net/im-703709/social"
-        },
-        {
-          "id": "agriculture-companies-push-carbon-capture-farming-growers-are-skeptical-11673726258?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Executives say farming programs designed to  capture carbon dioxide in fields offer long-term benefits including healthier soil, and they provide extra cash.",
-          "link": "https://www.wsj.com/articles/agriculture-companies-push-carbon-capture-farming-growers-are-skeptical-11673726258?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-15T10:30:00.000Z",
-          "wordCount": 7418,
-          "title": "Agriculture Companies Push Carbon-Capture Farming; Growers Are Skeptical",
-          "imageUrl": "https://images.wsj.net/im-703566/social"
-        },
-        {
-          "id": "tech-companies-prepare-tough-2023-11673304542?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Competitors, regulators and an economic slowdown have started to make a meaningful dent in the fortunes of the largest tech companies.",
-          "link": "https://www.wsj.com/articles/tech-companies-prepare-tough-2023-11673304542?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-15T10:30:00.000Z",
-          "wordCount": 7916,
-          "title": "Big Tech Companies Prep for a Tough Year",
-          "imageUrl": "https://images.wsj.net/im-703179/social"
         }
       ]
     }
