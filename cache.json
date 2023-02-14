@@ -808,6 +808,36 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6251188/",
+          "author": "Eva Schouten",
+          "description": "Na ABN AMRO en Rabobank verhoogt ook ING de rente op de spaarrekeningen van zijn klanten. Per 1 maart gaat de rente voor iedereen met een spaartegoed tot en met 10.000 euro omhoog naar 0,50 procent. Dat heeft de bank bekendgemaakt.",
+          "link": "https://www.nu.nl/economie/6251188/ing-verhoogt-spaarrente-ook-weer-een-beetje.html",
+          "publishedOn": "2023-02-14T09:07:52.000Z",
+          "wordCount": 772,
+          "title": "ING verhoogt spaarrente ook weer een beetje",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/0b9xviuaez2b_sqr256.jpg/ing-verhoogt-spaarrente-ook-weer-een-beetje.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/0b9xviuaez2b_sqr256.jpg/ing-verhoogt-spaarrente-ook-weer-een-beetje.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6251186/",
+          "author": "Thijs Rösken",
+          "description": "De Nederlandse economie bleek eind vorig jaar toch sterker dan gevreesd. Want in de laatste drie maanden van 2022 groeide de economie met 0,6 procent door toenemende export en hogere consumentenbestedingen. \"De groei zit overal\", zegt CBS-econoom Peter Hein van Mulligen. Aangezien de economie dus niet twee kwartalen op rij is gekrompen, is een recessie uitgebleven.",
+          "link": "https://www.nu.nl/economie/6251186/gevreesde-recessie-in-nederland-blijft-uit-we-hoeven-niet-te-somberen.html",
+          "publishedOn": "2023-02-14T08:57:37.000Z",
+          "wordCount": 1495,
+          "title": "Gevreesde recessie in Nederland blijft uit: 'We hoeven niet te somberen'",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/52zx6b0asvbw_sqr256.jpg/gevreesde-recessie-in-nederland-blijft-uit-we-hoeven-niet-te-somberen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/52zx6b0asvbw_sqr256.jpg/gevreesde-recessie-in-nederland-blijft-uit-we-hoeven-niet-te-somberen.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6251182/",
           "author": "onze economieredactie",
           "description": "Pensioenfonds Zorg en Welzijn (PFZW) heeft voor 303 miljoen euro aan belangen in fossiele bedrijven verkocht. Het gaat om 78 bedrijven, waaronder Dana Gas, Diamondback Energy en Vivo Energy, die niet voldeden aan de klimaateisen van het fonds.",
@@ -19403,36 +19433,6 @@
           "wordCount": 5360,
           "title": "How Nikola Makes Money: Hydrogen-Electric Trucks",
           "imageUrl": "https://www.investopedia.com/thmb/PrMbckpXhyfMWdxkdsJ5sADE-Uo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/nikola_badger2-28963695a2fae6f2920734d1af0bdf3f1917c5d6e1826ad26d2bfe2cd6686ec9-c201b13fd17a462fa091b2cd28882980.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/forex-currencies/081316/cost-buying-subway-franchise.asp",
-          "author": "TK McDonald",
-          "description": "Learn about the costs of franchising a Subway restaurant and all that goes along with becoming an entrepreneur in the restaurant industry.",
-          "link": "https://www.investopedia.com/articles/forex-currencies/081316/cost-buying-subway-franchise.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-15T20:29:44.000Z",
-          "wordCount": 4334,
-          "title": "The Cost of Buying a Subway Franchise",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ho5_tdqjcJ4Q1XGHuckfZyYksAI=/2125x1415/thinkstockphotos-470495804-5bfc2b4d46e0fb00265bdefc.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ho5_tdqjcJ4Q1XGHuckfZyYksAI=/2125x1415/thinkstockphotos-470495804-5bfc2b4d46e0fb00265bdefc.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/tradestation-vs-interactive-brokers-4587960",
-          "author": "Gina Young",
-          "description": "TradeStation and Interactive Brokers focus their tools and cost structures on very frequent traders. If you are an active trader, which is right for you?",
-          "link": "https://www.investopedia.com/tradestation-vs-interactive-brokers-4587960?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-15T20:29:41.000Z",
-          "wordCount": 6151,
-          "title": "Tradestation vs. Interactive Brokers",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/0atx-OZETMvARdE0P_Uhe-bwLBU=/1500x1000/TradeStationvs.InteractiveBrokers-5c61bd7746e0fb00017dd694.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/0atx-OZETMvARdE0P_Uhe-bwLBU=/1500x1000/TradeStationvs.InteractiveBrokers-5c61bd7746e0fb00017dd694.png"
         }
       ]
     },
@@ -19441,6 +19441,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "berkshire-hathaway-warren-buffett-pilot-flying-j-buy-84705bd?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Berkshire may soon reveal what it paid for the second installment of its purchase of Pilot Co.",
+          "link": "https://www.barrons.com/articles/berkshire-hathaway-warren-buffett-pilot-flying-j-buy-84705bd?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-14T08:00:00.000Z",
+          "wordCount": 6792,
+          "title": "Berkshire Hathaway’s Buy in Truck-Stop Operator Pays Off",
+          "imageUrl": "https://images.barrons.com/im-694859/social"
+        },
         {
           "id": "don-t-miss-next-leg-020316583.html",
           "author": null,
@@ -43330,26 +43340,6 @@
           "wordCount": null,
           "title": "Dow Jones Futures Due: Market Rally Clears Resistance; Tesla's Big Transition",
           "imageUrl": null
-        },
-        {
-          "id": "taiwan-still-semiconductor-leader-chip-210000246.html",
-          "author": null,
-          "description": "(Bloomberg) -- Taiwan’s exports of integrated circuit chips rose in 2022 for a seventh consecutive year, further solidifying the economy’s leadership status in a global semiconductor industry that has been roiled by US-China tensions and diversifying supply chains. Most Read from BloombergPfizer Bivalent Vaccine Linked to Strokes in Preliminary DataAt Least 68 Dead as Nepal Plane Crashes Seconds Before LandingThe Apartment Market Is About to Get UglyThis Isn’t Your Mom and Dad’s Recession, Says",
-          "link": "https://finance.yahoo.com/news/taiwan-still-semiconductor-leader-chip-210000246.html",
-          "publishedOn": "2023-01-15T21:00:00.000Z",
-          "wordCount": 14265,
-          "title": "Taiwan Is Still Semiconductor Leader as Chip Exports Rise Again",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/2psxQjoQ14Yr_8jxVQZ7NQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDQ-/https://media.zenfs.com/en/bloomberg_technology_68/8a44073d99343a056bb07679161491f3"
-        },
-        {
-          "id": "former-ftx-us-president-accuses-204056656.html",
-          "author": null,
-          "description": "Following his sudden departure from FTX US in September, Brett Harrison describes prolonged tension with Sam Bankman-Fried.",
-          "link": "https://finance.yahoo.com/news/former-ftx-us-president-accuses-204056656.html",
-          "publishedOn": "2023-01-15T20:40:56.000Z",
-          "wordCount": 14370,
-          "title": "Former FTX US President Accuses SBF of ‘Gaslighting and Manipulation’",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/fciZYDhEymAS5sdh_mqYTQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_media_980/cacbceb8c7d8ad07dec5c643db225fae"
         }
       ]
     }
