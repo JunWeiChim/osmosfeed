@@ -581,6 +581,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "0e9c4ae03f90143af391c90b85a7c5ed",
+          "author": "Investopedia",
+          "description": "After initially falling as strong retail sales data stoked inflation concerns, U.S. stocks rallied to end the session on Feb. 15, closing with gains.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b66d5e91ab14f749a8b2ea6e02928c2415ed13c8c3da3df4e2457c86e867ed09c1e21c5ef3bbbe6eb6deae18925a03ea47d5ed3641c5c07",
+          "publishedOn": "2023-02-15T23:13:46.084Z",
+          "wordCount": 412,
+          "title": "Markets Reverse Earlier Losses and Finish Higher",
+          "imageUrl": null
+        },
+        {
           "id": "8f17cdf6129fee2e2c8cc1a8332778cb",
           "author": "Investopedia",
           "description": "U.S. stock markets recovered from early losses to end mixed on Feb. 14 as consumer price index (CPI) data showed an uptick in inflation in January.",
@@ -838,16 +848,6 @@
           "publishedOn": "2023-01-18T01:09:37.021Z",
           "wordCount": 412,
           "title": "The Market Sum: Double Down",
-          "imageUrl": null
-        },
-        {
-          "id": "be89ecff936cc2ee85b0082d81dfe8ed",
-          "author": "rss.app",
-          "description": "",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9573c8e114b61138868a75a1fd34299c0951c6279675e4c01373108a3f",
-          "publishedOn": "2023-01-17T11:11:06.867Z",
-          "wordCount": 412,
-          "title": "Stocks & Bond News",
           "imageUrl": null
         }
       ]
@@ -7441,21 +7441,6 @@
             "url": "https://media.nu.nl/m/tv3xet8a2hmx_sqr256.jpg/staat-aangeklaagd-vanwege-uitblijven-steun-voor-zorgverleners-met-long-covid.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/tv3xet8a2hmx_sqr256.jpg/staat-aangeklaagd-vanwege-uitblijven-steun-voor-zorgverleners-met-long-covid.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6247314/",
-          "author": "onze economieredactie",
-          "description": "De Rotterdamse haven heeft de komende jaren vanwege de energietransitie naar schatting tien- tot vijftienduizend extra mensen nodig. Momenteel staan er al meer dan achtduizend vacatures open.",
-          "link": "https://www.nu.nl/economie/6247314/rotterdamse-haven-heeft-duizenden-nieuwe-werknemers-nodig.html",
-          "publishedOn": "2023-01-17T10:58:13.000Z",
-          "wordCount": 723,
-          "title": "Rotterdamse haven heeft duizenden nieuwe werknemers nodig",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/2xhxop9akngj_sqr256.jpg/rotterdamse-haven-heeft-duizenden-nieuwe-werknemers-nodig.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/2xhxop9akngj_sqr256.jpg/rotterdamse-haven-heeft-duizenden-nieuwe-werknemers-nodig.jpg"
         }
       ]
     },
@@ -7464,6 +7449,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/markets-reverse-earlier-losses-and-finish-higher-7110344",
+          "author": "Staff Author",
+          "description": "After initially falling as strong retail sales data stoked inflation concerns, U.S. stocks rallied to end the session on Feb. 15, closing with gains.",
+          "link": "https://www.investopedia.com/markets-reverse-earlier-losses-and-finish-higher-7110344?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-15T22:43:07.000Z",
+          "wordCount": 3040,
+          "title": "Markets Reverse Earlier Losses and Finish Higher",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/hSnzqFsPPweq7PQwI51pFOeBiA4=/1240x820/indexesfeb15-842beff85aea487ead1559bef9e1cb63.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/hSnzqFsPPweq7PQwI51pFOeBiA4=/1240x820/indexesfeb15-842beff85aea487ead1559bef9e1cb63.png"
+        },
         {
           "id": "https://www.investopedia.com/growing-social-security-costs-will-help-fuel-usd18-8-trillion-in-deficits-by-2033-7110328",
           "author": "Staff Author",
@@ -20135,6 +20135,46 @@
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
+          "link": "https://www.investors.com/news/technology/snps-stock-synopsys-falls-on-weak-guidance/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-02-15T22:19:11.000Z",
+          "wordCount": null,
+          "title": "Synopsys Stock Falls On Weak Guidance After Mixed Quarterly Report",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/shopify-stock-shopify-earnings-q42022/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-02-15T22:14:19.000Z",
+          "wordCount": null,
+          "title": "Shopify Stock Rally Snuffed Out On Weak 2023 Revenue Outlook",
+          "imageUrl": null
+        },
+        {
+          "id": "cisco-csco-q2-earnings-report-2023-db10c06d?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The networking-equipment maker says its sales rose 7% in the latest quarter.",
+          "link": "https://www.wsj.com/articles/cisco-csco-q2-earnings-report-2023-db10c06d?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-15T21:44:00.000Z",
+          "wordCount": 6947,
+          "title": "Cisco Raises Outlook as Its Earnings Top Expectations",
+          "imageUrl": "https://images.wsj.net/im-723894/social"
+        },
+        {
+          "id": "shopify-stock-falls-5-as-forecast-disappoints-amid-escalating-amazon-rivalry-price-increases-9aeab3d0?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shopify produced a better holiday quarter than expected, but a forecast for slowing revenue growth hit the stock in late trading.",
+          "link": "https://www.marketwatch.com/story/shopify-stock-falls-5-as-forecast-disappoints-amid-escalating-amazon-rivalry-price-increases-9aeab3d0?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-15T21:28:00.000Z",
+          "wordCount": 7270,
+          "title": "Shopify stock falls 5% as forecast disappoints amid escalating Amazon rivalry, price increases",
+          "imageUrl": "https://images.mktw.net/im-667014/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
           "link": "https://www.investors.com/research/growth-stock-surges-after-fda-approval-for-autoimmune-disease-boosts-shares-of-biomed-company/?src=A00220&yptr=yahoo",
           "publishedOn": "2023-02-15T20:17:13.000Z",
           "wordCount": null,
@@ -20190,6 +20230,16 @@
           "wordCount": 14066,
           "title": "Stock market news today: Stocks fall after strong retail sales data",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/yg8hj5EOSDMwx4uPA4yyLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/3f5a12a0-ad2b-11ed-bd7e-065947deb189"
+        },
+        {
+          "id": "big-short-michael-burry-alibaba-jd-98f28601?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Michael Burry, the investor whose bet on the U.S. mortgage market before 2008-09 was immortalized in \"The Big Short\" initiated large positions in Alibaba and JD.com.",
+          "link": "https://www.barrons.com/articles/big-short-michael-burry-alibaba-jd-98f28601?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-15T14:25:00.000Z",
+          "wordCount": 6755,
+          "title": "‘Big Short’ Investor Michael Burry Bets on Alibaba and JD. This Time, Wall Street Agrees.",
+          "imageUrl": "https://images.barrons.com/im-339993/social"
         },
         {
           "id": "retirement-savers-credit-goes-further-154717984.html",
@@ -44830,26 +44880,6 @@
           "wordCount": 6530,
           "title": "Signature Bank Closes 2022 With Record Profit Even as Crypto Deposits Plunge by $12 Billion",
           "imageUrl": "https://images.barrons.com/im-692690/social"
-        },
-        {
-          "id": "davos-2023-are-tech-titans-really-hearing-their-investors-103001766.html",
-          "author": null,
-          "description": "Tech as usual has a massive presence at the World Economic Forum in Davos, Switzerland. More on that, and what else to watch in markets on Tuesday, January 17, 2023.",
-          "link": "https://finance.yahoo.com/news/davos-2023-are-tech-titans-really-hearing-their-investors-103001766.html",
-          "publishedOn": "2023-01-17T10:30:01.000Z",
-          "wordCount": 14236,
-          "title": "Davos 2023: Are tech titans really hearing their investors?",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/zkeVtuwfOxnd.z6WgEAEww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/412d1990-94f0-11ed-bb7d-acc665c3dcba"
-        },
-        {
-          "id": "it-feels-like-way-too-much-to-lose-we-had-550k-invested-and-told-our-adviser-we-wanted-a-conservative-approach-since-then-weve-lost-88k-i-know-the-market-is-bad-but-should-we-fire-him-01673635039?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Have an issue with your financial adviser or looking for a new one? Email picks@marketwatch.com.",
-          "link": "https://www.marketwatch.com/picks/it-feels-like-way-too-much-to-lose-we-had-550k-invested-and-told-our-adviser-we-wanted-a-conservative-approach-since-then-weve-lost-88k-i-know-the-market-is-bad-but-should-we-fire-him-01673635039?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-17T10:30:00.000Z",
-          "wordCount": 7575,
-          "title": "‘It feels like way too much to lose.’ We had $550K invested and told our adviser we wanted a ‘conservative approach.’ Since then we’ve lost $88K. I know the market is bad, but should we fire him?",
-          "imageUrl": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         }
       ]
     }
