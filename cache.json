@@ -829,16 +829,6 @@
           "wordCount": 412,
           "title": "The Market Sum: Growing Pains",
           "imageUrl": null
-        },
-        {
-          "id": "56dfdcd1f29726776bcb3f7594e10670",
-          "author": "Investopedia",
-          "description": "The Dow declined to start the trading week on Jan. 17, 2023, as earnings reports failed to impress the markets, while the Nasdaq posted a small gain.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca926fc2af12a44e328d9a75b0e737608b4b4ac13c8075b59d5525098c3bcc6580ca4f",
-          "publishedOn": "2023-01-18T01:09:37.021Z",
-          "wordCount": 412,
-          "title": "The Market Sum: Double Down",
-          "imageUrl": null
         }
       ]
     },
@@ -7544,6 +7534,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/pf/07/bankruptcy.asp",
+          "author": "The Investopedia Team",
+          "description": "How Chapter 7 bankruptcy and Chapter 13 bankruptcy work for individuals, and some alternatives to consider first.",
+          "link": "https://www.investopedia.com/articles/pf/07/bankruptcy.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-16T12:56:03.000Z",
+          "wordCount": 6123,
+          "title": "What Happens When You File for Bankruptcy",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/4ElEibILOh0v6G9OiU0J4yC9Wpg=/2121x1414/bankruptcy2-86ebccf966e44e09b3ccf1d633ec43c9.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/4ElEibILOh0v6G9OiU0J4yC9Wpg=/2121x1414/bankruptcy2-86ebccf966e44e09b3ccf1d633ec43c9.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/w/w2form.asp",
+          "author": "The Investopedia Team",
+          "description": "Form W-2 reports an employee's annual wages and the amount of taxes withheld from their paycheck. Here's why you need a W-2 and how it is used.",
+          "link": "https://www.investopedia.com/terms/w/w2form.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-16T12:47:40.000Z",
+          "wordCount": 6670,
+          "title": "Form W-2 Wage and Tax Statement: What It Is and How To Read It",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/frIELyb_a8whq5XM0W5J2Y7rCgU=/1500x1000/TermDefinition_Formw2.asp-c3449a39050e489489437053f874f533.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/frIELyb_a8whq5XM0W5J2Y7rCgU=/1500x1000/TermDefinition_Formw2.asp-c3449a39050e489489437053f874f533.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/mortgages-real-estate/11/calculate-the-mortgage-interest-math.asp",
           "author": "Lisa Smith",
@@ -20007,6 +20027,116 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "stock-market-movers-2d389489?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Twilio reports a narrower-than-expected quarterly loss, Roku adds 4.6 million new active accounts in the fourth quarter, and Cisco sharply raises its outlook for the fiscal year.",
+          "link": "https://www.barrons.com/articles/stock-market-movers-2d389489?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-16T13:02:00.000Z",
+          "wordCount": 6851,
+          "title": "These Stocks Are Moving the Most Today: Twilio, Roku, Paramount, Cisco, Shopify, and More",
+          "imageUrl": "https://images.barrons.com/im-300148/social"
+        },
+        {
+          "id": "toast-stock-dives-after-earnings-despite-revenue-beat-43cf392a?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shares of Toast Inc. were getting slammed in premarket trading Thursday, though the maker of payment offerings and software for the restaurant industry...",
+          "link": "https://www.marketwatch.com/story/toast-stock-dives-after-earnings-despite-revenue-beat-43cf392a?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-16T12:55:00.000Z",
+          "wordCount": 6757,
+          "title": "Toast stock dives after earnings, despite revenue beat",
+          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
+        {
+          "id": "datadog-earnings-beat-stock-542abdb1?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The software company expects first-quarter revenue of between $466 million and $470 million, while analysts expected $484 million.",
+          "link": "https://www.barrons.com/articles/datadog-earnings-beat-stock-542abdb1?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-16T12:52:00.000Z",
+          "wordCount": 6767,
+          "title": "Datadog’s Earnings Beat Expectations. Here’s Why the Stock is Falling.",
+          "imageUrl": "https://images.barrons.com/im-538035/social"
+        },
+        {
+          "id": "paramount-para-q4-earnings-report-2022-3d79aef4?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The media company said higher revenue from its direct-to-consumer and film segments offset declines in its core television business.",
+          "link": "https://www.wsj.com/articles/paramount-para-q4-earnings-report-2022-3d79aef4?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-16T12:48:00.000Z",
+          "wordCount": 6939,
+          "title": "Paramount’s Earnings Fall on Higher Streaming, Film Expenses",
+          "imageUrl": "https://images.wsj.net/im-726262/social"
+        },
+        {
+          "id": "shake-shack-stock-pops-as-q4-earnings-come-mostly-in-line-with-estimates-124119912.html",
+          "author": null,
+          "description": "Shake Shack (SHAK) reported Q4 2022 earnings before market open on Thursday, February 16 that were in-line expectations, after preliminary results were out in early January.",
+          "link": "https://finance.yahoo.com/news/shake-shack-stock-pops-as-q4-earnings-come-mostly-in-line-with-estimates-124119912.html",
+          "publishedOn": "2023-02-16T12:41:19.000Z",
+          "wordCount": 14093,
+          "title": "Shake Shack stock pops as Q4 earnings come mostly in line with estimates",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/WfLhBOAHTbVII682B694FA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/a71aeb80-ad58-11ed-9e9f-52ee1e8fac24"
+        },
+        {
+          "id": "crocs-stock-climbs-toward-13-month-high-after-big-earnings-beat-and-upbeat-outlook-fueled-by-exceptional-demand-a8ea2246?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shares of Crocs Inc. leapt 7.0% toward a 13-month high in premarket trading Thursday, after the casual footwear seller reported a big fourth-quarter profit...",
+          "link": "https://www.marketwatch.com/story/crocs-stock-climbs-toward-13-month-high-after-big-earnings-beat-and-upbeat-outlook-fueled-by-exceptional-demand-a8ea2246?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-16T12:31:00.000Z",
+          "wordCount": 6840,
+          "title": "Crocs stock climbs toward 13-month high after big earnings beat and upbeat outlook, fueled by ‘exceptional’ demand",
+          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
+        {
+          "id": "datadog-stock-slips-after-earnings-forecast-comes-in-light-d880d6c9?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shares of Datadog Inc. were falling 7% in after-hours trading Thursday after the company topped expectations with its fourth-quarter earnings and revenue but...",
+          "link": "https://www.marketwatch.com/story/datadog-stock-slips-after-earnings-forecast-comes-in-light-d880d6c9?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-16T12:31:00.000Z",
+          "wordCount": 6738,
+          "title": "Datadog stock slips after earnings forecast comes in light",
+          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
+        {
+          "id": "paramount-big-miss-stock-falling-6fc8b7cb?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The entertainment company reported earnings per share of 8 cents, driven by a slowdown in advertising. Analysts had expected 24 cents.",
+          "link": "https://www.barrons.com/articles/paramount-big-miss-stock-falling-6fc8b7cb?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-16T12:29:00.000Z",
+          "wordCount": 6758,
+          "title": "Paramount Posts a Big Miss. The Stock Is Falling.",
+          "imageUrl": "https://images.barrons.com/im-713793/social"
+        },
+        {
+          "id": "asia-stocks-rise-wall-street-223547251.html",
+          "author": null,
+          "description": "(Bloomberg) -- Wall Street equity futures edged lower as traders awaited the another set of data readings on the strength of the economy and looked for clues on the outlook for rate hikes. The tone was less upbeat than in Europe, where positive earnings news buoyed stocks. Most Read from BloombergChina Warns of Retaliation Against US Over Balloon SagaUS Says 3 Mystery Objects Likely Private, With No China LinkASML Stolen Data Came From Technical Repository for Chip MachinesUkraine to Receive Few",
+          "link": "https://finance.yahoo.com/news/asia-stocks-rise-wall-street-223547251.html",
+          "publishedOn": "2023-02-16T12:19:39.000Z",
+          "wordCount": 14493,
+          "title": "US Stock Futures Slip Before Next Batch of Data: Markets Wrap",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/0DXeb8g_dnttW.MbXLqKIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/0b27bda508a8c337cde9ebc45d90d487"
+        },
+        {
+          "id": "electricity-bills-surging-still-cheaper-120009083.html",
+          "author": null,
+          "description": "The cost of charging an EV is almost always less than filling a car's gas tank but it can depend on gas prices and electricity rates where you live.",
+          "link": "https://finance.yahoo.com/news/electricity-bills-surging-still-cheaper-120009083.html",
+          "publishedOn": "2023-02-16T12:00:09.000Z",
+          "wordCount": 14082,
+          "title": "Electricity bills are surging, is it still cheaper to charge an EV than get gas? It depends.",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/gegZkL3I83kMlpORdgq6Kg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/usa_today_money_325/7ef7f8005d594f9d864c34a4efe4cc88"
+        },
+        {
+          "id": "us-rates-may-heading-higher-120000683.html",
+          "author": null,
+          "description": "(Bloomberg) -- Last year, most US investors and central bankers underestimated how high inflation would climb. Now they may be underestimating how high interest rates will need to go to bring it back down. Most Read from BloombergChina Warns of Retaliation Against US Over Balloon SagaUS Says 3 Mystery Objects Likely Private, With No China LinkASML Stolen Data Came From Technical Repository for Chip MachinesUkraine to Receive Fewer Battle Tanks From Allies Than PromisedAmerica's Priciest Neighbor",
+          "link": "https://finance.yahoo.com/news/us-rates-may-heading-higher-120000683.html",
+          "publishedOn": "2023-02-16T12:00:00.000Z",
+          "wordCount": 14333,
+          "title": "US Rates May Be Heading Higher Than Wall Street or the Fed Think",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/fRqYLReOWaGZOEBnI5DsZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NjU-/https://media.zenfs.com/en/bloomberg_markets_842/f40eb27a7d64dccfd108d4e0680f51d6"
+        },
+        {
           "id": "raoul-pal-says-ai-could-become-the-biggest-bubble-of-all-time-morning-brief-103046757.html",
           "author": null,
           "description": "How AI could usher an enormous global deflationary shock.",
@@ -20085,6 +20215,16 @@
           "wordCount": null,
           "title": "Shopify Stock Rally Snuffed Out On Weak 2023 Revenue Outlook",
           "imageUrl": null
+        },
+        {
+          "id": "irs-audits-wealthy-a51c8ef8?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The Internal Revenue Service has $80 billion in new funding. What taxpayers should know about how that money will be used.",
+          "link": "https://www.barrons.com/articles/irs-audits-wealthy-a51c8ef8?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-15T22:03:00.000Z",
+          "wordCount": 6790,
+          "title": "Biden’s IRS Nominee Says Agency Will Increase Audits of Wealthy Taxpayers",
+          "imageUrl": "https://images.barrons.com/im-725735/social"
         },
         {
           "id": "one-of-the-biggest-mistakes-i-ever-made-charlie-munger-regrets-major-investment?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
@@ -20215,6 +20355,16 @@
           "wordCount": 7181,
           "title": "Credo stock plunges toward record loss after largest customer cuts purchases",
           "imageUrl": "https://images.mktw.net/im-725774/social"
+        },
+        {
+          "id": "stock-market-bond-yields-whats-next-1cee4ea0?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The stock market appears to be making some aggressive assumptions that will derail the recent rally in the S&P 500 if they turn out to be wrong.",
+          "link": "https://www.barrons.com/articles/stock-market-bond-yields-whats-next-1cee4ea0?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-15T19:23:00.000Z",
+          "wordCount": 6877,
+          "title": "The Stock Market Is Playing a ‘Game of Chicken’ With Bonds. It Won’t End Well.",
+          "imageUrl": "https://images.barrons.com/im-725390/social"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -44105,36 +44255,6 @@
           "wordCount": 5075,
           "title": "Emerson takes role as activist investor in its Texas-based acquisition target",
           "imageUrl": "https://media.bizj.us/view/img/12357453/picture-emerson-beauty-shot-headquarters-1-data-7539372*1200xx2000-1128-0-91.jpg"
-        },
-        {
-          "id": "90-million-ftx-us-assets-012419698.html",
-          "author": null,
-          "description": "Although the movement of funds made headlines, the $90 million from FTX US had not been previously disclosed.",
-          "link": "https://finance.yahoo.com/news/90-million-ftx-us-assets-012419698.html",
-          "publishedOn": "2023-01-18T01:24:19.000Z",
-          "wordCount": 14003,
-          "title": "$90 Million in FTX US Assets Were Moved via 'Unauthorized Transfers' After Bankruptcy",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/23euLeLx2JL.BL3XWOc0eg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_media_980/53ff70cada707a6904d503d4cbfe71ab"
-        },
-        {
-          "id": "microsoft-cut-engineering-jobs-week-191404194.html",
-          "author": null,
-          "description": "(Bloomberg) -- Microsoft Corp. plans to cut jobs in a number of engineering divisions on Wednesday, according to a person familiar with the matter, joining the ranks of technology giants that are scaling back as the industry prepares for a prolonged slump in demand.Most Read from BloombergMicrosoft to Cut Engineering Jobs This Week as Layoffs Go DeeperChina’s Population Shrinks for First Time Since 1960s in Seismic ShiftLarry Fink Says ESG Narrative Has Become Ugly, PersonalScholz Sees Germany R",
-          "link": "https://finance.yahoo.com/news/microsoft-cut-engineering-jobs-week-191404194.html",
-          "publishedOn": "2023-01-18T01:00:50.000Z",
-          "wordCount": 14025,
-          "title": "Microsoft to Cut Engineering Jobs This Week as Layoffs Go Deeper",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/TQcJAyToyTZwyBgCrbxXow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/090fd79b46303948511dc45080ba3ad1"
-        },
-        {
-          "id": "goldman-sachs-bull-case-sees-005225898.html",
-          "author": null,
-          "description": "After 2022’s inflation-driven market meltdown, 2023’s bogey number 1 appears to be the fear of a global recession. However, Sharmin Mossavar-Rahmani, CIO of Goldman Sachs’ wealth-management segment, does not necessarily think this is a particularly bad omen for the stock market. “We’re not arguing that today’s valuations fully discount a recession, but considering last year’s equity drawdown, we do think a significant part of any valuation reset has already occurred,” Mossavar-Rahmani opined. In",
-          "link": "https://finance.yahoo.com/news/goldman-sachs-bull-case-sees-005225898.html",
-          "publishedOn": "2023-01-18T00:52:25.000Z",
-          "wordCount": 14664,
-          "title": "Goldman Sachs’ Bull Case Sees S&P 500 Rebounding 12% in 2023 — Here Are 3 Stocks to Bet on It",
-          "imageUrl": "https://media.zenfs.com/en/tipranks_452/267441d0f2c68a2d27c57b5104bfe597"
         }
       ]
     }
