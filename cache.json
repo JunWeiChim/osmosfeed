@@ -848,6 +848,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6251643/",
+          "author": "onze nieuwsredactie",
+          "description": "Mensen met een afstand tot de arbeidsmarkt krijgen vaak niet de hulp die ze nodig hebben. Medewerkers van gemeenten en uitkeringsinstantie UWV zijn vaak zo druk dat juist de mensen die hun ondersteuning het meest nodig hebben, deze niet krijgen. Dat blijkt donderdag uit onderzoek van de Arbeidsinspectie.",
+          "link": "https://www.nu.nl/economie/6251643/kwetsbare-werkzoekenden-krijg-vaak-onvoldoende-ondersteuning.html",
+          "publishedOn": "2023-02-16T19:51:32.000Z",
+          "wordCount": 1274,
+          "title": "Kwetsbare werkzoekenden krijg vaak onvoldoende ondersteuning",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/59rxs1rajris_sqr256.jpg/kwetsbare-werkzoekenden-krijg-vaak-onvoldoende-ondersteuning.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/59rxs1rajris_sqr256.jpg/kwetsbare-werkzoekenden-krijg-vaak-onvoldoende-ondersteuning.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6251623/",
           "author": "onze economieredactie",
           "description": "De overheid kan gemeenten en provincies per 1 januari 2024 of begin 2025 dwingen zich te houden aan afspraken over extra woningbouw. Minister Hugo de Jonge (Volkshuisvesting) kondigde dat al eerder aan en heeft dat nu samengevat in een nieuw wetsvoorstel. Dat meldt de Volkskrant donderdag.",
@@ -7521,36 +7536,6 @@
             "url": "https://media.nu.nl/m/jftxflpaq082_sqr256.jpg/miljoen-chinezen-pakken-de-koffers-voor-chinees-nieuwjaar.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/jftxflpaq082_sqr256.jpg/miljoen-chinezen-pakken-de-koffers-voor-chinees-nieuwjaar.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6247427/",
-          "author": "Eva Schouten",
-          "description": "Albert Heijn was al met afstand de grootste supermarktketen van het land en heeft die positie vorig jaar verder verstevigd. Concurrent Jumbo, die een roerig jaar kende, verloor juist wat terrein, blijkt uit cijfers van onderzoeksbureau NielsenIQ.",
-          "link": "https://www.nu.nl/economie/6247427/albert-heijn-nog-groter-jumbo-verliest-een-klein-beetje-terrein.html",
-          "publishedOn": "2023-01-18T07:57:07.000Z",
-          "wordCount": 921,
-          "title": "Albert Heijn nog groter, Jumbo verliest een klein beetje terrein",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/ba7xbe0adbax_sqr256.jpg/albert-heijn-nog-groter-jumbo-verliest-een-klein-beetje-terrein.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/ba7xbe0adbax_sqr256.jpg/albert-heijn-nog-groter-jumbo-verliest-een-klein-beetje-terrein.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6247420/",
-          "author": "Eva Schouten",
-          "description": "Bijna een op de vijf werknemers die in 2021 minstens een dag niet konden werken door een arbeidsongeval, zegt dat dit komt door psychische overbelasting. Dan gaat het om bijvoorbeeld intimidatie of stress.",
-          "link": "https://www.nu.nl/economie/6247420/stress-of-intimidatie-op-het-werk-voornaamste-oorzaak-van-arbeidsongeval.html",
-          "publishedOn": "2023-01-18T07:36:23.000Z",
-          "wordCount": 1085,
-          "title": "Stress of intimidatie op het werk voornaamste oorzaak van arbeidsongeval",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/xdexdafa6rbn_sqr256.jpg/stress-of-intimidatie-op-het-werk-voornaamste-oorzaak-van-arbeidsongeval.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/xdexdafa6rbn_sqr256.jpg/stress-of-intimidatie-op-het-werk-voornaamste-oorzaak-van-arbeidsongeval.jpg"
         }
       ]
     },
@@ -7559,6 +7544,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/ask/answers/100314/what-difference-between-interest-rate-and-annual-percentage-rate-apr.asp",
+          "author": "Troy Segal",
+          "description": "Comparing the annual percentage rate (APR) and the interest rate on competing loans helps you understand the true cost of a loan.",
+          "link": "https://www.investopedia.com/ask/answers/100314/what-difference-between-interest-rate-and-annual-percentage-rate-apr.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-16T19:19:57.000Z",
+          "wordCount": 5032,
+          "title": "Interest Rate vs. APR: What's the Difference?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Hp-TNiAaCwVshhCYMWiZ9TxlxOM=/680x440/shutterstock_67023106-5bfc2b9846e0fb005144dd87.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Hp-TNiAaCwVshhCYMWiZ9TxlxOM=/680x440/shutterstock_67023106-5bfc2b9846e0fb005144dd87.jpg"
+        },
         {
           "id": "https://www.investopedia.com/walmart-q4-2023-earnings-preview-7109943",
           "author": "Nathan Reiff",
@@ -20322,6 +20322,36 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "retail-investors-record-inflows-us-stock-market-193801422.html",
+          "author": null,
+          "description": "Individual investors have been snapping up stocks at the fastest pace ever as U.S. equity markets charge higher this year.",
+          "link": "https://finance.yahoo.com/news/retail-investors-record-inflows-us-stock-market-193801422.html",
+          "publishedOn": "2023-02-16T19:38:01.000Z",
+          "wordCount": 14063,
+          "title": "Retail investors are pouring a record $1.5 billion per day into the stock market",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/J11J_qcJBDMeS6ni83w0tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-04/fa238c60-bb0f-11ec-beef-6373594d7a79"
+        },
+        {
+          "id": "tesla-stock-turns-lower-after-recall-news-ce50a45a?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Tesla recalls 362,758 EVs as EV maker's self-driving software \"may cause\" crashes. Tesla stock turns lower.",
+          "link": "https://www.marketwatch.com/story/tesla-stock-turns-lower-after-recall-news-ce50a45a?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-16T19:38:00.000Z",
+          "wordCount": 7115,
+          "title": "Tesla recalls 362,758 EVs, says self-driving software ‘may cause’ crashes",
+          "imageUrl": "https://images.mktw.net/im-706383/social"
+        },
+        {
+          "id": "billionaire-george-soros-shows-interest-in-carvana-the-amazon-of-used-cars?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.thestreet.com/technology/billionaire-george-soros-shows-interest-in-carvana-the-amazon-of-used-cars?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-02-16T19:23:00.000Z",
+          "wordCount": null,
+          "title": "Billionaire George Soros Interested in Carvana, the 'Amazon of Used Cars'",
+          "imageUrl": null
+        },
+        {
           "id": "how-bed-bath-beyond-avoided-bankruptcy-adef9ad4?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "As banks pushed for repayment, a hedge fund saw a troubled company that had one thing going for it: the passionate interest of individual investors.",
@@ -20402,6 +20432,16 @@
           "imageUrl": "https://media.zenfs.com/en/tipranks_452/1b105ca46b277da9e279fed8174fb58a"
         },
         {
+          "id": "americans-drowning-credit-card-debt-160830027.html",
+          "author": null,
+          "description": "As Americans' credit card balances soared at the end of 2022, delinquencies started to creep up as well.",
+          "link": "https://finance.yahoo.com/news/americans-drowning-credit-card-debt-160830027.html",
+          "publishedOn": "2023-02-16T16:08:30.000Z",
+          "wordCount": 14372,
+          "title": "Americans are drowning in credit card debt thanks to inflation and soaring interest rates",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/MRZb_danRT4ybOmgxoS76g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/ca88a16f51bc4152c1222d1cee70b952"
+        },
+        {
           "id": "walmart-kroger-amazon-grocery-stores-problem-bigger-than-inflation?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
           "author": null,
           "description": "",
@@ -20470,6 +20510,16 @@
           "wordCount": 14900,
           "title": "A $6 Trillion Wave of Money Revives an Arcane Corner of Wall Street",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/E3e_p9XvuGzusMPzNqQkHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NjE-/https://media.zenfs.com/en/bloomberg_markets_842/db41e0bdbb27854afa996cf80376804f"
+        },
+        {
+          "id": "heres-where-the-60-40-could-really-fail-you-but-a-better-option-may-be-under-your-nose-6d14ec40?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The 60/40 may actually be a terrible asset allocation in the long run",
+          "link": "https://www.marketwatch.com/story/heres-where-the-60-40-could-really-fail-you-but-a-better-option-may-be-under-your-nose-6d14ec40?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-16T15:02:00.000Z",
+          "wordCount": 7844,
+          "title": "Here’s where the 60/40 could really fail you. But a better option may be under your nose.",
+          "imageUrl": "https://images.mktw.net/im-726247/social"
         },
         {
           "id": "ev-battery-quantumscape-stock-earnings-4c145eea?siteid=yhoof2&yptr=yahoo",
