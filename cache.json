@@ -828,6 +828,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6251789/",
+          "author": "Chantal van Wees",
+          "description": "Elke dag naar de super om de hoek of één keer per week alle koopjes af? Met de huidige kostencrisis zijn we kritischer op onze uitgaven, ook in de supermarkt. In de rubriek Het Bonnetje spreken we elke week met een Nederlander over zijn supermarktstrategie in tijden van inflatie.",
+          "link": "https://www.nu.nl/geldzaken/6251789/als-een-huismerk-lekker-genoeg-is-dan-nemen-we-die.html",
+          "publishedOn": "2023-02-18T13:37:07.000Z",
+          "wordCount": 1653,
+          "title": "Het Bonnetje | 'Als een huismerk lekker genoeg is, dan nemen we die'",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/69dxolja7wa8_sqr256.jpg/als-een-huismerk-lekker-genoeg-is-dan-nemen-we-die.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/69dxolja7wa8_sqr256.jpg/als-een-huismerk-lekker-genoeg-is-dan-nemen-we-die.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6251874/",
           "author": "onze nieuwsredactie",
           "description": "Voor gebruikers van Twitter is het binnenkort niet langer mogelijk om in te loggen met een zogeheten tweestapsverificatie via een sms-bericht. Voor betalende gebruikers blijft deze manier van inloggen wel mogelijk, wat tot veel onvrede op het socialemediaplatform leidt.",
@@ -7329,6 +7344,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/ryan-reynolds-net-worth-7111408",
+          "author": "Staff Author",
+          "description": "Hollywood star Ryan Reynolds, best known for his work as Deadpool, is also an entrepreneur who has earned millions of dollars from his business ventures.",
+          "link": "https://www.investopedia.com/ryan-reynolds-net-worth-7111408?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-18T13:32:37.000Z",
+          "wordCount": 3914,
+          "title": "Ryan Reynolds Bids on Ottawa Senators: What Else Does He Own?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/KFiD8w3Dn4gkVTFqxmaeEJVizJc=/1434x2000/070617-ryan-renolds_0-2000-fc15b62a7a034b7090f8b2ba49e2aebc.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/KFiD8w3Dn4gkVTFqxmaeEJVizJc=/1434x2000/070617-ryan-renolds_0-2000-fc15b62a7a034b7090f8b2ba49e2aebc.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/i/investor.asp",
           "author": "James Chen",
@@ -20188,51 +20218,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/dv0vV77g-G_uV2g_Wvc4pa_R0eA=/680x440/148985994-5bfc2b8c46e0fb0083c07ba8.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/personal-finance/121015/how-social-security-works-after-retirement.asp",
-          "author": "Amy Bell",
-          "description": "Here's how to maximize the Social Security benefits you receive and minimize the taxes you pay on them.",
-          "link": "https://www.investopedia.com/articles/personal-finance/121015/how-social-security-works-after-retirement.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-20T01:51:24.000Z",
-          "wordCount": 6285,
-          "title": "How Social Security Works After Retirement",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/dBfWxsDS9VDMfRCV1xwGJu5lyMk=/1414x2121/GettyImages-182745070-5e52a1658c3f48758aad0cf0952e998d.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/dBfWxsDS9VDMfRCV1xwGJu5lyMk=/1414x2121/GettyImages-182745070-5e52a1658c3f48758aad0cf0952e998d.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/personal-finance/022516/will-baby-boomers-bankrupt-social-security.asp",
-          "author": "Jennifer Cook",
-          "description": "The massive Baby Boomer generation is now retiring in droves. Will they bankrupt the Social Security system?",
-          "link": "https://www.investopedia.com/articles/personal-finance/022516/will-baby-boomers-bankrupt-social-security.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-20T01:35:34.000Z",
-          "wordCount": 5193,
-          "title": "Will Baby Boomers Bankrupt Social Security?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/pQYawNo2xsimdYk3GitB88P_m_4=/3504x2336/GettyImages-182148217-8b1783b0744e4b35aaeb5b6ae44c0098.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/pQYawNo2xsimdYk3GitB88P_m_4=/3504x2336/GettyImages-182148217-8b1783b0744e4b35aaeb5b6ae44c0098.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/retirement/06/socialsecurity.asp",
-          "author": "James McWhinney",
-          "description": "You've probably contributed to this fund, but will you reap the benefits? Find out here.",
-          "link": "https://www.investopedia.com/articles/retirement/06/socialsecurity.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-20T01:24:27.000Z",
-          "wordCount": 5280,
-          "title": "Social Security: An Introduction",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/AIna1HfbMRKcENqQ7TzdEBH2cIQ=/2121x1414/GettyImages-681105252-2d9dc6927fdd4c5dac154dcb0a7680e6.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/AIna1HfbMRKcENqQ7TzdEBH2cIQ=/2121x1414/GettyImages-681105252-2d9dc6927fdd4c5dac154dcb0a7680e6.jpg"
         }
       ]
     },
@@ -20241,6 +20226,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/sp-500-dont-fight-the-fed-but-dont-fear-it-either/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-02-18T13:39:51.000Z",
+          "wordCount": null,
+          "title": "S&P 500 Outlook: Don't Fight The Fed, But Don't Fear It Either",
+          "imageUrl": null
+        },
+        {
+          "id": "suze-orman-upset-honest-god-120000594.html",
+          "author": null,
+          "description": "Struggling Americans took from their 401(k)s just as the market was about to climb. Now in 2023, it can be hard to get reinvested.",
+          "link": "https://finance.yahoo.com/news/suze-orman-upset-honest-god-120000594.html",
+          "publishedOn": "2023-02-18T13:00:00.000Z",
+          "wordCount": 14293,
+          "title": "Suze Orman was 'so upset’ when the government made it easier to tap your 401(k) in a time of need — she has one big reason cash-strapped Americans should never borrow from their retirement",
+          "imageUrl": "https://media.zenfs.com/en/moneywise_327/93d5cbd3414b85ed5b4cc57eb406a51b"
+        },
         {
           "id": "economic-landings-economic-signals-bitcoin-25000-3-top-stories-from-this-week-120058611.html",
           "author": null,
@@ -20379,6 +20384,16 @@
           "publishedOn": "2023-02-17T23:42:38.000Z",
           "wordCount": null,
           "title": "Stock Market Rally Still Looks Healthy; Lithium Play Soars On Tesla Buzz, Nvidia Earnings Loom",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/research/investing-action-plan/stock-market-investing-action-plan-holiday-week-earnings-from-walmart-home-depot-nvidia/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-02-17T23:17:52.000Z",
+          "wordCount": null,
+          "title": "Stock Market Investing Action Plan: Holiday-Week Earnings From Walmart, Home Depot, Nvidia",
           "imageUrl": null
         },
         {
@@ -20632,6 +20647,16 @@
           "imageUrl": null
         },
         {
+          "id": "sticky-inflation-opens-door-steeper-164141186.html",
+          "author": null,
+          "description": "A surprisingly hot inflation report this week has boosted the odds the Federal Reserve raises interest rates by 50 basis points at its meeting in March.",
+          "link": "https://finance.yahoo.com/news/sticky-inflation-opens-door-steeper-164141186.html",
+          "publishedOn": "2023-02-17T16:41:41.000Z",
+          "wordCount": 14173,
+          "title": "Sticky inflation opens door to steeper Fed rate hike in March",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/dOckYIo0TmcJiHpsMp_jvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/fox_business_text_367/b7ac716069cf33058385428c0c3787f6"
+        },
+        {
           "id": "j-p-morgan-analysts-3-163214340.html",
           "author": null,
           "description": "Anyone involved in the investing game will know it’s all about “stock picking.” Choosing the right stock to put your money behind is vital to ensure strong returns on an investment. Therefore, when the Wall Street pros consider a name to be a “Top Pick,” investors should take note. Using the TipRanks platform, we’ve looked up details on three stocks that have recently gotten ‘Top Pick’ designation from the analysts at banking giant J.P. Morgan. So, let’s dive into the details and find out what m",
@@ -20700,6 +20725,16 @@
           "wordCount": 13719,
           "title": "Meta just gave thousands of employees poor performance reviews that could clear the way for more layoffs during its ‘Year of Efficiency’",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/QPcl6kDpjDA7t7IsnQyQ0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/fortune_175/781045bc5d5158e4e8a569e6a8627616"
+        },
+        {
+          "id": "debt-ceiling-borrowing-interest-deficits-5cf27829?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The U.S. Treasury is able to borrow at low rates because it’s the world’s provider of safe assets. A debt default would end that privilege, write Arvind Krishnamurthy and Hanno Lustig.",
+          "link": "https://www.barrons.com/articles/debt-ceiling-borrowing-interest-deficits-5cf27829?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-17T14:56:00.000Z",
+          "wordCount": 7654,
+          "title": "Taxpayers Are Getting a Free Lunch. A Debt-Ceiling Fight Could End It.",
+          "imageUrl": "https://images.barrons.com/im-727363/social"
         },
         {
           "id": "alibaba-46-billion-stock-market-115319522.html",
@@ -44340,26 +44375,6 @@
           "wordCount": 14508,
           "title": "Euro’s Days of Muted Swings Look Numbered",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/af0d11910f2356e20a8311d8b2fcb271"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-netflix-jumps-on-subscribers-after-market-rally-breaks-key-levels/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-01-20T02:11:06.000Z",
-          "wordCount": null,
-          "title": "Dow Jones Futures Rise, Netflix Jumps On Subscribers After Market Rally Breaks Key Levels",
-          "imageUrl": null
-        },
-        {
-          "id": "how-social-security-works-after-retirement.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Here's how to maximize the Social Security benefits you receive and minimize the taxes you pay on them.",
-          "link": "https://www.investopedia.com/articles/personal-finance/121015/how-social-security-works-after-retirement.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-01-20T01:51:24.000Z",
-          "wordCount": 6294,
-          "title": "How Social Security Works After Retirement",
-          "imageUrl": "https://www.investopedia.com/thmb/aE85UDWMX5luAoKOsAHJq06Da8E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-182745070-5e52a1658c3f48758aad0cf0952e998d.jpg"
         }
       ]
     }
