@@ -818,6 +818,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6251554/",
+          "author": "Tim Wijkman-van Aalst",
+          "description": "Dit product is bijna uitverkocht! Veel mensen bekijken dit hotel! Het zijn trucjes waarmee websites bezoekers zo willen manipuleren dat ze sneller overgaan tot kopen of boeken. Verleiden mag, maar misleiden niet. Daarom komen Europese toezichthouders in actie tegen deze zogenoemde dark patterns.",
+          "link": "https://www.nu.nl/tech/6251554/trucs-webwinkels-liggen-onder-vuur-verleiden-mag-misleiden-niet.html",
+          "publishedOn": "2023-02-19T08:52:35.000Z",
+          "wordCount": 1709,
+          "title": "Trucs webwinkels liggen onder vuur: verleiden mag, misleiden niet",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/1ucxmpwa9nrq_sqr256.jpg/trucs-webwinkels-liggen-onder-vuur-verleiden-mag-misleiden-niet.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/1ucxmpwa9nrq_sqr256.jpg/trucs-webwinkels-liggen-onder-vuur-verleiden-mag-misleiden-niet.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6251786/",
           "author": "Tom van Gurp",
           "description": "Veel grote bedrijven behaalden vorig jaar miljardenwinsten. Tegelijkertijd leven steeds meer huishoudens in armoede door hogere prijzen. De bedrijven kregen dan ook van diverse kanten kritiek, maar kun je het ze kwalijk nemen dat ze veel winst maken?",
@@ -20018,51 +20033,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/V-1bjHqeGjiUXE7B5hMb6YXcAMY=/680x440/shutterstock_242616922-5bfc3609c9e77c005181bbb3.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/071015/what-difference-between-writeoff-and-deduction.asp",
-          "author": "Evan Tarver",
-          "description": "Understand the differences between a tax write-off, a tax deduction and a tax credit. Learn how each one works to reduce income taxes and how each one is applied.",
-          "link": "https://www.investopedia.com/ask/answers/071015/what-difference-between-writeoff-and-deduction.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-20T20:46:59.000Z",
-          "wordCount": 3667,
-          "title": "Write-Off and Deduction: What's the Difference?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/AygtTPnz8QmJAbhLK4Kbhgd8Mig=/680x440/thinkstockphotos_493208894-5bfc2b9746e0fb0051bde2b8.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/AygtTPnz8QmJAbhLK4Kbhgd8Mig=/680x440/thinkstockphotos_493208894-5bfc2b9746e0fb0051bde2b8.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/020915/has-gold-been-good-investment-over-long-term.asp",
-          "author": "Nick Lioudis",
-          "description": "Examine the investment performance of gold dating back to 1933, when President Roosevelt required all gold bullion, coins, and notes to be surrendered.",
-          "link": "https://www.investopedia.com/ask/answers/020915/has-gold-been-good-investment-over-long-term.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-20T20:36:51.000Z",
-          "wordCount": 5196,
-          "title": "Has Gold Been a Good Investment Over the Long Term?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/vrYNvqpZY8sJAgSmv9P6z2Ho2UM=/680x440/shutterstock_112522391-5bfc2b9846e0fb0051bde2d3.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/vrYNvqpZY8sJAgSmv9P6z2Ho2UM=/680x440/shutterstock_112522391-5bfc2b9846e0fb0051bde2d3.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/investing/031913/most-affordable-way-buy-gold-physical-gold-or-etfs.asp",
-          "author": "Jean Folger",
-          "description": "Investing in gold has never been easier than it is today. Learn more about gold ETFs and other ways that you can add the precious metal to your portfolio.",
-          "link": "https://www.investopedia.com/articles/investing/031913/most-affordable-way-buy-gold-physical-gold-or-etfs.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-20T20:19:23.000Z",
-          "wordCount": 5493,
-          "title": "The Most Affordable Way to Buy Gold: Physical Gold or ETFs?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/tH4EYwtSi0FRP6iUgisio_16iGU=/380x254/93344281-5bfc388b46e0fb0026050ff3.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/tH4EYwtSi0FRP6iUgisio_16iGU=/380x254/93344281-5bfc388b46e0fb0026050ff3.jpg"
         }
       ]
     },
@@ -20071,6 +20041,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "stocks-profits-outlook-gains-losses-e1f99470?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Over the past year, expectations for earnings have fallen, but now fewer companies cutting their financial forecasts.",
+          "link": "https://www.barrons.com/articles/stocks-profits-outlook-gains-losses-e1f99470?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-19T07:30:00.000Z",
+          "wordCount": 6996,
+          "title": "Companies Are Getting More Confident About Profits. What It Means for Stocks.",
+          "imageUrl": "https://images.barrons.com/im-727401/social"
+        },
         {
           "id": "im-a-single-dad-maxing-out-my-retirement-accounts-and-earning-100-000-how-do-i-make-the-most-of-my-retirement-dollars-11672844788?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -20110,6 +20090,16 @@
           "wordCount": 8102,
           "title": "My fiancé and I are 60. His adult daughter is opposed to our marriage — and insists on inheriting her father’s $3.2 million estate. How should we handle her?",
           "imageUrl": "https://images.mktw.net/im-284213/social"
+        },
+        {
+          "id": "how-to-repay-401k-loan-5425432?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "A 401(k) loan lets you borrow money from your retirement savings account while keeping your tax benefits. Here’s how repaying a 401(k) loan works.",
+          "link": "https://www.investopedia.com/how-to-repay-401k-loan-5425432?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-02-18T21:04:41.000Z",
+          "wordCount": 4276,
+          "title": "How to Pay Back a 401(k) Loan",
+          "imageUrl": "https://www.investopedia.com/thmb/M_uV7Rla2Z4jpZ9gJLpcS-kQUmw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Borrowing-money-from-a-life-insurance-policy-57afcb4d5f9b58b5c248b3c6.jpg"
         },
         {
           "id": "fed-preferred-inflation-gauges-seen-210000798.html",
@@ -20282,6 +20272,16 @@
           "imageUrl": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/f001b851-181e-11e8-addd-23dfe9c480bf.png"
         },
         {
+          "id": "supreme-court-hear-case-could-113000882.html",
+          "author": null,
+          "description": "A Supreme Court hearing next week could shine a light on how Congress could clamp down on tech, and the future of free speech online.",
+          "link": "https://finance.yahoo.com/news/supreme-court-hear-case-could-113000882.html",
+          "publishedOn": "2023-02-18T11:30:00.000Z",
+          "wordCount": 14954,
+          "title": "The Supreme Court is about to hear a case that could upend protections Big Tech has enjoyed for years—and the internet may never be the same",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/zNakanraT3B8kA0t8U5LAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjY-/https://media.zenfs.com/en/fortune_175/9e771732da02e48cd59c9698894d3bab"
+        },
+        {
           "id": "back-broke-americans-racking-debt-100000378.html",
           "author": null,
           "description": "Nearly 65% of Americans are living paycheck to paycheck as they spend down savings and lean on credit cards to make ends meet.",
@@ -20290,6 +20290,16 @@
           "wordCount": 14579,
           "title": "Back to broke: Americans are racking up debt and burning through their savings—economists warn it could spark a recession",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/h53Nk39usmdQRP0ffbWyXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/e2caa508d47d19899cc359b8661035ed"
+        },
+        {
+          "id": "redfin-is-upbeat-about-this-year-so-is-wall-street-2febdc93?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Redfin's CEO says the real-estate listings company has lowered expenses and increased its online traffic.",
+          "link": "https://www.barrons.com/articles/redfin-is-upbeat-about-this-year-so-is-wall-street-2febdc93?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-18T09:00:00.000Z",
+          "wordCount": 7508,
+          "title": "Redfin Is Upbeat About This Year. So Is Wall Street.",
+          "imageUrl": "https://images.barrons.com/im-727736/social"
         },
         {
           "id": "dividend-hikes-stocks-payouts-36f0edd2?siteid=yhoof2&yptr=yahoo",
@@ -43800,46 +43810,6 @@
           "wordCount": 13800,
           "title": "Sam Bankman-Fried tweets away while under house arrest",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/msZQqWmii36toGxkSflMLw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_business_text_367/43dfa3911b1b7a84f56f89a5edd8a002"
-        },
-        {
-          "id": "ally-financial-stock-rallies-20-to-highest-levels-since-september-01674249137?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Ally Financial Inc. stock rallied more than 20% on Friday to close above $31 a share for the first time since September, after the car and mortgage financing...",
-          "link": "https://www.marketwatch.com/story/ally-financial-stock-rallies-20-to-highest-levels-since-september-01674249137?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-20T21:12:00.000Z",
-          "wordCount": 6724,
-          "title": "Ally Financial stock rallies 20% to highest levels since September",
-          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
-        },
-        {
-          "id": "walmart-has-a-unique-solution-to-retails-biggest-problem?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "The retailer looks to invest in its already-existing resources to solve a shortage problem",
-          "link": "https://www.thestreet.com/retail/walmart-has-a-unique-solution-to-retails-biggest-problem?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2023-01-20T20:43:00.000Z",
-          "wordCount": 3098,
-          "title": "Walmart Has a Unique Solution to Retail's Biggest Problem",
-          "imageUrl": "https://www.thestreet.com/.image/t_share/MTk1MjgwNTAxMDM5MjQ0OTg3/walmart-warehouse-lead-js-011923.jpg"
-        },
-        {
-          "id": "bed-bath-beyond-gets-nasdaq-203206975.html",
-          "author": null,
-          "description": "Bed Bath & Beyond is facing another critical challenge: staying listed on the Nasdaq Stock Market.",
-          "link": "https://finance.yahoo.com/news/bed-bath-beyond-gets-nasdaq-203206975.html",
-          "publishedOn": "2023-01-20T20:32:06.000Z",
-          "wordCount": 13908,
-          "title": "Bed Bath & Beyond gets Nasdaq delisting notice: What it means",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/AadIIzVbO3TcYXvksPMHEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTQ-/https://media.zenfs.com/en/fox_business_text_367/5e086a544cdbe658b38e621c9f77a250"
-        },
-        {
-          "id": "upcoming-ovarian-cancer-data-analyst-201638484.html",
-          "author": null,
-          "description": "Citi initiated coverage on Mersana Therapeutics Inc (NASDAQ: MRSN) with a Buy rating and a price target of $12. The analyst says the topline registrational data (expected in mid-2023) from the UPLIFT Ph2 study evaluating upifitamab rilsodotin (UpRi; NaPi2b ADC) in platinum-resistant ovarian cancer (PROC) will be a catalyst of significant debate. Citi analyst says that while readout will be binary, investors are underappreciating UPLIFT’s probability of success in NaPi2b-high patients, given the",
-          "link": "https://finance.yahoo.com/news/upcoming-ovarian-cancer-data-analyst-201638484.html",
-          "publishedOn": "2023-01-20T20:16:38.000Z",
-          "wordCount": 13835,
-          "title": "With Upcoming Ovarian Cancer Data, Analyst Sees 100% Upside For Mersana Therapeutics",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/8ba653b669705eeaea4fe49290dddf8a"
         }
       ]
     }
