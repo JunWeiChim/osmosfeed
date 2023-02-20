@@ -798,6 +798,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6252033/",
+          "author": "onze nieuwsredactie",
+          "description": "Gemeenteambtenaren in Amsterdam leggen vanaf maandag 6.30 uur zeven dagen het werk neer. Onder hen is ook personeel van de stadsreiniging, zoals vuilnisophalers.",
+          "link": "https://www.nu.nl/binnenland/6252033/amsterdamse-vuilnisophalers-en-andere-gemeenteambtenaren-staken-week-lang.html",
+          "publishedOn": "2023-02-20T11:52:16.000Z",
+          "wordCount": 1204,
+          "title": "Amsterdamse vuilnisophalers en andere gemeenteambtenaren staken week lang",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/4whxecnai05s_sqr256.jpg/amsterdamse-vuilnisophalers-en-andere-gemeenteambtenaren-staken-week-lang.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/4whxecnai05s_sqr256.jpg/amsterdamse-vuilnisophalers-en-andere-gemeenteambtenaren-staken-week-lang.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6252082/",
           "author": "Tim Wijkman-van Aalst",
           "description": "Een ongebruikt exemplaar van de allereerste iPhone heeft op een Amerikaanse veiling 63.356 dollar (ruim 59.300 euro) opgebracht. De opbrengst is hoger dan verwacht. Veilingmeesters hadden de waarde van de telefoon uit 2007 op 50.000 dollar geschat.",
@@ -7164,6 +7179,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/c/creditor.asp",
+          "author": "James Chen",
+          "description": "A creditor extends credit to another party to borrow money usually by a loan agreement or contract.",
+          "link": "https://www.investopedia.com/terms/c/creditor.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-20T11:29:08.000Z",
+          "wordCount": 4963,
+          "title": "What Is a Creditor, and What Happens If Creditors Aren't Repaid?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/oAYnxvviMkd0ZpQJJ5k00lDFIZA=/5121x3414/couple-signing-contract-170652637-5c821a46365a45d990c9ba9e753b4a3b.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/oAYnxvviMkd0ZpQJJ5k00lDFIZA=/5121x3414/couple-signing-contract-170652637-5c821a46365a45d990c9ba9e753b4a3b.jpg"
+        },
         {
           "id": "https://www.investopedia.com/ask/answers/122214/company-it-more-important-lower-costs-or-increase-revenue.asp",
           "author": "J.B. Maverick",
@@ -20166,6 +20196,56 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "god-mercy-us-robert-kiyosaki-230000021.html",
+          "author": null,
+          "description": "Profit from folly. Don’t participate in it.",
+          "link": "https://finance.yahoo.com/news/god-mercy-us-robert-kiyosaki-230000021.html",
+          "publishedOn": "2023-02-20T11:30:00.000Z",
+          "wordCount": 14064,
+          "title": "‘God have mercy on us all’: Robert Kiyosaki warned that the economy is the ‘biggest bubble’ in history and urged investors to dump paper assets — here are 3 real assets he likes instead",
+          "imageUrl": "https://media.zenfs.com/en/moneywise_327/b7e7b606563925b207729ce684e3961f"
+        },
+        {
+          "id": "oil-prices-rise-optimism-china-61232d01?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Goldman Sachs predicts that China's stocks will gain 20% this year as the economy gathers pace.",
+          "link": "https://www.barrons.com/articles/oil-prices-rise-optimism-china-61232d01?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-20T11:09:00.000Z",
+          "wordCount": 6934,
+          "title": "Oil Prices Rise on Optimism About China Demand",
+          "imageUrl": "https://images.barrons.com/im-721265/social"
+        },
+        {
+          "id": "world-largest-ponzi-scheme-peter-150000344.html",
+          "author": null,
+          "description": "The government is in a doom spiral of spending and borrowing",
+          "link": "https://finance.yahoo.com/news/world-largest-ponzi-scheme-peter-150000344.html",
+          "publishedOn": "2023-02-20T11:00:00.000Z",
+          "wordCount": 14612,
+          "title": "‘The world’s largest Ponzi scheme’: Peter Schiff just blasted the US debt ceiling drama. Here are the 3 assets he trusts amid major market craziness",
+          "imageUrl": "https://media.zenfs.com/en/moneywise_327/c7e591a81375a3a5f0a6195d50227999"
+        },
+        {
+          "id": "bitcoin-rally-crypto-currency-memecoin-altcoin-ether-price-569bd178?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "In the absence of U.S. stock trading or major catalysts on Presidents' Day, cryptos continued to drift upward with Bitcoin at its highest since last June.",
+          "link": "https://www.barrons.com/articles/bitcoin-rally-crypto-currency-memecoin-altcoin-ether-price-569bd178?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-20T10:36:00.000Z",
+          "wordCount": 6911,
+          "title": "Bitcoin Rises to Near $25,000. It Needs to Clear Key Levels Next to Keep the Rally Going.",
+          "imageUrl": "https://images.barrons.com/im-489169/social"
+        },
+        {
+          "id": "investors-worry-too-hot-economy-will-put-fed-on-more-aggressive-rate-path-bf41e230?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The strength of recent data convinces many that the central bank will push interest rates higher than they initially anticipated.",
+          "link": "https://www.wsj.com/articles/investors-worry-too-hot-economy-will-put-fed-on-more-aggressive-rate-path-bf41e230?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-20T10:30:00.000Z",
+          "wordCount": 7789,
+          "title": "Investors Worry Too-Hot Economy Will Put Fed on More Aggressive Rate Path",
+          "imageUrl": "https://images.wsj.net/im-728017/social"
+        },
         {
           "id": "meta-shares-soar-most-since-144117838.html",
           "author": null,
@@ -43845,26 +43925,6 @@
           "wordCount": 4981,
           "title": "How to Read Stocks: Charts, Basics and What to Look For",
           "imageUrl": "https://www.thestreet.com/.image/t_share/MTY3NTM5MzU2NjcwNTY4MzM0/best-and-worst-closed-end-funds.jpg"
-        },
-        {
-          "id": "upstream-spending-rise-485-billion-000000929.html",
-          "author": null,
-          "description": "In its 2023 outlook, Energy Intelligence notes that global upstream capex will hit $485B in the current year, good for 12% Y/Y increase",
-          "link": "https://finance.yahoo.com/news/upstream-spending-rise-485-billion-000000929.html",
-          "publishedOn": "2023-01-22T00:00:00.000Z",
-          "wordCount": 14144,
-          "title": "Upstream Spending To Rise To $485 Billion In 2023",
-          "imageUrl": "https://media.zenfs.com/en/oilprice.com/12b092ba9413c354235f560a3cc2020b"
-        },
-        {
-          "id": "tesla-stock-elon-musk-51674254457?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Ross Gerber and Jim Chanos debated the merits of the company as an investment at a Wall Street Journal event on Friday.",
-          "link": "https://www.barrons.com/articles/tesla-stock-elon-musk-51674254457?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-21T23:47:00.000Z",
-          "wordCount": 6565,
-          "title": "A Tesla Debate Just Happened. Both Sides Were Wrong.",
-          "imageUrl": "https://images.barrons.com/im-707389/social"
         }
       ]
     }
