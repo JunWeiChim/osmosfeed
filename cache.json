@@ -7280,6 +7280,21 @@
       "siteUrl": "https://www.investopedia.com",
       "articles": [
         {
+          "id": "https://www.investopedia.com/terms/r/regulation-y.asp",
+          "author": "Will Kenton",
+          "description": "Regulation Y, issued by the Federal Reserve, governs corporate bank holding company practices as well as the practices of state-member banks.",
+          "link": "https://www.investopedia.com/terms/r/regulation-y.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-21T01:19:59.000Z",
+          "wordCount": 3909,
+          "title": "What Is Regulation Y?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Fce2ckFA6AB71i-EhAi1saXQ6iI=/2100x1427/GettyImages-740633161-35081e7bb770470b9587cfe5ded6266b.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Fce2ckFA6AB71i-EhAi1saXQ6iI=/2100x1427/GettyImages-740633161-35081e7bb770470b9587cfe5ded6266b.jpg"
+        },
+        {
           "id": "https://www.investopedia.com/articles/markets/011216/highbeta-stocks-trade.asp",
           "author": "Adam Hayes",
           "description": "High-beta stocks are volatile and present profitable trading opportunities, but not without risk.",
@@ -20383,21 +20398,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/ushJdoCCIY4SwJQd4H9m2zYg6Gs=/4096x3213/Signing_Of_The_Social_Security_Act-c0b8cb6ca31f478db052bfbc345fe60b.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/c/consumer-discretionary.asp",
-          "author": "The Investopedia Team",
-          "description": "Consumer discretionary is an economic sector comprising non-essential products that individuals may only purchase when they have excess cash.",
-          "link": "https://www.investopedia.com/terms/c/consumer-discretionary.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-22T13:52:58.000Z",
-          "wordCount": 5628,
-          "title": "What Is Consumer Discretionary? Definition in Economic Indicators",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/nzDH40FXPq_fxc1NOTAxzzkk0zw=/507x338/83300751-5bfc2b9546e0fb00265bec92.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/nzDH40FXPq_fxc1NOTAxzzkk0zw=/507x338/83300751-5bfc2b9546e0fb00265bec92.jpg"
         }
       ]
     },
@@ -20407,6 +20407,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "walmart-earnings-stock-price-1f7af073?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "America's largest retailer is well positioned to deliver a strong quarter. Guidance is a bigger question.",
+          "link": "https://www.barrons.com/articles/walmart-earnings-stock-price-1f7af073?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-20T23:07:00.000Z",
+          "wordCount": 6969,
+          "title": "Walmart Stock Could Rally After Earnings. Why Caution Remains.",
+          "imageUrl": "https://images.barrons.com/im-727357/social"
+        },
+        {
           "id": "china-ipo-didi-alibaba-jd-stock-4ea53223?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "After China’s strong reaction to DiDi’s listing, the new rules offer hope to Chinese companies wanting to list overseas. There’s a formal process now, although it does mean another regulatory hurdle to overcome.",
@@ -20415,6 +20425,16 @@
           "wordCount": 7078,
           "title": "China Sets New Rules for Overseas IPOs. What It Means for DiDi, Alibaba, and Others.",
           "imageUrl": "https://images.barrons.com/im-362415/social"
+        },
+        {
+          "id": "stocks-to-watch-this-week-walmart-alibaba-moderna-d1e5bd0a?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Home Depot, Lucid, TJX, and others also report earnings. Investors will see Fed minutes and economic data on manufacturing, home sales, GDP, and income and spending.",
+          "link": "https://www.barrons.com/articles/stocks-to-watch-this-week-walmart-alibaba-moderna-d1e5bd0a?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-20T22:46:00.000Z",
+          "wordCount": 7063,
+          "title": "Walmart, Alibaba, Moderna, and More Stocks to Watch This Week",
+          "imageUrl": "https://images.barrons.com/im-699166/social"
         },
         {
           "id": "worlds-largest-hedge-fund-founder-192611919.html",
@@ -20527,6 +20547,16 @@
           "imageUrl": "https://images.wsj.net/im-726927/social"
         },
         {
+          "id": "crude-oil-price-forecast-crude-150123447.html",
+          "author": null,
+          "description": "The crude oil market has rallied a bit during the trading session on Monday as markets would have been very small in the futures pits due to the Presidents’ Day holiday.",
+          "link": "https://finance.yahoo.com/news/crude-oil-price-forecast-crude-150123447.html",
+          "publishedOn": "2023-02-20T15:01:23.000Z",
+          "wordCount": 14131,
+          "title": "Crude Oil Price Forecast – Crude Oil Markets Rally in Thin Volume",
+          "imageUrl": "https://media.zenfs.com/en/fx_empire_176/228c395b09c80e5085f0d63d0733573b"
+        },
+        {
           "id": "american-people-tired-lawmakers-introduce-150000544.html",
           "author": null,
           "description": "The battle of the bills turns personal.",
@@ -20535,6 +20565,16 @@
           "wordCount": 14280,
           "title": "‘The American people are tired': Lawmakers take aim at insider trading in Washington — here's how they'd force Congress to put the people before their portfolios",
           "imageUrl": "https://media.zenfs.com/en/moneywise_327/c6f22b4b672364c0f325801977b24ec5"
+        },
+        {
+          "id": "gold-price-forecast-gold-markets-144622939.html",
+          "author": null,
+          "description": "Good markets have done very little during the trading session on Monday, which would not be a huge surprise considering that it was Presidents’ Day in the United States.",
+          "link": "https://finance.yahoo.com/news/gold-price-forecast-gold-markets-144622939.html",
+          "publishedOn": "2023-02-20T14:46:22.000Z",
+          "wordCount": 14043,
+          "title": "Gold Price Forecast – Gold Markets Continue to Hover at 38.2% Fibonacci Level",
+          "imageUrl": "https://media.zenfs.com/en/fx_empire_176/2e70daefc32afd637bf65f42bc0428a3"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -44235,136 +44275,6 @@
           "wordCount": 14499,
           "title": "Laid-off Silicon Valley workers are panic-selling their start-up shares as valuations plummet — here are 3 top tech stocks for 2023 that actually make money",
           "imageUrl": "https://media.zenfs.com/en/moneywise_327/0843ec4527d7424518347a635926feee"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-10-market-moving-earnings-reports-on-tap/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-01-22T14:03:46.000Z",
-          "wordCount": null,
-          "title": "Dow Jones Futures Due With These 10 Market-Moving Earnings Reports On Tap",
-          "imageUrl": null
-        },
-        {
-          "id": "rich-avoid-paying-taxes-savings-150055760.html",
-          "author": null,
-          "description": "If you keep money in a regular savings account you will generally owe federal income taxes on the interest that is earned. You'll pay taxes at your regular rate the year interest is earned, whether or not you withdraw from … Continue reading → The post How to Avoid Tax on a Savings Account appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/rich-avoid-paying-taxes-savings-150055760.html",
-          "publishedOn": "2023-01-22T14:00:47.000Z",
-          "wordCount": 14637,
-          "title": "Here's How The Rich Avoid Paying Savings Account Taxes",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/55864f05917a562e81990f03b6ff3a79"
-        },
-        {
-          "id": "fidelitys-45-rule-really-guide-130031874.html",
-          "author": null,
-          "description": "Financial services giant Fidelity has a rule for retirement savings you may have heard of: Have 10 times your annual salary saved for retirement by age 67. This oft-cited guideline can help you identify a retirement savings goal, but it … Continue reading → The post Should the 45% Rule Guide Your Retirement Strategy? appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/fidelitys-45-rule-really-guide-130031874.html",
-          "publishedOn": "2023-01-22T14:00:45.000Z",
-          "wordCount": 14496,
-          "title": "Fidelity's 45% Rule: Should You Really Use It As a Guide to Retirement Savings?",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/d2cfd41af7dbbbe5f55128312727dda2"
-        },
-        {
-          "id": "boomers-face-risk-retirement-heres-190000958.html",
-          "author": null,
-          "description": "Baby boomers are using up their retirement savings too quickly –either because they're underestimating how much they need or are living longer than they'd guessed they would. New research from the Center for Retirement Research at Boston College found that … Continue reading → The post Boomers Face This Risk in Retirement: Here's How To Avoid It appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/boomers-face-risk-retirement-heres-190000958.html",
-          "publishedOn": "2023-01-22T14:00:43.000Z",
-          "wordCount": 14545,
-          "title": "How to Avoid The No. 1 Retirement Risk Americans Face",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/00c82daa973bd7634fef05b361caf6b0"
-        },
-        {
-          "id": "seniors-heres-avoid-taxes-lump-140000206.html",
-          "author": null,
-          "description": "When your pension matures, there are multiple distribution options that you can choose from. Unfortunately, many of these distribution methods result in a tax liability that reduces your payout. However, you can avoid taxes on a lump sum by rolling … Continue reading → The post How to Avoid Taxes on Lump Sum Pension Payout appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/seniors-heres-avoid-taxes-lump-140000206.html",
-          "publishedOn": "2023-01-22T14:00:38.000Z",
-          "wordCount": 14262,
-          "title": "How Can I Avoid Taxes on Lump Sum Retirement Pension Payouts?",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/6f27da91b05e59c0da45a5628d6b5466"
-        },
-        {
-          "id": "joint-revocable-trust-estate-planning-150818564.html",
-          "author": null,
-          "description": "Establishing a joint revocable trust can be an ideal estate planning tool for the benefit of your children, your grandchildren and beyond. Married couples have the possibility of establishing a joint trust instead of simply establishing one in each of … Continue reading → The post Joint Revocable Trust: Estate Planning appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/joint-revocable-trust-estate-planning-150818564.html",
-          "publishedOn": "2023-01-22T14:00:19.000Z",
-          "wordCount": 14235,
-          "title": "Joint Revocable Trust: Estate Planning",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/6bea308b0fe59e63afcabc6d127cf9db"
-        },
-        {
-          "id": "retire-during-market-downturn-withdrawing-190235929.html",
-          "author": null,
-          "description": "It's always hard to make your retirement savings last as long as you need it to - but it becomes even harder when you're retiring during a market downturn, as Americans retiring right now are experiencing. A market downturn means … Continue reading → The post How to Retire During a Market Downturn: It's All About Withdrawing This Way appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/retire-during-market-downturn-withdrawing-190235929.html",
-          "publishedOn": "2023-01-22T14:00:18.000Z",
-          "wordCount": 14185,
-          "title": "How to Withdraw from Retirement When The Market Is Bad",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/18ccebd09001216684bc749638ab185e"
-        },
-        {
-          "id": "beneficiaries-pay-taxes-estate-distributions-200035429.html",
-          "author": null,
-          "description": "Estate taxes can take a bite out of your inheritance income. While many beneficiaries can avoid the brunt of inheritance taxes, they will have to pay income tax on estate distributions. Let's break down when and how much beneficiaries have … Continue reading → The post Do Beneficiaries Pay Taxes on Estate Distributions? appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/beneficiaries-pay-taxes-estate-distributions-200035429.html",
-          "publishedOn": "2023-01-22T14:00:11.000Z",
-          "wordCount": 14262,
-          "title": "These Are The States That Charge Inheritance Taxes",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/283cd6ad675067583acdc4ebb250e55d"
-        },
-        {
-          "id": "avoid-paying-gift-taxes-trusts-120034399.html",
-          "author": null,
-          "description": "Establishing a Crummey trust is something you might consider if you'd like to leave assets to your heirs while avoiding gift taxes. One unique provision of this type of trust is the Crummey power, which allows the trust beneficiaries a … Continue reading → The post Crummey Power: Gift Tax Exclusion appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/avoid-paying-gift-taxes-trusts-120034399.html",
-          "publishedOn": "2023-01-22T14:00:07.000Z",
-          "wordCount": 14623,
-          "title": "How to Avoid Paying Gift Taxes on Trusts",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/4dc11ea5a995980df01a689b8ec01628"
-        },
-        {
-          "id": "irs-says-87-000-hires-120000616.html",
-          "author": null,
-          "description": "Biden's not going to back down on this one.",
-          "link": "https://finance.yahoo.com/news/irs-says-87-000-hires-120000616.html",
-          "publishedOn": "2023-01-22T14:00:00.000Z",
-          "wordCount": 14529,
-          "title": "President Biden vows to veto ‘reckless’ Republican bill reversing IRS funding and its 87,000 new hires — here's how it could impact you",
-          "imageUrl": "https://media.zenfs.com/en/moneywise_327/6019ca04c85e35b2bccda2bbe3beefaf"
-        },
-        {
-          "id": "chinas-reopening-complicates-global-fight-against-inflation-11674344924?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "A stronger Chinese economy would  boost demand for commodities but could also ease supply-chain bottlenecks—resulting in mixed signals for central bankers",
-          "link": "https://www.wsj.com/articles/chinas-reopening-complicates-global-fight-against-inflation-11674344924?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-22T14:00:00.000Z",
-          "wordCount": 6932,
-          "title": "China’s Reopening Complicates Global Fight Against Inflation",
-          "imageUrl": "https://images.wsj.net/im-707209/social"
-        },
-        {
-          "id": "investors-struggle-dive-back-us-134030157.html",
-          "author": null,
-          "description": "(Bloomberg) -- The pause in the stock market’s strong start to 2023 underscores the main question vexing much of Wall Street: When will it be safe to start buying again? Most Read from BloombergHolmes Belongs in Prison, Not $13,000-a-Month Manor, US SaysMilan Luxury Real Estate Booms as Bankers Leave London for ItalyTrump Not Scared by Judge’s Million-Dollar Smack, Experts SayJPMorgan Model Shows Recession Odds Fall Sharply Across MarketsBeyonce Launches $100,000-a-Night Dubai Resort’s Luxury Be",
-          "link": "https://finance.yahoo.com/news/investors-struggle-dive-back-us-134030157.html",
-          "publishedOn": "2023-01-22T13:40:30.000Z",
-          "wordCount": 14278,
-          "title": "Investors Struggle With When to Dive Back Into US Stock Market",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/xR1IUw88W.jaOV7YMF3vSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMDE5/https://media.zenfs.com/en/bloomberg_markets_842/596dd1eab20bfe7dcdfd6f42db8356d8"
-        },
-        {
-          "id": "netflix-shares-have-doubled-since-may-but-one-analyst-says-still-too-early-to-buy-133225613.html",
-          "author": null,
-          "description": "Bullish on Netflix? Here's why one analyst says it's still 'too early to buy' he high-flying stock.",
-          "link": "https://finance.yahoo.com/news/netflix-shares-have-doubled-since-may-but-one-analyst-says-still-too-early-to-buy-133225613.html",
-          "publishedOn": "2023-01-22T13:32:25.000Z",
-          "wordCount": 14198,
-          "title": "Netflix shares have doubled since May, but one analyst says still 'too early to buy'",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/bKyUzQBBWO.BgUXRYhZKjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/8ad31110-50be-11ed-af73-ea23ffe695e4"
         }
       ]
     }
