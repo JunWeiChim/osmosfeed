@@ -858,6 +858,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6252230/",
+          "author": "Elise Vermeeren",
+          "description": "Vuilnisophalers hebben hun bezems neergelegd, half maart kunnen we een landelijke ziekenhuisstaking verwachten en medewerkers in het streekvervoer gaan woensdag en vrijdag opnieuw staken voor een betere cao. Krijgt een staker salaris uitbetaald?",
+          "link": "https://www.nu.nl/economie/6252230/wie-betaalt-je-salaris-als-je-gaat-staken.html",
+          "publishedOn": "2023-02-22T04:21:47.000Z",
+          "wordCount": 1576,
+          "title": "Wie betaalt je salaris als je gaat staken?",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/zukx7isa336r_sqr256.jpg/wie-betaalt-je-salaris-als-je-gaat-staken.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/zukx7isa336r_sqr256.jpg/wie-betaalt-je-salaris-als-je-gaat-staken.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6252272/",
           "author": "Tom van Gurp",
           "description": "Binnen- en buitenlandse gasten boekten vorig jaar meer overnachtingen dan ooit in Nederland. Vooral hotels waren populair, blijkt uit cijfers van statistiekbureau CBS.",
@@ -7321,21 +7336,6 @@
             "url": "https://media.nu.nl/m/tynxs10ap2g8_sqr256.jpg/landbouwexport-groeit-vooral-veel-nederlandse-melk-en-eieren-naar-het-buitenland.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/tynxs10ap2g8_sqr256.jpg/landbouwexport-groeit-vooral-veel-nederlandse-melk-en-eieren-naar-het-buitenland.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6248168/",
-          "author": "Paul Cnossen",
-          "description": "Tijdens de coronacrisis won kamperen enorm aan populariteit. Het einde van deze opleving lijkt nog niet in zicht. Voor nieuwe campers en caravans is de wachtlijst lang. Koop je nu een nieuw model, dan kun je er waarschijnlijk deze zomer nog niet mee op vakantie.",
-          "link": "https://www.nu.nl/auto/6248168/wie-nu-een-nieuwe-caravan-koopt-kan-er-s-zomers-misschien-nog-niet-mee-weg.html",
-          "publishedOn": "2023-01-23T16:21:21.000Z",
-          "wordCount": 1928,
-          "title": "Wie nu een nieuwe caravan koopt, kan er 's zomers misschien nog niet mee weg",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/v53xi9rao65e_sqr256.jpg/wie-nu-een-nieuwe-caravan-koopt-kan-er-s-zomers-misschien-nog-niet-mee-weg.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/v53xi9rao65e_sqr256.jpg/wie-nu-een-nieuwe-caravan-koopt-kan-er-s-zomers-misschien-nog-niet-mee-weg.jpg"
         }
       ]
     },
@@ -20493,26 +20493,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/-pPTZ_vCqbKhK-dKfCoTrQ2sJeU=/1000x754/shutterstock_75242476.nest.egg-5442b0ce2d8b45e2bea12aca65ae4a82.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/crypto-to-watch-01-23-2023-7097957",
-          "author": "Rahul Nambiampurath",
-          "description": "This week’s cryptocurrencies to keep an eye on are Hedera (HBAR), Convex Finance (CVX), Frax Share (FXS), Enjin Coin (ENJ), and Axie (AXS).",
-          "link": "https://www.investopedia.com/crypto-to-watch-01-23-2023-7097957?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-23T16:41:10.000Z",
-          "wordCount": 3663,
-          "title": "Cryptocurrencies To Watch: Week of January 23",
-          "imageUrl": "https://www.investopedia.com/thmb/v3z0_egDlkOu5Dbh0HpAJWE6MNQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/CryptoCoinImage_16-ee1cb6eb331e4bfcbda95cc2147d0e4e.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/the-express-podcast-episode-121-7097998",
-          "author": "Staff Author",
-          "description": "Bill Dudley, former President of the New York Federal Reserve Bank and Vice Chair of the Federal Open Market Committee (FOMC), joins the show to talk about what really happens inside the Fed and the FOMC ahead of key meetings on interest rates, and what to expect at the next two meetings.",
-          "link": "https://www.investopedia.com/the-express-podcast-episode-121-7097998?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-23T16:25:10.000Z",
-          "wordCount": 2832,
-          "title": "What Really Happens Inside the Federal Reserve",
-          "imageUrl": "https://www.investopedia.com/thmb/CHwi6A7z2rrQ5atquAmv6cNH-5o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TalkaboutwhatreallyhappensinsidetheFedandtheFOMCaheadofkeymeetingsoninterestrates-b97b20bb42974a7d81c2a5a0e0728d6c.jpg"
         }
       ]
     },
@@ -20521,6 +20501,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "credit-suisse-collapses-on-the-stock-market?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.thestreet.com/investing/credit-suisse-collapses-on-the-stock-market?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-02-22T02:54:00.000Z",
+          "wordCount": null,
+          "title": "Credit Suisse Collapses on the Stock Market",
+          "imageUrl": null
+        },
         {
           "id": "seeking-least-7-dividend-yield-015924564.html",
           "author": null,
@@ -44660,86 +44650,6 @@
           "wordCount": 14315,
           "title": "Warren Buffett Ditched His Flip Phone for an iPhone in 2020 and Drinks 5 Cans of Coke a Day — That's What Makes Him One of the Greatest Investors of All Time",
           "imageUrl": "https://media.zenfs.com/en/Benzinga/ff7d9ed751e91bc9cc385b2842cca332"
-        },
-        {
-          "id": "tesla-earnings-stock-investors-51674493523?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Tesla reports fourth-quarter results on Wednesday evening. Investors in Elon Musk's car company could see more volatility than ever.",
-          "link": "https://www.barrons.com/articles/tesla-earnings-stock-investors-51674493523?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-23T17:11:00.000Z",
-          "wordCount": 6575,
-          "title": "Tesla Earnings Are Coming at a Tricky Time. Investors Are Bullish.",
-          "imageUrl": "https://images.barrons.com/im-708303/social"
-        },
-        {
-          "id": "elon-musk-resumes-testimony-to-defend-tesla-buyout-tweets-11674493706?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Tesla Inc. Chief Executive Elon Musk returns to court Monday to defend old tweets in a securities fraud trial in San Francisco. He testified he understood he...",
-          "link": "https://www.marketwatch.com/story/elon-musk-resumes-testimony-to-defend-tesla-buyout-tweets-11674493706?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-23T17:08:00.000Z",
-          "wordCount": 7092,
-          "title": "Elon Musk tells court Saudi Arabia wanted to take Tesla private; $420 ‘not a joke’",
-          "imageUrl": "https://images.mktw.net/im-708445/social"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/technology/semiconductor-stocks-ai-chatgpt-could-boost-these-names/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-01-23T17:02:08.000Z",
-          "wordCount": null,
-          "title": "These Semiconductor Stocks Are Seen Gaining From AI, ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "come-bad-ending-just-over-120000862.html",
-          "author": null,
-          "description": "The Oracle of Omaha never saw a future in cryptocurrency.",
-          "link": "https://finance.yahoo.com/news/come-bad-ending-just-over-120000862.html",
-          "publishedOn": "2023-01-23T17:00:00.000Z",
-          "wordCount": 14264,
-          "title": "Will Bitcoin mint more millionaires or is this just a 'dead cat bounce'? Here are 3 reasons why Warren Buffett says crypto 'will come to a very bad ending'",
-          "imageUrl": "https://media.zenfs.com/en/moneywise_327/c88dc5d30b3d20e61c4baa8a7c9a6d60"
-        },
-        {
-          "id": "simply-orange-juice-toxic-orange-juice?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "A class action lawsuit has set its sights on a popular Coca-Cola juice brand.",
-          "link": "https://www.thestreet.com/retailers/simply-orange-juice-toxic-orange-juice?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2023-01-23T16:51:00.000Z",
-          "wordCount": 3641,
-          "title": "Popular Coca-Cola Brand May Have Toxic Chemicals",
-          "imageUrl": "https://www.thestreet.com/.image/t_share/MTk0MTE5Nzc0NTg0NzEwODMz/coca-cola-2_kl_113022.jpg"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/ge-earnings-q4-ge-stock-general-electric/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-01-23T16:36:11.000Z",
-          "wordCount": null,
-          "title": "GE Earnings Due Tuesday, Outlook Key; GE Stock Gains",
-          "imageUrl": null
-        },
-        {
-          "id": "citi-says-market-upside-limited-162919496.html",
-          "author": null,
-          "description": "Given the current macroeconomic backdrop, the S&P 500 has little room for further gains. That is the opinion of the analysts at Citi, who in a recent note claimed the bellwether index is reaching a valuation level that will stunt further upside. Going by present rates and various “macro inputs” like growth and inflation, the high end of Citi’s fair value framework suggests an S&P 500 price-to earnings multiple of 18.5x. With the S&P 500’s trailing price-to-earnings ratio currently hovering near",
-          "link": "https://finance.yahoo.com/news/citi-says-market-upside-limited-162919496.html",
-          "publishedOn": "2023-01-23T16:29:19.000Z",
-          "wordCount": 14592,
-          "title": "Citi Says Market Upside Is Limited Now, but These 2 Stocks Could Outperform",
-          "imageUrl": "https://media.zenfs.com/en/tipranks_452/d690625fa1ea072071391e995409e346"
-        },
-        {
-          "id": "rishi-sunak-old-hedge-fund-161742925.html",
-          "author": null,
-          "description": "Alphabet is already planning to reduce its workforce by around 6%, but the U.K. Prime Minister's old boss at TCI Fund Management wants Sundar Pichai to go further.",
-          "link": "https://finance.yahoo.com/news/rishi-sunak-old-hedge-fund-161742925.html",
-          "publishedOn": "2023-01-23T16:17:42.000Z",
-          "wordCount": 14317,
-          "title": "Rishi Sunak’s old hedge fund boss, who paid himself $1.9 million a day last year, wants Alphabet to lay off more staff and slash pay",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/yMHLSIWpdn2RUl1atHJjuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzc-/https://media.zenfs.com/en/fortune_175/0ad4f882ba79072d8e5543b1e0849676"
         }
       ]
     }
