@@ -561,6 +561,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "d812b22fcb8c375688bf12d4fe301244",
+          "author": "rss.app",
+          "description": "",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df4f2a56d06e81209c9d0a69cdab33b7f7ae72b0a5dc7df77fa47d5ed3661c5f03",
+          "publishedOn": "2023-02-22T18:17:16.518Z",
+          "wordCount": 412,
+          "title": "5 Things to Know Before Markets Open By Danial Clark Published Feb 22, 2023",
+          "imageUrl": null
+        },
+        {
           "id": "10197ffdb35b803e6fbf25df72a2555c",
           "author": "Investopedia",
           "description": "U.S. stocks posted sharp declines on Tuesday, Feb. 21, with interest rate concerns and reports from retailers weighing on the markets.",
@@ -7399,6 +7409,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/i/inflationary_gap.asp",
+          "author": "Will Kenton",
+          "description": "An inflationary gap measures the difference between the gross domestic product (GDP) and the potential GDP of an economy at full employment.",
+          "link": "https://www.investopedia.com/terms/i/inflationary_gap.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-22T17:50:49.000Z",
+          "wordCount": 4522,
+          "title": "What Is an Inflationary Gap?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/e9JrufjRZx0eUD2r1qFjEE3cAq0=/4200x2368/GettyImages-1051694430-5ecadada7ecb4bb2ae6b37ae9511dd3e.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/e9JrufjRZx0eUD2r1qFjEE3cAq0=/4200x2368/GettyImages-1051694430-5ecadada7ecb4bb2ae6b37ae9511dd3e.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/retirement/11/difference-retiring-canada-america.asp",
           "author": "Arthur Pinkasovitch",
@@ -20343,21 +20368,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/2Atgc6KxqPwB4kqCUTiZJpZYsko=/650x465/DJ20-gift-wrappedgifts-650x465-aa8246cbdfde4f54aabe57c8a3745d5d.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/economics/08/north-american-free-trade-agreement.asp",
-          "author": "David Floyd",
-          "description": "Here's a look at the winners and losers of NAFTA and what the agreement did or did not accomplish.",
-          "link": "https://www.investopedia.com/articles/economics/08/north-american-free-trade-agreement.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-24T05:22:46.000Z",
-          "wordCount": 10922,
-          "title": "How Did Nafta Affect the Economies of Participating Countries?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/xC7mkUlWZhgQhiBCTelHYv6ukvc=/2089x1435/GettyImages-1081970868-692e94e35abf4c32a3d7c69cfc91ad75.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/xC7mkUlWZhgQhiBCTelHYv6ukvc=/2089x1435/GettyImages-1081970868-692e94e35abf4c32a3d7c69cfc91ad75.jpg"
         }
       ]
     },
@@ -20366,6 +20376,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "lucid-earnings-preview-production-ownership-structure-in-focus-171437831.html",
+          "author": null,
+          "description": "When California-based EV-maker Lucid announces Q4 financial results after the bell on Wednesday, the production guidance, and questions of its future ownership structure, may dominate the headlines.",
+          "link": "https://finance.yahoo.com/news/lucid-earnings-preview-production-ownership-structure-in-focus-171437831.html",
+          "publishedOn": "2023-02-22T17:14:37.000Z",
+          "wordCount": 13882,
+          "title": "Lucid earnings preview: Production, ownership structure in focus",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/e1acdbVQTV8fJZP1w_1gWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/e8f1a0f0-b2ce-11ed-9bef-99042630cf4f"
+        },
+        {
+          "id": "intels-dividend-cut-shows-the-need-for-quality-here-are-20-dividend-stocks-screened-by-ubs-3f425777?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Intel cut its dividend by 66% after analysts' estimates showed the chip maker was expected to run negative cash flow for the next two full years.",
+          "link": "https://www.marketwatch.com/story/intels-dividend-cut-shows-the-need-for-quality-here-are-20-dividend-stocks-screened-by-ubs-3f425777?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-22T16:41:00.000Z",
+          "wordCount": 7901,
+          "title": "Intel’s dividend cut shows the need for quality. Here are 20 dividend stocks screened by UBS.",
+          "imageUrl": "https://images.mktw.net/im-729748/social"
+        },
         {
           "id": "bankrupt-sorrento-therapeutics-secures-court-163506123.html",
           "author": null,
@@ -20387,6 +20417,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/KWn7UkRcQMZ4NFEzGwt.gA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/87c0c75a0275c2c05781293dec779184"
         },
         {
+          "id": "bill-gates-buys-stake-heineken-161015666.html",
+          "author": null,
+          "description": "(Bloomberg) -- Bill Gates has acquired a minority stake in Heineken Holding NV, the controlling shareholder of the world’s second-largest brewer, for about $902 million.Most Read from BloombergMcKinsey Plans to Eliminate About 2,000 Jobs in One of Its Biggest Rounds of CutsHow Much Do Investors Say They Need to Retire? At Least $3 MillionChina Urges State Firms to Drop Big Four Auditors on Data RiskRussia’s War on Ukraine, China’s Rise Expose US Military FailingsWorld’s Largest Four-Day Work Wee",
+          "link": "https://finance.yahoo.com/news/bill-gates-buys-stake-heineken-161015666.html",
+          "publishedOn": "2023-02-22T16:10:15.000Z",
+          "wordCount": 14155,
+          "title": "Bill Gates Buys Stake in Heineken for $902 Million",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/f2AqssafinoiBy9g0udfbw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/df951705f8b5a70a1ea0205550ce92e4"
+        },
+        {
           "id": "why-fiverr-international-shares-trading-155042180.html",
           "author": null,
           "description": "Fiverr International Ltd (NYSE: FVRR) reported fourth-quarter FY22 sales growth of 4.2% year-on-year to $83.1 million, marginally missing the consensus of $83.5 million. Active buyers increased 1% Y/Y to 4.3 million, and Spend per buyer rose 8% Y/Y to $262. The take rate expanded by 100 bps to 30.2%. Non-GAAP gross margin contracted 30 bps to 83.1%, while the adjusted EBITDA margin expanded 20 bps to 11.3%. Non-GAAP EPS of $0.26 beat the consensus of $0.20. Fiverr generated $9.6 million in opera",
@@ -20395,6 +20435,16 @@
           "wordCount": 13698,
           "title": "Why Fiverr International Shares Are Trading Higher Today",
           "imageUrl": "https://media.zenfs.com/en/Benzinga/3000ab8704056477fa075c7323c213bc"
+        },
+        {
+          "id": "market-full-swings-david-einhorn-154105512.html",
+          "author": null,
+          "description": "Only a relatively small number of investors enjoyed 2022’s treacherous bear conditions, and one of those was David Einhorn. In contrast to the S&P 500’s 19% loss, Einhorn’s hedge fund Greenlight Capital notched returns of 36.6%, in what amounted to the fund’s finest year in a decade. The value investor’s strategy obviously worked wonders in a year when more risk-flavored stocks got hammered and in a recent note to investors, the fund stated they believe their game plan “has and will continue to",
+          "link": "https://finance.yahoo.com/news/market-full-swings-david-einhorn-154105512.html",
+          "publishedOn": "2023-02-22T15:41:05.000Z",
+          "wordCount": 14461,
+          "title": "Billionaire David Einhorn Loads Up on These 2 Stocks — Here’s Why They Could Bounce",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/227db06908f2f321816a4da786d74d58"
         },
         {
           "id": "as-interest-rates-rise-biden-administration-will-reduce-the-cost-of-some-mortgages-by-800-per-year-8e05394d?siteid=yhoof2&yptr=yahoo",
@@ -44715,16 +44765,6 @@
           "wordCount": 6537,
           "title": "Microsoft’s Earnings Are Coming. 2 Major Issues Hang Over Investors.",
           "imageUrl": "https://images.barrons.com/im-708311/social"
-        },
-        {
-          "id": "texas-instruments-earnings-stock-price-51674506184?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Investors in semiconductor giant Texas Instruments want to see if business trends have improved from the previous quarter's disappointing demand forecast.",
-          "link": "https://www.barrons.com/articles/texas-instruments-earnings-stock-price-51674506184?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-24T06:00:00.000Z",
-          "wordCount": 6551,
-          "title": "Texas Instruments Kicks Off Chips Earnings Today",
-          "imageUrl": "https://images.barrons.com/im-708326/social"
         }
       ]
     }
