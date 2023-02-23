@@ -838,6 +838,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6252464/",
+          "author": "onze economieredactie",
+          "description": "Nederlandse bedrijven verkochten minder vrachtwagens, bussen en planten aan Russen in 2022. We exporteerden voor 3,7 miljard naar Rusland, 38 procent minder dan een jaar eerder. De grote afname komt voor een groot deel door Europese sancties.",
+          "link": "https://www.nu.nl/economie/6252464/handel-met-rusland-kakt-in-door-sancties.html",
+          "publishedOn": "2023-02-23T08:11:15.000Z",
+          "wordCount": 1059,
+          "title": "Handel met Rusland kakt in door sancties",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/3zjxoioamhlk_sqr256.jpg/handel-met-rusland-kakt-in-door-sancties.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/3zjxoioamhlk_sqr256.jpg/handel-met-rusland-kakt-in-door-sancties.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6252278/",
           "author": "Douwe van Veen",
           "description": "Wie nu een nieuw energiecontract afsluit, is op jaarbasis bijna 3.500 euro kwijt aan gas en licht. Dat is ruim de helft minder dan vorig jaar zomer, toen zowel gas- als stroomprijzen piekten. Toch is zo'n nieuw contract nog altijd 30 tot 40 procent duurder dan vóór de oorlog in Oekraïne. Dat blijkt uit cijfers van vergelijkingssite Gaslicht.com, die NU.nl heeft opgevraagd.",
@@ -7271,21 +7286,6 @@
             "url": "https://media.nu.nl/m/kklx6kvayh9g_sqr256.jpg/vakbond-kondigt-nieuwe-stakingen-door-personeel-van-regionale-treinen-aan.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/kklx6kvayh9g_sqr256.jpg/vakbond-kondigt-nieuwe-stakingen-door-personeel-van-regionale-treinen-aan.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6248376/",
-          "author": "onze nieuwsredactie",
-          "description": "Medewerkers van regionale treinen gaan binnenkort opnieuw staken voor betere arbeidsvoorwaarden in de kleinere cao voor het streekvervoer. Dat meldt vakbond VVMC dinsdagavond. Wanneer de nieuwe stakingen gaan plaatsvinden is nog niet bekend.",
-          "link": "https://www.nu.nl/economie/6248376/vakbond-kondigt-nieuwe-stakingen-aan-door-personeel-regionale-treinen.html",
-          "publishedOn": "2023-01-24T20:10:41.000Z",
-          "wordCount": 1115,
-          "title": "Vakbond kondigt nieuwe stakingen aan door personeel regionale treinen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/kklx6kvayh9g_sqr256.jpg/vakbond-kondigt-nieuwe-stakingen-aan-door-personeel-regionale-treinen.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/kklx6kvayh9g_sqr256.jpg/vakbond-kondigt-nieuwe-stakingen-aan-door-personeel-regionale-treinen.jpg"
         }
       ]
     },
@@ -20493,36 +20493,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/_mCMv7QM3zRgc4qWPH6FPlHx6XM=/1500x1000/Value_At_Risk-41be4adde1ef4915a1ca7f85407d77c6.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/mastercard-earnings-preview-7098523",
-          "author": "Nathan Reiff",
-          "description": "Mastercard reports Q4 FY 2022 results before markets open on Jan. 26. Analysts expect profit and revenue to grow at the slowest pace in almost two years amid high inflation and FTC troubles.",
-          "link": "https://www.investopedia.com/mastercard-earnings-preview-7098523?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-24T20:02:36.000Z",
-          "wordCount": 3396,
-          "title": "Mastercard Profit and Revenue Growth Could Decelerate to Slowest Rate in Years",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Vwgij7nATREQRhYglXKyVG-OsFI=/1024x682/MastercardLogo-aa7d44227dda498b8919f86f9af281ea.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Vwgij7nATREQRhYglXKyVG-OsFI=/1024x682/MastercardLogo-aa7d44227dda498b8919f86f9af281ea.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/crypto-lenders-crisis-7098041",
-          "author": "Rahul Nambiampurath",
-          "description": "Crypto lending platforms have suffered back-to-back losses due to the FTX collapse and SEC crackdowns.",
-          "link": "https://www.investopedia.com/crypto-lenders-crisis-7098041?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-24T19:16:47.000Z",
-          "wordCount": 3389,
-          "title": "Crypto Lending Platforms Hit Hard as Contagion Spreads",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/G4Iw7pwm-WZ7Z58DpsZSLTlP21c=/1500x1000/Primary-Image-Litecoin-Wallet-fe8792642f5a40d4855962cc3985c10e.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/G4Iw7pwm-WZ7Z58DpsZSLTlP21c=/1500x1000/Primary-Image-Litecoin-Wallet-fe8792642f5a40d4855962cc3985c10e.jpg"
         }
       ]
     },
@@ -44730,26 +44700,6 @@
           "wordCount": 4318,
           "title": "Raytheon Technologies is reorganizing its four business units into three",
           "imageUrl": "https://media.bizj.us/view/img/12292554/dsc06451*1200xx5790-3257-0-302.jpg"
-        },
-        {
-          "id": "cathie-wood-ark-exact-sciences?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "Ark Innovation ETF has slid 47% during the past year and 76% from its February 2021 peak.",
-          "link": "https://www.thestreet.com/stocks/cathie-wood-ark-exact-sciences?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2023-01-24T20:06:00.000Z",
-          "wordCount": 3424,
-          "title": "Cathie Wood Watch: Ark Unloads Some of a Favorite",
-          "imageUrl": "https://www.thestreet.com/.image/t_share/MTg2OTI0ODQwODA3MDQ5MTA0/cathie-wood_2.jpg"
-        },
-        {
-          "id": "elon-musk-accuses-two-influential-firms-of-controlling-the-stock-market?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "Tesla CEO says investor-advisory firms ISS and Glass Lewis have enormous power.",
-          "link": "https://www.thestreet.com/technology/elon-musk-accuses-two-influential-firms-of-controlling-the-stock-market?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2023-01-24T19:33:00.000Z",
-          "wordCount": 4095,
-          "title": "Elon Musk Accuses Two Influential Firms of Controlling the Stock Market",
-          "imageUrl": "https://www.thestreet.com/.image/t_share/MTkyNzk0OTgyNTI3MDE4MjA1/thumb-elon-musk-2-js-100422.jpg"
         }
       ]
     }
