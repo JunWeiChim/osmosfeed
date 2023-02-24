@@ -838,6 +838,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6252692/",
+          "author": "onze economieredactie",
+          "description": "Boeing heeft de leveringen van zijn 787 Dreamliner stopgezet vanwege een probleem met de romp. Het is de zoveelste tegenslag voor de Amerikaanse vliegtuigbouwer. De levering van de Dreamliner 787 moest al vaker worden stilgelegd.",
+          "link": "https://www.nu.nl/economie/6252692/weer-problemen-met-787-dreamliner-boeing-onderbreekt-leveringen.html",
+          "publishedOn": "2023-02-24T08:08:29.000Z",
+          "wordCount": 876,
+          "title": "Weer problemen met 787 Dreamliner, Boeing onderbreekt leveringen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/dl2xhinalxxh_sqr256.jpg/weer-problemen-met-787-dreamliner-boeing-onderbreekt-leveringen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/dl2xhinalxxh_sqr256.jpg/weer-problemen-met-787-dreamliner-boeing-onderbreekt-leveringen.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6252431/",
           "author": "Douwe van Veen",
           "description": "Hoewel de oorlog tussen Rusland en Oekraïne duizenden kilometers verderop plaatsvindt, heeft die ook gevolgen voor Nederlanders. Die ondervinden we met name bij het betalen van de energierekening en bij het afrekenen in de supermarkt. Zo raakte een jaar oorlog onze portemonnee.",
@@ -20313,21 +20328,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/CvgNu5fVng8B_uOKnGZ6gjkulRs=/2121x1414/GettyImages-1133438028-28bdfa483acd4544a110002711c2f224.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/sap-q4-2022-earnings-preview-7099112",
-          "author": "Lyle Niedens",
-          "description": "Spending on growth and reduced licensing and venture capital contributions likely reduced fourth-quarter earnings at SAP, whose sales growth in key cloud services remains strong.",
-          "link": "https://www.investopedia.com/sap-q4-2022-earnings-preview-7099112?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-25T20:15:40.000Z",
-          "wordCount": 3424,
-          "title": "SAP's Likely Q4 Profit Dip Belies Strong Cloud Business",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ZC8ujEz2eV4vhbuR1dxP6Kcnm7U=/4804x3203/GettyImages-1204124517-1162a9fb90e14e5b9ac596def458e1af.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ZC8ujEz2eV4vhbuR1dxP6Kcnm7U=/4804x3203/GettyImages-1204124517-1162a9fb90e14e5b9ac596def458e1af.jpg"
         }
       ]
     },
@@ -20336,6 +20336,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "asia-stocks-open-mixed-bumpy-224011362.html",
+          "author": null,
+          "description": "(Bloomberg) -- Contracts for US equities edged lower and stocks in Asia retreated as investors awaited key data for clues on the Federal Reserve’s rate-hike campaign.Most Read from BloombergApple Makes Major Progress on No-Prick Blood Glucose Tracking for Its WatchRussian Support for Putin’s War in Ukraine Is HardeningChina’s Cease-Fire Proposal for Ukraine Gets Quick DismissalPlane Forced to U-Turn Minutes Before Landing Sends Passengers Back HomeJerome Powell’s Worst Fear Risks Coming True in",
+          "link": "https://finance.yahoo.com/news/asia-stocks-open-mixed-bumpy-224011362.html",
+          "publishedOn": "2023-02-24T06:56:22.000Z",
+          "wordCount": 14387,
+          "title": "US Futures, Asia Stocks Drop Ahead of PCE Data: Markets Wrap",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/58258e9b3c23efe86b1e836f852fc75f"
+        },
         {
           "id": "ignore-noise-2-lithium-stocks-030835475.html",
           "author": null,
@@ -20495,6 +20505,16 @@
           "wordCount": 13703,
           "title": "Warner Bros. Discovery sinks on earnings miss, weak advertising revenue",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/KIsUKk6a5duy4F4.2Oh96Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mjk-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/616859c0-49cf-11ed-a7df-1de7c6cff620"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/research/best-stocks-to-buy-now/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-02-23T20:36:04.000Z",
+          "wordCount": null,
+          "title": "These Are The 5 Best Stocks To Buy And Watch Now",
+          "imageUrl": null
         },
         {
           "id": "survey-bad-news-for-employees-looking-for-raises-remote-work-and-shorter-work-weeks-203048563.html",
@@ -21345,6 +21365,16 @@
           "wordCount": 13543,
           "title": "After-Hours Alert: Why Teladoc Stock Is Diving",
           "imageUrl": "https://media.zenfs.com/en/Benzinga/b766d9354e80bc154db7674f41ec3416"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/research/cheap-stocks-to-buy/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-02-22T23:20:16.000Z",
+          "wordCount": null,
+          "title": "Cheap Stocks To Buy: Should You Watch These 5 Growth Stocks?",
+          "imageUrl": null
         },
         {
           "id": "why-sunrun-stock-moving-wednesdays-231423552.html",
@@ -44435,56 +44465,6 @@
           "wordCount": 13812,
           "title": "Microsoft's growth rate may have just bottomed: Analyst",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Kg.t3NgRi4W5aGa7sLHlVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/12d9a150-9cf0-11ed-9592-e45f88d34804"
-        },
-        {
-          "id": "cathie-wood-gets-back-track-201317253.html",
-          "author": null,
-          "description": "Cathie Wood made her name by backing growth-oriented and cutting-edge stocks with her Ark Innovation ETF (ARKK) delivering huge returns for investors before and during the Covid-era. That all changed, however, as market sentiment shifted, and the past two years have seen the once-lauded investor’s reputation take a hit with the ARKK fund posting huge losses. But, so far, 2023 is turning out to be a turnaround story. ARKK is up nearly 20% since the turn of the year. Meanwhile, Wood has been loadi",
-          "link": "https://finance.yahoo.com/news/cathie-wood-gets-back-track-201317253.html",
-          "publishedOn": "2023-01-25T20:13:17.000Z",
-          "wordCount": 14710,
-          "title": "Cathie Wood Gets Back on Track; Here Are 2 Stocks She’s Snapping Up",
-          "imageUrl": "https://media.zenfs.com/en/tipranks_452/2757f377db94d171787c7d64db9936d9"
-        },
-        {
-          "id": "5-reits-highest-paying-dividends-200958598.html",
-          "author": null,
-          "description": "Real estate investment trusts (REITs) have long been a popular investment option for those looking for steady income streams. These trusts are required by law to distribute at least 90% of their taxable income to shareholders in the form of dividends, making them a great choice for investors seeking regular cash flow. But, not all REITs are created equal when it comes to dividends. Some REITs offer higher yields than others, making them potentially more attractive investments. We'll take a close",
-          "link": "https://finance.yahoo.com/news/5-reits-highest-paying-dividends-200958598.html",
-          "publishedOn": "2023-01-25T20:09:58.000Z",
-          "wordCount": 14420,
-          "title": "5 REITs With The Highest Paying Dividends: How To Supercharge Your Portfolio",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/5091fa4365501cae1be44b0d6ec38e92"
-        },
-        {
-          "id": "amd-nvidia-broadcom-chip-stock-price-51674676155?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Over last two decades, the semiconductor sector has declined in consecutive years only twice, Mizuho says.",
-          "link": "https://www.barrons.com/articles/amd-nvidia-broadcom-chip-stock-price-51674676155?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-25T19:50:00.000Z",
-          "wordCount": 6843,
-          "title": "AMD, Nvidia, and 2 More Chip Stocks to Buy for 2023, According to an Analyst",
-          "imageUrl": "https://images.barrons.com/im-709888/social"
-        },
-        {
-          "id": "nextera-announces-retirement-of-florida-power-light-ceo-and-comments-on-campaign-finance-allegations-11674675681?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "NextEra's stock fell after mixed quarterly results, while Wall Street focused on comments about allegations of subsidiary's campaign-finance violations.",
-          "link": "https://www.marketwatch.com/story/nextera-announces-retirement-of-florida-power-light-ceo-and-comments-on-campaign-finance-allegations-11674675681?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-25T19:41:00.000Z",
-          "wordCount": 5989,
-          "title": "NextEra announces retirement of Florida Power & Light CEO and comments on campaign-finance allegations",
-          "imageUrl": "https://images.mktw.net/im-710064/social"
-        },
-        {
-          "id": "capitol-one-financial-stock-jumps-PEd15S5eHiFz3g693JUP?yptr=yahoo",
-          "author": null,
-          "description": "Shares of Capital One Financial rose Wednesday after the company reported an increase in fourth-quarter revenue, driven by higher net interest income and non-interest income.\nThe financial services company's stock was recently up more than 9% as broader markets edged lower.\n\nThe company said late",
-          "link": "https://www.wsj.com/livecoverage/stock-market-news-today-01-25-2023/card/capitol-one-financial-stock-jumps-PEd15S5eHiFz3g693JUP?yptr=yahoo",
-          "publishedOn": "2023-01-25T19:30:01.000Z",
-          "wordCount": 7006,
-          "title": "Capitol One Financial Stock Jumps",
-          "imageUrl": "https://images.wsj.net/im-710133?width=600"
         }
       ]
     }
