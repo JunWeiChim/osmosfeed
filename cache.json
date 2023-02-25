@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "0441f6fc71c036f1a7f4d254971e48a3",
+          "author": "Investopedia",
+          "description": "Warren Buffett's Berkshire Hathaway posted a big loss due to market volatility but plans to have a \"boatload\" of cash.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8462d5e90cad552b8dc330a2e6322c9845468e3c8a2ba2df403e42dd6e81279c81126dd1e33dbdf9e725f0a58228b138ec3842d5651a59055fae",
+          "publishedOn": "2023-02-25T17:11:31.334Z",
+          "wordCount": 412,
+          "title": "Berkshire Hathaway Posts A Big Loss, Hoards Cash",
+          "imageUrl": null
+        },
+        {
           "id": "5642bf8d0ac87b3a6c13b8ef4a0eec00",
           "author": "Investopedia",
           "description": "Facebook parent Meta Platforms (META) announced the launch of a large language artificial intelligence (AI) model known as LLaMA.",
@@ -6979,6 +6989,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/f/form-1065.asp",
+          "author": "Rajeev Dhir",
+          "description": "Form 1065: U.S. Return of Partnership Income is a tax document issued by the IRS used to declare the profits, losses, deductions, and credits of a business partnership.",
+          "link": "https://www.investopedia.com/terms/f/form-1065.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-25T16:55:48.000Z",
+          "wordCount": 4330,
+          "title": "Form 1065: U.S. Return of Partnership Income⁠—Definition, Filing",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/rkCieGQMssU_9sSueHLTTZkzY_w=/1920x1280/income-tax-491626_19201-0944466917da4ad689f1b3cf0a8ce176.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/rkCieGQMssU_9sSueHLTTZkzY_w=/1920x1280/income-tax-491626_19201-0944466917da4ad689f1b3cf0a8ce176.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/03/120403.asp",
+          "author": "Troy Segal",
+          "description": "You must have earned the income for it to be considered compensation for the purposes of contributing to an IRA.",
+          "link": "https://www.investopedia.com/ask/answers/03/120403.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-02-25T16:13:20.000Z",
+          "wordCount": 5668,
+          "title": "Can a Person Who Is Retired Continue to Fund an IRA?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/0WK_2ShoBB1ES1EEdVdlZKS8wk8=/680x440/ira-5bfc2f9346e0fb00260be21a.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/0WK_2ShoBB1ES1EEdVdlZKS8wk8=/680x440/ira-5bfc2f9346e0fb00260be21a.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/financial-advisors/102715/pros-and-cons-creating-backdoor-roth-ira.asp",
           "author": "Jean Folger",
@@ -20323,21 +20363,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/xRBnDSJVKZblHUSzx1Ji1tgka7U=/1800x774/GettyImages-1032783204_1800px-24b16756a62348259dbc674ddbd5fab7.png"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/l/laffercurve.asp",
-          "author": "Adam Hayes",
-          "description": "The Laffer Curve displays the relationship between tax rates and tax revenue collected by governments.",
-          "link": "https://www.investopedia.com/terms/l/laffercurve.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-27T04:53:38.000Z",
-          "wordCount": 5336,
-          "title": "Laffer Curve: History and Critique",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Mj5srQCmoCwgCteXgbLZp-tmFGw=/1080x722/Laffercurve_final-591f9467d978430d990a3018da1a6d63.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Mj5srQCmoCwgCteXgbLZp-tmFGw=/1080x722/Laffercurve_final-591f9467d978430d990a3018da1a6d63.png"
         }
       ]
     },
@@ -20346,6 +20371,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "berkshire-hathaway-loss-buffett-shareholder-letter-7151633?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "Warren Buffett's Berkshire Hathaway posted a big loss due to market volatility but plans to have a \"boatload\" of cash.",
+          "link": "https://www.investopedia.com/berkshire-hathaway-loss-buffett-shareholder-letter-7151633?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-02-25T15:44:47.000Z",
+          "wordCount": 4167,
+          "title": "Berkshire Hathaway Posts A Big Loss, Hoards Cash",
+          "imageUrl": "https://www.investopedia.com/thmb/KbdnAlawYiAuGbhp2BazXu3jv-E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-73562040-bd2b8dd0386442299a65560a636cc141.jpg"
+        },
+        {
+          "id": "buffett-touts-benefits-buybacks-shareholder-150246183.html",
+          "author": null,
+          "description": "Billionaire Warren Buffett said critics of stock buybacks are “either an economic illiterate or a silver-tongued demagogue” or both and all investors benefit from them as long as they are made at the right prices.  Buffett used part of his annual letter to Berkshire Hathaway shareholders Saturday to tout the benefits of repurchases that fiery Wall Street critics like Sens.  Elizabeth Warren and Bernie Sanders and many other Democrats love to criticize.",
+          "link": "https://finance.yahoo.com/news/buffett-touts-benefits-buybacks-shareholder-150246183.html",
+          "publishedOn": "2023-02-25T15:02:46.000Z",
+          "wordCount": 13803,
+          "title": "Buffett touts benefits of buybacks in his shareholder letter",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/0pmMJF.h5pBnpNj_9LK27g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/cbad3b818aed96c1c718a253ee00fa93"
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
@@ -20385,6 +20430,26 @@
           "wordCount": 15173,
           "title": "I Have $40,000 to Invest. What's the Most Lucrative Way to Do So?",
           "imageUrl": "https://media.zenfs.com/en/smartasset_475/62e090f755ab23744897e8c3502bdd19"
+        },
+        {
+          "id": "keep-tax-changes-mind-2023-164601305.html",
+          "author": null,
+          "description": "Tax season is well underway once again. For those who got an early jump and already filed their 2022 taxes, it's never too soon to start thinking about your tax plan for 2023. While filers shouldn't expect a whole lot … Continue reading → The post Keep These Tax Changes in Mind in 2023 appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/keep-tax-changes-mind-2023-164601305.html",
+          "publishedOn": "2023-02-25T14:00:32.000Z",
+          "wordCount": 14387,
+          "title": "2023 Tax Changes You Need to Know About Now",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/ba22680193df4c4b6c9f3dcfb97441d1"
+        },
+        {
+          "id": "ask-advisor-am-giving-away-195756248.html",
+          "author": null,
+          "description": "Why does a financial advisor get a fee of 1% or more? That seems really high. If my return is only 4% (for example, in dividends), I am giving away 25% of my return, which is even worse with a … Continue reading → The post Ask an Advisor: ‘I Am Giving Away 25% of My Return.' Why Does a Financial Advisor Earn a 1% Fee, Even in a Bear Market? appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/ask-advisor-am-giving-away-195756248.html",
+          "publishedOn": "2023-02-25T14:00:30.000Z",
+          "wordCount": 14645,
+          "title": "Ask an Advisor: ‘I Am Giving Away 25% of My Return.' Why Does a Financial Advisor Earn a 1% Fee, Even in a Bear Market?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Kl3qzsExJIqPzlaBv1LmOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/smartasset_475/eb58b4d557a5f4fb658f0fa5f0661f03"
         },
         {
           "id": "rich-young-americans-lost-confidence-110000070.html",
@@ -44265,26 +44330,6 @@
           "wordCount": 14566,
           "title": "Adani Group Stocks Plunge, Extending Rout After Hindenburg Report",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/47jfl5VjjNJpVsPYgxdg3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/ab47ea8c6d66122b24a5744e978b4b01"
-        },
-        {
-          "id": "bill-ackman-calls-hindenburgs-adani-022605708.html",
-          "author": null,
-          "description": "(Bloomberg) -- Pershing Square’s Bill Ackman found the Hindenburg Research’s report on Adani Group companies “highly credible and extremely well researched,” he said in a Twitter post, less than two days after the American short seller’s swipe at the Indian conglomerate shaved $12 billion off its market value. Most Read from BloombergAdani Rout Crosses $51 Billion as Stocks Plunge by Daily LimitsHindenburg vs Adani: The Short Seller Taking On Asia’s Richest PersonWe Asked ChatGPT to Make a Marke",
-          "link": "https://finance.yahoo.com/news/bill-ackman-calls-hindenburgs-adani-022605708.html",
-          "publishedOn": "2023-01-27T05:10:12.000Z",
-          "wordCount": 14515,
-          "title": "Bill Ackman Calls Hindenburg's Adani Report ‘Highly Credible’",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/iCRDtXpysCpK9NaOUhG7mg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/e6f08aa569000c36a45853e6ff710de0"
-        },
-        {
-          "id": "file-own-taxes-pay-someone-050107970.html",
-          "author": null,
-          "description": "Each year, people wonder if they should do their own taxes or enlist a professional. Here are some things to consider when making that decision.",
-          "link": "https://finance.yahoo.com/news/file-own-taxes-pay-someone-050107970.html",
-          "publishedOn": "2023-01-27T05:01:07.000Z",
-          "wordCount": 14692,
-          "title": "Should you file your own taxes or pay someone this tax season? Here's what to consider.",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/tFlFcsv0hQ6TIrsC9i5wLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Nzk-/https://media.zenfs.com/en/usa_today_money_325/92e43a6467468ffffa99647e0e9c8c5a"
         }
       ]
     }
