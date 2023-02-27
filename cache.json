@@ -768,6 +768,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6253089/",
+          "author": "Tim Wijkman-van Aalst",
+          "description": "De mobiele netwerken van KPN, Vodafone en T-Mobile zijn de beste netwerken ter wereld. Dat blijkt uit een vergelijkingstest van het Duitse onderzoeksbureau Umlaut. Het mobiele netwerk van KPN behaalde zelfs de hoogste score ooit gemeten.",
+          "link": "https://www.nu.nl/tech/6253089/onze-mobiele-netwerken-zijn-de-beste-ter-wereld.html",
+          "publishedOn": "2023-02-27T08:43:21.000Z",
+          "wordCount": 994,
+          "title": "Onze mobiele netwerken zijn de beste ter wereld",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/r25x3z4a2c2u_sqr256.jpg/onze-mobiele-netwerken-zijn-de-beste-ter-wereld.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/r25x3z4a2c2u_sqr256.jpg/onze-mobiele-netwerken-zijn-de-beste-ter-wereld.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6253068/",
           "author": "onze economieredactie",
           "description": "PostNL wil dit jaar twee- tot driehonderd voltijdbanen schrappen. Daarbij worden gedwongen ontslagen niet uitgesloten. Ook neemt het postbedrijf andere maatregelen om kosten te besparen. Bij PostNL werken zo'n 37.000 mensen.",
@@ -20453,21 +20468,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/VjUIx3g5IkHvsKd4oWwAR8Wzg3w=/205x136/investing13-5bfc2b8f46e0fb0026016f4d.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/non-fungible-tokens-nft-5115211",
-          "author": "Rakesh Sharma",
-          "description": "NFTs are cryptographic tokens that cannot be replicated. They can be used for transactions, have created new markets, and may have more use cases in the future.",
-          "link": "https://www.investopedia.com/non-fungible-tokens-nft-5115211?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-28T20:38:25.000Z",
-          "wordCount": 5763,
-          "title": "Non-Fungible Token (NFT): What It Means and How It Works",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/hnPHcv5enuYfClzY3Bu8OxhRxa8=/1500x1000/NFT_final-aa004ce971d24aecaa3f93688a35dec3.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/hnPHcv5enuYfClzY3Bu8OxhRxa8=/1500x1000/NFT_final-aa004ce971d24aecaa3f93688a35dec3.png"
         }
       ]
     },
@@ -20476,6 +20476,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "adani-world-tour-seeks-win-001819203.html",
+          "author": null,
+          "description": "(Bloomberg) -- Most Adani Group stocks fell as the embattled Indian conglomerate kicked off a charm offensive with fixed-income investors in Asia, its latest effort to stem the fallout from a short-seller’s attack. Most Read from BloombergNigeria Latest: Tinubu Wins Ekiti Vote; Next Briefing at 11 a.m.Covid-19 Pandemic Most Likely Came From Lab Leak: WSJUkraine Latest: Saudi Foreign Minister in Surprise Visit to KyivMusk Deflects Criticism of Dilbert Cartoonist’s Racist CommentsGoldman Turns to",
+          "link": "https://finance.yahoo.com/news/adani-world-tour-seeks-win-001819203.html",
+          "publishedOn": "2023-02-27T08:10:50.000Z",
+          "wordCount": 14017,
+          "title": "Adani Stocks Fall as Firm Starts Tour to Win Back Investors",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/837866d8180e1460e8b31cc89c1709b7"
+        },
+        {
+          "id": "asian-shares-follow-wall-street-lower-after-stronger-than-expected-data-8ea8d374?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shares fell Monday in Asia after Wall Street benchmarks closed out their worst week since early December. U.S. futures edged higher while oil prices fell.",
+          "link": "https://www.marketwatch.com/story/asian-shares-follow-wall-street-lower-after-stronger-than-expected-data-8ea8d374?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-27T06:53:00.000Z",
+          "wordCount": 7376,
+          "title": "Asian shares follow Wall Street lower after stronger-than-expected data",
+          "imageUrl": "https://images.mktw.net/im-732220/social"
+        },
         {
           "id": "dot-com-bubble-nasdaq-performance-inflation-aa8caaf5?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -20535,6 +20555,16 @@
           "wordCount": 1678,
           "title": "Oxy and Anadarko: how the ‘dumbest deal in history’ paid off for Vicki Hollub",
           "imageUrl": null
+        },
+        {
+          "id": "indian-fintech-cred-adds-buy-042849092.html",
+          "author": null,
+          "description": "CRED is rolling out a buy now and pay later service and a tap to pay feature as the Indian fintech platform broadens its offerings to boost engagement and monetization on the platform.  Cred flash, the Bengaluru-headquartered startup’s foray into buy now and pay later category, will allow customers to make seamless payment on the app and across over 500 partner merchants including Swiggy, Zepto and Urban Company and clear the bill at no charge in 30 days.  The customized credit extended to customers will allow them to make bill payments and recharges and other expenses with a single swipe and without having to wait for an OTP authentication code, said the startup, which is valued at over $6 billion.",
+          "link": "https://finance.yahoo.com/news/indian-fintech-cred-adds-buy-042849092.html",
+          "publishedOn": "2023-02-27T04:28:49.000Z",
+          "wordCount": 13946,
+          "title": "Indian fintech CRED adds buy now, pay later and tap to pay offerings",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/fbvZo1kh1n8mi.NHqnQUYg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NTQ-/https://media.zenfs.com/en/techcrunch_350/76471a4fc5cf6bfd20d12604279c8ead"
         },
         {
           "id": "china-hotpot-chain-surges-20-042121844.html",
@@ -43875,46 +43905,6 @@
           "wordCount": 6810,
           "title": "Salesforce Can Bid Aloha to Big Deals",
           "imageUrl": "https://images.wsj.net/im-712427/social"
-        },
-        {
-          "id": "bond-market-comeback-2023-heading-210000867.html",
-          "author": null,
-          "description": "(Bloomberg) -- The bond-market’s bulls are poised for the first major test of 2023.Most Read from BloombergPension Funds in Historic Surplus Eye $1 Trillion of Bond-BuyingAdani’s Detailed Hindenburg Reply Now Said to Be Post-Share SaleFed Set to Shrink Rate Hikes Again as Inflation SlowsA Billionaire’s Luxury Development Fuels Fight Over Texas Hill CountryAdani Rout Crosses $51 Billion as Stocks Plunge by Daily LimitsTreasuries rallied this month on widespread anticipation that the Federal Reser",
-          "link": "https://finance.yahoo.com/news/bond-market-comeback-2023-heading-210000867.html",
-          "publishedOn": "2023-01-28T21:00:00.000Z",
-          "wordCount": 14233,
-          "title": "The Bond-Market Comeback of 2023 Is Heading to First Big Test",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/730ecc19c819180ab692f6763785e3ec"
-        },
-        {
-          "id": "fed-set-shrink-rate-hikes-210000812.html",
-          "author": null,
-          "description": "(Bloomberg) -- Sign up for the New Economy Daily newsletter, follow us @economics and subscribe to our podcast.Most Read from BloombergPension Funds in Historic Surplus Eye $1 Trillion of Bond-BuyingAdani’s Detailed Hindenburg Reply Now Said to Be Post-Share SaleAdani Rout Crosses $51 Billion as Stocks Plunge by Daily LimitsPutin Plans New Ukraine Push Despite Losses as He Prepares for Years of WarA Billionaire’s Luxury Development Fuels Fight Over Texas Hill CountryFederal Reserve officials are",
-          "link": "https://finance.yahoo.com/news/fed-set-shrink-rate-hikes-210000812.html",
-          "publishedOn": "2023-01-28T21:00:00.000Z",
-          "wordCount": 15335,
-          "title": "Fed Set to Shrink Rate Hikes Again as Inflation Slows",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/OxuWsGxMx1o3KDNhG.ME9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/fa9e43c4d76bd21af6eea45379aef535"
-        },
-        {
-          "id": "elon-musk-cautions-fed-further-204044953.html",
-          "author": null,
-          "description": "Tesla Inc CEO Elon Musk raised concerns about the Federal Reserve increasing the interest rate by saying it could crush the stock market. During Tesla's fourth-quarter earnings call last week, Musk said he's worried that rates will soon exceed the average return of the S&P 500 if the Fed pushes interest rates past 6%, reports the Business Insider. \"I think the Fed needs to be very cautious about having a Fed rate that potentially exceeds 6%,\" BI quoted him saying during the earnings call. \"Why d",
-          "link": "https://finance.yahoo.com/news/elon-musk-cautions-fed-further-204044953.html",
-          "publishedOn": "2023-01-28T20:40:44.000Z",
-          "wordCount": 13743,
-          "title": "Elon Musk Cautions Fed On Further Interest Rate Hikes: 'Quite A Serious Danger' Of Crushing Stock Market",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/fa87a6ffac40d75daf3254214bdb9037"
-        },
-        {
-          "id": "chatgpt-down-time-people-keep-202147375.html",
-          "author": null,
-          "description": "ChatGPT maker OpenAI and similar ventures have seen their ideas catch on very quickly, says Elad Gil.",
-          "link": "https://finance.yahoo.com/news/chatgpt-down-time-people-keep-202147375.html",
-          "publishedOn": "2023-01-28T20:21:47.000Z",
-          "wordCount": 14155,
-          "title": "ChatGPT is ‘down all the time’ and people keep using it. What that says to Google alum Elad Gil about bad Silicon Valley advice",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ohyIrlWDz3m2Mt8jCdl7Pw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/24061e64333b763437ae74500cbbe924"
         }
       ]
     }
