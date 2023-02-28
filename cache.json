@@ -808,6 +808,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6253228/",
+          "author": "Tim Wijkman-van Aalst",
+          "description": "Kinderen van wie naaktbeelden online staan, kunnen die foto's laten verwijderen met behulp van Take It Down. Dat programma is bedoeld om kindermisbruik en -uitbuiting op sociale media aan te pakken.",
+          "link": "https://www.nu.nl/tech/6253228/kinderen-kunnen-met-hulpprogramma-naaktfotos-van-internet-verwijderen.html",
+          "publishedOn": "2023-02-28T08:51:01.000Z",
+          "wordCount": 963,
+          "title": "Kinderen kunnen met hulpprogramma naaktfoto's van internet verwijderen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/mjmx4qmavqb3_sqr256.jpg/kinderen-kunnen-met-hulpprogramma-naaktfotos-van-internet-verwijderen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/mjmx4qmavqb3_sqr256.jpg/kinderen-kunnen-met-hulpprogramma-naaktfotos-van-internet-verwijderen.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6253224/",
           "author": "Tom van Gurp",
           "description": "Veel fabrikanten van levensmiddelen verkleinden de laatste tijd de inhoud van hun producten, maar hielden de prijs hetzelfde of verhoogde deze zelfs. Dit leidt tot veel ergernis bij consumenten, stelt de Consumentenbond die hierover negenhonderd meldingen ontving.",
@@ -21358,21 +21373,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/NIWDmwW_HD-7bwMGoJJ4fZzTuUw=/2121x1414/u-s-tax-filing-1090495926-e2d35df4094146a587089d7b3158e64c.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/tech/what-happens-bitcoin-after-21-million-mined/",
-          "author": "Adam Hayes",
-          "description": "Bitcoin, the first and most popular cryptocurrency, is finite. What happens when it reaches its total maximum supply of 21 million bitcoins?",
-          "link": "https://www.investopedia.com/tech/what-happens-bitcoin-after-21-million-mined/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-29T20:36:48.000Z",
-          "wordCount": 4801,
-          "title": "What Happens to Bitcoin After All 21 Million Are Mined?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ev_6ndzJQLpvLQf8O46w5vqpsA4=/2121x1414/GettyImages-938189922-f37c7982c2234640bad2feb65f67d62e.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ev_6ndzJQLpvLQf8O46w5vqpsA4=/2121x1414/GettyImages-938189922-f37c7982c2234640bad2feb65f67d62e.jpg"
         }
       ]
     },
@@ -21381,6 +21381,36 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "bayer-4q-sales-eur12b-1647faa3?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The German agricultural and pharmaceutical company posted net profit of 611 million euros ($648.3 million) for the final quarter of 2022, down from EUR1.16...",
+          "link": "https://www.marketwatch.com/story/bayer-4q-sales-eur12b-1647faa3?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-28T07:36:00.000Z",
+          "wordCount": 6907,
+          "title": "Bayer warns on 2023 earnings as inflation remains high, after disappointing quarter",
+          "imageUrl": "https://images.mktw.net/im-504205/social"
+        },
+        {
+          "id": "china-growing-local-debt-means-210000802.html",
+          "author": null,
+          "description": "(Bloomberg) -- When China’s leaders gather in Beijing for the annual parliament next week, one of the biggest economic risks they’ll need to tackle is the mounting debt of provinces.Most Read from BloombergElon Musk Regains His Spot as the World’s Richest PersonNigeria Latest: Tinubu Wins in Six States; Obi Takes ThreeTD Bank to Pay $1.2 Billion to End Suit Tied to Ponzi SchemeHong Kong Ends One of World’s Longest Mask Mandates After 945 DaysNigeria Latest: Tinubu Wins Ekiti Vote; Next Briefing",
+          "link": "https://finance.yahoo.com/news/china-growing-local-debt-means-210000802.html",
+          "publishedOn": "2023-02-28T06:51:20.000Z",
+          "wordCount": 14711,
+          "title": "China Debt Blowout Rings Alarm Bells as Leadership Meets",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/vYoGF5emFnV4sroBQMR9ug--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mjg-/https://media.zenfs.com/en/bloomberg_markets_842/a2f351cd6195e692b648b28b7ec1d737"
+        },
+        {
+          "id": "moderna-stock-outlook-covid-220ab37e?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Troubles that were put off during the biotech’s pandemic-era boom, notably various intellectual property wrinkles, are now coming home to roost.",
+          "link": "https://www.barrons.com/articles/moderna-stock-outlook-covid-220ab37e?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-02-28T05:31:00.000Z",
+          "wordCount": 7012,
+          "title": "Moderna’s Covid Boom Is Ending. Why the Outlook Isn’t All Grim.",
+          "imageUrl": "https://images.barrons.com/im-732633/social"
+        },
         {
           "id": "energy-stocks-invest-exxon-5388cbae?siteid=yhoof2&yptr=yahoo",
           "author": null,
