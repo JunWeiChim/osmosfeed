@@ -492,16 +492,6 @@
           "wordCount": 412,
           "title": "Adani Faces Deadline as Fraud Allegations Spook Investors",
           "imageUrl": null
-        },
-        {
-          "id": "7643471f86cb44e7f1c7dc548e2e3372",
-          "author": "Investopedia",
-          "description": "Apple reports Q1 FY 2023 results on Feb. 2. Analysts expect the tech giant to post falling profit and revenue.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8777d7ee1ae84d68c58821eea06a7fdc095ac2228b31bf95516654c96e833ad485573b92b665e7a4b2",
-          "publishedOn": "2023-01-30T23:13:57.224Z",
-          "wordCount": 412,
-          "title": "Apple Profit Could Fall on China Production, Demand Slowdown",
-          "imageUrl": null
         }
       ]
     },
@@ -847,6 +837,66 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6253428/",
+          "author": "onze techredactie",
+          "description": "Twitter is getroffen door een storing. De website van het sociale netwerk is bereikbaar, maar gebruikers krijgen geen tijdlijn met berichten te zien.",
+          "link": "https://www.nu.nl/tech/6253428/twitter-laat-door-storing-geen-tijdlijn-zien.html",
+          "publishedOn": "2023-03-01T12:25:45.000Z",
+          "wordCount": 867,
+          "title": "Twitter laat door storing geen tijdlijn zien",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/h15x6tgaev2a_sqr256.jpg/twitter-laat-door-storing-geen-tijdlijn-zien.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/h15x6tgaev2a_sqr256.jpg/twitter-laat-door-storing-geen-tijdlijn-zien.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6253373/",
+          "author": "Noémi van de Pol",
+          "description": "De drie grootste energiebedrijven Eneco, Essent en Vattenfall hanteren geen onredelijke tarieven, oordeelt de Autoriteit Consument & Markt (ACM). Hoewel de Tweede Kamer hier bang voor was, blijkt de winst op de tarieven niet hoger te zijn dan in eerdere jaren.",
+          "link": "https://www.nu.nl/economie/6253373/toezichthouder-vindt-energieprijzen-van-grote-leveranciers-niet-te-hoog.html",
+          "publishedOn": "2023-03-01T12:23:24.000Z",
+          "wordCount": 1312,
+          "title": "Toezichthouder vindt energieprijzen van grote leveranciers niet te hoog",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/64ox3juav0be_sqr256.jpg/toezichthouder-vindt-energieprijzen-van-grote-leveranciers-niet-te-hoog.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/64ox3juav0be_sqr256.jpg/toezichthouder-vindt-energieprijzen-van-grote-leveranciers-niet-te-hoog.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6253431/",
+          "author": "onze economieredactie",
+          "description": "De hoge winst van Ahold Delhaize sijpelt ook door in de toplaag van het moederbedrijf van Albert Heijn en bol.com. Zo zag topman Frans Muller zijn beloning over vorig jaar met tonnen stijgen tot ruim 6,5 miljoen euro. Dat valt te lezen in het jaarverslag van het concern.",
+          "link": "https://www.nu.nl/economie/6253431/beloning-topman-ahold-delhaize-kwam-vorig-jaar-uit-op-65-miljoen-euro.html",
+          "publishedOn": "2023-03-01T12:19:39.000Z",
+          "wordCount": 888,
+          "title": "Beloning topman Ahold Delhaize kwam vorig jaar uit op 6,5 miljoen euro",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/uo9xn70ayumw_sqr256.jpg/beloning-topman-ahold-delhaize-kwam-vorig-jaar-uit-op-65-miljoen-euro.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/uo9xn70ayumw_sqr256.jpg/beloning-topman-ahold-delhaize-kwam-vorig-jaar-uit-op-65-miljoen-euro.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6253391/",
+          "author": "Tim Wijkman-van Aalst",
+          "description": "DigiD kampt woensdagochtend met een storing. Daardoor ervaren gebruikers problemen bij het inloggen op verschillende overheidswebsites. Zo is het nu niet mogelijk om de belastingaangifte in te vullen.",
+          "link": "https://www.nu.nl/economie-en-tech/6253391/problemen-bij-digid-inloggen-voor-belastingaangifte-niet-mogelijk.html",
+          "publishedOn": "2023-03-01T11:43:15.000Z",
+          "wordCount": 866,
+          "title": "Problemen bij DigiD, inloggen voor belastingaangifte niet mogelijk",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/33ixzthajl2c_sqr256.jpg/problemen-bij-digid-inloggen-voor-belastingaangifte-niet-mogelijk.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/33ixzthajl2c_sqr256.jpg/problemen-bij-digid-inloggen-voor-belastingaangifte-niet-mogelijk.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6253411/",
           "author": "Tim Wijkman-van Aalst",
@@ -7154,6 +7204,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/active-trading/061615/how-stock-options-are-taxed-reported.asp",
+          "author": "Barbara Weltman",
+          "description": "The tax rules for stock options are complex. If you receive stock options, talk with your tax advisor to determine how these tax rules affect you.",
+          "link": "https://www.investopedia.com/articles/active-trading/061615/how-stock-options-are-taxed-reported.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-01T12:02:14.000Z",
+          "wordCount": 4711,
+          "title": "How Stock Options Are Taxed & Reported",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/SOuL6kWPfUlqMTlRKkcrKHdv54U=/680x440/thinkstockphotos-aa000745-5bfc3467c9e77c0026320847.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/SOuL6kWPfUlqMTlRKkcrKHdv54U=/680x440/thinkstockphotos-aa000745-5bfc3467c9e77c0026320847.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/s/scheduled.asp",
+          "author": "Julia Kagan",
+          "description": "Schedule D is a tax form attached to Form 1040 that reports the gains or losses you realize from the sale of your capital assets.",
+          "link": "https://www.investopedia.com/terms/s/scheduled.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-01T11:38:18.000Z",
+          "wordCount": 4820,
+          "title": "What Is Schedule D: Capital Gains and Losses? Example With Taxes",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/XJlxVv_56OeC246XwcosSSRfEPw=/2121x1414/GettyImages-160616076-5b11ad0952424bcbbaf08301bdd6515c.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/XJlxVv_56OeC246XwcosSSRfEPw=/2121x1414/GettyImages-160616076-5b11ad0952424bcbbaf08301bdd6515c.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/d/death-taxes.asp",
           "author": "Julia Kagan",
@@ -21458,36 +21538,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/uNQxqmcH-sCNPRxdaxgaHch8b8o=/2000x1500/bankruptcy-3596095b06bf4a4a82d27ebb4a314f0e.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/m/mdanalysis.asp",
-          "author": "Marshall Hargrave",
-          "description": "Management discussion and analysis (MD&A) is a section of a company's annual report in which management discusses numerous aspects of the company, both past and present.",
-          "link": "https://www.investopedia.com/terms/m/mdanalysis.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-31T00:11:32.000Z",
-          "wordCount": 5126,
-          "title": "Management Discussion and Analysis (MD&A): Definition and Example",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/W-dPVW6OawNp8yKVG_gQ45z2ysk=/2124x1412/GettyImages-142550059-6f5c3b2d7169498388016759c1b2718c.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/W-dPVW6OawNp8yKVG_gQ45z2ysk=/2124x1412/GettyImages-142550059-6f5c3b2d7169498388016759c1b2718c.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/142.asp",
-          "author": "Denise Appleby",
-          "description": "If you are no longer working with the employer that established your 403(b) account, you can roll over your 403(b) balance into a traditional IRA.",
-          "link": "https://www.investopedia.com/ask/answers/142.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-30T23:41:43.000Z",
-          "wordCount": 4397,
-          "title": "Can You Roll Over a 403(b) to an IRA If You're No Longer Employed?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/jiiwV5sHPGmRZ7heyJvJvLLFBJY=/285x260/retirement-lrg-3-5bfc2b1e46e0fb0026015792.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/jiiwV5sHPGmRZ7heyJvJvLLFBJY=/285x260/retirement-lrg-3-5bfc2b1e46e0fb0026015792.jpg"
         }
       ]
     },
@@ -21497,6 +21547,86 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "nio-and-stocks-of-other-china-based-ev-makers-rally-as-strong-economic-data-out-of-china-offsets-downbeat-earnings-reports-24324cf4?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shares of China-based electric vehicle maker’s rose Wednesday, as strong economic data out of China and investor optimism as Hong Kong lifted its mask...",
+          "link": "https://www.marketwatch.com/story/nio-and-stocks-of-other-china-based-ev-makers-rally-as-strong-economic-data-out-of-china-offsets-downbeat-earnings-reports-24324cf4?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-01T11:51:00.000Z",
+          "wordCount": 6130,
+          "title": "Nio and stocks of other China-based EV makers rally, as strong economic data out of China offsets downbeat earnings reports",
+          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/research/alibaba-stock-buy-now/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-03-01T11:40:52.000Z",
+          "wordCount": null,
+          "title": "Alibaba Stock Surges After Earnings Sell-Off, But Is BABA Stock A Buy Now?",
+          "imageUrl": null
+        },
+        {
+          "id": "im-57-and-will-soon-have-more-than-3-million-from-a-business-sale-my-rich-boss-trusts-his-financial-adviser-but-he-inherited-his-millions-still-should-i-try-his-adviser-f341c28a?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Have a question about your financial adviser or looking for a new one? Email picks@marketwatch.com.",
+          "link": "https://www.marketwatch.com/picks/im-57-and-will-soon-have-more-than-3-million-from-a-business-sale-my-rich-boss-trusts-his-financial-adviser-but-he-inherited-his-millions-still-should-i-try-his-adviser-f341c28a?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-01T11:30:00.000Z",
+          "wordCount": 7534,
+          "title": "I’m 57 and will soon have more than $3 million from a business sale. My rich boss trusts his financial adviser, but he inherited his millions. Still, should I try his adviser?",
+          "imageUrl": "https://images.mktw.net/im-681930/social"
+        },
+        {
+          "id": "lowes-profit-exceeds-expectations-but-revenue-forecast-comes-in-light-78ff978c?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Lowe’s Cos. posted a mixed fiscal fourth-quarter earnings report Wednesday, beating profit expectations but failing to clear analysts’ bar for revenue. The...",
+          "link": "https://www.marketwatch.com/story/lowes-profit-exceeds-expectations-but-revenue-forecast-comes-in-light-78ff978c?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-01T11:30:00.000Z",
+          "wordCount": 5999,
+          "title": "Lowe’s profit exceeds expectations but revenue forecast comes in light",
+          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
+        {
+          "id": "lowes-earnings-stock-price-b4356166?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The home-improvement company reports adjusted earnings of $2.28 a share, more than the $2.21 expected by analysts. Revenue narrowly missed estimates.",
+          "link": "https://www.barrons.com/articles/lowes-earnings-stock-price-b4356166?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-01T11:23:00.000Z",
+          "wordCount": 7000,
+          "title": "Lowe’s Beats Expectations for Fourth-Quarter Earnings",
+          "imageUrl": "https://images.barrons.com/im-733386/social"
+        },
+        {
+          "id": "li-auto-xpeng-nio-stock-deliveries-12534614?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "It's not just EV names: Chinese stocks are roaring higher after encouraging economic data.",
+          "link": "https://www.barrons.com/articles/li-auto-xpeng-nio-stock-deliveries-12534614?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-01T11:20:00.000Z",
+          "wordCount": 7106,
+          "title": "Li Auto, XPeng, and NIO Stocks Soar. EV Deliveries Aren’t Why.",
+          "imageUrl": "https://images.barrons.com/im-393060/social"
+        },
+        {
+          "id": "forget-chatbots-corporate-america-really-110005099.html",
+          "author": null,
+          "description": "(Bloomberg) -- Ever since OpenAI’s ChatGPT lit up the internet in November, companies can't stop talking about artificial intelligence. Take this earnings season so far: References to AI and related terms during calls with investors are already up 77% from a year earlier.Most Read from BloombergHow to Get a Free Flight to Hong Kong in 500,000 Airline Ticket GiveawaySorry, Twitter. Elon Found His Next Shiny Object.Elon Musk Regains His Spot as the World’s Richest PersonApple Suppliers Are Racing",
+          "link": "https://finance.yahoo.com/news/forget-chatbots-corporate-america-really-110005099.html",
+          "publishedOn": "2023-03-01T11:00:05.000Z",
+          "wordCount": 15499,
+          "title": "Forget Chatbots, This Is How Corporate America Is Really Using AI",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Ux5nXFT1yh4LvwDE3i.6TA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/d92d3aa761bc65f985c91c91e5a269be"
+        },
+        {
+          "id": "bad-luck-finds-us-all-heres-exactly-how-much-you-should-have-in-savings-right-now-and-just-how-few-americans-actually-have-this-amount-socked-away-8171503a?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Many high-yield savings accounts are paying more than they have in over a decade, so now is a great time to build up that emergency fund.",
+          "link": "https://www.marketwatch.com/picks/bad-luck-finds-us-all-heres-exactly-how-much-you-should-have-in-savings-right-now-and-just-how-few-americans-actually-have-this-amount-socked-away-8171503a?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-01T11:00:00.000Z",
+          "wordCount": 7245,
+          "title": "‘Bad luck finds us all.’ Here’s exactly how much you should have in savings right now (and just how few Americans actually have this amount socked away)",
+          "imageUrl": "https://images.mktw.net/im-618204/social"
+        },
+        {
           "id": "stock-market-movers-5a3251be?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Expectations are that Tesla could unveil a less expensive car at its investor day event Wednesday. Novavax stock sinks after the vaccine maker says there is 'substantial doubt' about its ability to continue operating through the year.",
@@ -21505,6 +21635,16 @@
           "wordCount": 7083,
           "title": "These Stocks Are Moving the Most Today: Tesla, Rivian, Novavax, AMC, and More",
           "imageUrl": "https://images.barrons.com/im-709209/social"
+        },
+        {
+          "id": "when-we-retire-we-lose-a-lot-how-to-avoid-retirement-shock-417ad18a?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "All at once, we lose our sense of purpose, our identity, our community, our structure and our routines.",
+          "link": "https://www.marketwatch.com/story/when-we-retire-we-lose-a-lot-how-to-avoid-retirement-shock-417ad18a?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-01T10:35:00.000Z",
+          "wordCount": 6124,
+          "title": "‘When we retire, we lose a lot.’ How to avoid retirement shock.",
+          "imageUrl": "https://images.mktw.net/im-722620/social"
         },
         {
           "id": "tesla-investor-day-2023-elon-musk-3b4e3da0?siteid=yhoof2&yptr=yahoo",
@@ -21815,6 +21955,16 @@
           "wordCount": 7057,
           "title": "AMC Earnings Are Today. Grab Your Popcorn.",
           "imageUrl": "https://images.barrons.com/im-733610/social"
+        },
+        {
+          "id": "student-borrowers-anxiously-watch-supreme-201857566.html",
+          "author": null,
+          "description": "Financial future of 40 million Americans hangs in balance as high court weighs Biden plan to forgive up to $20K per borrower.",
+          "link": "https://finance.yahoo.com/news/student-borrowers-anxiously-watch-supreme-201857566.html",
+          "publishedOn": "2023-02-28T20:18:00.000Z",
+          "wordCount": 14710,
+          "title": "Americans sweat Supreme Court ruling on student debt plan",
+          "imageUrl": "https://media.zenfs.com/en/cbsmoneywatch.com/708bee35553127f732d231c33c5ef440"
         },
         {
           "id": "bed-bath-beyond-stock-plunges-more-than-50-in-february-the-second-worst-monthly-performance-in-its-history-d73f9668?siteid=yhoof2&yptr=yahoo",
@@ -45375,16 +45525,6 @@
           "wordCount": null,
           "title": "Is AMC Stock A Buy Or Sell Now? Here's What Fundamentals, Chart Action, Fund Ownership Metrics Say",
           "imageUrl": null
-        },
-        {
-          "id": "judge-rules-identities-2-parties-232810166.html",
-          "author": null,
-          "description": "A number of media companies filed to get the court to release the names of the people who co-signed Bankman-Fried’s $250 million bail bond.",
-          "link": "https://finance.yahoo.com/news/judge-rules-identities-2-parties-232810166.html",
-          "publishedOn": "2023-01-30T23:28:10.000Z",
-          "wordCount": 13461,
-          "title": "Judge Rules Identities of 2 Parties Who Backed Sam Bankman-Fried’s $250B Bond Can Be Revealed",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/pZ6pJi.Vh7VyI7ez9t6ogg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/coindesk_75/4575d44437d9e97fb10ed1b4c814257a"
         }
       ]
     }
