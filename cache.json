@@ -492,16 +492,6 @@
           "wordCount": 412,
           "title": "Alphabet’s Falling Ad Revenue Could Overshadow Cloud Growth",
           "imageUrl": null
-        },
-        {
-          "id": "a049ff56c728ea1303eea99db0048b12",
-          "author": "Investopedia",
-          "description": "Success of the $2.5 billion share sale had been in doubt after a U.S. short-seller accused one of India's largest conglomerates of fraud",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8763c6ec16e84b30869d75b1f72a3f864149c67d842bfc934e274dde78d831c48b5763d6f278bdf3e525f0e1802ae87bb87a5ed2631c",
-          "publishedOn": "2023-01-31T19:10:39.853Z",
-          "wordCount": 412,
-          "title": "Adani Wins Reprieve as Allies Buy Out Offering",
-          "imageUrl": null
         }
       ]
     },
@@ -857,6 +847,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6253523/",
+          "author": "Noémi van de Pol",
+          "description": "De inflatie in februari is uitgekomen op 8 procent, meldt statistiekbureau CBS op basis van nieuwe cijfers. Veel boodschappen werden vorige maand weer duurder. Ook de prijzen van industriële goederen gingen harder omhoog.",
+          "link": "https://www.nu.nl/economie/6253523/duurdere-boodschappen-zorgen-voor-hogere-inflatie-in-februari.html",
+          "publishedOn": "2023-03-02T07:05:59.000Z",
+          "wordCount": 856,
+          "title": "Duurdere boodschappen zorgen voor hogere inflatie in februari",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/vblx6qtauzhd_sqr256.jpg/duurdere-boodschappen-zorgen-voor-hogere-inflatie-in-februari.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/vblx6qtauzhd_sqr256.jpg/duurdere-boodschappen-zorgen-voor-hogere-inflatie-in-februari.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6253410/",
           "author": "Ertan Basekin",
@@ -21878,36 +21883,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/upBY4DbCmcA8hDOiZeLiFxCxA5M=/2120x1414/GettyImages-1333559746-de6bab22a9824284a9293501e9026fcf.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/restaurant-insurance-what-it-is-costs-and-companies-7099460",
-          "author": "Staff Author",
-          "description": "Find out who needs restaurant insurance and what it costs, along with the best insurance companies offering policies for restaurants.",
-          "link": "https://www.investopedia.com/restaurant-insurance-what-it-is-costs-and-companies-7099460?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-31T18:29:45.000Z",
-          "wordCount": 4620,
-          "title": "Restaurant Insurance: What It Is, Costs, and Companies",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/OltUnKxD7MI4OrY3VPcDJMPbu6c=/1500x1000/Primary-Image-restaurant-insurance-what-it-is-costs-and-companies-7099460-39b7909aac5442658dcbf2ca8847d46b.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/OltUnKxD7MI4OrY3VPcDJMPbu6c=/1500x1000/Primary-Image-restaurant-insurance-what-it-is-costs-and-companies-7099460-39b7909aac5442658dcbf2ca8847d46b.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/home-based-business-insurance-what-it-is-costs-and-companies-7100448",
-          "author": "Staff Author",
-          "description": "Home-based business insurance should provide comprehensive coverage and be affordable and easy to obtain. Find out what you need and which companies offer it.",
-          "link": "https://www.investopedia.com/home-based-business-insurance-what-it-is-costs-and-companies-7100448?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-01-31T18:26:28.000Z",
-          "wordCount": 4407,
-          "title": "Home-Based Business Insurance: What It Is, Costs, and Companies",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/rb_J7UtInpGXPvJCQZ4vi3y6Kjw=/1500x1000/Primary-Image-home-based-business-insurance-what-it-is-costs-and-companies-7100448-9671b7d8862b4b0cb80ed5d415fea6ce.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/rb_J7UtInpGXPvJCQZ4vi3y6Kjw=/1500x1000/Primary-Image-home-based-business-insurance-what-it-is-costs-and-companies-7100448-9671b7d8862b4b0cb80ed5d415fea6ce.jpg"
         }
       ]
     },
@@ -21916,6 +21891,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "airlines-stock-united-delta-american-jetblue-southwest-travel-202861e2?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The sector’s strong gains this year probably means that not all its stocks will keep climbing. Still, now isn't the time to walk away.",
+          "link": "https://www.barrons.com/articles/airlines-stock-united-delta-american-jetblue-southwest-travel-202861e2?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-02T05:01:00.000Z",
+          "wordCount": 6999,
+          "title": "The Airlines Rally Has Hit Turbulence. But These Stocks  Should Fly Higher.",
+          "imageUrl": "https://images.barrons.com/im-723863/social"
+        },
         {
           "id": "musk-sets-path-renewable-future-002240875.html",
           "author": null,
@@ -46085,56 +46070,6 @@
           "wordCount": 14214,
           "title": "America's $31 Trillion Debt Is Getting Dangerous As Yearly Interest Crosses $500 Billion Mark",
           "imageUrl": "https://media.zenfs.com/en/Benzinga/a6ae0234465d6bbb0b81a1ebf51d8a84"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/warren-buffett-berkshire-hathaway-etsy-impinj-wingstop-in-or-near-buy-zones/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-01-31T19:11:06.000Z",
-          "wordCount": null,
-          "title": "Stocks To Buy And Watch: Warren Buffett-Led Berkshire, 3 Others In Or Near Buy Zones",
-          "imageUrl": null
-        },
-        {
-          "id": "whats-the-best-way-to-take-rmds-from-your-retirement-accounts-experts-rate-the-top-3-strategies-11670863444?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The biggest mistake you can make is forgetting to take out the required minimum distribution.",
-          "link": "https://www.marketwatch.com/story/whats-the-best-way-to-take-rmds-from-your-retirement-accounts-experts-rate-the-top-3-strategies-11670863444?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-31T18:57:00.000Z",
-          "wordCount": 5934,
-          "title": "What’s the best way to take RMDs from your retirement accounts? Experts rate the top 3 strategies.",
-          "imageUrl": "https://images.mktw.net/im-683457/social"
-        },
-        {
-          "id": "bed-bath-beyond-could-file-183832698.html",
-          "author": null,
-          "description": "Bed Bath & Beyond reportedly could file bankruptcy as early as this week and is currently looking close more stores.",
-          "link": "https://finance.yahoo.com/news/bed-bath-beyond-could-file-183832698.html",
-          "publishedOn": "2023-01-31T18:38:32.000Z",
-          "wordCount": 13712,
-          "title": "Bed Bath & Beyond could file for bankruptcy this week",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/AadIIzVbO3TcYXvksPMHEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTQ-/https://media.zenfs.com/en/fox_business_text_367/5e086a544cdbe658b38e621c9f77a250"
-        },
-        {
-          "id": "amc-leaves-saudi-arabia-after-falling-behind-local-competitors-11675179164?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The exit illustrates how the kingdom remains a difficult place for international companies to operate in, despite changes that have liberalized social norms.",
-          "link": "https://www.wsj.com/articles/amc-leaves-saudi-arabia-after-falling-behind-local-competitors-11675179164?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-01-31T18:30:00.000Z",
-          "wordCount": 7183,
-          "title": "AMC Leaves Saudi Arabia After Falling Behind Local Competitors",
-          "imageUrl": "https://images.wsj.net/im-713696/social"
-        },
-        {
-          "id": "meltdown-zero-kevin-oleary-says-183000134.html",
-          "author": null,
-          "description": "Is Mr. Wonderful bailing on crypto? Not quite.",
-          "link": "https://finance.yahoo.com/news/meltdown-zero-kevin-oleary-says-183000134.html",
-          "publishedOn": "2023-01-31T18:30:00.000Z",
-          "wordCount": 14301,
-          "title": "'Meltdown to zero': Kevin O'Leary says there's a 100% chance of another crypto debacle — and that it will happen 'over and over and over again.' Here's what he likes instead",
-          "imageUrl": "https://media.zenfs.com/en/moneywise_327/eb207f9d01e5d8fb28da99dcaa087112"
         }
       ]
     }
