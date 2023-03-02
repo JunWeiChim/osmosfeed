@@ -452,46 +452,6 @@
           "wordCount": 412,
           "title": "Snap Shares Plunge Amid Digital Ad Slump",
           "imageUrl": null
-        },
-        {
-          "id": "c1874977848a4a514049f26d27d5ad44",
-          "author": "Investopedia",
-          "description": "Exxon Mobil (XOM) reported 2002 profits that smashed its previous record, boosted by surging oil and gas prices after Russia's invasion of Ukraine.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca837fdfed11e851368a8734a6bf2a229c504c8e22803bbe80466645d5658032dddf0a7ecce03ca6b8b471b2bcde7af6",
-          "publishedOn": "2023-02-01T01:15:41.398Z",
-          "wordCount": 412,
-          "title": "Exxon Mobile Posts Record Annual Profit",
-          "imageUrl": null
-        },
-        {
-          "id": "f3768a544aa2486db7bbf434112105a9",
-          "author": "Investopedia",
-          "description": "Ford's fourth-quarter earnings probably more than doubled amid the auto industry's broader late-year sales recovery as supply chain woes decreased.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8068d5e652b40874dade6af1bf3f2c9d4a56cd379675a180473d4dde7cd86480c24b3d95b0",
-          "publishedOn": "2023-02-01T01:15:41.391Z",
-          "wordCount": 412,
-          "title": "Ford's Q4 Profit Likely Surged as Supply Chains Improved",
-          "imageUrl": null
-        },
-        {
-          "id": "54675a98934c2fc470074ea966c4db82",
-          "author": "Investopedia",
-          "description": "The e-commerce and technology giant has prepared investors for a steep drop in fourth-quarter earnings, due Feb. 2.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca876ac6f810ab1128dcc36af3a068608a454dcd398b3fa2df523941cd6290249cc54b3c92b567e5",
-          "publishedOn": "2023-02-01T01:15:41.378Z",
-          "wordCount": 412,
-          "title": "Amazon Profit Slide, Outlook to Test Stock's 20% January Gain",
-          "imageUrl": null
-        },
-        {
-          "id": "87c5d9ad4b5c3d71cca8199fd30254ed",
-          "author": "Investopedia",
-          "description": "Google-parent Alphabet is expected to report a third consecutive quarter of declining earnings, as it joins other high-flying tech giants in coming back down to earth.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca876bd7ea1ea7592dc59f6ceea06a7fdd095ac2228b31bf95516654c96e833ad485573b92b661e2acbb",
-          "publishedOn": "2023-02-01T01:15:41.364Z",
-          "wordCount": 412,
-          "title": "Alphabet’s Falling Ad Revenue Could Overshadow Cloud Growth",
-          "imageUrl": null
         }
       ]
     },
@@ -837,6 +797,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6253588/",
+          "author": "Thijs Rösken",
+          "description": "Netbeheerders mogen in het geval van een overvol stroomnet uit maatschappelijk oogpunt afwijken van de regel om partijen die zich het eerst hebben gemeld ook als eerste aan te sluiten. Woningbouworganisaties, veiligheidsdiensten, scholen en de gezondheidszorg kunnen daardoor voorrang krijgen boven andere partijen, maakt toezichthouder ACM donderdag bekend.",
+          "link": "https://www.nu.nl/economie/6253588/netbeheerder-mag-school-of-zorginstelling-voorrang-geven-op-vol-stroomnet.html",
+          "publishedOn": "2023-03-02T13:07:16.000Z",
+          "wordCount": 897,
+          "title": "Netbeheerder mag school of zorginstelling voorrang geven op vol stroomnet",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/mi3xo3qaaizl_sqr256.jpg/netbeheerder-mag-school-of-zorginstelling-voorrang-geven-op-vol-stroomnet.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/mi3xo3qaaizl_sqr256.jpg/netbeheerder-mag-school-of-zorginstelling-voorrang-geven-op-vol-stroomnet.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6253582/",
+          "author": "onze economieredactie",
+          "description": "Drie Nederlandse gokaanbieders mogen voortaan wel reclame maken in België, heeft het Europees Hof van Justitie woensdag bepaald. De drie bedrijven uit het zuiden van het land hadden boetes gekregen, omdat ze zonder toestemming reclame hadden gemaakt bij de zuiderburen.",
+          "link": "https://www.nu.nl/economie/6253582/nederlandse-casinos-winnen-reclameruzie-van-belgische-staat.html",
+          "publishedOn": "2023-03-02T12:48:24.000Z",
+          "wordCount": 822,
+          "title": "Nederlandse casino's winnen reclameruzie van Belgische staat",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/ethx3f0asq6s_sqr256.jpg/nederlandse-casinos-winnen-reclameruzie-van-belgische-staat.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/ethx3f0asq6s_sqr256.jpg/nederlandse-casinos-winnen-reclameruzie-van-belgische-staat.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6253557/",
           "author": "Tim Wijkman-van Aalst",
@@ -7129,6 +7119,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/tax/11/tax-settlement-firms.asp",
+          "author": "Mark P. Cussen",
+          "description": "Tax settlement firms claim they can reduce or even eliminate what you owe to the IRS. Find out the facts behind this alluring fiction.",
+          "link": "https://www.investopedia.com/articles/tax/11/tax-settlement-firms.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-02T13:09:26.000Z",
+          "wordCount": 5419,
+          "title": "The Truth About IRS Tax Settlement Firms",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/oBXSAi69YDxsXVWowrWCH5Rb_jk=/2119x1414/TaxSettlementFirms-4917d3d3214f4a808b0348901c1ffc6a.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/oBXSAi69YDxsXVWowrWCH5Rb_jk=/2119x1414/TaxSettlementFirms-4917d3d3214f4a808b0348901c1ffc6a.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/tax/08/bond-tax.asp",
+          "author": "Andrew Bloomenthal",
+          "description": "Find out the tax implications of three types of bonds—government bonds, municipal bonds, and corporate bonds—and what you can do as an investor.",
+          "link": "https://www.investopedia.com/articles/tax/08/bond-tax.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-02T12:09:44.000Z",
+          "wordCount": 5235,
+          "title": "Taxation Rules for Bond Investors",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/hI7B6gueR4F6fM3YYdLNmIMKdAc=/2309x1299/GettyImages-918508630-18adb9404b1040a5bd15f73df22850f8.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/hI7B6gueR4F6fM3YYdLNmIMKdAc=/2309x1299/GettyImages-918508630-18adb9404b1040a5bd15f73df22850f8.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/what-if-billionaires-paid-more-in-taxes-7153334",
+          "author": "Staff Author",
+          "description": "President Joe Biden's plan to tax the ultra-wealthy could reduce inequality and change the way billionaires invest, experts say.",
+          "link": "https://www.investopedia.com/what-if-billionaires-paid-more-in-taxes-7153334?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-02T12:00:00.000Z",
+          "wordCount": 4442,
+          "title": "What if Billionaires Paid More in Taxes?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ZEQOwqSlUWcpqMwC4h_wpkbkiO8=/6334x4223/GettyImages-1341554748-9182d78f1a454b6d894a6a1b2c59d9b5.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ZEQOwqSlUWcpqMwC4h_wpkbkiO8=/6334x4223/GettyImages-1341554748-9182d78f1a454b6d894a6a1b2c59d9b5.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/t/tax-relief.asp",
           "author": "The Investopedia Team",
@@ -21663,21 +21698,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/RhXsWZAi3UAm5TtbfVpq4AneOFs=/2121x1414/christmas-5622e1bf73c04e49b9c2d75611dd6f11.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/d/descendingtriangle.asp",
-          "author": "James Chen",
-          "description": "The descending triangle is a chart pattern used in technical analysis. The pattern usually forms at the end of a downtrend but can also occur as a consolidation in an uptrend.",
-          "link": "https://www.investopedia.com/terms/d/descendingtriangle.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-01T01:27:57.000Z",
-          "wordCount": 4367,
-          "title": "Descending Triangle: What It Is, What It Indicates, Examples",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/XMjgtdXQoo_Km_2GZLlN-nZn3bY=/380x253/117860423-5bfc2b9d46e0fb0051bde381.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/XMjgtdXQoo_Km_2GZLlN-nZn3bY=/380x253/117860423-5bfc2b9d46e0fb0051bde381.jpg"
         }
       ]
     },
@@ -21686,6 +21706,56 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "tesla-analyst-meeting-stock-ev-fd0a566a?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Electric vehicle maker Tesla hosted a highly anticipated analyst and investor meeting on Wednesday evening. Now Wall Street is weighing in on what it heard.",
+          "link": "https://www.barrons.com/articles/tesla-analyst-meeting-stock-ev-fd0a566a?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-02T12:58:00.000Z",
+          "wordCount": 7014,
+          "title": "Tesla Analyst Meeting Lacked This One Important Thing. The Stock Is Down.",
+          "imageUrl": "https://images.barrons.com/im-734025/social"
+        },
+        {
+          "id": "salesforce-shocks-wall-street-earnings-quarter-analyst-reaction-125149467.html",
+          "author": null,
+          "description": "Salesforce just came out swinging against activist investors. Here's what Wall Street is chirping about.",
+          "link": "https://finance.yahoo.com/news/salesforce-shocks-wall-street-earnings-quarter-analyst-reaction-125149467.html",
+          "publishedOn": "2023-03-02T12:51:49.000Z",
+          "wordCount": 14151,
+          "title": "Salesforce shocks Wall Street with 'monster quarter': Here's what analysts are saying",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/kUEVB3RWAVwLsmNVBTEYNw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-06/78a616b0-fc1b-11ec-86f7-4a5037876bab"
+        },
+        {
+          "id": "silvergate-stock-crashes-after-company-delays-annual-report-reveals-new-losses-121923800.html",
+          "author": null,
+          "description": "Troubled lender Silvergate disclosed further losses on Wednesday and delayed the filing of its annual report as the fallout from its entanglement with the crypto industry continues.",
+          "link": "https://finance.yahoo.com/news/silvergate-stock-crashes-after-company-delays-annual-report-reveals-new-losses-121923800.html",
+          "publishedOn": "2023-03-02T12:19:23.000Z",
+          "wordCount": 14160,
+          "title": "Silvergate stock crashes after company delays annual report, reveals new losses",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/OKOb0utoLJ2UkHzUK4M3XQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-05/c2bb98a0-d0f2-11ec-9ddf-216b74fc2cf9"
+        },
+        {
+          "id": "plug-power-stock-earnings-analysts-e411672b?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Analysts said Plug Power's fourth-quarter revenue was disappointing and trimmed their price targets on the stock.",
+          "link": "https://www.barrons.com/articles/plug-power-stock-earnings-analysts-e411672b?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-02T12:16:00.000Z",
+          "wordCount": 7064,
+          "title": "Plug Power’s Hydrogen Growth Is Taking a While. Bulls Are Reining in Hopes.",
+          "imageUrl": "https://images.barrons.com/im-431597/social"
+        },
+        {
+          "id": "3-high-dividend-reits-for-high-total-returns-16117244?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "These real estate investment trusts with yields over 5% are ideally suited as income and recession-resistant investments.",
+          "link": "https://realmoney.thestreet.com/investing/reits/3-high-dividend-reits-for-high-total-returns-16117244?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-03-02T12:00:00.000Z",
+          "wordCount": 5494,
+          "title": "3 High Dividend REITs for Strong Total Returns",
+          "imageUrl": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/6d06c551-cd50-11eb-aa35-430ea522770d.jpg"
+        },
         {
           "id": "macys-stock-soars-14-8-premarket-after-earnings-beat-and-upbeat-guidance-1d0d34ec?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -21705,6 +21775,26 @@
           "wordCount": 7644,
           "title": "8 places you can now get a guaranteed 5% — or more — on CDs or savings accounts",
           "imageUrl": "https://images.mktw.net/im-732699/social"
+        },
+        {
+          "id": "is-this-a-fair-fee-im-talking-to-a-financial-adviser-who-wants-to-charge-1-6-for-accounts-with-less-than-250k-in-them-is-that-ok-9616e1b1?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Have an issue with your financial adviser or looking for a new one? Email picks@marketwatch.com.",
+          "link": "https://www.marketwatch.com/picks/is-this-a-fair-fee-im-talking-to-a-financial-adviser-who-wants-to-charge-1-6-for-accounts-with-less-than-250k-in-them-is-that-ok-9616e1b1?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-02T11:00:00.000Z",
+          "wordCount": 7349,
+          "title": "Is it fair for a financial adviser to charge me 1.6% if I have less than $250K in my account?",
+          "imageUrl": "https://images.mktw.net/im-681749/social"
+        },
+        {
+          "id": "credit-suisses-legal-charges-threaten-recovery-8f8cfc1b?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The Swiss lender said it has taken measures to improve its risk culture, which is at the root of many of its legal woes.",
+          "link": "https://www.wsj.com/articles/credit-suisses-legal-charges-threaten-recovery-8f8cfc1b?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-02T10:44:00.000Z",
+          "wordCount": 7280,
+          "title": "Credit Suisse’s Legal Charges Threaten Recovery",
+          "imageUrl": "https://images.wsj.net/im-733816/social"
         },
         {
           "id": "what-the-end-of-the-great-moderation-era-means-for-investors-morning-brief-103057491.html",
@@ -22077,6 +22167,16 @@
           "imageUrl": null
         },
         {
+          "id": "greco-advance-auto-parts-ceo-retail-analysts-stock.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "author": null,
+          "description": "When Tom Greco took over as CEO of Advance Auto Parts in 2016, his goal was to execute a turnaround for the retailer. The company still has a ways to go.",
+          "link": "https://www.bizjournals.com/triangle/news/2023/03/01/greco-advance-auto-parts-ceo-retail-analysts-stock.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "publishedOn": "2023-03-01T21:22:25.000Z",
+          "wordCount": 5074,
+          "title": "Raleigh's Fortune 500 CEO is retiring. But is the job done?",
+          "imageUrl": "https://media.bizj.us/view/img/11558092/bpoyprint-86*1200xx4718-2659-0-724.jpg"
+        },
+        {
           "id": "snowflake-stock-falls-after-earnings-as-forecast-underwhelms-f9236e4c?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "The data-software company beat expectations with its latest quarterly results but forecast lower revenue for the full year than analysts had been anticipating.",
@@ -22095,6 +22195,16 @@
           "wordCount": 8627,
           "title": "Biden’s first veto could impact your 401(k) and how companies react to climate change",
           "imageUrl": "https://images.mktw.net/im-734368/social"
+        },
+        {
+          "id": "capital-gains-dividend-tax-rates-2022-2023-da562ba6?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Capital gains tax is a tax on the profit from the sale of an asset, such as a stock or real estate, while dividends tax is a tax on the income received from dividends paid by a company.",
+          "link": "https://www.wsj.com/articles/capital-gains-dividend-tax-rates-2022-2023-da562ba6?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-01T20:47:00.000Z",
+          "wordCount": 7451,
+          "title": "Capital-Gains Tax Rates and Tax Brackets",
+          "imageUrl": "https://images.wsj.net/im-732964/social"
         },
         {
           "id": "undervalued-clean-energy-stocks-morningstar?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
@@ -45845,16 +45955,6 @@
           "wordCount": 14102,
           "title": "Intel Slashes CEO Pay by 25% as Part of Companywide Cuts",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/lvgMtbgrn9ko3msW9zvbSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjI-/https://media.zenfs.com/en/bloomberg_technology_68/0b4ce4fcf1a34f584b50954089b5fdf2"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rallies-into-fed-rate-hike-amd-snap-key-movers-late/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-02-01T01:03:43.000Z",
-          "wordCount": null,
-          "title": "Dow Jones Futures: Market Rallies Into Fed Rate Hike; AMD, Snap Are Key Movers Late",
-          "imageUrl": null
         }
       ]
     }
