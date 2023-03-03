@@ -768,6 +768,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6253811/",
+          "author": "Noémi van de Pol",
+          "description": "Het is vanaf vrijdag 17 maart weer mogelijk om STAP-budget aan te vragen, meldt uitvoeringsinstantie UWV. Het was de bedoeling dat het budget afgelopen dinsdag al beschikbaar was. Maar door een combinatie van een technische fout en grote drukte ontstond een storing bij het subsidieportaal waar het budget aangevraagd kon worden.",
+          "link": "https://www.nu.nl/economie/6253811/aanvraag-stap-budget-kan-vanaf-17-maart-weer-na-chaos-door-technische-fout.html",
+          "publishedOn": "2023-03-03T18:09:08.000Z",
+          "wordCount": 930,
+          "title": "Aanvraag STAP-budget kan vanaf 17 maart weer, na chaos door technische fout",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/489xmafaq90i_sqr256.jpg/aanvraag-stap-budget-kan-vanaf-17-maart-weer-na-chaos-door-technische-fout.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/489xmafaq90i_sqr256.jpg/aanvraag-stap-budget-kan-vanaf-17-maart-weer-na-chaos-door-technische-fout.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6253791/",
           "author": "onze economieredactie",
           "description": "Rusland heeft de inkomsten uit olie en gas vorige maand bijna zien halveren ten opzichte van een jaar eerder. Vermoedelijk komt dit doordat vrijwel alle EU-landen sinds enkele maanden geen olie meer importeren uit Rusland. Ook stroomt er nauwelijks nog gas van Rusland naar Europa.",
@@ -6999,6 +7014,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/why-consolidate-retirement-accounts-5498844",
+          "author": "Rachel Murphy",
+          "description": "Changing jobs is the fastest way to increase your salary, but it can create many smaller retirement accounts. Here's why you should consolidate them.",
+          "link": "https://www.investopedia.com/why-consolidate-retirement-accounts-5498844?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-03T17:43:23.000Z",
+          "wordCount": 5065,
+          "title": "Reasons To Consolidate Retirement Accounts",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/wbT4nD1iN2cv54jS91wo73Iymj8=/2121x1414/GettyImages-1207388625-b712a50a55554c2c876a0085ee15faab.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/wbT4nD1iN2cv54jS91wo73Iymj8=/2121x1414/GettyImages-1207388625-b712a50a55554c2c876a0085ee15faab.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/zoom-slips-after-sacking-new-president-7187357",
+          "author": "Kathleen Marshall",
+          "description": "Move comes days after videoconferencing company bet earnings estimates.",
+          "link": "https://www.investopedia.com/zoom-slips-after-sacking-new-president-7187357?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-03T17:24:25.000Z",
+          "wordCount": 3007,
+          "title": "Zoom Shares Slip After Ousting President Hired in June",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/R5rSrdQ0194lOFQcBzs6okbrndA=/1973x1520/how-to-use-zoom-the-12-best-tips-for-successful-video-conferencing-48012631-1082776f71ea4aa2b9f75a11470c0e21.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/R5rSrdQ0194lOFQcBzs6okbrndA=/1973x1520/how-to-use-zoom-the-12-best-tips-for-successful-video-conferencing-48012631-1082776f71ea4aa2b9f75a11470c0e21.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/r/riskrewardratio.asp",
+          "author": "Adam Hayes",
+          "description": "The risk/reward ratio is used by many investors to compare the expected returns of an investment with the amount of risk undertaken to capture these returns.",
+          "link": "https://www.investopedia.com/terms/r/riskrewardratio.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-03T17:18:01.000Z",
+          "wordCount": 5710,
+          "title": "Risk/Reward Ratio: What It Is, How Stock Investors Use It",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ocGaflYFN-7h1HmHh2sBI3GQkDg=/2121x1414/risk-reward-diagram-on-a-blackboard-838938302-f3f9d63b07cb49dbb38af2f3627b7768.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ocGaflYFN-7h1HmHh2sBI3GQkDg=/2121x1414/risk-reward-diagram-on-a-blackboard-838938302-f3f9d63b07cb49dbb38af2f3627b7768.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/personal-finance/020316/retirement-plan-tax-prep-checklist.asp",
           "author": "Barbara Weltman",
@@ -21768,21 +21828,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/tojmD07EF1B4OoWjxzfZsGbFtNA=/1500x1000/corporate-finance-Final-90e2e40f344a456c8cd371f226cfa6b4.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/weddings-who-pays-for-what-4687129",
-          "author": "Rebecca Lake",
-          "description": "Weddings can be an expensive affair. Find out who pays for a wedding and all of the various costs.",
-          "link": "https://www.investopedia.com/weddings-who-pays-for-what-4687129?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-02T05:34:50.000Z",
-          "wordCount": 5340,
-          "title": "Who Pays for What in a Wedding?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/-1YW6-TgU7xdYEK-tvIH3vivKGQ=/3865x2576/friends-family-toasting-bride-groom-backyard-wedding-reception-576798523-59668d9b3df78c160ee7a2e2.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/-1YW6-TgU7xdYEK-tvIH3vivKGQ=/3865x2576/friends-family-toasting-bride-groom-backyard-wedding-reception-576798523-59668d9b3df78c160ee7a2e2.jpg"
         }
       ]
     },
@@ -21791,6 +21836,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/apple-stock-has-5-underappreciated-catalysts-morgan-stanley-says/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-03-03T17:51:45.000Z",
+          "wordCount": null,
+          "title": "Apple Stock Has 5 Underappreciated Catalysts In The Year Ahead, Analyst Says",
+          "imageUrl": null
+        },
+        {
+          "id": "c3-ai-earnings-stock-price-14b2037c?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The artificial intelligence software company posted better-than-expected results for the January quarter and boosted its full-year guidance.",
+          "link": "https://www.barrons.com/articles/c3-ai-earnings-stock-price-14b2037c?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-03T17:16:00.000Z",
+          "wordCount": 6985,
+          "title": "C3.ai Stock Rallies as Results Top Guidance",
+          "imageUrl": "https://images.barrons.com/im-735213/social"
+        },
         {
           "id": "volkswagen-rivian-stock-price-earnings-porsche-57af2bae?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -46350,16 +46415,6 @@
           "wordCount": 6605,
           "title": "Qualcomm Earnings Could Disappoint. Smartphone Demand Could Be Why.",
           "imageUrl": "https://images.barrons.com/im-715251/social"
-        },
-        {
-          "id": "amazon-earnings-stock-price-aws-51675280721?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The company's fourth-quarter results will likely be muted by weakness in e-commerce, and slower growth in cloud and advertising markets.",
-          "link": "https://www.barrons.com/articles/amazon-earnings-stock-price-aws-51675280721?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-02T05:30:00.000Z",
-          "wordCount": 6602,
-          "title": "Amazon Earnings Are Today. All Eyes Are on Its Cloud Computing Business.",
-          "imageUrl": "https://images.barrons.com/im-714432/social"
         }
       ]
     }
