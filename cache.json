@@ -6836,21 +6836,6 @@
             "url": "https://media.nu.nl/m/d22x9nfaf1oe_sqr256.jpg/we-vliegen-vooral-binnen-europa-en-spanje-is-onze-favoriete-bestemming.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/d22x9nfaf1oe_sqr256.jpg/we-vliegen-vooral-binnen-europa-en-spanje-is-onze-favoriete-bestemming.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6249609/",
-          "author": "onze economieredactie",
-          "description": "Een milieu-inspecteur van de Omgevingsdienst Noordzeekanaalgebied werkt sinds 1 januari bij Tata Steel, meldt de Volkskrant donderdag. Ze was bij de omgevingsdienst lid van het team dat toezicht houdt op Tata Steel.",
-          "link": "https://www.nu.nl/economie/6249609/voormalige-milieu-inspecteur-gaat-aan-de-slag-bij-tata-steel.html",
-          "publishedOn": "2023-02-02T18:52:07.000Z",
-          "wordCount": 744,
-          "title": "Voormalige milieu-inspecteur gaat aan de slag bij Tata Steel",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/c34x2w9ab68d_sqr256.jpg/voormalige-milieu-inspecteur-gaat-aan-de-slag-bij-tata-steel.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/c34x2w9ab68d_sqr256.jpg/voormalige-milieu-inspecteur-gaat-aan-de-slag-bij-tata-steel.jpg"
         }
       ]
     },
@@ -6859,6 +6844,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/o/organizational-behavior.asp",
+          "author": "Carol M. Kopp",
+          "description": "Organizational behavior (OB) is the study of how people interact within groups and its principles are used to make businesses operate more effectively.",
+          "link": "https://www.investopedia.com/terms/o/organizational-behavior.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-04T06:25:10.000Z",
+          "wordCount": 5982,
+          "title": "What Is Organizational Behavior (OB), and Why Is It Important?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/5jr0uvn_aXq_DYm6vFY7a1lN9Eg=/1500x1000/organizational-behavior-9d705b2e75d34e4e9816a34509e360ed.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/5jr0uvn_aXq_DYm6vFY7a1lN9Eg=/1500x1000/organizational-behavior-9d705b2e75d34e4e9816a34509e360ed.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/n/non-profitorganization.asp",
           "author": "Will Kenton",
@@ -21967,6 +21967,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "in-techs-new-world-layoffs-and-buybacks-are-in-mergers-are-out-2fbed6ed?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "With customers reining in spending, and regulators taking hard looks at the potential effects of consolidation, “efficiency” becomes a rallying cry in Silicon Valley.",
+          "link": "https://www.barrons.com/articles/in-techs-new-world-layoffs-and-buybacks-are-in-mergers-are-out-2fbed6ed?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-04T00:45:00.000Z",
+          "wordCount": 7315,
+          "title": "Silicon Valley Confronts the End of Growth. It’s a New Era for Tech Stocks.",
+          "imageUrl": "https://images.barrons.com/im-735920/social"
+        },
+        {
           "id": "altria-exchanges-stake-in-juul-for-heated-tobacco-intellectual-property-e8f33631?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Tobacco giant Altria on Friday said it had exchanged its minority stake in embattled e-cigarette maker Juul for “a non-exclusive, irrevocable global license...",
@@ -22325,6 +22335,16 @@
           "wordCount": 7855,
           "title": "Tesla Rival BYD Leads Push to Sell Chinese EV Brands Around the World",
           "imageUrl": "https://images.wsj.net/im-727215/social"
+        },
+        {
+          "id": "american-investment-fund-led-anti-142818337.html",
+          "author": null,
+          "description": "Star fund manager Rajiv Jain invested $1.9 billion in Gautam Adani's industrial conglomerate, just when the beleaguered business magnate needed it the most.",
+          "link": "https://finance.yahoo.com/news/american-investment-fund-led-anti-142818337.html",
+          "publishedOn": "2023-03-03T14:28:18.000Z",
+          "wordCount": 14591,
+          "title": "American investment fund led by the anti-Cathie Wood just rode to the rescue of Indian tycoon accused of fraud",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/1Hhv26_9baIRf1dlgIuJGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/6b1d887f1d3724e944a604e8fdbc177e"
         },
         {
           "id": "bitcoin-fell-nearly-5-thursday-night-its-largest-one-hour-drop-since-ftx-140957690.html",
