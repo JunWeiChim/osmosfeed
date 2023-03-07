@@ -788,6 +788,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6254330/",
+          "author": "onze nieuwsredactie",
+          "description": "Onderzoekers beginnen langzaam maar zeker de groep die achter de Nord Stream-explosies zat in beeld te krijgen. Lange tijd werd met de beschuldigende vinger naar Rusland gewezen, maar volgens The New York Times is het zeer waarschijnlijk dat een pro-Oekraïense groep achter de actie zit.",
+          "link": "https://www.nu.nl/economie/6254330/niet-rusland-maar-pro-oekraiense-groep-zou-achter-nord-stream-explosies-zitten.html",
+          "publishedOn": "2023-03-07T17:08:05.000Z",
+          "wordCount": 1184,
+          "title": "Niet Rusland, maar pro-Oekraïense groep zou achter Nord Stream-explosies zitten",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/tarx4l6ae1lg_sqr256.jpg/niet-rusland-maar-pro-oekraiense-groep-zou-achter-nord-stream-explosies-zitten.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/tarx4l6ae1lg_sqr256.jpg/niet-rusland-maar-pro-oekraiense-groep-zou-achter-nord-stream-explosies-zitten.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6254249/",
           "author": "Rutger Otto",
           "description": "Sonos heeft twee nieuwe luidsprekers gepresenteerd: de Era 100 en de Era 300. Beide speakers werken via wifi en bluetooth. De Era 300 ondersteunt ook ruimtelijke audio (of spatial audio), maar spraakassistent Google Assistent ontbreekt.",
@@ -6794,6 +6809,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/personal-finance/112814/top-alternatives-car-title-loans.asp",
+          "author": "Kimberly Rotter",
+          "description": "Before you sign up for a high interest car title loan, investigate these eight alternative cash-raising strategies.",
+          "link": "https://www.investopedia.com/articles/personal-finance/112814/top-alternatives-car-title-loans.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-07T16:57:42.000Z",
+          "wordCount": 5435,
+          "title": "8 Cheaper Ways to Raise Cash Than Car Title Loans",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/nSGdQej1NflvPb2GyJdPVbXhKQs=/5600x3733/GettyImages-590778067-a8b5a3fd2b564a47afcb7dface077069.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/nSGdQej1NflvPb2GyJdPVbXhKQs=/5600x3733/GettyImages-590778067-a8b5a3fd2b564a47afcb7dface077069.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/how-much-is-long-term-disability-7228986",
+          "author": "Staff Author",
+          "description": "We compared long-term disability insurance quotes, average costs, and ways to save to help you determine if long-term disability insurance is worth it.",
+          "link": "https://www.investopedia.com/how-much-is-long-term-disability-7228986?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-07T16:37:00.000Z",
+          "wordCount": 3823,
+          "title": "How Much Is Long-Term Disability?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/sRcXfddh3Zj2N6ZH8FHXndBhiE8=/4000x2667/Primary-Image-how-much-is-long-term-disability-7228986-793b40ad68d34ccdaecac49ea188ef90.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/sRcXfddh3Zj2N6ZH8FHXndBhiE8=/4000x2667/Primary-Image-how-much-is-long-term-disability-7228986-793b40ad68d34ccdaecac49ea188ef90.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/student-loan-refinancer-sues-to-end-payment-pause-7229058",
+          "author": "Staff Author",
+          "description": "California-based student loan refinancer SoFi claims that the pause on student loan payments is no longer legal since the pandemic has ended.",
+          "link": "https://www.investopedia.com/student-loan-refinancer-sues-to-end-payment-pause-7229058?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-07T16:13:29.000Z",
+          "wordCount": 3270,
+          "title": "Student Loan Refinancer Sues to End Payment Pause",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/NZsLQe3WCg9dRM62ksmlKhcbres=/6000x4000/GettyImages-1372185817-e9cdd84f67334089836be042844468c2.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/NZsLQe3WCg9dRM62ksmlKhcbres=/6000x4000/GettyImages-1372185817-e9cdd84f67334089836be042844468c2.jpg"
+        },
         {
           "id": "https://www.investopedia.com/how-to-use-the-investopedia-simulator-5221184",
           "author": "Gordon Scott",
@@ -21808,21 +21868,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/F6DxGD5X5R9U-tvDevEi89e4fUo=/2120x1415/GettyImages-951223790-22f08e2dee394e1da800f5a6750820f9.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/basics/03/103103.asp",
-          "author": "Adam Hayes",
-          "description": "Learn some of the important differences in how the NYSE and Nasdaq operate and the securities that trade on each exchange.",
-          "link": "https://www.investopedia.com/articles/basics/03/103103.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-06T04:50:04.000Z",
-          "wordCount": 5627,
-          "title": "The NYSE and Nasdaq: How They Work",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/zPSylE9o8jrX4hNTdAf_z1gfIWc=/285x260/stocks-lrg-2-5bfc2b1d46e0fb0051bdcc6a.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/zPSylE9o8jrX4hNTdAf_z1gfIWc=/285x260/stocks-lrg-2-5bfc2b1d46e0fb0051bdcc6a.jpg"
         }
       ]
     },
@@ -21831,6 +21876,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "blackberry-stock-suffering-biggest-selloff-in-2-years-after-revenue-guidance-was-below-expectations-48dc24da?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The U.S.-listed shares of BlackBerry Ltd. took a 13.1% beating in midday trading Tuesday, after the Ontario-based security software company said it would...",
+          "link": "https://www.marketwatch.com/story/blackberry-stock-suffering-biggest-selloff-in-2-years-after-revenue-guidance-was-below-expectations-48dc24da?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-07T16:38:00.000Z",
+          "wordCount": 6885,
+          "title": "BlackBerry stock suffering biggest selloff in 2 years after revenue guidance was below expectations",
+          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
@@ -21842,6 +21897,16 @@
           "imageUrl": null
         },
         {
+          "id": "ai-will-soon-be-a-600-billion-addressable-software-market-c3ai-ceo-says-160108321.html",
+          "author": null,
+          "description": "AI companies such as C3.ai see a massive opportunity beyond the artificial intelligence hype.",
+          "link": "https://finance.yahoo.com/news/ai-will-soon-be-a-600-billion-addressable-software-market-c3ai-ceo-says-160108321.html",
+          "publishedOn": "2023-03-07T16:01:08.000Z",
+          "wordCount": 14038,
+          "title": "AI will soon ‘be a $600 billion addressable software market,’ C3.ai CEO says",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/OKnNGw_XNp3kigC5wEcfQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/1a2d6b60-bcff-11ed-bd7e-061bde4ec7dc"
+        },
+        {
           "id": "why-sea-limited-shares-surging-154920664.html",
           "author": null,
           "description": "Consumer internet company Sea Limited (NYSE: SE) reported fourth-quarter FY22 revenue growth of 7.1% year-on-year to $3.45 billion, beating the consensus of $3.06 billion. Digital Entertainment revenue decreased 32.9% Y/Y to $948.86 million. The bookings declined 18% Q/Q to $543.6 million. The segment-adjusted EBITDA was $258.2 million, compared to $289.9 million in the prior quarter. The segment's quarterly active users were 485.5 million, compared to 568.2 million a quarter ago. Average bookin",
@@ -21850,6 +21915,16 @@
           "wordCount": 13782,
           "title": "Why Sea Limited Shares Are Surging Today",
           "imageUrl": "https://media.zenfs.com/en/Benzinga/643e0eb3aa8f6670dfda0afbf58a086f"
+        },
+        {
+          "id": "sirius-xm-lays-off-475-154823797.html",
+          "author": null,
+          "description": "Sirius XM Holdings Inc (NASDAQ: SIRI) shared plans to downsize its workforce by 475 roles, or 8%, after a strategic review. \"We are entering into a new phase for our Company. The investments we are making in the business this year, coupled with today's uncertain economic environment, require us to think differently about how our organization is structured.\" \"As I shared in November, our planning process for 2023 included an enterprise-wide review of our business to identify opportunities for gre",
+          "link": "https://finance.yahoo.com/news/sirius-xm-lays-off-475-154823797.html",
+          "publishedOn": "2023-03-07T15:48:23.000Z",
+          "wordCount": 13930,
+          "title": "Sirius XM Lays Off 475 Employees On Completing Strategic Review",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/01588fd590b2e99ff3fd180b03ad0628"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -21869,6 +21944,16 @@
           "publishedOn": "2023-03-07T15:25:00.000Z",
           "wordCount": null,
           "title": "Powell Testimony Points to 50-Basis-Point March Rate Hike to Combat Sticky Inflation",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/merck-stock-keytruda-who-analysts-eye-two-heart-drugs/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-03-07T15:14:52.000Z",
+          "wordCount": null,
+          "title": "Keytruda Who? Merck Nears Breakout On $10 Billion Sales Potential For Heart Drugs",
           "imageUrl": null
         },
         {
@@ -21940,6 +22025,16 @@
           "wordCount": 14618,
           "title": "This ‘Mini-Berkshire Hathaway’ Style Company’s Strategy Of Building And Spinning Off Companies Is Giving Retail Investors Pure-Play Opportunities For Additional Stock",
           "imageUrl": "https://media.zenfs.com/en/news_direct/f7b02d402a983ae0cdf7e850cbdf0f39"
+        },
+        {
+          "id": "missing-96-000-problem-coinbase-135933281.html",
+          "author": null,
+          "description": "The crypto exchange's response to the alleged theft “disclaimed any responsibility for the hacking of its customers’ accounts\".",
+          "link": "https://finance.yahoo.com/news/missing-96-000-problem-coinbase-135933281.html",
+          "publishedOn": "2023-03-07T13:59:33.000Z",
+          "wordCount": 13838,
+          "title": "Missing $96,000 is your problem, Coinbase allegedly told account holder who had life savings cleaned out",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/iGnPqHdsJo.hjg8dScavYQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/b96a5ae5ac4d4ac028b949b49fd660e6"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -46270,26 +46365,6 @@
           "wordCount": 14336,
           "title": "Adani Stock Rout Enters Third Week as Flagship Shelves Bond Sale",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/c359f7ec74445eb86186cd1d831133d5"
-        },
-        {
-          "id": "traders-face-geopolitical-jobs-hurdles-214250995.html",
-          "author": null,
-          "description": "(Bloomberg) -- Stocks in Asia retreated as an unexpectedly strong US jobs report raised the prospect of more rate hikes from the Federal Reserve, while concern over US-China geopolitical tensions also weighed on sentiment.Most Read from BloombergChina Moves From Contrite to Confrontational Over US BalloonEarthquake Kills More Than 110 People in Turkey, SyriaUS Downs Chinese Balloon, Prompting Protests from BeijingTrump Offers $1 Million Bond to Appeal Clinton Suit SanctionsWhat You Need to Know",
-          "link": "https://finance.yahoo.com/news/traders-face-geopolitical-jobs-hurdles-214250995.html",
-          "publishedOn": "2023-02-06T05:12:48.000Z",
-          "wordCount": 14573,
-          "title": "Asian Stocks Fall on Fed Hike Prospects; Yen Drops: Markets Wrap",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/ac93f80f4d23bea6e0d498413adafde4"
-        },
-        {
-          "id": "why-microsoft-69-billion-activision-050000869.html",
-          "author": null,
-          "description": "(Bloomberg) -- Microsoft Corp.’s $69 billion Activision Blizzard Inc. takeover faces a key decision in Britain as the nation’s merger watchdog marks its arrival as a global regulator with findings that could set the trajectory to the mega deal finalizing — or falling apart.Most Read from BloombergStrongest Quake in Decades Kills Hundreds in Turkey, SyriaChina Moves From Contrite to Confrontational Over US BalloonUS Moves to Recover Chinese Balloon While Weighing RetaliationUS Downs Chinese Ballo",
-          "link": "https://finance.yahoo.com/news/why-microsoft-69-billion-activision-050000869.html",
-          "publishedOn": "2023-02-06T05:00:00.000Z",
-          "wordCount": 14098,
-          "title": "Why Microsoft’s $69 Billion Activision Deal Hinges on London Not Washington",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/fGQMxA_KxS0_B3I8gsf.nA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_technology_68/fe131e9a55144ed1d669ebe50a97c294"
         }
       ]
     }
