@@ -472,16 +472,6 @@
           "wordCount": 412,
           "title": "Alphabet's Bard AI Misfires on Debut, Shares Swoon",
           "imageUrl": null
-        },
-        {
-          "id": "f66e1c60af8f33ae84f3dc2fc61618f4",
-          "author": "rss.app",
-          "description": "",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c125759467adbacc5021006240c2bbdf1c7e68e1bcb8568caad0fb7533d9d8d2cb0bd38288c4b52c67d8475b5935b6650c96a9136c3cd1b6fc2d927b7f3be28e7e98a28b713ea251a90274a3702",
-          "publishedOn": "2023-02-08T10:16:06.342Z",
-          "wordCount": 412,
-          "title": "Become a Day Trader",
-          "imageUrl": null
         }
       ]
     },
@@ -857,6 +847,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6254572/",
+          "author": "onze economieredactie",
+          "description": "Het ziekteverzuim onder werknemers lag in het vierde kwartaal van 2022 opnieuw hoger dan in dezelfde periode een jaar eerder, zo blijkt vrijdag uit cijfers van statistiekbureau CBS. Vanaf 2016 is dat elk jaar zo geweest.",
+          "link": "https://www.nu.nl/economie/6254572/ziekteverzuim-werknemers-ligt-op-hoogste-niveau-in-ruim-twintig-jaar.html",
+          "publishedOn": "2023-03-09T23:04:34.000Z",
+          "wordCount": 1117,
+          "title": "Ziekteverzuim werknemers ligt op hoogste niveau in ruim twintig jaar",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/65tx3xcapyuv_sqr256.jpg/ziekteverzuim-werknemers-ligt-op-hoogste-niveau-in-ruim-twintig-jaar.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/65tx3xcapyuv_sqr256.jpg/ziekteverzuim-werknemers-ligt-op-hoogste-niveau-in-ruim-twintig-jaar.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6254619/",
           "author": "onze nieuwsredactie",
@@ -6916,21 +6921,6 @@
             "url": "https://media.nu.nl/m/v16xsxwa5k6u_sqr256.jpg/omgevingsdienst-doet-aangifte-tegen-tata-steel-vanwege-overtreding.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/v16xsxwa5k6u_sqr256.jpg/omgevingsdienst-doet-aangifte-tegen-tata-steel-vanwege-overtreding.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6250374/",
-          "author": "Tom van Gurp",
-          "description": "Eneco gaat vanaf nu weer contracten aanbieden waarbij de prijs voor gas en stroom zes maanden vastligt. De energieleverancier spreekt zelf van een vast contract, al werden contracten waarbij de tarieven elk half jaar veranderen in het verleden meestal variabel genoemd.",
-          "link": "https://www.nu.nl/economie/6250374/eneco-biedt-weer-vaste-contracten-aan-nou-ja-een-beetje-vast.html",
-          "publishedOn": "2023-02-08T11:03:36.000Z",
-          "wordCount": 958,
-          "title": "Eneco biedt weer vaste contracten aan: nou ja, een beetje vast",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/3p6xbjlae8rt_sqr256.jpg/eneco-biedt-weer-vaste-contracten-aan-nou-ja-een-beetje-vast.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/3p6xbjlae8rt_sqr256.jpg/eneco-biedt-weer-vaste-contracten-aan-nou-ja-een-beetje-vast.jpg"
         }
       ]
     },
@@ -6939,6 +6929,126 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/personal-finance/110315/4-phases-retirement-and-how-budget-them.asp",
+          "author": "Amy Fontinelle",
+          "description": "A retirement budget helps you manage your money after you stop working. Our guide shows you how to successfully budget for each stage of retirement.",
+          "link": "https://www.investopedia.com/articles/personal-finance/110315/4-phases-retirement-and-how-budget-them.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-09T23:01:43.000Z",
+          "wordCount": 6181,
+          "title": "Budgeting for the 4 Financial Phases of Retirement",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Qm2ZM3qpycHCNLeYRoyPlUEdWgI=/2121x1414/GettyImages-1152308560-1f42ad032e54466f8556556c7a549700.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Qm2ZM3qpycHCNLeYRoyPlUEdWgI=/2121x1414/GettyImages-1152308560-1f42ad032e54466f8556556c7a549700.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/personal-finance/digging-out-of-debt/",
+          "author": "Andrew Beattie",
+          "description": "Our guide for how to get out of debt in 8 steps will help you pay off your debt quickly to save money. Learn about the top strategies for becoming debt-free.",
+          "link": "https://www.investopedia.com/personal-finance/digging-out-of-debt/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-09T23:00:14.000Z",
+          "wordCount": 5087,
+          "title": "How to Get Out of Debt in 8 Steps",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/qocrUocGf8wwd3gu0hPGJVpr-aI=/8256x5504/Concern-248fa443693240c9a97072ae55164338.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/qocrUocGf8wwd3gu0hPGJVpr-aI=/8256x5504/Concern-248fa443693240c9a97072ae55164338.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/mortgage-rates-keep-moving-up-7253593",
+          "author": "Staff Author",
+          "description": "Mortgage rates increased for the fifth consecutive week, and combined with elevated home prices, the high rates on home loans are limiting sales.",
+          "link": "https://www.investopedia.com/mortgage-rates-keep-moving-up-7253593?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-09T22:54:49.000Z",
+          "wordCount": 3233,
+          "title": "Mortgage Rates Move Up for the Fifth Week in a Row",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/v7rAZSeGIVaJrqZU0MGR-JG8RRk=/3000x2000/GettyImages-1437072960-80bb992ff39d44aa8681cfe796d0660e.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/v7rAZSeGIVaJrqZU0MGR-JG8RRk=/3000x2000/GettyImages-1437072960-80bb992ff39d44aa8681cfe796d0660e.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/personal-finance/112914/top-retirement-strategies-teachers.asp",
+          "author": "Adam Barone",
+          "description": "Teachers have some special things to consider in planning for retirement, especially if they aren't eligible for Social Security benefits.",
+          "link": "https://www.investopedia.com/articles/personal-finance/112914/top-retirement-strategies-teachers.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-09T22:39:02.000Z",
+          "wordCount": 5979,
+          "title": "The Top Retirement Strategies for Teachers",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/w6De20_Qgo04G90ZeB9jNCWIAtY=/1500x1000/GettyImages-597316549-bbbf9f28dea9452fb0867f412c4f22f2.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/w6De20_Qgo04G90ZeB9jNCWIAtY=/1500x1000/GettyImages-597316549-bbbf9f28dea9452fb0867f412c4f22f2.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/retirement/081916/rmd-strategies-how-avoid-drawing-down-money.asp",
+          "author": "Donna Fuscaldo",
+          "description": "Required minimum distributions (RMDs) are a part of life for 401(k) and IRA account holders once they hit age 73, but there are ways to limit them.",
+          "link": "https://www.investopedia.com/articles/retirement/081916/rmd-strategies-how-avoid-drawing-down-money.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-09T22:31:30.000Z",
+          "wordCount": 5320,
+          "title": "4 Strategies to Limit Required Minimum Distributions (RMDs)",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/T0DkU959z8clS27mNa1lGXpNDf4=/680x440/retired-50s-medicare_122577774-5bfc2b3dc9e77c0026b4eb71.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/T0DkU959z8clS27mNa1lGXpNDf4=/680x440/retired-50s-medicare_122577774-5bfc2b3dc9e77c0026b4eb71.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/markets-sink-on-interest-rate-banking-worries-7253591",
+          "author": "Staff Author",
+          "description": "U.S. stocks dropped on March 9, 2023, with a selloff in the financial sector and concerns that strong jobs data could lead to more interest rate hikes.",
+          "link": "https://www.investopedia.com/markets-sink-on-interest-rate-banking-worries-7253591?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-09T22:25:46.000Z",
+          "wordCount": 3235,
+          "title": "Markets Sink on Interest Rate, Banking Worries",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/h-DAmPA87vyAWDNbqPUJv2W0Yng=/2480x1640/indexesmarch9-39dbaad9b6b34e5cb1c9940b8cbf1146.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/h-DAmPA87vyAWDNbqPUJv2W0Yng=/2480x1640/indexesmarch9-39dbaad9b6b34e5cb1c9940b8cbf1146.png"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/retirement/06/addroths.asp",
+          "author": "Denise Appleby",
+          "description": "If your employer offers a 401(k), a 403(b), or a 457(b) retirement plan, you may consider the Roth option, which is more pain now for big gain later.",
+          "link": "https://www.investopedia.com/articles/retirement/06/addroths.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-09T22:24:48.000Z",
+          "wordCount": 5379,
+          "title": "Should I Choose a Traditional or Roth Retirement Account?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/IiZsBWUd6fjQEiE3FQ-aLoLljpM=/2123x1413/GettyImages-566357241-2c5de96d880648afaa4cfd748b5c0151.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/IiZsBWUd6fjQEiE3FQ-aLoLljpM=/2123x1413/GettyImages-566357241-2c5de96d880648afaa4cfd748b5c0151.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/retirement/top-retirement-savings-tips-55-to-64-year-olds/",
+          "author": "Andrew Bloomenthal",
+          "description": "If you plan to retire within the next 10 years, you still have time to boost your 401(k) contributions and make other moves to increase your savings.",
+          "link": "https://www.investopedia.com/retirement/top-retirement-savings-tips-55-to-64-year-olds/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-09T22:12:43.000Z",
+          "wordCount": 6497,
+          "title": "Top Retirement Savings Tips for 55-to-64-Year-Olds",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Cj_E4ux9P5wX1mUDSsZSmTaG7zw=/2148x1395/GettyImages-1027141710-3fa5bf9c3b2843ea821fad9b84de396c.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Cj_E4ux9P5wX1mUDSsZSmTaG7zw=/2148x1395/GettyImages-1027141710-3fa5bf9c3b2843ea821fad9b84de396c.jpg"
+        },
         {
           "id": "https://www.investopedia.com/ask/answers/112615/can-personal-loans-be-included-bankruptcy.asp",
           "author": "Barclay Palmer",
@@ -21622,6 +21732,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "peter-thiels-founders-fund-advises-companies-to-pull-money-from-silicon-valley-bank-report-12bda21d?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "SVB Financial Group fell more than 22% in the extended session Thursday as reports surfaced that several funds are advising clients to pull money from...",
+          "link": "https://www.marketwatch.com/story/peter-thiels-founders-fund-advises-companies-to-pull-money-from-silicon-valley-bank-report-12bda21d?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-09T22:44:00.000Z",
+          "wordCount": 6790,
+          "title": "Peter Thiel’s Founders Fund advises companies to pull money from Silicon Valley Bank: report",
+          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -21640,6 +21760,26 @@
           "wordCount": 7199,
           "title": "Oracle stock drops more than 5% as segments other than cloud services miss on revenue",
           "imageUrl": "https://images.mktw.net/im-620055/social"
+        },
+        {
+          "id": "docusign-earnings-stock-price-4440ed95?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The electronic-signature software company also said its CFO will resign later this year.",
+          "link": "https://www.barrons.com/articles/docusign-earnings-stock-price-4440ed95?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-09T21:48:00.000Z",
+          "wordCount": 6999,
+          "title": "DocuSign Stock Falls on Strong Earnings",
+          "imageUrl": "https://images.barrons.com/im-588081/social"
+        },
+        {
+          "id": "oracle-revenue-falls-short-analysts-213654050.html",
+          "author": null,
+          "description": "(Bloomberg) -- Oracle Corp. reported quarterly sales in line with analysts’ estimates after its cloud business failed to meet expectations for higher growth. The shares declined in extended trading.Most Read from BloombergCompanies Are Telling Us the Real Reason They're Still Raising PricesBiden to Urge 25% Billionaire Tax, Levies on Rich InvestorsIn Biden’s Tax-the-Rich Budget, Capital-Gains Rates Near 45%Warner Bros. Delays ‘Suicide Squad’ Game Again to Add More PolishRookie Traders Are Earnin",
+          "link": "https://finance.yahoo.com/news/oracle-revenue-falls-short-analysts-213654050.html",
+          "publishedOn": "2023-03-09T21:36:54.000Z",
+          "wordCount": 14423,
+          "title": "Oracle Falls After Failing to Meet Optimistic Cloud Expectations",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/6xdIqVtEZse9pIDcWXAo9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/62a1768d13584473d5c08d219e210c3e"
         },
         {
           "id": "docusign-stock-falls-despite-results-beating-estimates-as-cfo-exit-announced-798c919c?siteid=yhoof2&yptr=yahoo",
@@ -46300,66 +46440,6 @@
           "wordCount": 7394,
           "title": "Suze Orman says this is the $1-$2 mistake that can ‘creep into’ too many of your financial decisions — and it could cost you tens of thousands of dollars",
           "imageUrl": "https://images.mktw.net/im-711796/social"
-        },
-        {
-          "id": "asked-chatgpt-jobs-thinks-replace-110931046.html",
-          "author": null,
-          "description": "The bot said jobs have already been lost to A.I. and that trend will continue -but ChatGPT does think it will have a \"net positive\" impact on employment.",
-          "link": "https://finance.yahoo.com/news/asked-chatgpt-jobs-thinks-replace-110931046.html",
-          "publishedOn": "2023-02-08T11:09:31.000Z",
-          "wordCount": 13863,
-          "title": "We asked ChatGPT which jobs it thinks it will replace—and it’s not good news for data entry professionals or reporters",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/mCNs8yW3QmdzKtba7Bw6JA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/bbafb446e7703d9c7801f69438920006"
-        },
-        {
-          "id": "powell-shouldnt-let-up-in-the-fight-against-inflation-11675782648?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Inflationary pressures remain quite powerful, so the Fed should keep raising rates for several more months and then hold steady until inflation falls to 2%.",
-          "link": "https://www.marketwatch.com/story/powell-shouldnt-let-up-in-the-fight-against-inflation-11675782648?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-08T11:00:00.000Z",
-          "wordCount": 7733,
-          "title": "Powell shouldn’t let up in the fight against inflation",
-          "imageUrl": "https://images.mktw.net/im-715441/social"
-        },
-        {
-          "id": "morgan-stanley-prices-rolex-patek-140000256.html",
-          "author": null,
-          "description": "Time flies. But it also crashes.",
-          "link": "https://finance.yahoo.com/news/morgan-stanley-prices-rolex-patek-140000256.html",
-          "publishedOn": "2023-02-08T11:00:00.000Z",
-          "wordCount": 14507,
-          "title": "Morgan Stanley: Prices for Rolex, Patek Philippe and Audemars Piguet watches will keep plunging due to a flood of supply — here are 3 real assets that remain scarce and coveted",
-          "imageUrl": "https://media.zenfs.com/en/moneywise_327/cf42f21f23162c63046db58667123700"
-        },
-        {
-          "id": "i-really-need-help-i-have-580k-in-retirement-savings-but-cant-find-a-financial-adviser-because-they-want-clients-to-be-richer-than-me-what-should-i-do-01675795110?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Have an issue with your financial adviser or looking for a new one? Email picks@marketwatch.com.",
-          "link": "https://www.marketwatch.com/picks/i-really-need-help-i-have-580k-in-retirement-savings-but-cant-find-a-financial-adviser-because-they-want-clients-to-be-richer-than-me-what-should-i-do-01675795110?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-08T11:00:00.000Z",
-          "wordCount": 7131,
-          "title": "‘I really need help.’ I have $580K in retirement savings, but can’t find a financial adviser because they want clients to be richer than me. What should I do?",
-          "imageUrl": "https://images.mktw.net/im-718937/social"
-        },
-        {
-          "id": "president-biden-calls-out-stock-buybacks-in-state-of-the-union-address-104810205.html",
-          "author": null,
-          "description": "The Biden administration eyes the profit boost that is the stock buyback.",
-          "link": "https://finance.yahoo.com/news/president-biden-calls-out-stock-buybacks-in-state-of-the-union-address-104810205.html",
-          "publishedOn": "2023-02-08T10:48:10.000Z",
-          "wordCount": 13944,
-          "title": "President Biden calls out stock buybacks in State of the Union address",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/C5cgfHH6lsj3jx1qS8lD8Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/e6613360-a79c-11ed-9f9f-e7b896d9cce8"
-        },
-        {
-          "id": "investors-obsessing-over-ai-is-latest-symptom-of-the-amazon-disease-morning-brief-110016834.html",
-          "author": null,
-          "description": "What to know in markets on Wednesday, February 8, 2023.",
-          "link": "https://finance.yahoo.com/news/investors-obsessing-over-ai-is-latest-symptom-of-the-amazon-disease-morning-brief-110016834.html",
-          "publishedOn": "2023-02-08T10:26:57.000Z",
-          "wordCount": 14533,
-          "title": "Investors obsessing over AI is latest symptom of the 'Amazon disease': Morning Brief",
-          "imageUrl": "https://s.yimg.com/os/creatr-images/2018-11/bfbe32e0-e8c3-11e8-9df3-73863e6c1f3f"
         }
       ]
     }
