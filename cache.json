@@ -6726,21 +6726,6 @@
             "url": "https://media.nu.nl/m/bx5xpaaahlfy_sqr256.jpg/shell-krijgt-nieuwe-klimaatzaak-aan-de-broek-in-engeland.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/bx5xpaaahlfy_sqr256.jpg/shell-krijgt-nieuwe-klimaatzaak-aan-de-broek-in-engeland.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6250516/",
-          "author": "onze economieredactie",
-          "description": "Essent verlaagt per 1 april zijn gas- en stroomprijzen voor alle klanten met een variabel contract. Hoewel de tarieven meer dan gehalveerd worden, blijven ze toch boven het prijsplafond. Dat maakt het bedrijf donderdag bekend.",
-          "link": "https://www.nu.nl/economie/6250516/essent-gaat-de-tarieven-ook-verlagen-maar-ze-blijven-boven-het-prijsplafond.html",
-          "publishedOn": "2023-02-09T09:40:13.000Z",
-          "wordCount": 1026,
-          "title": "Essent gaat de tarieven ook verlagen, maar ze blijven boven het prijsplafond",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/3frxet2af41j_sqr256.jpg/essent-gaat-de-tarieven-ook-verlagen-maar-ze-blijven-boven-het-prijsplafond.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/3frxet2af41j_sqr256.jpg/essent-gaat-de-tarieven-ook-verlagen-maar-ze-blijven-boven-het-prijsplafond.jpg"
         }
       ]
     },
@@ -6749,6 +6734,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/p/patterndaytrader.asp",
+          "author": "Adam Hayes",
+          "description": "A pattern day trader (PDT) is a regulatory designation for traders who execute four or more day trades over a five-day period in a margin account.",
+          "link": "https://www.investopedia.com/terms/p/patterndaytrader.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-10T21:43:59.000Z",
+          "wordCount": 5310,
+          "title": "Pattern Day Trader (PDT): Definition and How It Works",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/hkqY4Awms2MOe5ydtUNPZmTM35o=/1500x1000/Patterndaytrader-1af2dcedc8fd4f0bac9a8194f300f26d.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/hkqY4Awms2MOe5ydtUNPZmTM35o=/1500x1000/Patterndaytrader-1af2dcedc8fd4f0bac9a8194f300f26d.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/stocks/08/sipc-fdic-bank-failure.asp",
           "author": "Linda Grayson",
@@ -21567,6 +21567,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "docusign-shares-slide-22-as-margins-face-scrutiny-7ec25965?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The e-signature company warned of a worsening macroeconomic backdrop, and analysts raised concerns about stepped-up competition.",
+          "link": "https://www.wsj.com/articles/docusign-shares-slide-22-as-margins-face-scrutiny-7ec25965?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-10T21:11:00.000Z",
+          "wordCount": 7295,
+          "title": "DocuSign Shares Slide 23% as Margins Face Scrutiny",
+          "imageUrl": "https://images.wsj.net/im-740582/social"
+        },
+        {
           "id": "first-republic-hit-by-svb-failure-7431495e?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "The bank, whose shares have lost 35% of their value in the past week, sought to calm investors on Friday.",
@@ -21577,6 +21587,46 @@
           "imageUrl": "https://images.wsj.net/im-740765/social"
         },
         {
+          "id": "svb-financial-stock-sale-ceo-greg-becker-f5089a4d?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "President and CEO Greg Becker sold $3.6 million of shares through a trading plan in late February. The company didn't immediately respond to a request for comment.",
+          "link": "https://www.barrons.com/articles/svb-financial-stock-sale-ceo-greg-becker-f5089a4d?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-10T20:50:00.000Z",
+          "wordCount": 6954,
+          "title": "SVB Financial CEO Greg Becker Sold $3.6 Million in Stock Nearly Two Weeks Ago",
+          "imageUrl": "https://images.barrons.com/im-740763/social"
+        },
+        {
+          "id": "silicon-valley-bank-collapse-large-account-holders-are-unsecured-creditors?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.thestreet.com/investing/silicon-valley-bank-collapse-large-account-holders-are-unsecured-creditors?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-03-10T20:46:00.000Z",
+          "wordCount": null,
+          "title": "Silicon Valley Bank Collapse: Large Account Holders Are Unsecured Depositors",
+          "imageUrl": null
+        },
+        {
+          "id": "what-should-you-do-if-your-bank-closes-down-people-have-questions-after-silicon-valley-bank-collapse-bff36dd0?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "There were 561 bank failures from 2001 through 2022, according to data from the FDIC.",
+          "link": "https://www.marketwatch.com/story/what-should-you-do-if-your-bank-closes-down-people-have-questions-after-silicon-valley-bank-collapse-bff36dd0?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-10T20:24:00.000Z",
+          "wordCount": 7901,
+          "title": "What should you do if your bank closes down? People have questions after Silicon Valley Bank collapse.",
+          "imageUrl": "https://images.mktw.net/im-740948/social"
+        },
+        {
+          "id": "startups-worried-paying-employees-svb-192359700.html",
+          "author": null,
+          "description": "(Bloomberg) -- Startup founders are beginning to worry about whether they’ll be able to keep paying employees following the failure of Silicon Valley Bank.Most Read from BloombergOne Bank Folds, Another Wobbles and Wall Street Asks If It’s a CrisisWhy Is Everyone Talking About SVB? Here's Everything We Know About the Bank Right NowSilicon Valley Bank Swiftly Collapses After Tech Startups FleeSVB Races to Prevent Bank Run as Funds Advise Pulling CashPeter Thiel’s Founders Fund Advises Companies t",
+          "link": "https://finance.yahoo.com/news/startups-worried-paying-employees-svb-192359700.html",
+          "publishedOn": "2023-03-10T20:20:14.000Z",
+          "wordCount": 14405,
+          "title": "Startups Are Worried About Paying Employees After SVB Collapse",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/E8tvsj4pZdKLYhUueZGQXA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_technology_68/dfde1d365633e712719d998f8a77da20"
+        },
+        {
           "id": "20-banks-that-are-sitting-on-huge-potential-securities-lossesas-was-svb-c4bbcafa?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "SVB Financial faced a perfect storm, but there are plenty of other banks that would face big losses if they were forced to dump securities to raise cash.",
@@ -21585,6 +21635,16 @@
           "wordCount": 8710,
           "title": "20 banks that are sitting on huge potential securities losses—as was SVB",
           "imageUrl": "https://images.mktw.net/im-740808/social"
+        },
+        {
+          "id": "svb-collapse-stops-big-fed-rate-hike-bets-cold-hammers-us-stocks?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.thestreet.com/markets/svb-collapse-stops-big-fed-rate-hike-bets-cold-hammers-us-stocks?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-03-10T20:02:00.000Z",
+          "wordCount": null,
+          "title": "SVB Collapse Stops Big Fed Rate Hike Bets In Their Tracks, Hammers U.S. Stocks",
+          "imageUrl": null
         },
         {
           "id": "cathie-wood-makes-a-big-prediction-on-the-future-of-banks?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
@@ -21675,6 +21735,16 @@
           "wordCount": null,
           "title": "Silicon Valley Bank Fails; FDIC Takes Over, Creates New Bank",
           "imageUrl": null
+        },
+        {
+          "id": "svb-collapse-highlights-620-billion-172512701.html",
+          "author": null,
+          "description": "The spike in interest rates has been devastating for the value of their securities portfolios, meaning many carry around billions in unrealized losses that could pose a problem if funding dries up.",
+          "link": "https://finance.yahoo.com/news/svb-collapse-highlights-620-billion-172512701.html",
+          "publishedOn": "2023-03-10T17:25:12.000Z",
+          "wordCount": 14589,
+          "title": "SVB collapse highlights $620 billion hole lurking in banks’ balance sheets",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/9w7WNx7RegzxNDt.Ce5sXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/97b58934021753a34f3cf804b5472da0"
         },
         {
           "id": "republic-first-shares-jump-10-171835601.html",
@@ -46415,36 +46485,6 @@
           "wordCount": 7366,
           "title": "Pfizer, Novartis, Merck Executives Say They Are Hunting for Deals Again",
           "imageUrl": "https://images.wsj.net/im-720779/social"
-        },
-        {
-          "id": "stocks-higher-disney-pepsico-mattel-twitter-5-things-to-know?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.thestreet.com/markets/stocks-higher-disney-pepsico-mattel-twitter-5-things-to-know?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2023-02-09T09:57:00.000Z",
-          "wordCount": null,
-          "title": "Stocks Firmly Higher, Disney, PepsiCo, Mattel, Twitter - Five Things To Know",
-          "imageUrl": null
-        },
-        {
-          "id": "asia-stocks-face-declines-wall-230048868.html",
-          "author": null,
-          "description": "(Bloomberg) -- Stocks advanced with US futures as investors digested a slew of earnings reports and awaited data on US jobless claims.Most Read from BloombergMeta Asks Many Managers to Get Back to Making Things or LeaveGeorge Santos Gets Into Fight With Mitt Romney at State of the Union DebutChinese Balloon Was Part of Years-Long Spying Program, US SaysDeSantis Chides Trump as Republicans’ 2024 Presidential Race Heats UpRussia Will Fail to ‘Break’ Ukraine, Estonia’s Spy Chief SaysContracts on U.",
-          "link": "https://finance.yahoo.com/news/asia-stocks-face-declines-wall-230048868.html",
-          "publishedOn": "2023-02-09T09:52:45.000Z",
-          "wordCount": 14136,
-          "title": "Stocks Rise With US Futures as Earnings in Focus: Markets Wrap",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/9b55b296f2c0165f49ad9775a9c28d2c"
-        },
-        {
-          "id": "wealthy-clients-pulled-more-than-100-billion-from-credit-suisse-in-the-fourth-quarter-11675934028?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Beleaguered Swiss banking giant Credit Suisse on Thursday revealed that wealthy clients pulled 92.7 billion francs ($101 billion) out of the bank in the...",
-          "link": "https://www.marketwatch.com/story/wealthy-clients-pulled-more-than-100-billion-from-credit-suisse-in-the-fourth-quarter-11675934028?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-09T09:13:00.000Z",
-          "wordCount": 7248,
-          "title": "Wealthy clients pulled more than $100 billion from Credit Suisse in the fourth quarter",
-          "imageUrl": "https://images.mktw.net/im-720927/social"
         }
       ]
     }
