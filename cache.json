@@ -6741,36 +6741,6 @@
             "url": "https://media.nu.nl/m/3frxet2af41j_sqr256.jpg/essent-gaat-de-tarieven-ook-verlagen-maar-ze-blijven-boven-het-prijsplafond.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/3frxet2af41j_sqr256.jpg/essent-gaat-de-tarieven-ook-verlagen-maar-ze-blijven-boven-het-prijsplafond.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6250508/",
-          "author": "onze techredactie",
-          "description": "De Fraudehelpdesk heeft vorig jaar een half miljoen meldingen over oplichting ontvangen. Daarbij werd in 7.661 gevallen ook financiële schade gemeld. Oplichters wisten ruim 43 miljoen euro buit te maken.",
-          "link": "https://www.nu.nl/tech/6250508/oplichters-maakten-vorig-jaar-43-miljoen-euro-buit-vooral-via-beleggingsfraude.html",
-          "publishedOn": "2023-02-09T08:47:46.000Z",
-          "wordCount": 923,
-          "title": "Oplichters maakten vorig jaar 43 miljoen euro buit, vooral via beleggingsfraude",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/v41x1w1aqm8j_sqr256.jpg/oplichters-maakten-vorig-jaar-43-miljoen-euro-buit-vooral-via-beleggingsfraude.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/v41x1w1aqm8j_sqr256.jpg/oplichters-maakten-vorig-jaar-43-miljoen-euro-buit-vooral-via-beleggingsfraude.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6250480/",
-          "author": "onze nieuwsredactie",
-          "description": "Entertainmentconcern Walt Disney gaat het bedrijf herstructureren, waarbij zevenduizend banen worden geschrapt. Dat komt overeen met 3,6 procent van het wereldwijde personeelsbestand.",
-          "link": "https://www.nu.nl/economie/6250480/disney-schrapt-wereldwijd-zevenduizend-banen.html",
-          "publishedOn": "2023-02-09T08:14:44.000Z",
-          "wordCount": 814,
-          "title": "Disney schrapt wereldwijd zevenduizend banen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/8mgx2vha20qz_sqr256.jpg/disney-schrapt-wereldwijd-zevenduizend-banen.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/8mgx2vha20qz_sqr256.jpg/disney-schrapt-wereldwijd-zevenduizend-banen.jpg"
         }
       ]
     },
@@ -6779,6 +6749,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/stocks/08/sipc-fdic-bank-failure.asp",
+          "author": "Linda Grayson",
+          "description": "The SIPC and FDIC insure against personal financial ruin when banks or brokerages go belly up.",
+          "link": "https://www.investopedia.com/articles/stocks/08/sipc-fdic-bank-failure.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-10T20:28:26.000Z",
+          "wordCount": 5118,
+          "title": "Bank Failure: Will Your Assets Be Protected?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/fMEo5Nnffe_Tm8Ie3UP52IRIc7s=/285x260/bonds-lrg-2-5bfc2b24c9e77c00519a93b5.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/fMEo5Nnffe_Tm8Ie3UP52IRIc7s=/285x260/bonds-lrg-2-5bfc2b24c9e77c00519a93b5.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/pf/09/to-lend-or-not-to-lend.asp",
+          "author": "Andrew Beattie",
+          "description": "Find out how lending cash to family or friends can put a strain on your relationship and your bank account. Learn how to make family loans safely.",
+          "link": "https://www.investopedia.com/articles/pf/09/to-lend-or-not-to-lend.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-10T20:15:31.000Z",
+          "wordCount": 4866,
+          "title": "Should You Make a Personal Loan to Family?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/6TH3eOM1MtdtWBSC_3hdT1EXMzc=/6500x4333/GettyImages-1347451218-5e5fc9f1e7924fcea31c597ceaeb3518.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/6TH3eOM1MtdtWBSC_3hdT1EXMzc=/6500x4333/GettyImages-1347451218-5e5fc9f1e7924fcea31c597ceaeb3518.jpg"
+        },
         {
           "id": "https://www.investopedia.com/silicon-valley-bank-fails-insured-deposits-to-be-protected-7253956",
           "author": "Staff Author",
@@ -21567,6 +21567,36 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "first-republic-hit-by-svb-failure-7431495e?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The bank, whose shares have lost 35% of their value in the past week, sought to calm investors on Friday.",
+          "link": "https://www.wsj.com/articles/first-republic-hit-by-svb-failure-7431495e?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-10T20:54:00.000Z",
+          "wordCount": 7877,
+          "title": "First Republic Hit by Silicon Valley Bank Failure",
+          "imageUrl": "https://images.wsj.net/im-740765/social"
+        },
+        {
+          "id": "20-banks-that-are-sitting-on-huge-potential-securities-lossesas-was-svb-c4bbcafa?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "SVB Financial faced a perfect storm, but there are plenty of other banks that would face big losses if they were forced to dump securities to raise cash.",
+          "link": "https://www.marketwatch.com/story/20-banks-that-are-sitting-on-huge-potential-securities-lossesas-was-svb-c4bbcafa?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-10T20:15:00.000Z",
+          "wordCount": 8710,
+          "title": "20 banks that are sitting on huge potential securities losses—as was SVB",
+          "imageUrl": "https://images.mktw.net/im-740808/social"
+        },
+        {
+          "id": "cathie-wood-makes-a-big-prediction-on-the-future-of-banks?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.thestreet.com/stocks/cathie-wood-makes-a-big-prediction-on-the-future-of-banks?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-03-10T19:54:00.000Z",
+          "wordCount": null,
+          "title": "Cathie Wood Makes a Big Prediction on the Future of Banks",
+          "imageUrl": null
+        },
+        {
           "id": "charles-schwab-stock-price-bank-selloff-4bb1ae5f?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "The giant brokerage firm's stock dropped as much as 20% on Thursday and Friday.",
@@ -22655,6 +22685,16 @@
           "wordCount": 13832,
           "title": "Pactiv Evergreen execs sold over 50K shares before announcing devastating paper mill closure in NC small town",
           "imageUrl": "https://media.zenfs.com/en/fox_business_text_367/858b7de755d191a1c62d854937e472aa"
+        },
+        {
+          "id": "elon-musk-reportedly-building-own-165241581.html",
+          "author": null,
+          "description": "Dubbed “Snailbrook,” the 3,500-acre community will house workers from SpaceX, Tesla and Boring.",
+          "link": "https://finance.yahoo.com/news/elon-musk-reportedly-building-own-165241581.html",
+          "publishedOn": "2023-03-09T16:52:41.000Z",
+          "wordCount": 14202,
+          "title": "Elon Musk is reportedly building his own town in Texas",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/U6m8Ju0YiQpAedVRgnuG4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NzQ-/https://media.zenfs.com/en/fortune_175/635226bc7226e846b4eae3d5e0bdde10"
         },
         {
           "id": "as-money-market-funds-rake-in-cash-analysts-see-debt-ceiling-risks-1e59ce55?siteid=yhoof2&yptr=yahoo",
@@ -46405,16 +46445,6 @@
           "wordCount": 7248,
           "title": "Wealthy clients pulled more than $100 billion from Credit Suisse in the fourth quarter",
           "imageUrl": "https://images.mktw.net/im-720927/social"
-        },
-        {
-          "id": "stanchart-still-play-abu-dhabis-081818940.html",
-          "author": null,
-          "description": "(Bloomberg) -- Most Read from BloombergMeta Asks Many Managers to Get Back to Making Things or LeaveGeorge Santos Gets Into Fight With Mitt Romney at State of the Union DebutChinese Balloon Was Part of Years-Long Spying Program, US SaysDeSantis Chides Trump as Republicans’ 2024 Presidential Race Heats UpRussia Will Fail to ‘Break’ Ukraine, Estonia’s Spy Chief SaysFirst Abu Dhabi Bank PJSC is pressing ahead with a potential offer for Standard Chartered Plc, after a move to put earlier takeover pl",
-          "link": "https://finance.yahoo.com/news/stanchart-still-play-abu-dhabis-081818940.html",
-          "publishedOn": "2023-02-09T08:59:56.000Z",
-          "wordCount": 14678,
-          "title": "StanChart Is Still in Play as Abu Dhabi's FAB Explores $35 Billion Offer",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/DKSPyXfoNCTutyXYtUYzkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/0738bba7bbed11ec317e6026ad3bf084"
         }
       ]
     }
