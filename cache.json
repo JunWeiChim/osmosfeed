@@ -858,6 +858,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6254857/",
+          "author": "onze economieredactie",
+          "description": "Silicon Valley Bank (SVB) is vrijdag door de autoriteiten in de Amerikaanse staat Californië gesloten nadat het niet was gelukt om geld op te halen met de uitgifte van nieuwe aandelen. Daardoor kon de bank niet langer aan haar verplichtingen voldoen. De federale overheidsdienst FDIC is aangesteld als bewindvoerder.",
+          "link": "https://www.nu.nl/economie/6254857/amerikaanse-start-upbank-svb-failliet-grootste-die-omvalt-sinds-bankencrisis.html",
+          "publishedOn": "2023-03-11T09:41:45.000Z",
+          "wordCount": 967,
+          "title": "Amerikaanse start-upbank SVB failliet, grootste die omvalt sinds bankencrisis",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/agux6rhaohcz_sqr256.jpg/amerikaanse-start-upbank-svb-failliet-grootste-die-omvalt-sinds-bankencrisis.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/agux6rhaohcz_sqr256.jpg/amerikaanse-start-upbank-svb-failliet-grootste-die-omvalt-sinds-bankencrisis.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6254793/",
           "author": "onze economieredactie",
           "description": "De waarde van de bitcoin is vrijdag gedaald tot ongeveer 19.900 dollar (zo'n 18.600 euro). Het is voor het eerst sinds medio januari dat de grootste cryptomunt minder dan 20.000 dollar waard is. Verwachte renteverhogingen, mogelijke strengere regels en problemen bij cryptobank Silvergate deden de koers van de munt geen goed.",
@@ -21208,36 +21223,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/u77U9xyeShhRCEJE2ZJB5bDzcYI=/2121x1414/Is-theft-of-cash-in-home-covered-by-insurance-5856eefd3df78ce2c33efe01.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/kraken-to-pay-30-million-shut-down-staking-business-in-sec-settlement-7107971",
-          "author": "Staff Author",
-          "description": "The cryptocurrency exchange Kraken has been unlawfully offering securities through its staking business, according to the Securities and Exchange Commission.",
-          "link": "https://www.investopedia.com/kraken-to-pay-30-million-shut-down-staking-business-in-sec-settlement-7107971?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-09T21:39:53.000Z",
-          "wordCount": 3136,
-          "title": "Kraken To Pay $30 Million, Shut Down Staking Business In SEC Settlement",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/kW65aS_wNqq3V3b4G6GpcYDfajg=/5565x3710/GettyImages-1239844530-1469d05ffc8a4ccb972c30b7ebb7f15c.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/kW65aS_wNqq3V3b4G6GpcYDfajg=/5565x3710/GettyImages-1239844530-1469d05ffc8a4ccb972c30b7ebb7f15c.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-february-9-2023-rates-waver-7107640",
-          "author": "Sabrina Karl",
-          "description": "After spiking to a one-month high earlier this week, the 30-year average has eased off, but just slightly.",
-          "link": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-february-9-2023-rates-waver-7107640?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-09T21:37:07.000Z",
-          "wordCount": 3457,
-          "title": "Today's Mortgage Rates & Trends - February 9, 2023: Rates waver",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/emAbjFx1qA_Ykmb8uZToqlXNoEY=/3126x2085/February23MortageRatesNews-09-ae6ad5fa854c49fa9649b8fa6bcad5af.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/emAbjFx1qA_Ykmb8uZToqlXNoEY=/3126x2085/February23MortageRatesNews-09-ae6ad5fa854c49fa9649b8fa6bcad5af.jpg"
         }
       ]
     },
@@ -21246,6 +21231,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "american-express-oracle-stock-price-dividends-62da43c5?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Credit card and travel company American Express announced a 15% increase to its quarterly dividend.",
+          "link": "https://www.barrons.com/articles/american-express-oracle-stock-price-dividends-62da43c5?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-11T08:00:00.000Z",
+          "wordCount": 7117,
+          "title": "American Express and 4 More Companies That Raised Their Stock Dividends This Week",
+          "imageUrl": "https://images.barrons.com/im-739576/social"
+        },
         {
           "id": "auddev&yptr=yahoo",
           "author": null,
@@ -21285,6 +21280,16 @@
           "wordCount": 7174,
           "title": "SoFi CEO Noto makes ‘opportunistic’ million-dollar stock purchase as SVB crisis fuels selloff",
           "imageUrl": "https://images.mktw.net/im-282165/social"
+        },
+        {
+          "id": "silicon-valley-banks-failure-may-lead-to-smaller-fed-rate-hike-efa84f3?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "With financial stocks reeling, the U.S. central bank is likely to hold its federal-funds increase to a quarter-point this month.",
+          "link": "https://www.barrons.com/articles/silicon-valley-banks-failure-may-lead-to-smaller-fed-rate-hike-efa84f3?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-11T01:41:00.000Z",
+          "wordCount": 7162,
+          "title": "Silicon Valley Bank’s Failure May Lead to Smaller Fed Rate Hike",
+          "imageUrl": "https://images.barrons.com/im-741061/social"
         },
         {
           "id": "svb-depositors-investors-tried-pull-013220358.html",
@@ -45555,76 +45560,6 @@
           "wordCount": 13479,
           "title": "Stocks moving in after-hours: Lyft, Expedia, PayPal",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/saY2w7F_IMQBbb_yMouRdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzQ-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/63baa330-085d-11ed-bf69-3a111366367f"
-        },
-        {
-          "id": "micron-cuts-executives-salaries-latest-220026712.html",
-          "author": null,
-          "description": "(Bloomberg) -- Micron Technology Inc. is cutting executives salaries by as much as 20% and suspending bonuses as the chipmaker copes with an industrywide slump.Most Read from BloombergRussia Blames US for Nord Stream Blasts, Threatens ConsequencesCommodity Trader Trafigura Faces $577 Million Loss After Uncovering Nickel FraudUS Makes Case That Chinese Balloon Was Part of Spying ProgramChina Balloon Had Western-Made Parts With English Writing, Lawmakers ToldUS Takes Custody of Venezuela Embassy i",
-          "link": "https://finance.yahoo.com/news/micron-cuts-executives-salaries-latest-220026712.html",
-          "publishedOn": "2023-02-09T22:00:26.000Z",
-          "wordCount": 13660,
-          "title": "Micron Cuts Executives’ Salaries in Latest Belt-Tightening Move",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/IS.ly7uY.1nCgQAL23cB8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/34e4e166f469af08006ea802bdd38750"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/technology/dexcom-stock-dexcom-earnings-q4-2022/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-02-09T21:58:45.000Z",
-          "wordCount": null,
-          "title": "Dexcom, A Top 10% Profit Machine, Just Reported Skyrocketing Earnings",
-          "imageUrl": null
-        },
-        {
-          "id": "paypal-ceo-plans-his-exit-stock-rises-after-earnings-and-forecast-beat-11675978005?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "PayPal Holdings Inc.'s cost-savings story continued in the holiday quarter, as the digital-payments company topped profit expectations for the period.",
-          "link": "https://www.marketwatch.com/story/paypal-ceo-plans-his-exit-stock-rises-after-earnings-and-forecast-beat-11675978005?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-09T21:54:00.000Z",
-          "wordCount": 7262,
-          "title": "PayPal CEO plans his exit, stock rises after earnings show ‘inflection point’",
-          "imageUrl": "https://images.mktw.net/im-597666/social"
-        },
-        {
-          "id": "lyft-q4-earnings-stock-tanks-30-after-q1-2023-guidance-miss-213100485.html",
-          "author": null,
-          "description": "Lyft reported its Q4 2022 earnings on Feb. 9 after market close.",
-          "link": "https://finance.yahoo.com/news/lyft-q4-earnings-stock-tanks-30-after-q1-2023-guidance-miss-213100485.html",
-          "publishedOn": "2023-02-09T21:31:00.000Z",
-          "wordCount": 13881,
-          "title": "Lyft Q4 earnings: Stock tanks 30% after Q1 2023 guidance miss",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/YhguwAmswjIxpBi9rrV53Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-08/15069e40-2240-11ed-a7df-bcb5a7b41ed1"
-        },
-        {
-          "id": "lyft-q4-earnings-stock-sinks-after-q1-2023-guidance-miss-172443743.html",
-          "author": null,
-          "description": "Lyft reported its Q4 2022 earnings on Feb. 9 after market close.",
-          "link": "https://finance.yahoo.com/news/lyft-q4-earnings-stock-sinks-after-q1-2023-guidance-miss-172443743.html",
-          "publishedOn": "2023-02-09T21:31:00.000Z",
-          "wordCount": 13653,
-          "title": "Lyft Q4 earnings: Stock sinks after Q1 2023 guidance miss",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/YhguwAmswjIxpBi9rrV53Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-08/15069e40-2240-11ed-a7df-bcb5a7b41ed1"
-        },
-        {
-          "id": "adidas-warns-of-losses-stemming-from-yeezy-fallout-11675977491?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The German sneaker giant set out the financial cost of its exit from the Yeezy collaboration with Kanye West.",
-          "link": "https://www.wsj.com/articles/adidas-warns-of-losses-stemming-from-yeezy-fallout-11675977491?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-09T21:18:00.000Z",
-          "wordCount": 7343,
-          "title": "Adidas Warns of Losses Stemming From Yeezy Fallout",
-          "imageUrl": "https://images.wsj.net/im-721695/social"
-        },
-        {
-          "id": "stranded-college-savings-soon-rescued-100108146.html",
-          "author": null,
-          "description": "Starting next year, unused 529 education savings money can be rolled into a Roth IRA, giving kids a head start on their retirement.",
-          "link": "https://finance.yahoo.com/news/stranded-college-savings-soon-rescued-100108146.html",
-          "publishedOn": "2023-02-09T21:15:41.000Z",
-          "wordCount": 14765,
-          "title": "Stranded college savings plan can soon be rescued. New law lets 529 dollars roll into retirement",
-          "imageUrl": "https://media.zenfs.com/en/usa_today_money_325/b35396c0620e386333af4e45593b51f7"
         }
       ]
     }
