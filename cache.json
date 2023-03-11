@@ -6650,6 +6650,31 @@
       "siteUrl": "https://www.investopedia.com",
       "articles": [
         {
+          "id": "https://www.investopedia.com/legal-4768893",
+          "author": "Staff Author",
+          "description": "Investopedia policies regarding editorial, advertising, privacy, and terms of use.",
+          "link": "https://www.investopedia.com/legal-4768893?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-11T14:52:42.000Z",
+          "wordCount": 19100,
+          "title": "Policy Pages",
+          "imageUrl": "https://www.investopedia.com/thmb/Sxark7T9uD1N9O3iHTTQlzAKFKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/investopedia-social-share-default-ab113c8afd9a439dbc4c68b1926292f4.png"
+        },
+        {
+          "id": "https://www.investopedia.com/unemployment-rate-by-state-4843541",
+          "author": "Ward Williams",
+          "description": "Unemployment can vary wildly depending on where you live. Fortunately, the state unemployment rate at least makes it easy to find out.",
+          "link": "https://www.investopedia.com/unemployment-rate-by-state-4843541?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-11T14:08:36.000Z",
+          "wordCount": 12196,
+          "title": "Unemployment Rate by State",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/-PKaZo-KJULerfWgDvAFK5B4E1o=/2116x1417/Unemployment-589de5793df78c47588e1d2e.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/-PKaZo-KJULerfWgDvAFK5B4E1o=/2116x1417/Unemployment-589de5793df78c47588e1d2e.jpg"
+        },
+        {
           "id": "https://www.investopedia.com/more-people-are-returning-to-work-some-groups-faster-than-others-7254047",
           "author": "Staff Author",
           "description": "As the economic effects of the pandemic continue to fade, more people are getting back into the workforce—some groups more than others, charts of labor force participation show.",
@@ -21047,6 +21072,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "why-a-bad-stock-market-week-doesnt-matter?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.thestreet.com/investing/stocks/why-a-bad-stock-market-week-doesnt-matter?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-03-11T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Why a Bad Stock Market Week Doesn't Matter",
+          "imageUrl": null
+        },
+        {
+          "id": "what-happened-to-silvergate-capital-and-why-does-it-matter-28cd13a?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The crypto industry banker was hard hit by the bankruptcy of FTX, and on Wednesday announced that it will close operations and liquidate its bank",
+          "link": "https://www.marketwatch.com/story/what-happened-to-silvergate-capital-and-why-does-it-matter-28cd13a?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-11T13:30:00.000Z",
+          "wordCount": 7505,
+          "title": "What happened to Silvergate Capital? And why does it matter?",
+          "imageUrl": "https://images.mktw.net/im-734843/social"
+        },
+        {
           "id": "things-were-way-tougher-charlie-150000169.html",
           "author": null,
           "description": "The 99-year-old investing legend has spoken.",
@@ -21745,6 +21790,16 @@
           "wordCount": 6642,
           "title": "SVB Financial is trying to sell itself: CNBC",
           "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
+        },
+        {
+          "id": "revolut-backer-plunges-over-silicon-140556245.html",
+          "author": null,
+          "description": "Shares in a technology fund that counts the banking app Revolut among its investments have plunged by almost a fifth as panic over the US Silicon Valley Bank spreads to the UK.",
+          "link": "https://finance.yahoo.com/news/revolut-backer-plunges-over-silicon-140556245.html",
+          "publishedOn": "2023-03-10T14:05:56.000Z",
+          "wordCount": 13591,
+          "title": "Revolut backer plunges over Silicon Valley Bank funding fears",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/jVeFZWc9lY104aAuRXEcUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/c6d828f59c77efd8b04b8930c1e528b6"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -45325,16 +45380,6 @@
           "wordCount": 14226,
           "title": "Asia Stocks, US Bonds Fall as Rates Outlook Sours: Markets Wrap",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/452a34ed67906961408014c025153614"
-        },
-        {
-          "id": "markets-bitcoin-slumps-broad-sell-021827400.html",
-          "author": null,
-          "description": "Bitcoin sank below US$22,000 on Thursday morning in Asia after the U.S. SEC slapped a fine on the Kraken exchange, sparking concerns that regulators are set to take a tougher line on crypto trading.",
-          "link": "https://finance.yahoo.com/news/markets-bitcoin-slumps-broad-sell-021827400.html",
-          "publishedOn": "2023-02-10T02:18:27.000Z",
-          "wordCount": 13755,
-          "title": "Markets: Bitcoin slumps in broad sell off amid SEC charges against Kraken, regulation worries",
-          "imageUrl": "https://media.zenfs.com/en/forkast_news_articles_672/d2d65e630c0e89f153677c3969ba50b6"
         }
       ]
     }
