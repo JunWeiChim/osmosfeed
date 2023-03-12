@@ -818,6 +818,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6254994/",
+          "author": "onze nieuwsredactie",
+          "description": "Olie- en gasconcern Saudi Aramco heeft afgelopen jaar een recordwinst van 161 miljard dollar (ruim 151 miljard euro) geboekt. Dat is bijna de helft meer dan de winst in 2021.",
+          "link": "https://www.nu.nl/economie/6254994/ook-saudi-aramco-boekt-recordwinst-dankzij-hoge-olieprijzen.html",
+          "publishedOn": "2023-03-12T15:05:27.000Z",
+          "wordCount": 962,
+          "title": "Ook Saudi Aramco boekt recordwinst dankzij hoge olieprijzen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/exxxu4aacn6u_sqr256.jpg/ook-saudi-aramco-boekt-recordwinst-dankzij-hoge-olieprijzen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/exxxu4aacn6u_sqr256.jpg/ook-saudi-aramco-boekt-recordwinst-dankzij-hoge-olieprijzen.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6254711/",
           "author": "Tim Wijkman-van Aalst",
           "description": "De Europese Commissie werkt aan nieuwe wetgeving tegen online kindermisbruik. Voorstanders zijn blij dat de aanpak straks eindelijk wettelijk geregeld wordt. Maar tegenstanders vrezen voor de privacy van burgers en waarschuwen dat de wet averechts werkt. \"Ik maak me hier ernstig zorgen over.\"",
@@ -20637,6 +20652,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "silicon-valley-bank-fallout-poses-new-risks-for-markets-fed-81d1617a?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Their next steps could have ripple effects through the financial system.",
+          "link": "https://www.wsj.com/articles/silicon-valley-bank-fallout-poses-new-risks-for-markets-fed-81d1617a?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-12T15:04:00.000Z",
+          "wordCount": 7938,
+          "title": "Regulators Face Urgent Task to Stem Spread From Silicon Valley Bank",
+          "imageUrl": "https://images.wsj.net/im-741308/social"
+        },
+        {
+          "id": "markets-risk-more-upheaval-banking-140000691.html",
+          "author": null,
+          "description": "(Bloomberg) -- Traders are steeling themselves for the risk of more turbulence after the biggest US bank collapse since the 2008 financial crisis sent shockwaves through markets. Most Read from BloombergUS Discusses Fund to Backstop Deposits If More Banks FailSVB Fallout Spreads Around World From London to SingaporeStartup Bank Had a Startup Bank RunSVB’s 44-Hour Collapse Was Rooted in Treasury Bets During PandemicFDIC Races to Return Some Uninsured SVB Deposits MondayThe unravelling of SVB Fina",
+          "link": "https://finance.yahoo.com/news/markets-risk-more-upheaval-banking-140000691.html",
+          "publishedOn": "2023-03-12T14:00:00.000Z",
+          "wordCount": 14648,
+          "title": "Markets at Risk of More Upheaval as Banking Uncertainty Persists",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/3be0e06ff102529461bbec3c79ebdd5e"
+        },
+        {
           "id": "svb-fallout-inflation-retail-sales-what-to-know-this-week-134712538.html",
           "author": null,
           "description": "The failure of Silicon Valley Bank and how investors react in the week ahead will be the market's top focus, though key economic data on inflation and retail sales ought not to be overlooked.",
@@ -20717,6 +20752,16 @@
           "imageUrl": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/97b59d79-d498-11e9-822b-956377fc1a97.jpg"
         },
         {
+          "id": "hot-ipos-newly-public-stocks-102710086.html",
+          "author": null,
+          "description": "It’s no easy task making sense of the stock market these days. The year began in an optimistic mood, but following a downtrend that began in February, the S&P 500 is almost back to the level it was at when 2023 kicked into action. And these confusing and uncertain times have been reflected in the IPO market. IPOs depend strongly on the predictability of available capital; whether it runs cheap or expensive, both companies and investors want to have certainty. And what we’re seeing now is an exte",
+          "link": "https://finance.yahoo.com/news/hot-ipos-newly-public-stocks-102710086.html",
+          "publishedOn": "2023-03-12T10:27:10.000Z",
+          "wordCount": 14609,
+          "title": "‘Hot IPOs;’ These Newly-Public Stocks Are ‘Strong Buys,’ According to Analysts — Here’s Why and Where They’re Headed",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/953f0f02bb8a07f8a1e565fed8aa84d1"
+        },
+        {
           "id": "texas-gas-station-hiring-many-130000967.html",
           "author": null,
           "description": "What's in your tank?",
@@ -20745,6 +20790,16 @@
           "wordCount": 8385,
           "title": "Wall Street Braces for the Next Silicon Valley Bank",
           "imageUrl": "https://images.wsj.net/im-741150/social"
+        },
+        {
+          "id": "ge-vernova-stock-wind-power-dcefbadd?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Wind power is growing in the U.S. and accounting for a a larger share of global electricity generating capacity.",
+          "link": "https://www.barrons.com/articles/ge-vernova-stock-wind-power-dcefbadd?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-12T08:00:00.000Z",
+          "wordCount": 7125,
+          "title": "How Wind Can Power the Planet and Aid GE Stock",
+          "imageUrl": "https://images.barrons.com/im-739526/social"
         },
         {
           "id": "fed-rate-puzzle-gets-final-210000246.html",
@@ -44475,16 +44530,6 @@
           "wordCount": 6815,
           "title": "K-1 Tax Forms Will Be an Even Bigger Hassle This Year. What to Do About It.",
           "imageUrl": "https://images.barrons.com/im-720115/social"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/market-rally-has-first-real-pullback-cpi-inflation-report-looms-large-tesla-stock/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-02-11T02:31:49.000Z",
-          "wordCount": null,
-          "title": "Market Rally Pullback Continues — What's Your Game Plan? Inflation Report Looms",
-          "imageUrl": null
         }
       ]
     }
