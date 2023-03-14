@@ -878,6 +878,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6255258/",
+          "author": "onze economieredactie",
+          "description": "Facebook-moederbedrijf Meta gaat nog eens tienduizend extra banen schrappen om kosten te besparen. De tweede ontslagronde komt boven op de reorganisatie die in november is aangekondigd. Toen schrapte het socialemediabedrijf elfduizend banen.",
+          "link": "https://www.nu.nl/economie/6255258/tweede-ontslagronde-bij-facebook-moederbedrijf-meta-tienduizend-banen-weg.html",
+          "publishedOn": "2023-03-14T15:07:40.000Z",
+          "wordCount": 849,
+          "title": "Tweede ontslagronde bij Facebook-moederbedrijf Meta: tienduizend banen weg",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/grfx30vam079_sqr256.jpg/tweede-ontslagronde-bij-facebook-moederbedrijf-meta-tienduizend-banen-weg.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/grfx30vam079_sqr256.jpg/tweede-ontslagronde-bij-facebook-moederbedrijf-meta-tienduizend-banen-weg.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6255252/",
           "author": "Tom van Gurp",
           "description": "De waarde van de grootste cryptomunt is dinsdag voor de vierde dag op rij gestegen. Voor 1 bitcoin betaal je ruim 26.000 dollar (24.200 euro). Dat is de hoogste koers sinds juni vorig jaar.",
@@ -6824,6 +6839,81 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/economics/08/federal-reserve.asp",
+          "author": "Andrew Beattie",
+          "description": "Find out how this institution has stabilized the U.S. economy during economic downturns.",
+          "link": "https://www.investopedia.com/articles/economics/08/federal-reserve.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-14T15:00:42.000Z",
+          "wordCount": 6322,
+          "title": "How the Federal Reserve Was Formed",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/srxOMQTuGinxz1UJUP4pz-uyiuM=/3000x2000/fedres-572f19773df78c038e132299.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/srxOMQTuGinxz1UJUP4pz-uyiuM=/3000x2000/fedres-572f19773df78c038e132299.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/b/bankrun.asp",
+          "author": "Adam Hayes",
+          "description": "A bank run is when many customers withdraw their deposits simultaneously over concerns about the bank's solvency. Learn what governments do to try to prevent bank runs.",
+          "link": "https://www.investopedia.com/terms/b/bankrun.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-14T14:45:13.000Z",
+          "wordCount": 5655,
+          "title": "What Is a Bank Run? Definition, Examples, and How It Works",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/4zFSdi_zb6SKVmXby3PbfGING10=/7772x5184/manatbank-9286d4b998fc4b0091151070149dce21.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/4zFSdi_zb6SKVmXby3PbfGING10=/7772x5184/manatbank-9286d4b998fc4b0091151070149dce21.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/042815/what-metrics-can-be-used-evaluate-companies-banking-sector.asp",
+          "author": "Andriy Blokhin",
+          "description": "Learn which metrics are most useful to evaluate companies in the banking sector and the issues when comparing them across the various banks.",
+          "link": "https://www.investopedia.com/ask/answers/042815/what-metrics-can-be-used-evaluate-companies-banking-sector.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-14T14:35:55.000Z",
+          "wordCount": 4597,
+          "title": "Useful Metrics for Evaluating Bank Stocks",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/2Wcx4OfPuO4Vf-P5ykf-H31Qnqw=/1500x1000/GettyImages-1128046391-9cc36de7d1bd4ec3b2e52b5d571705d5.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/2Wcx4OfPuO4Vf-P5ykf-H31Qnqw=/1500x1000/GettyImages-1128046391-9cc36de7d1bd4ec3b2e52b5d571705d5.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/how-to-buy-uniswap-uni-7229716",
+          "author": "Staff Author",
+          "description": "Opening a crypto exchange account is an essential step in buying Uniswap (UNI). Learn what you need to open a crypto exchange account and how to do it.",
+          "link": "https://www.investopedia.com/how-to-buy-uniswap-uni-7229716?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-14T14:18:41.000Z",
+          "wordCount": 4264,
+          "title": "How to Buy Uniswap (UNI)",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/9NUnc2U-FZrSphyrBgoreSUrO5Y=/4000x2667/Primary-Image-how-to-buy-uniswap-uni-7229716-26f18912499045cfa710a14f8c16c39c.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/9NUnc2U-FZrSphyrBgoreSUrO5Y=/4000x2667/Primary-Image-how-to-buy-uniswap-uni-7229716-26f18912499045cfa710a14f8c16c39c.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/consumer-inflation-cooled-in-february-2023-7255069",
+          "author": "Staff Author",
+          "description": "Consumer inflation cooled last month, signaling some success in the Federal Reserve’s interest rate campaign and fueling speculation policymakers have more leeway to slow the pace of increases in the wake of high-profile bank failures.",
+          "link": "https://www.investopedia.com/consumer-inflation-cooled-in-february-2023-7255069?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-14T14:17:55.000Z",
+          "wordCount": 3421,
+          "title": "Consumer Inflation Cooled in February",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/aD5DZKKDEE3hvS1MZZzx4jHNwVs=/2121x1414/GettyImages-1386010022-94a0789bde4c44d3ac08f006c86cb0aa.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/aD5DZKKDEE3hvS1MZZzx4jHNwVs=/2121x1414/GettyImages-1386010022-94a0789bde4c44d3ac08f006c86cb0aa.jpg"
+        },
         {
           "id": "https://www.investopedia.com/meta-twitter-verification-7253874",
           "author": "Rob Urban",
@@ -21418,36 +21508,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/Hp-TNiAaCwVshhCYMWiZ9TxlxOM=/680x440/shutterstock_67023106-5bfc2b9846e0fb005144dd87.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/a/absolute-pollution-exclusion.asp",
-          "author": "Julia Kagan",
-          "description": "Absolute pollution exclusion is a commercial liability insurance clause that removes coverage of pollution resulting from regular business operations.",
-          "link": "https://www.investopedia.com/terms/a/absolute-pollution-exclusion.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-13T03:14:00.000Z",
-          "wordCount": 3807,
-          "title": "Absolute Pollution Exclusion Definition",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/13eInSBrE8MGSEsUATLASkV90ws=/1500x1004/GettyImages-180408620-725e112b161647118a3958c2a22ff4f5.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/13eInSBrE8MGSEsUATLASkV90ws=/1500x1004/GettyImages-180408620-725e112b161647118a3958c2a22ff4f5.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/r/reserves-to-production-ratio.asp",
-          "author": "Daniel Liberto",
-          "description": "The reserves-to-production ratio is an estimate of the amount of a natural resource that remains available based on current production rates.",
-          "link": "https://www.investopedia.com/terms/r/reserves-to-production-ratio.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-13T02:19:06.000Z",
-          "wordCount": 4069,
-          "title": "Reserves-to-Production Ratio Definition",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Uqr6uPJ3Pr75RJ4rhgcy-_ksVl8=/1500x1000/Investopedia_ReservestoProductionRatio_Color-e78f1f86b4a44674a64529ca791d5fed.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Uqr6uPJ3Pr75RJ4rhgcy-_ksVl8=/1500x1000/Investopedia_ReservestoProductionRatio_Color-e78f1f86b4a44674a64529ca791d5fed.jpg"
         }
       ]
     },
@@ -21456,6 +21516,46 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "hub-security-receives-four-million-143000148.html",
+          "author": null,
+          "description": "HUB Cyber Security Ltd (Nasdaq: HUBC), a developer of Confidential Computing cybersecurity solutions and services (\"HUB\" or the \"Company\"), today announced that it had issued and sold approximately...",
+          "link": "https://finance.yahoo.com/news/hub-security-receives-four-million-143000148.html",
+          "publishedOn": "2023-03-14T14:30:00.000Z",
+          "wordCount": 14200,
+          "title": "HUB Security Receives Four Million USD From PIPE Investors at 10USD Per Share",
+          "imageUrl": "https://media.zenfs.com/en/news_direct/58be24a46f45b96cbea1b275fa6427db"
+        },
+        {
+          "id": "inflation-6-2-strong-buy-142144380.html",
+          "author": null,
+          "description": "Markets are in a state of flux right now, with heavy changes on the near horizon. The collapse of Silicon Valley Bank – and the Fed’s takeovers of it and the crypto-heavy Silvergate and Signature banks – have sparked fears of a new banking or financial crisis, as well as calls for the Federal Reserve to pare back on its policy of interest rate hikes and monetary tightening. The inflation numbers for February were in-line with expectations, with a monthly gain of 0.4% and an annualized rate of 6%",
+          "link": "https://finance.yahoo.com/news/inflation-6-2-strong-buy-142144380.html",
+          "publishedOn": "2023-03-14T14:21:44.000Z",
+          "wordCount": 15187,
+          "title": "Inflation at 6%: 2 ‘Strong Buy’ Dividend Stocks That Beat This Rate",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/74ce752606f5f9ef662bf89b968dd479"
+        },
+        {
+          "id": "nvidia-s-charts-tell-the-tale-of-how-to-trade-the-stock-16118261?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "I'm updating my view since they reported earnings last month.",
+          "link": "https://realmoney.thestreet.com/investing/nvidia-s-charts-tell-the-tale-of-how-to-trade-the-stock-16118261?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-03-14T14:15:00.000Z",
+          "wordCount": 4204,
+          "title": "Nvidia's Charts Tell the Tale of How to Trade the Stock",
+          "imageUrl": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/1efcbd4c-06f7-11ea-93dd-df2123d47016.png"
+        },
+        {
+          "id": "honeywell-taps-coo-kapur-as-next-ceo-572795b6?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The industrial company said the 34-year veteran will succeed current CEO Darius Adamczyk in June.",
+          "link": "https://www.wsj.com/articles/honeywell-taps-coo-kapur-as-next-ceo-572795b6?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-14T14:12:00.000Z",
+          "wordCount": 7352,
+          "title": "Honeywell Taps COO Kapur as Next CEO",
+          "imageUrl": "https://images.wsj.net/im-742834/social"
+        },
         {
           "id": "bank-of-america-stock-price-bond-losses-5a203a66?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -21475,6 +21575,16 @@
           "wordCount": 13812,
           "title": "Bank stocks rally in sharp reversal from previous session",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/p5OBX5aBAuNA5aP9Rdbw0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/322b1a70-c130-11ed-b7ff-4336b78a8b98"
+        },
+        {
+          "id": "us-core-cpi-tops-estimates-133413706.html",
+          "author": null,
+          "description": "(Bloomberg) -- Underlying US consumer prices rose in February by the most in five months, forcing a tough choice for Federal Reserve officials weighing still-rapid inflation against banking turmoil in their next interest-rate decision.Most Read from BloombergCredit Suisse Finds ‘Material’ Control Lapses After SEC PromptUS Core CPI Tops Estimates, Pressuring Fed as It Weighs HikeBillionaire Charles Schwab’s Fortune Is Slammed by SVB FalloutBonds Rocket, Stocks Steady as Fed Rate Path Eyed: Market",
+          "link": "https://finance.yahoo.com/news/us-core-cpi-tops-estimates-133413706.html",
+          "publishedOn": "2023-03-14T13:34:13.000Z",
+          "wordCount": 14778,
+          "title": "US Core CPI Tops Estimates, Pressuring Fed as It Weighs Hike",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_x6Gx3fwMgbrfMR47rSqMA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/bede111cdb56cc9dc4766ab9ddea6cb8"
         },
         {
           "id": "bed-bath-beyond-stock-rises-after-retailer-amends-equity-offering-deal-a5c92898?siteid=yhoof2&yptr=yahoo",
@@ -46405,16 +46515,6 @@
           "wordCount": 13937,
           "title": "India Recoups Fifth Place in World Stocks as Adani Claws Back",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/b8d15a1d2b5bbccbb5ce77284704a939"
-        },
-        {
-          "id": "billionaire-drops-australia-coal-mine-024812676.html",
-          "author": null,
-          "description": "(Bloomberg) -- Australia’s A$133 billion ($92 billion) coal export sector suffered another blow after billionaire Clive Palmer’s Waratah Coal Inc. withdrew an appeal to open what would have been the country’s biggest mine. Most Read from BloombergChina Ready to Down Object Flying Near Naval Base: PaperObject Shot Down Over Canada in Escalating Aerial DramaUS Fighter Jet Downs Fourth Aerial Object Over North AmericaJapan Says Chinese Navy Ship Entered Its Waters Early SundayUS Fighters Down More",
-          "link": "https://finance.yahoo.com/news/billionaire-drops-australia-coal-mine-024812676.html",
-          "publishedOn": "2023-02-13T02:48:12.000Z",
-          "wordCount": 13764,
-          "title": "Billionaire Drops Australia Coal Mine Appeal in Blow for Sector",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/vIIkXulMUKUVnzDl57MgCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTE-/https://media.zenfs.com/en/bloomberg_markets_842/3741ebf3bd545ac4eba997a564dfb66a"
         }
       ]
     }
