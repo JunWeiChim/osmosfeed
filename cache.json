@@ -878,6 +878,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6255170/",
+          "author": "onze nieuwsredactie",
+          "description": "De Federal Reserve gaat een intern onderzoek doen naar haar toezicht op de Silicon Valley Bank (SVB) voordat deze omviel. Die gebeurtenissen vragen volgens Fed-voorzitter Jerome Powell namelijk om een \"grondige, transparante en snelle herziening\".",
+          "link": "https://www.nu.nl/economie/6255170/centrale-bank-vs-onderzoekt-haar-toezicht-op-omgevallen-silicon-valley-bank.html",
+          "publishedOn": "2023-03-14T05:48:36.000Z",
+          "wordCount": 991,
+          "title": "Centrale bank VS onderzoekt haar toezicht op omgevallen Silicon Valley Bank",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/02jxseeabzvt_sqr256.jpg/centrale-bank-vs-onderzoekt-haar-toezicht-op-omgevallen-silicon-valley-bank.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/02jxseeabzvt_sqr256.jpg/centrale-bank-vs-onderzoekt-haar-toezicht-op-omgevallen-silicon-valley-bank.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6255124/",
           "author": "Eva Schouten",
           "description": "De boerenprotesten, de politieke partij voor boeren en de aandacht ervoor in de media; je zou haast denken dat Nederland een boerenland is. In oppervlakte is twee derde van het landoppervlak aan te duiden als boerenland. Het aantal boerenbedrijven halveert iedere 25 jaar, blijkt uit cijfers van statistiekbureau CBS.",
@@ -21283,21 +21298,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/mY4Cw5Fd3utXioUuyqOSd-XMV_M=/1500x1000/crypto-token-cc5babc4ce79421599fa441fd82615ff.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/the-costs-of-lgbtq-family-planning-5180217",
-          "author": "Kathryn Flynn",
-          "description": "Family planning can be a complex process for LGBTQ+ people. Understanding your expenses is important to be financially prepared for the future.",
-          "link": "https://www.investopedia.com/the-costs-of-lgbtq-family-planning-5180217?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-12T17:44:06.000Z",
-          "wordCount": 5630,
-          "title": "The Costs of LGBTQ+ Family Planning",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/CbxUVI3qrbxocenmXzv0Gav40Ek=/543x354/gay-parents-589c86c03df78c4758e4e8bd.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/CbxUVI3qrbxocenmXzv0Gav40Ek=/543x354/gay-parents-589c86c03df78c4758e4e8bd.jpg"
         }
       ]
     },
@@ -21306,6 +21306,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "moody-puts-first-republic-five-042625345.html",
+          "author": null,
+          "description": "(Bloomberg) -- Moody’s Investors Service placed First Republic Bank and five other US lenders on review for downgrade, the latest sign of concern over the health of regional financial firms following the collapse of Silicon Valley Bank.Most Read from BloombergBonds Rocket, Stocks Steady as Fed Rate Path Eyed: Markets WrapBillionaire Charles Schwab’s Fortune Is Slammed by SVB FalloutUS Backstops Bank Deposits to Avert Crisis After SVB FailureHow to Safely Store Deposits If You Have More Than $250",
+          "link": "https://finance.yahoo.com/news/moody-puts-first-republic-five-042625345.html",
+          "publishedOn": "2023-03-14T04:26:25.000Z",
+          "wordCount": 14010,
+          "title": "Moody’s Puts First Republic, Five US Banks on Downgrade Watch",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/nREV3N9ArquWraQ_VwCqPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/c489ca6dd86d0d4ce6ad7402082d1819"
+        },
         {
           "id": "high-liquidity-key-2-banking-012407048.html",
           "author": null,
@@ -45935,16 +45945,6 @@
           "wordCount": 13874,
           "title": "A million more people facing paying tax on savings under Hunt’s stealth raid",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/JjxYbDTO4vSKqXzet1OgEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/a61e159d0c9f836966ee768df67bfaf9"
-        },
-        {
-          "id": "stock-market-week-ahead-consumer-price-index-inflation-retail-sales-172419890.html",
-          "author": null,
-          "description": "A busy economic calendar in the week ahead will have investors focused on signs inflation is — or isn't — starting to mdoerate across the U.S. economy.",
-          "link": "https://finance.yahoo.com/news/stock-market-week-ahead-consumer-price-index-inflation-retail-sales-172419890.html",
-          "publishedOn": "2023-02-12T17:24:19.000Z",
-          "wordCount": 14655,
-          "title": "Inflation data will test 'disinflation' optimism: What to know this week",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ZAlPnS56VZIZtaGaQrW1mg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/6feaa8b0-a954-11ed-bdde-541686bd7d42"
         }
       ]
     }
