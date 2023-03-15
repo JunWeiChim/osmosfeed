@@ -948,6 +948,36 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6255324/",
+          "author": "Eva Schouten",
+          "description": "Supermarktketen Albert Heijn (AH) stopt met de plastic clips die gebruikt worden om de zakken met brood, bolletjes en eierkoeken dicht te maken. Dat scheelt op jaarbasis 125 miljoen clipjes, aldus het bedrijf. Vanaf nu worden ze geleidelijk vervangen door clips van papier, zoals die ook bij bakkers steeds vaker te zien zijn.",
+          "link": "https://www.nu.nl/economie/6255324/albert-heijn-stopt-met-plastic-broodclips.html",
+          "publishedOn": "2023-03-15T07:01:33.000Z",
+          "wordCount": 1196,
+          "title": "Albert Heijn stopt met plastic broodclips",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/ek1x8hza01uj_sqr256.jpg/albert-heijn-stopt-met-plastic-broodclips.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/ek1x8hza01uj_sqr256.jpg/albert-heijn-stopt-met-plastic-broodclips.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6255259/",
+          "author": "Rutger Otto",
+          "description": "Opeens kreeg berichtendienst Mastodon er vorig jaar enorm veel gebruikers bij. En dat is niet heel toevallig: Elon Musk had namelijk net de overname van Twitter afgerond. Ontevreden twitteraars vonden op Mastodon een nieuw onderkomen. Veel gebruikers zijn inmiddels weer vertrokken, maar de interesse van Facebook-moederbedrijf Meta in het platform is gewekt.",
+          "link": "https://www.nu.nl/tech/6255259/steeds-stiller-op-mastodon-maar-meta-vindt-twitter-concurrent-toch-interessant.html",
+          "publishedOn": "2023-03-15T06:30:14.000Z",
+          "wordCount": 1563,
+          "title": "Steeds stiller op Mastodon, maar Meta vindt Twitter-concurrent tóch interessant",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/yinxu7sasu64_sqr256.jpg/steeds-stiller-op-mastodon-maar-meta-vindt-twitter-concurrent-toch-interessant.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/yinxu7sasu64_sqr256.jpg/steeds-stiller-op-mastodon-maar-meta-vindt-twitter-concurrent-toch-interessant.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6255259/",
           "author": "Rutger Otto",
           "description": "Opeens kreeg berichtendienst Mastodon er vorig jaar enorm veel gebruikers bij. En dat is niet heel toevallig: Elon Musk had namelijk net de overname van Twitter afgerond. Ontevreden twitteraars vonden op Mastodon een nieuw onderkomen. Veel gebruikers zijn inmiddels weer vertrokken, maar de interesse van Facebook-moederbedrijf Meta in het platform is gewekt.",
@@ -21758,21 +21788,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/TNrOj-oiKvlaSh813ZdbDnEph7s=/6663x4442/GettyImages-1433404775-146a42d5dfff4c5499bbe6a3e9279aaf.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/here-s-how-to-pay-taxes-on-your-super-bowl-winnings-7109092",
-          "author": "Staff Author",
-          "description": "If you were lucky enough to win a Super Bowl bet this year, your victory comes with the obligation to pay taxes on your winnings. How to pay those taxes and when depends on where you won and how much the bet was for.",
-          "link": "https://www.investopedia.com/here-s-how-to-pay-taxes-on-your-super-bowl-winnings-7109092?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-13T19:06:11.000Z",
-          "wordCount": 3860,
-          "title": "Here’s How To Pay Taxes On Your Super Bowl Winnings",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/R1VX8TksEggrcYuk4hLQnRsZBLc=/6000x4000/chiefs-b38a495f3bf64b8e9c2f7e98f29e275d.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/R1VX8TksEggrcYuk4hLQnRsZBLc=/6000x4000/chiefs-b38a495f3bf64b8e9c2f7e98f29e275d.jpeg"
         }
       ]
     },
@@ -21790,6 +21805,16 @@
           "wordCount": null,
           "title": "Dow Jones Futures: Nasdaq Leads Rally, But Look For This; Meta Stock Flashes Buy Signal",
           "imageUrl": null
+        },
+        {
+          "id": "treasuries-liquidity-dwindles-svb-crisis-040342047.html",
+          "author": null,
+          "description": "(Bloomberg) -- Liquidity in the world’s largest bond market is evaporating as the US banking crisis muddies the outlook for the Federal Reserve’s monetary policy.Most Read from Bloomberg‘Old-School’ Signature Bank Collapsed After Its Big Crypto LeapRussian Fighter Jet Collides With US Drone Over Black SeaUS Core CPI Tops Estimates, Pressuring Fed as It Weighs HikeCredit Suisse Finds ‘Material’ Control Lapses After SEC PromptBofA Gets More Than $15 Billion in Deposits After SVB FailsBid-ask sprea",
+          "link": "https://finance.yahoo.com/news/treasuries-liquidity-dwindles-svb-crisis-040342047.html",
+          "publishedOn": "2023-03-15T04:03:42.000Z",
+          "wordCount": 14146,
+          "title": "Treasuries Liquidity Dwindles as SVB Crisis Muddies Fed Outlook",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/jfun0TD46VsfyRWJrol.uA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDE-/https://media.zenfs.com/en/bloomberg_markets_842/aa0e3fa6f7ad8822aa0df076a4323544"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -46510,46 +46535,6 @@
           "wordCount": null,
           "title": "Cathie Wood's Firm Just Invested Heavily in a Hot January Stock",
           "imageUrl": null
-        },
-        {
-          "id": "why-it-may-be-time-to-sell-the-pop-in-tech-stocks-blackrock-190606866.html",
-          "author": null,
-          "description": "The move in tech stocks looks long in the tooth, BlackRock warns.",
-          "link": "https://finance.yahoo.com/news/why-it-may-be-time-to-sell-the-pop-in-tech-stocks-blackrock-190606866.html",
-          "publishedOn": "2023-02-13T19:06:06.000Z",
-          "wordCount": 13810,
-          "title": "Why it may be time to sell the pop in tech stocks: BlackRock",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/NZl5Y2d9B43jlnmG3bBvTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/3fa26110-57ca-11ed-8bff-7f1a800b8f59"
-        },
-        {
-          "id": "investors-are-walking-away-from-u-s-stock-market-funds-into-bonds-e0e8fab4?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The stock-market rally to start 2023 isn't keeping investors from pulling billions out of U.S. equity funds. The hitch is, money is pouring into bonds.",
-          "link": "https://www.marketwatch.com/story/investors-are-walking-away-from-u-s-stock-market-funds-into-bonds-e0e8fab4?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-13T19:04:00.000Z",
-          "wordCount": 7342,
-          "title": "Investors are walking away from U.S. stock-market funds, into bonds",
-          "imageUrl": "https://images.mktw.net/im-723640/social"
-        },
-        {
-          "id": "toyota-makes-a-big-change-on-evs?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.thestreet.com/technology/toyota-makes-a-big-change-on-evs?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2023-02-13T18:29:00.000Z",
-          "wordCount": null,
-          "title": "Toyota Makes a Big Change on EVs",
-          "imageUrl": null
-        },
-        {
-          "id": "microsoft-has-a-long-path-of-earnings-growth-ahead-says-morgan-stanley-376257fe?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Accelerating earnings growth has \"catalyzed\" strong stock performance for Microsoft in the past and can do so again, says an analyst.",
-          "link": "https://www.marketwatch.com/story/microsoft-has-a-long-path-of-earnings-growth-ahead-says-morgan-stanley-376257fe?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-13T18:19:00.000Z",
-          "wordCount": 6971,
-          "title": "Microsoft has a long path of earnings growth ahead, says Morgan Stanley",
-          "imageUrl": "https://images.mktw.net/im-291170/social"
         }
       ]
     }
