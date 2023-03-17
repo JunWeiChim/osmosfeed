@@ -978,6 +978,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6255771/",
+          "author": "Tom van Gurp",
+          "description": "Het UWV heeft vrijdag in 2,5 uur tijd 40.000 aanvragen voor het opleidingsbudget STAP ontvangen. Daarmee was om 12.30 uur het volledige budget van 34 miljoen euro op. Veel mensen vissen daardoor achter het net.",
+          "link": "https://www.nu.nl/economie/6255771/40000-aanvragen-voor-stap-budget-geld-voor-opleidingen-was-in-25-uur-op.html",
+          "publishedOn": "2023-03-17T12:35:44.000Z",
+          "wordCount": 872,
+          "title": "40.000 aanvragen voor STAP-budget: geld voor opleidingen was in 2,5 uur op",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/t42xykqa0jlp_sqr256.jpg/40000-aanvragen-voor-stap-budget-geld-voor-opleidingen-was-in-25-uur-op.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/t42xykqa0jlp_sqr256.jpg/40000-aanvragen-voor-stap-budget-geld-voor-opleidingen-was-in-25-uur-op.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6255717/",
           "author": "onze economieredactie",
           "description": "De toezichtraad van de Europese Centrale Bank (ECB) komt vrijdag ongepland bijeen om te praten over de Europese bankensector. Daar nam de nervositeit toe na het faillissement van twee banken in de Verenigde Staten: Silicon Valley Bank (SVB) en Signature Bank. Ook zijn er bij beleggers grote zorgen over het Zwitserse Credit Suisse.",
@@ -21688,21 +21703,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/rb0QypkZwNLpvYW8fDFgJYymmpg=/2670x2379/401k-egg-56a7f9ad5f9b58b7d0efc7b4.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/sec-proposal-would-apply-custody-rule-to-crypto-7110295",
-          "author": "Lyle Niedens",
-          "description": "SEC proposal would force investment advisors to place clients' crypto assets alongside stocks, bonds in custody accounts with banks or other financial institutions",
-          "link": "https://www.investopedia.com/sec-proposal-would-apply-custody-rule-to-crypto-7110295?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-16T00:43:49.000Z",
-          "wordCount": 3506,
-          "title": "SEC Proposal Would Apply Custody Rules to Crypto",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/D7KHNSqrl8OFYqnzfQCWytRMlSI=/5224x3483/GettyImages-1430133338-a9f88cffc5134bcaaecd1ad85beb563b.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/D7KHNSqrl8OFYqnzfQCWytRMlSI=/5224x3483/GettyImages-1430133338-a9f88cffc5134bcaaecd1ad85beb563b.jpg"
         }
       ]
     },
@@ -21712,6 +21712,46 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-first-republic-bank-dives-on-dividend-suspension-fedex-soars-on-earnings/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-03-17T13:01:21.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Fall 300 Points As First Republic Bank Dives 22% On Dividend Suspension; FedEx Soars On Earnings",
+          "imageUrl": null
+        },
+        {
+          "id": "are-wall-street-analysts-ignoring-the-banking-collapse-124131302.html",
+          "author": null,
+          "description": "Time to hit those spreadsheets.",
+          "link": "https://finance.yahoo.com/news/are-wall-street-analysts-ignoring-the-banking-collapse-124131302.html",
+          "publishedOn": "2023-03-17T12:41:31.000Z",
+          "wordCount": 13919,
+          "title": "Are Wall Street analysts ignoring the banking collapse?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/w90SFvHwsxoV8hHso.WtiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-07/376c1b90-9bf7-11e9-b7dd-70d69455392d"
+        },
+        {
+          "id": "stock-market-news-today-march-17-2023-123151709.html",
+          "author": null,
+          "description": "Stock futures were lower on Friday after markets staged a huge rally Thursday on news some of the country's biggest banks would band together to help stabilize struggling lender First Republic.",
+          "link": "https://finance.yahoo.com/news/stock-market-news-today-march-17-2023-123151709.html",
+          "publishedOn": "2023-03-17T12:31:51.000Z",
+          "wordCount": 14271,
+          "title": "Stock market news today: Futures lower as First Republic rescue weighs on banks",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/hDcvxlGjtViimk63iKWkJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/8dd7f620-c44d-11ed-bdfb-d499b9105200"
+        },
+        {
+          "id": "here-s-why-nvidia-shares-have-taken-off-to-the-upside-16118613?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "Can this trend continue?",
+          "link": "https://realmoney.thestreet.com/investing/here-s-why-nvidia-shares-have-taken-off-to-the-upside-16118613?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-03-17T12:18:00.000Z",
+          "wordCount": 3042,
+          "title": "Here's Why Nvidia Shares Have Taken Off to the Upside",
+          "imageUrl": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/2021358b-06f6-11ea-93dd-5fa2293824ea.png"
+        },
+        {
           "id": "crypto-funds-net-withdrawals-bitcoin-97020b77?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Last week saw the largest five-day stretch of outflows from digital-asset investment products on record, involving some 1% of assets under management.",
@@ -21720,6 +21760,16 @@
           "wordCount": 6788,
           "title": "Investors Flee Crypto Funds at Record Rate Despite Bitcoin’s Bullish Turn",
           "imageUrl": "https://images.barrons.com/im-489169/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/etfs-and-funds/sectors/warren-buffett-stocks-and-banks-give-billion-headache/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-03-17T12:00:04.000Z",
+          "wordCount": null,
+          "title": "Even Warren Buffett Loses Billions On 4 Bank Stocks",
+          "imageUrl": null
         },
         {
           "id": "never-put-money-bank-stock-110000539.html",
@@ -46590,16 +46640,6 @@
           "wordCount": null,
           "title": "Dow Jones Futures: Market Rally Keeps Climbing; Shopify, Roku, Cisco Are Key Earnings Movers",
           "imageUrl": null
-        },
-        {
-          "id": "quantumscape-7-week-stock-rise-ends.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
-          "author": null,
-          "description": "The San Jose battery developer's stock had more than doubled since late December but fell by about 14% in after-hours trading on Wednesday.",
-          "link": "https://www.bizjournals.com/sanjose/news/2023/02/15/quantumscape-7-week-stock-rise-ends.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
-          "publishedOn": "2023-02-16T00:40:02.000Z",
-          "wordCount": 4319,
-          "title": "QuantumScape's 7-week stock rise ends despite smaller than expected Q4 loss",
-          "imageUrl": "https://media.bizj.us/view/img/11852263/quantumscape-ceo-jagdeep-singh-new*1200xx2133-1200-0-111.jpg"
         }
       ]
     }
