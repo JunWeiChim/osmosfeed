@@ -998,6 +998,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6256082/",
+          "author": "onze economieredactie",
+          "description": "De prijs van gas is op de Europese handelsmarkt is tot onder de 40 euro per megawattuur gezakt. Dat is de laagste prijs sinds augustus 2021.",
+          "link": "https://www.nu.nl/economie/6256082/gasprijs-daalt-tot-onder-de-40-euro.html",
+          "publishedOn": "2023-03-20T09:59:44.000Z",
+          "wordCount": 776,
+          "title": "Gasprijs daalt tot onder de 40 euro",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/3clxsxwa94i6_sqr256.jpg/gasprijs-daalt-tot-onder-de-40-euro.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/3clxsxwa94i6_sqr256.jpg/gasprijs-daalt-tot-onder-de-40-euro.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6256069/",
           "author": "onze economieredactie",
           "description": "Leveranciers van groente en fruit, bakkerijen en ook een nootjesfabrikant betaalden gezamenlijk 3,8 miljoen euro sponsorgeld aan het raceteam van mede-eigenaar en voormalig Jumbo-topman Frits van Eerd. Dat schrijft het FD op basis van het jaarverslag van het bedrijf.",
@@ -21488,21 +21503,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/Ghpn9vm8ZnIaxdxAZ9-5wchgx6E=/2121x1414/creditcontrol-64a66706aa62408fb5da84e2b6762ebb.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/retirement/too-rich-roth-do/",
-          "author": "Rebecca Lake",
-          "description": "A backdoor Roth IRA gives high-income taxpayers a way around the rules of opening a Roth IRA.",
-          "link": "https://www.investopedia.com/retirement/too-rich-roth-do/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-18T21:52:31.000Z",
-          "wordCount": 4883,
-          "title": "Too Rich for a Roth? Do This",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/7l43JlfV0GJxcaM7ycYkRFg5EF4=/680x440/istock513480086.kupicoo.couple.planning.middle.age.cropped-5bfc32bec9e77c0058785e96.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/7l43JlfV0GJxcaM7ycYkRFg5EF4=/680x440/istock513480086.kupicoo.couple.planning.middle.age.cropped-5bfc32bec9e77c0058785e96.jpg"
         }
       ]
     },
@@ -21511,6 +21511,66 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "stock-market-movers-a86267f?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "UBS agrees to acquire rival Credit Suisse for more than $3 billion, while shares of First Republic fall sharply after the regional bank’s credit rating was cut again by S&P Global.",
+          "link": "https://www.barrons.com/articles/stock-market-movers-a86267f?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-20T09:57:00.000Z",
+          "wordCount": 7063,
+          "title": "These Stocks Are Moving the Most Today: Credit Suisse, UBS, First Republic, New York Community, and More",
+          "imageUrl": "https://images.barrons.com/im-720184/social"
+        },
+        {
+          "id": "the-banking-crisis-creates-two-new-questions-for-investors-morning-brief-093009061.html",
+          "author": null,
+          "description": "A fork in the road for investors during all this banking turmoil.",
+          "link": "https://finance.yahoo.com/news/the-banking-crisis-creates-two-new-questions-for-investors-morning-brief-093009061.html",
+          "publishedOn": "2023-03-20T09:30:09.000Z",
+          "wordCount": 14657,
+          "title": "The banking crisis creates two new questions for investors: Morning Brief",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/cBxXsUU832TWtyyxjPTQBw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjE-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/19ab6290-c430-11ed-be7f-fd74209607b1"
+        },
+        {
+          "id": "credit-suisse-opens-usual-hong-093000782.html",
+          "author": null,
+          "description": "Credit Suisse opened for business as usual in Hong Kong on Monday, after being taken over by its Swiss rival UBS in a US$3.25 billion weekend buyout brokered by the Swiss central bank to prevent a spillover of its crisis to the global banking system. Credit Suisse has a single branch location in Hong Kong, operating under two licenses to offer a wide range of financial services in equity, bonds, derivatives and wealth management, with HK$100 billion (US$12.74 billion) of assets under management.",
+          "link": "https://finance.yahoo.com/news/credit-suisse-opens-usual-hong-093000782.html",
+          "publishedOn": "2023-03-20T09:30:00.000Z",
+          "wordCount": 14444,
+          "title": "Credit Suisse opens as usual in Hong Kong after US$3.25 billion takeover by UBS, in a sign that Europe's banking rout is under control",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/c0L.tS7tPV6vWux3mS_f_g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTU-/https://media.zenfs.com/en/south_china_morning_post_us_228/66ff072482e6a6c958fb053fdcf213a2"
+        },
+        {
+          "id": "stocks-hold-up-in-tumultuous-markets-be9aaa49?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The market turmoil that fueled a surge in bond prices has hit stock indexes far more modestly, reflecting an undercurrent of investor optimism that stress in the banking sector can be contained.",
+          "link": "https://www.wsj.com/articles/stocks-hold-up-in-tumultuous-markets-be9aaa49?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-20T09:30:00.000Z",
+          "wordCount": 7550,
+          "title": "Stocks Hold Up in Tumultuous Markets",
+          "imageUrl": "https://images.wsj.net/im-746389/social"
+        },
+        {
+          "id": "ubs-agrees-buy-credit-suisse-093000079.html",
+          "author": null,
+          "description": "UBS agreed to buy rival Swiss bank Credit Suisse for 3 billion Swiss francs (US$3.23 billion) in stock and agreed to assume up to 5 billion Swiss francs (US$5.4 billion) in losses, in a shotgun merger engineered by Swiss authorities to avoid more market-shaking turmoil in global banking. The deal includes 100 billion Swiss francs (US$108 billion) in liquidity help for UBS and Credit Suisse from the Swiss central bank. To enable UBS to take over Credit Suisse, the federal government is providing",
+          "link": "https://finance.yahoo.com/news/ubs-agrees-buy-credit-suisse-093000079.html",
+          "publishedOn": "2023-03-20T09:30:00.000Z",
+          "wordCount": 15386,
+          "title": "UBS agrees to buy Credit Suisse for more than US$3 billion as contagion fears grow",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/gu_qcm7d7JdjBr3xM5DXtg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzQ-/https://media.zenfs.com/en/south_china_morning_post_us_228/93233f6f4bc1e20ca4546f605a0d1ab2"
+        },
+        {
+          "id": "first-republic-set-extend-record-092758879.html",
+          "author": null,
+          "description": "(Bloomberg) -- First Republic Bank was poised to extend last week’s record loss as the US lender’s shares plunged after S&P Global Inc. cut its credit rating again and the emergency sale of Credit Suisse Group AG to UBS Group AG failed to assuage fears over the banking system’s health.Most Read from BloombergUBS to Buy Credit Suisse in $3.3 Billion Deal to End CrisisCredit Suisse’s $17 Billion of Risky Bonds Are Now WorthlessWarren Buffett in Contact With Biden Team on Banking CrisisCredit Suiss",
+          "link": "https://finance.yahoo.com/news/first-republic-set-extend-record-092758879.html",
+          "publishedOn": "2023-03-20T09:27:58.000Z",
+          "wordCount": 14315,
+          "title": "First Republic Set to Extend Record Loss as S&P Downgrades Again",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/be6384c1ad6c29a9e6f4459c6844af6a"
+        },
         {
           "id": "credit-suisse-shares-slump-72-in-opening-trade-after-ubs-deal-23c77286?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -46430,16 +46490,6 @@
           "wordCount": 14232,
           "title": "‘Fake Ebitda’ Masks Risk in Debt-Laden Companies",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/d3f902a5ae2636978754a823d474a324"
-        },
-        {
-          "id": "?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "A backdoor Roth IRA gives high-income taxpayers a way around the rules of opening a Roth IRA.",
-          "link": "https://www.investopedia.com/retirement/too-rich-roth-do/?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-02-18T21:45:32.000Z",
-          "wordCount": 4882,
-          "title": "Too Rich for a Roth? Do This",
-          "imageUrl": "https://www.investopedia.com/thmb/zq-gaChU7LHQszPswb2zujXJ3Q0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/istock513480086.kupicoo.couple.planning.middle.age.cropped-5bfc32bec9e77c0058785e96.jpg"
         }
       ]
     }
