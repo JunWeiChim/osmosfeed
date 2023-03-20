@@ -24,6 +24,26 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "a22a7a0cfdbf4e749deacefb8955c923",
+          "author": "Investopedia",
+          "description": "Most non-digital banking related deposits and loans of Signature Bank were sold to New York Community Bancorp's Flagstar Bank, that will also take over Signature's 40 branches.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca956ec0ec1eb1492b8dc33aa2fc31608e574cc6249675a29d4e2f098c38c36b86c243",
+          "publishedOn": "2023-03-20T06:17:45.851Z",
+          "wordCount": 412,
+          "title": "Signature Bank's Assets Sold To New York Community Bancorp's Flagstar Bank",
+          "imageUrl": null
+        },
+        {
+          "id": "0227b335b2381edf6b2c1d19b35a22f0",
+          "author": "Investopedia",
+          "description": "UBS will absorb Credit Suisse in a $2 billion all stock deal brokered by the government that was pulled together to prevent the latter embattled bank from failing.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9374c5af1eab58748b9c3da7fb2e609c5156d0238075b79d502841df26813c9c9f1f7ec4e378e5a6b577bbb0d6",
+          "publishedOn": "2023-03-20T06:17:45.835Z",
+          "wordCount": 412,
+          "title": "UBS To Buy Credit Suisse in $2 Billion All Stock Deal",
+          "imageUrl": null
+        },
+        {
           "id": "70b3cc8fb23da1987e36d8ff8588c3d2",
           "author": "Investopedia",
           "description": "FedEx Corporation (FDX) is the best-performing stock in the S&P 500 after the package delivery firm beat quarterly profit estimates and raised its full-year guidance.",
@@ -21483,21 +21503,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/qNH-XuHebuQPJJ6ZgH52NyMo5pE=/2122x1415/171106288_Aslan-Alphan_E-_GettyImages-56a6361f3df78cf7728bd97e.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/tech/ripple-xrp-cryptocurrency-how-to-buy/",
-          "author": "Nathan Reiff",
-          "description": "Ripple (XRP) is the native cryptocurrency for the payment system created by Ripple Labs Inc. Find out how to buy and invest in XRP.",
-          "link": "https://www.investopedia.com/tech/ripple-xrp-cryptocurrency-how-to-buy/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-18T18:02:37.000Z",
-          "wordCount": 5145,
-          "title": "How to Buy Ripple (XRP)",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/asQm9AIAjJ7e5Olz8Cc6YTXpQuw=/2131x1406/ripple-dd0a8c0a803947669d334e45ef809d46.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/asQm9AIAjJ7e5Olz8Cc6YTXpQuw=/2131x1406/ripple-dd0a8c0a803947669d334e45ef809d46.jpg"
         }
       ]
     },
@@ -21506,6 +21511,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "ubs-buy-credit-suisse-nearly-055222323.html",
+          "author": null,
+          "description": "Banking giant UBS is buying troubled rival Credit Suisse for almost $3.25 billion, in a deal orchestrated by regulators to stave off further market-shaking turmoil in the global banking system.  Swiss authorities urged UBS to take over its smaller rival after a plan for Credit Suisse to borrow up to 50 billion francs ($54 billion) failed to reassure investors and the bank’s customers.  Shares of Credit Suisse and other banks plunged after the failure of two banks in the U.S. raised questions about other potentially shaky global financial institutions.",
+          "link": "https://finance.yahoo.com/news/ubs-buy-credit-suisse-nearly-055222323.html",
+          "publishedOn": "2023-03-20T05:52:22.000Z",
+          "wordCount": 16182,
+          "title": "UBS to buy Credit Suisse for nearly $3.25B to calm turmoil",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_pw.J.2j1sQco_FbKfoL2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/39e4d9f51021ecc5ddf34482e4f5263a"
+        },
         {
           "id": "asian-stocks-sink-credit-suisse-043723776.html",
           "author": null,
@@ -21527,6 +21542,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/mo4SYHG01RJjbD.3pej_tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/81cc0310bef8b2a8da19f0454d864313"
         },
         {
+          "id": "bitcoin-leads-crypto-rally-central-033912434.html",
+          "author": null,
+          "description": "Bitcoin briefly breached US$28,000 at the weekend in a bullish run extending into Monday morning in Asia amid worries about bank risk.",
+          "link": "https://finance.yahoo.com/news/bitcoin-leads-crypto-rally-central-033912434.html",
+          "publishedOn": "2023-03-20T03:39:12.000Z",
+          "wordCount": 14302,
+          "title": "Bitcoin leads crypto rally as central banks promise liquidity to stem rising bank risk",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Ib8X1BTDqQgCbNQDWnH2vg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODU-/https://media.zenfs.com/en/forkast_news_articles_672/f3772b91014366b95e2e081501a3de4e"
+        },
+        {
           "id": "us-banks-bumpy-path-first-024845016.html",
           "author": null,
           "description": "(Bloomberg) -- Just weeks ago, they were bit players in the giant US banking system. Now, a handful of regional lenders are at the heart of a crisis that’s shaken the country and engaged the likes of Warren Buffett and Jamie Dimon. Most Read from BloombergUBS to Buy Credit Suisse in $3.3 Billion Deal to End CrisisCredit Suisse’s $17 Billion of Risky Bonds Are Now WorthlessWarren Buffett in Contact With Biden Team on Banking CrisisCredit Suisse Said to Push Back Against UBS’s $1 Billion OfferFed",
@@ -21545,6 +21570,16 @@
           "wordCount": 14541,
           "title": "Riskiest Bonds for Some Asian Banks Fall by Record on Credit Suisse Deal",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_DUHDL1ZFJlmitiXoBWoIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/1a35cf2a4c11a697f2e5223c70357dfb"
+        },
+        {
+          "id": "corrections-amplifications-508fb5bb?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Corrections & Amplifications for the edition of March 20, 2023.",
+          "link": "https://www.wsj.com/articles/corrections-amplifications-508fb5bb?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-20T02:19:00.000Z",
+          "wordCount": 7034,
+          "title": "Corrections & Amplifications",
+          "imageUrl": null
         },
         {
           "id": "treasuries-drop-credit-suisse-deal-002556600.html",
@@ -46355,26 +46390,6 @@
           "wordCount": 14133,
           "title": "Millions of debt collections dropped off Americans' credit reports",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/6hFTCMesjYG2NENcm9TZXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/7f458860-afb8-11ed-b5de-d4d08b489046"
-        },
-        {
-          "id": "?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Ripple (XRP) is the native cryptocurrency for the payment system created by Ripple Labs Inc. Find out how to buy and invest in XRP.",
-          "link": "https://www.investopedia.com/tech/ripple-xrp-cryptocurrency-how-to-buy/?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-02-18T18:02:37.000Z",
-          "wordCount": 5144,
-          "title": "How to Buy Ripple (XRP)",
-          "imageUrl": "https://www.investopedia.com/thmb/NYzqZM--IBX6hMXKlKdP5-wv5sQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ripple-dd0a8c0a803947669d334e45ef809d46.jpg"
-        },
-        {
-          "id": "automakers-slashing-prices-sell-off-180000516.html",
-          "author": null,
-          "description": "Automakers are slashing prices to help clear out inventory as high interest rates continue to weigh on the industry",
-          "link": "https://finance.yahoo.com/news/automakers-slashing-prices-sell-off-180000516.html",
-          "publishedOn": "2023-02-18T18:00:00.000Z",
-          "wordCount": 13779,
-          "title": "Automakers Are Slashing Prices To Sell Off Excess Inventory",
-          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
         }
       ]
     }
