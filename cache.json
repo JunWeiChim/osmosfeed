@@ -1068,6 +1068,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6256268/",
+          "author": "Tim Wijkman-van Aalst",
+          "description": "Bijna een miljoen huishoudens hebben een videodeurbel. Niet iedereen gaat daar op een correcte manier mee om. Bezitters moeten eigenlijk een bordje plaatsen met informatie over wat ze met de camerabeelden doen. Wie dat niet doet, overtreedt de privacywetgeving.",
+          "link": "https://www.nu.nl/tech/6256268/met-waarschuwingssticker-alleen-voldoet-videodeurbel-niet-aan-privacywet.html",
+          "publishedOn": "2023-03-22T10:24:22.000Z",
+          "wordCount": 791,
+          "title": "NU+ | Met waarschuwingssticker alleen voldoet videodeurbel niet aan privacywet",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/krsxxf8al4ss_sqr256.jpg/met-waarschuwingssticker-alleen-voldoet-videodeurbel-niet-aan-privacywet.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/krsxxf8al4ss_sqr256.jpg/met-waarschuwingssticker-alleen-voldoet-videodeurbel-niet-aan-privacywet.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6256368/",
           "author": "Noémi van de Pol",
           "description": "Werkgevers en FNV Jeugdzorg zijn het eens geworden over hoe de werkdruk van jeugdbeschermers omlaag kan. Zo gaan de medewerkers minder kinderen en gezinnen bijstaan.",
@@ -22023,21 +22038,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/qzibEIjECsmWzWqOyMAoFYfsSjk=/2119x1415/GettyImages-1147331105-16b767fa2342443d9d2cf8279e507f19.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/pf/10/credit-score-factors.asp",
-          "author": "Amy Fontinelle",
-          "description": "Credit companies use five main factors to decide whether to lend to you and at what interest rate. Learn how these factors play a role in your credit score.",
-          "link": "https://www.investopedia.com/articles/pf/10/credit-score-factors.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-20T22:56:27.000Z",
-          "wordCount": 5731,
-          "title": "The 5 Biggest Factors That Affect Your Credit",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/abBIwca-WW9gTqLNSoMtygn73MA=/1024x682/couchcreditcard-e933ee0d15c44c5ea0c822c26d801f81.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/abBIwca-WW9gTqLNSoMtygn73MA=/1024x682/couchcreditcard-e933ee0d15c44c5ea0c822c26d801f81.jpg"
         }
       ]
     },
@@ -22046,6 +22046,36 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "gamestop-stock-is-surging-104530526.html",
+          "author": null,
+          "description": "Being profitable on paper belies the tough situation for GameStop.",
+          "link": "https://finance.yahoo.com/news/gamestop-stock-is-surging-104530526.html",
+          "publishedOn": "2023-03-22T10:45:30.000Z",
+          "wordCount": 14280,
+          "title": "GameStop stock is surging after earnings, but there's a clear problem",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/NBNkGwMvKSrE7hWymEmfzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/53414d90-c89e-11ed-bc7b-236029436f9f"
+        },
+        {
+          "id": "gamestop-short-squeeze-meme-stock-amc-bed-bath-beyond-43c12c16?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The videogame company's surprise profit sent its shares higher and boosted fellow meme stocks AMC Entertainment and Bed Bath & Beyond.",
+          "link": "https://www.barrons.com/articles/gamestop-short-squeeze-meme-stock-amc-bed-bath-beyond-43c12c16?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-22T10:13:00.000Z",
+          "wordCount": 6952,
+          "title": "GameStop Heads Meme-Stock Rally. It’s Still a Short-Squeeze Hope.",
+          "imageUrl": "https://images.barrons.com/im-474181/social"
+        },
+        {
+          "id": "load-says-raymond-james-3-094308438.html",
+          "author": null,
+          "description": "The last few weeks have been rocky, with the collapse of Silicon Valley Bank, and the crypto-heavy Silvergate and Signature banks, dominating the headlines. For a short time, it seemed that the contagion would spread to the global financial giants. Now, however, it appears that we’ve managed to avoid a true banking crisis – and Raymond James’ chief investment officer Larry Adam has pointed out several reasons why. For starters, Adam notes that Credit Suisse, despite its troubles, found a way out",
+          "link": "https://finance.yahoo.com/news/load-says-raymond-james-3-094308438.html",
+          "publishedOn": "2023-03-22T09:43:08.000Z",
+          "wordCount": 15102,
+          "title": "‘Load Up,’ Says Raymond James About These 3 ‘Strong Buy’ Stocks",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/3c576067c7dc7656de00b9b5077fa6b5"
+        },
         {
           "id": "first-republic-bank-stock-fed-767d32a0?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -22305,6 +22335,16 @@
           "wordCount": null,
           "title": "GME Stock: GameStop Earnings Due As Physical Video Game Sales Slump",
           "imageUrl": null
+        },
+        {
+          "id": "pittsburgh-bank-market-caps.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "author": null,
+          "description": "Until SVB and Sovereign failed, a trio of locals all enjoyed increases in market cap in 2023.",
+          "link": "https://www.bizjournals.com/pittsburgh/news/2023/03/21/pittsburgh-bank-market-caps.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "publishedOn": "2023-03-21T19:30:00.000Z",
+          "wordCount": 5022,
+          "title": "3 of Pittsburgh's biggest banks' value surged before failures rocked sector; here's why",
+          "imageUrl": "https://media.bizj.us/view/img/10281321/38-economics*1200xx5184-2916-0-239.jpg"
         },
         {
           "id": "svb-loans-insiders-tripled-219-192013102.html",
@@ -47445,46 +47485,6 @@
           "wordCount": 14736,
           "title": "Down More Than 50%: Analysts Say Buy These 2 Beaten-Down Stocks Before They Rebound",
           "imageUrl": "https://media.zenfs.com/en/tipranks_452/e084f4bbbd9e84c9d1f5e026d074e2a9"
-        },
-        {
-          "id": "walmart-earnings-stock-price-1f7af073?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "America's largest retailer is well positioned to deliver a strong quarter. Guidance is a bigger question.",
-          "link": "https://www.barrons.com/articles/walmart-earnings-stock-price-1f7af073?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-20T23:07:00.000Z",
-          "wordCount": 6969,
-          "title": "Walmart Stock Could Rally After Earnings. Why Caution Remains.",
-          "imageUrl": "https://images.barrons.com/im-727357/social"
-        },
-        {
-          "id": "china-ipo-didi-alibaba-jd-stock-4ea53223?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "After China’s strong reaction to DiDi’s listing, the new rules offer hope to Chinese companies wanting to list overseas. There’s a formal process now, although it does mean another regulatory hurdle to overcome.",
-          "link": "https://www.barrons.com/articles/china-ipo-didi-alibaba-jd-stock-4ea53223?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-20T23:06:00.000Z",
-          "wordCount": 7078,
-          "title": "China Sets New Rules for Overseas IPOs. What It Means for DiDi, Alibaba, and Others.",
-          "imageUrl": "https://images.barrons.com/im-362415/social"
-        },
-        {
-          "id": "china-stock-market-goldman-sachs-dab16353?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "China's stocks rally has further to run, but investors will start focusing more on evidence of earnings growth, analysts said.",
-          "link": "https://www.barrons.com/articles/china-stock-market-goldman-sachs-dab16353?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-20T23:03:00.000Z",
-          "wordCount": 7038,
-          "title": "Chinese Stocks Could Rise Another 20%, Goldman Sachs Says. Here’s How.",
-          "imageUrl": "https://images.barrons.com/im-724830/social"
-        },
-        {
-          "id": "stocks-to-watch-this-week-walmart-alibaba-moderna-d1e5bd0a?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Home Depot, Lucid, TJX, and others also report earnings. Investors will see Fed minutes and economic data on manufacturing, home sales, GDP, and income and spending.",
-          "link": "https://www.barrons.com/articles/stocks-to-watch-this-week-walmart-alibaba-moderna-d1e5bd0a?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-20T22:46:00.000Z",
-          "wordCount": 7063,
-          "title": "Walmart, Alibaba, Moderna, and More Stocks to Watch This Week",
-          "imageUrl": "https://images.barrons.com/im-699166/social"
         }
       ]
     }
