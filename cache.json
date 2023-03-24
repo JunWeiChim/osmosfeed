@@ -1039,16 +1039,6 @@
           "wordCount": 412,
           "title": "Markets End Mixed as Fed Minutes Show Hawkish Stand",
           "imageUrl": null
-        },
-        {
-          "id": "d812b22fcb8c375688bf12d4fe301244",
-          "author": "rss.app",
-          "description": "",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df4f2a56d06e81209c9d0a69cdab33b7f7ae72b0a5dc7df77fa47d5ed3661c5f03",
-          "publishedOn": "2023-02-22T18:17:16.518Z",
-          "wordCount": 412,
-          "title": "5 Things to Know Before Markets Open By Danial Clark Published Feb 22, 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -1057,6 +1047,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6256639/",
+          "author": "onze economieredactie",
+          "description": "In de Amerikaanse staat Utah is donderdag een wet ondertekend die het gebruik van TikTok en Instagram door jongeren en kinderen drastisch inperkt. Dit gebeurde ondanks tegenstand van de techindustrie en experts op het gebied van burgerrechten.",
+          "link": "https://www.nu.nl/tech/6256639/eerste-staat-in-vs-remt-gebruik-van-tiktok-en-instagram-door-kinderen.html",
+          "publishedOn": "2023-03-24T06:27:17.000Z",
+          "wordCount": 889,
+          "title": "Eerste staat in VS remt gebruik van TikTok en Instagram door kinderen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/4ekxlcjabz71_sqr256.jpg/eerste-staat-in-vs-remt-gebruik-van-tiktok-en-instagram-door-kinderen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/4ekxlcjabz71_sqr256.jpg/eerste-staat-in-vs-remt-gebruik-van-tiktok-en-instagram-door-kinderen.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6256552/",
           "author": "Jeroen Kraan",
@@ -22608,36 +22613,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/9zciC72Qbj3IKxwj5Fb6E9qn23I=/6720x4480/indexeduniversallifeinsurance-6800d49295dc435ba5ed2bd5f4bb663e.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-february-22-2023-rates-climb-higher-7112436",
-          "author": "Sabrina Karl",
-          "description": "The 30-year mortgage average has been rising for almost two weeks and has now broken through the 7% threshold once again to register its highest mark of 2023.",
-          "link": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-february-22-2023-rates-climb-higher-7112436?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-22T18:51:08.000Z",
-          "wordCount": 3518,
-          "title": "Today's Mortgage Rates & Trends - February 22, 2023: Rates climb higher",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/l6MQFVeNmAyp0w4A8kWawAaZ4Uo=/3126x2084/February23MortageRatesNews-22-08152481939a4a0d8b132271bb36f790.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/l6MQFVeNmAyp0w4A8kWawAaZ4Uo=/3126x2084/February23MortageRatesNews-22-08152481939a4a0d8b132271bb36f790.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/mortgage-applications-drop-the-most-in-five-months-7112540",
-          "author": "Staff Author",
-          "description": "Applications for home loans plunged last week by the most in almost five months as increasing concern about inflation boosted borrowing costs.",
-          "link": "https://www.investopedia.com/mortgage-applications-drop-the-most-in-five-months-7112540?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-22T18:40:31.000Z",
-          "wordCount": 2950,
-          "title": "Mortgage Applications Drop the Most in Five Months",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Egcfx11qPe5NMpIFbQXZ-YoK80Y=/1024x683/GettyImages-1457475433-f31158bd109549edb34039295146e199.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Egcfx11qPe5NMpIFbQXZ-YoK80Y=/1024x683/GettyImages-1457475433-f31158bd109549edb34039295146e199.jpg"
         }
       ]
     },
@@ -22647,6 +22622,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "ark-buys-wells-dip-17-033454738.html",
+          "author": null,
+          "description": "Coinbase shares tumbled 16% Thursday, after the company disclosed late Wednesday it had received a Wells Notice from the Securities and Exchange Commission.",
+          "link": "https://finance.yahoo.com/news/ark-buys-wells-dip-17-033454738.html",
+          "publishedOn": "2023-03-24T03:34:54.000Z",
+          "wordCount": 14108,
+          "title": "ARK Buys the Wells Dip With $17.7 Million COIN Purchase",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/FP4CN_63WTSENtScoaHsvg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/coindesk_75/ff4d5f067efd951c11dbb5ece3c5260a"
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -22655,6 +22640,16 @@
           "wordCount": null,
           "title": "Dow Jones Futures: Split Market Rally Whipsaws On This Moody's Warning",
           "imageUrl": null
+        },
+        {
+          "id": "cathie-wood-buys-block-shares-022457445.html",
+          "author": null,
+          "description": "(Bloomberg) -- Cathie Wood snapped up more of Block Inc. shares as the payment firm became short seller Hindenburg Research’s latest target on allegations of facilitating fraudsters.Most Read from BloombergJack Dorsey’s Block Vows to Fight Back After Hindenburg Says It’s Short the StockUBS Sends Khan to Stem Credit Suisse’s Private Banker ExitsJack Dorsey’s Wealth Tumbles $526 Million After Hindenburg ShortUS Fears a War-Weary World May Embrace China’s Ukraine Peace BidCredit Suisse, UBS Among B",
+          "link": "https://finance.yahoo.com/news/cathie-wood-buys-block-shares-022457445.html",
+          "publishedOn": "2023-03-24T02:24:57.000Z",
+          "wordCount": 14112,
+          "title": "Cathie Wood Buys Block Shares During Hindenburg-Fueled Plunge",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/ba38000c5bfb6f680b34f832795e1c3b"
         },
         {
           "id": "oracle-cuts-cerner-jobs-ceo-231009526.html",
@@ -22775,6 +22770,16 @@
           "wordCount": 14363,
           "title": "Stocks hold onto gains during volatile post-Fed session",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/JnxG6401Z3LTaml3QlUCag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/21fc4cd0-a62f-11ed-be4f-72bfff259c40"
+        },
+        {
+          "id": "nvidia-stock-related-etfs-jump-200000496.html",
+          "author": null,
+          "description": "The semiconductor maker unveils cloud services for ‘large language.’",
+          "link": "https://finance.yahoo.com/news/nvidia-stock-related-etfs-jump-200000496.html",
+          "publishedOn": "2023-03-23T20:00:00.000Z",
+          "wordCount": 13922,
+          "title": "Nvidia Stock, Related ETFs Jump on AI Partnership",
+          "imageUrl": "https://media.zenfs.com/en/indexuniverse.com/ff16d659a3dff2aa29792df452956f48"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -47985,86 +47990,6 @@
           "wordCount": 7687,
           "title": "No ‘soft landing’ is in the cards from Fed rate hikes. Look for recession and a buying opportunity once stock prices decline.",
           "imageUrl": "https://images.mktw.net/im-624883/social"
-        },
-        {
-          "id": "u-s-stocks-cling-to-gains-as-fed-minutes-show-most-officials-favored-25-basis-point-hike-232083a7?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "U.S. stocks whipsawed but remained in the green on Wednesday after minutes from the Federal Reserve’s February meeting showed most officials supported a 25...",
-          "link": "https://www.marketwatch.com/story/u-s-stocks-cling-to-gains-as-fed-minutes-show-most-officials-favored-25-basis-point-hike-232083a7?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-22T19:11:00.000Z",
-          "wordCount": 6811,
-          "title": "U.S. stocks cling to gains as Fed minutes show most officials favored 25 basis point hike",
-          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
-        },
-        {
-          "id": "meta-prepares-more-job-cuts-190636185.html",
-          "author": null,
-          "description": "Meta Platforms, Inc (NASDAQ: META) eyed a fresh round of job cuts that could affect thousands of workers likely in the coming months. The Facebook parent consulted human resources, lawyers, financial experts, and top executives to help deflate the company's hierarchy, the Washington Post reports. Meta proposed to push some leaders into lower-level roles, flattening the layers of management between Meta CEO Mark Zuckerberg and the company's interns. Other managers may end up overseeing a higher n",
-          "link": "https://finance.yahoo.com/news/meta-prepares-more-job-cuts-190636185.html",
-          "publishedOn": "2023-02-22T19:06:36.000Z",
-          "wordCount": 14056,
-          "title": "Meta Prepares For More Job Cuts, To Downsize About 1K In Major Business Overhaul",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/d436d12635bb238ca59952a4a377880e"
-        },
-        {
-          "id": "fed-minutes-almost-officials-backed-190625478.html",
-          "author": null,
-          "description": "Nearly all Federal Reserve policymakers agreed earlier this month to slow the pace of their rate increases to a quarter-point, with only “a few” supporting a larger half-point hike.  The minutes from the Fed’s Jan. 31-Feb.1 meeting said most of the officials supported the quarter-point increase because a slower pace “would better allow them to assess the economy’s progress” toward reducing inflation to their 2% target.  The increase raised the Fed’s benchmark rate to a range of 4.5% to 4.75%, the highest level in 15 years.",
-          "link": "https://finance.yahoo.com/news/fed-minutes-almost-officials-backed-190625478.html",
-          "publishedOn": "2023-02-22T19:06:25.000Z",
-          "wordCount": 14275,
-          "title": "Fed Minutes: Almost all officials backed quarter-point hike",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/5uagt9Uc_khK2QneNwJC3Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/0a5d3ac51ba0c8f45ae4a828f1999f06"
-        },
-        {
-          "id": "fed-meeting-minutes-release-today-b19c6099?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The official record of the central bank's last policy meeting gives investors a look into the FOMC's decision to slow its pace of rate increases.",
-          "link": "https://www.barrons.com/articles/fed-meeting-minutes-release-today-b19c6099?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-22T19:06:00.000Z",
-          "wordCount": 7014,
-          "title": "Fed Officials See Peak in Interest Rates This Year, Minutes Show",
-          "imageUrl": "https://images.barrons.com/im-691633/social"
-        },
-        {
-          "id": "luminar-mercedes-benz-lidar-2e2bd62a?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The companies have been collaborating on lidar, essentially laser-based radar, for the past couple of years, but broader adoption is still slow.",
-          "link": "https://www.barrons.com/articles/luminar-mercedes-benz-lidar-2e2bd62a?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-22T18:59:00.000Z",
-          "wordCount": 6974,
-          "title": "Luminar Broadens Deal With Mercedes but Lidar Technology Is Still Growing Slowly",
-          "imageUrl": "https://images.barrons.com/im-729811/social"
-        },
-        {
-          "id": "luminar-stock-rallies-more-than-20-after-mercedes-benz-deal-804da6d0?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Shares of Luminar Technologies Inc. skyrocketed more than 20% Wednesday after the lidar company said it expanded its deal with Mercedes-Benz AG for...",
-          "link": "https://www.marketwatch.com/story/luminar-stock-rallies-more-than-20-after-mercedes-benz-deal-804da6d0?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-22T18:46:00.000Z",
-          "wordCount": 6713,
-          "title": "Luminar stock rallies more than 20% after Mercedes-Benz deal",
-          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
-        },
-        {
-          "id": "how-will-nvidia-stock-react-to-earnings--16116615?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "Let's check the condition of the chipmaker's charts and indicators",
-          "link": "https://realmoney.thestreet.com/investing/technology/how-will-nvidia-stock-react-to-earnings--16116615?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2023-02-22T18:25:00.000Z",
-          "wordCount": 2864,
-          "title": "How Will Nvidia Stock React to Earnings?",
-          "imageUrl": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/c9f90a56-10d5-11e8-b8cf-61dcf5ce9b94.png"
-        },
-        {
-          "id": "elon-musk-recommends-investing-physical-181902373.html",
-          "author": null,
-          "description": "Elon Musk posted in a thread on Twitter last year, after inflation hit a 40-year high for the first time, advising followers to own “physical things” when inflation is high. In the tweet, Musk said “As a general principle, for those looking for advice from this thread, it is generally better to own physical things like a home or stock in companies you think make good products, than dollars when inflation is high. I still own & won’t sell my Bitcoin, Ethereum or Doge fwiw.” The biggest takeaway f",
-          "link": "https://finance.yahoo.com/news/elon-musk-recommends-investing-physical-181902373.html",
-          "publishedOn": "2023-02-22T18:19:02.000Z",
-          "wordCount": 14493,
-          "title": "Elon Musk Recommends Investing In 'Physical Things' - Here Are 3 Physical Assets That Perform Well During High Inflation",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/3de3ab9eeca7c9d6b18cf5b3f47b814b"
         }
       ]
     }
