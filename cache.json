@@ -6900,6 +6900,21 @@
       "siteUrl": "https://www.investopedia.com",
       "articles": [
         {
+          "id": "https://www.investopedia.com/terms/d/djia.asp",
+          "author": "Akhilesh Ganti",
+          "description": "The Dow Jones Industrial Average (DJIA) is a popular stock market index that tracks 30 U.S. blue-chip stocks.",
+          "link": "https://www.investopedia.com/terms/d/djia.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-24T00:59:47.000Z",
+          "wordCount": 6683,
+          "title": "What Is the Dow Jones Industrial Average (DJIA)?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/S8IXE7EXXvI3py_Up9DgmrUbLQU=/1500x1000/DowJonesIndustrialAverage-af0c386c72c74e05b1ccc563b4a0ea06.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/S8IXE7EXXvI3py_Up9DgmrUbLQU=/1500x1000/DowJonesIndustrialAverage-af0c386c72c74e05b1ccc563b4a0ea06.jpg"
+        },
+        {
           "id": "https://www.investopedia.com/articles/investing/021816/why-governments-want-eliminate-cash.asp",
           "author": "Adam Hayes",
           "description": "Global policies have been implemented to suppress the use of paper currency and promote digital currency to create a data trail for law enforcement and tax agencies.",
@@ -22713,21 +22728,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/FxosS7eTt_dte97NhG7cYHYE5V0=/2121x1414/ladyonlaptop-100d8c37966c4dd7acacaa087a5b08c0.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/5-things-to-know-before-markets-open-feb-22-2023-7112370",
-          "author": "Staff Author",
-          "description": "5 Things to Know Before Markets Open",
-          "link": "https://www.investopedia.com/5-things-to-know-before-markets-open-feb-22-2023-7112370?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-22T14:00:28.000Z",
-          "wordCount": 3040,
-          "title": "5 Things to Know Before Markets Open",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/T2p3pT7gF4bL8k8HC9XXY2ko2W0=/6000x4000/GettyImages-1399238914-dbf51df048964870a57fbafee19ce240.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/T2p3pT7gF4bL8k8HC9XXY2ko2W0=/6000x4000/GettyImages-1399238914-dbf51df048964870a57fbafee19ce240.jpg"
         }
       ]
     },
@@ -22736,6 +22736,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "finally-atomic-bomb-sec-222435852.html",
+          "author": null,
+          "description": "The U.S. Securities and Exchange Commission’s notice to Coinbase (COIN) that it’s likely to be accused of breaking securities laws could foreshadow an agency effort to break the back of the crypto sector as it now operates, but it also may finally force court rulings that define how the industry can move forward.",
+          "link": "https://finance.yahoo.com/news/finally-atomic-bomb-sec-222435852.html",
+          "publishedOn": "2023-03-23T22:24:35.000Z",
+          "wordCount": 14848,
+          "title": "Is This Finally an Atomic Bomb From the SEC?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_brMqcORLxH.SfIMxC1Cng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/coindesk_75/29ef49da8e09271b9bd060bd06a10b88"
+        },
         {
           "id": "tiktok-ceo-shou-zi-chew-congress-8ed38010?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -22810,11 +22820,31 @@
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
+          "link": "https://www.investors.com/how-to-invest/investors-corner/investing-in-stocks-stock-investing-with-three-step-routine/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-03-23T19:57:14.000Z",
+          "wordCount": null,
+          "title": "How To Invest: Nvidia, Tesla Reveal 3-Step Routine For Bull And Bear Markets",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
           "link": "https://www.investors.com/research/gld-stock-a-buy-right-now-heres-what-charts-show-2/?src=A00220&yptr=yahoo",
           "publishedOn": "2023-03-23T19:11:17.000Z",
           "wordCount": null,
           "title": "Is It Time To Buy Gold Stocks And ETFs As Banking Crisis Rocks Investors? Here's What Charts Show",
           "imageUrl": null
+        },
+        {
+          "id": "treasury-bills-popularity-booming-fed-191025440.html",
+          "author": null,
+          "description": "Experts say investors may be able to generate attractive, short-term returns as the Fed continues to raise rates",
+          "link": "https://finance.yahoo.com/news/treasury-bills-popularity-booming-fed-191025440.html",
+          "publishedOn": "2023-03-23T19:10:25.000Z",
+          "wordCount": 14577,
+          "title": "Treasury bills’ popularity is booming after the Fed raised rates. Here’s what you need to know, and how to buy them",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_n8_U8m6EUU9avNKfVMpzg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/5864fdaea39bf2da48b7c86661808fa8"
         },
         {
           "id": "bank-stocks-what-next-technical-support-crossroads-7466a1e0?siteid=yhoof2&yptr=yahoo",
@@ -48215,146 +48245,6 @@
           "wordCount": null,
           "title": "Charles River Dives As Monkey Investigation Hamstrings 2023 Outlook",
           "imageUrl": null
-        },
-        {
-          "id": "intel-corp-slashes-quarterly-dividend-by-66-5b8176ae?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Chip maker employs aggressive cost-cutting measures, including pay reductions.",
-          "link": "https://www.wsj.com/articles/intel-corp-slashes-quarterly-dividend-by-66-5b8176ae?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-22T14:27:00.000Z",
-          "wordCount": 7003,
-          "title": "Intel Slashes Quarterly Dividend by 66%",
-          "imageUrl": "https://images.wsj.net/im-729560/social"
-        },
-        {
-          "id": "stellantis-earnings-stock-price-dividend-gm-ford-tesla-stock-f0067e6c?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Stellantis finished up 2022 stronger than expected. By some measures, the company had a better year than even Tesla",
-          "link": "https://www.barrons.com/articles/stellantis-earnings-stock-price-dividend-gm-ford-tesla-stock-f0067e6c?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-22T14:07:00.000Z",
-          "wordCount": 7038,
-          "title": "Stellantis Earnings Top GM, Ford—and Even Tesla",
-          "imageUrl": "https://images.barrons.com/im-695753/social"
-        },
-        {
-          "id": "bitcoin-ethereum-price-crypto-markets-today-a9453bef?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Despite outperforming the stock market in recent days, digital assets have since fallen back amid a rout in equities. Key catalysts lie ahead.",
-          "link": "https://www.barrons.com/articles/bitcoin-ethereum-price-crypto-markets-today-a9453bef?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-22T14:02:00.000Z",
-          "wordCount": 6896,
-          "title": "Bitcoin Drops. Just Wait for the Fed Minutes.",
-          "imageUrl": "https://images.barrons.com/im-489169/social"
-        },
-        {
-          "id": "retire-55-3-million-140017517.html",
-          "author": null,
-          "description": "If you plan on having $3 million in savings by the time you turn 55 and you're wondering if you can retire on that amount, then there are some things to consider. From understanding what your costs will be in … Continue reading → The post Is $3 Million Enough to Retire at 55? appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/retire-55-3-million-140017517.html",
-          "publishedOn": "2023-02-22T14:00:17.000Z",
-          "wordCount": 14534,
-          "title": "Can I Retire at 55 With $3 Million?",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/e4a2bad4aac1acbbb6f9fd7aaaf554fa"
-        },
-        {
-          "id": "eur-usd-forecast-euro-threatening-135730854.html",
-          "author": null,
-          "description": "The Euro continues to see a lot of back-and-forth during the trading session on Wednesday, as we are sitting just above the crucial 1.06 level.",
-          "link": "https://finance.yahoo.com/news/eur-usd-forecast-euro-threatening-135730854.html",
-          "publishedOn": "2023-02-22T13:57:30.000Z",
-          "wordCount": 13867,
-          "title": "EUR/USD Forecast – Euro Threatening Support",
-          "imageUrl": "https://media.zenfs.com/en/fx_empire_176/d6a67d90b54d26852245a5d747d08e45"
-        },
-        {
-          "id": "terran-orbital-stock-rockets-on-heavy-volume-after-being-awarded-2-4-billion-contract-to-build-satellites-af0da43?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Shares of Terran Orbital Corp. rocketed 71.4% on heavy volume, to pace all premarket gainers, after the satellite products maker announced contract valued at...",
-          "link": "https://www.marketwatch.com/story/terran-orbital-stock-rockets-on-heavy-volume-after-being-awarded-2-4-billion-contract-to-build-satellites-af0da43?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-22T13:51:00.000Z",
-          "wordCount": 6857,
-          "title": "Terran Orbital stock rockets on heavy volume after being awarded $2.4 billion contract to build satellites",
-          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
-        },
-        {
-          "id": "intel-stock-price-dividend-cut-6a2e1f03?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Intel cut its quarterly dividend, saying the move creates 'improved financial flexibility.'",
-          "link": "https://www.barrons.com/articles/intel-stock-price-dividend-cut-6a2e1f03?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-22T13:51:00.000Z",
-          "wordCount": 6978,
-          "title": "Intel Cuts Dividend by 66%. Reiterates Forecast.",
-          "imageUrl": "https://images.barrons.com/im-420313/social"
-        },
-        {
-          "id": "baidu-earnings-stock-price-buyback-ai-1c0cfd8f?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Baidu beat expectations for revenue and launched a $5 billion share buyback program.",
-          "link": "https://www.barrons.com/articles/baidu-earnings-stock-price-buyback-ai-1c0cfd8f?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-22T13:48:00.000Z",
-          "wordCount": 7027,
-          "title": "Baidu Stock Surges. Earnings Were Good and It Announced a $5 Billion Buyback.",
-          "imageUrl": "https://images.barrons.com/im-718916/social"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-ahead-of-fed-minutes-nvidia-earnings-on-deck/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-02-22T13:42:28.000Z",
-          "wordCount": null,
-          "title": "Dow Jones Futures Rise Ahead Of Fed Minutes; Baidu Surges On Earnings; Nvidia Earnings On Deck",
-          "imageUrl": null
-        },
-        {
-          "id": "occidental-stock-price-warren-buffett-berkshire-hathaway-c2162cbd?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The drop in Occidental Petroleum stock is prompting speculation that Berkshire Hathaway may be resuming purchases of the oil and gas company",
-          "link": "https://www.barrons.com/articles/occidental-stock-price-warren-buffett-berkshire-hathaway-c2162cbd?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-22T13:39:00.000Z",
-          "wordCount": 7048,
-          "title": "Occidental Stock Trades Fuel Speculation on Berkshire Hathaway Purchases",
-          "imageUrl": "https://images.barrons.com/im-168860/social"
-        },
-        {
-          "id": "nvidia-earnings-gaming-revenue-expected-to-plummet-as-data-center-profit-rises-133323812.html",
-          "author": null,
-          "description": "Nvidia will report its Q4 earnings after the bell on Wednesday with analysts expecting gaming revenue to sink.",
-          "link": "https://finance.yahoo.com/news/nvidia-earnings-gaming-revenue-expected-to-plummet-as-data-center-profit-rises-133323812.html",
-          "publishedOn": "2023-02-22T13:33:23.000Z",
-          "wordCount": 14206,
-          "title": "Nvidia earnings: Gaming revenue expected to plummet as data center profit rises",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/NapU6bIwSJ1s9Hg5beFitQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/62a43e20-6b9a-11ed-bfee-977c4cb2f67a"
-        },
-        {
-          "id": "unity-software-and-nvidia-will-have-my-undivided-attention-after-the-close-16116572?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "The two companies will be reporting their latest results, and here's how I see to play them once they do.",
-          "link": "https://realmoney.thestreet.com/investing/stocks/unity-software-and-nvidia-will-have-my-undivided-attention-after-the-close-16116572?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2023-02-22T13:30:00.000Z",
-          "wordCount": 3428,
-          "title": "Unity Software and Nvidia Will Have My Undivided Attention After the Close",
-          "imageUrl": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/0a7f1038-4257-11ec-a657-efdae7c6e331.jpg"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/tjx-earnings-in-line-outook-from-recession-resistant-retailer/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-02-22T13:20:10.000Z",
-          "wordCount": null,
-          "title": "TJX Earnings In Line, Outlook Soft From Recession-Resistant Retailer",
-          "imageUrl": null
-        },
-        {
-          "id": "stellantis-earnings-top-gm-ford-tesla-stock-f0067e6c?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Stellantis finished up 2022 stronger than expected. By some measures, the company had a better year than even Tesla",
-          "link": "https://www.barrons.com/articles/stellantis-earnings-top-gm-ford-tesla-stock-f0067e6c?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-22T13:05:00.000Z",
-          "wordCount": 7038,
-          "title": "Stellantis Earnings Top GM, Ford, and Even Tesla. The Stock Is Rising.",
-          "imageUrl": "https://images.barrons.com/im-695753/social"
         }
       ]
     }
