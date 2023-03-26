@@ -1069,16 +1069,6 @@
           "wordCount": 412,
           "title": "US Markets Sink on Surprise Inflation Report",
           "imageUrl": null
-        },
-        {
-          "id": "04952523bbc3320083f12e7c89019322",
-          "author": "Investopedia",
-          "description": "News of the day for Feb. 24, 2023",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df4f2a56d06e81209c9d0a69cdab33b7f7ae72b6a5dc7df77ea47d5ed3671b5c00",
-          "publishedOn": "2023-02-24T15:12:39.743Z",
-          "wordCount": 412,
-          "title": "5 Things to Know Before Markets Open",
-          "imageUrl": null
         }
       ]
     },
@@ -1087,6 +1077,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6256750/",
+          "author": "Noémi van de Pol",
+          "description": "De ramadan is deze week begonnen. Veel moslims vasten in deze periode tussen zonsopkomst en zonsondergang. Het is voor velen van hen de belangrijkste maand van het jaar. Maar hoe flexibel gaan werkgevers om met de ramadan?",
+          "link": "https://www.nu.nl/economie/6256750/de-ramadan-is-ook-op-de-werkvloer-steeds-beter-vol-te-houden.html",
+          "publishedOn": "2023-03-26T03:04:12.000Z",
+          "wordCount": 1964,
+          "title": "De ramadan is ook op de werkvloer steeds beter vol te houden",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/3ouxwvha8p4f_sqr256.jpg/de-ramadan-is-ook-op-de-werkvloer-steeds-beter-vol-te-houden.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/3ouxwvha8p4f_sqr256.jpg/de-ramadan-is-ook-op-de-werkvloer-steeds-beter-vol-te-houden.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6256810/",
           "author": "onze nieuwsredactie",
@@ -22468,21 +22473,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/NDCkeHW6bU-UXC41MUVKsx2rd6E=/680x440/business_building_153697270-5bfc2b9846e0fb0083c07d69.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/retirement/05/strategicrmds.asp",
-          "author": "Denise Appleby",
-          "description": "Eventually, you have to take required minimum distributions (RMDs). Here are tips for preserving your nest egg in the face of unavoidable withdrawals.",
-          "link": "https://www.investopedia.com/articles/retirement/05/strategicrmds.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-24T14:48:22.000Z",
-          "wordCount": 4937,
-          "title": "Strategic Ways to Distribute Your RMD",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/xBlnenPwFUXj2U4f5E1pkr_Cy30=/887x1184/GettyImages-57278268-57a61acd3df78cf459f93c8d.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/xBlnenPwFUXj2U4f5E1pkr_Cy30=/887x1184/GettyImages-57278268-57a61acd3df78cf459f93c8d.jpg"
         }
       ]
     },
@@ -22491,6 +22481,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "valley-national-first-citizens-said-231812176.html",
+          "author": null,
+          "description": "(Bloomberg) -- Valley National Bancorp and First Citizens BancShares Inc. are both vying for Silicon Valley Bank after its collapse earlier this month, according to people familiar with the matter. Most Read from BloombergGreenland Solves the Daylight Saving Time DebateUS Mulls More Support for Banks While Giving First Republic TimeCredit Suisse Wouldn’t Have Lasted Another Day, Minister Says‘Zoom Towns’ Exploded in the Work-From-Home Era. Now New Residents Are Facing LayoffsRussia Seeks 400,000",
+          "link": "https://finance.yahoo.com/news/valley-national-first-citizens-said-231812176.html",
+          "publishedOn": "2023-03-25T23:18:12.000Z",
+          "wordCount": 14117,
+          "title": "Valley National, First Citizens Said to Bid on Silicon Valley",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/.3mAIsSVcbr9wVlpto3HGQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_markets_842/59340e07811962d47592526202f188af"
+        },
         {
           "id": "elon-musk-gives-twitter-employees-223450948.html",
           "author": null,
@@ -47350,96 +47350,6 @@
           "wordCount": 7079,
           "title": "Adobe Stock Slides on Report DOJ Plans Suit to Block Figma Acquisition",
           "imageUrl": "https://images.barrons.com/im-403787/social"
-        },
-        {
-          "id": "boeing-once-again-suspends-deliveries-151243194.html",
-          "author": null,
-          "description": "Boeing Co (NYSE: BA) suspended deliveries of its 787 Dreamliners following a new issue that was found in a component used near the front of the plane, the U.S. Federal Aviation Administration (FAA) said. Boeing said that in reviewing certification records, it \"discovered an analysis error by our supplier related to the 787 forward pressure bulkhead. We notified the FAA and have paused 787 deliveries while we complete the required analysis and documentation.\" Deliveries of the long-haul plane hav",
-          "link": "https://finance.yahoo.com/news/boeing-once-again-suspends-deliveries-151243194.html",
-          "publishedOn": "2023-02-24T15:12:43.000Z",
-          "wordCount": 14090,
-          "title": "Boeing Once Again Suspends Deliveries Of 787 Dreamliners: What You Need To Know",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/f5b89da8227922cf49fe4e9b7e777165"
-        },
-        {
-          "id": "we-love-our-forest-life-im-62-and-work-full-time-i-own-a-600-000-california-home-perched-on-the-edge-of-wilderness-has-the-time-finally-come-to-downsize-4657126?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "'I owe about $200k on my home in Northern California worth $600k. It will be more property and home than we can physically handle within 6 years.'",
-          "link": "https://www.marketwatch.com/story/we-love-our-forest-life-im-62-and-work-full-time-i-own-a-600-000-california-home-perched-on-the-edge-of-wilderness-has-the-time-finally-come-to-downsize-4657126?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-24T15:08:00.000Z",
-          "wordCount": 7609,
-          "title": "‘We love our forest life’: I’m 62 and work full-time. I own a $600,000 California home perched on the edge of wilderness. Has the time finally come to downsize?",
-          "imageUrl": "https://images.mktw.net/im-677255/social"
-        },
-        {
-          "id": "stocks-tumble-as-inflation-spike-tests-faith-that-fed-will-pivot?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.thestreet.com/markets/stocks-tumble-as-inflation-spike-tests-faith-that-fed-will-pivot?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2023-02-24T15:03:00.000Z",
-          "wordCount": null,
-          "title": "Stocks Crushed As Renewed Inflation Spike Lifts Bets On 50 Basis Point Fed Rate Hike",
-          "imageUrl": null
-        },
-        {
-          "id": "el-erian-says-market-doubts-150151470.html",
-          "author": null,
-          "description": "(Bloomberg) -- Mohamed El-Erian says the financial markets are starting to doubt whether the Federal Reserve can bring inflation down to its 2% target.Most Read from BloombergApple Makes Major Progress on No-Prick Blood Glucose Tracking for Its WatchChina Cease-Fire Proposal for Ukraine Falls Flat With US, AlliesHow Biden’s Shock-and-Awe Tactic Is Failing to Stop RussiaRussian Support for Putin’s War in Ukraine Is HardeningTrump 2020 Fraud Backer Sidney Powell’s Texas Ethics Case TossedEl-Erian,",
-          "link": "https://finance.yahoo.com/news/el-erian-says-market-doubts-150151470.html",
-          "publishedOn": "2023-02-24T15:01:51.000Z",
-          "wordCount": 14160,
-          "title": "El-Erian Says Market Doubts Fed Can Hit Its 2% Inflation Target",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Z75gLINM3pEkaluN63MFQw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/b38d1f1b6f5a1ffff9e3d7485b9405ef"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/cathie-wood-makes-biggest-coinbase-purchase-of-year-after-earnings-beat/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-02-24T15:01:41.000Z",
-          "wordCount": null,
-          "title": "Cathie Wood Doubles Down On Coinbase After Earnings Beat",
-          "imageUrl": null
-        },
-        {
-          "id": "3-stocks-growing-their-dividends-by-10-or-more-16116728?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "These high-quality names are increasing their payouts at double-digit rates.",
-          "link": "https://realmoney.thestreet.com/investing/3-stocks-growing-their-dividends-by-10-or-more-16116728?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2023-02-24T15:00:00.000Z",
-          "wordCount": 5849,
-          "title": "3 Stocks Growing Their Dividends By 10% or More",
-          "imageUrl": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/54d8e3ee-cd50-11eb-aa35-7942ab815a0e.jpg"
-        },
-        {
-          "id": "strategicrmds.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Eventually, you have to take required minimum distributions (RMDs). Here are tips for preserving your nest egg in the face of unavoidable withdrawals.",
-          "link": "https://www.investopedia.com/articles/retirement/05/strategicrmds.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-02-24T14:48:15.000Z",
-          "wordCount": 4957,
-          "title": "Strategic Ways to Distribute Your RMD",
-          "imageUrl": "https://www.investopedia.com/thmb/Z-v_YLQjdRs0x4-eqhdKqgANJQQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-57278268-57a61acd3df78cf459f93c8d.jpg"
-        },
-        {
-          "id": "beyond-meat-stock-earnings-guidance-ebfc7541?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The maker of plant-based meat alternatives posts a narrower loss than expected, while revenue was higher than anticipated.",
-          "link": "https://www.barrons.com/articles/beyond-meat-stock-earnings-guidance-ebfc7541?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-24T14:46:00.000Z",
-          "wordCount": 7038,
-          "title": "Beyond Meat Stock Soars as Results, Forecast Offer ‘Positive Surprise’",
-          "imageUrl": "https://images.barrons.com/im-421916/social"
-        },
-        {
-          "id": "eur-usd-weekly-forecast-euro-144556169.html",
-          "author": null,
-          "description": "The Euro has been absolutely pummeled for the week, breaking down significantly below the 1.06 level. We are now below the 50-Week EMA as well.",
-          "link": "https://finance.yahoo.com/news/eur-usd-weekly-forecast-euro-144556169.html",
-          "publishedOn": "2023-02-24T14:45:56.000Z",
-          "wordCount": 13785,
-          "title": "EUR/USD Weekly Forecast – Euro Gets Waxed",
-          "imageUrl": "https://media.zenfs.com/en/fx_empire_176/c87a3cc0af867f9a32eb78945e61f2e5"
         }
       ]
     }
