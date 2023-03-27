@@ -1038,6 +1038,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6256973/",
+          "author": "onze economieredactie",
+          "description": "Kledingketen Scotch & Soda komt in handen van het Amerikaanse bedrijf Bluestar Alliance. Het Nederlandse deel van het modemerk ging vorige week op de fles, maar kan nu onder Amerikaanse vleugels een doorstart maken.",
+          "link": "https://www.nu.nl/economie/6256973/failliet-modemerk-scotch-soda-maakt-doorstart-onder-nieuwe-eigenaar.html",
+          "publishedOn": "2023-03-27T07:44:45.000Z",
+          "wordCount": 843,
+          "title": "Failliet modemerk Scotch & Soda maakt doorstart onder nieuwe eigenaar",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/kulxtb4av87h_sqr256.jpg/failliet-modemerk-scotch-soda-maakt-doorstart-onder-nieuwe-eigenaar.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/kulxtb4av87h_sqr256.jpg/failliet-modemerk-scotch-soda-maakt-doorstart-onder-nieuwe-eigenaar.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6256970/",
           "author": "onze economieredactie",
           "description": "De Amerikaanse First Citizens Bank neemt de failliete Silicon Valley Bank (SVB) over. De zeventien filialen van de omgevallen bank worden per direct First Citizens-kantoren.",
@@ -21921,6 +21936,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "first-citizens-buys-silicon-valley-bank-a13a4fb2?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "First Citizens will assume ownership of branches, deposits and loans as of Monday morning.",
+          "link": "https://www.barrons.com/articles/first-citizens-buys-silicon-valley-bank-a13a4fb2?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-27T07:26:00.000Z",
+          "wordCount": 6898,
+          "title": "First Citizens Buys Up Large Parts of Silicon Valley Bank After Collapse",
+          "imageUrl": "https://images.barrons.com/im-745420/social"
+        },
         {
           "id": "saudi-national-bank-chairman-resigns-055618912.html",
           "author": null,
@@ -46590,46 +46615,6 @@
           "wordCount": 7374,
           "title": "Warren Buffett’s Berkshire Hathaway is the largest investor in these 8 stocks",
           "imageUrl": "https://images.mktw.net/im-338049/social"
-        },
-        {
-          "id": "zero-covid-energy-demand-explosion-200000010.html",
-          "author": null,
-          "description": "The IEA’s Executive Director has stated that China's reopening poses the biggest uncertainty for energy markets, with concerns over whether the current global oil output will meet the needs of the Asian superpower.",
-          "link": "https://finance.yahoo.com/news/zero-covid-energy-demand-explosion-200000010.html",
-          "publishedOn": "2023-02-25T20:00:00.000Z",
-          "wordCount": 14243,
-          "title": "From Zero-Covid To Energy Demand Explosion: The Impact Of China’s Reopening",
-          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
-        },
-        {
-          "id": "target-delivery-compete-amazon-walmart-service-sortation-center-shipt?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.thestreet.com/retailers/target-delivery-compete-amazon-walmart-service-sortation-center-shipt?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2023-02-25T20:00:00.000Z",
-          "wordCount": null,
-          "title": "Target Makes a Big Move to Compete With Walmart and Amazon",
-          "imageUrl": null
-        },
-        {
-          "id": "buy-bonds-14862163?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.thestreet.com/how-to/buy-bonds-14862163?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2023-02-25T19:45:00.000Z",
-          "wordCount": null,
-          "title": "How to Buy Bonds: Easy Investing Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "warren-buffett-berkshire-hathaway-letter-charlie-munger-41abd117?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "In his annual shareholder's letter, he says the company always will hold a wide array of businesses.  Tips for his successor, a nod to his partner.",
-          "link": "https://www.barrons.com/articles/warren-buffett-berkshire-hathaway-letter-charlie-munger-41abd117?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-25T19:23:00.000Z",
-          "wordCount": 7000,
-          "title": "Warren Buffett Muses on Berkshire’s Future, Taxes, and Friendship",
-          "imageUrl": "https://images.barrons.com/im-732053/social"
         }
       ]
     }
