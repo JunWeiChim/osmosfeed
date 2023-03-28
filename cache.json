@@ -1038,6 +1038,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6257109/",
+          "author": "onze economieredactie",
+          "description": "Denk je voor een zacht prijsje een vakantie te boeken, komen er nog honderden euro's bovenop. 'Misleiding met lokkertjes', noemt de Consumentenbond het. Volgens de organisatie zijn aanbiedingsprijzen voor reizen vaak niet beschikbaar.",
+          "link": "https://www.nu.nl/economie/6257109/aanbiedingsprijzen-voor-reizen-volgens-consumentenbond-vaak-niet-beschikbaar.html",
+          "publishedOn": "2023-03-28T07:28:55.000Z",
+          "wordCount": 1105,
+          "title": "Aanbiedingsprijzen voor reizen volgens Consumentenbond vaak niet beschikbaar",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/65mxenxan2f4_sqr256.jpg/aanbiedingsprijzen-voor-reizen-volgens-consumentenbond-vaak-niet-beschikbaar.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/65mxenxan2f4_sqr256.jpg/aanbiedingsprijzen-voor-reizen-volgens-consumentenbond-vaak-niet-beschikbaar.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6257106/",
           "author": "onze economieredactie",
           "description": "De provincies Utrecht en Zuid-Holland zijn volgens de Regional Competitive Index de concurrerendste regio's van de Europese Unie. Dit komt door de goede baankansen en economische groei.",
@@ -22223,36 +22238,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/uXXK2FwKGRHDYr2QZlHS2EebtMk=/2121x1414/GettyImages-1254784260-71f72a38d5004d598a2bffe2eb264984.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/i/indenture.asp",
-          "author": "James Chen",
-          "description": "An indenture is a legal and binding contract, often between a bond issuer and bondholders.",
-          "link": "https://www.investopedia.com/terms/i/indenture.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-26T19:31:32.000Z",
-          "wordCount": 4272,
-          "title": "Indenture: Definition and Types in Finance",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/QH9JICbqETcrY-MNyteqsBQW05M=/2122x1412/GettyImages-184088505-8a39006dd36444a8a1bea570a477bcc9.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/QH9JICbqETcrY-MNyteqsBQW05M=/2122x1412/GettyImages-184088505-8a39006dd36444a8a1bea570a477bcc9.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/u/ucits.asp",
-          "author": "James Chen",
-          "description": "A public limited company that coordinates the distribution and management of unit trusts among countries within the European Union.",
-          "link": "https://www.investopedia.com/terms/u/ucits.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-26T19:20:02.000Z",
-          "wordCount": 5367,
-          "title": "Undertakings for Collective Investment in Transferable Securities",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/VWbsv6Zf0JuXbarTGKpL0Y1ULM4=/4500x2999/GettyImages-616128044-e7ff49f037074c9682f52d0e5a8a4842.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/VWbsv6Zf0JuXbarTGKpL0Y1ULM4=/4500x2999/GettyImages-616128044-e7ff49f037074c9682f52d0e5a8a4842.jpg"
         }
       ]
     },
@@ -22261,6 +22246,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "adani-stocks-drop-report-group-062802018.html",
+          "author": null,
+          "description": "(Bloomberg) -- Adani Group stocks slumped to erase over 523 billion rupees ($6.4 billion) in market value on Tuesday, the biggest decline since early February, on renewed concerns over the ports-to-power conglomerate’s ability to repay its debt. Most Read from BloombergFBI Releases Files on Ivana TrumpSchwab’s $7 Trillion Empire Built on Low Rates Is Showing CracksBinance and Its CEO Sued by CFTC Over US Regulatory ViolationsSaudi National Bank Chair Resigns After Credit Suisse RemarkAdani Ports",
+          "link": "https://finance.yahoo.com/news/adani-stocks-drop-report-group-062802018.html",
+          "publishedOn": "2023-03-28T06:56:52.000Z",
+          "wordCount": 14360,
+          "title": "Adani Stocks Drop on Report of Talks to Extend Loans",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/7b960b2f30062520adb08b354f235667"
+        },
+        {
+          "id": "tech-stocks-expensive-sp-500-risk-ec590be9?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The trade may have a little more juice in it, but the sector looks way less attractive than it did a  few months ago.",
+          "link": "https://www.barrons.com/articles/tech-stocks-expensive-sp-500-risk-ec590be9?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-28T04:30:00.000Z",
+          "wordCount": 6940,
+          "title": "Tech Stocks Are Really Expensive Again. They Might Not Be as Safe as They Look.",
+          "imageUrl": "https://images.barrons.com/im-751573/social"
+        },
         {
           "id": "markets-wrong-us-rate-cut-034255304.html",
           "author": null,
@@ -22330,6 +22335,16 @@
           "wordCount": 14107,
           "title": "California Lawmakers Pass Bill to Limit Oil Company Profits",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/zw1PHxbeiFj_m.31a3V2bQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/ded19aa30b4f53eb14e7721aa8a1de68"
+        },
+        {
+          "id": "nikola-cfo-steps-down-startups-221025990.html",
+          "author": null,
+          "description": "(Bloomberg) -- Nikola Corp.’s chief financial officer is stepping down next month in a shake up of the zero-emission vehicle startup’s top ranks. Most Read from BloombergFBI Releases Files on Ivana TrumpSchwab’s $7 Trillion Empire Built on Low Rates Is Showing CracksBinance and Its CEO Sued by CFTC Over US Regulatory ViolationsSaudi National Bank Chair Resigns After Credit Suisse RemarkKim Brady, who has been a source of stability amid managerial turmoil, will leave as finance chief at the Phoen",
+          "link": "https://finance.yahoo.com/news/nikola-cfo-steps-down-startups-221025990.html",
+          "publishedOn": "2023-03-27T22:10:25.000Z",
+          "wordCount": 13886,
+          "title": "Nikola’s CFO Steps Down in Startups’ Latest High-Level Exit",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/fktjRqNHYS2GRZD6auVcjg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/dd63517a3290109efb7a52e7dab6a041"
         },
         {
           "id": "carnival-guidance-sinks-shares-7371957?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
@@ -22772,6 +22787,16 @@
           "imageUrl": "https://media.zenfs.com/en/news_direct/74ff0465f1e4678218d36c477cc0ab2c"
         },
         {
+          "id": "auddev&yptr=yahoo",
+          "author": null,
+          "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+          "link": "https://www.ft.com/cms/s/ea11c458-24e7-407f-ab42-c18adced3cd6,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev&yptr=yahoo",
+          "publishedOn": "2023-03-27T13:46:41.000Z",
+          "wordCount": 1614,
+          "title": "Vonovia/German property: stately pile of debt needs underpinning",
+          "imageUrl": null
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -22880,6 +22905,16 @@
           "wordCount": 15483,
           "title": "Can I Retire at 60 With $300,000?",
           "imageUrl": "https://media.zenfs.com/en/smartasset_475/e3c187ce32be1267a5b73b05c7cffb81"
+        },
+        {
+          "id": "eur-usd-forecast-euro-finds-125559897.html",
+          "author": null,
+          "description": "The Euro initially fell during the trading session on Monday but did find a handful of buyers underneath to turn things around slightly.",
+          "link": "https://finance.yahoo.com/news/eur-usd-forecast-euro-finds-125559897.html",
+          "publishedOn": "2023-03-27T12:55:59.000Z",
+          "wordCount": 13904,
+          "title": "EUR/USD Forecast – Euro Finds Buyers On The Dip",
+          "imageUrl": "https://media.zenfs.com/en/fx_empire_176/eac9ce9cc923f103c512113bfa194c27"
         },
         {
           "id": "fallen-crypto-king-owes-millions-125024421.html",
