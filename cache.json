@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "06f3053e08f0a1ee51b1d0e7590ad3d7",
+          "author": "Investopedia",
+          "description": "Walgreens Boots Alliance (WBA) is the best-performing stock in the Dow as the largest U.S. pharmacy chain posted better-than-expected quarterly results, even as demand for COVID-19-related products declined.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca956fc6f01ab611368ec32fa2fe3d3f8a4151d07d8737be86516645d7679c32df911f21d1ef26b7b8ec2eafed8f3fab25e72d1ccf364a094741aaa0ff8b250b9d",
+          "publishedOn": "2023-03-29T12:27:32.029Z",
+          "wordCount": 412,
+          "title": "Shares of Walgreens Boots Alliance Rise on Earnings Beat",
+          "imageUrl": null
+        },
+        {
           "id": "e094b063a657f1f29c7c49a8e4627745",
           "author": "Investopedia",
           "description": "Carnival Corporation (CCL) was the worst-performing stock in the S&P 500 after the cruise line operator predicted much bigger losses than expected in the current quarter and full year.",
@@ -440,6 +450,26 @@
       "feedUrl": "https://rss.app/feeds/UWnMV6nTNN8mPDUG.xml",
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
+        {
+          "id": "da72e46329dfa147eff15bce44bae383",
+          "author": "Investopedia",
+          "description": "Major U.S. equities indexes dropped on March 28, 2023, with rising confidence in the banking sector reviving interest rate concerns.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b66d5e91ab14f748c9c37b3bf3523c2565acd35923db5df41244ad86e873dc2df1b6eccf321ffe7e234e7a58624ae29fa6758d1631d5d035e",
+          "publishedOn": "2023-03-29T12:27:32.047Z",
+          "wordCount": 412,
+          "title": "Markets Drop on Renewed Concerns About Rate Hikes",
+          "imageUrl": null
+        },
+        {
+          "id": "17e7e3868ce6d64b283dd08991493792",
+          "author": "Investopedia",
+          "description": "Banking regulators will face tough questions from Congress today while the U.S. brings a case against the world’s largest cryptocurrency exchange. Here’s what investors need to know today.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df4f2a56d06e81209c9d0a69cdab38b3e7e028afbad660f77cbb7942d567185a0358aa",
+          "publishedOn": "2023-03-29T12:27:32.015Z",
+          "wordCount": 412,
+          "title": "5 Things to Know Before Markets Open",
+          "imageUrl": null
+        },
         {
           "id": "69f3c5cdff7a8118f69c985e9877f928",
           "author": "Investopedia",
@@ -1048,16 +1078,6 @@
           "publishedOn": "2023-02-28T15:14:28.741Z",
           "wordCount": 412,
           "title": "5 Things to Know Before Markets Open",
-          "imageUrl": null
-        },
-        {
-          "id": "82dd9f42d50175d6da979ac34d53b23e",
-          "author": "Investopedia",
-          "description": "U.S. stocks posted gains to open the week on Feb. 27, with markets turning their attention to corporate news and upcoming releases from key companies.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca93748aef1eb7573c9c9d75ace23f23c25057c67d923db4990f234ddc6390219c9d1421c0e927a2faf121f6edc325a02ded26068c315c45045da8a1fb8a22",
-          "publishedOn": "2023-02-27T23:14:06.426Z",
-          "wordCount": 412,
-          "title": "US Markets Open the Week Higher on Corporate Headlines",
           "imageUrl": null
         }
       ]
@@ -6969,6 +6989,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/tenant-rights-history-5204181",
+          "author": "Daniel Thomas Mollenkamp",
+          "description": "A guide to the rights that renters have had in the United States over the years. While the laws vary by state, federal protections and common law are also important.",
+          "link": "https://www.investopedia.com/tenant-rights-history-5204181?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-29T12:20:24.000Z",
+          "wordCount": 7438,
+          "title": "Tenant Rights in the US: A Modern History",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/QHVgbVVHKknczNR-S7_M43B4AOY=/1024x663/GettyImages-539550312-59a572726f53ba0011ccefc4.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/QHVgbVVHKknczNR-S7_M43B4AOY=/1024x663/GettyImages-539550312-59a572726f53ba0011ccefc4.jpg"
+        },
         {
           "id": "https://www.investopedia.com/tech/what-you-must-know-investing-crypto/",
           "author": "Nathan Reiff",
@@ -21973,36 +22008,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/2cUKf4phFkkkkGqQmswSDq2qBhg=/680x440/shutterstock_253136563-5bfc2b98c9e77c00519aa7a8.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/financial-edge/0711/credit-cards-should-you-ever-pay-an-annual-fee.aspx",
-          "author": "Amy Fontinelle",
-          "description": "Most of the time, it doesn't make sense to pay an annual fee for a credit card. Here are some circumstances when it does.",
-          "link": "https://www.investopedia.com/financial-edge/0711/credit-cards-should-you-ever-pay-an-annual-fee.aspx?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-27T23:28:30.000Z",
-          "wordCount": 4855,
-          "title": "Credit Cards: Should You Ever Pay an Annual Fee?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/NIGoSSi9KLhsqjuu1MieVs_mgRo=/5121x3414/GettyImages-85561550-3c663f0c8d634c61a6e9b02483048d6a.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/NIGoSSi9KLhsqjuu1MieVs_mgRo=/5121x3414/GettyImages-85561550-3c663f0c8d634c61a6e9b02483048d6a.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/financial-edge/0312/why-athletes-go-broke.aspx",
-          "author": "Tim Parker",
-          "description": "Many pro athletes are far from the top of their game when it comes to managing their wealth, but everyone can learn from their mistakes.",
-          "link": "https://www.investopedia.com/financial-edge/0312/why-athletes-go-broke.aspx?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-27T23:18:54.000Z",
-          "wordCount": 5268,
-          "title": "Why Athletes Go Broke",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/4N9kT0jTdMq3yeH0DuXterKJW0A=/5220x3915/GettyImages-113271160-e8fb180b28fe458daa7a9c65a43ac40c.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/4N9kT0jTdMq3yeH0DuXterKJW0A=/5220x3915/GettyImages-113271160-e8fb180b28fe458daa7a9c65a43ac40c.jpg"
         }
       ]
     },
@@ -22011,6 +22016,56 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "russia-says-crop-titan-cargill-095639585.html",
+          "author": null,
+          "description": "(Bloomberg) -- Russia said top agricultural commodities trader Cargill Inc. will stop exporting its grain, adding to uncertainty over the future of Black Sea crop shipments. Most Read from Bloomberg$52 Billion Chipmaking Plan Is Racing Toward FailureFBI Releases Files on Ivana TrumpNew Yorkers Are Moving to These Three Florida CitiesUBS Veteran Ermotti Returns to Lead Credit Suisse TakeoverBanks in France Face More Than $1.1 Billion Fines After RaidsAs the biggest wheat exporter, Russian grain i",
+          "link": "https://finance.yahoo.com/news/russia-says-crop-titan-cargill-095639585.html",
+          "publishedOn": "2023-03-29T11:44:46.000Z",
+          "wordCount": 14823,
+          "title": "Russia Says Crop Titan Cargill Will Stop Exporting Its Grain",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/6tXJM7e86IV6.plSjb2XAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDQ-/https://media.zenfs.com/en/bloomberg_markets_842/ba20d8403b3a437010a5a53b7564e8cb"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/etfs-and-funds/sectors/elon-musk-says-warren-buffett-missed-out-on-the-best-stock/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-03-29T11:30:12.000Z",
+          "wordCount": null,
+          "title": "Elon Musk Says Warren Buffett Missed Out On The Best Stock",
+          "imageUrl": null
+        },
+        {
+          "id": "biden-one-size-fits-plan-150000623.html",
+          "author": null,
+          "description": "Rule changes living rent-free in your mind? Perhaps it's time for a more passive approach.",
+          "link": "https://finance.yahoo.com/news/biden-one-size-fits-plan-150000623.html",
+          "publishedOn": "2023-03-29T11:00:00.000Z",
+          "wordCount": 15034,
+          "title": "Biden’s sweeping plan to help renters comes 'at the expense' of mom-and-pop landlords — here's what to do if you still want your slice of the real estate pie",
+          "imageUrl": "https://media.zenfs.com/en/moneywise_327/5cb98b641d21d01801831494229eb0f4"
+        },
+        {
+          "id": "3-international-stocks-with-strong-dividends-and-long-term-growth-potential-16119591?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "author": null,
+          "description": "There is considerable value to be found among international names at the moment.",
+          "link": "https://realmoney.thestreet.com/investing/3-international-stocks-with-strong-dividends-and-long-term-growth-potential-16119591?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
+          "publishedOn": "2023-03-29T11:00:00.000Z",
+          "wordCount": 5310,
+          "title": "3 International Stocks With Strong Dividends and Long-Term Growth Potential",
+          "imageUrl": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/5d7f8d0f-cd50-11eb-aa35-a71cec263bf0.jpg"
+        },
+        {
+          "id": "micron-revives-some-of-its-worst-memories-e3e6ff34?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The memory-chip maker is now losing billions as it writes down inventory to wait out downturn.",
+          "link": "https://www.wsj.com/articles/micron-revives-some-of-its-worst-memories-e3e6ff34?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-29T10:30:00.000Z",
+          "wordCount": 7266,
+          "title": "Micron Revives Some of Its Worst Memories",
+          "imageUrl": "https://images.wsj.net/im-753065/social"
+        },
         {
           "id": "stock-market-movers-375fd9ef?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -46940,16 +46995,6 @@
           "wordCount": 14611,
           "title": "Time to buy these energy stocks with over 40% upside potential, analysts say",
           "imageUrl": "https://media.zenfs.com/en/tipranks_452/f279c9821a1f430cf23a889f4df33ec7"
-        },
-        {
-          "id": "rally-chinas-technology-stocks-fading-001637736.html",
-          "author": null,
-          "description": "(Bloomberg) -- A dizzying rally in China’s technology stocks is fading fast as growth concerns take center stage despite a string of earnings beats.Most Read from BloombergElon Musk Regains His Spot as the World’s Richest PersonNigeria Latest: Tinubu Wins in Six States; Obi Takes ThreeTD Bank to Pay $1.2 Billion to End Suit Tied to Ponzi SchemeNigeria Latest: Tinubu Wins Ekiti Vote; Next Briefing at 11 a.m.Goldman Turns to ‘Make-or-Break’ Unit as Solomon Put to TestThe Nasdaq Golden Dragon China",
-          "link": "https://finance.yahoo.com/news/rally-chinas-technology-stocks-fading-001637736.html",
-          "publishedOn": "2023-02-28T00:16:37.000Z",
-          "wordCount": 14724,
-          "title": "The Rally in China's Technology Stocks is Fading Fast",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_technology_68/7380527a323402503248f526a1a7246f"
         }
       ]
     }
