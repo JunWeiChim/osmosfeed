@@ -6881,21 +6881,6 @@
             "url": "https://media.nu.nl/m/mdox4roal9le_sqr256.jpg/1000-euro-subsidie-voor-opleiding-toch-niet-vandaag-beschikbaar-door-storing.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/mdox4roal9le_sqr256.jpg/1000-euro-subsidie-voor-opleiding-toch-niet-vandaag-beschikbaar-door-storing.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6253259/",
-          "author": "Tim Wijkman-van Aalst",
-          "description": "KPN, Vodafone en T-Mobile kunnen hun mobiele netwerken vanaf eind dit jaar nog sneller maken. Er komt dan een nieuw pakket aan radiofrequenties vrij. De mobiele aanbieders zitten al jaren te springen om deze extra ruimte.",
-          "link": "https://www.nu.nl/tech/6253259/mobiel-internet-wordt-nog-sneller-door-extra-ruimte-voor-providers.html",
-          "publishedOn": "2023-02-28T10:52:05.000Z",
-          "wordCount": 1131,
-          "title": "Mobiel internet wordt nog sneller door extra ruimte voor providers",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/afexzrgaob11_sqr256.jpg/mobiel-internet-wordt-nog-sneller-door-extra-ruimte-voor-providers.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/afexzrgaob11_sqr256.jpg/mobiel-internet-wordt-nog-sneller-door-extra-ruimte-voor-providers.jpg"
         }
       ]
     },
@@ -6904,6 +6889,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/c/credit-history.asp",
+          "author": "The Investopedia Team",
+          "description": "Credit history is the ongoing documentation of your financial information, including repayment of your debts. Learn what is included in your credit history.",
+          "link": "https://www.investopedia.com/terms/c/credit-history.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-29T22:49:08.000Z",
+          "wordCount": 5484,
+          "title": "What Is a Credit History? Impact on Scores and Credit Report",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/WSiQLApX8M5T2WRHyjZdFkG_nuU=/8066x5136/womanshoppingbags-2ed991a6c8eb4e19bbfdfb1dbe1d0678.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/WSiQLApX8M5T2WRHyjZdFkG_nuU=/8066x5136/womanshoppingbags-2ed991a6c8eb4e19bbfdfb1dbe1d0678.jpg"
+        },
         {
           "id": "https://www.investopedia.com/bnpl-market-competitive-landscape-7372884",
           "author": "Mack Wilowski",
@@ -22337,6 +22337,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/market-rally-clears-key-levels-micron-leads-10-stocks-flash-buy-signals/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-03-29T22:58:45.000Z",
+          "wordCount": null,
+          "title": "Market Rally Picks Up Steam, Here's What To Do; 10 Stocks Flashing Buy Signals",
+          "imageUrl": null
+        },
+        {
           "id": "stocks-moving-after-hours-electronic-arts-rh-212231242.html",
           "author": null,
           "description": "Here are some of today's after-hour movers.",
@@ -22345,6 +22355,16 @@
           "wordCount": 14045,
           "title": "Stocks moving after-hours: Electronic Arts, RH",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/c29xUGOhdLFAHTQtA_BHOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjY-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/2605cad0-ce76-11ed-bfd1-6f553fa25940"
+        },
+        {
+          "id": "heres-much-keep-stocks-bonds-205122372.html",
+          "author": null,
+          "description": "There are many different approaches and strategies for retirement investing that might appeal to you. But how do you tell if a certain strategy works for your situation? When evaluating different approaches, consider how each strategy is put together and … Continue reading → The post Here's How Much to Keep in Stocks, Bonds and Cash in Retirement appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/heres-much-keep-stocks-bonds-205122372.html",
+          "publishedOn": "2023-03-29T20:51:22.000Z",
+          "wordCount": 14765,
+          "title": "Here's How Much to Keep in Stocks, Bonds and Cash in Retirement",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/868472144d9884300a2f6d9d7b7c7d90"
         },
         {
           "id": "polestar-3-begins-product-ramp-up-with-cheaper-tax-friendly-version-on-deck-202018381.html",
@@ -47505,56 +47525,6 @@
           "wordCount": 6676,
           "title": "Baytex acquiring Ranger Oil for $2.5 bln, including debt",
           "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
-        },
-        {
-          "id": "ireland-energy-crisis-threatens-blackouts-110000884.html",
-          "author": null,
-          "description": "Back-up power generators have started to arrive in Ireland to help it keep the lights on during the next few winters. The mobile turbines, described as “effectively jet engines”, are set to be installed in areas including Dublin and nearby County Meath. The €350m (£308m) temporary capacity was ordered by environment minister Eamon Ryan last year as a “last resort”, after regulators flagged a looming shortfall in generation. “This is an electricity emergency,” minister of state Ossian Smyth told",
-          "link": "https://finance.yahoo.com/news/ireland-energy-crisis-threatens-blackouts-110000884.html",
-          "publishedOn": "2023-02-28T11:00:00.000Z",
-          "wordCount": 14734,
-          "title": "Ireland rues mistakes of the past as it struggles to keep the lights on",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/zctSpfgSW43lMj3Hea.8uA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/2251993d531eee1da3f497318ee8b0d6"
-        },
-        {
-          "id": "more-us-homebuyers-paying-cash-110000481.html",
-          "author": null,
-          "description": "(Bloomberg) -- US homebuyers are increasingly paying in cash.Most Read from BloombergElon Musk Regains His Spot as the World’s Richest PersonNigeria Latest: Tinubu Wins in Six States; Obi Takes ThreeTD Bank to Pay $1.2 Billion to End Suit Tied to Ponzi SchemeApple Suppliers Are Racing to Exit China, AirPods Maker SaysHong Kong Ends One of World’s Longest Mask Mandates After 945 DaysThe share of all-cash deals rose to the highest since 2013 last year, while institutional investors, who usually ac",
-          "link": "https://finance.yahoo.com/news/more-us-homebuyers-paying-cash-110000481.html",
-          "publishedOn": "2023-02-28T11:00:00.000Z",
-          "wordCount": 14287,
-          "title": "More US Homebuyers Are Paying in Cash, Sweeping a Majority of Sales in Some Markets",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/PS31mZMBhJ9eJ603xF30Bw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDQ-/https://media.zenfs.com/en/bloomberg_markets_842/cd82dfe14606e8d504819af725d82ff2"
-        },
-        {
-          "id": "momma-cant-protect-dave-ramsey-110000358.html",
-          "author": null,
-          "description": "Ramsey’s not mad at Gen Z, he’s just disappointed.",
-          "link": "https://finance.yahoo.com/news/momma-cant-protect-dave-ramsey-110000358.html",
-          "publishedOn": "2023-02-28T11:00:00.000Z",
-          "wordCount": 14615,
-          "title": "'Momma can't protect you': Dave Ramsey has a blunt message for young adults still living with their parents — 3 things you need to do to get ahead (and get your own place)",
-          "imageUrl": "https://media.zenfs.com/en/moneywise_327/94e6bed916f3016f935148c17ad70420"
-        },
-        {
-          "id": "bayer-shares-slide-on-lower-4q-net-profit-weedkiller-claims-rose-in-2022-673dc5cc?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "German agricultural and pharmaceutical group saw net profit of 611 million euros ($648.3m) for final quarter of 2022, down from EUR1.16 billion the year prior",
-          "link": "https://www.marketwatch.com/story/bayer-shares-slide-on-lower-4q-net-profit-weedkiller-claims-rose-in-2022-673dc5cc?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-02-28T10:19:00.000Z",
-          "wordCount": 6980,
-          "title": "Bayer shares slide on lower fourth-quarter net profit; weedkiller claims rose in 2022",
-          "imageUrl": "https://images.mktw.net/im-452799/social"
-        },
-        {
-          "id": "much-indias-largest-insurer-suffered-101500529.html",
-          "author": null,
-          "description": "Hindenburg Research’s allegations of fraud against the Adani group have scorched the Life Insurance Corporation of India (LIC).",
-          "link": "https://finance.yahoo.com/news/much-indias-largest-insurer-suffered-101500529.html",
-          "publishedOn": "2023-02-28T10:15:00.000Z",
-          "wordCount": 14226,
-          "title": "How much has India's largest insurer suffered in the Adani fiasco?",
-          "imageUrl": "https://media.zenfs.com/en/quartz.com/394ab1f71cee75f0f7c2ed0ef7f43694"
         }
       ]
     }
