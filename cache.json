@@ -1029,16 +1029,6 @@
           "wordCount": 412,
           "title": "Stocks & Bond News, Trading News, ETF News",
           "imageUrl": null
-        },
-        {
-          "id": "207fde61c0ec4c6a690f6314746cce61",
-          "author": "Investopedia",
-          "description": "U.S. stocks edged lower on the last trading day in February, ending a month that saw a negative performance from major equities indexes.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca93748aef1eb7573c9c9d75a6fc3e608b4b48cd7d8337a3df562341966f942a9c9314688eeb3abce1eb6db5b9db7ffd75b8",
-          "publishedOn": "2023-02-28T23:13:50.182Z",
-          "wordCount": 412,
-          "title": "US Markets End Down for the Day and Month",
-          "imageUrl": null
         }
       ]
     },
@@ -6889,6 +6879,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/easter-egg-prices-7373077",
+          "author": "Staff Author",
+          "description": "As you contemplate shelling out more for eggs this Easter season, here's a reality check: Profit for the biggest US producer surged eight-fold in the past year.",
+          "link": "https://www.investopedia.com/easter-egg-prices-7373077?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-03-30T12:04:36.000Z",
+          "wordCount": 3319,
+          "title": "Expensive Easter Could Mean Grade-A Profits for Egg Producers",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/DK8C2muS269-DJX6H_2xuLK7DJU=/5470x3647/GettyImages-1390482501-89113856a5c3409ab5832d847e507d5d.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/DK8C2muS269-DJX6H_2xuLK7DJU=/5470x3647/GettyImages-1390482501-89113856a5c3409ab5832d847e507d5d.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/professionals/101215/how-hard-career-selling-life-insurance.asp",
           "author": "Greg DePersio",
@@ -21833,21 +21838,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/NDCkeHW6bU-UXC41MUVKsx2rd6E=/680x440/business_building_153697270-5bfc2b9846e0fb0083c07d69.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/personal-finance/081616/are-you-erisa-compliant-follow-checklist.asp",
-          "author": "Richard Best",
-          "description": "Following a checklist can make achieving compliance with Employee Retirement Income Security Act of 1974 (ERISA) requirements much less burdensome.",
-          "link": "https://www.investopedia.com/articles/personal-finance/081616/are-you-erisa-compliant-follow-checklist.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-02-28T23:36:56.000Z",
-          "wordCount": 5151,
-          "title": "Is Your Business ERISA Compliant? Follow This Checklist",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Hp-TNiAaCwVshhCYMWiZ9TxlxOM=/680x440/shutterstock_67023106-5bfc2b9846e0fb005144dd87.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Hp-TNiAaCwVshhCYMWiZ9TxlxOM=/680x440/shutterstock_67023106-5bfc2b9846e0fb005144dd87.jpg"
         }
       ]
     },
@@ -21860,11 +21850,41 @@
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
+          "link": "https://www.investors.com/etfs-and-funds/etfs/interest-rates-score-lucrative-yield-on-nearly-risk-free-stocks-etfs/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-03-30T11:30:26.000Z",
+          "wordCount": null,
+          "title": "Investors Score Lucrative 4.4% Yield On 10 Nearly Risk-Free Stocks",
+          "imageUrl": null
+        },
+        {
+          "id": "stock-market-movers-60ac6179?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Intel stock rises after announcing new data-center products, and videogame publisher Electronic Arts says it will be cutting 6% of its staff.",
+          "link": "https://www.barrons.com/articles/stock-market-movers-60ac6179?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-30T10:58:00.000Z",
+          "wordCount": 7028,
+          "title": "These Stocks Are Moving the Most Today: Intel, Electronic Arts, Roku, Philip Morris, Sprinklr, and More",
+          "imageUrl": "https://images.barrons.com/im-499870/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
           "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-picks-up-steam-10-stocks-flash-buy-signals/?src=A00220&yptr=yahoo",
           "publishedOn": "2023-03-30T10:57:45.000Z",
           "wordCount": null,
           "title": "Dow Jones Futures Rise As Market Rally Picks Up Steam; 10 Stocks Flashing Buy Signals",
           "imageUrl": null
+        },
+        {
+          "id": "rh-ceo-blames-fed-inflation-stock-market-and-banking-crisis-for-business-weakness-103311085.html",
+          "author": null,
+          "description": "RH CEO Gary Friedman held another wild earnings call amid weak results.",
+          "link": "https://finance.yahoo.com/news/rh-ceo-blames-fed-inflation-stock-market-and-banking-crisis-for-business-weakness-103311085.html",
+          "publishedOn": "2023-03-30T10:33:11.000Z",
+          "wordCount": 14667,
+          "title": "RH CEO blames Fed, inflation, stock market, and banking crisis for business weakness",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/V3FfOkiZleiKMlmYYc0Q9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzk-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/7e6d0520-cee5-11ed-bb3d-7d54004f717c"
         },
         {
           "id": "intel-stock-chips-production-semiconductor-amd-c15a4262?siteid=yhoof2&yptr=yahoo",
@@ -22427,6 +22447,16 @@
           "imageUrl": null
         },
         {
+          "id": "delay-social-security-during-down-110609650.html",
+          "author": null,
+          "description": "Down markets can present a difficult decision for new retirees. On one hand, withdrawing money from the market during a downturn can lock in investment losses, wreaking havoc on the longevity of their retirement plan. Conversely, avoiding portfolio withdrawals early … Continue reading → The post Should You Delay Social Security During a Down Market or Take It at 62? appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/delay-social-security-during-down-110609650.html",
+          "publishedOn": "2023-03-29T11:06:09.000Z",
+          "wordCount": 15316,
+          "title": "Should You Delay Social Security During a Down Market or Take It at 62?",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/cfea6833182906aa69ac13a64b3b3f69"
+        },
+        {
           "id": "biden-one-size-fits-plan-150000623.html",
           "author": null,
           "description": "Rule changes living rent-free in your mind? Perhaps it's time for a more passive approach.",
@@ -22505,6 +22535,16 @@
           "wordCount": 14466,
           "title": "Top economist Mohamed El-Erian warns that ‘erosion in trust’ caused by banking crisis will lead to ‘economic contagion’",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/.zSz3iDhfpJ.uLAo6umkEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/912028ec32cd083f6938925e07788b7d"
+        },
+        {
+          "id": "accountants-salaries-are-rising-but-it-may-not-add-up-to-more-accountants-be01efb4?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The salaries offered to U.S. accountants and auditors last year climbed at their quickest pace in recent years, but industry observers say increasing pay alone may not be enough to remedy a national shortage of accountants.",
+          "link": "https://www.wsj.com/articles/accountants-salaries-are-rising-but-it-may-not-add-up-to-more-accountants-be01efb4?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-29T09:30:00.000Z",
+          "wordCount": 7646,
+          "title": "Accountants’ Salaries Are Rising, but It May Not Add Up to More Accountants",
+          "imageUrl": "https://images.wsj.net/im-752819/social"
         },
         {
           "id": "alibabas-us-34-billion-stock-093000395.html",
@@ -46645,16 +46685,6 @@
           "wordCount": 14199,
           "title": "Coupang’s Slowing Sales Growth Mars Second Quarterly Profit",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/zSMEwKgPX_VmnoUR4QN6ZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/5963e0f25ec9491c9bdbe0d0749b9240"
-        },
-        {
-          "id": "stocks-moving-in-after-hours-novavax-rivian-amc-234107161.html",
-          "author": null,
-          "description": "Stocks moving in after-hours: Novavax, Rivian, AMC",
-          "link": "https://finance.yahoo.com/news/stocks-moving-in-after-hours-novavax-rivian-amc-234107161.html",
-          "publishedOn": "2023-02-28T23:41:07.000Z",
-          "wordCount": 13909,
-          "title": "Stocks moving in after-hours: Novavax, Rivian, AMC",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/bCiWxSgFef7xEi5UzBJjiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/1eb89da0-b7c1-11ed-b95d-c1472709cbd6"
         }
       ]
     }
