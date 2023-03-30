@@ -1059,16 +1059,6 @@
           "wordCount": 412,
           "title": "5 Things to Know Before Markets Open",
           "imageUrl": null
-        },
-        {
-          "id": "8e61a1e7e1c2c716fd964772b6e6659c",
-          "author": "rss.app",
-          "description": "",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b66d5e91ab14f74868b2fb0bf6e79dd13089364c6",
-          "publishedOn": "2023-03-01T03:29:23.309Z",
-          "wordCount": 412,
-          "title": "Stocks & Bond News, Trading News, ETF News",
-          "imageUrl": null
         }
       ]
     },
@@ -1077,6 +1067,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6257515/",
+          "author": "onze economieredactie",
+          "description": "Marktonderzoeksbureau Blauw is een kort geding gestart omdat het bedrijf en zijn klanten zijn getroffen door een datalek. Het lek komt van softwareleverancier Nebu, maar die geeft volgens Blauw-topman Jos Vink nauwelijks informatie.",
+          "link": "https://www.nu.nl/tech/6257515/kort-geding-tegen-softwareleverancier-die-betrokken-is-bij-serie-datalekken.html",
+          "publishedOn": "2023-03-30T16:15:43.000Z",
+          "wordCount": 968,
+          "title": "Kort geding tegen softwareleverancier die betrokken is bij serie datalekken",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/5xzxjqja4q4r_sqr256.jpg/kort-geding-tegen-softwareleverancier-die-betrokken-is-bij-serie-datalekken.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/5xzxjqja4q4r_sqr256.jpg/kort-geding-tegen-softwareleverancier-die-betrokken-is-bij-serie-datalekken.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6257500/",
           "author": "onze economieredactie",
@@ -21992,6 +21997,36 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "block-stock-price-cash-app-short-8cb38325?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The payments group said last week Hindenburg Research's report was inaccurate and that it would explore legal action.",
+          "link": "https://www.barrons.com/articles/block-stock-price-cash-app-short-8cb38325?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-30T15:20:00.000Z",
+          "wordCount": 6930,
+          "title": "Block Speaks Out Again After Short-Seller’s Claims. The Stock Is Rising.",
+          "imageUrl": "https://images.barrons.com/im-442451/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/schwab-stock-slides-on-downgrade-yellen-to-call-for-tighter-bank-rules/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-03-30T15:18:36.000Z",
+          "wordCount": null,
+          "title": "Schwab Stock Slides On Downgrade; Yellen To Call For Tighter Bank Rules",
+          "imageUrl": null
+        },
+        {
+          "id": "ford-stock-price-tesla-nickel-ec9ae319?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The metal is a key component in batteries for electric vehicles and is the latest battleground for auto makers looking to navigate stressed supply chains.",
+          "link": "https://www.barrons.com/articles/ford-stock-price-tesla-nickel-ec9ae319?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-30T14:32:00.000Z",
+          "wordCount": 7011,
+          "title": "Ford Is Taking Another Page Out of Tesla’s Playbook. What It’s Doing Now.",
+          "imageUrl": "https://images.barrons.com/im-754029/social"
+        },
+        {
           "id": "beth-bath--beyond-stock-sinks-11-after-filing-to-sell-shares-prelim-sales-results-142905767.html",
           "author": null,
           "description": "Bed Bath and Beyond stock fell as much as 8% after the struggling retailer said it would sell up to $300 million in shares and posted preliminary fiscal fourth-quarter sales results.",
@@ -22072,6 +22107,16 @@
           "imageUrl": "https://media.zenfs.com/en/smartasset_475/227e65f34da56cb788229387fc2bc5a6"
         },
         {
+          "id": "faraday-future-ff91-price-stock-f0aaa818?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The electric-vehicle maker will roll out the FF 91 from its factory in Hanford, California.",
+          "link": "https://www.barrons.com/articles/faraday-future-ff91-price-stock-f0aaa818?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-30T13:30:00.000Z",
+          "wordCount": 6902,
+          "title": "Faraday Future Finally Begins Production of Its Luxury EV. The Stock Soars.",
+          "imageUrl": "https://images.barrons.com/im-373396/social"
+        },
+        {
           "id": "ask-advisor-mitigate-situation-tax-132332552.html",
           "author": null,
           "description": "My investment accounts don't withhold taxes from my capital gains, which is causing me to owe large amounts when I file my returns. How can I mitigate this situation? -David As capital gains distributions are unpredictable and usually unknown until … Continue reading → The post Ask an Advisor: ‘How Can I Mitigate This Situation?' My Tax Bill Is Huge Because My Investment Accounts Don't Withhold Capital Gains appeared first on SmartAsset Blog.",
@@ -22082,6 +22127,16 @@
           "imageUrl": "https://media.zenfs.com/en/smartasset_475/3afa9be113bdf46d01ea3b54d7842bcf"
         },
         {
+          "id": "london-close-being-usurped-worlds-054834912.html",
+          "author": null,
+          "description": "The US is heading towards a \"crash landing\" after the \"near-death experience in the US banking sector\", economists predict.",
+          "link": "https://finance.yahoo.com/news/london-close-being-usurped-worlds-054834912.html",
+          "publishedOn": "2023-03-30T13:23:22.000Z",
+          "wordCount": 20999,
+          "title": "Banking industry's 'near-death experience' to send US economy into recession - latest updates",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/fY5ps8DzOfQp.emw83v4.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/0399a171dfc6aa543c917b33aa8f3f31"
+        },
+        {
           "id": "philip-morris-tobacco-stock-buy-caaab010?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "J.P. Morgan analyst Jared Dinges now rates the tobacco company at Overweight, up from Neutral. He lifted his target for the stock price.",
@@ -22090,6 +22145,16 @@
           "wordCount": 6928,
           "title": "Philip Morris Stock Gets an  Upgrade. Now Is an ‘Attractive Entry Point.’",
           "imageUrl": "https://images.barrons.com/im-372060/social"
+        },
+        {
+          "id": "bidens-veto-trump-inspired-bill-143142165.html",
+          "author": null,
+          "description": "On Monday, President Joe Biden vetoed a bill that would have effectively banned ESG, or \"Environmental, Social and Governance,\" investments in tax-advantaged retirement accounts. This veto is the first of Biden's term in office. It keeps in place a rule … Continue reading → The post How Biden's Veto of Trump-Inspired Bill Could Impact Your Retirement appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/bidens-veto-trump-inspired-bill-143142165.html",
+          "publishedOn": "2023-03-30T13:00:54.000Z",
+          "wordCount": 14898,
+          "title": "Biden Just Vetoed This Trump-Inspired Bill. Here's How It May Affect Your Retirement",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/c5871a0f3c4ba174ddbac17c06c207e7"
         },
         {
           "id": "retire-65-2-5-million-130034992.html",
@@ -22130,6 +22195,16 @@
           "wordCount": null,
           "title": "Investors Score Lucrative 4.4% Yield On 10 Nearly Risk-Free Stocks",
           "imageUrl": null
+        },
+        {
+          "id": "am-starbucks-barista-doesn-t-113000003.html",
+          "author": null,
+          "description": "'The benefits are great on paper, but often don’t exist in reality due to inconsistent scheduling.'",
+          "link": "https://finance.yahoo.com/news/am-starbucks-barista-doesn-t-113000003.html",
+          "publishedOn": "2023-03-30T11:30:00.000Z",
+          "wordCount": 14986,
+          "title": "I am a Starbucks barista who doesn’t qualify for all the wonderful benefits you keep hearing about. We want the ‘different kind of company’ that Howard Schultz promised but failed to deliver",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ReAlf3aGJ9b5giaNp4mStg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/fortune_175/df97854bcb250d19c26178b1c118db35"
         },
         {
           "id": "auddev&yptr=yahoo",
