@@ -1038,6 +1038,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6257626/",
+          "author": "Tom van Gurp",
+          "description": "Eneco verlaagt de gas- en stroomprijzen voor klanten die per 1 mei nieuwe tarieven krijgen. Door die verlaging ligt bij de energieleverancier voor het eerst zowel het gas- als het elektriciteitstarief onder het prijsplafond van het kabinet.",
+          "link": "https://www.nu.nl/economie/6257626/eneco-laat-ook-gastarief-onder-het-prijsplafond-zakken.html",
+          "publishedOn": "2023-03-31T11:07:19.000Z",
+          "wordCount": 1030,
+          "title": "Eneco laat ook gastarief onder het prijsplafond zakken",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/5kbxjqca1qde_sqr256.jpg/eneco-laat-ook-gastarief-onder-het-prijsplafond-zakken.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/5kbxjqca1qde_sqr256.jpg/eneco-laat-ook-gastarief-onder-het-prijsplafond-zakken.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6257603/",
           "author": "Noémi van de Pol",
           "description": "Niet alleen in Nederland is de inflatie in maart gedaald. In alle eurolanden zijn de prijzen deze maand veel minder hard gestegen dan in februari, meldt het Europese statistiekbureau Eurostat op basis van voorlopige cijfers.",
@@ -6706,21 +6721,6 @@
             "url": "https://media.nu.nl/m/o9pxh0daheua_sqr256.jpg/lonen-stegen-in-februari-met-bijna-7-procent-trend-van-vorig-jaar-zet-door.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/o9pxh0daheua_sqr256.jpg/lonen-stegen-in-februari-met-bijna-7-procent-trend-van-vorig-jaar-zet-door.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6253464/",
-          "author": "Rolf Schuttenhelm",
-          "description": "De verduurzaming van de Nederlandse landbouw is in de afgelopen vijftien tot twintig jaar gestagneerd. Het stikstofoverschot werd nauwelijks kleiner, terwijl de uitstoot van broeikasgassen en fijnstof uit stallen zelfs is toegenomen. Dat blijkt donderdag uit de nieuwste cijfers van statistiekbureau CBS.",
-          "link": "https://www.nu.nl/klimaat/6253464/verduurzaming-van-landbouw-is-laatste-vijftien-jaar-gestagneerd.html",
-          "publishedOn": "2023-03-01T23:04:07.000Z",
-          "wordCount": 1263,
-          "title": "Verduurzaming van landbouw is laatste vijftien jaar gestagneerd",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/3xax8yza5dlv_sqr256.jpg/verduurzaming-van-landbouw-is-laatste-vijftien-jaar-gestagneerd.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/3xax8yza5dlv_sqr256.jpg/verduurzaming-van-landbouw-is-laatste-vijftien-jaar-gestagneerd.jpg"
         }
       ]
     },
@@ -21668,36 +21668,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/N7rdlpOnPfEJ7PUSDFAyT8JLf1k=/680x440/gold_ap11091515585-5bfc376246e0fb00511cc344.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/what-happens-when-your-student-loans-are-forgiven-7152753",
-          "author": "Lisa Iannucci",
-          "description": "If the Supreme Court rules in favor of President Biden's student loan forgiveness plan, the Department of Education will notify lenders which borrowers are eligible for up to $20,000 in debt relief.",
-          "link": "https://www.investopedia.com/what-happens-when-your-student-loans-are-forgiven-7152753?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-03-01T22:55:54.000Z",
-          "wordCount": 5412,
-          "title": "What Happens When Your Student Loans Are Forgiven?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/noDaFJalRHvGdOqC-yd5TqOxDmM=/5067x3341/GettyImages-975170-004-d997d77266a04c5ebaeb9b6679593492.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/noDaFJalRHvGdOqC-yd5TqOxDmM=/5067x3341/GettyImages-975170-004-d997d77266a04c5ebaeb9b6679593492.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/us-markets-begin-month-mixed-on-familiar-concerns-7153387",
-          "author": "Staff Author",
-          "description": "U.S. stocks opened March with a day of mixed trading as investors weighed persistent issues related to inflation and interest rates.",
-          "link": "https://www.investopedia.com/us-markets-begin-month-mixed-on-familiar-concerns-7153387?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-03-01T22:45:54.000Z",
-          "wordCount": 3116,
-          "title": "US Markets Begin the Month Mixed on Familiar Concerns",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/l_p5wIh6Y1frpNCyqBeFtHLnaAk=/1920x1269/indexesmarch1-86e16363c69845be8bca885dcd65b222.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/l_p5wIh6Y1frpNCyqBeFtHLnaAk=/1920x1269/indexesmarch1-86e16363c69845be8bca885dcd65b222.png"
         }
       ]
     },
@@ -21706,6 +21676,46 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "euro-area-inflation-sinks-record-091343993.html",
+          "author": null,
+          "description": "(Bloomberg) -- Underlying inflation in the euro area hit a record in March, handing ammunition to European Central Bank officials who say interest-rate increases aren’t over yet.Most Read from BloombergTrump Faces Fingerprints, Mug Shot After Dramatic IndictmentSingapore’s Changi Sees Immigration System Restored After Delays$335,000 Pay for ‘AI Whisperer’ Jobs Appears in Red-Hot MarketA $3 Trillion Threat to Global Financial Markets Looms in Japan$52 Billion Chipmaking Plan Is Racing Toward Fail",
+          "link": "https://finance.yahoo.com/news/euro-area-inflation-sinks-record-091343993.html",
+          "publishedOn": "2023-03-31T09:58:51.000Z",
+          "wordCount": 14592,
+          "title": "Euro-Area Core Inflation Hits Record, Backing Case for ECB Hikes",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/WxkhzdtWjSPs_R4zrLtUOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMDM3/https://media.zenfs.com/en/bloomberg_markets_842/97e3c84de1d8943041a2882ac13c4650"
+        },
+        {
+          "id": "bed-bath-beyond-making-300-093800289.html",
+          "author": null,
+          "description": "Bed Bath & Beyond is offering $300 million of its stock in yet another attempt to keep itself afloat.",
+          "link": "https://finance.yahoo.com/news/bed-bath-beyond-making-300-093800289.html",
+          "publishedOn": "2023-03-31T09:38:00.000Z",
+          "wordCount": 14345,
+          "title": "Bed, Bath & Beyond is making a $300 million effort to skirt bankruptcy",
+          "imageUrl": "https://media.zenfs.com/en/quartz.com/7f1c30f8379795c5898a744f406e525e"
+        },
+        {
+          "id": "the-first-quarter-of-the-year-sent-investors-back-to-the-future-morning-brief-093034637.html",
+          "author": null,
+          "description": "The tech sector's current boom feels like 2021, but there's a ton of differences between then and now.",
+          "link": "https://finance.yahoo.com/news/the-first-quarter-of-the-year-sent-investors-back-to-the-future-morning-brief-093034637.html",
+          "publishedOn": "2023-03-31T09:30:34.000Z",
+          "wordCount": 14600,
+          "title": "The first quarter of the year sent investors back to the future: Morning Brief",
+          "imageUrl": "https://s.yimg.com/os/creatr-uploaded-images/2023-03/2446a4b0-cf31-11ed-9fae-aec2d58ade8e"
+        },
+        {
+          "id": "retirement-charts-social-security-savings-health-efa1962b?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "From 401(k)s to healthcare, a look at how Americans spend time and money in retirement.",
+          "link": "https://www.wsj.com/articles/retirement-charts-social-security-savings-health-efa1962b?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-03-31T09:30:00.000Z",
+          "wordCount": 9593,
+          "title": "Here’s What Retirement Looks Like in America in Six Charts",
+          "imageUrl": "https://images.wsj.net/im-754664/social"
+        },
         {
           "id": "stock-market-movers-e42b93c?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -46185,56 +46195,6 @@
           "wordCount": 7012,
           "title": "Snowflake Stock Tumbles As Growth Outlook Disappoints",
           "imageUrl": "https://images.barrons.com/im-734244/social"
-        },
-        {
-          "id": "amc-stock-ape-preferred-adam-aron-3072233e?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Shares of the movie theater chain finished sharply lower Wednesday after CEO Adam Aron told investors that failure to authorize more common stock could result in even more dilution.",
-          "link": "https://www.barrons.com/articles/amc-stock-ape-preferred-adam-aron-3072233e?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-03-01T23:04:00.000Z",
-          "wordCount": 7607,
-          "title": "AMC Stock Falls After CEO Warns Company Could Be Forced to Sell More ‘APEs’",
-          "imageUrl": "https://images.barrons.com/im-733610/social"
-        },
-        {
-          "id": "stocks-moving-in-after-hours-tesla-salesforce-snowflake-silvergate-225831176.html",
-          "author": null,
-          "description": "Stocks moving in after-hours: Tesla, Salesforce, Snowflake, Silvergate",
-          "link": "https://finance.yahoo.com/news/stocks-moving-in-after-hours-tesla-salesforce-snowflake-silvergate-225831176.html",
-          "publishedOn": "2023-03-01T22:58:31.000Z",
-          "wordCount": 14157,
-          "title": "Stocks moving in after-hours: Tesla, Salesforce, Snowflake, Silvergate",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/jP5Pf3ouRsKYrEUWprz1Ng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/e18643a0-b884-11ed-bccd-b2153f21791c"
-        },
-        {
-          "id": "billionaire-charlie-munger-reveals-why-223714310.html",
-          "author": null,
-          "description": "The S&P 500 dipped by 19% in 2022, but stocks still don’t seem cheap to Charlie Munger, Warren Buffett’s billionaire partner at Berkshire Hathaway. “In my whole adult life, I have never hoarded cash, waiting for better conditions,” Munger said in an interview in late 2022. “I’ve just invested in the best thing I could find.” Yet he acknowledged that Berkshire Hathaway is sitting on billions of dollars in cash. The reason isn’t that Buffett and Munger think they can wait for stocks to get even ch",
-          "link": "https://finance.yahoo.com/news/billionaire-charlie-munger-reveals-why-223714310.html",
-          "publishedOn": "2023-03-01T22:37:14.000Z",
-          "wordCount": 14142,
-          "title": "Billionaire Charlie Munger Reveals Why Berkshire Hathaway has an $88 Billion Pile of Cash",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/eb18fb10d9bad39f2ae9d4f401b7ce42"
-        },
-        {
-          "id": "crypto-bank-silvergate-plunges-says-222609394.html",
-          "author": null,
-          "description": "(Bloomberg) -- Cryptocurrency-friendly bank Silvergate Capital Corp. is examining its viability and said it’s delaying its annual report to allow time to review financial controls, following the collapse of Sam Bankman-Fried’s FTX. The shares plunged as much as 25%.Most Read from BloombergSorry, Twitter. Elon Found His Next Shiny Object.How to Get a Free Flight to Hong Kong in 500,000 Airline Ticket GiveawayWorld’s Rich Take Advantage as $1 Trillion Property Market CratersLightfoot Is First Chic",
-          "link": "https://finance.yahoo.com/news/crypto-bank-silvergate-plunges-says-222609394.html",
-          "publishedOn": "2023-03-01T22:26:09.000Z",
-          "wordCount": 14401,
-          "title": "Crypto Bank Silvergate Plunges After It Says Examining Viability, Delays Annual Report",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/BDa9Lx3uYtGlg56h9CvHDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/e371b479a415d0d24904c9b3772de546"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/technology/pstg-stock-pure-storage-earnings-miss-estimates/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-03-01T22:14:15.000Z",
-          "wordCount": null,
-          "title": "Pure Storage Misses Views On Fourth-Quarter Earnings, Revenue",
-          "imageUrl": null
         }
       ]
     }
