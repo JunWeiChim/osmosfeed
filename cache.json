@@ -1098,6 +1098,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6257466/",
+          "author": "Jeroen Kraan",
+          "description": "Regelmatig beantwoorden we klimaatvragen van lezers. Deze keer: Waarom leggen we nog zonneparken aan in weilanden? Kunnen we die zonnepanelen niet veel beter op daken of boven parkeerplaatsen leggen?",
+          "link": "https://www.nu.nl/klimaat/6257466/klimaatvraag-waarom-komen-zonnepanelen-in-weilanden-en-niet-op-lege-daken.html",
+          "publishedOn": "2023-04-02T10:08:49.000Z",
+          "wordCount": 1421,
+          "title": "NU+ | Klimaatvraag: Waarom komen zonnepanelen in weilanden en niet op lege daken?",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/ezfxddxahfvu_sqr256.jpg/klimaatvraag-waarom-komen-zonnepanelen-in-weilanden-en-niet-op-lege-daken.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/ezfxddxahfvu_sqr256.jpg/klimaatvraag-waarom-komen-zonnepanelen-in-weilanden-en-niet-op-lege-daken.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6257658/",
           "author": "Play",
           "description": "In 2030 mogen er geen auto's meer verkocht worden die rijden op fossiele brandstoffen. Gaat dat het grote verschil maken? In de serie Het Kantelpunt kijken we naar positieve keerpunten in de strijd tegen klimaatverandering. Wanneer doen we genoeg?",
@@ -21098,36 +21113,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/Ti7oJkF4ksP3HCE1NGsOxIWzaLE=/2000x1333/amazon-hq1-e1542122830223-2000-67e4f14cec33484981ac7445e2384892.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-march-3-2023-rates-surge-7187345",
-          "author": "Sabrina Karl",
-          "description": "Rates on 30-year mortgages keep climbing, with the latest spike raising them to their highest average in almost four months.",
-          "link": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-march-3-2023-rates-surge-7187345?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-03-03T21:46:17.000Z",
-          "wordCount": 3469,
-          "title": "Today's Mortgage Rates & Trends - March 3, 2023: Rates surge",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/YfSmScq8VkypVm0iPlB0CKqQFtw=/3126x2085/March23MortageRatesNews-03-3600b8bc949b423e85b84aed0d78f06f.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/YfSmScq8VkypVm0iPlB0CKqQFtw=/3126x2085/March23MortageRatesNews-03-3600b8bc949b423e85b84aed0d78f06f.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/what-is-the-ethereum-shanghai-upgrade-7099021",
-          "author": "Rahul Nambiampurath",
-          "description": "The Ethereum Shanghai upgrade is designed to give ETH crypto token holders access to their staked assets, a major change for the network.",
-          "link": "https://www.investopedia.com/what-is-the-ethereum-shanghai-upgrade-7099021?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-03-03T21:44:07.000Z",
-          "wordCount": 4785,
-          "title": "What Is the Ethereum Shanghai Upgrade?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/UC5OxrFtK9fBtQnDcr251Ey9jeQ=/2121x1414/GettyImages-987275418-b073d755a2d547fa9bebfacd9b78f506.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/UC5OxrFtK9fBtQnDcr251Ey9jeQ=/2121x1414/GettyImages-987275418-b073d755a2d547fa9bebfacd9b78f506.jpg"
         }
       ]
     },
@@ -21136,6 +21121,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "individual-investors-slow-stock-purchases-leaving-markets-vulnerable-a70230d7?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The sharp drop in individuals’ equity buying in recent weeks leaves stock markets without a dependable leg of support after a rocky first quarter.",
+          "link": "https://www.wsj.com/articles/individual-investors-slow-stock-purchases-leaving-markets-vulnerable-a70230d7?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-02T09:30:00.000Z",
+          "wordCount": 7329,
+          "title": "Individual Investors Slow Stock Purchases, Leaving Markets Vulnerable",
+          "imageUrl": "https://images.wsj.net/im-755403/social"
+        },
+        {
+          "id": "tipranks-perfect-10-list-stock-085902079.html",
+          "author": null,
+          "description": "Recognizing the right stocks is a skill that every investor needs to learn, and the sheer volume of market data, on the main indexes, on individual stocks, on and from stock analysts, can present an intimidating barrier. Fortunately, there are tools to help. The Smart Score is a data collection and collation tool from TipRanks, using an AI-powered algorithm to sort the data on every stock according to a series of factors, 8 in all, that are known for their strong correlation with future share ou",
+          "link": "https://finance.yahoo.com/news/tipranks-perfect-10-list-stock-085902079.html",
+          "publishedOn": "2023-04-02T08:59:02.000Z",
+          "wordCount": 14830,
+          "title": "TipRanks ‘Perfect 10’ List: These Stock Giants Look Compelling at Current Levels",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/351f0e8555738dd245fd9ca4b1c33842"
+        },
         {
           "id": "mind-aftershocks-post-tantrum-market-070000261.html",
           "author": null,
@@ -21217,6 +21222,26 @@
           "imageUrl": "https://media.zenfs.com/en/Benzinga/986fc50a14cba8a9c7fedae755ca1a0d"
         },
         {
+          "id": "virgin-orbit-runs-low-cash-201618883.html",
+          "author": null,
+          "description": "For the uninitiated, WiR is where TechCrunch recaps all the tech news that took place for the week.  Crash and burn: Virgin Orbit is laying off around 85% of its workforce in order to further reduce expenses after the troubled space company said it was unable to secure additional funding to keep it afloat.  The news, which Virgin Orbit filed with the U.S. Securities and Exchange Commission on Thursday, comes just two weeks after the company furloughed all employees and entered an \"operational pause\" in order to find more cash.",
+          "link": "https://finance.yahoo.com/news/virgin-orbit-runs-low-cash-201618883.html",
+          "publishedOn": "2023-04-01T20:16:18.000Z",
+          "wordCount": 14941,
+          "title": "Virgin Orbit runs low on cash, ByteDance pushes a TikTok replacement, and Canoo settles with the SEC",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/2jUDRnWB6TtbtWv_Jmu3Bg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/13a5f971d16319ff44b11e431da6d533"
+        },
+        {
+          "id": "fed-may-comfort-us-jobs-200000255.html",
+          "author": null,
+          "description": "(Bloomberg) -- The pace of US hiring in March likely continued to show firm yet moderating labor demand, just as an anticipated slowdown in wage growth may offer some comfort to Federal Reserve officials in their inflation battle.Most Read from BloombergVeteran Money Managers Bail on Stock Rally With Fed Hawks FlyingTrump Weighs Bid to Shift NY Criminal Case to Staten IslandParents Are Paying Consultants $750,000 to Get Kids Into Ivy League SchoolsGlobal Food Supply Risks Rise as Key Traders Lea",
+          "link": "https://finance.yahoo.com/news/fed-may-comfort-us-jobs-200000255.html",
+          "publishedOn": "2023-04-01T20:00:00.000Z",
+          "wordCount": 15643,
+          "title": "Fed May Take Comfort With US Jobs Seen Showing Moderating Wages",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/dPkPMavVxt3_QBMZOerjZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTM-/https://media.zenfs.com/en/bloomberg_markets_842/d0145be5ab3748636e9239841d8d39a7"
+        },
+        {
           "id": "most-workers-arent-using-this-key-retirement-tool-to-the-fullest-192334678.html",
           "author": null,
           "description": "Of the 13 million HSAs in the Employment Benefit Research Institute’s database, only 12% of the account holders invested their HSAs in assets other than cash.",
@@ -21265,6 +21290,16 @@
           "wordCount": 16563,
           "title": "Balaji Srinivasan’s $1M Bitcoin Bet Could Be Right, but I Hope He’s Wrong",
           "imageUrl": "https://media.zenfs.com/en/coindesk_75/2d75ef2c911452b465f3ea8a0b75a0ab"
+        },
+        {
+          "id": "hong-kongs-crypto-ambitions-get-a-boost-from-u-s-crackdown-b3183117?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Hong Kong’s attempt to attract cryptocurrency companies is getting help from an intensifying crackdown by U.S. regulators.",
+          "link": "https://www.wsj.com/articles/hong-kongs-crypto-ambitions-get-a-boost-from-u-s-crackdown-b3183117?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-01T15:00:00.000Z",
+          "wordCount": 7353,
+          "title": "Hong Kong’s Crypto Ambitions Get a Boost From U.S. Crackdown",
+          "imageUrl": "https://images.wsj.net/im-754924/social"
         },
         {
           "id": "nio-li-auto-xpeng-march-deliveries-985894ae?siteid=yhoof2&yptr=yahoo",
@@ -21317,6 +21352,16 @@
           "imageUrl": "https://media.zenfs.com/en/smartasset_475/d0d06f8959ec6196c44b14b5d5de9823"
         },
         {
+          "id": "customers-have-stopped-pulling-deposits-from-small-banks-7373996?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "After the implosion of Silicon Valley Bank, customers pulled $185 billion from small banks, the largest weekly loss on record. The bleeding all but stopped a week later.",
+          "link": "https://www.investopedia.com/customers-have-stopped-pulling-deposits-from-small-banks-7373996?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-04-01T13:00:00.000Z",
+          "wordCount": 3790,
+          "title": "Customers Have All But Stopped Pulling Deposits from Small Banks",
+          "imageUrl": "https://www.investopedia.com/thmb/n6CPD7BJhBLdBDhEhYnErYzcpVs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1473274838-db6f50f28ed14df5a324b3ceec04af63.jpg"
+        },
+        {
           "id": "soaring-auto-loan-rates-latest-130000274.html",
           "author": null,
           "description": "(Bloomberg) -- Just when it seemed like things were getting back to normal at Rhett Ricart’s Columbus, Ohio, car dealerships — after pandemic-induced inventory shortages and runaway price inflation — a new obstacle emerged to keep buyers from closing the deal: soaring interest rates on auto loans.Most Read from BloombergParents Are Paying Consultants $750,000 to Get Kids Into Ivy League SchoolsGlobal Food Supply Risks Rise as Key Traders Leave RussiaTrump Faces Fingerprints, Mug Shot After Drama",
@@ -21325,6 +21370,16 @@
           "wordCount": 14765,
           "title": "Soaring Auto Loan Rates Are the Latest Roadblock for Car Sales",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ZdmvWZ3X_BMZRSz1Fsnerw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/48d2e76f1e514d715335ff6fbc1c5ded"
+        },
+        {
+          "id": "america-offices-suffering-under-dark-123000791.html",
+          "author": null,
+          "description": "Roughly half of working Americans say they are not satisfied in their jobs. Millennials and Gen Z are the unhappiest.",
+          "link": "https://finance.yahoo.com/news/america-offices-suffering-under-dark-123000791.html",
+          "publishedOn": "2023-04-01T12:30:00.000Z",
+          "wordCount": 14570,
+          "title": "America’s offices are suffering under a dark cloud of malaise, as half of workers say they’re unhappy",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/0pY4DkzNpD80mEjIqJ5acQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/6e62fc5c9c27c1b2be33aa69d05bba2f"
         },
         {
           "id": "veteran-money-managers-bail-stock-112034539.html",
@@ -21375,6 +21430,16 @@
           "wordCount": 14577,
           "title": "3 things you may have missed as markets wrapped up a first-quarter rally",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/SAxqptzJMwr5t_HwdhzLJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-11/a7b40920-0647-11ea-bffc-4a277c42c277"
+        },
+        {
+          "id": "investors-seek-safety-in-tech-stocks-money-market-funds-a303816f?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "During a wild first quarter, investors scrambled both into speculative stocks that were hammered in 2022, as well as the relative safety of money-market funds.",
+          "link": "https://www.wsj.com/articles/investors-seek-safety-in-tech-stocks-money-market-funds-a303816f?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-01T09:30:00.000Z",
+          "wordCount": 7400,
+          "title": "Investors Seek Safety in Tech Stocks, Money-Market Funds",
+          "imageUrl": "https://images.wsj.net/im-755655/social"
         },
         {
           "id": "lyft-staff-pressed-founders-for-change-as-uber-pulled-ahead-c10e7bd9?siteid=yhoof2&yptr=yahoo",
@@ -21445,6 +21510,16 @@
           "wordCount": null,
           "title": "Market Rally Builds Momentum; Tesla Breaks Out, Rivals Near Buy Points With EV Deliveries Due",
           "imageUrl": null
+        },
+        {
+          "id": "marchs-stock-market-came-in-like-a-lion-goes-out-like-a-bull-b9ae4458?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Investors are buffeted by worries and hopes as bank failures erupt, then are quickly dealt with by regulators; yield curve inverts and then improves, and extent of further rate hikes is debated.",
+          "link": "https://www.barrons.com/articles/marchs-stock-market-came-in-like-a-lion-goes-out-like-a-bull-b9ae4458?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-01T00:32:00.000Z",
+          "wordCount": 7029,
+          "title": "March’s Stock Market Came in Like a Lion, Goes Out Like a Bull",
+          "imageUrl": "https://images.barrons.com/im-755147/social"
         },
         {
           "id": "altria-lays-out-a-transition-to-smokeless-products-but-it-begins-with-the-dividend-b5b6bf29?siteid=yhoof2&yptr=yahoo",
@@ -44735,76 +44810,6 @@
           "wordCount": 7217,
           "title": "How This Investor Finds Quality Stocks. ASML and Unilever Are Some of His Favorites.",
           "imageUrl": "https://images.barrons.com/im-734131/social"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/market-rally-roars-back-what-you-should-do-apple-tesla-lead-7-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-03-03T22:11:39.000Z",
-          "wordCount": null,
-          "title": "Market Rally Roars Back: What You Should Do Now; Apple, Tesla Lead 7 Stocks Near Buy Points",
-          "imageUrl": null
-        },
-        {
-          "id": "rise-fall-silvergate-crypto-business-220241820.html",
-          "author": null,
-          "description": "Silvergate Bank lost more than $8 billion in deposits from its crypto customers in the final months of 2022 as its core block of business crumbled under the industry’s implosion – just as the bank’s regulators had predicted might happen for such institutions.",
-          "link": "https://finance.yahoo.com/news/rise-fall-silvergate-crypto-business-220241820.html",
-          "publishedOn": "2023-03-03T22:02:41.000Z",
-          "wordCount": 14098,
-          "title": "The Rise and Fall of Silvergate’s Crypto Business",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/T.kdg_H0LfKwpWCwxqcfYg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NTY-/https://media.zenfs.com/en/coindesk_75/12a36b2fe0afb8ceca8b200f15d81c33"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/ford-stock-pops-volkswagen-jumps-as-industry-sees-lighter-headwinds/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-03-03T22:00:09.000Z",
-          "wordCount": null,
-          "title": "Ford Stock Pops, Volkswagen Jumps On Signs Of Easing Headwinds",
-          "imageUrl": null
-        },
-        {
-          "id": "square-sued-over-645-000-215127122.html",
-          "author": null,
-          "description": "(Bloomberg) -- A woman’s ill-fated attempt to buy diamonds in New York City with a debit card linked to Russian bank accounts has landed Square Inc. in court.Most Read from BloombergAmazon Pauses Construction on Second Headquarters in Virginia as It Cuts JobsAmericans Need to Be Richer Than Ever to Buy Their First HomeSingapore PM Lee’s Estranged Brother Weighs Presidential RunFed Event Scrapped After Participant Shows Porn in Zoom RoomiPhone Maker Plans $700 Million India Plant in Shift From Ch",
-          "link": "https://finance.yahoo.com/news/square-sued-over-645-000-215127122.html",
-          "publishedOn": "2023-03-03T21:51:27.000Z",
-          "wordCount": 13963,
-          "title": "Square Sued Over $645,000 Diamond Payment It Refuses to Process",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/PRIInTiJLoQaB2mZ1HSn1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/748f3228762b104d23622e27beca3441"
-        },
-        {
-          "id": "tesla-byd-china-ev-market-share-232ccf56?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "China Passenger Car Association figures show Elon Musk's company built 74,402 vehicles in the country last month, nearly one-third more than a year ago.",
-          "link": "https://www.barrons.com/articles/tesla-byd-china-ev-market-share-232ccf56?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-03-03T21:50:00.000Z",
-          "wordCount": 7041,
-          "title": "Tesla and BYD Are Beating Their EV Rivals in China, Data Show",
-          "imageUrl": "https://images.barrons.com/im-735678/social"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/stock-lists/sector-leaders/growth-stock-super-micro-computer-makes-the-final-four-in-buy-zone/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-03-03T21:21:16.000Z",
-          "wordCount": null,
-          "title": "Growth Stock Super Micro Computer Makes The Final Four, In Buy Zone",
-          "imageUrl": null
-        },
-        {
-          "id": "stock-traders-ignoring-blaring-bond-211522233.html",
-          "author": null,
-          "description": "(Bloomberg) -- The fixed-income market’s unblemished record of striking fear into the hearts of equity traders is in danger.Most Read from BloombergAmazon Pauses Construction on Second Headquarters in Virginia as It Cuts JobsAmericans Need to Be Richer Than Ever to Buy Their First HomeSingapore PM Lee’s Estranged Brother Weighs Presidential RunFed Event Scrapped After Participant Shows Porn in Zoom RoomiPhone Maker Plans $700 Million India Plant in Shift From ChinaWith rates on two- and 10-year",
-          "link": "https://finance.yahoo.com/news/stock-traders-ignoring-blaring-bond-211522233.html",
-          "publishedOn": "2023-03-03T21:15:22.000Z",
-          "wordCount": 14489,
-          "title": "Stock Traders Are Ignoring Blaring Bond Alarms",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/d94efc1b101221b61413467743f53f7e"
         }
       ]
     }
