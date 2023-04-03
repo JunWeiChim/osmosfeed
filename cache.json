@@ -1058,6 +1058,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6257940/",
+          "author": "Tom van Gurp",
+          "description": "De handelsprijzen voor olie zijn maandag flink gestegen, doordat belangrijke olielanden hebben besloten minder te produceren. Zowel Noordzeeolie als Amerikaanse olie werd in korte tijd ruim 5 procent duurder. De vrees bestaat dat hogere olieprijzen de inflatie in Europa en de VS aanwakkeren, bijvoorbeeld doordat benzine en diesel duurder worden.",
+          "link": "https://www.nu.nl/economie/6257940/olie-flink-duurder-door-lagere-productie-prijzen-aan-de-pomp-omhoog.html",
+          "publishedOn": "2023-04-03T10:04:26.000Z",
+          "wordCount": 1102,
+          "title": "Olie flink duurder door lagere productie: prijzen aan de pomp omhoog",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/rhpxyp0abmei_sqr256.jpg/olie-flink-duurder-door-lagere-productie-prijzen-aan-de-pomp-omhoog.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/rhpxyp0abmei_sqr256.jpg/olie-flink-duurder-door-lagere-productie-prijzen-aan-de-pomp-omhoog.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6257971/",
           "author": "Eva Schouten",
           "description": "McDonald's heeft zijn kantoren in de Verenigde Staten tijdelijk gesloten om werknemers te informeren over een aanstaande ontslagronde. Die maakt deel uit van een grotere reorganisatie, meldt The Wall Street Journal. Een woordvoerder van McDonald's Nederland zegt tegen NU.nl dat nog niet bekend is of een en ander ook gevolgen heeft voor werknemers in ons land.",
@@ -21058,36 +21073,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/VbIYCArNY5NYTdQ18djqHw_slEQ=/680x440/nest_egg_115621496-5bfc333946e0fb0051bf46bb.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/should-cds-go-in-iras-5270814",
-          "author": "Rebecca Lake",
-          "description": "Adding CDs to an individual retirement account can have pros and cons. Learn when it makes sense to put CDs in an IRA.",
-          "link": "https://www.investopedia.com/should-cds-go-in-iras-5270814?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-03-04T22:08:46.000Z",
-          "wordCount": 5512,
-          "title": "Should You Put CDs in an IRA?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/0KfyrqTpmWkgMeRcmYxZhgW1AXE=/2121x1414/StrategiesforinvestinginRothIRAs-edfad006ec724ae99a39d021bb6bfdb2.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/0KfyrqTpmWkgMeRcmYxZhgW1AXE=/2121x1414/StrategiesforinvestinginRothIRAs-edfad006ec724ae99a39d021bb6bfdb2.jpeg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/s/spousal-ira.asp",
-          "author": "Julia Kagan",
-          "description": "A spousal IRA is a strategy that allows a working spouse to contribute to an IRA in the name of a non-working spouse to circumvent income requirements.",
-          "link": "https://www.investopedia.com/terms/s/spousal-ira.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-03-04T22:02:57.000Z",
-          "wordCount": 4913,
-          "title": "What Is a Spousal IRA? Definition, How It Works, and Contributions",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/PsBLRE_Q6DkK2NZPcyoKNkADRM0=/380x254/200393273-001-5bfc2b8bc9e77c0026b4f8ce.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/PsBLRE_Q6DkK2NZPcyoKNkADRM0=/380x254/200393273-001-5bfc2b8bc9e77c0026b4f8ce.jpg"
         }
       ]
     },
@@ -21096,6 +21081,36 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "tesla-deliveries-confusing-consensus-e285649a?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Tesla misses delivery estimates. No, Tesla beats delivery estimates. Nothing is ever easy with Tesla these days.",
+          "link": "https://www.barrons.com/articles/tesla-deliveries-confusing-consensus-e285649a?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-03T09:42:00.000Z",
+          "wordCount": 6906,
+          "title": "Tesla and the Curious Case of the Confusing Consensus",
+          "imageUrl": "https://images.barrons.com/im-455944/social"
+        },
+        {
+          "id": "chinese-stocks-face-micron-test-093000211.html",
+          "author": null,
+          "description": "The rally in Alibaba Group Holding is reassuring stock analysts that Beijing's regulatory crackdown is over. That may not reduce the risk premium in the Chinese stock market just yet, as Beijing's investigation into Micron Technology memory chips has opened a new front in the US-China tech war. China last week announced a cybersecurity investigation into the local sales of the US memory chips maker, targeting a US company for the first time in response to US export curbs on advanced chips and ge",
+          "link": "https://finance.yahoo.com/news/chinese-stocks-face-micron-test-093000211.html",
+          "publishedOn": "2023-04-03T09:30:00.000Z",
+          "wordCount": 15129,
+          "title": "Chinese stocks face Micron test of nerves after Alibaba delivers US$84 billion feel-good 'peace' rally",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/s5RT0ncy.6Sfx7gbasy0Lw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNjAw/https://media.zenfs.com/en/south_china_morning_post_us_228/0cd95f1779992d3ca65031303f10295c"
+        },
+        {
+          "id": "apple-stock-iphone-demand-analysts-872bcba9?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Strong iPhone demand in Asia and an acceleration in services revenue bode well for Apple stock, analysts at Wedbush say.",
+          "link": "https://www.barrons.com/articles/apple-stock-iphone-demand-analysts-872bcba9?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-03T09:22:00.000Z",
+          "wordCount": 6955,
+          "title": "Apple Stock Is Nearing Its Previous Peak. iPhone Demand Could Help It Soar, Analyst Says.",
+          "imageUrl": "https://images.barrons.com/im-650616/social"
+        },
         {
           "id": "stock-market-movers-e22f99c3?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -21117,6 +21132,16 @@
           "imageUrl": "https://images.barrons.com/im-510255/social"
         },
         {
+          "id": "us-biotech-firm-apellis-said-162620913.html",
+          "author": null,
+          "description": "(Bloomberg) -- Apellis Pharmaceuticals Inc., a biotech firm focused on rare diseases and ophthalmology, is drawing takeover interest from larger drugmakers, people with knowledge of the matter said.Most Read from BloombergOPEC+ Makes Shock Million-Barrel Cut in New Inflation RiskSwiss Prosecutors Probe Credit Suisse Deal, Job Cuts SeenDubai’s Latest Boom Is Pricing Out the Expats It Once CovetedBillionaire Blocked From His New Palace Blasts ‘Socialist’ IndiaOil Surges 8% After OPEC+ Blindsides M",
+          "link": "https://finance.yahoo.com/news/us-biotech-firm-apellis-said-162620913.html",
+          "publishedOn": "2023-04-03T08:32:09.000Z",
+          "wordCount": 14360,
+          "title": "US Biotech Firm Apellis Is Said to Attract Takeover Interest",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/tfPAQO6nyNHEo1J5lHxltA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/ac41c0a1d5e272ad5674082f060cc21a"
+        },
+        {
           "id": "china-warns-top-bankers-deepening-070200981.html",
           "author": null,
           "description": "(Bloomberg) -- Chinese authorities warned the nation’s top banking executives that the crackdown on the $60 trillion industry is far from over in a private meeting late Friday, just as they were about to announce the probe of the most senior state banker in nearly two decades.Most Read from BloombergOPEC+ Makes Shock Million-Barrel Cut in New Inflation RiskSwiss Prosecutor to Probe Credit Suisse Deal, 30% Job Cuts SeenDubai’s Latest Boom Is Pricing Out the Expats It Once CovetedBillionaire Block",
@@ -21125,6 +21150,16 @@
           "wordCount": 15048,
           "title": "China Warns Top Bankers of Deepening Crackdown on Corruption",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/nD7kpMct8eR87O0k3FFhoA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/4a72ed67eea2d9e5edbd834d98e684a4"
+        },
+        {
+          "id": "oil-prices-surge-saudi-production-063416913.html",
+          "author": null,
+          "description": "BP and Shell’s share prices jumped in early trading after oil prices rocketed in the wake of a shock cut to the world’s supply of crude.",
+          "link": "https://finance.yahoo.com/news/oil-prices-surge-saudi-production-063416913.html",
+          "publishedOn": "2023-04-03T07:55:55.000Z",
+          "wordCount": 15712,
+          "title": "BP and Shell jump as soaring oil prices unleash fresh inflation risk - latest updates",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/PYJij0.YQ0u72kXNMzQ2xA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/38b0103cdb281f9f3913ac152ab8df6e"
         },
         {
           "id": "morgan-stanley-strategist-says-us-071049957.html",
@@ -44765,16 +44800,6 @@
           "wordCount": 5244,
           "title": "6 Late-Stage Retirement Catch-Up Tactics",
           "imageUrl": "https://www.investopedia.com/thmb/DMq1kIOh-si_K_ophVb8KnXBszQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/nest_egg_115621496-5bfc333946e0fb0051bf46bb.jpg"
-        },
-        {
-          "id": "multicoin-capital-hedge-fund-lost-213218831.html",
-          "author": null,
-          "description": "The fund’s performance was severely impacted by direct exposure to now-bankrupt crypto exchange FTX and holdings in FTT and Solana-based tokens.",
-          "link": "https://finance.yahoo.com/news/multicoin-capital-hedge-fund-lost-213218831.html",
-          "publishedOn": "2023-03-04T21:32:18.000Z",
-          "wordCount": 13671,
-          "title": "Multicoin Capital’s Hedge Fund Lost 91.4% Last Year, Investor Letter Reveals",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ld2_4gt_dxwIFuqKzerHog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/coindesk_75/3aff1b9c48df047768fee621b4c10b28"
         }
       ]
     }
