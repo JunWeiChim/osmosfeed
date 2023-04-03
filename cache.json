@@ -1058,6 +1058,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6257489/",
+          "author": "Thijs Rösken",
+          "description": "Planten zijn dit jaar duurder door een winter met hogere energie- en personeelskosten, ook al stond de verwarming in het tuincentrum een graadje lager. Consumenten kopen nog steeds veel groen, maar gaan nu voor kleinere en dus goedkopere kamerplanten. En de herinrichting van de tuin blijft uit.",
+          "link": "https://www.nu.nl/economie/6257489/we-kopen-kleinere-planten-en-laten-een-nieuwe-schutting-achterwege.html",
+          "publishedOn": "2023-04-03T03:31:09.000Z",
+          "wordCount": 1404,
+          "title": "We kopen kleinere planten en laten een nieuwe schutting achterwege",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/uawxpabavl89_sqr256.jpg/we-kopen-kleinere-planten-en-laten-een-nieuwe-schutting-achterwege.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/uawxpabavl89_sqr256.jpg/we-kopen-kleinere-planten-en-laten-een-nieuwe-schutting-achterwege.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6257892/",
           "author": "onze nieuwsredactie",
           "description": "Oliekartel OPEC+ gaat vanaf mei de olieproductie verlagen met meer dan 1 miljoen vaten per dag. Dat gebeurt ondanks het herstel van de olieprijzen.",
@@ -21088,21 +21103,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/3MGwbcAmR0cJOYuOYlYMIFdt_Sk=/680x440/ThinkstockPhotos-100455193-0f755ce54736401a881ae17f9fe77a0a.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/investing/061015/top-5-most-profitable-hotel-companies.asp",
-          "author": "Matthew Johnston",
-          "description": "With Marriott International leading the pack, these are the 10 biggest hotel companies and REITs by revenue.",
-          "link": "https://www.investopedia.com/articles/investing/061015/top-5-most-profitable-hotel-companies.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-03-04T15:36:36.000Z",
-          "wordCount": 4546,
-          "title": "10 Biggest Hotel Companies and REITs",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/xrZsw2r7XZTZpekwThf7BVR_AxM=/640x423/vancouver-358515_640-5bfc3446c9e77c00518166e4.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/xrZsw2r7XZTZpekwThf7BVR_AxM=/640x423/vancouver-358515_640-5bfc3446c9e77c00518166e4.jpg"
         }
       ]
     },
@@ -21111,6 +21111,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "treasury-yields-rise-jump-oil-014734818.html",
+          "author": null,
+          "description": "(Bloomberg) -- Treasuries slid on concern a rally in oil will keep inflation elevated and put pressure on the Federal Reserve to go on raising interest rates. Most Read from BloombergOPEC+ Makes Shock Million-Barrel Cut in New Inflation RiskUBS to Cut Staff Up to 30%; Prosecutors Look at CS DealSt. Petersburg Explosion Kills Pro-War Blogger TatarskyOil Rockets 8% After OPEC+ Jolts Market With Surprise Output CutDubai’s Latest Boom Is Pricing Out the Expats It Once CovetedShorter maturities led d",
+          "link": "https://finance.yahoo.com/news/treasury-yields-rise-jump-oil-014734818.html",
+          "publishedOn": "2023-04-03T03:29:47.000Z",
+          "wordCount": 14966,
+          "title": "Treasury Yields Rise as Jump in Oil Adds to Inflation Fears",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/27a32ccc06462262949ee4025163f06c"
+        },
+        {
+          "id": "100-oil-tighter-markets-analysts-025535859.html",
+          "author": null,
+          "description": "(Bloomberg) -- The decision by the Organization of Petroleum Exporting Countries and its allies to slash its oil output came as a huge surprise to the market, given earlier rhetoric from group leader Saudi Arabia that it would stand pat on production. The move has brought concerns around inflationary pressures back to the fore, adding to worries that higher prices and an aggressive monetary tightening by central banks could tip the global economy into recession. Most Read from BloombergOPEC+ Mak",
+          "link": "https://finance.yahoo.com/news/100-oil-tighter-markets-analysts-025535859.html",
+          "publishedOn": "2023-04-03T02:55:35.000Z",
+          "wordCount": 15044,
+          "title": "$100 Oil to Tighter Markets: Here’s What Analysts See After OPEC+ Shock Cut",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/m3jtoq6N3nBb7TVukzn_VQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/459f098b90a9dd167aa0af16324c7b5e"
+        },
         {
           "id": "endeavor-group-nears-deal-acquire-005708662.html",
           "author": null,
@@ -44810,36 +44830,6 @@
           "wordCount": 7992,
           "title": "This Department-Store Stock Has Trounced Apple, Amazon and Tesla",
           "imageUrl": "https://images.wsj.net/im-732578/social"
-        },
-        {
-          "id": "dozens-us-companies-shun-britain-160000361.html",
-          "author": null,
-          "description": "Dozens of US multinational companies are shunning Britain because of Jeremy Hunt's tax raid and a lack of economic ambition, KPMG has warned.",
-          "link": "https://finance.yahoo.com/news/dozens-us-companies-shun-britain-160000361.html",
-          "publishedOn": "2023-03-04T16:00:00.000Z",
-          "wordCount": 14310,
-          "title": "Dozens of US companies shun Britain over high taxes and no growth plan",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/jZifBm7ky1hEpR3k4Fb3lA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/e8663e02f763c1b845f800a4e81bcda7"
-        },
-        {
-          "id": "disney-ab-inbev-morningstar-list-of-the-best-to-own?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.thestreet.com/stocks/disney-ab-inbev-morningstar-list-of-the-best-to-own?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2023-03-04T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Disney, AB InBev Stocks Make Morningstar List of 'the Best to Own'",
-          "imageUrl": null
-        },
-        {
-          "id": "sec-is-cracking-down-on-crypto-staking-heres-what-to-know-f0922151?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Staking is an important revenue stream for crypto exchanges.",
-          "link": "https://www.wsj.com/articles/sec-is-cracking-down-on-crypto-staking-heres-what-to-know-f0922151?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-03-04T16:00:00.000Z",
-          "wordCount": 7801,
-          "title": "SEC Is Cracking Down on Crypto Staking. Here’s What to Know.",
-          "imageUrl": "https://images.wsj.net/im-721956/social"
         }
       ]
     }
