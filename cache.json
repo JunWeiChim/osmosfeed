@@ -442,16 +442,6 @@
           "wordCount": 412,
           "title": "Charles Schwab Shares Slump",
           "imageUrl": null
-        },
-        {
-          "id": "f80a5807c63c8cf8926ca32f2e9c0b1e",
-          "author": "Investopedia",
-          "description": "Shares of SVB Financial Group (SIVB) are cratering after the holding company for Silicon Valley Bank announced it was seeking to raise $2.25 billion in stock sales in order to shore up its financial position.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9571c5af19ac5238868d31a2fe772a9d4b4ad37d9630b080473809d8799427d4805763cdab26a6fae02baffb8f21a061e824018d21410b5601f8fdbc94200b9c81e2f283",
-          "publishedOn": "2023-03-10T01:12:58.433Z",
-          "wordCount": 412,
-          "title": "SVB Financial Group Shares Crater on Stock Sale Announcement",
-          "imageUrl": null
         }
       ]
     },
@@ -1078,26 +1068,6 @@
           "publishedOn": "2023-03-11T02:33:05.713Z",
           "wordCount": 412,
           "title": "5 Things to Know Before Markets Open",
-          "imageUrl": null
-        },
-        {
-          "id": "25f88437fc3c31a5567043f39b8216c8",
-          "author": "Investopedia",
-          "description": "News of the day for March 9, 2023",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df4f2a56d06e81209c9d0a69cdab38b3e7e028afb1c37ff57eba6758d0611d51075d",
-          "publishedOn": "2023-03-10T01:12:58.442Z",
-          "wordCount": 412,
-          "title": "5 Things to Know Before Markets Open",
-          "imageUrl": null
-        },
-        {
-          "id": "ca75c62dbf045adfcdcba7098e31b49d",
-          "author": "Investopedia",
-          "description": "U.S. stocks dropped on March 9, 2023, with a selloff in the financial sector and concerns that strong jobs data could lead to more interest rate hikes.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b66d5e91ab14f749b8736a8bf3523c24d51d735973da2860f3945cf6ed831d09c1165cde178a5faf132ebed9d60f27ebc795adb65",
-          "publishedOn": "2023-03-10T01:12:58.421Z",
-          "wordCount": 412,
-          "title": "Markets Sink on Interest Rate, Banking Worries",
           "imageUrl": null
         }
       ]
@@ -6934,6 +6904,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/personal-finance/070915/personal-loans-vs-car-loans-how-they-differ.asp",
+          "author": "Christina Majaski",
+          "description": "Personal loans and car loans have similarities and differences. Weigh the pros and cons of personal loan versus car loans before buying a new or used car.",
+          "link": "https://www.investopedia.com/articles/personal-finance/070915/personal-loans-vs-car-loans-how-they-differ.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-08T13:45:17.000Z",
+          "wordCount": 4965,
+          "title": "Personal Loans vs. Car Loans: What's the Difference?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/jGIMzAqko60fcOvxL4j4acGcDHo=/5121x3414/CoupleLooksatCars-7390be9c63f6483ab35f538d8161c228.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/jGIMzAqko60fcOvxL4j4acGcDHo=/5121x3414/CoupleLooksatCars-7390be9c63f6483ab35f538d8161c228.jpg"
+        },
         {
           "id": "https://www.investopedia.com/ask/answers/040215/what-does-sp-500-index-measure-and-how-it-calculated.asp",
           "author": "The Investopedia Team",
@@ -21082,6 +21067,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "exxonmobil-eyes-on-the-permian-prize-8464fe97?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "ExxonMobil was once known for exploring for oil in all sorts of exotic places, but right now its own back yard is looking like the best option.",
+          "link": "https://www.wsj.com/articles/exxonmobil-eyes-on-the-permian-prize-8464fe97?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-08T13:24:00.000Z",
+          "wordCount": 7434,
+          "title": "ExxonMobil: Eyes on the Permian Prize",
+          "imageUrl": "https://images.wsj.net/im-760149/social"
+        },
+        {
           "id": "3-things-you-may-have-missed-in-markets-amid-weak-economic-data-100008722.html",
           "author": null,
           "description": "This is The Takeaway from today's Morning Brief, which you can receive in your inbox every Monday to Friday by 6:30 a.m. ET.",
@@ -21282,6 +21277,16 @@
           "imageUrl": "https://images.wsj.net/im-759617/social"
         },
         {
+          "id": "swiss-banking-giant-just-took-182900365.html",
+          "author": null,
+          "description": "Commercial real estate \"headlines are worse than reality,\" wrote UBS analysts in a report published on Thursday.",
+          "link": "https://finance.yahoo.com/news/swiss-banking-giant-just-took-182900365.html",
+          "publishedOn": "2023-04-07T18:29:00.000Z",
+          "wordCount": 11844,
+          "title": "The Swiss banking giant that just took over Credit Suisse isn’t afraid of empty office buildings. A wave of defaults doesn’t mean a tsunami, it says",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_0vPrdT62TY_vdPjcd97Ww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/f41371cca72871a2d8d7af5a4c73d536"
+        },
+        {
           "id": "walgreens-stock-ceo-rosalind-brewer-buy-953f4ec3?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Shares of drugstore chain Walgreens have been slumping as of late, and CEO Rosalind Brewer just bought $340,000 worth of stock.",
@@ -21480,6 +21485,16 @@
           "wordCount": 11422,
           "title": "Is My Checking Account Considered an Asset?",
           "imageUrl": "https://media.zenfs.com/en/smartasset_475/fdebd692dcc33207e66025f9b0a844f4"
+        },
+        {
+          "id": "u-default-end-social-security-130011554.html",
+          "author": null,
+          "description": "The investing information provided on this page is for educational purposes only. NerdWallet does not offer advisory or brokerage services, nor does it recommend or advise investors to buy or sell particular stocks, securities or other investments.Catastrophes are often called \"black swan events.\" We hear a lot of people worrying these days about such possible flying-off-the-financial-cliff...",
+          "link": "https://finance.yahoo.com/news/u-default-end-social-security-130011554.html",
+          "publishedOn": "2023-04-07T13:00:11.000Z",
+          "wordCount": 11876,
+          "title": "U.S. Default, End of Social Security: Time to Prep for the Worst?",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
         },
         {
           "id": "big-hospital-property-owner-expects-earnings-hit-651a6817?siteid=yhoof2&yptr=yahoo",
