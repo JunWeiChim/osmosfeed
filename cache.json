@@ -20663,21 +20663,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/C5rA2CBpYvQS27uN3j5MHlHgctY=/2121x1414/GettyImages-485990146-820ba3a792ab4291bcc5f147da9bb94f.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/usdc-loses-peg-7254222",
-          "author": "Kevin George",
-          "description": "USDC stablecoin is latest to lose U.S. dollar peg after owner announced holdings at the failed Silicon Valley Bank.",
-          "link": "https://www.investopedia.com/usdc-loses-peg-7254222?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-03-12T00:28:41.000Z",
-          "wordCount": 3493,
-          "title": "SVB Collapse Sparks Stablecoin Turmoil as USDC Loses Peg",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/kx8uEY7JzXcKKHCY6znouqoRk8o=/1000x670/crypto_shutterstock_1039691803-274fc4d3c98e4c43a7c8878405daf6e7.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/kx8uEY7JzXcKKHCY6znouqoRk8o=/1000x670/crypto_shutterstock_1039691803-274fc4d3c98e4c43a7c8878405daf6e7.jpg"
         }
       ]
     },
@@ -20687,6 +20672,86 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "micron-stock-price-samsung-chip-production-cut-ad84872?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "All the pieces are now in place for a recovery in the dynamic random access memory industry later in 2023, Citi analysts say.",
+          "link": "https://www.barrons.com/articles/micron-stock-price-samsung-chip-production-cut-ad84872?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-10T13:01:00.000Z",
+          "wordCount": 6931,
+          "title": "Micron Stock Jumps as Samsung Cuts Chip Output.  Why the Sector Is Poised to Rebound.",
+          "imageUrl": "https://images.barrons.com/im-42964/social"
+        },
+        {
+          "id": "tupperware-stock-price-going-concern-warning-9336a1e5?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The notice follows a company filing last month that said some previous \"financial statements should be restated and no longer relied upon.\"",
+          "link": "https://www.barrons.com/articles/tupperware-stock-price-going-concern-warning-9336a1e5?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-10T12:57:00.000Z",
+          "wordCount": 6795,
+          "title": "Tupperware Stock Tumbles After It Issues a ‘Going-Concern’ Warning",
+          "imageUrl": "https://images.barrons.com/im-104384/social"
+        },
+        {
+          "id": "ev-canoo-cash-stock-manufacturiing-oklahoma-945b65fc?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The company announced a lease agreement for a manufacturing facility in Oklahoma. It also updated plans to sell 34 million more common shares.",
+          "link": "https://www.barrons.com/articles/ev-canoo-cash-stock-manufacturiing-oklahoma-945b65fc?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-10T12:33:00.000Z",
+          "wordCount": 6792,
+          "title": "EV Startup Canoo Is Raising Cash. The Stock Is Up.",
+          "imageUrl": "https://images.barrons.com/im-545729/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/tesla-falls-as-u-s-price-cuts-put-focus-on-margins-ev-giant-announces-china-megafactory/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-04-10T12:26:04.000Z",
+          "wordCount": null,
+          "title": "Tesla Falls As Latest Price Cuts Put Focus On Margins; EV Giant Announces China Megafactory",
+          "imageUrl": null
+        },
+        {
+          "id": "ford-gm-stock-price-wachenheim-greenhaven-f2aec61a?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Ed Wachenheim’s Greenhaven Associates sees upside for the auto makers even without their expansions into electric vehicles.",
+          "link": "https://www.barrons.com/articles/ford-gm-stock-price-wachenheim-greenhaven-f2aec61a?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-10T12:24:00.000Z",
+          "wordCount": 6817,
+          "title": "Ford and GM Stock Are ‘Exceptionally Undervalued,’ Says Value-Investing Star",
+          "imageUrl": "https://images.barrons.com/im-758905/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-on-march-jobs-report-tesla-stock-skids-on-price-cuts/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-04-10T12:21:15.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Fall After March Jobs Report; Tesla Skids On Price Cuts; Apple PC Shipments Drop 40% In Q1",
+          "imageUrl": null
+        },
+        {
+          "id": "housing-costs-cooling-market-headed-c138ea7c?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Lagging inflation data masks what's going on currently in the housing market. A clearer picture is about to emerge.",
+          "link": "https://www.barrons.com/articles/housing-costs-cooling-market-headed-c138ea7c?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-10T12:21:00.000Z",
+          "wordCount": 6816,
+          "title": "Housing Costs Are Cooling Off. Where the Market Could Be Headed.",
+          "imageUrl": "https://images.barrons.com/im-759767/social"
+        },
+        {
+          "id": "stock-market-news-today-live-updates-april-10-2023-121105758.html",
+          "author": null,
+          "description": "U.S. stock futures fell Monday, with the Nasdaq lower than other indexes after the release of the highly anticipated Friday’s job report.",
+          "link": "https://finance.yahoo.com/news/stock-market-news-today-live-updates-april-10-2023-121105758.html",
+          "publishedOn": "2023-04-10T12:11:39.000Z",
+          "wordCount": 11558,
+          "title": "Stock futures fall, yields tick down after jobs report: Stock market news today",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Gxi8Li8iTnefkETj7DzZtA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/e87ef5e0-d755-11ed-9ef7-1dad7630b380"
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -20695,6 +20760,16 @@
           "wordCount": null,
           "title": "Breakout Stocks: See How To Predict A Breakout With Saucer With Handle, A VIP Chart Pattern",
           "imageUrl": null
+        },
+        {
+          "id": "attrition-worsens-at-first-republic-will-more-advisors-head-for-the-exits-9daf7541?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "In recent weeks, the bank has lost advisor teams that managed or advised on nearly $19 billion in assets.",
+          "link": "https://www.barrons.com/articles/attrition-worsens-at-first-republic-will-more-advisors-head-for-the-exits-9daf7541?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-10T12:00:00.000Z",
+          "wordCount": 6915,
+          "title": "Attrition Worsens at First Republic. Will More Advisors Head for the Exits?",
+          "imageUrl": "https://images.barrons.com/im-758308/social"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -20727,6 +20802,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/i.XcnVp0ifGmVze4SP1W2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/78d8b92b35d7bfa8a5e8247f4050bd73"
         },
         {
+          "id": "the-video-streaming-numbers-game-is-shifting-5cca8d5?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Warner Bros., Disney and even Netflix are trying to make their content spending go further.",
+          "link": "https://www.wsj.com/articles/the-video-streaming-numbers-game-is-shifting-5cca8d5?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-10T11:00:00.000Z",
+          "wordCount": 7339,
+          "title": "The Video Streaming Numbers Game Is Shifting",
+          "imageUrl": "https://images.wsj.net/im-760212/social"
+        },
+        {
           "id": "what-to-know-today-97c29298?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Big bank earnings could set the tone for the first quarter, Tesla to open a battery plant in Shanghai, and other news to start your day.",
@@ -20735,6 +20820,16 @@
           "wordCount": 6858,
           "title": "The Rate-Rise Roller-Coaster: Bank Earnings and Inflation Data Are Key",
           "imageUrl": "https://images.barrons.com/im-760510/social"
+        },
+        {
+          "id": "financial-chaos-12-000-feet-100001314.html",
+          "author": null,
+          "description": "(Bloomberg) -- The line starts forming outside the central bank in downtown La Paz in the dead of the night. Hunkered down under blankets and sipping hot chocolate to fend off the chill at 12,000 feet up in the Andes, they wait for hours and hours for a chance to get their hands on what has perhaps become the hardest thing to find in all of Bolivia: dollars.Most Read from BloombergBond Market Is Overplaying the Risk of a Deep RecessionSaudi Arabia’s Drive to Get Expats to Ditch Dubai Is Off to a",
+          "link": "https://finance.yahoo.com/news/financial-chaos-12-000-feet-100001314.html",
+          "publishedOn": "2023-04-10T10:00:01.000Z",
+          "wordCount": 11987,
+          "title": "Financial Chaos at 12,000 Feet: Dollars Are Vanishing in Bolivia",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/hMvWqtDvw6bZ.P0aFmrygw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/bloomberg_markets_842/dda59082475632e592d2c884c7867c98"
         },
         {
           "id": "taiwan-semiconductor-manufacturing-revenue-4ba5eeaa?siteid=yhoof2&yptr=yahoo",
@@ -43315,36 +43410,6 @@
           "wordCount": 9124,
           "title": "Silicon Valley Bank’s Meltdown Visualized",
           "imageUrl": "https://images.wsj.net/im-741273/social"
-        },
-        {
-          "id": "roku-among-most-exposed-firms-003444160.html",
-          "author": null,
-          "description": "(Bloomberg) -- Of the companies listing assets caught up in the collapse of Silicon Valley Bank on Friday, Roku Inc. is among those reporting the heaviest exposure. Most Read from BloombergSVB Fallout Spreads Around World From London to SingaporeStartup Bank Had a Startup Bank RunSVB’s 44-Hour Collapse Was Rooted in Treasury Bets During PandemicSVB’s Auction Block Includes VC-Focused Lender, Wealth UnitSilicon Valley Bank Swiftly Collapses After Tech Startups FleeDozens of companies have reporte",
-          "link": "https://finance.yahoo.com/news/roku-among-most-exposed-firms-003444160.html",
-          "publishedOn": "2023-03-12T00:34:44.000Z",
-          "wordCount": 14439,
-          "title": "Roku Among Most-Exposed Firms With Assets Caught in SVB Failure",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_technology_68/793365ca24b88881de0187b349f99a16"
-        },
-        {
-          "id": "us-discusses-fund-backstop-deposits-003036814.html",
-          "author": null,
-          "description": "(Bloomberg) -- The Federal Deposit Insurance Corp. and the Federal Reserve are weighing creating a fund that would allow the regulators to backstop more deposits at banks that run into trouble following Silicon Valley Bank’s collapse.Most Read from BloombergSVB Fallout Spreads Around World From London to SingaporeStartup Bank Had a Startup Bank RunSVB’s 44-Hour Collapse Was Rooted in Treasury Bets During PandemicSVB’s Auction Block Includes VC-Focused Lender, Wealth UnitSilicon Valley Bank Swift",
-          "link": "https://finance.yahoo.com/news/us-discusses-fund-backstop-deposits-003036814.html",
-          "publishedOn": "2023-03-12T00:30:36.000Z",
-          "wordCount": 14200,
-          "title": "US Discusses Fund to Backstop Deposits If More Banks Fail",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/9FVLIioqygFOOknXuGW2hA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/cdd0be712f253b6134fccf2747f68067"
-        },
-        {
-          "id": "fdic-races-start-returning-uninsured-232018366.html",
-          "author": null,
-          "description": "(Bloomberg) -- US regulators overseeing the emergency breakup of SVB Financial Group are racing to sell assets and make a portion of clients’ uninsured deposits available as soon as Monday, according to people with knowledge of the situation.Most Read from BloombergStartup Bank Had a Startup Bank RunFrom Santa Clara to Shoreditch, SVB Fallout Spreads Around WorldSVB’s 44-Hour Collapse Was Rooted in Treasury Bets During PandemicSVB’s Auction Block Includes VC-Focused Lender, Wealth UnitSilicon Va",
-          "link": "https://finance.yahoo.com/news/fdic-races-start-returning-uninsured-232018366.html",
-          "publishedOn": "2023-03-12T00:29:51.000Z",
-          "wordCount": 14607,
-          "title": "FDIC Races to Return Some Uninsured SVB Deposits Monday",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/vS3EiXLrntOVK8jzivBUew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://media.zenfs.com/en/bloomberg_markets_842/51401986689e1410f187aa3b752f04a4"
         }
       ]
     }
