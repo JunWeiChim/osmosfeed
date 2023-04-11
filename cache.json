@@ -1098,6 +1098,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6259008/",
+          "author": "Tim Wijkman-van Aalst",
+          "description": "We bellen steeds minder via de vaste telefoon en gebruiken ons mobieltje steeds minder om mee te sms'en. In vier jaar tijd is het aantal belminuten op de vaste lijn en het aantal verzonden sms-berichten gehalveerd.",
+          "link": "https://www.nu.nl/tech/6259008/vaste-telefoon-en-sms-sterven-uit-belminuten-en-berichten-in-vier-jaar-gehalveerd.html",
+          "publishedOn": "2023-04-11T11:05:33.000Z",
+          "wordCount": 925,
+          "title": "Vaste telefoon en sms sterven uit: belminuten en berichten in vier jaar gehalveerd",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/xssxtdsakp4f_sqr256.jpg/vaste-telefoon-en-sms-sterven-uit-belminuten-en-berichten-in-vier-jaar-gehalveerd.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/xssxtdsakp4f_sqr256.jpg/vaste-telefoon-en-sms-sterven-uit-belminuten-en-berichten-in-vier-jaar-gehalveerd.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6258996/",
           "author": "onze techredactie",
           "description": "China heeft een wetsvoorstel gepubliceerd waarmee het land meer controle wil krijgen over de ontwikkeling van kunstmatige intelligentie (AI). Bedrijven moeten volgens de wet grondige veiligheidscontroles doorlopen voordat ze software met AI mogen uitbrengen.",
@@ -21208,51 +21223,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/dv0vV77g-G_uV2g_Wvc4pa_R0eA=/680x440/148985994-5bfc2b8c46e0fb0083c07ba8.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/forex/b/best-forex-ebooks.asp",
-          "author": "Jason Fernando",
-          "description": "As its name suggests, a forex e-book is simply a type of electronic book that deals with foreign exchange trading.",
-          "link": "https://www.investopedia.com/terms/forex/b/best-forex-ebooks.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-03-12T23:07:24.000Z",
-          "wordCount": 3739,
-          "title": "Forex E-Book Definition",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Wz2ocq1Vma3tP_uUU4wpZHGRXaE=/380x253/139965758-5bfc2b9446e0fb00260b2511.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Wz2ocq1Vma3tP_uUU4wpZHGRXaE=/380x253/139965758-5bfc2b9446e0fb00260b2511.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/m/multipliereffect.asp",
-          "author": "Akhilesh Ganti",
-          "description": "The multiplier effect measures the impact that a change in investment will have on final economic output.",
-          "link": "https://www.investopedia.com/terms/m/multipliereffect.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-03-12T22:22:30.000Z",
-          "wordCount": 6409,
-          "title": "What Is the Multiplier Effect? Formula and Example",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ucBd5V9k3Hn-cJHCIgxO9K7R1oM=/1500x1000/TermDefinitions_Multipliereffect-e6aadc2167b74f6db5b71b3b8bbe5b9c.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ucBd5V9k3Hn-cJHCIgxO9K7R1oM=/1500x1000/TermDefinitions_Multipliereffect-e6aadc2167b74f6db5b71b3b8bbe5b9c.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/financial-literacy-parents-5217056",
-          "author": "Daniel Kurt",
-          "description": "Here is a round-up of resources that help parents manage their money wisely and pass those skills on to their children.",
-          "link": "https://www.investopedia.com/financial-literacy-parents-5217056?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-03-12T22:20:22.000Z",
-          "wordCount": 5211,
-          "title": "Financial Literacy for Parents",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/GUEsfkAEB-v2yKzt7fNnu4jZIn4=/4256x2832/GettyImages-490811913-5793784d5f9b58173b866e58.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/GUEsfkAEB-v2yKzt7fNnu4jZIn4=/4256x2832/GettyImages-490811913-5793784d5f9b58173b866e58.jpg"
         }
       ]
     },
@@ -21261,6 +21231,36 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "bitcoin-crypto-markets-today-54bb8c9c?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The largest digital asset regains levels not seen since last year's crypto crash accelerated into a brutal bear market. Bulls are back in charge.",
+          "link": "https://www.barrons.com/articles/bitcoin-crypto-markets-today-54bb8c9c?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-11T10:07:00.000Z",
+          "wordCount": 6770,
+          "title": "Bitcoin Soars Past $30,000 With Prices Poised to Keep Climbing",
+          "imageUrl": "https://images.barrons.com/im-489169/social"
+        },
+        {
+          "id": "newmont-newcrest-gold-24d17813?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Acquiring Newcrest would cement Newmont’s position as the world’s largest gold miner. A deal be the largest-ever merger in the gold mining industry.",
+          "link": "https://www.barrons.com/articles/newmont-newcrest-gold-24d17813?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-11T09:49:00.000Z",
+          "wordCount": 6972,
+          "title": "Newmont Raises Offer for Australia’s Newcrest to $19.5 Billion. Gold Mergers Are Getting Bigger.",
+          "imageUrl": "https://images.barrons.com/im-62170/social"
+        },
+        {
+          "id": "microstrategys-bitcoin-bet-now-profit-094625919.html",
+          "author": null,
+          "description": "As the price of Bitcoin recaptures $30,000, MicroStrategy's bold investment in the largest cryptocurrency appears to be paying off.",
+          "link": "https://finance.yahoo.com/news/microstrategys-bitcoin-bet-now-profit-094625919.html",
+          "publishedOn": "2023-04-11T09:46:25.000Z",
+          "wordCount": 11118,
+          "title": "MicroStrategy's Bitcoin Bet Now in Profit Amid Latest Rally",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_KFRHKIJ5WSD07JvZOWfVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_media_980/89546323391f0caff889d949c84a6e0c"
+        },
         {
           "id": "the-earnings-recession-is-about-to-begin-213005398.html",
           "author": null,
@@ -21540,6 +21540,16 @@
           "wordCount": 11477,
           "title": "Are CDs Back? Where Advisors Are Telling Clients to Stash Cash as Rates Rise",
           "imageUrl": "https://media.zenfs.com/en/smartasset_475/efbd281921d51b325ff38bd27784aa6b"
+        },
+        {
+          "id": "ge-stock-ge-healthcare-wall-street-938f0d9?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shares of the GE-branded companies are moving Monday after Wall Street opined on General Electric and GE HealthCare Technologies stock.",
+          "link": "https://www.barrons.com/articles/ge-stock-ge-healthcare-wall-street-938f0d9?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-10T18:18:00.000Z",
+          "wordCount": 6881,
+          "title": "GE or GE HealthCare Stock? What Wall Street Is Saying.",
+          "imageUrl": "https://images.barrons.com/im-760536/social"
         },
         {
           "id": "norway-counts-cost-wealth-tax-180738281.html",
@@ -44110,46 +44120,6 @@
           "wordCount": 14251,
           "title": "Regulators seize Signature Bank in third-largest US bank failure",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/5UHPBZQIbujGUEYN.Z2B4g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/3a448670-c12a-11ed-a7fd-b1842b8afeb7"
-        },
-        {
-          "id": "svb-collapse-federal-regulators-shut-down-signature-bank-in-new-york?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.thestreet.com/investing/svb-collapse-federal-regulators-shut-down-signature-bank-in-new-york?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2023-03-12T22:53:00.000Z",
-          "wordCount": null,
-          "title": "SVB Collapse: Federal Regulators Shut Down Signature Bank in New York",
-          "imageUrl": null
-        },
-        {
-          "id": "treasury-fed-and-fdic-joint-statement-on-svb-and-signature-bank-full-text-bad4c1ab?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Full text of U.S. financial regulators' statement on Silicon Valley Bank and Signature Bank.",
-          "link": "https://www.marketwatch.com/story/treasury-fed-and-fdic-joint-statement-on-svb-and-signature-bank-full-text-bad4c1ab?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-03-12T22:50:00.000Z",
-          "wordCount": 7089,
-          "title": "Treasury, Fed and FDIC joint statement on SVB and Signature Bank: full text",
-          "imageUrl": "https://images.mktw.net/im-740162/social"
-        },
-        {
-          "id": "us-government-guarantees-all-silicon-valley-bank-deposits-money-available-monday-223546372.html",
-          "author": null,
-          "description": "Silicon Valley Bank depositors will be made whole and have access to their money starting Monday morning, according to a statement from the Treasury, Fed, and FDIC on Sunday.",
-          "link": "https://finance.yahoo.com/news/us-government-guarantees-all-silicon-valley-bank-deposits-money-available-monday-223546372.html",
-          "publishedOn": "2023-03-12T22:35:46.000Z",
-          "wordCount": 14006,
-          "title": "U.S. government guarantees all Silicon Valley Bank deposits, money available Monday",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_0z8cuh_iPtEFMJgLSjLWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/6356d860-c125-11ed-bf1d-e614846269af"
-        },
-        {
-          "id": "crypto-friendly-signature-bank-shut-down-by-regulators-after-collapses-of-silicon-valley-bank-silvergate-6a7f67ec?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "State authorities closed Signature Bank Sunday, after Silicon Valley Bank was shut down by regulators on Friday in the biggest bank failure since the 2008...",
-          "link": "https://www.marketwatch.com/story/crypto-friendly-signature-bank-shut-down-by-regulators-after-collapses-of-silicon-valley-bank-silvergate-6a7f67ec?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-03-12T22:35:00.000Z",
-          "wordCount": 6726,
-          "title": "Crypto-friendly Signature Bank shut down by regulators, after collapses of Silicon Valley Bank, Silvergate",
-          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
         }
       ]
     }
