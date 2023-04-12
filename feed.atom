@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-12T04:14:29.204Z</updated>
+    <updated>2023-04-12T05:11:35.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -140,6 +140,16 @@
         <link href="https://www.wsj.com/articles/bed-bath-beyonds-stock-sale-deluge-lures-retail-investors-bb9db1c5?siteid=yhoof2&amp;yptr=yahoo"/>
         <updated>2023-04-11T21:10:00.000Z</updated>
         <summary type="html"><![CDATA[Retail investors have kept trading volumes in Bed Bath & Beyond stock robust as the company floods the market with hundreds of millions of shares even while warning about a potential bankruptcy.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bank of America clients withdraw $2.3B from US securities]]></title>
+        <id>bank-america-clients-withdraw-2-210646473.html</id>
+        <link href="https://finance.yahoo.com/news/bank-america-clients-withdraw-2-210646473.html"/>
+        <updated>2023-04-11T21:06:46.000Z</updated>
+        <summary type="html"><![CDATA[A note from bank strategist Jill Carey Hall says Bank of America clients sold roughly $2.3 billion in U.S. equities last week.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -36878,66 +36888,6 @@ In a suit seeking class action status in federal court in San Francisco, an owne
         <summary type="html"><![CDATA[U.S. bond yields fell by the most since the 2008 global financial crisis as worried investors sought safety after the failure of SVB and Signature]]></summary>
         <author>
             <name>Lyle Niedens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Apple and Microsoft Are This Analyst’s Choice Following the SVB Fallout]]></title>
-        <id>apple-microsoft-analyst-choice-following-svb-a04a4e12?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/articles/apple-microsoft-analyst-choice-following-svb-a04a4e12?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2023-03-13T17:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Itaú BBA analyst Thiago Alves Kapulskis recommends Apple and Microsoft 'to deleverage and reduce risks.']]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wall Street analysts make big calls on bank stocks in wake of SVB failure]]></title>
-        <id>wall-street-analysts-make-big-calls-on-bank-stocks-in-wake-of-svb-failure-164919898.html</id>
-        <link href="https://finance.yahoo.com/news/wall-street-analysts-make-big-calls-on-bank-stocks-in-wake-of-svb-failure-164919898.html"/>
-        <updated>2023-03-13T16:49:19.000Z</updated>
-        <summary type="html"><![CDATA[Let the wagers begin.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Signature Bank Failed]]></title>
-        <id>signature-bank-failure-a0adf63f?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/articles/signature-bank-failure-a0adf63f?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2023-03-13T16:44:00.000Z</updated>
-        <summary type="html"><![CDATA[The financial institution was closed by regulators on Sunday. A run on deposits catalyzed by nervousness over ties to the crypto industry is the likely cause.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptocurrencies To Watch: Week of March 13]]></title>
-        <id>https://www.investopedia.com/cryptocurrencies-to-watch-week-of-march-13-2023-7254486</id>
-        <link href="https://www.investopedia.com/cryptocurrencies-to-watch-week-of-march-13-2023-7254486?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-03-13T16:27:49.000Z</updated>
-        <summary type="html"><![CDATA[This week’s cryptocurrencies to keep an eye on are Kava (KAVA), UNUS SED LEO (LEO), Aptos (APT), BNB (BNB), and Pax Gold (PAXG).]]></summary>
-        <author>
-            <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defining 3 Types of Investments: Ownership, Lending, and Cash]]></title>
-        <id>https://www.investopedia.com/articles/younginvestors/10/what-is-an-investment.asp</id>
-        <link href="https://www.investopedia.com/articles/younginvestors/10/what-is-an-investment.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-03-13T16:21:07.000Z</updated>
-        <summary type="html"><![CDATA[Investments are expected to produce income or profit. They can be broken down into three basic groups: ownership, lending, and cash equivalents.]]></summary>
-        <author>
-            <name>Andrew Beattie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fed’s Battle Plan for Inflation Shredded by Financial Turmoil]]></title>
-        <id>fed-battle-plan-inflation-shredded-161749601.html</id>
-        <link href="https://finance.yahoo.com/news/fed-battle-plan-inflation-shredded-161749601.html"/>
-        <updated>2023-03-13T16:17:49.000Z</updated>
-        <summary type="html"><![CDATA[(Bloomberg) -- Federal Reserve Chair Jerome Powell’s strategy to speed up the central bank’s inflation-fighting efforts is unraveling in the wake of Silicon Valley Bank’s collapse.Most Read from BloombergBonds Soar, Tech Up as Bets on Fed Pause Weighed: Markets WrapFed’s New Backstop Shields Banks From $300 Billion of LossesFDIC Auction for Failed SVB Underway, Final Bids Due SundaySignature Seized by Regulators as Pain Spreads From SVB’s FallUS Discusses Fund to Backstop Deposits If More Banks]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
         </author>
     </entry>
 </feed>
