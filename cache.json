@@ -1138,6 +1138,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6259161/",
+          "author": "Ellen Vos en Carolijn Melters",
+          "description": "Vrouwen werken gemiddeld vaker in deeltijd dan mannen, ook als ze dezelfde studie hebben afgerond. Op ons reactieplatform NUjij kwamen daar veel vragen over. Waarom kiezen bijvoorbeeld vrouwen die geen kinderen hebben ervoor parttime te werken? We vroegen die vrouwen hun ervaringen te delen. Hieronder een greep uit de reacties.",
+          "link": "https://www.nu.nl/economie/6259161/deze-vrouwen-werken-ook-zonder-kinderen-in-deeltijd-investering-in-mezelf.html",
+          "publishedOn": "2023-04-12T12:28:07.000Z",
+          "wordCount": 2308,
+          "title": "Deze vrouwen werken ook zonder kinderen in deeltijd: 'Investering in mezelf'",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/kamxvtmanfbx_sqr256.jpg/deze-vrouwen-werken-ook-zonder-kinderen-in-deeltijd-investering-in-mezelf.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/kamxvtmanfbx_sqr256.jpg/deze-vrouwen-werken-ook-zonder-kinderen-in-deeltijd-investering-in-mezelf.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6259155/",
           "author": "onze economieredactie",
           "description": "Vakantieparkketen Roompot mag Landal GreenParks overnemen na de verkoop van dertig vakantieparken aan concurrent Dormio Group. Dat heeft de Autoriteit Consument & Markt (ACM) woensdag bekendgemaakt.",
@@ -7174,6 +7189,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/women-owned-companies-to-know-5219360",
+          "author": "Daniel Kurt",
+          "description": "Women own at least a 50% stake in these 10 multimillion-dollar businesses, and women-owned companies make up about 20% of all employer-owned businesses.",
+          "link": "https://www.investopedia.com/women-owned-companies-to-know-5219360?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-12T12:55:57.000Z",
+          "wordCount": 5560,
+          "title": "10 Women-Owned Companies You Should Know",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/gG9vl2fIupvTwT2jirAji0UDSa4=/3000x2195/GettyImages-78919965-0318b2e81f9f4800b6dcf1fed3970b3a.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/gG9vl2fIupvTwT2jirAji0UDSa4=/3000x2195/GettyImages-78919965-0318b2e81f9f4800b6dcf1fed3970b3a.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/jpmorgan-chase-q1-fy2023-earnings-preview-7378018",
+          "author": "Mack Wilowski",
+          "description": "JPMorgan Chase (JPM), the largest U.S. bank by assets, is expected to report solid earnings growth on Friday, outperforming peer financial institutions through higher net interest margins.",
+          "link": "https://www.investopedia.com/jpmorgan-chase-q1-fy2023-earnings-preview-7378018?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-12T12:30:00.000Z",
+          "wordCount": 3325,
+          "title": "JPMorgan Chase Earnings Seen Jumping on Higher Net Interest Margins",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/7rEyHXteaQkfqzVHIS2Tta4utAo=/2121x1414/GettyImages-157735574-c7f7c5859de94fdc91da3a145e363ae7.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/7rEyHXteaQkfqzVHIS2Tta4utAo=/2121x1414/GettyImages-157735574-c7f7c5859de94fdc91da3a145e363ae7.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/retirement-savers-turning-to-cash-amid-market-volatility-7377894",
+          "author": "Terry Lane",
+          "description": "Americans are worried that higher prices will undercut their retirement planning, and Social Security won't be enough.",
+          "link": "https://www.investopedia.com/retirement-savers-turning-to-cash-amid-market-volatility-7377894?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-12T12:29:05.000Z",
+          "wordCount": 3761,
+          "title": "Retirement Savers Turning to Cash Amid Market Volatility",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/0JDMlU2-I1EV2rjcJSaIdNUpA3M=/6048x4024/GettyImages-1401269015-9643e06edb2b40138117c604cf57ab1a.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/0JDMlU2-I1EV2rjcJSaIdNUpA3M=/6048x4024/GettyImages-1401269015-9643e06edb2b40138117c604cf57ab1a.jpg"
+        },
         {
           "id": "https://www.investopedia.com/financial-influencers-kids-follow-5219006",
           "author": "Rebecca Lake",
@@ -21348,21 +21408,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/33S4iijreDxZqCkeop_sYrQMwpY=/380x254/87585948-5bfc326446e0fb0051bf1edd.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/charles-schwab-vs-fidelity-4587939",
-          "author": "Jean Folger",
-          "description": "Charles Schwab and Fidelity are two of the top brokers for U.S. traders and investors. Both offer a similar experience, but Fidelity has small advantages.",
-          "link": "https://www.investopedia.com/charles-schwab-vs-fidelity-4587939?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-03-14T00:42:55.000Z",
-          "wordCount": 5315,
-          "title": "Charles Schwab vs. Fidelity",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/f0HzN0U8G9N00spiLGRThrpCclU=/1500x1000/CharlesSchwabvs.Fidelity-5c61bb5f46e0fb00017dd690.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/f0HzN0U8G9N00spiLGRThrpCclU=/1500x1000/CharlesSchwabvs.Fidelity-5c61bb5f46e0fb00017dd690.png"
         }
       ]
     },
@@ -21371,6 +21416,46 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/economy/cpi-inflation-rate-cools-lifting-s-the-fed-would-be-crazy-to-hike/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-04-12T13:05:00.000Z",
+          "wordCount": null,
+          "title": "CPI Inflation Rate Cools, Lifting S&P 500 Futures; The Fed Would Be Crazy To Hike",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-ahead-of-impending-cpi-inflation-data-fed-minutes-later/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-04-12T12:59:50.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Rally 250 Points On Cool CPI Inflation Data; Fed Minutes Later",
+          "imageUrl": null
+        },
+        {
+          "id": "brookfield-infrastructure-expands-supply-chain-footprint-with-triton-international-acquisition-c3ca0eba?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Toronto-based assets manager and partners agree to acquire freight-equipment company in deal valued at more than $13 billion.",
+          "link": "https://www.wsj.com/articles/brookfield-infrastructure-expands-supply-chain-footprint-with-triton-international-acquisition-c3ca0eba?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-12T12:49:00.000Z",
+          "wordCount": 7050,
+          "title": "Brookfield Infrastructure Expands Supply-Chain Footprint with Triton International Acquisition",
+          "imageUrl": "https://images.wsj.net/im-762012/social"
+        },
+        {
+          "id": "american-airlines-hikes-profit-guidance-stock-68080af1?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "American Airlines stock fell ahead of the open Wednesday as the carrier’s updated profit outlook fell short of expectations for the first quarter.",
+          "link": "https://www.barrons.com/articles/american-airlines-hikes-profit-guidance-stock-68080af1?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-12T12:33:00.000Z",
+          "wordCount": 6860,
+          "title": "American Airlines Hikes Profit Guidance. Why the Stock Is Falling.",
+          "imageUrl": "https://images.barrons.com/im-358661/social"
+        },
         {
           "id": "march-cpi-report-due-today-103403883.html",
           "author": null,
@@ -21400,6 +21485,16 @@
           "wordCount": 6882,
           "title": "National Instruments Stock Jumps on Potential Tie-Up With Emerson Electric",
           "imageUrl": "https://images.barrons.com/im-287006/social"
+        },
+        {
+          "id": "us-30-mortgage-rate-drops-110000415.html",
+          "author": null,
+          "description": "(Bloomberg) -- US 30-year fixed mortgage rates fell for a fifth-straight week to the lowest level in two months, shoring up demand to buy a home.Most Read from BloombergKatie Cotton, Guardian of the Apple Brand for 18 Years, DiesTwitter Company ‘No Longer Exists,’ Is Now Part of Musk’s XElizabeth Holmes Will Have to Wait Out Her Appeal in PrisonInflation Data Will Shatter the Stock Market Calm, Goldman Partner WarnsTumbling Money Supply Alarms Economists Who Foresaw InflationThe contract rate dr",
+          "link": "https://finance.yahoo.com/news/us-30-mortgage-rate-drops-110000415.html",
+          "publishedOn": "2023-04-12T11:00:00.000Z",
+          "wordCount": 10840,
+          "title": "US 30-Year Mortgage Rate Drops a Fifth Week to Two-Month Low",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Eyg7wCtFjjIug3ZKOVFWew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/32aeff704cf30b94c1ed6b3e493fcc3a"
         },
         {
           "id": "top-us-banks-reveal-521-110000702.html",
