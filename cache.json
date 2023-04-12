@@ -1158,6 +1158,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6259231/",
+          "author": "onze nieuwsredactie",
+          "description": "De olieprijs is woensdag gestegen naar het hoogste niveau van dit jaar. Daarmee wordt de opmars van de afgelopen tijd doorgezet, na een flinke dip in maart.",
+          "link": "https://www.nu.nl/economie/6259231/olieprijs-blijft-stijgen-en-bereikt-hoogste-punt-van-het-jaar-tot-nu-toe.html",
+          "publishedOn": "2023-04-12T20:22:50.000Z",
+          "wordCount": 1046,
+          "title": "Olieprijs blijft stijgen en bereikt hoogste punt van het jaar tot nu toe",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/u7qxbciagsoa_sqr256.jpg/olieprijs-blijft-stijgen-en-bereikt-hoogste-punt-van-het-jaar-tot-nu-toe.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/u7qxbciagsoa_sqr256.jpg/olieprijs-blijft-stijgen-en-bereikt-hoogste-punt-van-het-jaar-tot-nu-toe.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6259034/",
           "author": "Emma van Bergeijk",
           "description": "Als wereldwijd iedereen zou leven zoals wij in Nederland doen, dan hadden we zo'n drieënhalve aarde nodig. Ook zouden we de grondstoffen die de aarde in een jaar genereert op 12 april al hebben verbruikt. Op deze Nederlandse 'dag van de overbevraging' wordt duidelijk dat onze voetafdruk bovengemiddeld hoog is.",
@@ -7186,21 +7201,6 @@
             "url": "https://media.nu.nl/m/8qnxcjnadn8g_sqr256.jpg/rabobank-dit-jaar-dalen-huizenprijzen-met-4-procent-maar-bodem-is-in-zicht.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/8qnxcjnadn8g_sqr256.jpg/rabobank-dit-jaar-dalen-huizenprijzen-met-4-procent-maar-bodem-is-in-zicht.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6255192/",
-          "author": "onze economieredactie",
-          "description": "De populariteit van vinyl is ook vorig jaar flink toegenomen. In totaal is in 2022 voor 37 miljoen euro aan lp's verkocht in Nederland. Dat is zo'n 8,6 miljoen euro meer dan in 2021, een stijging van 30 procent.",
-          "link": "https://www.nu.nl/economie/6255192/vinyl-wordt-alsmaar-populairder-we-kochten-voor-37-miljoen-euro-aan-platen.html",
-          "publishedOn": "2023-03-14T08:15:42.000Z",
-          "wordCount": 901,
-          "title": "Vinyl wordt alsmaar populairder: we kochten voor 37 miljoen euro aan platen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/8q5xi24aypr4_sqr256.jpg/vinyl-wordt-alsmaar-populairder-we-kochten-voor-37-miljoen-euro-aan-platen.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/8q5xi24aypr4_sqr256.jpg/vinyl-wordt-alsmaar-populairder-we-kochten-voor-37-miljoen-euro-aan-platen.jpg"
         }
       ]
     },
@@ -7209,6 +7209,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/t/tips-spread.asp",
+          "author": "Will Kenton",
+          "description": "TIPS spread is the difference in yields between U.S. Treasury bonds and Treasury Inflation-Protected Securities and forecasts future CPI inflation.",
+          "link": "https://www.investopedia.com/terms/t/tips-spread.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-12T20:37:01.000Z",
+          "wordCount": 3952,
+          "title": "TIPS Spread Definition",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/2cUKf4phFkkkkGqQmswSDq2qBhg=/680x440/shutterstock_253136563-5bfc2b98c9e77c00519aa7a8.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/2cUKf4phFkkkkGqQmswSDq2qBhg=/680x440/shutterstock_253136563-5bfc2b98c9e77c00519aa7a8.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/vanguard-vs-e-trade-robo-advisors-4707218",
+          "author": "Kate Ashford",
+          "description": "Vanguard and E*TRADE have created solid robo-advisor options for their customers. Vanguard comes out on top overall; however, it requires a high minimum deposit.",
+          "link": "https://www.investopedia.com/vanguard-vs-e-trade-robo-advisors-4707218?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-12T20:31:24.000Z",
+          "wordCount": 5528,
+          "title": "Vanguard Personal Advisor Services vs. E*TRADE Core Portfolios: Which Should You Choose?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/FuDS6CCjY-jp7QaMViOZPEkvUiU=/6250x4167/vanguard-vs-etrade-ebe0d681734f4bd7ab8ba6b8d70e69a3.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/FuDS6CCjY-jp7QaMViOZPEkvUiU=/6250x4167/vanguard-vs-etrade-ebe0d681734f4bd7ab8ba6b8d70e69a3.jpeg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/b/blind_pool.asp",
+          "author": "James Chen",
+          "description": "A blind pool is a direct participation program or limited partnership that lacks a stated investment goal for the funds raised from investors.",
+          "link": "https://www.investopedia.com/terms/b/blind_pool.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-12T20:10:48.000Z",
+          "wordCount": 3907,
+          "title": "Blind Pool Definition",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/QIDn7YKkr_FfzVyZsswUZsoOrjs=/205x136/investing15-5bfc2b8fc9e77c00519aa65b.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/QIDn7YKkr_FfzVyZsswUZsoOrjs=/205x136/investing15-5bfc2b8fc9e77c00519aa65b.jpg"
+        },
         {
           "id": "https://www.investopedia.com/ask/answers/081716/how-long-does-it-take-check-clear.asp",
           "author": "Lisa Goetz",
@@ -21881,6 +21926,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "warren-buffett-slams-banks-hiding-201639860.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/warren-buffett-slams-banks-hiding-201639860.html",
+          "publishedOn": "2023-04-12T20:16:39.000Z",
+          "wordCount": null,
+          "title": "Warren Buffett slams banks for hiding their losses - and reveals he sold some bank stocks after spotting red flags",
+          "imageUrl": null
+        },
+        {
+          "id": "donald-trump-sues-former-lawyer-michael-cohen-9760da77?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The former president, who is seeking more than $500 million in damages, says Mr. Cohen breached his professional obligations through is frequent podcasts, books and media appearances.",
+          "link": "https://www.wsj.com/articles/donald-trump-sues-former-lawyer-michael-cohen-9760da77?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-12T20:07:00.000Z",
+          "wordCount": 7397,
+          "title": "Donald Trump Sues Former Lawyer Michael Cohen for $500 Million",
+          "imageUrl": "https://images.wsj.net/im-762433/social"
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
@@ -44650,16 +44715,6 @@
           "wordCount": 14096,
           "title": "Credit Suisse warns of ‘material weakness’ in financial controls",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/FfcsJe2iQS9lfGeKZf.ToQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/bafe7efe8efb8fd16777cbfada45d6f0"
-        },
-        {
-          "id": "credit-suisse-finds-material-weakness-072651948.html",
-          "author": null,
-          "description": "(Bloomberg) -- Credit Suisse Group AG said it found “material weaknesses” in its reporting and control procedures for the past two years, after questions from US regulators last week. Most Read from BloombergBonds Rocket, Stocks Steady as Fed Rate Path Eyed: Markets WrapBillionaire Charles Schwab’s Fortune Is Slammed by SVB FalloutCredit Suisse Finds ‘Material Weakness’ in Reporting Since 2021US Backstops Bank Deposits to Avert Crisis After SVB FailureHow to Safely Store Deposits If You Have Mor",
-          "link": "https://finance.yahoo.com/news/credit-suisse-finds-material-weakness-072651948.html",
-          "publishedOn": "2023-03-14T08:40:12.000Z",
-          "wordCount": 14782,
-          "title": "Credit Suisse Finds ‘Material’ Control Lapses After SEC Prompt",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/UnptoU1Nt5I.ymFA7PDXcQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/c6e229f4df8d05f1bfa66974b1737e96"
         }
       ]
     }
