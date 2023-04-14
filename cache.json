@@ -1138,6 +1138,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6259420/",
+          "author": "Tim Wijkman-van Aalst",
+          "description": "Het mobiele netwerk van Vodafone is vrijdagochtend getroffen door een storing. Sinds 7.00 uur ervaren klanten problemen met mobiel bellen. Daardoor is ook alarmnummer 112 niet bereikbaar voor hen.",
+          "link": "https://www.nu.nl/tech/6259420/storing-treft-mobiel-netwerk-van-vodafone-ook-112-niet-bereikbaar.html",
+          "publishedOn": "2023-04-14T07:02:15.000Z",
+          "wordCount": 799,
+          "title": "Storing treft mobiel netwerk van Vodafone, ook 112 niet bereikbaar",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/6lnxstba7kc8_sqr256.jpg/storing-treft-mobiel-netwerk-van-vodafone-ook-112-niet-bereikbaar.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/6lnxstba7kc8_sqr256.jpg/storing-treft-mobiel-netwerk-van-vodafone-ook-112-niet-bereikbaar.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6259417/",
           "author": "onze economieredactie",
           "description": "Boeing heeft de leveringen van sommige 737 MAX-toestellen stilgelegd omdat er opnieuw technische problemen zijn vastgesteld bij dit type vliegtuig. Volgens de Amerikaanse vliegtuigbouwer gaat het alleen om toestellen die nog niet in gebruik zijn.",
@@ -21668,36 +21683,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/sTHGlV61XMldp8xdp9XgqstgJA4=/4231x2825/GettyImages-528808728-7ffcb7bbd20f49c8a8c4960ea157e5a8.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/shares-of-credit-suisse-plummet-to-all-time-lows-7255792",
-          "author": "Staff Author",
-          "description": "Shares of Credit Suisse (CS) plunged to all-time lows Wednesday after the bank's largest shareholder indicated it would not increase its holdings, fueling more turmoil in the global banking sector already shaken by the collapse of Silicon Valley Bank and Signature Bank.",
-          "link": "https://www.investopedia.com/shares-of-credit-suisse-plummet-to-all-time-lows-7255792?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-03-15T18:33:10.000Z",
-          "wordCount": 3668,
-          "title": "Shares of Credit Suisse Plummet to All-Time Lows",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/cKQRZhOwG17ccoLJxFc1aM1f4tY=/1024x683/GettyImages-1311092401-44a25ded43c941199da9a3e54eeecf79.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/cKQRZhOwG17ccoLJxFc1aM1f4tY=/1024x683/GettyImages-1311092401-44a25ded43c941199da9a3e54eeecf79.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/methodology-for-savings-accounts-and-certificates-of-deposit-rankings-7255816",
-          "author": "Staff Author",
-          "description": "To help you find the right CD or savings account, we research 200 financial institutions every business day to unearth the best rates. This guide explains the criteria we use.",
-          "link": "https://www.investopedia.com/methodology-for-savings-accounts-and-certificates-of-deposit-rankings-7255816?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-03-15T18:19:02.000Z",
-          "wordCount": 3713,
-          "title": "Methodology for Savings Accounts & CD Rankings",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/iP-tWruutseRrFHVMUqzSDDzJnA=/7296x4869/cdmethodology-29e556ed01884f4dbde8e198606c4e1e.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/iP-tWruutseRrFHVMUqzSDDzJnA=/7296x4869/cdmethodology-29e556ed01884f4dbde8e198606c4e1e.jpg"
         }
       ]
     },
@@ -21706,6 +21691,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "gold-record-high-climbing-bbd1da88?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Private investors and central banks are piling into bullion, pushing prices up 25% since November. What’s behind the buying.",
+          "link": "https://www.barrons.com/articles/gold-record-high-climbing-bbd1da88?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-14T06:30:00.000Z",
+          "wordCount": 6821,
+          "title": "Gold Is Approaching a Record High. It Could Keep Climbing.",
+          "imageUrl": "https://images.barrons.com/im-763358/social"
+        },
         {
           "id": "morgan-stanleys-us-stock-chief-043130951.html",
           "author": null,
@@ -43774,76 +43769,6 @@
           "publishedOn": "2023-03-15T19:16:11.000Z",
           "wordCount": null,
           "title": "Is AMD Stock A Buy Before Chipmaker's March-Quarter Report?",
-          "imageUrl": null
-        },
-        {
-          "id": "switch-roth-contributions-much-money-191042368.html",
-          "author": null,
-          "description": "Deciding whether to save in a pretax or Roth account for retirement just got a little easier – at least for people 50 and older. T. Rowe Price has pinpointed how much late-career workers who want to leave money to … Continue reading → The post Switch to Roth Contributions If You Have This Much Money appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/switch-roth-contributions-much-money-191042368.html",
-          "publishedOn": "2023-03-15T19:10:42.000Z",
-          "wordCount": 14569,
-          "title": "Switch to Roth Contributions If You Have This Much Money",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/23da945c3dd7dbd8dcb10386c7460d49"
-        },
-        {
-          "id": "savers-could-end-up-being-big-winners-after-svb-collapse-185909791.html",
-          "author": null,
-          "description": "Several banks increased the yields on their deposit account products following the collapse of two banks.",
-          "link": "https://finance.yahoo.com/news/savers-could-end-up-being-big-winners-after-svb-collapse-185909791.html",
-          "publishedOn": "2023-03-15T18:59:09.000Z",
-          "wordCount": 14186,
-          "title": "Savers could end up being big winners after SVB collapse",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/9FcROGazdp2OmLrifCYMOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/85466e70-c357-11ed-b7f6-05cd5d81acee"
-        },
-        {
-          "id": "stocks-trim-losses-after-report-credit-suisse-swiss-authorities-hold-talks-44b732d5?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "U.S. stocks trimmed sharp losses Wednesday afternoon following a report that Swiss authorities and Credit Suisse held talks aimed at stabilizing the troubled...",
-          "link": "https://www.marketwatch.com/story/stocks-trim-losses-after-report-credit-suisse-swiss-authorities-hold-talks-44b732d5?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-03-15T18:46:00.000Z",
-          "wordCount": 6032,
-          "title": "Stocks trim losses after report Credit Suisse, Swiss authorities hold talks",
-          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
-        },
-        {
-          "id": "charles-schwab-ceo-says-took-184557886.html",
-          "author": null,
-          "description": "‘Buy the dip’ has not become the ubiquitous phrase it is for no reason. With bank stocks recently falling in unison whether they are in danger of meeting the same fate as SVB and Signature bank or not, there are plenty of ‘buy the dip’ opportunities investors can take advantage of right now. And that’s what one CEO has been doing. Having watched shares of his firm Charles Schwab drop by more than 30% since the crisis began, CEO Walter Bettinger said on Tuesday that he purchased 50,000 shares for",
-          "link": "https://finance.yahoo.com/news/charles-schwab-ceo-says-took-184557886.html",
-          "publishedOn": "2023-03-15T18:45:57.000Z",
-          "wordCount": 14957,
-          "title": "Charles Schwab CEO says he took advantage of the recent dip. Here are 3 other bank stocks insiders are buying now",
-          "imageUrl": "https://media.zenfs.com/en/tipranks_452/3712b7fac714fca0071eb85d2594a983"
-        },
-        {
-          "id": "goldman-sachs-slashes-us-gdp-forecast-warns-of-economic-ripple-effects-from-banking-rout-183822556.html",
-          "author": null,
-          "description": "The growth outlook dims.",
-          "link": "https://finance.yahoo.com/news/goldman-sachs-slashes-us-gdp-forecast-warns-of-economic-ripple-effects-from-banking-rout-183822556.html",
-          "publishedOn": "2023-03-15T18:38:22.000Z",
-          "wordCount": 13990,
-          "title": "Goldman Sachs slashes U.S. GDP forecast, warns of economic ripple effects from banking rout",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/KmoaKCbp_Y_aSSqNiTO9fw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/406c60a0-c35e-11ed-8bdf-d96922e5c4d5"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/research/amd-stock-nears-latest-buy-point-chipotle-boasts-rising-profit-estimates/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-03-15T18:29:58.000Z",
-          "wordCount": null,
-          "title": "IBD Screen Of The Day: AMD, Chipotle Boast Rising Profit Estimates",
-          "imageUrl": null
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/chevron-exxon-mobil-falter-as-oil-prices-hit-15-month-lows/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-03-15T18:28:27.000Z",
-          "wordCount": null,
-          "title": "Chevron, Exxon Mobil Falter As Oil Prices Skid To 15-Month Lows",
           "imageUrl": null
         }
       ]
