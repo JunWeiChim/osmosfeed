@@ -1018,6 +1018,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6259788/",
+          "author": "Afran Groenewoud",
+          "description": "Zo'n 10 procent van de werknemers in Nederland voelde zich in 2022 gediscrimineerd op het werk. 35 procent van hen had naar eigen zeggen te maken met discriminerende opmerkingen, negeren of buitensluiten.",
+          "link": "https://www.nu.nl/economie/6259788/een-op-de-tien-werknemers-ervaart-discriminatie-op-de-werkvloer.html",
+          "publishedOn": "2023-04-17T22:00:12.000Z",
+          "wordCount": 1830,
+          "title": "Een op de tien werknemers ervaart discriminatie op de werkvloer",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/29ax6l4a14bf_sqr256.jpg/een-op-de-tien-werknemers-ervaart-discriminatie-op-de-werkvloer.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/29ax6l4a14bf_sqr256.jpg/een-op-de-tien-werknemers-ervaart-discriminatie-op-de-werkvloer.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6259851/",
           "author": "onze nieuwsredactie",
           "description": "Na Nijmegen en Amsterdam heeft ook de rechter in Utrecht geoordeeld dat de gemeente studenten niet bij voorbaat mag uitsluiten van de energietoeslag. De regeling dat studenten als groep niet in aanmerking komen voor de toeslag is discriminatie, vindt de rechtbank.",
@@ -6829,6 +6844,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/investing/012315/5-wealthiest-people-mexico.asp",
+          "author": "Andrew Bloomenthal",
+          "description": "Most people in the know have heard of Carlos Slim and his massive fortune. But what about Mexico's other richest people?",
+          "link": "https://www.investopedia.com/articles/investing/012315/5-wealthiest-people-mexico.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-17T21:19:51.000Z",
+          "wordCount": 4422,
+          "title": "The 5 Wealthiest People in Mexico",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/IMnQoPkRC1vyr_yA6yaVX6Vw2yE=/680x440/ap175205219957-5bfc384b46e0fb0083c3f72d.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/IMnQoPkRC1vyr_yA6yaVX6Vw2yE=/680x440/ap175205219957-5bfc384b46e0fb0083c3f72d.jpg"
+        },
         {
           "id": "https://www.investopedia.com/see-how-apples-newly-launched-savings-account-compares-7481677",
           "author": "Sabrina Karl",
@@ -21188,36 +21218,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/4uY0QFXlB0ZgvP686zjtNXznBvI=/4500x2995/GettyImages-1358705588-dd81a9868ded4531bc5274de12de404d.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/d/droplock.asp",
-          "author": "The Investopedia Team",
-          "description": "A drop lock is an arrangement whereby the interest rate on a floating rate note or preferred stock becomes fixed if it falls to a specified level.",
-          "link": "https://www.investopedia.com/terms/d/droplock.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-03-19T09:33:16.000Z",
-          "wordCount": 3745,
-          "title": "Drop Lock Definition",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/9R1Bagw_zQLKZVETeciC6-uf4t4=/4000x2700/droplock.asp-final-136ad405e58b47229538fb95e078260d.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/9R1Bagw_zQLKZVETeciC6-uf4t4=/4000x2700/droplock.asp-final-136ad405e58b47229538fb95e078260d.png"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/p/peak-stuff.asp",
-          "author": "Will Kenton",
-          "description": "Peak stuff refers to products that have reached the ceiling for market interest and penetration and cannot go any higher.",
-          "link": "https://www.investopedia.com/terms/p/peak-stuff.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-03-19T09:23:36.000Z",
-          "wordCount": 3582,
-          "title": "Peak Stuff Definition",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/C77neJ30iSAUjdFtA3CTvT9ZWoI=/4000x2700/peak-stuff.asp-Final-fe98638046ca4e3c9ffe9e67a41ea26c.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/C77neJ30iSAUjdFtA3CTvT9ZWoI=/4000x2700/peak-stuff.asp-Final-fe98638046ca4e3c9ffe9e67a41ea26c.png"
         }
       ]
     },
@@ -21415,6 +21415,16 @@
           "wordCount": 6758,
           "title": "State Street Stock Is S&P 500’s Top Loser as Earnings Disappoint",
           "imageUrl": "https://images.barrons.com/im-764650/social"
+        },
+        {
+          "id": "apple-card-savings-account-goldman-sachs-f109156d?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The new accounts, offered in partnership with Goldman Sachs and available to holders of the Apple Card,, provide an initial yield of 4.15%.",
+          "link": "https://www.barrons.com/articles/apple-card-savings-account-goldman-sachs-f109156d?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-17T16:02:00.000Z",
+          "wordCount": 6769,
+          "title": "Apple Offers High-Yield Savings Accounts in Latest Push Into Financial Services",
+          "imageUrl": "https://images.barrons.com/im-764740/social"
         },
         {
           "id": "schwab-steadies-deposits-meet-estimates-135616973.html",
@@ -43585,36 +43595,6 @@
           "wordCount": 7361,
           "title": "10 most lucrative places where older Americans can sell their homes, maximize profit and retire elsewhere",
           "imageUrl": "https://images.mktw.net/im-703837/social"
-        },
-        {
-          "id": "signature-banks-quirky-mix-of-customers-fueled-its-rise-and-hastened-its-fall-8bc10cd2?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The New York bank juiced its growth by combining a traditional commercial real-estate business with divisions catering to customers too small or complicated for its crosstown Wall Street rivals.",
-          "link": "https://www.wsj.com/articles/signature-banks-quirky-mix-of-customers-fueled-its-rise-and-hastened-its-fall-8bc10cd2?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-03-19T09:30:00.000Z",
-          "wordCount": 7647,
-          "title": "Signature Bank’s Quirky Mix of Customers Fueled Its Rise and Hastened Its Fall",
-          "imageUrl": "https://images.wsj.net/im-746362/social"
-        },
-        {
-          "id": "economy-week-ahead-u-s-interest-rates-and-housing-market-in-focus-bd4b2380?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The Federal Reserve deliberates on monetary policy as it confronts high inflation and financial instability.",
-          "link": "https://www.wsj.com/articles/economy-week-ahead-u-s-interest-rates-and-housing-market-in-focus-bd4b2380?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-03-19T09:30:00.000Z",
-          "wordCount": 7314,
-          "title": "Economy Week Ahead: U.S. Interest Rates and Housing Market in Focus",
-          "imageUrl": "https://images.wsj.net/im-746020/social"
-        },
-        {
-          "id": "smaller-banks-critical-role-in-economy-means-distress-raises-recession-risks-ba31e6a8?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Main Street businesses and American families are likely to find it harder to get a loan because of turmoil in the banking industry, denting economic growth.",
-          "link": "https://www.wsj.com/articles/smaller-banks-critical-role-in-economy-means-distress-raises-recession-risks-ba31e6a8?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-03-19T09:30:00.000Z",
-          "wordCount": 7826,
-          "title": "Smaller Banks’ Critical Role in Economy Means Distress Raises Recession Risks",
-          "imageUrl": "https://images.wsj.net/im-745786/social"
         }
       ]
     }
