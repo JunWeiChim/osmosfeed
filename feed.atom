@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-17T06:16:24.735Z</updated>
+    <updated>2023-04-17T07:12:00.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What’s the Difference Between Pretax and Roth Contributions?]]></title>
+        <id>https://www.investopedia.com/pre-tax-and-roth-contributions-5219963</id>
+        <link href="https://www.investopedia.com/pre-tax-and-roth-contributions-5219963?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
+        <updated>2023-04-17T06:26:25.000Z</updated>
+        <summary type="html"><![CDATA[With tax-advantaged retirement plans, you either make pretax or after-tax contributions, depending on the type of plan. Learn about the pros and cons.]]></summary>
+        <author>
+            <name>Andrew Martins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Young Investors: What Are You Waiting for?]]></title>
         <id>https://www.investopedia.com/articles/younginvestors/09/college_finance.asp</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[By investing at a younger age, you can harness the power of compounding—not penny-pinching—for profit.]]></summary>
         <author>
             <name>Chris Seabury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin dips under US$30,000; Ether takes a breather; Binance, Solana lead gainers]]></title>
+        <id>bitcoin-dips-under-us-30-035157835.html</id>
+        <link href="https://finance.yahoo.com/news/bitcoin-dips-under-us-30-035157835.html"/>
+        <updated>2023-04-17T03:51:57.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin dipped below US$30,000 in early Monday morning trading in Asia. Ether stalled after strong gains that followed last week’s blockchain upgrade.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
         </author>
     </entry>
     <entry>
@@ -35631,16 +35651,6 @@ Moody’s Investor Research upgraded Tesla’s credit rating to Baa3, which is t
         <summary type="html"><![CDATA[A stop order is an order type that can be used to limit losses as well as enter the market on a potential breakout.]]></summary>
         <author>
             <name>Adam Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney managers told to identify layoff candidates, with 4K job cuts expected by April: report]]></title>
-        <id>disney-managers-told-identify-layoff-184030491.html</id>
-        <link href="https://finance.yahoo.com/news/disney-managers-told-identify-layoff-184030491.html"/>
-        <updated>2023-03-18T18:40:30.000Z</updated>
-        <summary type="html"><![CDATA[The Walt Disney Co. is reportedly planning to lay off at least 4,000 current employees in April after CEO Bob Iger announced a plan to cut 7,000 jobs as a cost-saving measure.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
         </author>
     </entry>
 </feed>
