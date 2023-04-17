@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-17T05:11:59.945Z</updated>
+    <updated>2023-04-17T06:16:24.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Young Investors: What Are You Waiting for?]]></title>
+        <id>https://www.investopedia.com/articles/younginvestors/09/college_finance.asp</id>
+        <link href="https://www.investopedia.com/articles/younginvestors/09/college_finance.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
+        <updated>2023-04-17T05:20:31.000Z</updated>
+        <summary type="html"><![CDATA[By investing at a younger age, you can harness the power of compounding—not penny-pinching—for profit.]]></summary>
+        <author>
+            <name>Chris Seabury</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hoge suikerprijs maakt snoep en koek erg duur, maar we blijven lekker snaaien]]></title>
         <id>https://www.nu.nl/-/6259335/</id>
@@ -35631,35 +35641,6 @@ Moody’s Investor Research upgraded Tesla’s credit rating to Baa3, which is t
         <summary type="html"><![CDATA[The Walt Disney Co. is reportedly planning to lay off at least 4,000 current employees in April after CEO Bob Iger announced a plan to cut 7,000 jobs as a cost-saving measure.]]></summary>
         <author>
             <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Is Credit Suisse in Trouble? The Banking Turmoil Explained]]></title>
-        <id>why-is-credit-suisse-in-trouble-the-banking-turmoil-explained-6f8ddb5b?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.wsj.com/articles/why-is-credit-suisse-in-trouble-the-banking-turmoil-explained-6f8ddb5b?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2023-03-18T17:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Here’s what you need to know about the turmoil at Switzerland’s second-largest bank by assets and what might happen next.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bank of America Could Acquire Signature Bank, Ackman Says]]></title>
-        <id>bank-of-america-could-acquire-signature-bank-ackman-says?puc=yahoo&amp;cm_ven=YAHOO&amp;yptr=yahoo</id>
-        <link href="https://www.thestreet.com/banking/bank-of-america-could-acquire-signature-bank-ackman-says?puc=yahoo&amp;cm_ven=YAHOO&amp;yptr=yahoo"/>
-        <updated>2023-03-18T17:29:00.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Window Dressing in Finance?]]></title>
-        <id>https://www.investopedia.com/terms/w/windowdressing.asp</id>
-        <link href="https://www.investopedia.com/terms/w/windowdressing.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-03-18T17:26:30.000Z</updated>
-        <summary type="html"><![CDATA[Window dressing occurs when a fund manager tweaks a fund or a business adjusts its accounting methods for appearance's sake.]]></summary>
-        <author>
-            <name>James Chen</name>
         </author>
     </entry>
 </feed>
