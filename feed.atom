@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-17T01:02:42.536Z</updated>
+    <updated>2023-04-17T02:29:38.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cold Calling: Definition, How It Works, Examples and Difficulties]]></title>
+        <id>https://www.investopedia.com/terms/c/coldcalling.asp</id>
+        <link href="https://www.investopedia.com/terms/c/coldcalling.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
+        <updated>2023-04-17T01:49:36.000Z</updated>
+        <summary type="html"><![CDATA[Cold calling is a type of telemarketing in which a prospective customer is solicited by a salesperson with whom they have had no previous interaction.]]></summary>
+        <author>
+            <name>Adam Hayes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No-Penalty Certificate of Deposit (CD)]]></title>
+        <id>https://www.investopedia.com/terms/l/liquid-certificate-of-deposit.asp</id>
+        <link href="https://www.investopedia.com/terms/l/liquid-certificate-of-deposit.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
+        <updated>2023-04-17T00:49:58.000Z</updated>
+        <summary type="html"><![CDATA[A no-penalty certificate of deposit, also known as a liquid CD, allows investors to make early withdrawals without paying a penalty. But they also pay lower interest rates.]]></summary>
+        <author>
+            <name>James Chen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Asian Stocks, US Futures Rise in Cautious Trading: Markets Wrap]]></title>
         <id>us-stock-futures-rise-currencies-223603867.html</id>
@@ -24,6 +44,16 @@
         <summary type="html"><![CDATA[Micro mining is a lightweight mining activity in which a low-end hardware device performs the basic activity of transaction authentication.]]></summary>
         <author>
             <name>Adam Hayes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Markets Don’t Heed the Fed’s Warnings. That Could Be Costly for Them.]]></title>
+        <id>stock-bond-market-fed-rate-warnings-d0ef2f6e?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.barrons.com/articles/stock-bond-market-fed-rate-warnings-d0ef2f6e?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2023-04-16T23:53:00.000Z</updated>
+        <summary type="html"><![CDATA[The likeliest scenario now is for a quarter-point boost in the fed-funds rate next month, but no cuts until 2024.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
         </author>
     </entry>
     <entry>
@@ -175,6 +205,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Insect Farming Startup Raises $175 Million for Food Expansion]]></title>
+        <id>insect-farming-startup-raises-175-200000435.html</id>
+        <link href="https://finance.yahoo.com/news/insect-farming-startup-raises-175-200000435.html"/>
+        <updated>2023-04-16T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[(Bloomberg) -- Insect farming startup Ynsect SAS has secured more funding as it expands globally and looks to prioritize higher-value food for pets and humans.Most Read from BloombergBud Light Kicked a Hornet’s Nest and Ran AwayA $300,000 Salary Feels Like $100,000 in The Priciest US CitiesMerck-Moderna Vaccine Helps Keep Patients Free From Skin CancerEngaged Couples Issue Verdict on Bed Bath & BeyondFuel That Powers the Global Economy Is Flashing Recession SignsThe French company closed a €160]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Merck to Acquire Prometheus Biosciences]]></title>
         <id>merck-in-late-stage-talks-to-acquire-prometheus-biosciences-eefe4909?siteid=yhoof2&amp;yptr=yahoo</id>
         <link href="https://www.wsj.com/articles/merck-in-late-stage-talks-to-acquire-prometheus-biosciences-eefe4909?siteid=yhoof2&amp;yptr=yahoo"/>
@@ -230,6 +270,17 @@
         <link href="https://finance.yahoo.com/news/many-workers-have-only-their-retirement-savings-for-emergencies-171353261.html"/>
         <updated>2023-04-16T17:13:53.000Z</updated>
         <summary type="html"><![CDATA[More than 2 in 5 workers said they considered their retirement funds as their only form of emergency savings.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What banking turmoil could mean for business and consumer lending activity]]></title>
+        <id>what-banking-turmoil-could-mean-for-business-and-consumer-lending-activity-170421795.html</id>
+        <link href="https://finance.yahoo.com/news/what-banking-turmoil-could-mean-for-business-and-consumer-lending-activity-170421795.html"/>
+        <updated>2023-04-16T17:04:21.000Z</updated>
+        <summary type="html"><![CDATA[The availability of loans and the cost of those loans are critical for consumer and business activity alike. 
+While we have yet to fully understand how these financial conditions are evolving, the early survey data have been less than encouraging.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -35696,85 +35747,6 @@ Moody’s Investor Research upgraded Tesla’s credit rating to Baa3, which is t
         <id>credit-suisses-days-are-numbered?puc=yahoo&amp;cm_ven=YAHOO&amp;yptr=yahoo</id>
         <link href="https://www.thestreet.com/banking/credit-suisses-days-are-numbered?puc=yahoo&amp;cm_ven=YAHOO&amp;yptr=yahoo"/>
         <updated>2023-03-18T14:43:00.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graandeal tussen Oekraïne en Rusland op de valreep met vier maanden verlengd]]></title>
-        <id>https://www.nu.nl/-/6255912/</id>
-        <link href="https://www.nu.nl/economie/6255912/graandeal-tussen-oekraine-en-rusland-op-de-valreep-met-vier-maanden-verlengd.html"/>
-        <updated>2023-03-18T14:29:07.000Z</updated>
-        <summary type="html"><![CDATA[De graandeal tussen Oekraïne en Rusland, die vandaag zou aflopen, is op de valreep verlengd. Het gaat om een verlenging van 120 dagen, zegt de Oekraïense minister Oleksandr Kubrakov (Infrastructuur) zaterdag. De verlenging liet lang op zich wachten, omdat de landen het maar niet eens werden over de looptijd.]]></summary>
-        <author>
-            <name>Douwe van Veen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graandeal tussen Oekraïne en Rusland met vier maanden verlengd]]></title>
-        <id>https://www.nu.nl/-/6255912/</id>
-        <link href="https://www.nu.nl/economie/6255912/graandeal-tussen-oekraine-en-rusland-met-vier-maanden-verlengd.html"/>
-        <updated>2023-03-18T14:07:22.000Z</updated>
-        <summary type="html"><![CDATA[De graandeal tussen Oekraïne en Rusland, die vandaag zou aflopen, is verlengd. Dat zegt de Turkse president Recep Tayyip Erdogan. De verlenging liet eerder op zich wachten, omdat de landen het niet eens werden over de looptijd.]]></summary>
-        <author>
-            <name>onze nieuwsredactie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graandeal Oekraïne en Rusland verloopt vandaag, nog geen zicht op verlenging]]></title>
-        <id>https://www.nu.nl/-/6255905/</id>
-        <link href="https://www.nu.nl/economie/6255905/graandeal-oekraine-en-rusland-verloopt-vandaag-nog-geen-zicht-op-verlenging.html"/>
-        <updated>2023-03-18T14:05:27.000Z</updated>
-        <summary type="html"><![CDATA[De graandeal tussen Rusland en Oekraïne verloopt vandaag. De twee landen zijn het vooralsnog niet eens geworden over de duur van een eventuele verlenging. Het akkoord zorgt ervoor dat graan uit Oekraïne weer verhandeld kan worden.]]></summary>
-        <author>
-            <name>onze nieuwsredactie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I’m 38, sold my home for $1.3 million and save my money but I ‘wonder if I’ll ever be able to retire’]]></title>
-        <id>im-38-sold-my-home-for-1-3-million-and-save-my-money-but-i-wonder-if-ill-ever-be-able-to-retire-6a7d9da8?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.marketwatch.com/story/im-38-sold-my-home-for-1-3-million-and-save-my-money-but-i-wonder-if-ill-ever-be-able-to-retire-6a7d9da8?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2023-03-18T14:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Have a question about your own retirement savings? Email us at HelpMeRetire@marketwatch.com]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mortgage rates 'reeling' after Silicon Valley Bank's sudden collapse and one expert says borrowers can capitalize on the current volatility — here’s how much you could save on your home loan]]></title>
-        <id>silicon-valley-banks-sudden-collapse-140000054.html</id>
-        <link href="https://finance.yahoo.com/news/silicon-valley-banks-sudden-collapse-140000054.html"/>
-        <updated>2023-03-18T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Homes are finally becoming more affordable for the average American again.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Scored a Big Week as Banks Sold Off. Can It Last?]]></title>
-        <id>bitcoin-scored-a-big-week-banks-sold-off-597b36b3?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/articles/bitcoin-scored-a-big-week-banks-sold-off-597b36b3?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2023-03-18T13:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Despite this past week’s rally, Bitcoin is still down nearly 40% over the past year and has fallen more than 63% from its record high.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Billionaires Are Back]]></title>
-        <id>bitcoin-billionaires-are-back?puc=yahoo&amp;cm_ven=YAHOO&amp;yptr=yahoo</id>
-        <link href="https://www.thestreet.com/investing/cryptocurrency/bitcoin-billionaires-are-back?puc=yahoo&amp;cm_ven=YAHOO&amp;yptr=yahoo"/>
-        <updated>2023-03-18T13:43:00.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Week in Coins: Bitcoin, Ethereum Post Mega Rallies After Banking Intervention]]></title>
-        <id>week-coins-bitcoin-ethereum-post-132200945.html</id>
-        <link href="https://finance.yahoo.com/news/week-coins-bitcoin-ethereum-post-132200945.html"/>
-        <updated>2023-03-18T13:22:00.000Z</updated>
-        <summary type="html"><![CDATA[The two leading coins more than made up for losses racked up during last week’s crypto banking crash.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
