@@ -998,6 +998,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6259335/",
+          "author": "Thijs Rösken",
+          "description": "Door schaarste en handelsbeperkingen is suiker nu het duurst sinds jaren. Dat werkt door in prijzen van snoepgoed en koekjes in de winkel. Maar we laten zoetigheden er niet om liggen. Is dit het bewijs dat een suikertaks niet zal werken?",
+          "link": "https://www.nu.nl/economie/6259335/hoge-suikerprijs-maakt-snoep-en-koek-erg-duur-maar-we-blijven-lekker-snaaien.html",
+          "publishedOn": "2023-04-17T03:09:27.000Z",
+          "wordCount": 1554,
+          "title": "Hoge suikerprijs maakt snoep en koek erg duur, maar we blijven lekker snaaien",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/dvsxw91ake7n_sqr256.jpg/hoge-suikerprijs-maakt-snoep-en-koek-erg-duur-maar-we-blijven-lekker-snaaien.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/dvsxw91ake7n_sqr256.jpg/hoge-suikerprijs-maakt-snoep-en-koek-erg-duur-maar-we-blijven-lekker-snaaien.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6259543/",
           "author": "Tom van Gurp",
           "description": "De invoer en het gebruik van olie in Nederland is vorig jaar gelijk gebleven aan dat van een jaar eerder. Dit ondanks het streven om meer duurzame energie te gebruiken. Ook de oorlog in Oekraïne had nauwelijks invloed op ons olieverbruik.",
@@ -6674,6 +6689,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/s/social-media-optimization-smo.asp",
+          "author": "Will Kenton",
+          "description": "Social media optimization (SMO) is the use of social media networks to manage and enhance an organization’s message and online presence.",
+          "link": "https://www.investopedia.com/terms/s/social-media-optimization-smo.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-17T02:56:51.000Z",
+          "wordCount": 4375,
+          "title": "What Is Social Media Optimization (SMO), and Why Is It Important?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/GsFGTZXQUEKIoUiFChsNEZdXQRw=/1920x1242/human-1157116_1920-bf6c65481a044bdca4c32180133acfda.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/GsFGTZXQUEKIoUiFChsNEZdXQRw=/1920x1242/human-1157116_1920-bf6c65481a044bdca4c32180133acfda.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/c/coldcalling.asp",
           "author": "Adam Hayes",
@@ -20771,6 +20801,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "oil-holds-fourth-weekly-advance-225623322.html",
+          "author": null,
+          "description": "(Bloomberg) -- Oil held a fourth weekly gain on signs of a tightening global market as the International Energy Agency warned of higher prices ahead.Most Read from BloombergBud Light Kicked a Hornet’s Nest and Ran AwayA $300,000 Salary Feels Like $100,000 in The Priciest US CitiesMerck-Moderna Vaccine Helps Keep Patients Free From Skin CancerEngaged Couples Issue Verdict on Bed Bath & BeyondFuel That Powers the Global Economy Is Flashing Recession SignsWest Texas Intermediate futures traded abov",
+          "link": "https://finance.yahoo.com/news/oil-holds-fourth-weekly-advance-225623322.html",
+          "publishedOn": "2023-04-17T01:11:21.000Z",
+          "wordCount": 11323,
+          "title": "Oil Steady After Four Weekly Gains as IEA Warns of Price Rises",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/3f20d4bdf6154b193a308b73ed29c4ff"
+        },
         {
           "id": "us-stock-futures-rise-currencies-223603867.html",
           "author": null,
@@ -42650,26 +42690,6 @@
           "wordCount": 8323,
           "title": "UBS in Talks to Take Over Credit Suisse",
           "imageUrl": "https://images.wsj.net/im-746587/social"
-        },
-        {
-          "id": "ubs-and-regulators-rush-to-seal-credit-suisse-takeover-deal-reports-2f4ccfbc?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Credit Suisse, UBS and their key regulators are working out a deal on the merger of Switzerland’s two biggest banks, according to reports on Saturday.",
-          "link": "https://www.marketwatch.com/story/ubs-and-regulators-rush-to-seal-credit-suisse-takeover-deal-reports-2f4ccfbc?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-03-18T14:49:00.000Z",
-          "wordCount": 7371,
-          "title": "UBS and regulators rush to seal Credit Suisse takeover deal: reports",
-          "imageUrl": "https://images.mktw.net/im-745645/social"
-        },
-        {
-          "id": "credit-suisses-days-are-numbered?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.thestreet.com/banking/credit-suisses-days-are-numbered?puc=yahoo&cm_ven=YAHOO&yptr=yahoo",
-          "publishedOn": "2023-03-18T14:43:00.000Z",
-          "wordCount": null,
-          "title": "Credit Suisse's Days Are Numbered",
-          "imageUrl": null
         }
       ]
     }
