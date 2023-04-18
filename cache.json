@@ -1038,6 +1038,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6259966/",
+          "author": "Tom van Gurp",
+          "description": "De koopkracht van de gemiddelde Nederlander is bijna de hoogste van de Europese Unie. We moesten vorig jaar alleen Luxemburg, Ierland en Denemarken voor ons dulden, blijkt uit cijfers van statistiekbureau CBS. Onderaan de lijst bungelt Bulgarije.",
+          "link": "https://www.nu.nl/economie/6259966/koopkracht-van-nederlanders-is-bijna-de-hoogste-van-de-eu.html",
+          "publishedOn": "2023-04-18T22:14:08.000Z",
+          "wordCount": 986,
+          "title": "Koopkracht van Nederlanders is bijna de hoogste van de EU",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/bylxea8a54eq_sqr256.jpg/koopkracht-van-nederlanders-is-bijna-de-hoogste-van-de-eu.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/bylxea8a54eq_sqr256.jpg/koopkracht-van-nederlanders-is-bijna-de-hoogste-van-de-eu.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6260012/",
           "author": "onze nieuwsredactie",
           "description": "Het wodkamerk Absolut Vodka staakt de export naar Rusland. De beslissing volgt op kritiek die ontstond toen moederbedrijf Pernod Ricard liet weten tóch nog wodka aan Rusland te leveren.",
@@ -6826,21 +6841,6 @@
             "url": "https://media.nu.nl/m/sotx0c6adqsv_sqr256.jpg/nucleaire-optie-van-macron-maakt-franse-pensioenonrust-alleen-maar-groter.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/sotx0c6adqsv_sqr256.jpg/nucleaire-optie-van-macron-maakt-franse-pensioenonrust-alleen-maar-groter.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6256091/",
-          "author": "onze economieredactie",
-          "description": "De koers van de bitcoin is maandagochtend tot boven de 28.500 dollar (zo'n 26.700 euro) gestegen. Het is de hoogste koers sinds juni vorig jaar. De digitale munt profiteert volgens analisten van de onrust in de bankenwereld, waardoor beleggers op zoek gaan naar andere investeringen.",
-          "link": "https://www.nu.nl/economie/6256091/bitcoinkoers-stijgt-verder-door-bankenonrust-70-procent-erbij-sinds-begin-dit-jaar.html",
-          "publishedOn": "2023-03-20T10:33:11.000Z",
-          "wordCount": 909,
-          "title": "Bitcoinkoers stijgt verder door bankenonrust: 70 procent erbij sinds begin dit jaar",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/oysxf9oapq9y_sqr256.jpg/bitcoinkoers-stijgt-verder-door-bankenonrust-70-procent-erbij-sinds-begin-dit-jaar.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/oysxf9oapq9y_sqr256.jpg/bitcoinkoers-stijgt-verder-door-bankenonrust-70-procent-erbij-sinds-begin-dit-jaar.jpg"
         }
       ]
     },
@@ -6849,6 +6849,66 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/goldman-sachs-shares-slip-on-declining-earnings-7482364",
+          "author": "Staff Author",
+          "description": "Goldman Sachs (GS) reported a year-over-year drop in EPS and revenue, sending shares of the financial firm around 2% lower on April 18, 2023.",
+          "link": "https://www.investopedia.com/goldman-sachs-shares-slip-on-declining-earnings-7482364?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-18T23:00:34.000Z",
+          "wordCount": 2904,
+          "title": "Goldman Sachs Shares Slip on Declining Earnings",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/yWxzjH6zzbv3ClrbQOrNYf9FUEM=/4495x2997/GettyImages-1423412150-fac015698ab043a3a33d6d7031cf2639.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/yWxzjH6zzbv3ClrbQOrNYf9FUEM=/4495x2997/GettyImages-1423412150-fac015698ab043a3a33d6d7031cf2639.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/southwest-shares-grounded-after-flight-delays-7482357",
+          "author": "Staff Author",
+          "description": "A data connection issue led to delays for Southwest (LUV) flights on April 18, 2023, sending shares of the air carrier lower.",
+          "link": "https://www.investopedia.com/southwest-shares-grounded-after-flight-delays-7482357?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-18T22:41:55.000Z",
+          "wordCount": 2864,
+          "title": "Southwest Shares Grounded After Flight Delays",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/zzHGUlNGRwkgE2jygC8MMXkWaZo=/5125x3417/GettyImages-521922588-29c978d482d94c49b6007cd3d33088ea.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/zzHGUlNGRwkgE2jygC8MMXkWaZo=/5125x3417/GettyImages-521922588-29c978d482d94c49b6007cd3d33088ea.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/shorter-terms-lead-growth-in-april-average-cd-rates-7482335",
+          "author": "Staff Author",
+          "description": "The FDIC's monthly report on average CD interest rates shows growth momentum has begun to slow, and 3-month, 6-month, and 1-year terms increased the most.",
+          "link": "https://www.investopedia.com/shorter-terms-lead-growth-in-april-average-cd-rates-7482335?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-18T22:27:16.000Z",
+          "wordCount": 3045,
+          "title": "Shorter Terms Lead the Growth in April Average CD Rates",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/BbccuLgvA83s4BhsGyLZYx3ney0=/5872x4026/fdicaveragecdrates4-18-23-82ce715df72742e6b36333084fc66a97.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/BbccuLgvA83s4BhsGyLZYx3ney0=/5872x4026/fdicaveragecdrates4-18-23-82ce715df72742e6b36333084fc66a97.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/markets-little-changed-following-bank-earnings-7482352",
+          "author": "Staff Author",
+          "description": "U.S. equities indexes finished flat on April 18, 2023, as several key financial companies released quarterly results.",
+          "link": "https://www.investopedia.com/markets-little-changed-following-bank-earnings-7482352?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-18T22:26:58.000Z",
+          "wordCount": 2999,
+          "title": "Markets Little Changed Following Bank Earnings",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/okWX5c_Y-onzvIkyxxbTrPpdcfA=/2480x1640/indexesapril18-d3f858ffb6a648db8a29adf9f69d973e.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/okWX5c_Y-onzvIkyxxbTrPpdcfA=/2480x1640/indexesapril18-d3f858ffb6a648db8a29adf9f69d973e.png"
+        },
         {
           "id": "https://www.investopedia.com/top-cd-rates-today-april-18-7482188",
           "author": "Staff Author",
@@ -21520,6 +21580,16 @@
           "wordCount": 11383,
           "title": "United Airlines loses $194 million but sees 2Q turnaround",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/5KmDBjKBkCSipGrPDtKaAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MjM-/https://media.zenfs.com/en/ap_finance_articles_694/49438396a1b18c3f5c15ec81de1ef5b9"
+        },
+        {
+          "id": "why-schwab-says-now-time-202622199.html",
+          "author": null,
+          "description": "If you're looking for ways to generate more retirement income, now may be the perfect time to consider an annuity. Payout rates for guaranteed lifetime annuities are currently at their highest levels in over a decade, according to Schwab. While … Continue reading → The post Why Schwab Says Now Is the Right Time to Consider an Annuity appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/why-schwab-says-now-time-202622199.html",
+          "publishedOn": "2023-04-18T20:26:22.000Z",
+          "wordCount": 11647,
+          "title": "Why Schwab Says Now Is the Right Time to Consider an Annuity",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/55c4698acedc4ed96b4fcd67ab61233e"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -43750,46 +43820,6 @@
           "wordCount": 7570,
           "title": "First Republic set to open at an all-time low as U.S. banks get little or no lift from UBS-Credit Suisse tie-up",
           "imageUrl": "https://images.mktw.net/im-746953/social"
-        },
-        {
-          "id": "signature-bank-new-york-community-bancorp-stock-7eed6348?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The move comes one week after the New York bank was shut down by regulators.",
-          "link": "https://www.barrons.com/articles/signature-bank-new-york-community-bancorp-stock-7eed6348?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-03-20T10:51:00.000Z",
-          "wordCount": 7054,
-          "title": "This Bank Is Buying Signature Bank Assets. Its Stock Is Soaring.",
-          "imageUrl": "https://images.barrons.com/im-745913/social"
-        },
-        {
-          "id": "bank-crisis-survivors-remember-fast-104500846.html",
-          "author": null,
-          "description": "(Bloomberg) -- Steve Chiavarone doesn’t want to scare anyone, but what he remembers most from the last banking crisis was how sure most people were that it wouldn’t happen.Most Read from BloombergUBS to Buy Credit Suisse in $3.3 Billion Deal to End CrisisCredit Suisse’s $17 Billion of Risky Bonds Are Now WorthlessThe One Big Winner and Many Losers of UBS’s Credit Suisse RescueWarren Buffett in Contact With Biden Team on Banking CrisisCredit Suisse Said to Push Back Against UBS’s $1 Billion Offer",
-          "link": "https://finance.yahoo.com/news/bank-crisis-survivors-remember-fast-104500846.html",
-          "publishedOn": "2023-03-20T10:45:00.000Z",
-          "wordCount": 15691,
-          "title": "Bank Crisis Survivors Remember How Fast the Dominoes Can Fall",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/c7022c69d7c08ceb4f4857644b909af6"
-        },
-        {
-          "id": "first-republic-stock-tumbles-toward-a-record-low-after-s-p-slashes-credit-rating-by-another-3-notches-4eda3bc1?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Shares of First Republic Bank tumbled 14.6% toward a record low Monday, after the troubled bank had its credit rating slashed deeper into junk territory over...",
-          "link": "https://www.marketwatch.com/story/first-republic-stock-tumbles-toward-a-record-low-after-s-p-slashes-credit-rating-by-another-3-notches-4eda3bc1?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-03-20T10:21:00.000Z",
-          "wordCount": 6931,
-          "title": "First Republic stock tumbles toward a record low after S&P slashes credit rating by another 3 notches",
-          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
-        },
-        {
-          "id": "what-wall-street-is-saying-about-ubs-buying-credit-suisse-101159073.html",
-          "author": null,
-          "description": "Wall Street largely sees positive signs while digesting the historic deal.",
-          "link": "https://finance.yahoo.com/news/what-wall-street-is-saying-about-ubs-buying-credit-suisse-101159073.html",
-          "publishedOn": "2023-03-20T10:11:59.000Z",
-          "wordCount": 14766,
-          "title": "What Wall Street is saying about UBS buying Credit Suisse",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/5HWa.yjvna97eW2wUE9GrA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/4795ede0-c707-11ed-bffe-672dd50bea5f"
         }
       ]
     }
