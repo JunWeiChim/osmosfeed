@@ -6826,21 +6826,6 @@
             "url": "https://media.nu.nl/m/acqxaj6are18_sqr256.jpg/erg-warme-zomer-leidt-tot-recordoogst-voor-nederlandse-wijnboeren.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/acqxaj6are18_sqr256.jpg/erg-warme-zomer-leidt-tot-recordoogst-voor-nederlandse-wijnboeren.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6255981/",
-          "author": "onze nieuwsredactie",
-          "description": "Demonstraties en stakingen horen bij Frankrijk als stokbrood en camembert. Dit keer verzetten de Fransen zich tegen een verhoging van de pensioenleeftijd. Ondanks grote tegenstand drukte de regering Macron het pensioenplan toch door. De regering krijgt daarom vandaag te maken met twee moties van wantrouwen.",
-          "link": "https://www.nu.nl/buitenland/6255981/nucleaire-optie-van-macron-maakt-franse-pensioenonrust-alleen-maar-groter.html",
-          "publishedOn": "2023-03-20T11:41:00.000Z",
-          "wordCount": 2453,
-          "title": "'Nucleaire optie' van Macron maakt Franse pensioenonrust alleen maar groter",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/sotx0c6adqsv_sqr256.jpg/nucleaire-optie-van-macron-maakt-franse-pensioenonrust-alleen-maar-groter.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/sotx0c6adqsv_sqr256.jpg/nucleaire-optie-van-macron-maakt-franse-pensioenonrust-alleen-maar-groter.jpg"
         }
       ]
     },
@@ -6849,6 +6834,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/tech/question-why-should-anyone-invest-crypto/",
+          "author": "Nathan Reiff",
+          "description": "Digital currencies have garnered an impressive amount of hype, but are they worth it?",
+          "link": "https://www.investopedia.com/tech/question-why-should-anyone-invest-crypto/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-19T00:48:15.000Z",
+          "wordCount": 4207,
+          "title": "Why Should Anyone Invest in Crypto?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/UlgCbd-jWAXcoZjgA2Uc7rLibJQ=/680x440/istock_63887499_small_bitcoin_1-5bfc3031c9e77c005144c86e.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/UlgCbd-jWAXcoZjgA2Uc7rLibJQ=/680x440/istock_63887499_small_bitcoin_1-5bfc3031c9e77c005144c86e.jpg"
+        },
         {
           "id": "https://www.investopedia.com/goldman-sachs-shares-slip-on-declining-earnings-7482364",
           "author": "Staff Author",
@@ -21542,6 +21542,46 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-netflix-volatile-late-tesla-eyes-3-buy-points-with-earnings-due/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-04-19T00:36:41.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures: Netflix Chills; Tesla Eyes 3 Buy Points With Earnings Due",
+          "imageUrl": null
+        },
+        {
+          "id": "fundamentals-set-2h-growth-jpmorgan-234946139.html",
+          "author": null,
+          "description": "Last year was tough for technology stocks, with the tech-oriented NASDAQ index falling 33% by the end of 2022. The index has seen a sharp turnaround these last few months, however, and has posted a 16% gain year-to-date so far. And, with the overall index, there have been some consistent overperformers – which brings us round to the semiconductor chip stocks. The global chip spending reached $570 billion last year and is projected to reach $1 trillion per year by the end of the decade, indicatin",
+          "link": "https://finance.yahoo.com/news/fundamentals-set-2h-growth-jpmorgan-234946139.html",
+          "publishedOn": "2023-04-18T23:49:46.000Z",
+          "wordCount": 12573,
+          "title": "‘Fundamentals Set for 2H Growth’: JPMorgan Expects These 3 Semiconductor Stocks to Fly Higher",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/4f4633e72d60f1b4cb09408932051125"
+        },
+        {
+          "id": "billionaire-charlie-mungers-investment-advice-230922899.html",
+          "author": null,
+          "description": "Charlie Munger is the billionaire extraordinaire who wears many hats, including being the director of Daily Journal Corp. and the longtime vice chairman of the legendary Warren Buffett's holding firm Berkshire Hathaway Inc. His decades-long experience in investing and finance makes him a force to be reckoned with. Don’t Miss: Qnetic Unveils Revolutionary Flywheel Energy Storage System to Accelerate Renewable Energy Adoption Munger has some advice for young investors who are looking to make their",
+          "link": "https://finance.yahoo.com/news/billionaire-charlie-mungers-investment-advice-230922899.html",
+          "publishedOn": "2023-04-18T23:09:22.000Z",
+          "wordCount": 11734,
+          "title": "Billionaire Charlie Munger's Investment Advice Could Make Gen Z Rich — With A Little Patience",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/5e67b29a1fe0f0072c4990049a4fe292"
+        },
+        {
+          "id": "bank-of-america-unrealized-bond-losses-6a55d327?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The bank's CFO emphasized that the bank's net interest income would rise in higher-rate income, even as it was hit by losses on its bond portfolio.",
+          "link": "https://www.barrons.com/articles/bank-of-america-unrealized-bond-losses-6a55d327?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-18T22:26:00.000Z",
+          "wordCount": 6757,
+          "title": "Bank of America Reassures Investors About $99 Billion of Unrealized Bond Losses",
+          "imageUrl": "https://images.barrons.com/im-766108/social"
+        },
+        {
           "id": "western-alliance-stock-surges-after-the-lender-said-deposits-rose-2-billion-212848087.html",
           "author": null,
           "description": "The results from the Phoenix lender offer a more detailed look at a firm at the center of last month's banking crisis.",
@@ -21550,6 +21590,16 @@
           "wordCount": 11821,
           "title": "Western Alliance stock surges after the lender said deposits rose $2 billion",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/heUlD0l5zxqW6LWeLhFVVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-04/864d51c0-de1f-11ed-bbff-9b39be00c353"
+        },
+        {
+          "id": "millions-boomers-nothing-saved-retirement-205900309.html",
+          "author": null,
+          "description": "1 in 4 older Americans may have to work longer or scrimp and save to make ends meet in their golden years, a new study suggests.",
+          "link": "https://finance.yahoo.com/news/millions-boomers-nothing-saved-retirement-205900309.html",
+          "publishedOn": "2023-04-18T20:59:00.000Z",
+          "wordCount": 11277,
+          "title": "Millions of boomers have nothing saved for retirement",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/JTCCvALleV.TLktRIWbFbA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/cbsmoneywatch.com/faad75d5cbbbd7dc257c387ff54edc0f"
         },
         {
           "id": "fox-news-dominion-defamation-trial-set-to-begin-d5c7293a?siteid=yhoof2&yptr=yahoo",
@@ -43680,146 +43730,6 @@
           "wordCount": 7404,
           "title": "Bed Bath & Beyond stock falls below $1 after retailer calls for shareholder approval of reverse stock split",
           "imageUrl": "https://images.mktw.net/im-747031/social"
-        },
-        {
-          "id": "vanguard-says-retirees-add-least-130039245.html",
-          "author": null,
-          "description": "Approximately 80% of all Americans aged 60 and older are homeowners, and housing wealth accounts for about 48% of the median wealth of that group. As retirees near large cities, and strong housing markets, start retiring, they realize they can … Continue reading → The post Vanguard Says Retirees Can Add at Least $100k to Retirement Savings By Doing This appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/vanguard-says-retirees-add-least-130039245.html",
-          "publishedOn": "2023-03-20T13:00:39.000Z",
-          "wordCount": 14965,
-          "title": "Vanguard Says Retirees Can Add at Least $100k to Retirement Savings By Doing This",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/028aea6427131efa56a7f59e4efe4ec0"
-        },
-        {
-          "id": "enphase-energy-stock-upgrade-solar-power-e9d15319?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Raymond James analyst Pavel Molchanov said he was turning positive on the maker of solar inverters for the first time since 2013.",
-          "link": "https://www.barrons.com/articles/enphase-energy-stock-upgrade-solar-power-e9d15319?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-03-20T12:49:00.000Z",
-          "wordCount": 6951,
-          "title": "Enphase Stock Gains as Analyst Tries to ‘Catch a Falling Knife’ in Solar Power",
-          "imageUrl": "https://images.barrons.com/im-713992/social"
-        },
-        {
-          "id": "meltdown-zero-kevin-oleary-says-183000134.html",
-          "author": null,
-          "description": "Is Mr. Wonderful bailing on crypto? Not quite.",
-          "link": "https://finance.yahoo.com/news/meltdown-zero-kevin-oleary-says-183000134.html",
-          "publishedOn": "2023-03-20T12:45:00.000Z",
-          "wordCount": 14587,
-          "title": "'Meltdown to zero': Kevin O'Leary says there's a 100% chance of another crypto debacle — and that it will happen 'over and over and over again.' Here's what he likes instead",
-          "imageUrl": "https://media.zenfs.com/en/moneywise_327/eb207f9d01e5d8fb28da99dcaa087112"
-        },
-        {
-          "id": "foot-locker-q4-beats-expectations-124432746.html",
-          "author": null,
-          "description": "Foot Locker will unveil long-term growth initiatives and financial targets at its investor day presentation.",
-          "link": "https://finance.yahoo.com/news/foot-locker-q4-beats-expectations-124432746.html",
-          "publishedOn": "2023-03-20T12:44:32.000Z",
-          "wordCount": 14075,
-          "title": "Foot Locker Q4 Beats Expectations as Retailer Unveils New Strategy Under CEO Mary Dillon",
-          "imageUrl": "https://media.zenfs.com/en/footwear_news_finance_8/0113dfc36bc91f22ebac529ef2c4de9b"
-        },
-        {
-          "id": "nycbs-sweetheart-deal-with-the-fdic-may-take-a-dividend-cut-off-the-table-93c979f7?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "New York Community Bancorp's shares soared after the company agreed to buy deposits and loans from the failed Signature Bank of New York.",
-          "link": "https://www.marketwatch.com/story/nycbs-sweetheart-deal-with-the-fdic-may-take-a-dividend-cut-off-the-table-93c979f7?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-03-20T12:39:00.000Z",
-          "wordCount": 7759,
-          "title": "NYCB’s sweetheart deal with the FDIC may take a dividend cut off the table",
-          "imageUrl": "https://images.mktw.net/im-742999/social"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-fragile-credit-suisse-deal-first-republic-dives/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-03-20T12:19:09.000Z",
-          "wordCount": null,
-          "title": "Dow Jones Futures Fall: Markets Still Fragile After Credit Suisse Deal; First Republic Dives",
-          "imageUrl": null
-        },
-        {
-          "id": "new-york-community-bank-shares-surge-and-foot-lockers-stock-gains-but-first-republics-stock-hit-by-s-p-downgrade-b51e92d3?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "NYCB stock benefits from news it is snapping up some assets of failed Signature Bank.",
-          "link": "https://www.marketwatch.com/story/new-york-community-bank-shares-surge-and-foot-lockers-stock-gains-but-first-republics-stock-hit-by-s-p-downgrade-b51e92d3?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-03-20T12:15:00.000Z",
-          "wordCount": 7264,
-          "title": "New York Community Bank shares surge and Foot Locker’s stock gains, but First Republic’s stock hit by S&P downgrade",
-          "imageUrl": "https://images.mktw.net/im-746997/social"
-        },
-        {
-          "id": "oil-prices-resume-fall-after-biggest-weekly-drop-of-2023-de4d8581?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Oil futures remain under pressure, failing to find support after UBS's takeover of Credit Suisse.",
-          "link": "https://www.marketwatch.com/story/oil-prices-resume-fall-after-biggest-weekly-drop-of-2023-de4d8581?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-03-20T12:15:00.000Z",
-          "wordCount": 7317,
-          "title": "Oil prices resume fall after biggest weekly drop of 2023",
-          "imageUrl": "https://images.mktw.net/im-734844/social"
-        },
-        {
-          "id": "proterra-bus-debt-stock-going-concern-40046b37?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Proterra announced key amendments to the credit agreement related to its convertible debt.",
-          "link": "https://www.barrons.com/articles/proterra-bus-debt-stock-going-concern-40046b37?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-03-20T12:10:00.000Z",
-          "wordCount": 6896,
-          "title": "Electric Bus Maker Proterra Fixes Debt Issue. The Stock Is Up.",
-          "imageUrl": "https://images.barrons.com/im-415901/social"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-analysts-warn-investors-to-dump-big-stocks-before-its-too-late/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-03-20T12:00:46.000Z",
-          "wordCount": null,
-          "title": "Analysts Warn Investors To Dump 10 Big Stocks Before It's Too Late",
-          "imageUrl": null
-        },
-        {
-          "id": "wedbush-upgrades-ny-community-bancorp-on-sweetheart-deal-for-signature-bank-assets-810a1915?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Wedbush on Monday upgraded New York Community Bancorp Inc. to outperform from neutral based on its expected earnings boost from its acquisition of Signature...",
-          "link": "https://www.marketwatch.com/story/wedbush-upgrades-ny-community-bancorp-on-sweetheart-deal-for-signature-bank-assets-810a1915?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-03-20T11:47:00.000Z",
-          "wordCount": 6889,
-          "title": "Wedbush upgrades NY Community Bancorp on ‘sweetheart deal’ for Signature Bank assets",
-          "imageUrl": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg"
-        },
-        {
-          "id": "stock-market-news-today-live-updates-march-20-2023-113900660.html",
-          "author": null,
-          "description": "U.S. stock futures wavered ahead of the open on Monday morning following UBS’ deal to buy smaller rival Credit Suisse, in a bid to avoid further market-shaking turmoil in global banking.",
-          "link": "https://finance.yahoo.com/news/stock-market-news-today-live-updates-march-20-2023-113900660.html",
-          "publishedOn": "2023-03-20T11:39:00.000Z",
-          "wordCount": 14638,
-          "title": "Stock market news today: Stock futures waver after UBS buys Credit Suisse",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/kBH4aO2PO7TEK9eHI51voA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/7f907b20-c711-11ed-a9fa-cc69248dda6c"
-        },
-        {
-          "id": "bitcoin-rises-past-us-28-113537462.html",
-          "author": null,
-          "description": "Bitcoin traded above US$28,000 on Monday afternoon in Asia, a gain of 25% over last week, as a banking crisis in the U.S. and Europe prompted traders to see Bitcoin as a safe haven.",
-          "link": "https://finance.yahoo.com/news/bitcoin-rises-past-us-28-113537462.html",
-          "publishedOn": "2023-03-20T11:35:37.000Z",
-          "wordCount": 14135,
-          "title": "Bitcoin rises past US$28,000, most other top 10 cryptos gain",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/YFyA7EZiVkNtpV8wBZz_tQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/forkast_news_articles_672/509421979d806b4abe203d8aec8f62c8"
-        },
-        {
-          "id": "first-republic-set-to-open-at-an-all-time-low-as-u-s-banks-get-little-or-no-lift-from-ubs-credit-suisse-tie-up-25e3d3d4?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "First Republic continues slide as U.S. banks fall. UBS and Credit Suisse weigh on banks after megadeal, while analyst ponders fate of bank deposits.",
-          "link": "https://www.marketwatch.com/story/first-republic-set-to-open-at-an-all-time-low-as-u-s-banks-get-little-or-no-lift-from-ubs-credit-suisse-tie-up-25e3d3d4?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-03-20T11:13:00.000Z",
-          "wordCount": 7570,
-          "title": "First Republic set to open at an all-time low as U.S. banks get little or no lift from UBS-Credit Suisse tie-up",
-          "imageUrl": "https://images.mktw.net/im-746953/social"
         }
       ]
     }
