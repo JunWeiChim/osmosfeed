@@ -6821,36 +6821,6 @@
             "url": "https://media.nu.nl/m/cayxqkra0ll0_sqr256.jpg/beyonce-en-adidas-gaan-uit-elkaar-na-tegenvallende-verkopen.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/cayxqkra0ll0_sqr256.jpg/beyonce-en-adidas-gaan-uit-elkaar-na-tegenvallende-verkopen.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6256645/",
-          "author": "onze economieredactie",
-          "description": "Huishoudens hadden vorig jaar gemiddeld 2 procent meer te besteden dan het jaar ervoor. Dat meldt statistiekbureau CBS, dat daarbij rekening houdt met de hogere prijzen van bijvoorbeeld energie en boodschappen. De stijging komt doordat lonen omhooggingen, meer mensen een baan hadden en door de energiecompensatie vanuit het kabinet.",
-          "link": "https://www.nu.nl/economie/6256645/gemiddeld-inkomen-van-nederlanders-ging-vorig-jaar-iets-omhoog.html",
-          "publishedOn": "2023-03-24T07:43:44.000Z",
-          "wordCount": 912,
-          "title": "Gemiddeld inkomen van Nederlanders ging vorig jaar iets omhoog",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/sbcxsyka341x_sqr256.jpg/gemiddeld-inkomen-van-nederlanders-ging-vorig-jaar-iets-omhoog.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/sbcxsyka341x_sqr256.jpg/gemiddeld-inkomen-van-nederlanders-ging-vorig-jaar-iets-omhoog.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6256552/",
-          "author": "Jeroen Kraan",
-          "description": "Industriële giganten als Shell, BP en chemiebedrijf Dow hebben een veel grotere klimaatimpact dan hun concurrenten. De bedrijven produceren minder efficiënt, waardoor ze jaarlijks vele honderdduizenden extra tonnen CO2 uitstoten. Dat blijkt uit onderzoek van NU.nl.",
-          "link": "https://www.nu.nl/klimaat/6256552/shell-bp-en-dow-hebben-een-veel-grotere-impact-op-het-klimaat-dan-concurrenten.html",
-          "publishedOn": "2023-03-24T07:16:13.000Z",
-          "wordCount": 3475,
-          "title": "Shell, BP en Dow hebben een veel grotere impact op het klimaat dan concurrenten",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/lyvxzu4atfbv_sqr256.jpg/shell-bp-en-dow-hebben-een-veel-grotere-impact-op-het-klimaat-dan-concurrenten.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/lyvxzu4atfbv_sqr256.jpg/shell-bp-en-dow-hebben-een-veel-grotere-impact-op-het-klimaat-dan-concurrenten.jpg"
         }
       ]
     },
@@ -6859,6 +6829,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/investing/081815/inside-look-pinterests-business-model.asp",
+          "author": "Evan Tarver",
+          "description": "Learn about Pinterest and the type of company it is trying to become. Understand the company's business model and what makes it unique.",
+          "link": "https://www.investopedia.com/articles/investing/081815/inside-look-pinterests-business-model.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-22T19:24:00.000Z",
+          "wordCount": 4163,
+          "title": "An Inside Look at Pinterest's Business Model",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/h9T_lKB5WAkiSpAqBbUTwN1q1-E=/680x440/32_--shutterstock_256025500-5bfc390a46e0fb00517fa6ed.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/h9T_lKB5WAkiSpAqBbUTwN1q1-E=/680x440/32_--shutterstock_256025500-5bfc390a46e0fb00517fa6ed.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/s/speculative_flow.asp",
+          "author": "James Chen",
+          "description": "Speculative flow is the movement of hot money into shares of a sector or specific company or an asset class in an attempt to earn short-term gains.",
+          "link": "https://www.investopedia.com/terms/s/speculative_flow.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-22T19:13:02.000Z",
+          "wordCount": 4993,
+          "title": "Speculative Flow Definition",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/6W_Z1ieTvooysGWAvWXnGor4LB4=/680x440/investing8-5bfc2b8d46e0fb005144dbe3.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/6W_Z1ieTvooysGWAvWXnGor4LB4=/680x440/investing8-5bfc2b8d46e0fb005144dbe3.jpg"
+        },
         {
           "id": "https://www.investopedia.com/dr-horton-earnings-surprise-7483673",
           "author": "Staff Author",
@@ -20866,6 +20866,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "many-retirees-arent-prepared-for-how-medicare-costs-can-add-up-173854180.html",
+          "author": null,
+          "description": "In 2019, half of the 35 million older adults and younger persons with disabilities with traditional Medicare spent at least 16% of their income on out-of-pocket health care costs.",
+          "link": "https://finance.yahoo.com/news/many-retirees-arent-prepared-for-how-medicare-costs-can-add-up-173854180.html",
+          "publishedOn": "2023-04-22T17:38:54.000Z",
+          "wordCount": 12564,
+          "title": "Many retirees aren't prepared for how Medicare costs 'can add up'",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/e.thkGgiMU.WdN3PW_Fbpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02OTQ-/https://s.yimg.com/os/creatr-uploaded-images/2023-04/6c10a5b0-e071-11ed-afbf-f82ba7e6de7a"
+        },
         {
           "id": "raising-canes-raises-average-wages-to-1950-an-hour--the-right-thing-to-do-155858339.html",
           "author": null,
