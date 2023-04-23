@@ -978,6 +978,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6260693/",
+          "author": "onze nieuwsredactie",
+          "description": "De prijs van olijfolie is de afgelopen tijd naar recordhoogte gestegen, schrijft Financial Times zondag. De oorzaak is de aanhoudende droogte in Spanje, de grootste olijfolieproducent ter wereld.",
+          "link": "https://www.nu.nl/economie/6260693/droogte-in-spanje-zorgt-voor-recordprijs-olijfolie.html",
+          "publishedOn": "2023-04-23T14:57:27.000Z",
+          "wordCount": 896,
+          "title": "Droogte in Spanje zorgt voor recordprijs olijfolie",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/61jxlrlalz9c_sqr256.jpg/droogte-in-spanje-zorgt-voor-recordprijs-olijfolie.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/61jxlrlalz9c_sqr256.jpg/droogte-in-spanje-zorgt-voor-recordprijs-olijfolie.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6260672/",
           "author": "onze nieuwsredactie",
           "description": "Duitse vakbonden en werkgevers hebben na maanden van onderhandelingen en stakingen een cao-akkoord gesloten. De cao krijgt een looptijd van twee jaar en geldt voor 2,5 miljoen medewerkers in de publieke sector, zoals buschauffeurs, brandweerlieden en artsen.",
@@ -6684,6 +6699,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/ask/answers/05/stoprmd.asp",
+          "author": "Carla Tardi",
+          "description": "A surviving spouse has many options to handle an inherited IRA, including rolling over funds to their IRA, depleting the account in five years, or assuming ownership of the original IRA.",
+          "link": "https://www.investopedia.com/ask/answers/05/stoprmd.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-23T15:00:56.000Z",
+          "wordCount": 4410,
+          "title": "Can I Roll My Spouse's IRA Into My Own Account?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/auGtLPGudv6b15xvTt5ElJR0Dt0=/1899x1584/Rollover-IRA-Investing-56a093bb3df78cafdaa2db1f.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/auGtLPGudv6b15xvTt5ElJR0Dt0=/1899x1584/Rollover-IRA-Investing-56a093bb3df78cafdaa2db1f.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/personal-finance/022516/what-will-social-security-look-when-you-retire.asp",
+          "author": "Ashley Eneriz",
+          "description": "Many workers are not confident that Social Security will be around during their retirement. Here’s what you need to know about its future.",
+          "link": "https://www.investopedia.com/articles/personal-finance/022516/what-will-social-security-look-when-you-retire.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-23T14:27:46.000Z",
+          "wordCount": 5517,
+          "title": "What Will Social Security Look Like When You Retire?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/2uhtibY-pSq_oe3MyXub5_jH1FU=/2121x1414/GettyImages-183541882-a8059c196c064300b7b44a7ce3151d32.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/2uhtibY-pSq_oe3MyXub5_jH1FU=/2121x1414/GettyImages-183541882-a8059c196c064300b7b44a7ce3151d32.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/retirement/122916/are-social-security-benefits-form-socialism.asp",
           "author": "Amy Fontinelle",
@@ -20107,6 +20152,46 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "bed-bath-beyond-buybuy-baby-bankruptcy-51675371576?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Time is running out for a last-minute acquisition of Buybuy Baby, which consistently outperforms Bed Bath & Beyond stories.",
+          "link": "https://www.barrons.com/articles/bed-bath-beyond-buybuy-baby-bankruptcy-51675371576?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-23T14:24:00.000Z",
+          "wordCount": 6774,
+          "title": "Buybuy Baby Is Bed Bath & Beyond’s Juiciest Asset. What Happens to It Next.",
+          "imageUrl": "https://images.barrons.com/im-714705/social"
+        },
+        {
+          "id": "bed-bath-beyond-potential-bankruptcy-103000520.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/video/bed-bath-beyond-potential-bankruptcy-103000520.html",
+          "publishedOn": "2023-04-23T14:10:00.000Z",
+          "wordCount": null,
+          "title": "Bed Bath & Beyond’s Bankruptcy, Explained",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-meta-google-lead-earnings-wave/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-04-23T14:06:33.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures: Microsoft, Meta, Google Lead Earnings Wave; What To Do Now",
+          "imageUrl": null
+        },
+        {
+          "id": "tech-surge-sends-valuations-extremes-140007997.html",
+          "author": null,
+          "description": "(Bloomberg) -- Wall Street traders are ignoring warning signs that the rally in technology stocks looks overblown.Most Read from BloombergBud Light Takes the Cowardly Way OutBillionaire Brin Sold Tesla Near Its Peak for New Giving VehicleAnger in Europe After Chinese Diplomat Says Ex-Soviet States Not SovereignBud Light Marketing Executive Takes Leave After Controversy: Ad AgeElon Musk’s Wealth Plunges $13 Billion as Drama Unfolds Across EmpireOptimism that the Federal Reserve will pivot from it",
+          "link": "https://finance.yahoo.com/news/tech-surge-sends-valuations-extremes-140007997.html",
+          "publishedOn": "2023-04-23T14:00:07.000Z",
+          "wordCount": 11884,
+          "title": "Tech Surge Sends Valuations to Extremes, but Traders Don’t Care",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/UFGQLgsd_bVrNbmIyFsMsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNDE5/https://media.zenfs.com/en/bloomberg_markets_842/3e7820feba9838449ed040e4ef88573f"
+        },
+        {
           "id": "are-social-security-benefits-form-socialism.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
           "author": null,
           "description": "Social Security—one of America's most popular benefit programs—is wholly run by the government. Does that make Social Security socialism?",
@@ -20115,6 +20200,16 @@
           "wordCount": 6777,
           "title": "Are Social Security Benefits a Form of Socialism?",
           "imageUrl": "https://www.investopedia.com/thmb/0Zf3ZzRJDpAUgzOCo0fqcWvw6mI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/USSSCard-ed3cb5248ef842ee89c9ae1bb60e4fbd.jpg"
+        },
+        {
+          "id": "avoid-capital-gains-tax-214204045.html",
+          "author": null,
+          "description": "You can avoid capital gains taxes by investing long-term, taking advantage of tax-deferred retirement plans and offsetting gains.",
+          "link": "https://finance.yahoo.com/news/avoid-capital-gains-tax-214204045.html",
+          "publishedOn": "2023-04-23T13:01:00.000Z",
+          "wordCount": 11597,
+          "title": "How to (Legally) Avoid Capital Gains Taxes",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/2b4a8b1f31c7de8952bf94a8de1d0278"
         },
         {
           "id": "much-interest-earn-1-million-150000229.html",
