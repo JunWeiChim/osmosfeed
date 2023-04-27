@@ -958,6 +958,36 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6261266/",
+          "author": "Thijs Rösken",
+          "description": "Transavia heeft voor vrijdag en zaterdag vluchten van en naar Eindhoven Airport en Rotterdam The Hague Airport geannuleerd. Daardoor zijn enkele duizenden passagiers gedupeerd. De luchtvaartmaatschappij zegt te weinig vliegtuigen klaar te hebben.",
+          "link": "https://www.nu.nl/economie/6261266/transavia-begint-meivakantie-met-annuleren-vluchten-op-eindhoven-en-rotterdam.html",
+          "publishedOn": "2023-04-27T12:53:55.000Z",
+          "wordCount": 890,
+          "title": "Transavia begint meivakantie met annuleren vluchten op Eindhoven en Rotterdam",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/aqnxu8faroqd_sqr256.jpg/transavia-begint-meivakantie-met-annuleren-vluchten-op-eindhoven-en-rotterdam.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/aqnxu8faroqd_sqr256.jpg/transavia-begint-meivakantie-met-annuleren-vluchten-op-eindhoven-en-rotterdam.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6261270/",
+          "author": "onze economieredactie",
+          "description": "Speelgoedmaker Hasbro heeft zijn omzet het afgelopen kwartaal zien kelderen. Het bedrijf achter Monopoly, Peppa Pig en My Little Pony laat daarom minstens duizend medewerkers vertrekken.",
+          "link": "https://www.nu.nl/economie/6261270/monopoly-maker-ziet-omzet-kelderen-na-corona-en-moet-banen-schrappen.html",
+          "publishedOn": "2023-04-27T12:47:15.000Z",
+          "wordCount": 793,
+          "title": "Monopoly-maker ziet omzet kelderen na corona en moet banen schrappen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/1qmxmzba26lc_sqr256.jpg/monopoly-maker-ziet-omzet-kelderen-na-corona-en-moet-banen-schrappen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/1qmxmzba26lc_sqr256.jpg/monopoly-maker-ziet-omzet-kelderen-na-corona-en-moet-banen-schrappen.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6261249/",
           "author": "onze economieredactie",
           "description": "Na de bestuursvoorzitter en de commercieel bestuurder vertrekt ook de financieel topvrouw van Plopsaland. Het bestuur van het Belgische pretparkbedrijf kwam in opspraak na berichten over grensoverschrijdend gedrag en een toxische werksfeer.",
@@ -21483,21 +21513,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/kvidS5c5Pt5b7J2zgxK-rLTKfYU=/2121x1414/GettyImages-873050412-a542bc29951a4ec1bca10ac4fc71a37c.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/p/perfecthedge.asp",
-          "author": "James Chen",
-          "description": "A perfect hedge is a position that eliminates the risk within a position or a position that eliminates all market risk from a portfolio.",
-          "link": "https://www.investopedia.com/terms/p/perfecthedge.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-03-29T01:02:28.000Z",
-          "wordCount": 4286,
-          "title": "Perfect Hedges: What They are and How They are Made",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/6ka_s7rA5MyANoeUvbj93ytGmgk=/680x440/122582497-5bfc2b8d46e0fb005119b24b.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/6ka_s7rA5MyANoeUvbj93ytGmgk=/680x440/122582497-5bfc2b8d46e0fb005119b24b.jpg"
         }
       ]
     },
@@ -21506,6 +21521,86 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-ahead-of-jobless-claims-meta-surges-but-hot-chip-stock-impinj-crashes/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-04-27T12:58:48.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Rise After Surprise Fall In Jobless Claims. Meta Surges, But This Hot AI Stock Crashes 22%.",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/eli-lilly-stock-eli-lilly-earnings-q1-2023/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-04-27T12:57:20.000Z",
+          "wordCount": null,
+          "title": "Eli Lilly's Diabetes Newcomer, Mounjaro, Just Blew Sales Projections Out Of The Water",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/abbvie-stock-abbvie-earnings-q1-2023/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-04-27T12:46:53.000Z",
+          "wordCount": null,
+          "title": "AbbVie Stock Crumbles As Humira Biosimilars Take A 25% Cut",
+          "imageUrl": null
+        },
+        {
+          "id": "why-tesla-stock-has-tanked-over-the-past-5-days-122709491.html",
+          "author": null,
+          "description": "The sell-off in Tesla post earnings has gained steam.",
+          "link": "https://finance.yahoo.com/news/why-tesla-stock-has-tanked-over-the-past-5-days-122709491.html",
+          "publishedOn": "2023-04-27T12:27:09.000Z",
+          "wordCount": 11753,
+          "title": "Why Tesla stock has tanked over the past 5 days",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/BKzxd7GRSNixjEhTWvLZIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/a5b561e0-d485-11ed-b7f1-696434cd54c1"
+        },
+        {
+          "id": "crocs-inc-raises-full-guidance-122037524.html",
+          "author": null,
+          "description": "Crocs Inc. beat expectations in the first quarter.",
+          "link": "https://finance.yahoo.com/news/crocs-inc-raises-full-guidance-122037524.html",
+          "publishedOn": "2023-04-27T12:20:37.000Z",
+          "wordCount": 11624,
+          "title": "Crocs Inc. Blows Past Q1 Expectations, But Stock Falls on Conservative Q2 Outlook",
+          "imageUrl": "https://media.zenfs.com/en/footwear_news_finance_8/3575f71b67cf6bbd7228c5c30e35601d"
+        },
+        {
+          "id": "mobileye-stock-earnings-guidance-tesla-ev-china-self-driving-12f03907?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The self-driving technology company reported adjusted earnings per share of 14 cents. Wall Street was looking for 12 cents. But its outlook is the problem.",
+          "link": "https://www.barrons.com/articles/mobileye-stock-earnings-guidance-tesla-ev-china-self-driving-12f03907?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-27T12:20:00.000Z",
+          "wordCount": 6773,
+          "title": "Mobileye Shocks With Lower Guidance. The Stock Is Diving. Blame Tesla.",
+          "imageUrl": "https://images.barrons.com/im-710706/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/visa-earnings-expected-to-jump-as-visa-stock-eyes-a-buy-zone/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-04-27T12:18:58.000Z",
+          "wordCount": null,
+          "title": "Mastercard Tops Expectations On Cross-Border Volume; Visa Stock Eyes Buy Zone",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/tesla-stock-who-would-buy-tsla-on-a-downgrade-cathie-wood/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-04-27T12:11:13.000Z",
+          "wordCount": null,
+          "title": "Who Would Buy Tesla Stock On A Downgrade? Cathie Wood Would, Of Course",
+          "imageUrl": null
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
@@ -21535,6 +21630,16 @@
           "wordCount": null,
           "title": "Mobileye Lowers Full-Year Outlook On Weakening China Electric Vehicle Sales",
           "imageUrl": null
+        },
+        {
+          "id": "southwest-earnings-airline-reports-losses-from-holiday-meltdown-top-11-billion-114411887.html",
+          "author": null,
+          "description": "Southwest Airlines reported another loss in the first quarter, trying to shake off a brutal holiday period that saw the U.S.’s second largest airline suffer a massive operations letdown.",
+          "link": "https://finance.yahoo.com/news/southwest-earnings-airline-reports-losses-from-holiday-meltdown-top-11-billion-114411887.html",
+          "publishedOn": "2023-04-27T11:44:11.000Z",
+          "wordCount": 11811,
+          "title": "Southwest earnings: Airline reports losses from holiday meltdown top $1.1 billion",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/B_ZjkVv6i5_QIx.i5kEG5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-04/7a399a00-e4f1-11ed-afc1-1e3943d0a19a"
         },
         {
           "id": "southwest-earnings-airline-reports-more-losses-as-holiday-meltdown-impact-extends-into-q1-114411070.html",
@@ -21575,6 +21680,16 @@
           "wordCount": 6764,
           "title": "Honeywell Beats Earnings Estimates and the Stock Drops. This Is a Tough Crowd.",
           "imageUrl": "https://images.barrons.com/im-762015/social"
+        },
+        {
+          "id": "crypto-bounces-back-rumor-mill-103629492.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/video/crypto-bounces-back-rumor-mill-103629492.html",
+          "publishedOn": "2023-04-27T10:36:29.000Z",
+          "wordCount": null,
+          "title": "Crypto bounces back after rumor mill scare",
+          "imageUrl": null
         },
         {
           "id": "stock-market-movers-d34855f1?siteid=yhoof2&yptr=yahoo",
