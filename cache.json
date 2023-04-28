@@ -968,6 +968,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6261409/",
+          "author": "onze nieuwsredactie",
+          "description": "Zorgmedewerkers die door het postcovidsyndroom arbeidsongeschikt zijn geraakt, kunnen een eenmalige vergoeding van 15.000 euro krijgen. Het gaat om mensen die in de eerste coronagolf in 2020 voor coronapatiënten hebben gezorgd en daardoor zelf ook ziek zijn geworden.",
+          "link": "https://www.nu.nl/economie/6261409/vergoeding-voor-zorgpersoneel-dat-door-postcovidsyndroom-niet-meer-kan-werken.html",
+          "publishedOn": "2023-04-28T13:11:15.000Z",
+          "wordCount": 978,
+          "title": "Vergoeding voor zorgpersoneel dat door postcovidsyndroom niet meer kan werken",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/v8txow2aipyi_sqr256.jpg/vergoeding-voor-zorgpersoneel-dat-door-postcovidsyndroom-niet-meer-kan-werken.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/v8txow2aipyi_sqr256.jpg/vergoeding-voor-zorgpersoneel-dat-door-postcovidsyndroom-niet-meer-kan-werken.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6261366/",
           "author": "onze economieredactie",
           "description": "Na een moeizaam einde van 2022 hebben de economieën van Duitsland, Frankrijk en de Europese Unie als geheel een recessie toch afgewend. In de cijfers over het eerste kwartaal krompen hun economieën namelijk niet meer.",
@@ -7199,6 +7214,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/ask/answers/062515/what-difference-between-correspondent-bank-and-intermediary-bank.asp",
+          "author": "Sean Ross",
+          "description": "Correspondent and intermediary banks both act as facilitating third parties during certain transactions, but the differences between the two are significant.",
+          "link": "https://www.investopedia.com/ask/answers/062515/what-difference-between-correspondent-bank-and-intermediary-bank.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-28T12:46:24.000Z",
+          "wordCount": 6361,
+          "title": "Correspondent Banks vs. Intermediary Banks: What's the Difference?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/admPAb20N3c0HIN9pTVuHCPnHeU=/5125x3417/INV_CorrespondentBanks_GettyImages-530281555-5db37c983c404058ac7debe70795e0cc.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/admPAb20N3c0HIN9pTVuHCPnHeU=/5125x3417/INV_CorrespondentBanks_GettyImages-530281555-5db37c983c404058ac7debe70795e0cc.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/optioninvestor/09/naked-short-selling.asp",
+          "author": "John Olagues",
+          "description": "The media demonizes naked short selling, but it usually occurs after a collapse, not before.",
+          "link": "https://www.investopedia.com/articles/optioninvestor/09/naked-short-selling.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-28T12:44:50.000Z",
+          "wordCount": 6777,
+          "title": "The Truth About Naked Short Selling",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/d_u0cXfw0v80N6xzAvoRCuWlATg=/2119x1414/financial-stock-market-graph-chart-of-stock-market-investment-trading-1086745334-129a8996fb374cc889aae30eb8e43bff.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/d_u0cXfw0v80N6xzAvoRCuWlATg=/2119x1414/financial-stock-market-graph-chart-of-stock-market-investment-trading-1086745334-129a8996fb374cc889aae30eb8e43bff.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/5-things-to-know-before-markets-open-april-28-2023-7486315",
+          "author": "Staff Author",
+          "description": "Shares of Amazon dipped in extended trading on worries about growth in its cloud computing business. Here’s what investors need to know today.",
+          "link": "https://www.investopedia.com/5-things-to-know-before-markets-open-april-28-2023-7486315?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-04-28T12:11:28.000Z",
+          "wordCount": 5166,
+          "title": "5 Things to Know Before Markets Open",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/oGzFTIvIQPLTMTmDBqfT7YWmEyI=/5800x3262/GettyImages-10650113381-454503d3c1814ac59de46b40dc61440c.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/oGzFTIvIQPLTMTmDBqfT7YWmEyI=/5800x3262/GettyImages-10650113381-454503d3c1814ac59de46b40dc61440c.jpg"
+        },
         {
           "id": "https://www.investopedia.com/pfizer-q1-fy2023-earnings-preview-7485965",
           "author": "Kevin George",
@@ -21558,21 +21618,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/1xGwYTqZXHAU-kdJ03YiGs6E7ro=/2121x1414/GettyImages-950986656-cc6e9f140059410e816772f274014220.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/personal-finance/090415/salary-secrets-what-considered-big-raise.asp",
-          "author": "Adam Hayes",
-          "description": "What exactly is a “good” raise? Learn what the average raise percentage is worth, and how to set yourself up for a good salary bump, before your next annual review.",
-          "link": "https://www.investopedia.com/articles/personal-finance/090415/salary-secrets-what-considered-big-raise.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-03-30T00:40:37.000Z",
-          "wordCount": 6716,
-          "title": "Average Raise Percentage: Raises, Salaries, and Factors",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/0frljKw4CiHahwnoPObBYteqPuw=/1732x1732/GettyImages-1071365214-dcadc2f7a0094be7a32d35adb0e92eea.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/0frljKw4CiHahwnoPObBYteqPuw=/1732x1732/GettyImages-1071365214-dcadc2f7a0094be7a32d35adb0e92eea.jpg"
         }
       ]
     },
@@ -21581,6 +21626,56 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "exxon-chevron-profits-booming-oil-121024669.html",
+          "author": null,
+          "description": "(Bloomberg) -- Exxon Mobil Corp. and Chevron Corp. are reaping profits not seen since oil topped $145 a barrel in 2008 — almost twice the current price.Most Read from BloombergFed’s Jerome Powell Tricked by Russian Pranksters Posing as ZelenskiyFugitive CEO Ordered to Pay $3.4 Billion in Record Fraud Case Involving BitcoinHarley-Davidson Says Repo Shortage Is Fueling Credit LossesTesla Drops Model Y Starting Price Below the Average US VehicleAmazon Jolts Investors With Talk of Cloud Growth Slowd",
+          "link": "https://finance.yahoo.com/news/exxon-chevron-profits-booming-oil-121024669.html",
+          "publishedOn": "2023-04-28T12:52:40.000Z",
+          "wordCount": 11785,
+          "title": "Exxon, Chevron Profits Are Booming as If Oil Was $145 a Barrel",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_75K82iaGdbXjznWbtZ77Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDE-/https://media.zenfs.com/en/bloomberg_markets_842/a9784bbbd11d8ad1841260f7f143442f"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-ahead-of-key-inflation-data-amazon-drops-while-first-solar-plunges-on-earnings-miss/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-04-28T12:50:33.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Fall After Key Inflation Data. Amazon Drops, While First Solar Plunges On Earnings Miss.",
+          "imageUrl": null
+        },
+        {
+          "id": "key-inflation-gauge-tracked-fed-124125094.html",
+          "author": null,
+          "description": "A key index of underlying inflation that is closely followed by the Federal Reserve remained elevated last month, keeping the Fed on track to raise interest rates next week for the 10th time since March of last year.  The index, which excludes volatile food and energy costs to capture “core” prices, rose 0.3% from February to March and 4.6% from a year earlier — still far above the Fed’s 2% target rate.  The government also reported that consumer spending was unchanged from February to March after a tiny gain of 0.1% the previous month, a sign consumers are getting more cautious amid high inflation and interest rates.",
+          "link": "https://finance.yahoo.com/news/key-inflation-gauge-tracked-fed-124125094.html",
+          "publishedOn": "2023-04-28T12:41:25.000Z",
+          "wordCount": 11641,
+          "title": "A key inflation gauge tracked by Fed remained high in March",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/h02QMXGJJzyOnR_rk8_i_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mzk-/https://media.zenfs.com/en/ap_finance_articles_694/ff31a5158114fc116f2e5cdd81e8fe8b"
+        },
+        {
+          "id": "pfizer-q1-fy2023-earnings-preview-7485965?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "Pfizer reports its first-quarter earnings next week and is expected to show a decline in key metrics as demand for vaccines and products related to COVID-19 sharply slows down.",
+          "link": "https://www.investopedia.com/pfizer-q1-fy2023-earnings-preview-7485965?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-04-28T12:01:00.000Z",
+          "wordCount": 5484,
+          "title": "Pfizer Q1 Earnings Likely Declined 41%",
+          "imageUrl": "https://www.investopedia.com/thmb/U1TibJEuNpayjM8L3FRP7bE4i8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1481187163-fd8a6d1068b74fd89f4d1322e22d52e9.jpg"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-cathie-wood-gets-crushed-by-an-investment-that-costs-less/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-04-28T12:00:20.000Z",
+          "wordCount": null,
+          "title": "Cathie Wood Gets Crushed By An Investment That Costs 73% Less",
+          "imageUrl": null
+        },
         {
           "id": "exxon-mobil-chevron-earnings-stock-oil-prices-37c76a88?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -21600,6 +21695,16 @@
           "wordCount": null,
           "title": "Chevron And Exxon Mobil Beat Earnings Estimates Even As Revenue Slips From 2022 Levels",
           "imageUrl": null
+        },
+        {
+          "id": "short-sellers-bet-against-blackstone-113001844.html",
+          "author": null,
+          "description": "(Bloomberg) -- Short sellers have ramped up bets against commercial mortgage REITs, wagering that more borrowers will default on office debt as interest costs increase and property values fall.Most Read from BloombergFed’s Jerome Powell Tricked by Russian Pranksters Posing as ZelenskiyFugitive CEO Ordered to Pay $3.4 Billion in Record Fraud Case Involving BitcoinHarley-Davidson Says Repo Shortage Is Fueling Credit LossesTesla Drops Model Y Starting Price Below the Average US VehicleAmazon Jolts",
+          "link": "https://finance.yahoo.com/news/short-sellers-bet-against-blackstone-113001844.html",
+          "publishedOn": "2023-04-28T11:30:01.000Z",
+          "wordCount": 12088,
+          "title": "Short Sellers Bet Against Blackstone and Starwood Mortgage REITs",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ky1XTb0jqqrTAtiOfS0XfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzQ-/https://media.zenfs.com/en/bloomberg_markets_842/8d2b15f41bee2d733ab8157d286778a6"
         },
         {
           "id": "amazon-stock-earnings-aws-microsoft-google-d3f48a03?siteid=yhoof2&yptr=yahoo",
