@@ -968,6 +968,36 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6261338/",
+          "author": "onze economieredactie",
+          "description": "Vier dagen voor de explosies bij de Nord Stream-gasleidingen is een Russisch schip op de foto gezet in de buurt van de pijpleidingen. Het Russische vaartuig heeft een mini-onderzeeër aan boord en is speciaal ontworpen voor operaties onder water.",
+          "link": "https://www.nu.nl/economie/6261338/noors-leger-heeft-bewijs-dat-russisch-schip-net-voor-explosie-bij-nord-stream-voer.html",
+          "publishedOn": "2023-04-28T07:57:06.000Z",
+          "wordCount": 1275,
+          "title": "Noors leger heeft bewijs dat Russisch schip net voor explosie bij Nord Stream voer",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/1maxdcwa5xdk_sqr256.jpg/noors-leger-heeft-bewijs-dat-russisch-schip-net-voor-explosie-bij-nord-stream-voer.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/1maxdcwa5xdk_sqr256.jpg/noors-leger-heeft-bewijs-dat-russisch-schip-net-voor-explosie-bij-nord-stream-voer.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6261342/",
+          "author": "onze techredactie",
+          "description": "Het chiptekort van de afgelopen jaren is bij chip- en processorfabrikant Intel omgeslagen in een chipoverschot. De verkoop van chips is flink gedaald. Daardoor groeit de voorraad, met slechte omzet- en winstcijfers als gevolg.",
+          "link": "https://www.nu.nl/tech/6261342/intel-heeft-last-van-een-chipoverschot-en-lijdt-fors-verlies.html",
+          "publishedOn": "2023-04-28T07:52:12.000Z",
+          "wordCount": 998,
+          "title": "Intel heeft last van een chipoverschot en lijdt fors verlies",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/v0jx8r0avyrj_sqr256.jpg/intel-heeft-last-van-een-chipoverschot-en-lijdt-fors-verlies.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/v0jx8r0avyrj_sqr256.jpg/intel-heeft-last-van-een-chipoverschot-en-lijdt-fors-verlies.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6261334/",
           "author": "onze techredactie",
           "description": "Internetbedrijf Amazon heeft de omzet uit de verkoop van advertenties met 21 procent zien stijgen in de eerste drie maanden van dit jaar. Kunstmatige intelligentie helpt het techbedrijf om nog gerichter reclames aan te bieden. Adverteerders zijn bereid om daar meer voor te betalen.",
@@ -21513,36 +21543,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/EJHSAcdVEC-zNsCYEMs7XI7xZNI=/1064x988/GettyImages-155918044-56a5b6855f9b58b7d0de154b.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/foreign-dividend-stock-investing-roth-ira-5224741",
-          "author": "Matt Ryan Webber",
-          "description": "Adding foreign dividend stocks to your Roth IRA can be complicated. In this guide, we’ll take you through the key considerations.",
-          "link": "https://www.investopedia.com/foreign-dividend-stock-investing-roth-ira-5224741?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-03-29T19:28:39.000Z",
-          "wordCount": 5800,
-          "title": "Investing in Foreign Dividend Stock in a Roth IRA",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/zYBsZZBldGwXOhDFk6Oze3FkkrM=/1999x1500/foreign_investment-655327430-5ad8c3c943a1030037af3aa5.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/zYBsZZBldGwXOhDFk6Oze3FkkrM=/1999x1500/foreign_investment-655327430-5ad8c3c943a1030037af3aa5.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/self-serving-bias-7369313",
-          "author": "Adam Hayes",
-          "description": "Learn about the self-serving bias and how it influences decision-making in finance and investing.",
-          "link": "https://www.investopedia.com/self-serving-bias-7369313?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-03-29T19:18:26.000Z",
-          "wordCount": 5547,
-          "title": "Self-Serving Bias: Definition and Examples",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/5O1QesmRA4A0_EVyH28x1AI3BrQ=/5150x3433/GettyImages-118537607-572caf355f9b58c34c476c97.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/5O1QesmRA4A0_EVyH28x1AI3BrQ=/5150x3433/GettyImages-118537607-572caf355f9b58c34c476c97.jpg"
         }
       ]
     },
@@ -21551,6 +21551,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "5-dividend-growth-stocks-recession-kroger-e91a5286?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Companies expected to raise their dividends at a double-digit pace could be sturdy stocks in a slowing economy. Here are five name to consider.",
+          "link": "https://www.barrons.com/articles/5-dividend-growth-stocks-recession-kroger-e91a5286?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-04-28T06:30:00.000Z",
+          "wordCount": 6740,
+          "title": "5 Dividend Growth Stocks for a Slowing Economy",
+          "imageUrl": "https://images.barrons.com/im-771512/social"
+        },
         {
           "id": "amazon-stock-forfeits-gains-after-company-warns-on-optimizations-from-aws-customers-235944403.html",
           "author": null,
@@ -43790,36 +43800,6 @@
           "wordCount": 14526,
           "title": "Polestar 3 begins 'product ramp up' with cheaper, tax-friendly version on deck",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/CXbp4tiQqmnhAnvB8eHanw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mjk-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/c864bcd0-ce64-11ed-b3d7-875f24793b24"
-        },
-        {
-          "id": "fdic-faces-23-billion-costs-201214815.html",
-          "author": null,
-          "description": "(Bloomberg) -- The Federal Deposit Insurance Corp., facing almost $23 billion in costs from recent bank failures, is considering steering a larger-than-usual portion of that burden to the nation’s biggest banks, according to people with knowledge of the matter.Most Read from Bloomberg$52 Billion Chipmaking Plan Is Racing Toward FailureNew Yorkers Are Moving to These Three Florida CitiesFBI Releases Files on Ivana Trump$335,000 Pay for ‘AI Whisperer’ Jobs Appears in Red-Hot MarketUBS Veteran Ermo",
-          "link": "https://finance.yahoo.com/news/fdic-faces-23-billion-costs-201214815.html",
-          "publishedOn": "2023-03-29T20:12:14.000Z",
-          "wordCount": 14983,
-          "title": "FDIC Faces $23 Billion in Costs From Bank Failures. It Wants Big Lenders to Pay",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/k4RZ0q3uYxK0dOxcIqwf5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/ec66fdd06638fca2486c2b71469e9095"
-        },
-        {
-          "id": "stock-market-news-today-live-updates-march-29-133212119.html",
-          "author": null,
-          "description": "Stocks rallied on Wednesday as investor nerves appeared to settle as a surprisingly strong first quarter for the stock market nears its conclusion on Friday.",
-          "link": "https://finance.yahoo.com/news/stock-market-news-today-live-updates-march-29-133212119.html",
-          "publishedOn": "2023-03-29T20:01:56.000Z",
-          "wordCount": 14443,
-          "title": "Stocks rally, crypto surges as first quarter nears end: Stock market news today",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/05SS0el0SA6q23Zfkip6rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODg-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/69b38c40-ce30-11ed-bb27-302ddd6719af"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/research/stocks-to-watch-launching-bases-breakouts-and-buy-zones/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-03-29T19:15:24.000Z",
-          "wordCount": null,
-          "title": "Microsoft Among 19 Stocks To Watch That Are Launching New Moves",
-          "imageUrl": null
         }
       ]
     }
