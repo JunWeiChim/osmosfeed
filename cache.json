@@ -918,6 +918,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6261906/",
+          "author": "Noémi van de Pol",
+          "description": "Het aantal stakingen in ons land nam begin dit jaar flink toe, maar in 2022 werd ook al een stuk meer gestaakt dan een jaar eerder. Er deden vorig jaar wel minder mensen mee aan stakingen.",
+          "link": "https://www.nu.nl/economie/6261906/ook-vorig-jaar-veel-stakingen-maar-er-gingen-minder-mensen-de-straat-op.html",
+          "publishedOn": "2023-05-02T22:00:55.000Z",
+          "wordCount": 1055,
+          "title": "Ook vorig jaar veel stakingen, maar er gingen minder mensen de straat op",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/72hxh1pa1sre_sqr256.jpg/ook-vorig-jaar-veel-stakingen-maar-er-gingen-minder-mensen-de-straat-op.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/72hxh1pa1sre_sqr256.jpg/ook-vorig-jaar-veel-stakingen-maar-er-gingen-minder-mensen-de-straat-op.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6261947/",
           "author": "onze economieredactie",
           "description": "Het Indiase staalconcern Tata Steel heeft in het afgelopen kwartaal een veel lagere winst geboekt dan een jaar eerder. Dit kwam mede door vertragingen van onderhoud op de locatie in IJmuiden.",
@@ -7276,21 +7291,6 @@
             "url": "https://media.nu.nl/m/sj1xlx9aadmo_sqr256.jpg/klimaatverandering-leidt-tot-economische-schade-maar-beleid-kan-dat-voorkomen.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/sj1xlx9aadmo_sqr256.jpg/klimaatverandering-leidt-tot-economische-schade-maar-beleid-kan-dat-voorkomen.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6257940/",
-          "author": "Tom van Gurp",
-          "description": "De handelsprijzen voor olie zijn maandag flink gestegen, doordat belangrijke olielanden hebben besloten minder te produceren. Zowel Noordzeeolie als Amerikaanse olie werd in korte tijd ruim 5 procent duurder. De vrees bestaat dat hogere olieprijzen de inflatie in Europa en de VS aanwakkeren, bijvoorbeeld doordat benzine en diesel duurder worden.",
-          "link": "https://www.nu.nl/economie/6257940/olie-flink-duurder-door-lagere-productie-prijzen-aan-de-pomp-omhoog.html",
-          "publishedOn": "2023-04-03T10:04:26.000Z",
-          "wordCount": 1102,
-          "title": "Olie flink duurder door lagere productie: prijzen aan de pomp omhoog",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/rhpxyp0abmei_sqr256.jpg/olie-flink-duurder-door-lagere-productie-prijzen-aan-de-pomp-omhoog.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/rhpxyp0abmei_sqr256.jpg/olie-flink-duurder-door-lagere-productie-prijzen-aan-de-pomp-omhoog.jpg"
         }
       ]
     },
@@ -7299,6 +7299,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/personal-loan-rates-and-trends-week-of-may-1-rates-ease-7487660",
+          "author": "Staff Author",
+          "description": "Personal loan rates eased slightly after four consecutive weeks of increases, lowering the overall average by five basis points.",
+          "link": "https://www.investopedia.com/personal-loan-rates-and-trends-week-of-may-1-rates-ease-7487660?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-05-02T21:18:34.000Z",
+          "wordCount": 4855,
+          "title": "Personal Loan Rates & Trends, Week of May 1: Rates Ease",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/k9XyJaAuVaSNKnSkWCaHTxHxZ-Q=/6528x4352/GettyImages-1397496424-bb6c16717a444f9e81b7c2038a7ff459.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/k9XyJaAuVaSNKnSkWCaHTxHxZ-Q=/6528x4352/GettyImages-1397496424-bb6c16717a444f9e81b7c2038a7ff459.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/personal-finance/040815/converting-traditional-ira-savings-roth-ira.asp",
+          "author": "Greg Daugherty",
+          "description": "A Roth IRA conversion shifts money from a traditional IRA to a Roth IRA. There may be long-term tax benefits but there can also be costs.",
+          "link": "https://www.investopedia.com/articles/personal-finance/040815/converting-traditional-ira-savings-roth-ira.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-05-02T21:18:03.000Z",
+          "wordCount": 8064,
+          "title": "Converting Traditional IRA Savings to a Roth IRA",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/xtmHb_0qYKsOHcvrGHgbZH14FMc=/680x440/thinkstockphotos-144318103-5bfc3544c9e77c00518197dc.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/xtmHb_0qYKsOHcvrGHgbZH14FMc=/680x440/thinkstockphotos-144318103-5bfc3544c9e77c00518197dc.jpg"
+        },
         {
           "id": "https://www.investopedia.com/top-cd-rates-today-may-2-7488088",
           "author": "Staff Author",
@@ -22382,6 +22412,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/smci-stock-supermicro-gives-strong-june-quarter-outlook/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-05-02T21:35:50.000Z",
+          "wordCount": null,
+          "title": "Super Micro Computer Stock Jumps On Strong June-Quarter Outlook",
+          "imageUrl": null
+        },
+        {
+          "id": "stocks-moving-in-after-hours-ford-starbucks-amd-211808440.html",
+          "author": null,
+          "description": "These are the stocks moving in after-hours on Tuesday, May 2, 2023.",
+          "link": "https://finance.yahoo.com/news/stocks-moving-in-after-hours-ford-starbucks-amd-211808440.html",
+          "publishedOn": "2023-05-02T21:18:08.000Z",
+          "wordCount": 11679,
+          "title": "Stocks moving in after-hours: Ford, Starbucks, AMD",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ebwTFL9PTxcm2eTa12GS1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-04/dcccfff0-e919-11ed-bbb9-456c5ce621cb"
+        },
+        {
           "id": "ford-posts-1-76b-1q-203307421.html",
           "author": null,
           "description": "Excluding one-time items, Ford made 44 cents per share.  Ford reaffirmed its earlier pretax profit guidance for the full year of $9 billion to $11 billion.  Ford lost $722 million before taxes on its electric vehicles, but it made $2.62 billion on internal combustion vehicles.",
@@ -22399,6 +22449,16 @@
           "publishedOn": "2023-05-02T20:31:07.000Z",
           "wordCount": null,
           "title": "Chipmaker AMD Beats First-Quarter Goals But Gives Weak Sales Forecast",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-dives-as-pacwest-stock-plunges-carl-icahn-stock-craters-amid-short-attack-uber-stock-uber-earnings/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-05-02T20:28:44.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Closes Lower While Uber Rockets. Carl Icahn Hits Back As Stock Craters On Short-Seller Attack.",
           "imageUrl": null
         },
         {
@@ -45430,76 +45490,6 @@
           "wordCount": 7511,
           "title": "Extra Space Storage to Combine With Life Storage in $12.7 Billion Deal",
           "imageUrl": "https://images.wsj.net/im-756217/social"
-        },
-        {
-          "id": "wwe-stock-down-amid-reports-of-potential-9-billion-sale-to-ufc-owner-endeavor-100846021.html",
-          "author": null,
-          "description": "A WWE-Endeavor merger would make business sense, though some questions remain.",
-          "link": "https://finance.yahoo.com/news/wwe-stock-down-amid-reports-of-potential-9-billion-sale-to-ufc-owner-endeavor-100846021.html",
-          "publishedOn": "2023-04-03T10:08:46.000Z",
-          "wordCount": 14506,
-          "title": "WWE stock down amid reports of potential $9 billion sale to UFC owner Endeavor",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/CJEBGg7qUxbhgVLv.JrfTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-04/d587a720-d205-11ed-9aff-7957ff5b3204"
-        },
-        {
-          "id": "how-warren-buffett-could-steal-the-show-in-the-second-quarter-morning-brief-100034766.html",
-          "author": null,
-          "description": "Be ready to take notes from Warren Buffett. More on that, and what else to know in markets on Monday, April 3, 2023.",
-          "link": "https://finance.yahoo.com/news/how-warren-buffett-could-steal-the-show-in-the-second-quarter-morning-brief-100034766.html",
-          "publishedOn": "2023-04-03T10:00:34.000Z",
-          "wordCount": 14778,
-          "title": "How Warren Buffett could steal the show in the second quarter: Morning Brief",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/BuOqTDt9KDk0iPbiMKF2_g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/db2ae8a0-d173-11ed-ae9d-954489abec57"
-        },
-        {
-          "id": "municipal-money-market-fund-yield-35c1584c?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The rate on the more than $100 billion of municipal money-market funds can be volatile.",
-          "link": "https://www.barrons.com/articles/municipal-money-market-fund-yield-35c1584c?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-04-03T10:00:00.000Z",
-          "wordCount": 6840,
-          "title": "Muni Money-Market Fund Yields Hit 4%",
-          "imageUrl": "https://images.barrons.com/im-755840/social"
-        },
-        {
-          "id": "tesla-deliveries-confusing-consensus-e285649a?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Tesla misses delivery estimates. No, Tesla beats delivery estimates. Nothing is ever easy with Tesla these days.",
-          "link": "https://www.barrons.com/articles/tesla-deliveries-confusing-consensus-e285649a?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-04-03T09:42:00.000Z",
-          "wordCount": 6906,
-          "title": "Tesla and the Curious Case of the Confusing Consensus",
-          "imageUrl": "https://images.barrons.com/im-455944/social"
-        },
-        {
-          "id": "chinese-stocks-face-micron-test-093000211.html",
-          "author": null,
-          "description": "The rally in Alibaba Group Holding is reassuring stock analysts that Beijing's regulatory crackdown is over. That may not reduce the risk premium in the Chinese stock market just yet, as Beijing's investigation into Micron Technology memory chips has opened a new front in the US-China tech war. China last week announced a cybersecurity investigation into the local sales of the US memory chips maker, targeting a US company for the first time in response to US export curbs on advanced chips and ge",
-          "link": "https://finance.yahoo.com/news/chinese-stocks-face-micron-test-093000211.html",
-          "publishedOn": "2023-04-03T09:30:00.000Z",
-          "wordCount": 15129,
-          "title": "Chinese stocks face Micron test of nerves after Alibaba delivers US$84 billion feel-good 'peace' rally",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/s5RT0ncy.6Sfx7gbasy0Lw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNjAw/https://media.zenfs.com/en/south_china_morning_post_us_228/0cd95f1779992d3ca65031303f10295c"
-        },
-        {
-          "id": "mcdonald-reportedly-tells-u-staff-092912603.html",
-          "author": null,
-          "description": "McDonald’s said it would deliver staffing notices virtually owing to the increased amount of personal travel for the week of April 3.",
-          "link": "https://finance.yahoo.com/news/mcdonald-reportedly-tells-u-staff-092912603.html",
-          "publishedOn": "2023-04-03T09:29:12.000Z",
-          "wordCount": 14283,
-          "title": "McDonald’s reportedly tells U.S. staff to work from home over the next 3 days so it can deliver layoff messages remotely",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/vSsVt8JK4wNYcRbB14oOPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/03f4143f918ed70142316ebe0ca7642d"
-        },
-        {
-          "id": "apple-stock-iphone-demand-analysts-872bcba9?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Strong iPhone demand in Asia and an acceleration in services revenue bode well for Apple stock, analysts at Wedbush say.",
-          "link": "https://www.barrons.com/articles/apple-stock-iphone-demand-analysts-872bcba9?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-04-03T09:22:00.000Z",
-          "wordCount": 6955,
-          "title": "Apple Stock Is Nearing Its Previous Peak. iPhone Demand Could Help It Soar, Analyst Says.",
-          "imageUrl": "https://images.barrons.com/im-650616/social"
         }
       ]
     }
