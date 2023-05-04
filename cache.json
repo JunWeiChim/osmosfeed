@@ -988,6 +988,36 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6262083/",
+          "author": "Tom van Gurp",
+          "description": "De Europese Centrale Bank verhoogt haar rente vandaag waarschijnlijk opnieuw. Dat zou de zevende keer in minder dan een jaar tijd zijn. De verhogingen moeten de inflatie beteugelen, maar doen op steeds meer manieren juist pijn.",
+          "link": "https://www.nu.nl/economie/6262083/de-rentes-gaan-omhoog-en-dat-doet-steeds-meer-pijn.html",
+          "publishedOn": "2023-05-04T03:04:25.000Z",
+          "wordCount": 1599,
+          "title": "De rentes gaan omhoog, en dat doet steeds meer pijn",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/o74x23dax07g_sqr256.jpg/de-rentes-gaan-omhoog-en-dat-doet-steeds-meer-pijn.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/o74x23dax07g_sqr256.jpg/de-rentes-gaan-omhoog-en-dat-doet-steeds-meer-pijn.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6262053/",
+          "author": "Jeroen Kraan",
+          "description": "\"Rechtvaardig, uitvoerbaar en ambitieus.\" Die woorden omschrijven volgens klimaatminister Rob Jetten zijn pakket maatregelen om de CO2-uitstoot extra terug te dringen. Toch gaat maar een klein puntje van de subsidietaart naar mensen in (energie)armoede. Een flink deel gaat naar de industrie en naar waterstofproductie.",
+          "link": "https://www.nu.nl/klimaat/6262053/meeste-subsidies-uit-rechtvaardig-klimaatpakket-jetten-gaan-naar-bedrijven.html",
+          "publishedOn": "2023-05-04T03:02:32.000Z",
+          "wordCount": 2206,
+          "title": "Meeste subsidies uit 'rechtvaardig' klimaatpakket Jetten gaan naar bedrijven",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/rd6x8o8apgps_sqr256.jpg/meeste-subsidies-uit-rechtvaardig-klimaatpakket-jetten-gaan-naar-bedrijven.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/rd6x8o8apgps_sqr256.jpg/meeste-subsidies-uit-rechtvaardig-klimaatpakket-jetten-gaan-naar-bedrijven.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6262109/",
           "author": "onze nieuwsredactie",
           "description": "De Amerikaanse Federal Reserve (Fed) heeft de rente woensdag voor de tiende keer in een jaar tijd opgeschroefd. Daardoor ligt het belangrijkste rentetarief in de Verenigde Staten met 5 tot 5,25 procent op het hoogste niveau in zestien jaar.",
@@ -22593,21 +22623,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/o8qNrdXW_6bkA4y7Q6aDTdnBRkM=/1024x689/GettyImages-85506265-fe7420786dfd44688f807a48736f2ab1.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/manhattan-real-estate-spring-2023-7375156",
-          "author": "Staff Author",
-          "description": "One of the country’s most expensive—and most frozen—residential real estate markets is showing signs of a warmer-than-usual spring thaw.",
-          "link": "https://www.investopedia.com/manhattan-real-estate-spring-2023-7375156?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-04-04T15:04:41.000Z",
-          "wordCount": 3303,
-          "title": "Manhattan Residential Real Estate Shows Signs of Thawing",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/256rE0rkBzDYiRhdr-_ftHf_FuY=/6016x4016/skyline-82dd04b8524643cbb132733c6bb239ca.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/256rE0rkBzDYiRhdr-_ftHf_FuY=/6016x4016/skyline-82dd04b8524643cbb132733c6bb239ca.jpeg"
         }
       ]
     },
@@ -22616,6 +22631,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "oil-chaotic-selloff-worsens-7-232258587.html",
+          "author": null,
+          "description": "(Bloomberg) -- Oil sank to its lowest since 2021 as weak demand data from the US added to concerns that the global economy is set for a recession.Most Read from BloombergZelenskiy Denies Ukraine Sent Drones to Hit Putin, KremlinNigeria Targeted a UK Mansion; Its Next Leader’s Son Now Owns ItUS Looks Past India’s Rights Record as China Worries DeepenBanker Pay Surges For Those Willing to Work in Saudi ArabiaCarl Icahn’s Wealth Plunges $10 Billion on Hindenburg Short-Seller ReportWest Texas Interm",
+          "link": "https://finance.yahoo.com/news/oil-chaotic-selloff-worsens-7-232258587.html",
+          "publishedOn": "2023-05-04T01:38:29.000Z",
+          "wordCount": 11383,
+          "title": "Oil’s Chaotic Selloff Worsens With 7.2% Tumble at Asia Open",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/6dfa7a813625a23fd3dcaa07005656dd"
+        },
         {
           "id": "qualcomm-qcom-q2-earnings-report-2023-99c0fd5a?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -23005,6 +23030,16 @@
           "wordCount": 12189,
           "title": "Regional banks a focus for investors as Fed decision nears",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/C5ECJ5vF0gjMyDKxjzm8gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2023-04/c605e8d0-e98d-11ed-8aff-bb5d45404161"
+        },
+        {
+          "id": "pharma-giant-pfizer-start-selling-145133658.html",
+          "author": null,
+          "description": "Pfizer Inc (NYSE: PFE) is reportedly looking to start selling its stake in Haleon plc (NYSE: HLN). In June last, the pharma giant announced its plans to exit the ownership interest in Haleon in a disciplined manner after the demerger. Pfizer's CFO, Dave Denton, told the Financial Times that it intends to offload that stake in a \"slow and methodical\" manner within months. Pfizer retained its 32% stake in Haleon. GSK Plc (NYSE: GSK) has up to 13.5% in Haleon, while GSK shareholders will own the re",
+          "link": "https://finance.yahoo.com/news/pharma-giant-pfizer-start-selling-145133658.html",
+          "publishedOn": "2023-05-03T14:51:33.000Z",
+          "wordCount": 11633,
+          "title": "Pharma Giant Pfizer To Start Selling Haleon Stake Within Months, CFO Says",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/b247135c36b3ce642b35900abccb4718"
         },
         {
           "id": "exact-six-figure-salary-gen-145033024.html",
@@ -23755,6 +23790,16 @@
           "wordCount": 11414,
           "title": "Nikola Partners With Voltera On Hydrogen Station Funding",
           "imageUrl": "https://media.zenfs.com/en/Benzinga/60bf9dc55e173b3d2f53aa46ad93874a"
+        },
+        {
+          "id": "fdic-looks-change-deposit-insurance-160517586.html",
+          "author": null,
+          "description": "The Federal Deposit Insurance Corporation (FDIC) released a report this week seeking reform of its deposit insurance system due to recent instability in multiple U.S. banks.",
+          "link": "https://finance.yahoo.com/news/fdic-looks-change-deposit-insurance-160517586.html",
+          "publishedOn": "2023-05-02T16:05:17.000Z",
+          "wordCount": 11299,
+          "title": "FDIC looks to change deposit insurance policy following First Republic Bank failure",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/IURakABVsttSZldEGlpCng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_business_text_367/1f8f6c56b551cedbeb6cdfd2349c452a"
         },
         {
           "id": "top-3-lessons-bill-gates-155559109.html",
@@ -45535,16 +45580,6 @@
           "wordCount": 14432,
           "title": "Wall Street hasn’t been this pessimistic about stocks in years, says the Bank of America analyst who predicted the market slump",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/QS9EO8q4P5ml_XWfpUqH1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDQ-/https://media.zenfs.com/en/fortune_175/31c962e379cdce8cbc10fb557e4a5777"
-        },
-        {
-          "id": "billionaire-israel-englander-goes-big-143931684.html",
-          "author": null,
-          "description": "In this uncertain market environment, the educated investor would do well to seek out some signal that can cut through the noise and indicate the sound stock purchase choices. Following the legendary investors, the traders who build multi-billion dollar fortunes on the stock market trading scene, is a popular strategy. Among these Wall Street titans is Israel “Izzy” Englander. Englander serves as the Chairman, CEO and Co-Chief Investment Officer of Millennium Management, the hedge fund he founde",
-          "link": "https://finance.yahoo.com/news/billionaire-israel-englander-goes-big-143931684.html",
-          "publishedOn": "2023-04-04T14:39:31.000Z",
-          "wordCount": 14684,
-          "title": "Billionaire Israel Englander Goes Big on These 2 ‘Strong Buy’ Stocks",
-          "imageUrl": "https://media.zenfs.com/en/tipranks_452/135d21a2a4dc9439e5aac4d9abb49d88"
         }
       ]
     }
