@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "57846a3110da2e888c97ed28d00bce97",
+          "author": "Investopedia",
+          "description": "A report indicating PacWest Bancorp has begun considering options including a possible sale, slashed more than half of the bank's market value in extended hours trading Wednesday.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9666c4f51ab648749b8639b1f729609f484ace3d802cfc914d2557d26f9021c2df0a63d0f53cb0f9e66df1e98228e87bbd7257d5671c",
+          "publishedOn": "2023-05-04T13:15:10.628Z",
+          "wordCount": 411,
+          "title": "PacWest's Shares Plummet as It Considers Possible Sale",
+          "imageUrl": null
+        },
+        {
           "id": "25439b38f28de48704fc996dca93a829",
           "author": "Investopedia",
           "description": "JPMorgan's First Republic Bank purchase includes loss-sharing deal with FDIC, similar to its 2008 acquisition of Bear Stearns.",
@@ -947,6 +957,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6262210/",
+          "author": "Thijs Rösken",
+          "description": "De Europese Centrale Bank (ECB) heeft haar belangrijkste rentetarief opnieuw verhoogd. Belangrijkste doel is om de inflatie terug te brengen richting de 2 procent. Tot nu toe is de inflatie ondanks zes eerdere renteverhogingen hooguit gestabiliseerd.",
+          "link": "https://www.nu.nl/economie/6262210/ecb-verhoogt-rente-nog-eens-om-inflatie-te-temmen.html",
+          "publishedOn": "2023-05-04T13:12:51.000Z",
+          "wordCount": 1173,
+          "title": "ECB verhoogt rente nog eens om inflatie te temmen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/yw7xqvkaqke2_sqr256.jpg/ecb-verhoogt-rente-nog-eens-om-inflatie-te-temmen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/yw7xqvkaqke2_sqr256.jpg/ecb-verhoogt-rente-nog-eens-om-inflatie-te-temmen.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6262200/",
           "author": "Ertan Basekin",
@@ -7404,6 +7429,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/top-steel-stocks-q2-2023-7488232",
+          "author": "Noah Bolton",
+          "description": "Champion Iron, Reliance Steel, and Steel Dynamics lead the industry in revenue growth.",
+          "link": "https://www.investopedia.com/top-steel-stocks-q2-2023-7488232?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-05-04T12:51:08.000Z",
+          "wordCount": 5925,
+          "title": "Top Steel Stocks for Q2 2023",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/LSLi7vq0sDQvMwVs5muegmUnbCw=/4735x3157/jason-richard-Hlhc8gQUW6I-unsplash-466640590eb742ee8ba21be33a912ae1.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/LSLi7vq0sDQvMwVs5muegmUnbCw=/4735x3157/jason-richard-Hlhc8gQUW6I-unsplash-466640590eb742ee8ba21be33a912ae1.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/berkshire-2023-annual-meeting-preview-7488382",
+          "author": "Kevin George",
+          "description": "Berkshire Hathaway is expected to show higher revenues and net income at its latest annual meeting, as investors probe Buffett and Charlie Munger over regional banks.",
+          "link": "https://www.investopedia.com/berkshire-2023-annual-meeting-preview-7488382?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-05-04T12:30:00.000Z",
+          "wordCount": 5299,
+          "title": "What To Expect From Berkshire Hathaway And Warren Buffett This Weekend",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/89SKQivifBbXiEO5pMsOnlStdB4=/3000x2089/GettyImages-849890606-0ff6657abe6d4a2fad6412230f5a0c1f.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/89SKQivifBbXiEO5pMsOnlStdB4=/3000x2089/GettyImages-849890606-0ff6657abe6d4a2fad6412230f5a0c1f.jpg"
+        },
         {
           "id": "https://www.investopedia.com/q1-home-equity-drop-for-many-americans-7488722",
           "author": "Meg Cunningham",
@@ -22532,6 +22587,56 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-ahead-of-jobless-claims-pacwest-crashes-on-possible-sale/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-05-04T13:00:53.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Fall After Jobless Claims; PacWest Crashes 45% On Possible Sale",
+          "imageUrl": null
+        },
+        {
+          "id": "weight-loss-drugs-eli-lilly-mounjaro-novo-nordisk-ozempic-stock-buy-c5d4418c?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Weight-loss drugs from companies such as Eli Lilly and Novo Nordisk are poised to become big sellers. It isn’t too late to invest.",
+          "link": "https://www.barrons.com/articles/weight-loss-drugs-eli-lilly-mounjaro-novo-nordisk-ozempic-stock-buy-c5d4418c?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-05-04T12:42:00.000Z",
+          "wordCount": 11117,
+          "title": "Weight-Loss Drugs Will Be Blockbusters. Here’s the Stock to Buy.",
+          "imageUrl": "https://images.barrons.com/im-773655/social"
+        },
+        {
+          "id": "plummeting-bank-stocks-test-predictions-that-worst-of-the-crisis-is-over-123744150.html",
+          "author": null,
+          "description": "PacWest and other regional banks plunged overnight on a wave of new pessimism about the industry",
+          "link": "https://finance.yahoo.com/news/plummeting-bank-stocks-test-predictions-that-worst-of-the-crisis-is-over-123744150.html",
+          "publishedOn": "2023-05-04T12:37:44.000Z",
+          "wordCount": 12823,
+          "title": "Plummeting bank stocks test predictions that worst of the crisis is over",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/8FMlgsprpbtRgfaXEU5bdw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/8b190ea0-ea28-11ed-bf5b-9def8da17a66"
+        },
+        {
+          "id": "paramount-para-q1-earnings-report-2023-749549?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The media company said the charges are tied to a plan to remove certain programming as it combines streaming platforms. Shares fell more than 15% premarket.",
+          "link": "https://www.wsj.com/articles/paramount-para-q1-earnings-report-2023-749549?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-05-04T12:08:00.000Z",
+          "wordCount": 7592,
+          "title": "Paramount Posts Earnings Loss on $1.7 Billion Charge, Cuts Dividend",
+          "imageUrl": "https://images.wsj.net/im-775594/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-investors-fear-major-banks-are-still-a-hot-mess/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-05-04T12:00:07.000Z",
+          "wordCount": null,
+          "title": "Investors Fear 12 Major Banks Are Still A Hot Mess",
+          "imageUrl": null
+        },
+        {
           "id": "shopify-stock-earnings-43ff3a0e?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Wall Street had expected the e-commerce software company to post a fiscal first-quarter loss.",
@@ -22542,6 +22647,16 @@
           "imageUrl": "https://images.barrons.com/im-775399/social"
         },
         {
+          "id": "peloton-pton-q3-earnings-report-2023-a6b11e96?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The exercise-equipment company said quarterly revenue declined 22% as demand for connected fitness equipment continued to fall.",
+          "link": "https://www.wsj.com/articles/peloton-pton-q3-earnings-report-2023-a6b11e96?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-05-04T11:55:00.000Z",
+          "wordCount": 7354,
+          "title": "Peloton Losses Narrow as Subscription Business Stabilizes",
+          "imageUrl": "https://images.wsj.net/im-772799/social"
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -22550,6 +22665,16 @@
           "wordCount": null,
           "title": "Datadog Delivers Q1 Earnings Beat Amid Worries Over Cloud Computing",
           "imageUrl": null
+        },
+        {
+          "id": "zoetis-earnings-stock-price-a7f9c37f?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The animal health provider maintained its guidance for full year 2023 after first quarter earnings beat expectations.",
+          "link": "https://www.barrons.com/articles/zoetis-earnings-stock-price-a7f9c37f?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-05-04T11:35:00.000Z",
+          "wordCount": 12626,
+          "title": "Zoetis Stock Falls Amid Mixed Earnings Report",
+          "imageUrl": "https://images.barrons.com/im-481856/social"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -22590,6 +22715,16 @@
           "wordCount": 11176,
           "title": "Moderna Posts Earnings Beat. There’s Good News on Covid Vaccines Too.",
           "imageUrl": "https://images.barrons.com/im-775196/social"
+        },
+        {
+          "id": "auddev&yptr=yahoo",
+          "author": null,
+          "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+          "link": "https://www.ft.com/cms/s/d69dc286-b3e5-448e-964a-e7aaea26c81c,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev&yptr=yahoo",
+          "publishedOn": "2023-05-04T10:44:07.000Z",
+          "wordCount": 1599,
+          "title": "Icahn/Hindenburg: gadfly gets a taste of his own medicine",
+          "imageUrl": null
         },
         {
           "id": "oil-prices-under-pressure-on-economic-fears-and-gusher-of-russian-supply-c96f7576?siteid=yhoof2&yptr=yahoo",
@@ -22910,6 +23045,16 @@
           "wordCount": 11940,
           "title": "Icahn Short Sellers Reap Only a Fraction of Billionaire’s $6 Billion Stock Drop",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/87e0595aaede85f4aa8395a7babcdfe2"
+        },
+        {
+          "id": "ask-advisor-retirement-savings-were-202151430.html",
+          "author": null,
+          "description": "My retirement savings were wiped out in market changes over the last couple of years. I am planning on working for about five more years. What investment suggestions do you have this late in the game? – Daniel Sorry to … Continue reading → The post Ask an Advisor: My Retirement Savings Were Wiped Out. How Can I Recoup My Recent Investment Losses This ‘Late in the Game?' appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/ask-advisor-retirement-savings-were-202151430.html",
+          "publishedOn": "2023-05-03T20:21:51.000Z",
+          "wordCount": 12009,
+          "title": "Ask an Advisor: My Retirement Savings Were Wiped Out. How Can I Recoup My Recent Investment Losses This ‘Late in the Game?'",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/164b5ec08df81be9d3cf8377fb9ea5b3"
         },
         {
           "id": "anheuser-busch-earnings-on-tap-22b8854a?siteid=yhoof2&yptr=yahoo",
@@ -45280,26 +45425,6 @@
           "wordCount": 14718,
           "title": "Gold Holds Surge Past $2,000 With Record High Suddenly in Sight",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/5b1ac65de7317beab98e67207c358c87"
-        },
-        {
-          "id": "microsoft-hr-boss-wrote-legendary-005135292.html",
-          "author": null,
-          "description": "In the \"Year of Efficiency,\" executives could take a page out of Microsoft's infamous \"Shrimp and Weenie\" memo.",
-          "link": "https://finance.yahoo.com/news/microsoft-hr-boss-wrote-legendary-005135292.html",
-          "publishedOn": "2023-04-05T00:51:35.000Z",
-          "wordCount": 14688,
-          "title": "A Microsoft HR boss wrote a legendary memo 30 years ago about lavish employee perks and cost-cutting that offers important lessons for today’s tech companies",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/H_ycMYHbJ59Ij65YWmaAPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/0643ece7dd333d1b53f8ff234eaeb9e6"
-        },
-        {
-          "id": "fed-mester-says-rates-rise-224500247.html",
-          "author": null,
-          "description": "(Bloomberg) -- Federal Reserve Bank of Cleveland President Loretta Mester said policymakers should move their benchmark rate above 5% this year and hold it at restrictive levels for some time to quell inflation, with the exact level depending on how quickly price pressures ease.Most Read from BloombergWarner Bros. Nears Deal for Harry Potter Online TV SeriesToronto-Dominion Becomes Biggest Bank Short With $3.7 Billion on the LineChina’s Yuan Replaces Dollar as Most Traded Currency in RussiaJamie",
-          "link": "https://finance.yahoo.com/news/fed-mester-says-rates-rise-224500247.html",
-          "publishedOn": "2023-04-05T00:25:24.000Z",
-          "wordCount": 14631,
-          "title": "Fed’s Mester Says Rates Should Rise Above 5%, Stay for Some Time",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/vX4Wpw5IUPLX5sfIIsPx4g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/e89c8b9297f528f76631555e50a421b3"
         }
       ]
     }
