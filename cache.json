@@ -919,16 +919,6 @@
           "wordCount": 412,
           "title": "5 Things to Know Before Markets Open",
           "imageUrl": null
-        },
-        {
-          "id": "8e61a1e7e1c2c716fd964772b6e6659c",
-          "author": "rss.app",
-          "description": "",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b66d5e91ab14f74868b2fb0bf6e79dd13089364c6",
-          "publishedOn": "2023-04-09T19:09:06.921Z",
-          "wordCount": 412,
-          "title": "Stocks & Bond News, Trading News, ETF News",
-          "imageUrl": null
         }
       ]
     },
@@ -937,6 +927,66 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6262820/",
+          "author": "onze economieredactie",
+          "description": "Tesla bouwt een eigen fabriek die lithium gaat produceren. De autofabrikant trekt 375 miljoen dollar (341 miljoen euro) uit voor de fabriek, die in de Amerikaanse staat Texas komt te staan.",
+          "link": "https://www.nu.nl/economie/6262820/tesla-investeert-honderden-miljoenen-dollars-in-een-eigen-lithiumfabriek.html",
+          "publishedOn": "2023-05-09T07:04:19.000Z",
+          "wordCount": 830,
+          "title": "Tesla investeert honderden miljoenen dollars in een eigen lithiumfabriek",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/xsjxn1sakudb_sqr256.jpg/tesla-investeert-honderden-miljoenen-dollars-in-een-eigen-lithiumfabriek.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/xsjxn1sakudb_sqr256.jpg/tesla-investeert-honderden-miljoenen-dollars-in-een-eigen-lithiumfabriek.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6262818/",
+          "author": "onze techredactie",
+          "description": "Twitter gaat accounts die al meerdere jaren niet zijn gebruikt opruimen. Door deze maatregel zullen veel twitteraars volgers kwijtraken.",
+          "link": "https://www.nu.nl/tech/6262818/twitter-verwijdert-accounts-die-niet-in-gebruik-zijn.html",
+          "publishedOn": "2023-05-09T07:02:39.000Z",
+          "wordCount": 792,
+          "title": "Twitter verwijdert accounts die niet in gebruik zijn",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/7vpxsxmat52p_sqr256.jpg/twitter-verwijdert-accounts-die-niet-in-gebruik-zijn.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/7vpxsxmat52p_sqr256.jpg/twitter-verwijdert-accounts-die-niet-in-gebruik-zijn.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6262813/",
+          "author": "onze techredactie",
+          "description": "LinkedIn gaat 716 banen schrappen. Dat komt neer op 3,5 procent van het totale personeelsbestand. Het zakelijke sociale netwerk verwacht een zwakkere economische groei en wil daarom kosten besparen.",
+          "link": "https://www.nu.nl/tech/6262813/linkedin-stuurt-ruim-zevenhonderd-medewerkers-de-laan-uit.html",
+          "publishedOn": "2023-05-09T06:32:53.000Z",
+          "wordCount": 765,
+          "title": "LinkedIn stuurt ruim zevenhonderd medewerkers de laan uit",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/s09xsllaapty_sqr256.jpg/linkedin-stuurt-ruim-zevenhonderd-medewerkers-de-laan-uit.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/s09xsllaapty_sqr256.jpg/linkedin-stuurt-ruim-zevenhonderd-medewerkers-de-laan-uit.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6262734/",
+          "author": "José Boon",
+          "description": "Met nieuwe binnenkomer Negin Mirsalehi telt Quote's lijst van de rijkste jonge selfmade miljonairs dit jaar vier in plaats van drie vrouwen. De drie allerrijkste Nederlanders onder de veertig jaar zijn dezelfde drie mannen als vorig jaar.",
+          "link": "https://www.nu.nl/economie/6262734/influencer-negin-mirsalehi-enige-nieuwe-vrouw-in-top-100-jonge-megarijken.html",
+          "publishedOn": "2023-05-09T06:15:01.000Z",
+          "wordCount": 958,
+          "title": "Influencer Negin Mirsalehi enige nieuwe vrouw in top 100 jonge megarijken",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/klexg4wageeu_sqr256.jpg/influencer-negin-mirsalehi-enige-nieuwe-vrouw-in-top-100-jonge-megarijken.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/klexg4wageeu_sqr256.jpg/influencer-negin-mirsalehi-enige-nieuwe-vrouw-in-top-100-jonge-megarijken.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6262734/",
           "author": "José Boon",
@@ -22736,6 +22786,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "indicted-ftx-founder-sam-bankman-012707410.html",
+          "author": null,
+          "description": "NEW YORK (Reuters) -Sam Bankman-Fried, who has long denied stealing from customers of his FTX cryptocurrency exchange, on Monday asked a U.S. judge to throw out criminal charges against him over the now-bankrupt FTX's collapse.  In a filing in Manhattan federal court, Bankman-Fried's lawyers said several of the charges failed to properly state an offense.  Bankman-Fried, a 31-year-old former billionaire, has largely been confined to his parents' home since his December arrest in the Bahamas, where he had lived and where FTX was based.",
+          "link": "https://finance.yahoo.com/news/indicted-ftx-founder-sam-bankman-012707410.html",
+          "publishedOn": "2023-05-09T01:27:07.000Z",
+          "wordCount": 11312,
+          "title": "Indicted FTX founder Bankman-Fried urges court to toss charges",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/284395e959bd5d3f780fc545ae29d5ee"
+        },
         {
           "id": "schwab-began-hedging-interest-rate-005933433.html",
           "author": null,
@@ -46115,26 +46175,6 @@
           "wordCount": 11393,
           "title": "Tesla faces possible class-action lawsuit after allegations workers secretly shared images from car cameras",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/IQhtoTTdu6vopDvodE3LnA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_business_text_367/ba7d42ec15bb13c213ebaf5a286b0b4b"
-        },
-        {
-          "id": "stocks-to-watch-this-week-jpmorgan-chase-delta-inflation-data-d3b249a3?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "First-quarter earnings season begins with results from Delta, Fastenal, Citigroup, JPMorgan Chase, Wells Fargo, UnitedHealth, and more. Plus, March CPI and PPI.",
-          "link": "https://www.barrons.com/articles/stocks-to-watch-this-week-jpmorgan-chase-delta-inflation-data-d3b249a3?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-04-09T19:00:00.000Z",
-          "wordCount": 6892,
-          "title": "JPMorgan Chase, Delta, Inflation Data, the Fed, and More to Watch This Week",
-          "imageUrl": "https://images.barrons.com/im-699166/social"
-        },
-        {
-          "id": "welcome-era-petrodollar-power-184913270.html",
-          "author": null,
-          "description": "What are the hundreds of billions of oil riches being spent on?",
-          "link": "https://finance.yahoo.com/news/welcome-era-petrodollar-power-184913270.html",
-          "publishedOn": "2023-04-09T18:49:13.000Z",
-          "wordCount": 13127,
-          "title": "Welcome to a new era of petrodollar power",
-          "imageUrl": "https://media.zenfs.com/en/the_economist_group_401/5501bf3ebe09393cc98463bef0f0c11b"
         }
       ]
     }
