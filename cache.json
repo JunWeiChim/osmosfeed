@@ -938,6 +938,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6263053/",
+          "author": "onze economieredactie",
+          "description": "Heineken kreeg vorige maand een dwangsom opgelegd omdat het nog blikjes produceerde zonder statiegeld erop. Maar omdat de bierbrouwer zijn productieproces snel aanpaste, hoeft het die dwangsom niet te betalen, meldt inspectiedienst ILT.",
+          "link": "https://www.nu.nl/economie/6263053/heineken-ontloopt-dwangsom-voor-blikjes-zonder-statiegeld.html",
+          "publishedOn": "2023-05-10T14:08:36.000Z",
+          "wordCount": 965,
+          "title": "Heineken ontloopt dwangsom voor blikjes zonder statiegeld",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/u43xjqlabejp_sqr256.jpg/heineken-ontloopt-dwangsom-voor-blikjes-zonder-statiegeld.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/u43xjqlabejp_sqr256.jpg/heineken-ontloopt-dwangsom-voor-blikjes-zonder-statiegeld.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6263033/",
           "author": "onze economieredactie",
           "description": "Drie bedrijven die eiproducten produceren maakten verboden prijsafspraken en kochten zo hun eieren jarenlang extra goedkoop in. Daar zijn kippenboeren de dupe van geweest. De inkopers krijgen nu boetes van toezichthouder ACM (Autoriteit Consument & Markt).",
@@ -7545,12 +7560,27 @@
       "siteUrl": "https://www.investopedia.com",
       "articles": [
         {
+          "id": "https://www.investopedia.com/gas-and-vehicle-prices-fueled-stubborn-inflation-in-april-7496088",
+          "author": "Staff Author",
+          "description": "Inflation, which has been in retreat for months, barely budged in April as price increases for housing, gas, and vehicles kept the overall rise in the cost of living too high for comfort.",
+          "link": "https://www.investopedia.com/gas-and-vehicle-prices-fueled-stubborn-inflation-in-april-7496088?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-05-10T13:36:03.000Z",
+          "wordCount": 4788,
+          "title": "Gas and Vehicle Prices Fueled Stubborn Inflation in April",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/jtxpeUDrXHxqs04WV34FV-S6BV8=/5700x3800/GettyImages-1461612224-b045c108bcc64140af5671aa6224bd29.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/jtxpeUDrXHxqs04WV34FV-S6BV8=/5700x3800/GettyImages-1461612224-b045c108bcc64140af5671aa6224bd29.jpg"
+        },
+        {
           "id": "https://www.investopedia.com/news/does-your-financial-advisor-speak-crypto/",
           "author": "Pam Krueger",
           "description": "As cryptocurrency gains popularity, consider speaking with a financial advisor about potential risks and rewards that come with the investment. Here's what they may say.",
           "link": "https://www.investopedia.com/news/does-your-financial-advisor-speak-crypto/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
           "publishedOn": "2023-05-10T13:09:14.000Z",
-          "wordCount": 7942,
+          "wordCount": 7952,
           "title": "Does Your Financial Advisor Speak Crypto?",
           "enclosure": {
             "url": "https://www.investopedia.com/thmb/3ZGposGnYKPYWxCrhNL7Ox4jG70=/680x440/shutterstock_213601798-5bfc321fc9e77c0026b63736.jpg",
@@ -7565,7 +7595,7 @@
           "description": "Many traders are moving to become algorithmic traders but struggle with the coding of their trading robots. Learn here the fundamentals of algorithmic trading.",
           "link": "https://www.investopedia.com/articles/active-trading/081315/how-code-your-own-algo-trading-robot.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
           "publishedOn": "2023-05-10T13:05:41.000Z",
-          "wordCount": 6653,
+          "wordCount": 6643,
           "title": "Stock Trading Bot: Coding Your Own Trading Algo",
           "enclosure": {
             "url": "https://www.investopedia.com/thmb/DPQAaOt56FFoW83k2M7dXGPA9Yg=/680x440/shutterstock_268518818-5bfc35e5c9e77c005145dc24.jpg",
@@ -7580,7 +7610,7 @@
           "description": "Administered by the Federal Reserve, the Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) is a quarterly survey of domestic institutions and foreign institutions operating in the United States.",
           "link": "https://www.investopedia.com/terms/s/soslp.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
           "publishedOn": "2023-05-10T12:43:46.000Z",
-          "wordCount": 5983,
+          "wordCount": 5998,
           "title": "Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) Definition",
           "enclosure": {
             "url": "https://www.investopedia.com/thmb/T9e38czHYxJOFtU8WQ2gStVn1QE=/4000x2700/soslp.asp-final-7718942477f14372807381e17b4ac751.jpg",
@@ -22767,14 +22797,94 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-ahead-of-cpi-inflation-data-airbnb-plunges-on-earnings/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-05-10T13:49:55.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Reverses Lower On CPI Inflation Data; Airbnb Plunges 14% On Earnings",
+          "imageUrl": null
+        },
+        {
           "id": "airbnb-earnings-first-quarter-may-9-2023-130034763.html",
           "author": null,
           "description": "Airbnb told investors the second quarter is turning out to be a \"tougher comp\" for the company, spooking markets early Wednesday.",
           "link": "https://finance.yahoo.com/news/airbnb-earnings-first-quarter-may-9-2023-130034763.html",
-          "publishedOn": "2023-05-10T13:00:34.000Z",
+          "publishedOn": "2023-05-10T13:45:20.000Z",
           "wordCount": 12089,
-          "title": "Airbnb stocks falls 15% after company forecasts revenue slowdown",
+          "title": "Airbnb stock falls 14% after company forecasts revenue slowdown",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/WT6Kkj3pPEBgnw4HRXVh3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/25e99d60-ee8d-11ed-9b7f-da53df2c3c6c"
+        },
+        {
+          "id": "roblox-stock-earnings-910f6eca?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The videogame platform reports a first-quarter loss that was wider than a year earlier and wider than analysts expected.",
+          "link": "https://www.barrons.com/articles/roblox-stock-earnings-910f6eca?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-05-10T13:42:00.000Z",
+          "wordCount": 7613,
+          "title": "Roblox Losses Widen. It’s Looking to Get Costs Under Control.",
+          "imageUrl": "https://images.barrons.com/im-778761/social"
+        },
+        {
+          "id": "shocking-deterioration-bud-light-sales-132059769.html",
+          "author": null,
+          "description": "No matter what your personal view is on celebrity endorsements, there’s no denying that their support can significantly boost the visibility of a product. That is the point after all in getting a well-known figure in some promotional activities. But what happens when the chosen celebrity happens to be the wrong fit? Well, Anheuser-Busch can tell you all about that. The Bud Light-owner decided to run a promotional push for the beer by bringing on board transgender ‘influencer’ Dylan Mulvaney, who",
+          "link": "https://finance.yahoo.com/news/shocking-deterioration-bud-light-sales-132059769.html",
+          "publishedOn": "2023-05-10T13:20:59.000Z",
+          "wordCount": 12409,
+          "title": "‘Shocking Deterioration’: Bud Light Sales Hit Hard in April Amid Dylan Mulvaney Controversy — Here Are 2 Stocks That Are Poised to Benefit",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/f6018d38ff907ce3b0d08d4c7a7cf0ba"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/teva-stock-teva-earnings-q1-2023/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-05-10T13:15:02.000Z",
+          "wordCount": null,
+          "title": "Teva Pharma Crumbles After First-Quarter Earnings Miss, Flat Sales",
+          "imageUrl": null
+        },
+        {
+          "id": "eu-decision-clearing-69-billion-131322643.html",
+          "author": null,
+          "description": "EU antitrust regulators are set to approve Microsoft Corp's $69 billion acquisition of Activision next week, with May 15 as the likeliest date, people familiar with the matter said.  The European Commission's imminent clearance comes nearly three weeks after the UK competition authority blocked the deal, the biggest-ever deal in gaming, over concerns it would hinder competition in cloud gaming.  The EU antitrust enforcer is expected to clear the acquisition after Microsoft agreed to licensing deals with cloud streaming rivals including Nvidia, Ukraine's Boosteroid and Japan's Ubitus, other people with direct knowledge of the matter told Reuters in March.",
+          "link": "https://finance.yahoo.com/news/eu-decision-clearing-69-billion-131322643.html",
+          "publishedOn": "2023-05-10T13:13:22.000Z",
+          "wordCount": 11505,
+          "title": "EU decision clearing $69 billion Microsoft, Activision deal expected May 15, sources say",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/5d228a49e0ed6a670547d28352dbd2ca"
+        },
+        {
+          "id": "ask-advisor-am-giving-away-195756248.html",
+          "author": null,
+          "description": "Why does a financial advisor get a fee of 1% or more? That seems really high. If my return is only 4% (for example, in dividends), I am giving away 25% of my return, which is even worse with a … Continue reading → The post Ask an Advisor: ‘I Am Giving Away 25% of My Return.' Why Does a Financial Advisor Earn a 1% Fee, Even in a Bear Market? appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/ask-advisor-am-giving-away-195756248.html",
+          "publishedOn": "2023-05-10T13:00:57.000Z",
+          "wordCount": 12293,
+          "title": "Ask an Advisor: ‘I Am Giving Away 25% of My Return.' Why Does a Financial Advisor Earn a 1% Fee, Even in a Bear Market?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Kl3qzsExJIqPzlaBv1LmOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/smartasset_475/eb58b4d557a5f4fb658f0fa5f0661f03"
+        },
+        {
+          "id": "paramount-didnt-follow-warren-buffetts-advice-morning-brief-130005827.html",
+          "author": null,
+          "description": "It may be a short time in this one media stock for the Oracle of Omaha.",
+          "link": "https://finance.yahoo.com/news/paramount-didnt-follow-warren-buffetts-advice-morning-brief-130005827.html",
+          "publishedOn": "2023-05-10T13:00:05.000Z",
+          "wordCount": 12055,
+          "title": "Paramount didn't follow Warren Buffett's advice: Morning Brief",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/yycTBrTP.PLi570Qr3549A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02OTc-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/c98b9610-eed0-11ed-abef-fd2b5ee656fc"
+        },
+        {
+          "id": "average-retirement-savings-married-couples-180729139.html",
+          "author": null,
+          "description": "A recent study from the career experts Zety says that 40% of respondents fear retirement more than death. And almost nine in 10 responded that their biggest retirement fear is not having enough income. For married couples, planning retirement for two people can … Continue reading → The post Average Retirement Savings for Married Couples By Age appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/average-retirement-savings-married-couples-180729139.html",
+          "publishedOn": "2023-05-10T13:00:04.000Z",
+          "wordCount": 12023,
+          "title": "Do You & Your Partner Have Above Average Retirement Savings For Your Age?",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/b57fdbf1c1a840f503bac58b7e4d35fb"
         },
         {
           "id": "us-april-cpi-rise-gives-125534419.html",
@@ -22783,28 +22893,8 @@
           "link": "https://finance.yahoo.com/news/us-april-cpi-rise-gives-125534419.html",
           "publishedOn": "2023-05-10T12:55:34.000Z",
           "wordCount": 11296,
-          "title": "US April CPI rise gives Fed little room to ease soon - INSTANT VIEW",
+          "title": "US April CPI rise gives Fed little room for pivot soon",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/3d941a6685ec1c5f0e9cf528760b1858"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-ahead-of-cpi-inflation-data-airbnb-plunges-on-earnings/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-05-10T12:52:55.000Z",
-          "wordCount": null,
-          "title": "Dow Jones Futures Reverse Higher On CPI Inflation Data; Airbnb Plunges 14% On Earnings",
-          "imageUrl": null
-        },
-        {
-          "id": "roblox-stock-earnings-910f6eca?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The videogame platform reports a first-quarter loss that was wider than a year earlier and wider than analysts expected.",
-          "link": "https://www.barrons.com/articles/roblox-stock-earnings-910f6eca?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-10T12:49:00.000Z",
-          "wordCount": 7581,
-          "title": "Roblox Stock Falls as Losses Widen",
-          "imageUrl": "https://images.barrons.com/im-778761/social"
         },
         {
           "id": "april-cpi-inflation-data-may-10-2023-123320030.html",
@@ -22822,7 +22912,7 @@
           "description": "The all-new Ranger pickup will help Ford extend its leadership in the lucrative truck segment around the world.",
           "link": "https://www.barrons.com/articles/ford-new-gas-powered-truck-stock-6885a215?siteid=yhoof2&yptr=yahoo",
           "publishedOn": "2023-05-10T12:33:00.000Z",
-          "wordCount": 6694,
+          "wordCount": 6691,
           "title": "Ford Introduces a New Gas-Powered Truck Aimed at Global Dominance",
           "imageUrl": "https://images.barrons.com/im-779247/social"
         },
@@ -22832,7 +22922,7 @@
           "description": "Twilio expects second-quarter revenue of between $980 million and $990 million, which is below analysts' expectations.",
           "link": "https://www.barrons.com/articles/twilio-stock-earnings-guidance-bbe61f28?siteid=yhoof2&yptr=yahoo",
           "publishedOn": "2023-05-10T12:31:00.000Z",
-          "wordCount": 6675,
+          "wordCount": 6678,
           "title": "Twilio Stock Sinks. Guidance Is ‘Tough Pill to Swallow.’",
           "imageUrl": "https://images.barrons.com/im-334349/social"
         },
@@ -22845,16 +22935,6 @@
           "wordCount": 11343,
           "title": "Icahn Enterprises shares slide on surprise quarterly loss",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/a97212b90b2ce8eef8e4ad620791b28a"
-        },
-        {
-          "id": "syneos-health-close-being-acquired-121321930.html",
-          "author": null,
-          "description": "A group of investors, including Elliott Investment Management, Patient Square Capital, and Veritas Capital, is close to acquiring Syneos Health Inc (NASDAQ: SYNH) for more than $7 billion, including debt. Bloomberg News first reported the news of the investment consortium's talks with Syneos. The consortium will pay about $43 per share in cash for Syneos, representing a 14% gain to Syneos' value on February 24, the last trading day before Reuters reported that the company was exploring a sale. T",
-          "link": "https://finance.yahoo.com/news/syneos-health-close-being-acquired-121321930.html",
-          "publishedOn": "2023-05-10T12:13:21.000Z",
-          "wordCount": 11587,
-          "title": "Syneos Health Close To Being Acquired For $7B - Elliott, Patient Square and Veritas Investment Consortium Lead Deal",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/bad47517510f354e1b47ef215334c4e2"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -22873,7 +22953,7 @@
           "link": "https://finance.yahoo.com/news/ai-lending-firm-upstart-jumps-120122451.html",
           "publishedOn": "2023-05-10T12:01:22.000Z",
           "wordCount": 11585,
-          "title": "AI lending firm Upstart jumps as $2 billion funding news squeezes bears",
+          "title": "AI lending firm Upstart jumps as $2 billion funding squeezes bears",
           "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
         },
         {
