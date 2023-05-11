@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "cdbbcf9e082788f17e40f3dbe689099d",
+          "author": "Investopedia",
+          "description": "Robinhood Markets (HOOD) shares are advancing as the online retail brokerage reported better-than-expected financial results, and said it's expanding services including enabling 24-hour trading.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9468c5eb11ad53368cc32babf328289c0958c2398b75b09a472a409664937e83c65764ccf327ffe1f121e6e1802ae820e83f01813c025f0755aaa2fa8d",
+          "publishedOn": "2023-05-11T20:12:18.107Z",
+          "wordCount": 411,
+          "title": "Robinhood Shares Gain Ahead of 24-Hour Trading Launch",
+          "imageUrl": null
+        },
+        {
           "id": "b3622d864b60e01cb84fb419a4608782",
           "author": "Investopedia",
           "description": "PacWest shares fell more than 25% after the struggling regional bank reported deposit outflows of 9.5% last week, reigniting concerns about the health of the bank.",
@@ -7616,21 +7626,6 @@
             "url": "https://media.nu.nl/m/0k0xtz6a0bt9_sqr256.jpg/huurprijzen-dalen-maar-niet-in-de-grote-steden.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/0k0xtz6a0bt9_sqr256.jpg/huurprijzen-dalen-maar-niet-in-de-grote-steden.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6259118/",
-          "author": "Eva Schouten",
-          "description": "Voormalig eigenaar van de HEMA Marcel Boekhoorn doet een stap terug als hoogste baas bij zijn investeringsmaatschappij Ramphastos Investments. De huidige eigenaar van Ouwehands Dierenpark is nu 63 jaar. Boekhoorn vergaarde zijn fortuin onder andere met het oplappen en doorverkopen van telecombedrijf Telfort.",
-          "link": "https://www.nu.nl/economie/6259118/voormalig-hema-eigenaar-marcel-boekhoorn-doet-een-stapje-terug.html",
-          "publishedOn": "2023-04-12T07:56:12.000Z",
-          "wordCount": 791,
-          "title": "Voormalig HEMA-eigenaar Marcel Boekhoorn doet een stapje terug",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/locxzccalu9m_sqr256.jpg/voormalig-hema-eigenaar-marcel-boekhoorn-doet-een-stapje-terug.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/locxzccalu9m_sqr256.jpg/voormalig-hema-eigenaar-marcel-boekhoorn-doet-een-stapje-terug.jpg"
         }
       ]
     },
@@ -7639,6 +7634,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/personal-finance/012516/how-hire-retirement-advisor.asp",
+          "author": "Adam Hayes",
+          "description": "Making a retirement plan usually shouldn’t be a do-it-yourself project unless you have expert knowledge and experience. Here is how to get help.",
+          "link": "https://www.investopedia.com/articles/personal-finance/012516/how-hire-retirement-advisor.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-05-11T19:57:33.000Z",
+          "wordCount": 7073,
+          "title": "How to Hire a Retirement Advisor",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/FYND7aSnkxx9rHynPTQNfqfrwDI=/2121x1414/GettyImages-1163568524-65ded4e2117d46eba6b8db2eeaee271a.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/FYND7aSnkxx9rHynPTQNfqfrwDI=/2121x1414/GettyImages-1163568524-65ded4e2117d46eba6b8db2eeaee271a.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-may-11-2023-rates-ease-7497007",
+          "author": "Staff Author",
+          "description": "After climbing for four days, mortgage rates took a notable turn downward with the 30-year average easing after almost returning to 7% territory.",
+          "link": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-may-11-2023-rates-ease-7497007?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-05-11T19:46:18.000Z",
+          "wordCount": 5616,
+          "title": "Today's Mortgage Rates & Trends - May 11, 2023: Rates Ease",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Jbik1dMCTUmsXd1V41Yafg6AawY=/4000x2700/March23MortageRatesNews-11-582359f382d042bc95fbd3320539daee.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Jbik1dMCTUmsXd1V41Yafg6AawY=/4000x2700/March23MortageRatesNews-11-582359f382d042bc95fbd3320539daee.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/top-cd-rates-today-may-11-7497111",
+          "author": "Staff Author",
+          "description": "See what today's top nationwide rate is for every CD term, and how it compares to the previous business day's top rate. We collect data from more than 200 financial institutions.",
+          "link": "https://www.investopedia.com/top-cd-rates-today-may-11-7497111?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-05-11T19:23:44.000Z",
+          "wordCount": 5076,
+          "title": "Top CD Rates Today, May 11",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/39r_rnoB-ZCElCJQC8IGn3aBLMo=/5125x3410/05Blackwomanhelpingelderlymotheratlaptop-JGITomGrill-54e2f070a174404090f0cfecf3b464e2.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/39r_rnoB-ZCElCJQC8IGn3aBLMo=/5125x3410/05Blackwomanhelpingelderlymotheratlaptop-JGITomGrill-54e2f070a174404090f0cfecf3b464e2.jpeg"
+        },
         {
           "id": "https://www.investopedia.com/articles/investing/022516/worlds-top-5-silver-mining-companies.asp",
           "author": "Matthew Johnston",
@@ -23062,6 +23102,36 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "nvidia-beat-q1-expectations-analyst-191143824.html",
+          "author": null,
+          "description": "Rosenblatt analyst Hans Mosesmann reiterates Nvidia Corp (NASDAQ: NVDA) with a Buy and a $320 price target. The analyst expects Nvidia to meet or slightly beat April quarter and July quarter outlook expectations on data center Hopper H100 ramp, solid Gaming trends (Ada Lovelace), and stable networking (NICs, switching, and DPUs). He sees Nvidia driving the biggest technology inflection the world may have seen in transformational AI everywhere and in everything. Jensen’s AI vision is openly playi",
+          "link": "https://finance.yahoo.com/news/nvidia-beat-q1-expectations-analyst-191143824.html",
+          "publishedOn": "2023-05-11T19:11:43.000Z",
+          "wordCount": 11547,
+          "title": "Will Nvidia Beat Q1 Expectations? Analyst Says Likely, Backed By AI and Gaming GPU Ramp Up",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/30af2a46a982e3761e580ff610fb9519"
+        },
+        {
+          "id": "bud-light-stock-price-controversy-24b47138?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shares of beer maker Anheuser-Busch InBev stock are down again as a conservative boycott continues to loom over the company.",
+          "link": "https://www.barrons.com/articles/bud-light-stock-price-controversy-24b47138?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-05-11T19:10:00.000Z",
+          "wordCount": 6676,
+          "title": "BUD Stock Has Fallen for Five Days. The Boycott Blues Have Kicked Back In.",
+          "imageUrl": "https://images.barrons.com/im-780032/social"
+        },
+        {
+          "id": "charlie-munger-pockets-70-000-185148690.html",
+          "author": null,
+          "description": "Charlie Munger, Warren Buffett's right-hand man, spent $1,000 on oil royalties in 1962. He now receives 70 times that amount from them each year.",
+          "link": "https://finance.yahoo.com/news/charlie-munger-pockets-70-000-185148690.html",
+          "publishedOn": "2023-05-11T18:51:48.000Z",
+          "wordCount": 11622,
+          "title": "Charlie Munger pockets $70,000 a year from a $1,000 investment he made in 1962 - and has likely raked in over $1 million in total",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/J9yHc3iLR4mKzhQSSVDtUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/6cc31dd5e8e9be361ee827e7f6b68c1e"
+        },
+        {
           "id": "ev-startups-are-proving-warren-buffett-right-9ca794b0?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Polestar became the latest electric-vehicle manufacturer to cut its forecast for 2023 deliveries on Thursday, sending its stock down 11%.",
@@ -23080,6 +23150,16 @@
           "wordCount": 12193,
           "title": "Disney CEO Bob Iger says more price hikes coming to streaming services amid profitability push",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/2GAbOjwh5eOwFCo5Mc2FZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://s.yimg.com/os/creatr-uploaded-images/2023-04/88bef2d0-e2a5-11ed-bfdf-335193baa36a"
+        },
+        {
+          "id": "supreme-court-backs-california-humane-140914167.html",
+          "author": null,
+          "description": "(Bloomberg) -- The US Supreme Court upheld California’s new humane-pork law, rejecting an industry challenge in a ruling buttressing the power of states to impose rules that have a broad economic impact on other parts of the country.Most Read from BloombergHedge Funds Drive Credit Suisse CDS Higher on Bets of a PayoutSteve Schwarzman Holds Off Giving Money to DeSantis After Meeting HimAbu Dhabi Royal’s Firm Shorts US Stocks on Global Recession FearsJamie Dimon Says US Needs to 'Finish' the Bank",
+          "link": "https://finance.yahoo.com/news/supreme-court-backs-california-humane-140914167.html",
+          "publishedOn": "2023-05-11T16:13:11.000Z",
+          "wordCount": 11207,
+          "title": "High Court Backs California Humane-Pork Law in Industry Loss",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/p7nEP7hZGMfJDbhYG2iOvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/3ffd4cc34f215ec4ff0fe9dce8ef2ada"
         },
         {
           "id": "donald-trump-us-debt-ceiling-default-economy-b56ce225?siteid=yhoof2&yptr=yahoo",
@@ -46890,26 +46970,6 @@
           "wordCount": 11553,
           "title": "A once high-flying health-tech startup’s co-founders were convicted of fraud of more than $1 billion",
           "imageUrl": "https://media.zenfs.com/en/quartz.com/dd068c82025f30c55731ab11a2c5c0b2"
-        },
-        {
-          "id": "shark-tank-kevin-o-leary-074210446.html",
-          "author": null,
-          "description": "“You’re not going to have a wind aircraft take you across the ocean,” the investor said on Tuesday.",
-          "link": "https://finance.yahoo.com/news/shark-tank-kevin-o-leary-074210446.html",
-          "publishedOn": "2023-04-12T07:42:10.000Z",
-          "wordCount": 11189,
-          "title": "Shark Tank’s Kevin O’Leary says he wants to build a $14 billion oil refinery and predicts the U.S. won’t stop using hydrocarbons for 50 years",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/qVmSmEljjenrEhA4_laxAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/04dca0f4b32a257f446dad2f1dd0c040"
-        },
-        {
-          "id": "asian-stocks-poised-modest-gains-220154009.html",
-          "author": null,
-          "description": "(Bloomberg) -- Asian stocks gave up much of their gains as traders weigh the potential for US inflation data due Wednesday to spur volatility across global markets. Most Read from BloombergKatie Cotton, Guardian of the Apple Brand for 18 Years, DiesTwitter Company ‘No Longer Exists,’ Is Now Part of Musk’s XElizabeth Holmes Will Have to Wait Out Her Appeal in PrisonTumbling Money Supply Alarms Economists Who Foresaw InflationRich Chinese Splashing Out on Luxury Have Yet to Invest Big in Singapore",
-          "link": "https://finance.yahoo.com/news/asian-stocks-poised-modest-gains-220154009.html",
-          "publishedOn": "2023-04-12T07:29:54.000Z",
-          "wordCount": 11577,
-          "title": "Stocks, US Futures Muted as Traders Await US CPI: Markets Wrap",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/3e655411904c586d67f0b93bf89ac23f"
         }
       ]
     }
