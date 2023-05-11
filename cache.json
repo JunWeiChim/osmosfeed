@@ -7596,21 +7596,6 @@
             "url": "https://media.nu.nl/m/oetx8lcaonaa_sqr256.jpg/roompot-mag-landal-greenparks-overnemen-na-verkoop-vakantieparken.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/oetx8lcaonaa_sqr256.jpg/roompot-mag-landal-greenparks-overnemen-na-verkoop-vakantieparken.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6259145/",
-          "author": "onze economieredactie",
-          "description": "Als er na de financiële crisis in 2008 geen hervormingen waren doorgevoerd, zouden het faillissement van twee Amerikaanse banken en de val van Credit Suisse tot veel meer chaos hebben geleid. Dat denkt Klaas Knot, vooral bekend als president van De Nederlandsche Bank.",
-          "link": "https://www.nu.nl/economie/6259145/knot-chaos-rond-banken-veel-groter-zonder-hervormingen.html",
-          "publishedOn": "2023-04-12T10:00:33.000Z",
-          "wordCount": 891,
-          "title": "Knot: Chaos rond banken veel groter zonder hervormingen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/1ahxy1sadys7_sqr256.jpg/knot-chaos-rond-banken-veel-groter-zonder-hervormingen.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/1ahxy1sadys7_sqr256.jpg/knot-chaos-rond-banken-veel-groter-zonder-hervormingen.jpg"
         }
       ]
     },
@@ -7619,6 +7604,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/how-credit-union-auto-loans-work-7484368",
+          "author": "Matt Ryan Webber",
+          "description": "Auto loans from credit unions can offer lower interest rates than from banks or dealerships, but may be less convenient to apply for. Learn about the pros and cons.",
+          "link": "https://www.investopedia.com/how-credit-union-auto-loans-work-7484368?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-05-11T21:37:19.000Z",
+          "wordCount": 6612,
+          "title": "How Credit Union Auto Loans Work",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/0iVYclW1JN6JOFh6hQbELdGL4TU=/4686x3728/carbuyer-7c647151b0d3465ab7b75190d2e79ea5.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/0iVYclW1JN6JOFh6hQbELdGL4TU=/4686x3728/carbuyer-7c647151b0d3465ab7b75190d2e79ea5.jpg"
+        },
         {
           "id": "https://www.investopedia.com/dow-jones-today-may-11-7497247",
           "author": "Terry Lane",
@@ -23206,6 +23206,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "tesla-stock-price-elon-musk-twitter-ceo-81418315?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Tesla investors have perceived Musk's role at Twitter as a distraction that prevented him from focusing on the car company.",
+          "link": "https://www.barrons.com/articles/tesla-stock-price-elon-musk-twitter-ceo-81418315?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-05-11T21:53:00.000Z",
+          "wordCount": 6770,
+          "title": "Tesla Stock Jumps After Musk Announces New Twitter CEO. What the Move Is Worth.",
+          "imageUrl": "https://images.barrons.com/im-780582/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/google-amazon-lead-split-market-tesla-pops-on-elon-musk-twitter-news-debt-ceiling-talks-delay/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-05-11T21:06:14.000Z",
+          "wordCount": null,
+          "title": "Market Rally Weak Outside Google; Tesla Pops On Elon Musk's Twitter News",
+          "imageUrl": null
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
@@ -47085,26 +47105,6 @@
           "wordCount": 6885,
           "title": "Good News for Alibaba and Other Chinese Stocks. UBS Sees 3 Reasons to Be Bullish.",
           "imageUrl": "https://images.barrons.com/im-665161/social"
-        },
-        {
-          "id": "bitcoin-ether-crypto-markets-today-47cc4945?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "A key upgrade to the Ethereum blockchain network could spur action in cryptos. So too could inflation data and minutes from the latest Federal Reserve meeting.",
-          "link": "https://www.barrons.com/articles/bitcoin-ether-crypto-markets-today-47cc4945?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-04-12T09:32:00.000Z",
-          "wordCount": 6781,
-          "title": "Ether Isn’t the Only Catalyst for Crypto Chaos. Watch Bitcoin After CPI Data.",
-          "imageUrl": "https://images.barrons.com/im-378198/social"
-        },
-        {
-          "id": "stock-market-movers-94b3c433?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "A report says Emerson Electric could acquire National Instruments for $60 a share, while Tesla shares slip ahead of the release from the Environmental Protection Agency of tighter tailpipe emission standards.",
-          "link": "https://www.barrons.com/articles/stock-market-movers-94b3c433?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-04-12T09:21:00.000Z",
-          "wordCount": 6944,
-          "title": "These Stocks Are Moving the Most Today: National Instruments, Tesla, Bed Bath & Beyond, and More",
-          "imageUrl": "https://images.barrons.com/im-758517/social"
         }
       ]
     }
