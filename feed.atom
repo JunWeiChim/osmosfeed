@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-12T12:22:29.904Z</updated>
+    <updated>2023-05-12T13:14:21.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Storing bij ING is voorbij: betalen via de app is weer mogelijk]]></title>
+        <id>https://www.nu.nl/-/6263388/</id>
+        <link href="https://www.nu.nl/tech/6263388/storing-bij-ing-is-voorbij-betalen-via-de-app-is-weer-mogelijk.html"/>
+        <updated>2023-05-12T13:07:23.000Z</updated>
+        <summary type="html"><![CDATA[De problemen waardoor ING-klanten vrijdagmiddag niet konden inloggen, zijn inmiddels verholpen. Ze kunnen nu weer bij Mijn ING inloggen en geld overmaken.]]></summary>
+        <author>
+            <name>onze techredactie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Things to Know Before Markets Open]]></title>
         <id>61fe0df83cab155b63abaf17704fb7c8</id>
@@ -14,6 +24,34 @@
         <summary type="html"><![CDATA[Tesla shares move higher on news of a new Twitter CEO and a meeting on the debt ceiling is postponed. Here’s what investors need to know today.]]></summary>
         <author>
             <name>Investopedia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dow Jones Futures Rise Ahead Of Inflation Survey. Tesla Stock Rallies On Elon Musk Tweet.]]></title>
+        <id>?src=A00220&amp;yptr=yahoo</id>
+        <link href="https://www.investors.com/market-trend/stock-market-today/dow-jones-rise-inflation-survey-tesla-stock-rallies-elon-musk-tweet/?src=A00220&amp;yptr=yahoo"/>
+        <updated>2023-05-12T12:16:14.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Companies Are Doing So Well Even Analysts Are Amazed]]></title>
+        <id>?src=A00220&amp;yptr=yahoo</id>
+        <link href="https://www.investors.com/etfs-and-funds/sectors/sp500-ten-companies-are-doing-so-well-even-analysts-are-surprised/?src=A00220&amp;yptr=yahoo"/>
+        <updated>2023-05-12T12:00:59.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla Raises EV Prices Again. It’s Good News for Investors Worried About Margins.]]></title>
+        <id>tesla-stock-raises-prices-ev-margins-e3a4d86c?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.barrons.com/articles/tesla-stock-raises-prices-ev-margins-e3a4d86c?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2023-05-12T11:59:00.000Z</updated>
+        <summary type="html"><![CDATA[The EV company raised the U.S. prices for its Model S and X vehicles by $1,000 and the prices of its Model Y by $250.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
         </author>
     </entry>
     <entry>
@@ -128,6 +166,16 @@ The Hong Kong-listed shares of e-commerce giant JD.com closed up 7.3% on Friday,
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Jamie Dimon reveals JPMorgan has a ‘war room’ that will meet up to 3 times a day as a ‘potentially catastrophic’ default approaches]]></title>
+        <id>jamie-dimon-reveals-jpmorgan-war-085029322.html</id>
+        <link href="https://finance.yahoo.com/news/jamie-dimon-reveals-jpmorgan-war-085029322.html"/>
+        <updated>2023-05-12T08:50:29.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Treasury warns that it might exhaust its ability to borrow money as early as June 1 if Congress does not raise the debt ceiling.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[China May Cancel More US Corn in Shift to Cheaper Brazil Cargoes]]></title>
         <id>china-may-cancel-more-us-080335834.html</id>
         <link href="https://finance.yahoo.com/news/china-may-cancel-more-us-080335834.html"/>
@@ -175,6 +223,16 @@ The Hong Kong-listed shares of e-commerce giant JD.com closed up 7.3% on Friday,
         <summary type="html"><![CDATA[Wealthfront and Vanguard Personal Advisor Services are both great robo-advisors. But Wealthfront is the better option, in most cases, unless you are a sophisticated investor.]]></summary>
         <author>
             <name>Kate Ashford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Small-Caps Have Been Crushed. 3 With Big Potential.]]></title>
+        <id>small-cap-stocks-have-been-crushed-3-with-big-potential-ac074ef6?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.barrons.com/articles/small-cap-stocks-have-been-crushed-3-with-big-potential-ac074ef6?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2023-05-12T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rayna Lesser Hannaway, a small-cap manager at Polen Capital, looks for durable growth companies early in their lifecycle.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
         </author>
     </entry>
     <entry>
@@ -38372,26 +38430,6 @@ While we have yet to fully understand how these financial conditions are evolvin
         <link href="https://finance.yahoo.com/news/softbank-aims-sell-majority-stake-223700567.html"/>
         <updated>2023-04-13T01:45:30.000Z</updated>
         <summary type="html"><![CDATA[(Bloomberg) -- SoftBank Group Corp. is moving to sell the majority of its stake in Chinese internet giant Alibaba Group Holding Ltd., the Financial Times reported Wednesday. Most Read from BloombergUS Core Inflation Slows Only a Bit, Keeping Fed on Track to HikeKatie Cotton, Guardian of the Apple Brand for 18 Years, DiesTwitter Company ‘No Longer Exists,’ Is Now Part of Musk’s XInflation Data Will Shatter the Stock Market Calm, Goldman Partner WarnsJPMorgan Calls Managing Directors to Office Fiv]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The dollar slides to a 2-month low against the euro after March inflation data dims view of more Fed rate hikes]]></title>
-        <id>dollar-slides-2-month-low-011354635.html</id>
-        <link href="https://finance.yahoo.com/news/dollar-slides-2-month-low-011354635.html"/>
-        <updated>2023-04-13T01:13:54.000Z</updated>
-        <summary type="html"><![CDATA[The dollar fell after March inflation cooled to 5%, a reading that could put a Fed rate hike 'in a bit of jeopardy," says one analyst.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple’s Local Tax Arrangement With Hometown Comes Under Fire]]></title>
-        <id>apple-local-tax-arrangement-hometown-003443433.html</id>
-        <link href="https://finance.yahoo.com/news/apple-local-tax-arrangement-hometown-003443433.html"/>
-        <updated>2023-04-13T00:34:43.000Z</updated>
-        <summary type="html"><![CDATA[(Bloomberg) -- A tax agreement between Apple Inc. and its hometown of Cupertino, California, has come under scrutiny from state regulators, potentially slashing the amount of money that the company sends to the city. Most Read from BloombergUS Core Inflation Slows Only a Bit, Keeping Fed on Track to HikeKatie Cotton, Guardian of the Apple Brand for 18 Years, DiesTwitter Company ‘No Longer Exists,’ Is Now Part of Musk’s XJPMorgan Calls Managing Directors to Office Five Days a WeekI Bonds Lose The]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
