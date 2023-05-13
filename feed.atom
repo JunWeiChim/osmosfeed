@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-13T21:09:32.289Z</updated>
+    <updated>2023-05-13T22:10:39.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Treasury Bills (T-Bills): What You Need To Know To Invest]]></title>
+        <id>https://www.investopedia.com/terms/t/treasurybill.asp</id>
+        <link href="https://www.investopedia.com/terms/t/treasurybill.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
+        <updated>2023-05-13T21:27:10.000Z</updated>
+        <summary type="html"><![CDATA[A Treasury bill (T-Bill) is a short-term debt obligation issued by the U.S. Treasury and backed by the U.S. government with a maturity of less than one year.]]></summary>
+        <author>
+            <name>Adam Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Household Income: What It Is and How to Calculate It]]></title>
         <id>https://www.investopedia.com/terms/h/household_income.asp</id>
@@ -40,6 +50,15 @@
         <id>warren-buffetts-bank-account-charlie-184500727.html</id>
         <link href="https://finance.yahoo.com/news/warren-buffetts-bank-account-charlie-184500727.html"/>
         <updated>2023-05-13T18:45:00.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's almost impossible to trade on a US default - so here's what investors should do instead, according to Bankrate's senior economic analyst]]></title>
+        <id>almost-impossible-trade-us-default-183000081.html</id>
+        <link href="https://finance.yahoo.com/news/almost-impossible-trade-us-default-183000081.html"/>
+        <updated>2023-05-13T18:30:00.000Z</updated>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -37925,46 +37944,6 @@ While we have yet to fully understand how these financial conditions are evolvin
         <summary type="html"><![CDATA[UnitedHealth beat first-quarter forecasts and hiked its 2023 guidance for the first time, propelled in part by more growth from its Optum care segment.  FactSet says analyst forecast earnings of $24.93 per share.  In the first quarter, UnitedHealth Group Inc. posted adjusted earnings of $6.26 per share on $91.93 billion in total revenue.]]></summary>
         <author>
             <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Werknemers met baas over de grens krijgen soepelere regels voor thuiswerken]]></title>
-        <id>https://www.nu.nl/-/6259424/</id>
-        <link href="https://www.nu.nl/economie/6259424/werknemers-met-baas-over-de-grens-krijgen-soepelere-regels-voor-thuiswerken.html"/>
-        <updated>2023-04-14T10:06:37.000Z</updated>
-        <summary type="html"><![CDATA[Er komen nieuwe mogelijkheden aan voor thuiswerkers die een baan hebben in Nederland maar vlak over de grens wonen. Zo kunnen grenswerkers straks verzekerd zijn in Nederland, terwijl ze in een aangrenzend land thuiswerken.]]></summary>
-        <author>
-            <name>onze economieredactie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walmart is selling Bonobos at a fraction of what it paid for the menswear brand]]></title>
-        <id>walmart-selling-bonobos-fraction-paid-095000399.html</id>
-        <link href="https://finance.yahoo.com/news/walmart-selling-bonobos-fraction-paid-095000399.html"/>
-        <updated>2023-04-14T09:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Six years into owning Bonobos, Walmart is selling off the menswear brand at a huge discount.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Income Taxes Are Due. Here’s Who Pays The Most.]]></title>
-        <id>income-tax-who-pays-the-most-a4d9f65d?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.wsj.com/articles/income-tax-who-pays-the-most-a4d9f65d?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2023-04-14T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[With taxes top of mind right now and the Biden administration proposing to raise them on Americans earning more than $400,000, here’s more to know about U.S. income taxes.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Storing treft mobiel netwerk Vodafone, klanten kunnen ook 112 niet bereiken]]></title>
-        <id>https://www.nu.nl/-/6259420/</id>
-        <link href="https://www.nu.nl/tech/6259420/storing-treft-mobiel-netwerk-vodafone-klanten-kunnen-ook-112-niet-bereiken.html"/>
-        <updated>2023-04-14T09:11:19.000Z</updated>
-        <summary type="html"><![CDATA[Het mobiele netwerk van Vodafone is vrijdagochtend getroffen door een storing. Sinds 7.00 uur ervaren klanten problemen met mobiel bellen. Daardoor is ook alarmnummer 112 niet bereikbaar voor hen.]]></summary>
-        <author>
-            <name>Tim Wijkman-van Aalst</name>
         </author>
     </entry>
 </feed>
