@@ -7226,21 +7226,6 @@
             "url": "https://media.nu.nl/m/6lnxstba7kc8_sqr256.jpg/storing-treft-mobiel-netwerk-vodafone-klanten-kunnen-ook-112-niet-bereiken.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/6lnxstba7kc8_sqr256.jpg/storing-treft-mobiel-netwerk-vodafone-klanten-kunnen-ook-112-niet-bereiken.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6259422/",
-          "author": "onze economieredactie",
-          "description": "Philips krijgt kritiek op de snelheid waarmee het de slaapapneu-apparaten vervangt. De Amerikaanse toezichthouder FDA is bang dat Philips' terugroepactie van miljoenen apparaten vertraging oploopt.",
-          "link": "https://www.nu.nl/economie/6259422/philips-terugroepactie-slaapapneu-apparaten-verloopt-te-traag.html",
-          "publishedOn": "2023-04-14T07:51:54.000Z",
-          "wordCount": 1030,
-          "title": "Philips' terugroepactie slaapapneu-apparaten verloopt te traag",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/k14xxada60i8_sqr256.jpg/philips-terugroepactie-slaapapneu-apparaten-verloopt-te-traag.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/k14xxada60i8_sqr256.jpg/philips-terugroepactie-slaapapneu-apparaten-verloopt-te-traag.jpg"
         }
       ]
     },
@@ -7249,6 +7234,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/personal-finance/120315/what-good-401k-match.asp",
+          "author": "Tim Parker",
+          "description": "The most common employer match is 50 cents on the dollar of up to 6% of your salary. In most cases, you should contribute enough to get the maximum match.",
+          "link": "https://www.investopedia.com/articles/personal-finance/120315/what-good-401k-match.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-05-13T19:50:11.000Z",
+          "wordCount": 7403,
+          "title": "What Is a Good 401(k) Match? How It Works and What's the Average",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/3bJZcx06qnEpFbOY9dwlNKUZjkA=/680x440/what_is_a_good_401k_match-5bfc343946e0fb00517d8a6a.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/3bJZcx06qnEpFbOY9dwlNKUZjkA=/680x440/what_is_a_good_401k_match-5bfc343946e0fb00517d8a6a.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/f/franc-f.asp",
           "author": "Jason Fernando",
@@ -22101,6 +22101,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "timing-market-isnt-easy-during-190000300.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/timing-market-isnt-easy-during-190000300.html",
+          "publishedOn": "2023-05-13T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Timing the market isn't easy during a debt-ceiling showdown. Investors should stick to this strategy instead.",
+          "imageUrl": null
+        },
+        {
+          "id": "warren-buffetts-bank-account-charlie-184500727.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/warren-buffetts-bank-account-charlie-184500727.html",
+          "publishedOn": "2023-05-13T18:45:00.000Z",
+          "wordCount": null,
+          "title": "Warren Buffett's bank account, Charlie Munger's oil checks, and an Amazon bestseller: 6 nuggets from Berkshire Hathaway's annual meeting",
+          "imageUrl": null
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
@@ -45450,16 +45470,6 @@
           "wordCount": 6725,
           "title": "Faraday’s Luxury EV Delayed Again. It Also Needs Funds. The Stock Dives.",
           "imageUrl": "https://images.barrons.com/im-373816/social"
-        },
-        {
-          "id": "boeing-halts-737-max-deliveries-155350ca?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Boeing informs investors that it halted deliveries of its 737 MAX jets due to an issue with supplier parts.",
-          "link": "https://www.barrons.com/articles/boeing-halts-737-max-deliveries-155350ca?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-04-14T08:07:00.000Z",
-          "wordCount": 6709,
-          "title": "Boeing Halts 737 MAX Deliveries. The Stock Tanks.",
-          "imageUrl": "https://images.barrons.com/im-759255/social"
         }
       ]
     }
