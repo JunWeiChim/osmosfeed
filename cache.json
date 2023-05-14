@@ -898,6 +898,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6263386/",
+          "author": "Tom van Gurp",
+          "description": "Personeel in de zorg, het onderwijs en het openbaar bestuur ging vorig jaar het vroegst met pensioen. Wie werkte in de landbouw, visserij en dienstverlening bleef juist het langst doorwerken. Dat blijkt uit cijfers van statistiekbureau CBS.",
+          "link": "https://www.nu.nl/economie/6263386/ambtenaren-gingen-vorig-jaar-het-vroegst-met-pensioen.html",
+          "publishedOn": "2023-05-14T22:07:50.000Z",
+          "wordCount": 970,
+          "title": "Ambtenaren gingen vorig jaar het vroegst met pensioen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/3gsxo01aecgp_sqr256.jpg/ambtenaren-gingen-vorig-jaar-het-vroegst-met-pensioen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/3gsxo01aecgp_sqr256.jpg/ambtenaren-gingen-vorig-jaar-het-vroegst-met-pensioen.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6263133/",
           "author": "Jeroen Kraan",
           "description": "Oliebedrijf Shell doet lang niet genoeg om zich te houden aan de uitspraak in de klimaatzaak die Milieudefensie in 2021 heeft gewonnen. Het bedrijf heeft voor het leeuwendeel van de CO2-uitstoot nog altijd geen goed reductieplan, stelt de milieuorganisatie.",
@@ -7039,6 +7054,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/financialcareers/07/multi-service.asp",
+          "author": "Mark P. Cussen",
+          "description": "Offering a comprehensive suite of financial services can bring in business, but coordination and customization are key to success and customer retention.",
+          "link": "https://www.investopedia.com/articles/financialcareers/07/multi-service.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-05-14T22:44:37.000Z",
+          "wordCount": 5961,
+          "title": "Be a One-Stop Shop for Your Clients",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/DXLQ0ewsQbQbXSdTnQ7XiM4ybUo=/380x254/78036503-5bfc2b8b4cedfd0026c118ed.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/DXLQ0ewsQbQbXSdTnQ7XiM4ybUo=/380x254/78036503-5bfc2b8b4cedfd0026c118ed.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/c/competitive-devaluation.asp",
+          "author": "Adam Hayes",
+          "description": "Competitive devaluation is a series of currency depreciation that nations resort to in tit-for-tat moves to gain an edge in international export markets.",
+          "link": "https://www.investopedia.com/terms/c/competitive-devaluation.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-05-14T22:16:34.000Z",
+          "wordCount": 7350,
+          "title": "Competitive Devaluation Definition",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/AygtTPnz8QmJAbhLK4Kbhgd8Mig=/680x440/thinkstockphotos_493208894-5bfc2b9746e0fb0051bde2b8.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/AygtTPnz8QmJAbhLK4Kbhgd8Mig=/680x440/thinkstockphotos_493208894-5bfc2b9746e0fb0051bde2b8.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/p/primerate.asp",
+          "author": "James Chen",
+          "description": "The prime rate is the interest rate that commercial banks charge their most creditworthy customers.",
+          "link": "https://www.investopedia.com/terms/p/primerate.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-05-14T21:57:43.000Z",
+          "wordCount": 7638,
+          "title": "Prime Rate Definition",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ic151SncHrkriOsxpp9_aA2zhSg=/4501x3010/GettyImages-673404055-febd82747ad6491c9f394a843b8feb93.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ic151SncHrkriOsxpp9_aA2zhSg=/4501x3010/GettyImages-673404055-febd82747ad6491c9f394a843b8feb93.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/h/humanresources.asp",
           "author": "Will Kenton",
@@ -21598,21 +21658,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/7zniWRon6k3KNNZfYEmBK6RVhA0=/4367x2911/GettyImages-1186629596-e1fbe4dffb5b48ce9fe325bd42e39096.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/which-ai-chatbot-is-better-at-picking-stocks-bard-microsoft-7481106",
-          "author": "Staff Author",
-          "description": "AI chatbots can write a poem, do your homework, draft lawsuits, and maybe even take your job, if the hype is to be believed. Can they handle your investments, too? We asked Bing and Bard for help.",
-          "link": "https://www.investopedia.com/which-ai-chatbot-is-better-at-picking-stocks-bard-microsoft-7481106?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-04-15T11:00:00.000Z",
-          "wordCount": 3545,
-          "title": "Battle of the Bots: Which AI is Better at Picking Stocks?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/P_w3tfGk6oQoa-gR3x-MajBDmjk=/4613x3075/GettyImages-683440018-98739d0eea11429faee8c92a17047ebc.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/P_w3tfGk6oQoa-gR3x-MajBDmjk=/4613x3075/GettyImages-683440018-98739d0eea11429faee8c92a17047ebc.jpg"
         }
       ]
     },
@@ -21622,6 +21667,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "billionaire-george-soros-loads-2-221231555.html",
+          "author": null,
+          "description": "If you’re going to be forever known for one thing, being the ‘man who broke the Bank of England’ is a description many would sign up for. That is how George Soros is regularly introduced, and the story involves how he bet against the British Pound in 1992 and pocketed $1 billion from the trade in a single day. Of course, Soros’ legendary reputation does not rest solely on that headline-grabbing act, and the billionaire investor has had a decades-long career of almost unmatched investing success.",
+          "link": "https://finance.yahoo.com/news/billionaire-george-soros-loads-2-221231555.html",
+          "publishedOn": "2023-05-14T22:12:31.000Z",
+          "wordCount": 12491,
+          "title": "Billionaire George Soros Loads Up on These 2 ‘Strong Buy’ Stocks ⁠— Here’s Why You Might Want to Follow in His Footsteps",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/432e1be139a9c7cc4dd735ca2945446e"
+        },
+        {
           "id": "19-republican-states-accuse-jpmorgan-133000601.html",
           "author": null,
           "description": "In a letter seen by The Wall Street Journal, Republican attorneys general say the bank closed accounts and asked questions before reinstating them.",
@@ -21630,6 +21685,16 @@
           "wordCount": 11771,
           "title": "19 Republican states accuse JPMorgan of closing bank accounts and discriminating against customers due to their religious or political beliefs",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/sPX6psux.Emtg71xRjqUwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/5b2aa16faf95d0a10f502c9f35a1c94a"
+        },
+        {
+          "id": "gold-could-rally-record-high-201500732.html",
+          "author": null,
+          "description": "RBC Capital Markets said \"in the near term, we believe gold looks like the best hedge in the more immediate offing.\"",
+          "link": "https://finance.yahoo.com/news/gold-could-rally-record-high-201500732.html",
+          "publishedOn": "2023-05-14T20:15:00.000Z",
+          "wordCount": 11906,
+          "title": "Gold could rally to a new record high if the US defaults and investors flee to safety",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/E4XHTf92n7.h_434.P7dCA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/31b91bdfa63fc21298fb842797bbc973"
         },
         {
           "id": "stocks-to-watch-this-week-walmart-alibaba-target-ef629521?siteid=yhoof2&yptr=yahoo",
@@ -21650,6 +21715,16 @@
           "wordCount": null,
           "title": "Fears of a US debt default are mounting as the deadline to lift the borrowing limit looms. Here's what Elon Musk, Paul Krugman and Jamie Dimon have warned.",
           "imageUrl": null
+        },
+        {
+          "id": "housing-market-correction-regain-life-180703858.html",
+          "author": null,
+          "description": "The U.S. Treasury could run out of cash as soon as early June. That could deliver a big hit to the housing market.",
+          "link": "https://finance.yahoo.com/news/housing-market-correction-regain-life-180703858.html",
+          "publishedOn": "2023-05-14T18:07:03.000Z",
+          "wordCount": 11935,
+          "title": "The housing market correction would regain new life if the U.S. defaults, says Moody’s chief economist",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/qMVlBDtvHEGw4AUHr8nuEQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/74e790e5ac443fa8f0567e02f77b6d7f"
         },
         {
           "id": "week-crypto-twitter-musk-welcomes-172447343.html",
@@ -44660,16 +44735,6 @@
           "wordCount": 12145,
           "title": "Bitcoin Surged Past $30,000. Is Another Crypto Boom on the Way?",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/z2krwviEaC9d5TrY8mqyCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTM-/https://media.zenfs.com/en/bloomberg_markets_842/dd3981fa7e7cca38ddfce10b7927acba"
-        },
-        {
-          "id": "which-ai-chatbot-is-better-at-picking-stocks-bard-microsoft-7481106?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "AI chatbots can write a poem, do your homework, draft lawsuits, and maybe even take your job, if the hype is to be believed. Can they handle your investments, too? We asked Bing and Bard for help.",
-          "link": "https://www.investopedia.com/which-ai-chatbot-is-better-at-picking-stocks-bard-microsoft-7481106?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-04-15T11:00:00.000Z",
-          "wordCount": 3555,
-          "title": "Battle of the Bots: Which AI is Better at Picking Stocks?",
-          "imageUrl": "https://www.investopedia.com/thmb/eixivGPKcPLD0iNjafgPWKn55SA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-683440018-98739d0eea11429faee8c92a17047ebc.jpg"
         }
       ]
     }
