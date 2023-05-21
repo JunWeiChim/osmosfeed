@@ -6971,21 +6971,6 @@
             "url": "https://media.nu.nl/m/s0xxtq5ap7sq_sqr256.jpg/zzp-bemiddelaars-schieten-als-paddenstoelen-uit-de-grond.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/s0xxtq5ap7sq_sqr256.jpg/zzp-bemiddelaars-schieten-als-paddenstoelen-uit-de-grond.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6260535/",
-          "author": "onze nieuwsredactie",
-          "description": "De meivakantie is begonnen en daardoor is het zaterdagochtend druk op Schiphol. In vertrekhallen 2 en 3 staan op sommige plaatsen wel rijen, maar volgens de luchthaven is de doorstroom goed. Een woordvoerder geeft aan dat dit het beeld is waar Schiphol gedurende de vakantieperiode ongeveer vanuit gaat.",
-          "link": "https://www.nu.nl/economie/6260535/weer-drukte-op-schiphol-door-meivakantie-maar-nu-geen-lange-rijen.html",
-          "publishedOn": "2023-04-22T06:58:57.000Z",
-          "wordCount": 1015,
-          "title": "Weer drukte op Schiphol door meivakantie, maar nu géén lange rijen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/43vx7c0ab0bm_sqr256.jpg/weer-drukte-op-schiphol-door-meivakantie-maar-nu-geen-lange-rijen.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/43vx7c0ab0bm_sqr256.jpg/weer-drukte-op-schiphol-door-meivakantie-maar-nu-geen-lange-rijen.jpg"
         }
       ]
     },
@@ -6994,6 +6979,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/investing/122315/worlds-top-10-banks-jpm-wfc.asp",
+          "author": "Nathan Reiff",
+          "description": "With Industrial and Commercial Bank Of China in the top spot these are the 10 biggest banks by 12-month trailing revenue.",
+          "link": "https://www.investopedia.com/articles/investing/122315/worlds-top-10-banks-jpm-wfc.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-05-21T18:51:25.000Z",
+          "wordCount": 7017,
+          "title": "10 Biggest Banks in the World",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/DasDLyJJs3kvTY_ifUGxO465YoE=/680x440/shutterstock_146539112-5bfc475246e0fb002607cc7f.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/DasDLyJJs3kvTY_ifUGxO465YoE=/680x440/shutterstock_146539112-5bfc475246e0fb002607cc7f.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/w/wrap-up-insurance.asp",
           "author": "Julia Kagan",
@@ -22386,6 +22386,36 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "beijing-bans-chinese-companies-from-using-micron-chips-in-critical-infrastructure-183039607.html",
+          "author": null,
+          "description": "China’s cybersecurity regulator has banned Chinese firms from buying chips from US memory manufacturer Micron.",
+          "link": "https://finance.yahoo.com/news/beijing-bans-chinese-companies-from-using-micron-chips-in-critical-infrastructure-183039607.html",
+          "publishedOn": "2023-05-21T18:30:39.000Z",
+          "wordCount": 11416,
+          "title": "Beijing bans Chinese companies from using Micron chips in critical infrastructure",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/r5m3NYTtL5jBdGW31oI8.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/2c0922e0-f803-11ed-aef9-95ec2b86eede"
+        },
+        {
+          "id": "fed-come-under-fire-way-174500605.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/fed-come-under-fire-way-174500605.html",
+          "publishedOn": "2023-05-21T17:45:00.000Z",
+          "wordCount": null,
+          "title": "The Fed has come under fire for the way it tackled inflation. Here are the latest critiques from Elon Musk, Mohamed El-Erian and others.",
+          "imageUrl": null
+        },
+        {
+          "id": "retirement-age-55-60-money-adfa6aa5?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "An advisers suggests how he can shore up his finances and set aside money for his four children.",
+          "link": "https://www.wsj.com/articles/retirement-age-55-60-money-adfa6aa5?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-05-21T16:00:00.000Z",
+          "wordCount": 8133,
+          "title": "A Military Scientist Wants to Retire at 55 or 60. Will He Have Enough Money?",
+          "imageUrl": "https://images.wsj.net/im-780991/social"
+        },
         {
           "id": "hate-taxes-irs-boosts-hsa-152614251.html",
           "author": null,
