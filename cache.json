@@ -1168,6 +1168,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6264662/",
+          "author": "Eva Schouten",
+          "description": "Met de meivakantie en een lang weekend achter de rug voelen we ons weer fitter. Dat is hard nodig in deze tijd van hoge werkdruk, die wordt veroorzaakt door de krapte op de arbeidsmarkt. Dat zegt Jurriaan Penders, bedrijfsarts en directeur medische zaken bij HumanCapitalCare.",
+          "link": "https://www.nu.nl/economie/6264662/vakanties-zijn-harder-nodig-door-hoge-werkdruk.html",
+          "publishedOn": "2023-05-23T03:30:12.000Z",
+          "wordCount": 1123,
+          "title": "Vakanties zijn harder nodig door hoge werkdruk",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/0g5x6aaacvs3_sqr256.jpg/vakanties-zijn-harder-nodig-door-hoge-werkdruk.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/0g5x6aaacvs3_sqr256.jpg/vakanties-zijn-harder-nodig-door-hoge-werkdruk.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6264706/",
           "author": "Noémi van de Pol",
           "description": "In de eerste drie maanden van dit jaar hebben we minder gekocht. Toch hebben winkels meer omgezet, blijkt uit nieuwe cijfers van statistiekbureau CBS. Dat komt vooral doordat de prijzen nu veel hoger zijn.",
@@ -7196,21 +7211,6 @@
             "url": "https://media.nu.nl/m/zg1xuaea7l95_sqr256.jpg/aantal-miljonairs-is-in-2021-weer-gegroeid-maar-hun-vermogen-bleef-gelijk.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/zg1xuaea7l95_sqr256.jpg/aantal-miljonairs-is-in-2021-weer-gegroeid-maar-hun-vermogen-bleef-gelijk.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6260701/",
-          "author": "onze nieuwsredactie",
-          "description": "Werknemers van distributiecentra van Albert Heijn gaan zondagavond en maandag staken. Dat doen ze omdat een ultimatum dat vakbonden CNV en FNV hadden gesteld, is verlopen. De staking kan ervoor zorgen dat supermarkten van AH niet meer bevoorraad worden en er lege schappen ontstaan.",
-          "link": "https://www.nu.nl/economie/6260701/werknemers-van-distributiecentra-albert-heijn-gaan-staken.html",
-          "publishedOn": "2023-04-23T15:44:48.000Z",
-          "wordCount": 954,
-          "title": "Werknemers van distributiecentra Albert Heijn gaan staken",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/futxgr4a0ifl_sqr256.jpg/werknemers-van-distributiecentra-albert-heijn-gaan-staken.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/futxgr4a0ifl_sqr256.jpg/werknemers-van-distributiecentra-albert-heijn-gaan-staken.jpg"
         }
       ]
     },
@@ -23278,21 +23278,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/apQnukjTjwYSYWZdOxXFMKdLHVA=/2121x1414/GettyImages-83065611-ebd92e612df34afcb1d161478dc56799.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/b/blockchain.asp",
-          "author": "Luke Conway",
-          "description": "A blockchain is a digitally distributed, decentralized, public ledger that exists across a network. It is most noteworthy in its use with cryptocurrencies and NFTs.",
-          "link": "https://www.investopedia.com/terms/b/blockchain.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-04-23T15:52:22.000Z",
-          "wordCount": 9247,
-          "title": "Blockchain Facts: What Is It, How It Works, and How It Can Be Used",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/W5ErxvXjkeXdvAB1D872vASjabQ=/2400x860/blockchain-ff4f623b2cea4a64a2b60c7156f8d616.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/W5ErxvXjkeXdvAB1D872vASjabQ=/2400x860/blockchain-ff4f623b2cea4a64a2b60c7156f8d616.png"
         }
       ]
     },
@@ -23301,6 +23286,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "white-house-warned-stocks-plunge-033424865.html",
+          "author": null,
+          "description": "About 8 million jobs could be lost if the US fails to raise its debt ceiling ahead of the upcoming deadline in early June, according to the analysis.",
+          "link": "https://finance.yahoo.com/news/white-house-warned-stocks-plunge-033424865.html",
+          "publishedOn": "2023-05-23T03:34:24.000Z",
+          "wordCount": 11458,
+          "title": "The White House has warned stocks will plunge 45% and a deep recession will strike in the 3rd quarter if the US defaults",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/OOLpqeu0yK92nzI1OnCueg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/b5f7088a265d67812164270051d39664"
+        },
         {
           "id": "goldman-sachs-likes-2-stocks-235215037.html",
           "author": null,
