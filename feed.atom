@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-23T06:15:33.875Z</updated>
+    <updated>2023-05-23T07:11:00.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -52,6 +52,16 @@
         <link href="https://finance.yahoo.com/news/treasury-department-could-issue-700-041953057.html"/>
         <updated>2023-05-23T04:19:53.000Z</updated>
         <summary type="html"><![CDATA[On Friday, the Treasury General Account was $60.7 billion, down from $140 billion just a week prior.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's why the US doesn't have to pay off its $31 trillion mountain of debt, according to Paul Krugman]]></title>
+        <id>heres-why-us-doesnt-pay-035612736.html</id>
+        <link href="https://finance.yahoo.com/news/heres-why-us-doesnt-pay-035612736.html"/>
+        <updated>2023-05-23T03:56:12.000Z</updated>
+        <summary type="html"><![CDATA["When governments for one reason or another run up large debts, it is, as far as I can tell, unusual to pay those debts off," Nobel economist Paul Krugman said.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -775,6 +785,15 @@
         <link href="https://finance.yahoo.com/news/stocks-risk-sharp-reaction-if-debt-ceiling-talks-go-awry-jpmorgan-163302685.html"/>
         <updated>2023-05-22T16:33:02.000Z</updated>
         <summary type="html"><![CDATA[In a new note, JPMorgan argues a debt ceiling crisis in 2023 could be far worse for markets than it was in 2011 when the S&P 500 fell nearly 20% from its peak.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fortinet, A Cybersecurity And AI Leader, Breaks Out; Analysts Bullish On Outlook]]></title>
+        <id>?src=A00220&amp;yptr=yahoo</id>
+        <link href="https://www.investors.com/research/growth-stock-and-ai-leader-fortinet-breaks-out-analysts-bullish-on-outlook/?src=A00220&amp;yptr=yahoo"/>
+        <updated>2023-05-22T16:20:37.000Z</updated>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -38690,36 +38709,6 @@ Futures on the S&P 500 pointed down 0.5% ahead of the open, while Dow futures we
         <summary type="html"><![CDATA[Bud Light's marketing vice president is reportedly taking a leave of absence following controversy over the brand's work with a transgender celebrity.]]></summary>
         <author>
             <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft, Visa, First Republic, Amazon, Exxon Mobil, and More Stocks to Watch This Week]]></title>
-        <id>microsoft-visa-first-republic-amazon-exxon-mobil-and-more-stocks-to-watch-this-week-ed6ea688?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/articles/microsoft-visa-first-republic-amazon-exxon-mobil-and-more-stocks-to-watch-this-week-ed6ea688?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2023-04-23T19:03:00.000Z</updated>
-        <summary type="html"><![CDATA[First-quarter earnings from Coca-Cola, First Republic, Alphabet, GE, McDonald’s, Microsoft, Verizon, Visa, Boeing, Meta, Amazon.com, Caterpillar, and Exxon Mobil.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Catfishing Definition]]></title>
-        <id>https://www.investopedia.com/terms/c/cat-fishing.asp</id>
-        <link href="https://www.investopedia.com/terms/c/cat-fishing.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-04-23T19:01:11.000Z</updated>
-        <summary type="html"><![CDATA[Catfishing is when a person creates a fake online identity to trick someone into a false relationship, often to troll or defraud the victim.]]></summary>
-        <author>
-            <name>Jason Fernando</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Planning on Retiring Later? Think Again]]></title>
-        <id>https://www.investopedia.com/articles/personal-finance/101515/planning-retiring-later-think-again.asp</id>
-        <link href="https://www.investopedia.com/articles/personal-finance/101515/planning-retiring-later-think-again.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-04-23T18:32:53.000Z</updated>
-        <summary type="html"><![CDATA[You may assume you're going to be one of those people retiring later in life, but you need to have a plan in case you can't work as long as you want.]]></summary>
-        <author>
-            <name>Tim Parker</name>
         </author>
     </entry>
 </feed>
