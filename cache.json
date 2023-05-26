@@ -1358,6 +1358,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6265231/",
+          "author": "onze economieredactie",
+          "description": "Sinds de strengere regels voor 0906-nummers zijn er al 163 telefoonnummers onbruikbaar gemaakt. De komende weken trekt de toezichthouder er nog zo'n 250 in. Het gaat onder meer om telefoonnummers waarvan het voor de beller niet onmiddellijk duidelijk is dat het om een betaald nummer gaat.",
+          "link": "https://www.nu.nl/tech/6265231/honderden-0906-nummers-verwijderd-om-misleiding-aan-te-pakken.html",
+          "publishedOn": "2023-05-26T06:11:00.000Z",
+          "wordCount": 974,
+          "title": "Honderden 0906-nummers verwijderd om misleiding aan te pakken",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/xasxyt1awnu8_sqr256.jpg/honderden-0906-nummers-verwijderd-om-misleiding-aan-te-pakken.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/xasxyt1awnu8_sqr256.jpg/honderden-0906-nummers-verwijderd-om-misleiding-aan-te-pakken.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6264962/",
           "author": "Tim Wijkman-van Aalst",
           "description": "Drie jaar na de introductie van 5G in Nederland kunnen we nog steeds niet optimaal gebruikmaken van het snellere mobiele internet. Wat we nu hebben is een 4G-verbinding in een 5G-jasje. Het duurt nog minimaal een jaar voordat we het échte 5G kunnen gebruiken.",
@@ -23963,21 +23978,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/2quEQ5BwMQDkCzRarDkAj3W0hss=/4000x2700/how-savings-account-taxed.asp-e91c4fe4edbf4878bc5ef132b43bdd0c.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/personal-finance/050515/how-swift-system-works.asp",
-          "author": "Shobhit Seth",
-          "description": "SWIFT is the global standard for payment and securities trade transactions",
-          "link": "https://www.investopedia.com/articles/personal-finance/050515/how-swift-system-works.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-04-26T18:03:18.000Z",
-          "wordCount": 7592,
-          "title": "What Is the SWIFT Banking System?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/lGkBpLrgbbH7399mvUEwvlJ6Rn0=/4000x2700/how-swift-system-works.asp-Final-b308a4e3bf8b439f9ab467bd298262ef.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/lGkBpLrgbbH7399mvUEwvlJ6Rn0=/4000x2700/how-swift-system-works.asp-Final-b308a4e3bf8b439f9ab467bd298262ef.png"
         }
       ]
     },
@@ -23986,6 +23986,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "cathie-woods-ark-invest-sold-042722785.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/cathie-woods-ark-invest-sold-042722785.html",
+          "publishedOn": "2023-05-26T04:27:22.000Z",
+          "wordCount": null,
+          "title": "Cathie Wood's ARK Invest sold most of its Nvidia stake just before the chipmaker kicked off a rally that added $585 billion in market value",
+          "imageUrl": null
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
@@ -24135,6 +24145,16 @@
           "wordCount": 2242,
           "title": "Nikola stock at risk of delisting, hits all-time of low of 60 cents",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/L8klPkpro0e3T80yT5ebJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2020-09/15878a90-f219-11ea-997d-4459fed2a77d"
+        },
+        {
+          "id": "alibabas-strategic-growth-announces-plan-185740193.html",
+          "author": null,
+          "description": "Alibaba Group Holding Limited (NYSE: BABA) shared plans to hire 15,000 people in 2023, sharply contradicting reports of its layoff plans. The Chinese e-commerce platform voiced a requirement of 15,000 recruits for its six major business divisions. The company said it would recruit 3,000 university graduates. Also Read: Navigating Alibaba's Bumpy Road: Analyst Holds Positive, Adjusts Price Target Downward Alibaba snubbed reports of layoffs as \"rumors\" and said employee departures are part of the",
+          "link": "https://finance.yahoo.com/news/alibabas-strategic-growth-announces-plan-185740193.html",
+          "publishedOn": "2023-05-25T18:57:40.000Z",
+          "wordCount": 1990,
+          "title": "Alibaba's Strategic Growth: Announces Plan to Hire 15,000 Despite Downsizing Reports",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/60ec32aa46598b4b5a359722540a3e64"
         },
         {
           "id": "cathie-wood-arkk-dumped-nvidia-184505860.html",
@@ -46875,46 +46895,6 @@
           "wordCount": 11522,
           "title": "JPMorgan’s Michele Sees 3% Across Yield Curve With Recession",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ksaG8XF7KFirviUy0sOd1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTA-/https://media.zenfs.com/en/bloomberg_markets_842/4a2b8098a8f66bff9cf35ecb1e573271"
-        },
-        {
-          "id": "fed-stocks-balance-sheet-banking-turmoil-cf781ef0?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The central bank has returned to pulling money out of the financial system following an interruption resulting from last month's troubles in banking.",
-          "link": "https://www.barrons.com/articles/fed-stocks-balance-sheet-banking-turmoil-cf781ef0?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-04-26T18:15:00.000Z",
-          "wordCount": 6763,
-          "title": "The Fed’s Balance Sheet Is Shrinking Again. What That Means for Stocks.",
-          "imageUrl": "https://images.barrons.com/im-770601/social"
-        },
-        {
-          "id": "outrage-alert-good-finances-could-175040972.html",
-          "author": null,
-          "description": "On May 1, the federal government will change the fees that most borrowers pay as part of buying a new home. The changes will have a counter-intuitive result: many borrowers with lower credit scores paying less in fees when they … Continue reading → The post Outrage Alert: Good Finances Could Hurt Your Mortgage Terms appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/outrage-alert-good-finances-could-175040972.html",
-          "publishedOn": "2023-04-26T17:50:40.000Z",
-          "wordCount": 11985,
-          "title": "Outrage Alert: Good Finances Could Hurt Your Mortgage Terms",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/2d13d308a187f25d190ed1b1191e4711"
-        },
-        {
-          "id": "first-republic-is-a-problem-with-no-easy-solution-9c2525b6?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "It would be hard to find a buyer or create another rescue plan, but a regulatory seizure would bring its own set of problems.",
-          "link": "https://www.wsj.com/articles/first-republic-is-a-problem-with-no-easy-solution-9c2525b6?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-04-26T17:23:00.000Z",
-          "wordCount": 10232,
-          "title": "First Republic Bank Is a Problem With No Easy Solution",
-          "imageUrl": "https://images.wsj.net/im-770612/social"
-        },
-        {
-          "id": "microsoft-holding-a-lot-of-the-cards-in-ai-powered-search-war-with-google-171612487.html",
-          "author": null,
-          "description": "A year ago, Microsoft didn’t mention Bing once on its earnings call. The search engine hasn’t been a big growth driver for Microsoft in the past. That's changing.",
-          "link": "https://finance.yahoo.com/news/microsoft-holding-a-lot-of-the-cards-in-ai-powered-search-war-with-google-171612487.html",
-          "publishedOn": "2023-04-26T17:16:12.000Z",
-          "wordCount": 11946,
-          "title": "Microsoft 'holding a lot of the cards' in AI-powered search war with Google",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/HO6fsSBzQM4oULeIct60Xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/df5d3e70-8ba8-11ed-b67f-aa9a8fe4c85e"
         }
       ]
     }
