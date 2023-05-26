@@ -751,6 +751,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "d133332969e73fc1d383e7cd84bcb5ed",
+          "author": "Investopedia",
+          "description": "Intel rebounds to lead the Dow upward, while American Express gains on ratings upgrade",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c2495eda7dd76efcc0127917963cc06385c54335",
+          "publishedOn": "2023-05-26T23:11:49.093Z",
+          "wordCount": 411,
+          "title": "Dow Jones Today: Index Up on Debt Ceiling Hopes",
+          "imageUrl": null
+        },
+        {
           "id": "22fbadd6734d37c99e7c4aff1a7187bd",
           "author": "Investopedia",
           "description": "Markets gain on Friday, May 26, 2023 on optimism about debt ceiling talks, more positive AI news",
@@ -7469,6 +7479,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/klarna-vs-afterpay-5187148",
+          "author": "Lee Huffman",
+          "description": "We reviewed and compared the buy now, pay later (BNPL) apps from Klarna and Afterpay. This review will help you decide which is the best BNPL app for your needs.",
+          "link": "https://www.investopedia.com/klarna-vs-afterpay-5187148?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-05-26T22:42:46.000Z",
+          "wordCount": 7068,
+          "title": "Klarna vs. Afterpay: Which Should You Choose?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/4RmEFmg_C01qASTOWa_U3APlE1Q=/1500x1000/GettyImages-1371070653-123a4cc593e54730a1688d1b25af8a00.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/4RmEFmg_C01qASTOWa_U3APlE1Q=/1500x1000/GettyImages-1371070653-123a4cc593e54730a1688d1b25af8a00.jpg"
+        },
         {
           "id": "https://www.investopedia.com/dow-jones-today-may-26-2023-7504799",
           "author": "Terry Lane",
@@ -23993,21 +24018,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/kyAJEcbfFnWOXYTnCmLrxO0uHC4=/7952x5304/GettyImages-1439988538-7440102bbb9e4aaf8047e7818c2006e4.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/hamptons-home-sales-price-surge-7485744",
-          "author": "Oshrat Carmiel",
-          "description": "Homes in New York’s Hamptons have never been more expensive—because they’ve rarely been this tough to come by.",
-          "link": "https://www.investopedia.com/hamptons-home-sales-price-surge-7485744?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-04-27T11:01:00.000Z",
-          "wordCount": 4826,
-          "title": "Hamptons Home Prices Surge Amid Inventory Shortage",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/enlUno6UxvqXrbUJaONDPv2GTvo=/2123x1412/GettyImages-545855303-59e122aeb501e800104e8309.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/enlUno6UxvqXrbUJaONDPv2GTvo=/2123x1412/GettyImages-545855303-59e122aeb501e800104e8309.jpg"
         }
       ]
     },
@@ -24017,6 +24027,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "auddev&yptr=yahoo",
+          "author": null,
+          "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+          "link": "https://www.ft.com/cms/s/58526a63-0a4a-4690-8fd5-968b5b8d7253,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev&yptr=yahoo",
+          "publishedOn": "2023-05-26T21:00:40.000Z",
+          "wordCount": 1641,
+          "title": "Carl Icahn, a star corporate raider brought down to earth",
+          "imageUrl": null
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -24025,6 +24045,16 @@
           "wordCount": null,
           "title": "Nasdaq Surges To New High As Debt Deal Nears; Auto Parts IPO Pops 12%",
           "imageUrl": null
+        },
+        {
+          "id": "not-fan-oil-enjoy-high-185124975.html",
+          "author": null,
+          "description": "It’s no secret that oil companies have been gushing profits and cash flow. After all, when Big Oil reported financial results for 2022, President Joe Biden called the industry’s record profits “outrageous.” And that means these major oil producers can return a lot of cash to investors. For instance, Chevron Corp. announced a 6% increase to its quarterly dividend to $1.51 per share in January. At the current share price, the oil-producing giant offers an annual dividend yield of 3.8%. At ExxonMob",
+          "link": "https://finance.yahoo.com/news/not-fan-oil-enjoy-high-185124975.html",
+          "publishedOn": "2023-05-26T18:51:24.000Z",
+          "wordCount": 2691,
+          "title": "Not A Fan Of Oil But Enjoy The High Dividends Of Energy Stocks? Here Are 2 Renewable Energy Plays Yielding Up To 5.4%",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/9631e030bf2fe815b55a0ec6d55c0559"
         },
         {
           "id": "cathie-wood-defends-arkk-decision-181010110.html",
@@ -24115,6 +24145,16 @@
           "wordCount": 2424,
           "title": "Meta's layoffs leave some ex-employees feeling 'better about being done'",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/2Db77r6Vf3L6lZ5Z7t4plA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/ae406be0-a3e1-11ed-8ae7-24489573bbc5"
+        },
+        {
+          "id": "mexico-president-eyes-half-citi-152646265.html",
+          "author": null,
+          "description": "Mexican President Andres Manuel Lopez Obrador on Friday said the government could acquire up to half of the Mexican unit of Citigroup after the U.S. bank announced plans this week to pursue an initial public offering of the business.  Lopez Obrador, speaking at a press conference, noted that the bank had also said it wants the unit known as Banamex to have Mexican shareholders.  Citi on Wednesday said it was planning an IPO for the Mexican unit, abandoning earlier plans for a sale, prompting Lopez Obrador to announce that the Mexican government could invest in Banamex and had up to $3 billion at its disposal.",
+          "link": "https://finance.yahoo.com/news/mexico-president-eyes-half-citi-152646265.html",
+          "publishedOn": "2023-05-26T15:26:46.000Z",
+          "wordCount": 2042,
+          "title": "Mexico president eyes 'half' of Citi unit amid IPO plan",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/62dd61d0f470bb136a22128b0a5740fe"
         },
         {
           "id": "yield-hungry-investors-are-feasting-on-t-bills-5185e488?siteid=yhoof2&yptr=yahoo",
@@ -47035,46 +47075,6 @@
           "wordCount": 6708,
           "title": "Altria Delivers Strong Earnings, Maintains Guidance",
           "imageUrl": "https://images.barrons.com/im-214033/social"
-        },
-        {
-          "id": "biden-debt-ceiling-crisis-threatens-110000860.html",
-          "author": null,
-          "description": "“Every night I ask myself why all countries have to base their trade on the dollar,” the Brazilian President, Luiz Inacio Lula da Silva, said on a recent visit to China.",
-          "link": "https://finance.yahoo.com/news/biden-debt-ceiling-crisis-threatens-110000860.html",
-          "publishedOn": "2023-04-27T11:00:00.000Z",
-          "wordCount": 12274,
-          "title": "Biden’s debt ceiling crisis threatens stark consequences for the dollar",
-          "imageUrl": "https://media.zenfs.com/en/the_telegraph_258/590c07afd83f7328594e219a3f8a6a62"
-        },
-        {
-          "id": "honeywell-earnings-preview-505d358c?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Honeywell reports first-quarter earnings per share of $2.07 from $8.9 billion in sales. Wall Street was looking for earnings of $1.93 a share on sales of $8.5 billion.",
-          "link": "https://www.barrons.com/articles/honeywell-earnings-preview-505d358c?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-04-27T10:39:00.000Z",
-          "wordCount": 6764,
-          "title": "Honeywell Beats Earnings Estimates and the Stock Drops. This Is a Tough Crowd.",
-          "imageUrl": "https://images.barrons.com/im-762015/social"
-        },
-        {
-          "id": "crypto-bounces-back-rumor-mill-103629492.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/video/crypto-bounces-back-rumor-mill-103629492.html",
-          "publishedOn": "2023-04-27T10:36:29.000Z",
-          "wordCount": null,
-          "title": "Crypto bounces back after rumor mill scare",
-          "imageUrl": null
-        },
-        {
-          "id": "stock-market-movers-d34855f1?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Meta Platforms, the parent company of Facebook, reports better-than-expected first-quarter earnings and revenue, First Republic shares rise after two days of sharp losses, Roku posts a narrower-than-expected quarterly loss, and Amazon is scheduled to report earnings after markets close Thursday.",
-          "link": "https://www.barrons.com/articles/stock-market-movers-d34855f1?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-04-27T10:17:00.000Z",
-          "wordCount": 6894,
-          "title": "These Stocks Are Moving the Most Today: Meta, First Republic, Roku, ServiceNow, Wolfspeed, Amazon, and More",
-          "imageUrl": "https://images.barrons.com/im-743185/social"
         }
       ]
     }
