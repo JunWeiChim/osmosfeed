@@ -722,16 +722,6 @@
           "wordCount": 411,
           "title": "Lordstown Warns of Bankruptcy Without New Funding",
           "imageUrl": null
-        },
-        {
-          "id": "f9df42219e8c15bd86f2a8094967248f",
-          "author": "Investopedia",
-          "description": "The Federal Deposit and Insurance Commission wants to receive all bids for First Republic by Sunday with JPMorgan and PNC said to be leading the chase.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8063cee152b25d379c9d75a5fb283e9b094dc620903abd9b416646d26f867edb821763d1e134bcb8f32ee1a58723b129fb2f1c96314b450458a5a5f08e2e",
-          "publishedOn": "2023-04-30T04:13:50.860Z",
-          "wordCount": 411,
-          "title": "JPMorgan, PNC In Fray For First Republic As FDIC Calls For Bids, Report",
-          "imageUrl": null
         }
       ]
     },
@@ -7424,6 +7414,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/investing/101515/3-biggest-hedge-fund-scandals.asp",
+          "author": "John Edwards",
+          "description": "Learn about major hedge fund failures including the Madoff investment scandal and insider trading cases at SAC Capital, LTCM, and the Galleon Group.",
+          "link": "https://www.investopedia.com/articles/investing/101515/3-biggest-hedge-fund-scandals.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-05-29T15:55:44.000Z",
+          "wordCount": 8360,
+          "title": "The 9 Biggest Hedge Fund Failures",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/JVP3jsPc9mzlw6N-ich9lUw7gcs=/680x440/ap081217058296-5bfc385bc9e77c00587a8eb7.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/JVP3jsPc9mzlw6N-ich9lUw7gcs=/680x440/ap081217058296-5bfc385bc9e77c00587a8eb7.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/i/indexing.asp",
+          "author": "Adam Hayes",
+          "description": "Indexing may be a statistical measure for tracking economic data, a methodology for grouping a specific market segment, or an investment management strategy for passive investments.",
+          "link": "https://www.investopedia.com/terms/i/indexing.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-05-29T15:36:34.000Z",
+          "wordCount": 6580,
+          "title": "Indexing: Definition and Uses in Economics and Investing",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/u1dGUlt7HUCHQPsrYrytdt6XDgc=/680x440/155571944-5bfc2b9646e0fb005144dd3f.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/u1dGUlt7HUCHQPsrYrytdt6XDgc=/680x440/155571944-5bfc2b9646e0fb005144dd3f.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/r/rescission.asp",
+          "author": "Daniel Liberto",
+          "description": "Rescission is the voiding of a contract that a court does not recognize as legally binding. Find out when you can and cannot rescind a contract.",
+          "link": "https://www.investopedia.com/terms/r/rescission.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-05-29T15:07:33.000Z",
+          "wordCount": 6893,
+          "title": "What Is Rescission? Requirements, How It Works, and Example",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Bu-enut6ABidswBHaAHPdFNpnGI=/703x515/contract-b38740a7710e46e984ed138adb1d948b.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Bu-enut6ABidswBHaAHPdFNpnGI=/703x515/contract-b38740a7710e46e984ed138adb1d948b.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/r/ripple-cryptocurrency.asp",
           "author": "Jake Frankenfield",
@@ -23457,6 +23492,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "could-the-u-s-default-on-june-5-it-depends-2341a695?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "It isn’t certain what happens on the so-called X-date if Congress doesn’t raise the debt limit.",
+          "link": "https://www.wsj.com/articles/could-the-u-s-default-on-june-5-it-depends-2341a695?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-05-29T14:51:00.000Z",
+          "wordCount": 7744,
+          "title": "Could the U.S. Default on June 5? It Depends",
+          "imageUrl": "https://images.wsj.net/im-789835/social"
+        },
+        {
           "id": "energy-oil-gas-stock-picks-roundtable-f0171204?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Our energy roundtable experts see value in U.S. shale stocks and European majors as global energy demand outstrips supply.",
@@ -23675,6 +23720,16 @@
           "wordCount": 2043,
           "title": "Saudi Net Reserves Fall to $410 Billion, Lowest Since 2010",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/IocYfSAV1L1XwFuCPamEwQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/422c4f405c4981b123bc72a8f3f4c8af"
+        },
+        {
+          "id": "record-bound-indian-stocks-reclaim-053823020.html",
+          "author": null,
+          "description": "(Bloomberg) -- India has reclaimed its spot as the world’s fifth largest stock market after losing that status to France in January, as foreign investors snap up the Asian nation’s shares.Most Read from BloombergBiden, McCarthy Forge Debt Deal in Bid to Avert US DefaultTraders Ready to Embrace Riskier Assets After Debt-Cap DealKey Takeaways From Biden-McCarthy Deal to Avert US DefaultWorld’s Most Valuable Chipmaker Nvidia Unveils More AI Products After $184 Billion RallyManchin Gets Mountain Val",
+          "link": "https://finance.yahoo.com/news/record-bound-indian-stocks-reclaim-053823020.html",
+          "publishedOn": "2023-05-29T05:38:23.000Z",
+          "wordCount": 2165,
+          "title": "India Reclaims Spot as World’s Fifth-Largest Stock Market",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/22fa534f6be31b00c16f3309427c24a5"
         },
         {
           "id": "baidu-shares-jump-ernie-bot-034434738.html",
@@ -46035,16 +46090,6 @@
           "wordCount": 12281,
           "title": "Sunak is pulling the plug on the North Sea – watch UK oil drain away",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/8dPISQNd.Tlgg006OhCXlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/0683aba7913644dfd07d33a58e3d8c98"
-        },
-        {
-          "id": "auddev&yptr=yahoo",
-          "author": null,
-          "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-          "link": "https://www.ft.com/cms/s/a278dac8-39d1-4985-8a3b-5a50077dacb6,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev&yptr=yahoo",
-          "publishedOn": "2023-04-30T04:00:01.000Z",
-          "wordCount": 1631,
-          "title": "Investors bet on shrinking pool of tech stocks as rally narrows",
-          "imageUrl": null
         }
       ]
     }
