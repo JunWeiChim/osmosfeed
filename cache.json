@@ -1348,6 +1348,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6265751/",
+          "author": "Noémi van de Pol",
+          "description": "Voor het eerst in twee jaar dalen de prijzen die Nederlandse industriebedrijven vragen voor hun goederen. De prijzen waren in april 2,3 procent lager dan in dezelfde maand vorig jaar.",
+          "link": "https://www.nu.nl/economie/6265751/prijzen-in-nederlandse-industrie-dalen-voor-het-eerst-in-twee-jaar.html",
+          "publishedOn": "2023-05-30T06:09:52.000Z",
+          "wordCount": 881,
+          "title": "Prijzen in Nederlandse industrie dalen voor het eerst in twee jaar",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/d69x0a5azm0y_sqr256.jpg/prijzen-in-nederlandse-industrie-dalen-voor-het-eerst-in-twee-jaar.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/d69x0a5azm0y_sqr256.jpg/prijzen-in-nederlandse-industrie-dalen-voor-het-eerst-in-twee-jaar.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6265303/",
           "author": "Ertan Basekin",
           "description": "In verschillende sectoren staan de cao-onderhandelingen op scherp met acties en stakingen tot gevolg, maar in de supermarktbranche gloort hoop dat de partijen er snel uit komen. De eerste gesprekken zijn constructief en goed verlopen. De werkgevers zijn bereid de lonen van de ongeveer 300.000 werknemers met 9 procent te verhogen.",
@@ -23586,6 +23601,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "marketmind-too-soon-drink-us-044349787.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/marketmind-too-soon-drink-us-044349787.html",
+          "publishedOn": "2023-05-30T04:43:49.000Z",
+          "wordCount": null,
+          "title": "Marketmind: Too soon to drink to the US debt deal",
+          "imageUrl": null
+        },
         {
           "id": "company-insiders-made-billions-before-spac-bust-4607a869?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -46125,16 +46150,6 @@
           "wordCount": 12078,
           "title": "Early retirement devotees rethink assumptions after 'dicey times'",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/FoM3KaJaKPACcJW1nKSxPg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-06/4ad5bb50-eb68-11ec-bbfe-9b82fc86cc37"
-        },
-        {
-          "id": "auddev&yptr=yahoo",
-          "author": null,
-          "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-          "link": "https://www.ft.com/cms/s/f928330f-0e6f-4ab1-be14-25b7dbc9e3b8,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev&yptr=yahoo",
-          "publishedOn": "2023-04-30T17:57:01.000Z",
-          "wordCount": 1638,
-          "title": "JPMorgan, Citizens and PNC submit bids for First Republic",
-          "imageUrl": null
         }
       ]
     }
