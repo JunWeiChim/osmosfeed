@@ -731,6 +731,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "fa46157946f3f84126dd1185befd628f",
+          "author": "Investopedia",
+          "description": "The House is set to vote on the debt ceiling deal and the Labor Department is expected to report fewer job openings. Here’s what investors need to know today.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df4f2a56d06e81209c9d0a69cdab38b3ecae73b3a5dc7df77fa47d5ad261165f03",
+          "publishedOn": "2023-05-31T14:10:35.202Z",
+          "wordCount": 411,
+          "title": "5 Things to Know Before Markets Open",
+          "imageUrl": null
+        },
+        {
           "id": "7fed7487f84f0e9aa424cce493e0c3fd",
           "author": "Investopedia",
           "description": "The Dow fell, the Nasdaq rose and the S&P 500 was virtually unchanged on Monday, May 30, 2023, as the debt ceiling deal goes to Congress for approval",
@@ -1377,6 +1387,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6265971/",
+          "author": "onze economieredactie",
+          "description": "De prijzen in Duitsland, Frankrijk, Spanje en Italië zijn in mei minder hard gestegen dan in april. De inflatie is vooral door de dalende energieprijzen afgenomen. Maar de prijzen van voedingsmiddelen zijn deze maand wel hard omhooggegaan.",
+          "link": "https://www.nu.nl/economie/6265971/inflatie-daalt-verder-in-duitsland-en-frankrijk-maar-voedsel-blijft-duur.html",
+          "publishedOn": "2023-05-31T13:19:10.000Z",
+          "wordCount": 985,
+          "title": "Inflatie daalt verder in Duitsland en Frankrijk, maar voedsel blijft duur",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/ma9xjbaaposi_sqr256.jpg/inflatie-daalt-verder-in-duitsland-en-frankrijk-maar-voedsel-blijft-duur.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/ma9xjbaaposi_sqr256.jpg/inflatie-daalt-verder-in-duitsland-en-frankrijk-maar-voedsel-blijft-duur.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6265962/",
           "author": "Eva Schouten",
@@ -7504,6 +7529,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/trading/09/gold-silver-ration.asp",
+          "author": "Caroline Banton",
+          "description": "The gold-silver ratio describes how much silver it takes to buy an ounce of gold. It may seem arcane, but many strategies rely on trading this ratio.",
+          "link": "https://www.investopedia.com/articles/trading/09/gold-silver-ration.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-05-31T13:10:35.000Z",
+          "wordCount": 7513,
+          "title": "Trading the Gold-Silver Ratio",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/M_LrPpXeSsu61KRuzoiTqthohgE=/1600x1200/GettyImages-174072047-4ca848d55c1a4c26a799fa60ad80b32e.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/M_LrPpXeSsu61KRuzoiTqthohgE=/1600x1200/GettyImages-174072047-4ca848d55c1a4c26a799fa60ad80b32e.jpg"
+        },
         {
           "id": "https://www.investopedia.com/will-nvidia-s-ai-bets-support-a-usd1-trillion-valuation-7505320",
           "author": "Kevin George",
@@ -23587,6 +23627,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "stocks-slide-with-all-eyes-on-debt-ceiling-vote-stock-market-news-today-133218121.html",
+          "author": null,
+          "description": "US stocks opened lower Wednesday morning, as investors kept a watchful eye on the prospects for the debt-limit deal in an expected House floor vote later. Meanwhile, China’s economic woes pressured global markets.",
+          "link": "https://finance.yahoo.com/news/stocks-slide-with-all-eyes-on-debt-ceiling-vote-stock-market-news-today-133218121.html",
+          "publishedOn": "2023-05-31T13:32:18.000Z",
+          "wordCount": 2447,
+          "title": "Stocks slide with all eyes on debt-ceiling vote: Stock market news today",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/VpRXxVdqLeksCDgA2F2VLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/bc05c400-ffa3-11ed-94df-12999988777b"
+        },
+        {
+          "id": "company-forced-retire-140051147.html",
+          "author": null,
+          "description": "Retirement isn't always planned. For most people, reaching retirement age means finishing a lifetime of hard work. They have saved up enough to rest and enjoy their days without a daily grind. That isn't always the case though. Occasionally someone … Continue reading → The post How to Handle a Forced Retirement appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/company-forced-retire-140051147.html",
+          "publishedOn": "2023-05-31T13:00:23.000Z",
+          "wordCount": 3188,
+          "title": "Help! My Company Forced Me to Retire. What Should I Do?",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/089154999d5b0ad40936a80c4c93d609"
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -23615,6 +23675,16 @@
           "wordCount": 2457,
           "title": "AI is about to significantly change your computer: HP CEO",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/u_C9BxKtronMBpN6yjIqUw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/94b76c60-ffac-11ed-bffd-9a53ef559815"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-stocks-turn-10000-to-44175-in-five-months-2023/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-05-31T12:00:25.000Z",
+          "wordCount": null,
+          "title": "Five Stocks Turn $10,000 To $44,175 In Five Months",
+          "imageUrl": null
         },
         {
           "id": "vaccine-fatigue-can-give-your-portfolio-a-booster-da7b6383?siteid=yhoof2&yptr=yahoo",
@@ -23677,6 +23747,16 @@
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/bce560c3fe4448a4357ce57904840256"
         },
         {
+          "id": "move-over-scotland-u-s-oil-enters-worlds-most-important-benchmark-d7602b5f?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Oil from Texas will soon be part of the calculation known as Brent crude.",
+          "link": "https://www.wsj.com/articles/move-over-scotland-u-s-oil-enters-worlds-most-important-benchmark-d7602b5f?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-05-31T11:00:00.000Z",
+          "wordCount": 8448,
+          "title": "Move Over, Scotland. U.S. Oil Enters World’s Most Important Benchmark.",
+          "imageUrl": "https://images.wsj.net/im-790789/social"
+        },
+        {
           "id": "why-yellen-doesn-t-lose-110000040.html",
           "author": null,
           "description": "(Bloomberg) -- Whether they favor debt-limit brinkmanship or not, most Americans are alarmed by the level of US government borrowing. Treasury Secretary Janet Yellen isn’t one of them.Most Read from BloombergWinklevoss Twins Attempt Pivot After Gemini Loses Money and EmployeesTwitter Is Now Worth Just 33% of Elon Musk’s Purchase Price, Fidelity SaysMcCarthy Confident on Debt Vote Despite Hard-Line Ouster ThreatPutin Orders Tighter Defenses After Drone Strikes on MoscowJPMorgan Builds Unit for Wo",
@@ -23725,6 +23805,16 @@
           "wordCount": null,
           "title": "Daily – Vickers Top Insider Picks for 05/31/2023",
           "imageUrl": null
+        },
+        {
+          "id": "red-blooded-capitalist-jamie-dimon-095428858.html",
+          "author": null,
+          "description": "JPMorgan's CEO is currently in Shanghai for a series of conferences, in his first visit to mainland China since the COVID pandemic.",
+          "link": "https://finance.yahoo.com/news/red-blooded-capitalist-jamie-dimon-095428858.html",
+          "publishedOn": "2023-05-31T09:54:28.000Z",
+          "wordCount": 2383,
+          "title": "‘Red-blooded capitalist’ Jamie Dimon defends JPMorgan’s straddling of the U.S. and China: There ‘won’t be a decoupling and the world will go on’",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/EjsXTffDeD.JuiLwagFXuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/83af091f8207cbc9035833737ebceb0b"
         },
         {
           "id": "credit-suisse-bankers-leaving-hundreds-093137627.html",
@@ -45945,26 +46035,6 @@
           "wordCount": 11609,
           "title": "Coinbase Insiders Sued for Dumping Stock, Saving $1 Billion",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/BnS6aDfWNh5K85_9nD_hCA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/bloomberg_markets_842/dc0f308f90c146ff60e471fde7403f63"
-        },
-        {
-          "id": "alibaba-faded-rally-signals-grim-020004746.html",
-          "author": null,
-          "description": "(Bloomberg) -- It took only four weeks for optimism around Alibaba Group Holding Ltd.’s breakup plan to fizzle. Restoring it will likely be an uphill battle.Most Read from BloombergJPMorgan Ends First Republic’s Turmoil After FDIC SeizureFirst Republic’s Jumbo Mortgages Brought On Bank’s FailureBuffett Will Beat the Market as Recession Looms, Investors SayPeak Oil Spells Trouble for ConsumersIBM to Pause Hiring for Jobs That AI Could DoAlibaba’s American Depositary Receipts are now 2.3% below wh",
-          "link": "https://finance.yahoo.com/news/alibaba-faded-rally-signals-grim-020004746.html",
-          "publishedOn": "2023-05-02T02:00:04.000Z",
-          "wordCount": 11966,
-          "title": "Alibaba’s Faded Rally Signals Grim Outlook Ahead",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/dc2ddc1cf3ffad0179d1e8c7e33c40de"
-        },
-        {
-          "id": "ceo-warning-chatgpt-threat-sparks-014409987.html",
-          "author": null,
-          "description": "(Bloomberg) -- Chegg Inc. plummeted as much as 38% after warning that the ChatGPT tool is threatening growth of its homework-help services, one of the most notable market reactions yet to signs that generative AI is upending industries.Most Read from BloombergJPMorgan Ends First Republic’s Turmoil After FDIC SeizureFirst Republic’s Jumbo Mortgages Brought On Bank’s FailureBuffett Will Beat the Market as Recession Looms, Investors SayPeak Oil Spells Trouble for ConsumersIBM to Pause Hiring for Jo",
-          "link": "https://finance.yahoo.com/news/ceo-warning-chatgpt-threat-sparks-014409987.html",
-          "publishedOn": "2023-05-02T01:44:09.000Z",
-          "wordCount": 11638,
-          "title": "CEO’s Warning of ChatGPT Threat Sparks 38% Rout in Edtech Stock",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/5dc1d2683b0718b57e67c0691687efce"
         }
       ]
     }
