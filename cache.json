@@ -711,6 +711,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "671b377606677404fe9316f0bf8cc0a5",
+          "author": "Investopedia",
+          "description": "The Dow Jones Industrial Average moved higher by more than 0.5%, or 153 points, as investors celebrated the House of Representatives passage of the debt-ceiling bill, which now goes to the Senate.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c24e4acd35c869fcc0127917963cc06386c14a39",
+          "publishedOn": "2023-06-01T22:11:04.145Z",
+          "wordCount": 411,
+          "title": "Dow Jones Today: Debt Vote Drives Index Higher",
+          "imageUrl": null
+        },
+        {
           "id": "087ee3f7663d002705fc7c6e5a014a47",
           "author": "Investopedia",
           "description": "Markets gained on Thursday, June 1, 2023 as bipartisan plan to raise the debt ceiling advances in Congress.",
@@ -1397,6 +1407,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6266134/",
+          "author": "Tom van Gurp",
+          "description": "Nederlanders hebben ook in 2022 meer schone energie verbruikt dan het jaar ervoor. Vooral het gebruik van zonnepanelen zit in de lift. Biomassa is juist minder verstookt en ook het gasverbruik - dat niet duurzaam is - is flink gedaald. Dat blijkt uit cijfers van statistiekbureau CBS.",
+          "link": "https://www.nu.nl/economie/6266134/opnieuw-meer-schone-energie-gebruikt-vorig-jaar.html",
+          "publishedOn": "2023-06-01T22:07:44.000Z",
+          "wordCount": 926,
+          "title": "Opnieuw meer schone energie gebruikt vorig jaar",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/74fx7iba0qc4_sqr256.jpg/opnieuw-meer-schone-energie-gebruikt-vorig-jaar.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/74fx7iba0qc4_sqr256.jpg/opnieuw-meer-schone-energie-gebruikt-vorig-jaar.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6266144/",
           "author": "Thijs Rösken",
@@ -7531,21 +7556,6 @@
             "url": "https://media.nu.nl/m/v1qxpqha3p1d_sqr256.jpg/transavia-schrapt-deze-week-nog-eens-42-vluchten-van-en-naar-de-zon.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/v1qxpqha3p1d_sqr256.jpg/transavia-schrapt-deze-week-nog-eens-42-vluchten-van-en-naar-de-zon.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6262011/",
-          "author": "Noémi van de Pol",
-          "description": "Goed nieuws voor starters op de woningmarkt: koophuizen zullen rond het najaar iets betaalbaarder zijn. Dat komt doordat de inkomens stijgen en de huizenprijzen waarschijnlijk verder dalen.",
-          "link": "https://www.nu.nl/economie/6262011/starters-krijgen-het-eind-dit-jaar-iets-makkelijker-op-de-woningmarkt.html",
-          "publishedOn": "2023-05-03T09:32:06.000Z",
-          "wordCount": 831,
-          "title": "Starters krijgen het eind dit jaar iets makkelijker op de woningmarkt",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/b4mxepkazxwk_sqr256.jpg/starters-krijgen-het-eind-dit-jaar-iets-makkelijker-op-de-woningmarkt.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/b4mxepkazxwk_sqr256.jpg/starters-krijgen-het-eind-dit-jaar-iets-makkelijker-op-de-woningmarkt.jpg"
         }
       ]
     },
@@ -7554,6 +7564,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/i/iridium.asp",
+          "author": "James Chen",
+          "description": "Iridium is a rare and expensive corrosion-resistant metal. Discover why iridium is used in the manufacture of aircraft, spark plugs, and tech devices.",
+          "link": "https://www.investopedia.com/terms/i/iridium.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-01T21:03:11.000Z",
+          "wordCount": 6039,
+          "title": "Iridium Definition",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Pu7gYry_rDIE3GMigr67auv3Q1I=/680x440/investing4-5bfc2b8ec9e77c0026b4f956.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Pu7gYry_rDIE3GMigr67auv3Q1I=/680x440/investing4-5bfc2b8ec9e77c0026b4f956.jpg"
+        },
         {
           "id": "https://www.investopedia.com/dow-jones-today-june-1-2023-7507305",
           "author": "Terry Lane",
@@ -24357,6 +24382,36 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "broadcom-suffers-sales-slowdown-even-202710430.html",
+          "author": null,
+          "description": "(Bloomberg) -- Broadcom Inc., one of the world’s biggest chipmakers, said that artificial intelligence spending is helping fuel sales, but not enough to offset a broader post-pandemic slowdown. Most Read from BloombergChina Is Drilling a 10,000-Meter-Deep Hole Into the EarthInside the Making of Redfall, Xbox’s Latest MisfireDebt-Limit Deal Passes the House, Easing US Default ConcernsWall Street Banks Are Using AI to Rewire the World of FinanceBillionaire Perot Warns of Real Estate Recession as L",
+          "link": "https://finance.yahoo.com/news/broadcom-suffers-sales-slowdown-even-202710430.html",
+          "publishedOn": "2023-06-01T21:39:35.000Z",
+          "wordCount": 2194,
+          "title": "Broadcom CEO Predicts That Chipmaker’s Sales From AI Will Double",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/KL5q3g8XC82O78EX.GsNTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/c956a9b06903e3e7fd16d806884eeca4"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/avgo-stock-broadcom-delivers-beat-and-raise-quarterly-report/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-06-01T21:12:50.000Z",
+          "wordCount": null,
+          "title": "Broadcom Delivers Beat-And-Raise Report Thanks To Data Center Chip Growth",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/lulu-stock-analysts-arent-sweating-over-lululemon-earnings-heres-why/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-06-01T20:50:35.000Z",
+          "wordCount": null,
+          "title": "Lululemon Stock Spikes On Strong Guidance, Earnings Beat",
+          "imageUrl": null
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -24365,6 +24420,16 @@
           "wordCount": null,
           "title": "SentinelOne Stock Crashes On Revenue Miss, Weak Revenue Outlook",
           "imageUrl": null
+        },
+        {
+          "id": "apple-stock-record-high-wwdc-b36e6a5b?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Investors in the iPhone maker will be watching for any exciting business updates during the Apple's Worldwide Developers Conference next week.",
+          "link": "https://www.barrons.com/articles/apple-stock-record-high-wwdc-b36e6a5b?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-01T19:54:00.000Z",
+          "wordCount": 6722,
+          "title": "Apple Stock Is Near a Record High. What Could Get It There.",
+          "imageUrl": "https://images.barrons.com/im-508969/social"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -46885,26 +46950,6 @@
           "wordCount": 11476,
           "title": "CVS beats Q1 expectations, cuts outlook after buying spree",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/iG.WqZEfXbQj6JZIlWYuPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/915ffe04dedf2bca57bf2bb1d0d06097"
-        },
-        {
-          "id": "regional-bank-stocks-fall-jpmorgan-first-republic-pacwest-86c038aa?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Shares of PacWest, Western Alliance, and other regional lenders extend losses.",
-          "link": "https://www.barrons.com/articles/regional-bank-stocks-fall-jpmorgan-first-republic-pacwest-86c038aa?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-03T09:54:00.000Z",
-          "wordCount": 7599,
-          "title": "PacWest and Other Regional Bank Stocks Fall Further. The Turmoil Hasn’t Gone Away.",
-          "imageUrl": "https://images.barrons.com/im-743866/social"
-        },
-        {
-          "id": "warren-buffetts-secret-sauce-involves-one-of-investings-most-basic-strategies-f96c4894?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Dividend stocks are core for the famed investor, whose fans will flock to Omaha, Neb., on Saturday for Berkshire Hathaway’s annual meeting.",
-          "link": "https://www.wsj.com/articles/warren-buffetts-secret-sauce-involves-one-of-investings-most-basic-strategies-f96c4894?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-03T09:30:00.000Z",
-          "wordCount": 8026,
-          "title": "Warren Buffett’s ‘Secret Sauce’ Involves One of Investing’s Most Basic Strategies",
-          "imageUrl": "https://images.wsj.net/im-773969/social"
         }
       ]
     }
