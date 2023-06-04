@@ -1388,6 +1388,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6266273/",
+          "author": "Noémi van de Pol",
+          "description": "Als de Eerste Kamer dinsdag met de herinvoering van de basisbeurs instemt, krijgen studenten vanaf september weer maandelijks een bedrag dat na hun opleiding een gift wordt. Dat is een opluchting voor veel studenten, al is het wetsvoorstel volgens velen verre van perfect.",
+          "link": "https://www.nu.nl/economie/6266273/de-comeback-van-de-basisbeurs-is-bijna-een-feit-maar-niet-voor-alle-studenten.html",
+          "publishedOn": "2023-06-04T03:00:14.000Z",
+          "wordCount": 1545,
+          "title": "De comeback van de basisbeurs is (bijna) een feit, maar niet voor alle studenten",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/gpxxqisaksej_sqr256.jpg/de-comeback-van-de-basisbeurs-is-bijna-een-feit-maar-niet-voor-alle-studenten.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/gpxxqisaksej_sqr256.jpg/de-comeback-van-de-basisbeurs-is-bijna-een-feit-maar-niet-voor-alle-studenten.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6266426/",
           "author": "Thijs Rösken",
           "description": "Bouwbedrijf Heijmans heeft zaterdag het predicaat koninklijk gekregen. De bouwer uit Rosmalen bestaat honderd jaar en krijgt bij dat jubileum de royale titel uitgereikt. Shell en DSM verloren onlangs nog hun kroon. Hoe zit het met het predicaat koninklijk?",
@@ -7319,6 +7334,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/safe-deposit-box-what-to-store-and-not-store-in-yours-4589854",
+          "author": "Jean Folger",
+          "description": "Safe deposit boxes can keep certain valuables safe, but don't use one for anything you’ll need easy access to. Learn what you should, and should not, put in a safety box.",
+          "link": "https://www.investopedia.com/safe-deposit-box-what-to-store-and-not-store-in-yours-4589854?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-04T02:51:54.000Z",
+          "wordCount": 7499,
+          "title": "Safe Deposit Boxes: Store This, Not That",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/u2xBEPBjA-TurI2bPs4FmBI0n9M=/6000x4500/SafeDeposit.AdobeStock_108569185-dd1cea751d1647b7a218187422ec29ef.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/u2xBEPBjA-TurI2bPs4FmBI0n9M=/6000x4500/SafeDeposit.AdobeStock_108569185-dd1cea751d1647b7a218187422ec29ef.jpeg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/personal-finance/093015/best-ways-send-large-sums-money-abroad.asp",
+          "author": "Evan Tarver",
+          "description": "It can be difficult to send large sums of money abroad. Learn more about the top five safest ways to send and receive large sums of money internationally.",
+          "link": "https://www.investopedia.com/articles/personal-finance/093015/best-ways-send-large-sums-money-abroad.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-04T02:03:43.000Z",
+          "wordCount": 6572,
+          "title": "Best Ways to Send Large Sums of Money Abroad",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/HtZU8Tc2ls71grIREAGfv6dcx54=/4000x2700/best-ways-send-large-sums-money-abroad.asp_Final-22063c580d674f3e9a82a7096af75505.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/HtZU8Tc2ls71grIREAGfv6dcx54=/4000x2700/best-ways-send-large-sums-money-abroad.asp_Final-22063c580d674f3e9a82a7096af75505.png"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/c/chargeback.asp",
+          "author": "Troy Segal",
+          "description": "A chargeback is a charge that is returned to a payment card after a customer successfully disputes an item on their account transactions report. Learn more.",
+          "link": "https://www.investopedia.com/terms/c/chargeback.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-04T01:28:34.000Z",
+          "wordCount": 6220,
+          "title": "What Is a Chargeback? Definition, How to Dispute, and Example",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/OV0R5P7Zny9bQEoJcO8ZSBmXFuw=/6720x4480/woman-with-paperwork-and-check-electronic-banking-at-laptop-1089096040-c48b560b2e6f439a90ea46513eaf4010.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/OV0R5P7Zny9bQEoJcO8ZSBmXFuw=/6720x4480/woman-with-paperwork-and-check-electronic-banking-at-laptop-1089096040-c48b560b2e6f439a90ea46513eaf4010.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/h/hyperinflation.asp",
           "author": "Will Kenton",
@@ -23783,126 +23843,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/MAbohPgA_GPnuRMVsAG-nmFklS0=/5125x3410/INV_OxyPeteQ123ErnsPreview_GettyImages-129310650-0f067d20c7774984b487c86534d1060b.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/h/housemaintenancerequirement.asp",
-          "author": "Jason Fernando",
-          "description": "A house maintenance requirement is the level of minimum margin account equity that is required by a brokerage firm.",
-          "link": "https://www.investopedia.com/terms/h/housemaintenancerequirement.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-05T14:56:51.000Z",
-          "wordCount": 6182,
-          "title": "House Maintenance Requirement Definition",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/M1uN2obOqIT7tOi6QkLbJ_jX7sk=/205x136/activetrading11-5bfc2b9b46e0fb00265bedaf.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/M1uN2obOqIT7tOi6QkLbJ_jX7sk=/205x136/activetrading11-5bfc2b9b46e0fb00265bedaf.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/loan-calculator-5104934",
-          "author": "Staff Author",
-          "description": "Whether you’re buying a car, a home, or paying for college, you may need more money for a purchase or a bill than you have in savings.",
-          "link": "https://www.investopedia.com/loan-calculator-5104934?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-05T14:53:23.000Z",
-          "wordCount": 5449,
-          "title": "Loan Calculator",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/mGQkycuQP0ZdIisMYjBGzVeZH9c=/724x482/GettyImages-1217818877-9c65e2d7a707444a815f2ff9b4a9b9f4.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/mGQkycuQP0ZdIisMYjBGzVeZH9c=/724x482/GettyImages-1217818877-9c65e2d7a707444a815f2ff9b4a9b9f4.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/185.asp",
-          "author": "Daniel Liberto",
-          "description": "\"In street name\" is a slang term used to describe a brokerage that holds securities on behalf of a client.",
-          "link": "https://www.investopedia.com/ask/answers/185.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-05T14:47:23.000Z",
-          "wordCount": 6534,
-          "title": "Street Name: Meaning, Overview, Advantages and Disadvantages",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/tke6FFyk3IrvNJvjw2qPl_RY6u0=/2120x1415/GettyImages-513087237-0ab09d7fc8a34630afafbd1917573618.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/tke6FFyk3IrvNJvjw2qPl_RY6u0=/2120x1415/GettyImages-513087237-0ab09d7fc8a34630afafbd1917573618.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/investing/060313/what-determines-your-cost-basis.asp",
-          "author": "Ryan Furhmann",
-          "description": "Cost basis is the original value or purchase price of an asset or investment for tax purposes.",
-          "link": "https://www.investopedia.com/articles/investing/060313/what-determines-your-cost-basis.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-05T14:36:35.000Z",
-          "wordCount": 8843,
-          "title": "What Is Cost Basis? Workings, Calculation, Example",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/XnP-Fi5cYZEoOtKLsXNcq5mYiZ0=/3699x1500/GettyImages-187569189-5c497c1cb19141b4aea3488073f808a8.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/XnP-Fi5cYZEoOtKLsXNcq5mYiZ0=/3699x1500/GettyImages-187569189-5c497c1cb19141b4aea3488073f808a8.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/chase-launches-new-air-canada-credit-card-5211721",
-          "author": "Ben Luthi",
-          "description": "The new Chase Aeroplan World Elite Mastercard Credit Card offers a big sign-up bonus, bonus rewards on everyday spending categories, and other perks.",
-          "link": "https://www.investopedia.com/chase-launches-new-air-canada-credit-card-5211721?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-05T14:17:05.000Z",
-          "wordCount": 5706,
-          "title": "Chase Launches New Air Canada Credit Card",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/2HpDtGQjcPdbO3Xr0NG0fB3btDQ=/1432x902/chase-aeroplan-world-elite-mastercard-394335a2615045d2a1abe3024d8af26b.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/2HpDtGQjcPdbO3Xr0NG0fB3btDQ=/1432x902/chase-aeroplan-world-elite-mastercard-394335a2615045d2a1abe3024d8af26b.jpeg"
-        },
-        {
-          "id": "https://www.investopedia.com/amortization-calculator-5086959",
-          "author": "Amy Fontinelle",
-          "description": "Use our amortization schedule calculator to estimate your monthly loan repayments, interest rate, and payoff date on a mortgage or other type of loan.",
-          "link": "https://www.investopedia.com/amortization-calculator-5086959?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-05T14:12:27.000Z",
-          "wordCount": 5473,
-          "title": "Amortization Calculator",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/AxQApUPbh4SIZlhTy_zlWSjG-GU=/702x444/ScreenShot2019-01-15at3.35.40PM-5c3e455dc9e77c0001915edd.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/AxQApUPbh4SIZlhTy_zlWSjG-GU=/702x444/ScreenShot2019-01-15at3.35.40PM-5c3e455dc9e77c0001915edd.png"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/f/forwardprice.asp",
-          "author": "James Chen",
-          "description": "The predetermined delivery price of a forward contract, as agreed on and calculated by the buyer and seller.",
-          "link": "https://www.investopedia.com/terms/f/forwardprice.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-05T14:08:58.000Z",
-          "wordCount": 6906,
-          "title": "Forward Price: Definition, Formulas for Calculation, and Example",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Ozo8N3Mh1muXOnA7SGSyRb5lO9Q=/680x440/78289438-5bfc2b8d46e0fb00260b2401.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Ozo8N3Mh1muXOnA7SGSyRb5lO9Q=/680x440/78289438-5bfc2b8d46e0fb00260b2401.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/april-unemployment-holds-steady-7489291",
-          "author": "Staff Author",
-          "description": "The unemployment rate has remained between 3.4% and 3.7% for more than a year, despite fears that the labor market may succumb to interest rate pressures.",
-          "link": "https://www.investopedia.com/april-unemployment-holds-steady-7489291?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-05T13:39:02.000Z",
-          "wordCount": 4807,
-          "title": "Unemployment Mostly Remains Steady in April",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/099n5fMOqfuOs5P_z6xFxeyFtbI=/3000x1950/GettyImages-84674088-3935f93bf3664253a820d1d8495ae174.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/099n5fMOqfuOs5P_z6xFxeyFtbI=/3000x1950/GettyImages-84674088-3935f93bf3664253a820d1d8495ae174.jpg"
         }
       ]
     },
@@ -24080,6 +24020,16 @@
           "wordCount": null,
           "title": "S&P 500 Giant Tesla Leads Five Stocks Near Buy Points As Market Revs Up",
           "imageUrl": null
+        },
+        {
+          "id": "even-the-cheapest-tesla-model-3-now-qualifies-for-the-full-7500-tax-credit-112145637.html",
+          "author": null,
+          "description": "If you're buying a Tesla Model 3 in the US, you can now get the maximum possible federal tax credit of $7,500 no matter what make you're getting.",
+          "link": "https://finance.yahoo.com/news/even-the-cheapest-tesla-model-3-now-qualifies-for-the-full-7500-tax-credit-112145637.html",
+          "publishedOn": "2023-06-03T11:21:45.000Z",
+          "wordCount": 1829,
+          "title": "Even the cheapest Tesla Model 3 now qualifies for the full $7,500 tax credit",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/l2ga3A6_1CFyzCyoui3LgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/1d5969a0-01ed-11ee-96ed-4a1468863945"
         },
         {
           "id": "chip-maker-tsmc-needs-hire-100000012.html",
@@ -45520,106 +45470,6 @@
           "wordCount": 12878,
           "title": "How Warren Buffett avoided damage from the current banking crisis",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/atE7nZBIvLBcBHSlVDoArQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/51f8e680-eab5-11ed-9fdd-61659d718aa1"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/research/earnings-preview/abnb-stock-holding-pattern-q1-results-warren-buffett-favorite-occidental-petroleum-oxy-earnings/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-05-05T14:43:05.000Z",
-          "wordCount": null,
-          "title": "ABNB Stock In Holding Pattern Ahead Of Q1 Results; Warren Buffett Favorite Occidental Petroleum Set To Report",
-          "imageUrl": null
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/technology/apls-stock-apellis-earnings-q1-2023/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-05-05T14:36:43.000Z",
-          "wordCount": null,
-          "title": "Apellis Obliterates Sales Expectations; Is A Takeover In The Cards?",
-          "imageUrl": null
-        },
-        {
-          "id": "ask-advisor-am-too-im-142734001.html",
-          "author": null,
-          "description": "At 68, I do not have any investments of any kind. My $80,000 condo is paid off, and I have $60,000 saved. Am I too late? -Bernhard It's never too late to start investing and managing your money. But I … Continue reading → The post Ask an Advisor: ‘Am I Too Late?' I'm 68, Have No Investments and Only Have $60K Saved appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/ask-advisor-am-too-im-142734001.html",
-          "publishedOn": "2023-05-05T14:27:34.000Z",
-          "wordCount": 11774,
-          "title": "Ask an Advisor: ‘Am I Too Late?' I'm 68, Have No Investments and Only Have $60K Saved",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/6b3c2ad4c4b4daad3b7e7b1d5812b14e"
-        },
-        {
-          "id": "draftkings-earnings-stock-price-ff852cbb?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The sports betting company posted an adjusted loss of 51 cents a share for the quarter, narrower than the 70-cent loss analysts had forecast.",
-          "link": "https://www.barrons.com/articles/draftkings-earnings-stock-price-ff852cbb?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-05T14:15:00.000Z",
-          "wordCount": 6707,
-          "title": "DraftKings Stock Is Jumping. What Wall Street Is Saying About Earnings.",
-          "imageUrl": "https://images.barrons.com/im-398231/social"
-        },
-        {
-          "id": "fed-rate-hike-pause-no-080702163.html",
-          "author": null,
-          "description": "(Bloomberg) -- The Federal Reserve may be signaling its willingness to pause rate hikes, but Bank of America Corp.’s Michael Hartnett says it’s not yet time to buy equities as outflows accelerate amid elevated inflation and recession fears. Most Read from BloombergPeter Thiel Says Moving to Florida from Silicon Valley Is Too ExpensiveApple Sees Biggest Rally of the Year After Sales Top EstimatesHeavy Marijuana Use Increases Schizophrenia in Men, Study FindsJPMorgan Sees Investors Moving to Gold,",
-          "link": "https://finance.yahoo.com/news/fed-rate-hike-pause-no-080702163.html",
-          "publishedOn": "2023-05-05T13:56:46.000Z",
-          "wordCount": 11875,
-          "title": "Fed Rate-Hike Pause No Reason to Buy Stocks, BofA Says",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/cc3c85d5f5f07d79eb281da007b4b4f6"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/bank-crisis-bankers-call-for-probe-into-short-sellers-elizabeth-warren-wants-answers-from-first-republic/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-05-05T13:56:06.000Z",
-          "wordCount": null,
-          "title": "Bank Crisis: Bankers Call For Probe Into Short Sellers. Elizabeth Warren Wants Answers From First Republic.",
-          "imageUrl": null
-        },
-        {
-          "id": "carvana-stock-surges-as-used-car-dealer-sees-q2-profit-135040050.html",
-          "author": null,
-          "description": "Beaten-down Carvana shares are surging on Friday after the largest online used car retailer in the country said it will report a profit in the 2nd quarter.",
-          "link": "https://finance.yahoo.com/news/carvana-stock-surges-as-used-car-dealer-sees-q2-profit-135040050.html",
-          "publishedOn": "2023-05-05T13:50:40.000Z",
-          "wordCount": 11740,
-          "title": "Carvana stock surges as used-car dealer sees Q2 profit",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/duuJcszW1Djp6JoDZqk6.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-01/1ee313e0-5676-11eb-bfff-0bed4ec4693b"
-        },
-        {
-          "id": "american-express-ceo-on-why-warren-buffett-is-a-legendary-investor-134459176.html",
-          "author": null,
-          "description": "American Express CEO Stephen Squeri has formed a tight bond with the company's largest shareholder Warren Buffett.",
-          "link": "https://finance.yahoo.com/news/american-express-ceo-on-why-warren-buffett-is-a-legendary-investor-134459176.html",
-          "publishedOn": "2023-05-05T13:44:59.000Z",
-          "wordCount": 12196,
-          "title": "American Express CEO on why Warren Buffett is a legendary investor",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/x1u2zA6tsBaxy4GGpV2hqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-08/185cce60-b79b-11e9-bbfb-8dea8db9a976"
-        },
-        {
-          "id": "bolivian-senate-approves-general-terms-022039018.html",
-          "author": null,
-          "description": "(Bloomberg) -- Bolivian bonds jumped after the country’s Senate approved late Thursday a central bank bill that would allow the government to monetize its gold reserves, a key step to ease a dollar shortage and tame a growing financial crisis.Most Read from BloombergPeter Thiel Says Moving to Florida from Silicon Valley Is Too ExpensiveApple Sees Biggest Rally of the Year After Sales Top EstimatesJPMorgan Sees Investors Moving to Gold, Tech Amid Recession RiskHeavy Marijuana Use Increases Schizo",
-          "link": "https://finance.yahoo.com/news/bolivian-senate-approves-general-terms-022039018.html",
-          "publishedOn": "2023-05-05T13:43:22.000Z",
-          "wordCount": 11413,
-          "title": "Bolivian Bonds Jump After Senate Approves Bill to Monetize Gold",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/eI4AwBZadbQKgHkTpCoH7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Njg-/https://media.zenfs.com/en/bloomberg_markets_842/2dfdbedda757a945f89fbe86293b8adf"
-        },
-        {
-          "id": "the-green-revolution-is-here-which-big-miners-are-prepared-e8864ffa?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "New U.S. legislation points to the world being short of copper in a few years. A few big mining firms could be huge beneficiaries.",
-          "link": "https://www.wsj.com/articles/the-green-revolution-is-here-which-big-miners-are-prepared-e8864ffa?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-05T13:31:00.000Z",
-          "wordCount": 8488,
-          "title": "The Green Revolution Is Here. Which Big Miners Are Prepared?",
-          "imageUrl": "https://images.wsj.net/im-775960/social"
         }
       ]
     }
