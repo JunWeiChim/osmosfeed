@@ -1358,6 +1358,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6264864/",
+          "author": "Ertan Basekin",
+          "description": "In steeds meer sectoren kunnen we met vervroegd pensioen. Dat betekent dat iemand met een zwaar beroep bijvoorbeeld drie jaar eerder kan stoppen met werken, maar daar wordt nauwelijks gebruik van gemaakt.",
+          "link": "https://www.nu.nl/economie/6264864/meer-mensen-met-zwaar-beroep-kunnen-eerder-stoppen-met-werken.html",
+          "publishedOn": "2023-06-05T03:09:38.000Z",
+          "wordCount": 1545,
+          "title": "Meer mensen met zwaar beroep kunnen eerder stoppen met werken",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/vtxxwwea4ar3_sqr256.jpg/meer-mensen-met-zwaar-beroep-kunnen-eerder-stoppen-met-werken.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/vtxxwwea4ar3_sqr256.jpg/meer-mensen-met-zwaar-beroep-kunnen-eerder-stoppen-met-werken.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6266585/",
           "author": "onze nieuwsredactie",
           "description": "Driekwart van de Nederlandse ondernemers zegt hogere kosten niet of slechts voor een deel te kunnen doorberekenen aan klanten. Dat komt vooral omdat ze bang zijn om klanten kwijt te raken aan de concurrentie. Ook zijn prijzen vaak vastgelegd in afspraken met klanten, meldt statistiekbureau CBS.",
@@ -7296,36 +7311,6 @@
             "url": "https://media.nu.nl/m/mu3x9cfaub8t_sqr256.jpg/mannen-zijn-schaars-in-de-kinderopvang-het-probleem-zit-bij-de-ouders.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/mu3x9cfaub8t_sqr256.jpg/mannen-zijn-schaars-in-de-kinderopvang-het-probleem-zit-bij-de-ouders.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6262354/",
-          "author": "Astrid Martirossian",
-          "description": "Voorspellen of er een recessie aankomt is geen exacte wetenschap. Toch zijn er een aantal punten waarop economen kunnen letten, zoals het aantal werklozen en uitgaven van huishoudens. Wat kunnen deze gegevens ons vertellen over een mogelijke recessie?",
-          "link": "https://www.nu.nl/economie/6262354/hoe-weten-we-of-er-een-recessie-aankomt.html",
-          "publishedOn": "2023-05-06T15:10:04.000Z",
-          "wordCount": 871,
-          "title": "Explainer | Hoe weten we of er een recessie aankomt?",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/zqrxequauut9_sqr256.jpg/hoe-weten-we-of-er-een-recessie-aankomt.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/zqrxequauut9_sqr256.jpg/hoe-weten-we-of-er-een-recessie-aankomt.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6262362/",
-          "author": "Tom van Gurp",
-          "description": "Transavia moest de afgelopen weken tientallen vluchten schrappen en ook de komende tijd zitten reizigers nog in onzekerheid. De vliegmaatschappij houdt veel toestellen aan de grond, waardoor vele duizenden vakantiegangers zijn gedupeerd. Wat gaat er mis?",
-          "link": "https://www.nu.nl/economie/6262362/bliksem-aanrijdingen-en-papierwerk-zitten-transavia-dwars.html",
-          "publishedOn": "2023-05-06T15:09:08.000Z",
-          "wordCount": 1276,
-          "title": "Bliksem, aanrijdingen en papierwerk zitten Transavia dwars",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/b5yxarvakqm0_sqr256.jpg/bliksem-aanrijdingen-en-papierwerk-zitten-transavia-dwars.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/b5yxarvakqm0_sqr256.jpg/bliksem-aanrijdingen-en-papierwerk-zitten-transavia-dwars.jpg"
         }
       ]
     },
@@ -7334,6 +7319,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/personal-finance/011916/tips-buying-beach-condo-puerto-rico.asp",
+          "author": "Julia Ingall",
+          "description": "Puerto Rico has beautiful beaches, a great climate, and tax breaks for American buyers—but also a huge debt crisis. Learn more about purchasing a condo in Puerto Rico.",
+          "link": "https://www.investopedia.com/articles/personal-finance/011916/tips-buying-beach-condo-puerto-rico.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-05T02:39:20.000Z",
+          "wordCount": 7018,
+          "title": "Tips on Buying a Beach Condo in Puerto Rico",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ruaCD96ld3a2cJ2u7V_vtQ_vBi8=/680x440/puerto_rico-5bfc3c9246e0fb00511e070e.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ruaCD96ld3a2cJ2u7V_vtQ_vBi8=/680x440/puerto_rico-5bfc3c9246e0fb00511e070e.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/p/positive-pay.asp",
           "author": "Julia Kagan",
@@ -45675,16 +45675,6 @@
           "wordCount": 8416,
           "title": "Buffett and Munger Disagree on the Future of Value Investing",
           "imageUrl": "https://images.barrons.com/im-777123/social"
-        },
-        {
-          "id": "berkshire-hathaway-2023-warren-buffett-says-managers-were-surprised-by-the-economy-150157464.html",
-          "author": null,
-          "description": "Warren Buffett kicked off the Berkshire Hathaway annual meeting with a read on the US economy.",
-          "link": "https://finance.yahoo.com/news/berkshire-hathaway-2023-warren-buffett-says-managers-were-surprised-by-the-economy-150157464.html",
-          "publishedOn": "2023-05-06T15:01:57.000Z",
-          "wordCount": 11766,
-          "title": "Berkshire Hathaway 2023: Warren Buffett says managers were 'surprised' by the economy",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/CcEryuP1_lp7NyWhhL0VVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/c11f8e80-db54-11ed-bcaf-25d7e3ac29b1"
         }
       ]
     }
