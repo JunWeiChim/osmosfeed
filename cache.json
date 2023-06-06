@@ -1438,6 +1438,36 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6266776/",
+          "author": "onze economieredactie",
+          "description": "Schiphol test een nieuwe robot die in de bagagehal koffers kan tillen en daarmee het werk voor het personeel kan verlichten. Ook wordt een robot getest die koffers opzij kan schuiven naar de bagageband. De luchthaven kondigt aan nog een aantal andere tilhulpen en volledig geautomatiseerde systemen te willen testen.",
+          "link": "https://www.nu.nl/economie/6266776/robots-moeten-het-zware-werk-overnemen-van-bagagesjouwers-op-schiphol.html",
+          "publishedOn": "2023-06-06T05:53:01.000Z",
+          "wordCount": 1049,
+          "title": "Robots moeten het zware werk overnemen van bagagesjouwers op Schiphol",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/a9axdzda2ms4_sqr256.jpg/robots-moeten-het-zware-werk-overnemen-van-bagagesjouwers-op-schiphol.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/a9axdzda2ms4_sqr256.jpg/robots-moeten-het-zware-werk-overnemen-van-bagagesjouwers-op-schiphol.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6266771/",
+          "author": "Thijs Rösken",
+          "description": "De inflatie was in de maand mei 6,1 procent, terwijl de prijzen in april nog 5,2 procent hoger waren dan een jaar eerder. Eten en drinken is nog altijd veel duurder dan een jaar eerder, terwijl de energieprijzen niet hard genoeg dalen om de inflatie omlaag te brengen.",
+          "link": "https://www.nu.nl/economie/6266771/inflatie-weer-omhoog-doordat-energieprijzen-minder-hard-dalen.html",
+          "publishedOn": "2023-06-06T05:48:23.000Z",
+          "wordCount": 1295,
+          "title": "Inflatie weer omhoog doordat energieprijzen minder hard dalen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/x0exlmaahpf2_sqr256.jpg/inflatie-weer-omhoog-doordat-energieprijzen-minder-hard-dalen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/x0exlmaahpf2_sqr256.jpg/inflatie-weer-omhoog-doordat-energieprijzen-minder-hard-dalen.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6266763/",
           "author": "Rutger Otto",
           "description": "Het leek alsof geen groot techbedrijf nog een presentatie kon geven zonder focus op kunstmatige intelligentie. Maar Apple trekt zich niets van die trend aan en zet juist vol in op augmented reality, met een bril van 3.499 dollar: de Vision Pro.",
@@ -24808,21 +24838,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/dWX-wFrbZzsUumZD1LRHeaWUfY8=/1500x1000/statistics-ae8f1320de174c279eeeee49c4087917.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/v/volume.asp",
-          "author": "Adam Hayes",
-          "description": "Volume refers to the number of shares or contracts traded in an asset or security over a period of time, usually over the course of a trading day.",
-          "link": "https://www.investopedia.com/terms/v/volume.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-07T17:22:35.000Z",
-          "wordCount": 7648,
-          "title": "What Is Volume of a Stock, and Why Does It Matter to Investors?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/xn6iK4qpHeyFIkNIXc7I9IuRHw8=/205x136/activetrading9-5bfc2b99c9e77c002630667a.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/xn6iK4qpHeyFIkNIXc7I9IuRHw8=/205x136/activetrading9-5bfc2b99c9e77c002630667a.jpg"
         }
       ]
     },
@@ -24850,6 +24865,16 @@
           "wordCount": 1928,
           "title": "A billionaire investor who predicted the '08 crisis and the post-COVID inflation spike sees 'significant' recession risk and a prolonged period of low asset returns",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/9AWaYBpkpcbegnMfUQ.4lg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/efd23b65628afcf5a82629cf2b0877aa"
+        },
+        {
+          "id": "bitcoin-ether-skid-bnb-drops-002318014.html",
+          "author": null,
+          "description": "All top 10 non-stablecoin cryptocurrencies took a sharp fall Tuesday morning in Asia, after the SEC sued Binance over alleged securities violations.",
+          "link": "https://finance.yahoo.com/news/bitcoin-ether-skid-bnb-drops-002318014.html",
+          "publishedOn": "2023-06-06T00:23:18.000Z",
+          "wordCount": 2233,
+          "title": "Bitcoin, Ether skid; BNB drops more than 10% after U.S. securities regulator sues Binance",
+          "imageUrl": "https://media.zenfs.com/en/forkast_news_articles_672/cc21436945df8e4d264a0b7bb6fc4441"
         },
         {
           "id": "over-100-upside-analysts-see-000201718.html",
@@ -46690,26 +46715,6 @@
           "wordCount": 12113,
           "title": "Buffett on investing in EVs: 'You won't see anyone that owns the market'",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/d271yPI2NvgkWjyGz5jScw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/43ff5430-ec57-11ed-af7f-534b6b20f439"
-        },
-        {
-          "id": "warren-buffett-on-finding-success-at-work-and-what-matters-in-hiring-43da47c3?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The Berkshire Hathaway CEO, with his business partner Charlie Munger, spent hours this weekend discussing life and career choices.",
-          "link": "https://www.wsj.com/articles/warren-buffett-on-finding-success-at-work-and-what-matters-in-hiring-43da47c3?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-07T18:03:00.000Z",
-          "wordCount": 7815,
-          "title": "Buffett and Munger on Success, Toxicity and Elon Musk",
-          "imageUrl": "https://images.wsj.net/im-777428/social"
-        },
-        {
-          "id": "bank-stocks-nearing-crisis-era-173258678.html",
-          "author": null,
-          "description": "(Bloomberg) -- The selloff in US bank shares is threatening to push them below a technical threshold that could signal more pain ahead for the broader stock market. Most Read from BloombergBuffett Reaffirms Abel as Heir, Blames Bank Leaders for FailuresJustice Thomas Ethics Review Questioned by US Court Leader in 2012Kimora Lee Says $93 Million US Wants From Tim Leissner Is HersRussia Says It Has Billions of Indian Rupees That It Can’t UseBond Traders Bet on Biggest Fed Shift in Decades on Credi",
-          "link": "https://finance.yahoo.com/news/bank-stocks-nearing-crisis-era-173258678.html",
-          "publishedOn": "2023-05-07T17:32:58.000Z",
-          "wordCount": 12019,
-          "title": "Bank Stocks Nearing a Crisis-Era Threshold Raises Warning Sign",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/56cfbbea6f86e1a4a3c0591d5c121fd0"
         }
       ]
     }
