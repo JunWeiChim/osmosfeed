@@ -761,6 +761,26 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "8c30dd1ac559c051f37f65df90ac3570",
+          "author": "Investopedia",
+          "description": "Markets rose modestly on Tuesday, June 6, 2023, as semiconductor and regional bank stocks gained.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b66d5e91ab14f749a872ba6bf37228b414cd73c9c75e6c712731d8238",
+          "publishedOn": "2023-06-06T22:11:05.462Z",
+          "wordCount": 411,
+          "title": "Markets Rise Modestly as Semiconductor and Regional Bank Stocks Gain",
+          "imageUrl": null
+        },
+        {
+          "id": "752b6af77c78b2ab989cfccdf7e49181",
+          "author": "Investopedia",
+          "description": "The Dow Jones Industrial Average finished the session essentially flat, with tech and financial stocks helping give the index a 0.03% boost.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c24e4acd35c86efcc0127917963cc06389cb4f34",
+          "publishedOn": "2023-06-06T22:11:05.439Z",
+          "wordCount": 411,
+          "title": "Dow Jones Today: Index Higher on Bank Bounce",
+          "imageUrl": null
+        },
+        {
           "id": "76ff5981cd67a63799daf351e6ecbb21",
           "author": "Investopedia",
           "description": "These are the growth stocks with the fastest EPS and revenue growth heading into June.",
@@ -7859,6 +7879,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/top-cd-rates-today-june-6-2023-7509002",
+          "author": "Staff Author",
+          "description": "See what today's top nationwide rate is for every CD term, and how it compares to the previous business day's top rate. We collect data from more than 200 financial institutions.",
+          "link": "https://www.investopedia.com/top-cd-rates-today-june-6-2023-7509002?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-06T21:44:45.000Z",
+          "wordCount": 5362,
+          "title": "Top CD Rates Today, June 6, 2023",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/5RtefjyzEYOVPkkZBcoQCezKE9Y=/2959x2000/June6-1ca9180e65cb4016a7395fb07aa4a33e.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/5RtefjyzEYOVPkkZBcoQCezKE9Y=/2959x2000/June6-1ca9180e65cb4016a7395fb07aa4a33e.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/how-to-qualify-for-an-sba-loan-7507410",
+          "author": "Staff Author",
+          "description": "An SBA loan may be an option for your business, but getting one might seem daunting. Find out what you need to qualify for an SBA loan.",
+          "link": "https://www.investopedia.com/how-to-qualify-for-an-sba-loan-7507410?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-06T21:22:28.000Z",
+          "wordCount": 6766,
+          "title": "How to Qualify for an SBA Loan in 2023",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/d6YqIRWaACw0d7ArNof_sDN9Dsg=/4000x2668/Primary-Image-how-to-qualify-for-an-sba-loan-in-2023-7507410-ec7b4a0cba584761af36faa494c12c24.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/d6YqIRWaACw0d7ArNof_sDN9Dsg=/4000x2668/Primary-Image-how-to-qualify-for-an-sba-loan-in-2023-7507410-ec7b4a0cba584761af36faa494c12c24.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/s/spinoff.asp",
+          "author": "Amy Fontinelle",
+          "description": "A spinoff is a new and independent company created through the distribution of shares in an existing division or business of a parent company to its shareholders.",
+          "link": "https://www.investopedia.com/terms/s/spinoff.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-06T21:09:53.000Z",
+          "wordCount": 7137,
+          "title": "Spinoff Definition, Plus Why and How a Company Creates One",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/TF9nrnx5-Kf6yRlcdirOkSIBvuA=/1500x1000/TermDefinitions_Spinoff-25b358d4a4704fccad845bbee039cf9c.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/TF9nrnx5-Kf6yRlcdirOkSIBvuA=/1500x1000/TermDefinitions_Spinoff-25b358d4a4704fccad845bbee039cf9c.jpg"
+        },
         {
           "id": "https://www.investopedia.com/dow-jones-today-june-6-2023-7508958",
           "author": "Terry Lane",
@@ -25688,21 +25753,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/cs3sV5cAbMIxYpMUjjXbxnvAM5c=/5376x3584/GettyImages-5410351162-fccff39e474d415282c1f4a9663f0b58.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/disney-q2-fy2023-earnings-preview-7489381",
-          "author": "Staff Author",
-          "description": "Disney is projected to report strong earnings growth for the latest quarter as its streaming services gain more subscribers, led by its flagship Disney+ service.",
-          "link": "https://www.investopedia.com/disney-q2-fy2023-earnings-preview-7489381?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-08T10:07:00.000Z",
-          "wordCount": 5385,
-          "title": "Disney Likely to Post Robust Earnings Growth on Direct-to-Consumer Offerings",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/tF8iOebBGULZINE7t3k8ZU0s0e8=/5100x3643/GettyImages-1239735074-795e2523c0934179bc52f87fc3536322.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/tF8iOebBGULZINE7t3k8ZU0s0e8=/5100x3643/GettyImages-1239735074-795e2523c0934179bc52f87fc3536322.jpg"
         }
       ]
     },
@@ -25711,6 +25761,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "boeing-delays-dreamliner-deliveries-after-new-defect-found-db5f64f2?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The FAA said the plane maker notified regulators of the latest issue.",
+          "link": "https://www.wsj.com/articles/boeing-delays-dreamliner-deliveries-after-new-defect-found-db5f64f2?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-06T21:02:00.000Z",
+          "wordCount": 8168,
+          "title": "Boeing Delays Dreamliner Deliveries After New Defect Found",
+          "imageUrl": "https://images.wsj.net/im-795479/social"
+        },
         {
           "id": "tesla-stock-price-evs-toyota-37eb0e4f?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -48030,46 +48090,6 @@
           "wordCount": 7620,
           "title": "Buffett Predicts a Downturn. Inflation Data and Earnings Will Indicate Its Severity.",
           "imageUrl": "https://images.barrons.com/im-777615/social"
-        },
-        {
-          "id": "disney-q2-fy2023-earnings-preview-7489381?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Disney is projected to report strong earnings growth for the latest quarter as its streaming services gain more subscribers, led by its flagship Disney+ service.",
-          "link": "https://www.investopedia.com/disney-q2-fy2023-earnings-preview-7489381?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-05-08T10:07:00.000Z",
-          "wordCount": 5719,
-          "title": "Disney Likely to Post Robust Earnings Growth on Direct-to-Consumer Offerings",
-          "imageUrl": "https://www.investopedia.com/thmb/lKEZLs3PwHDZC0u1L3qHmAm2LEA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1239735074-795e2523c0934179bc52f87fc3536322.jpg"
-        },
-        {
-          "id": "shell-and-bps-hidden-spark-9e4c0cb9?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The European companies’ energy traders generate huge profits, but investors are mostly in the dark.",
-          "link": "https://www.wsj.com/articles/shell-and-bps-hidden-spark-9e4c0cb9?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-08T09:30:00.000Z",
-          "wordCount": 7537,
-          "title": "Shell and BP’s Hidden Spark",
-          "imageUrl": "https://images.wsj.net/im-777459/social"
-        },
-        {
-          "id": "big-oil-has-150-billion-in-cash-and-investors-want-a-share-b5cdea35?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Oil-and-gas companies boost shareholder returns and keep funds for when the boom goes bust.",
-          "link": "https://www.wsj.com/articles/big-oil-has-150-billion-in-cash-and-investors-want-a-share-b5cdea35?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-08T09:30:00.000Z",
-          "wordCount": 8118,
-          "title": "Big Oil Has $150 Billion in Cash and Investors Want a Share",
-          "imageUrl": "https://images.wsj.net/im-776168/social"
-        },
-        {
-          "id": "stock-market-movers-6ab4afd1?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Warren Buffett tamps down speculation that Berkshire Hathaway, which owns 24% of Occidental Petroleum, wants to buy the entire company, while PacWest shares surge after the regional lender says it's reducing its dividend.",
-          "link": "https://www.barrons.com/articles/stock-market-movers-6ab4afd1?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-08T09:18:00.000Z",
-          "wordCount": 6897,
-          "title": "These Stocks Are Moving the Most Today: Occidental, Berkshire Hathaway, PacWest, AMC, PayPal, and More",
-          "imageUrl": "https://images.barrons.com/im-579651/social"
         }
       ]
     }
