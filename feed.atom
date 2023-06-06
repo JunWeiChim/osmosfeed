@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-06T07:11:21.389Z</updated>
+    <updated>2023-06-06T08:14:55.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Duitse industrie piept en kraakt in recessie]]></title>
+        <id>https://www.nu.nl/-/6266785/</id>
+        <link href="https://www.nu.nl/economie/6266785/duitse-industrie-piept-en-kraakt-in-recessie.html"/>
+        <updated>2023-06-06T08:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Duitse fabrikanten worstelen met de afkoelende wereldeconomie. In april daalde het aantal nieuwe orders weer. De moeizame staat van de industrie zorgde in de eerste maanden van dit jaar mede voor een recessie bij onze oosterburen.]]></summary>
+        <author>
+            <name>onze economieredactie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft treft miljoenenschikking na schending privacy van kinderen]]></title>
+        <id>https://www.nu.nl/-/6266784/</id>
+        <link href="https://www.nu.nl/tech/6266784/microsoft-treft-miljoenenschikking-na-schending-privacy-van-kinderen.html"/>
+        <updated>2023-06-06T07:13:01.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft heeft een schikking getroffen met de Amerikaanse toezichthouder FTC. Het techconcern verzamelde illegaal gegevens van kinderen onder de dertien jaar die zich aanmeldden voor gamedienst Xbox Live.]]></summary>
+        <author>
+            <name>onze techredactie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Robots moeten het zware werk van bagagesjouwers op Schiphol overnemen]]></title>
         <id>https://www.nu.nl/-/6266776/</id>
@@ -339,6 +359,16 @@
         <link href="https://finance.yahoo.com/news/apples-mixed-reality-headset-announcement-sends-unity-stock-soaring-202949563.html"/>
         <updated>2023-06-05T20:29:49.000Z</updated>
         <summary type="html"><![CDATA[Unity's software will be used in Apple's new headset. After Apple's announcement, Unity stock had its best intraday performance since November 10.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Lawsuit Could Be ‘Huge Mistake’ or Bring Needed Clarity to U.S. Crypto Industry]]></title>
+        <id>binance-lawsuit-could-huge-mistake-202744185.html</id>
+        <link href="https://finance.yahoo.com/news/binance-lawsuit-could-huge-mistake-202744185.html"/>
+        <updated>2023-06-05T20:27:44.000Z</updated>
+        <summary type="html"><![CDATA[The Securities and Exchanges Commission’s (SEC) suit against the biggest crypto exchange in the world, Binance, could be a huge misstep if other countries allow the crypto industry to develop and it eventually replaces the traditional banking sector, Jim Bianco, president and founder of Bianco Research said.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -38425,25 +38455,6 @@ PayPal (ticker: PYPL) reported first-quarter sales and earnings per share that b
         <summary type="html"><![CDATA[Central banks added 228.4 tons of gold to global reserves in the first quarter, the World Gold Council reported.]]></summary>
         <author>
             <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warren Buffett's Berkshire Hathaway reveals it sold about $6 billion of Chevron stock last quarter]]></title>
-        <id>warren-buffetts-berkshire-hathaway-reveals-194033789.html</id>
-        <link href="https://finance.yahoo.com/news/warren-buffetts-berkshire-hathaway-reveals-194033789.html"/>
-        <updated>2023-05-07T19:40:33.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statistics in Math: Definition, Types, and Importance]]></title>
-        <id>https://www.investopedia.com/terms/s/statistics.asp</id>
-        <link href="https://www.investopedia.com/terms/s/statistics.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-05-07T19:17:40.000Z</updated>
-        <summary type="html"><![CDATA[Statistics is the collection, description, analysis, and inference of conclusions from quantitative data. People who do statistics are referred to as statisticians.]]></summary>
-        <author>
-            <name>Jim Chappelow</name>
         </author>
     </entry>
 </feed>
