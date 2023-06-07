@@ -791,6 +791,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "cfd6a1e064f70ad87a742db11ce2660e",
+          "author": "Investopedia",
+          "description": "U.S. equities were mixed at midday on Wednesday, June 7, 2023, as tech and communication stocks weighed on the major indexes.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca93748ae70eb0552d818b2beeff33358a4012c224c835b896462a5d96649b7edd9b1765d7e331fff8e232e9ed9a60a823ff23018579410d441fb0a4fd892e0b9c84",
+          "publishedOn": "2023-06-07T17:10:18.047Z",
+          "wordCount": 411,
+          "title": "US Equities Mixed at Midday as Energy Stocks Gain",
+          "imageUrl": null
+        },
+        {
           "id": "6df234b2cfc550951ef1cd6886f4d5bb",
           "author": "Investopedia",
           "description": "Falling Chinese exports could point to a global slowdown and all Tesla Model 3s now qualify for the federal electric vehicle tax credit. Here’s what investors need to know today.",
@@ -1537,6 +1547,51 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6267036/",
+          "author": "Priscilla Slomp",
+          "description": "Zoals het er nu naar uitziet, stopt de gaswinning uit het Groningenveld dit najaar volledig. Dat zei premier Mark Rutte woensdag in debat met de Tweede Kamer. Op dit moment wordt er nog een minimale hoeveelheid gas gewonnen, waardoor de putten open kunnen blijven.",
+          "link": "https://www.nu.nl/gaswinning-groningen/6267036/rutte-gaat-ervan-uit-dat-eind-dit-jaar-geen-gas-meer-wordt-gewonnen-in-groningen.html",
+          "publishedOn": "2023-06-07T17:03:47.000Z",
+          "wordCount": 1317,
+          "title": "Rutte gaat ervan uit dat eind dit jaar geen gas meer wordt gewonnen in Groningen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/hb1x6fba6i42_sqr256.jpg/rutte-gaat-ervan-uit-dat-eind-dit-jaar-geen-gas-meer-wordt-gewonnen-in-groningen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/hb1x6fba6i42_sqr256.jpg/rutte-gaat-ervan-uit-dat-eind-dit-jaar-geen-gas-meer-wordt-gewonnen-in-groningen.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6267013/",
+          "author": "Eva Schouten",
+          "description": "De Europese Commissie (EC) heeft onaangekondigde bezoeken gedaan bij verschillende Europese bedrijven die kunstgras maken. Volgens Brussel zijn er vermoedens dat de bedrijven de concurrentieregels hebben overtreden. Er is onder andere een inval gedaan bij het Nederlandse bedrijf Ten Cate, bevestigt CEO Michael Vogel aan NU.nl.",
+          "link": "https://www.nu.nl/economie/6267013/brussel-onderzoekt-kunstgraskartel-inval-bij-nederlands-bedrijf-ten-cate.html",
+          "publishedOn": "2023-06-07T16:27:28.000Z",
+          "wordCount": 907,
+          "title": "Brussel onderzoekt kunstgraskartel, inval bij Nederlands bedrijf Ten Cate",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/djhxzmcacyqa_sqr256.jpg/brussel-onderzoekt-kunstgraskartel-inval-bij-nederlands-bedrijf-ten-cate.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/djhxzmcacyqa_sqr256.jpg/brussel-onderzoekt-kunstgraskartel-inval-bij-nederlands-bedrijf-ten-cate.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6267039/",
+          "author": "Eva Schouten",
+          "description": "De omzet van Nederlandse Loterij kwam afgelopen jaar op 6,5 miljard euro uit. Een jaar eerder was dat nog geen 3 miljard euro. De ruime verdubbeling van de inleg komt vooral doordat dit het eerste volle jaar was waarin online gokken meespeelde.",
+          "link": "https://www.nu.nl/economie/6267039/we-vergokten-afgelopen-jaar-65-miljard-euro-bij-de-nederlandse-loterij.html",
+          "publishedOn": "2023-06-07T16:26:22.000Z",
+          "wordCount": 1025,
+          "title": "We vergokten afgelopen jaar 6,5 miljard euro bij de Nederlandse Loterij",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/m6ux2gbatsml_sqr256.jpg/we-vergokten-afgelopen-jaar-65-miljard-euro-bij-de-nederlandse-loterij.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/m6ux2gbatsml_sqr256.jpg/we-vergokten-afgelopen-jaar-65-miljard-euro-bij-de-nederlandse-loterij.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6267036/",
           "author": "Priscilla Slomp",
@@ -8084,6 +8139,96 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-june-7-2023-rates-flat-7509214",
+          "author": "Staff Author",
+          "description": "Rates on 30-year mortgages are holding steady, after climbing an eighth of a point over the previous two days. But the 15-year and jumbo 30-year rate averages rose.",
+          "link": "https://www.investopedia.com/today-s-mortgage-rates-and-trends-june-7-2023-rates-flat-7509214?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-07T16:50:51.000Z",
+          "wordCount": 5713,
+          "title": "Today's Mortgage Rates & Trends - June 7, 2023: Rates Flat",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/FiMyCdJhznyoZs4kIC28Z33yU4k=/4000x2700/June23MortageRatesNews-07-c5ac8278048f48a399212a106db807db.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/FiMyCdJhznyoZs4kIC28Z33yU4k=/4000x2700/June23MortageRatesNews-07-c5ac8278048f48a399212a106db807db.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/mortgage-applications-fell-for-fourth-week-7509244",
+          "author": "Meg Cunningham",
+          "description": "Applications were 30% lower than one year ago, as buyers adjust to a higher rate environment, according to the Mortgage Bankers Association.",
+          "link": "https://www.investopedia.com/mortgage-applications-fell-for-fourth-week-7509244?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-07T16:38:17.000Z",
+          "wordCount": 4889,
+          "title": "Mortgage Applications Fell For a Fourth Week",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Evj4-ZMemBmte4yPuJ-VkeQFVRM=/6000x4000/GettyImages-1475361646-9201dd9707e344c991c5b2a87f3094b8.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Evj4-ZMemBmte4yPuJ-VkeQFVRM=/6000x4000/GettyImages-1475361646-9201dd9707e344c991c5b2a87f3094b8.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/us-equities-mixed-at-midday-on-limited-market-moving-news-7509256",
+          "author": "Staff Author",
+          "description": "U.S. equities were mixed at midday on Wednesday, June 7, 2023, as tech and communication stocks weighed on the major indexes.",
+          "link": "https://www.investopedia.com/us-equities-mixed-at-midday-on-limited-market-moving-news-7509256?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-07T16:27:17.000Z",
+          "wordCount": 4778,
+          "title": "US Equities Mixed at Midday as Energy Stocks Gain",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/6oJnhNtgDk8IKf_8pFS0TjXP1-M=/7411x4941/GettyImages-1240881330-7cd5c586a6a54adfbfbd62f71c9d11a2.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/6oJnhNtgDk8IKf_8pFS0TjXP1-M=/7411x4941/GettyImages-1240881330-7cd5c586a6a54adfbfbd62f71c9d11a2.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/sec-files-to-freeze-binance-us-assets-7509202",
+          "author": "Kyle Torpey",
+          "description": "The U.S. Securities and Exchange Commission has filed an emergency action to freeze the assets of crypto exchange Binance.US to protect its customers.",
+          "link": "https://www.investopedia.com/sec-files-to-freeze-binance-us-assets-7509202?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-07T16:15:07.000Z",
+          "wordCount": 5019,
+          "title": "SEC Files Emergency Action to Freeze Binance.US Assets",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/yVVmDGbVfbj3w8LRHdPXTrcYhog=/5795x3815/GettyImages-1496426886-03a43929cd684f13ab0830ba1683a020.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/yVVmDGbVfbj3w8LRHdPXTrcYhog=/5795x3815/GettyImages-1496426886-03a43929cd684f13ab0830ba1683a020.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/1/51-attack.asp",
+          "author": "Jake Frankenfield",
+          "description": "A 51% attack is an attack on a blockchain by a group of miners who control more than 50% of the network's mining hash rate, or computing power.",
+          "link": "https://www.investopedia.com/terms/1/51-attack.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-07T16:11:30.000Z",
+          "wordCount": 6736,
+          "title": "51% Attack: Definition, Who Is At Risk, Example, and Cost",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/U6Z_9j_JTJifQyp6scukAZK-cJQ=/680x440/thinkstockphotos-464488160-5bfc2b6f46e0fb0051bddb43.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/U6Z_9j_JTJifQyp6scukAZK-cJQ=/680x440/thinkstockphotos-464488160-5bfc2b6f46e0fb0051bddb43.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/s/securitization.asp",
+          "author": "James Chen",
+          "description": "Securitization pools assets and repackages them into interest-bearing securities.",
+          "link": "https://www.investopedia.com/terms/s/securitization.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-07T16:04:24.000Z",
+          "wordCount": 6905,
+          "title": "Securitization: Definition, Pros & Cons, Example",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/E7Ik6nlxAMBk_v94Cwr19X97zNE=/4000x2700/securitization.asp-final-444f508ca77541f090f9817a1160da27.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/E7Ik6nlxAMBk_v94Cwr19X97zNE=/4000x2700/securitization.asp-final-444f508ca77541f090f9817a1160da27.jpg"
+        },
         {
           "id": "https://www.investopedia.com/stitch-fix-beats-estimates-and-plans-more-cost-cutting-moves-7509246",
           "author": "Staff Author",
@@ -25697,6 +25842,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "stocks-wobble-amid-new-economic-warnings-stock-market-news-today-133417298.html",
+          "author": null,
+          "description": "US stocks wavered Wednesday during midday trading after Canada unexpectedly hiked interest rates, combined with a surprise drop in Chinese exports and economic headwinds flagged by the OECD stoked fresh concerns about global growth.",
+          "link": "https://finance.yahoo.com/news/stocks-wobble-amid-new-economic-warnings-stock-market-news-today-133417298.html",
+          "publishedOn": "2023-06-07T16:27:26.000Z",
+          "wordCount": 2475,
+          "title": "Stocks wobble amid new economic warnings: Stock market news today",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/HcPkPxrf0rUDDgjmfwFbkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/2ede6ba0-0538-11ee-bbfb-662d75da0632"
+        },
+        {
+          "id": "visa-mastercard-stocks-fall-after-report-of-planned-fee-legislation-xcdkJMTKeqDTPpg9d45C?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shares of Visa and Mastercard fell Wednesday after the Journal reported that lawmakers plan to re-up proposed legislation that would give merchants the power to process many credi",
+          "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-07-2023/card/visa-mastercard-stocks-fall-after-report-of-planned-fee-legislation-xcdkJMTKeqDTPpg9d45C?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-07T16:00:01.000Z",
+          "wordCount": 5695,
+          "title": "Visa, Mastercard Stocks Fall After Report of Planned Fee Legislation",
+          "imageUrl": "https://images.wsj.net/im-796018?width=600"
+        },
+        {
           "id": "affirm-stock-soars-on-new-deal-with-amazon-pay-151528851.html",
           "author": null,
           "description": "Wednesday's announcement with Amazon brought welcome reprieve to Affirm shares which  have been beaten down heavily as investors question how many companies will be winners in the buy-now-pay-later space as Apple gets involved.",
@@ -26155,6 +26320,16 @@
           "wordCount": null,
           "title": "US house prices may slide as their recent strength and steeper mortgage rates hit demand, Wharton professor Jeremy Siegel says",
           "imageUrl": null
+        },
+        {
+          "id": "top-cd-rates-today-june-6-2023-7509002?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "See what today's top nationwide rate is for every CD term, and how it compares to the previous business day's top rate. We collect data from more than 200 financial institutions.",
+          "link": "https://www.investopedia.com/top-cd-rates-today-june-6-2023-7509002?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-06-06T21:44:45.000Z",
+          "wordCount": 5727,
+          "title": "Top CD Rates Today, June 6, 2023",
+          "imageUrl": "https://www.investopedia.com/thmb/qlkjKs44orfNwFPrENqjVoKM598=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/June6-1ca9180e65cb4016a7395fb07aa4a33e.jpg"
         },
         {
           "id": "liv-pga-merger-topgolf-stock-price-3d2636f4?siteid=yhoof2&yptr=yahoo",
@@ -47755,16 +47930,6 @@
           "wordCount": 12723,
           "title": "Warren Buffett and Charlie Munger sound off on banks, rule out Occidental takeover, and warn on AI. Here are 10 highlights from Berkshire Hathaway's annual meeting",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/JRtA5hhNLYF3o3InxJUnuQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/df0d62bf15c0099d306aa1ce7809b312"
-        },
-        {
-          "id": "debt-ceiling-money-market-funds-da326405?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The funds aren’t completely risk-free right now because Congress hasn’t raised or suspended the nation's roughly $31 trillion debt ceiling.",
-          "link": "https://www.barrons.com/articles/debt-ceiling-money-market-funds-da326405?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-09T05:00:00.000Z",
-          "wordCount": 6654,
-          "title": "What the Debt Ceiling Means for Money-Market Funds",
-          "imageUrl": "https://images.barrons.com/im-777781/social"
         }
       ]
     }
