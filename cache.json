@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "20c99766165d8b0427cbd83073b92118",
+          "author": "Investopedia",
+          "description": "Netflix subscriptions soared in the U.S. after the streaming service's recent crackdown on password sharing.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8862d3e413ac4474988f2bb0e5353f8b094ccb319731bf950f2856da689e37de851421cde321a1b8f125f1fd8239b661be7f5ed2671b5b",
+          "publishedOn": "2023-06-09T17:11:08.103Z",
+          "wordCount": 411,
+          "title": "Netflix Subscriptions Surge After Password-Sharing Crackdown",
+          "imageUrl": null
+        },
+        {
           "id": "c89b20936a6dd11a085f43a15274a0fd",
           "author": "Investopedia",
           "description": "Shares of DocuSign turned lower after the online document signing service warned about customer demand.",
@@ -811,6 +821,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "3e13554eb860eb96da319bf8e46d2808",
+          "author": "Investopedia",
+          "description": "Markets were little changed at midday on Friday, June 9, 2023, while Tesla, GM, and Ford shares advanced after GM joined Ford in a deal for its EVs to use Tesla chargers.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca93748ae70eb0552d818b2beefe33399b485a8e338d39bf95472f09da7fd83ed8961e6ddaab34a1b8f725f1e48f60a221a4390783264a1b1e1ef4e0ad94765fddd7a4efd9c49895124b9c53c3966b69c5317b78c5c904d2",
+          "publishedOn": "2023-06-09T17:11:08.086Z",
+          "wordCount": 411,
+          "title": "US Equities Little Changed at Midday as Tesla, GM Shares Rise After Charger Deal",
+          "imageUrl": null
+        },
+        {
           "id": "d74b18be8d63bf6ac58a2e320d9591fa",
           "author": "Investopedia",
           "description": "General Motors will join the Tesla electric vehicle charging network and Meta plans to roll out a Twitter competitor. Here’s what investors need to know today.",
@@ -1577,6 +1597,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6267362/",
+          "author": "Tom van Gurp",
+          "description": "De gasprijs is vrijdag omhooggeschoten tot ruim boven de 30 euro per megawattuur. Het is de tweede prijssprong in korte tijd. Eerder deze week werd gas op één dag al 20 procent duurder.",
+          "link": "https://www.nu.nl/economie/6267362/gasprijs-loopt-flink-op-tot-hoogste-punt-in-ruim-drie-weken.html",
+          "publishedOn": "2023-06-09T16:59:24.000Z",
+          "wordCount": 1038,
+          "title": "Gasprijs loopt flink op tot hoogste punt in ruim drie weken",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/0m7x5jza7dcu_sqr256.jpg/gasprijs-loopt-flink-op-tot-hoogste-punt-in-ruim-drie-weken.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/0m7x5jza7dcu_sqr256.jpg/gasprijs-loopt-flink-op-tot-hoogste-punt-in-ruim-drie-weken.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6267353/",
           "author": "onze economieredactie",
@@ -8011,21 +8046,6 @@
             "url": "https://media.nu.nl/m/9eqxukqaxkg0_sqr256.jpg/dure-boodschappen-blijven-voor-inflatie-zorgen-energie-en-brandstof-goedkoper.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/9eqxukqaxkg0_sqr256.jpg/dure-boodschappen-blijven-voor-inflatie-zorgen-energie-en-brandstof-goedkoper.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6263114/",
-          "author": "onze economieredactie",
-          "description": "De hogere prijzen voor eten en drinken waren in april de belangrijkste reden voor de inflatie. Uit cijfers van statistiekbureau CBS blijkt dat het leven vorige maand 5,2 procent duurder was dan een jaar eerder en vooral de dure boodschappen waren daar debet aan.",
-          "link": "https://www.nu.nl/economie/6263114/dure-boodschappen-blijven-zorgen-voor-inflatie-energie-en-brandstof-goedkoper.html",
-          "publishedOn": "2023-05-11T04:51:51.000Z",
-          "wordCount": 985,
-          "title": "Dure boodschappen blijven zorgen voor inflatie, energie en brandstof goedkoper",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/9eqxukqaxkg0_sqr256.jpg/dure-boodschappen-blijven-zorgen-voor-inflatie-energie-en-brandstof-goedkoper.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/9eqxukqaxkg0_sqr256.jpg/dure-boodschappen-blijven-zorgen-voor-inflatie-energie-en-brandstof-goedkoper.jpg"
         }
       ]
     },
@@ -8034,6 +8054,66 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/financial-edge/0812/5-investing-risk-factors-and-how-to-avoid-them.aspx",
+          "author": "Tim Parker",
+          "description": "Each investment product has specific risks that come with it, while some risks are inherent in every investment.",
+          "link": "https://www.investopedia.com/financial-edge/0812/5-investing-risk-factors-and-how-to-avoid-them.aspx?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-09T16:27:41.000Z",
+          "wordCount": 5683,
+          "title": "5 Investing Risk Factors and How to Avoid Them",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Yjq-AkLjcZtD3Sjoq4y_vK5Dbxw=/380x254/93887065-5bfc2dd046e0fb002601da71.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Yjq-AkLjcZtD3Sjoq4y_vK5Dbxw=/380x254/93887065-5bfc2dd046e0fb002601da71.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/us-equities-little-changed-at-midday-as-tesla-gm-shares-rise-after-charger-deal-7510362",
+          "author": "Staff Author",
+          "description": "Markets were little changed at midday on Friday, June 9, 2023, while Tesla, GM, and Ford shares advanced after GM joined Ford in a deal for its EVs to use Tesla chargers.",
+          "link": "https://www.investopedia.com/us-equities-little-changed-at-midday-as-tesla-gm-shares-rise-after-charger-deal-7510362?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-09T16:25:35.000Z",
+          "wordCount": 4819,
+          "title": "US Equities Little Changed at Midday as Tesla, GM Shares Rise After Charger Deal",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/XWsZtWguojLWmBv2zFNuv2OSwC0=/6000x4000/GettyImages-597435940-4d568fc0e0624b8c83e8365163e1f75c.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/XWsZtWguojLWmBv2zFNuv2OSwC0=/6000x4000/GettyImages-597435940-4d568fc0e0624b8c83e8365163e1f75c.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/soccer-legend-lionel-messi-to-play-for-inter-miami-here-s-messi-s-net-worth-7510351",
+          "author": "Staff Author",
+          "description": "Superstar footballer Lionel Messi announced Wednesday he intends to play for Inter Miami, turning down offers from Barcelona and Saudi Arabia. Messi is the world's second highest-paid athlete and has earned over $1 billion from endorsement deals, real estate, and sports.",
+          "link": "https://www.investopedia.com/soccer-legend-lionel-messi-to-play-for-inter-miami-here-s-messi-s-net-worth-7510351?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-09T16:23:05.000Z",
+          "wordCount": 5705,
+          "title": "Soccer Legend Lionel Messi To Play for Inter Miami—Here’s Messi’s Net Worth",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/m-baMRnMf_Rc0rT4OJhhNkjYo7M=/5372x3581/GettyImages-1245748917-99e3329a7b8147e8ab648806220ce153.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/m-baMRnMf_Rc0rT4OJhhNkjYo7M=/5372x3581/GettyImages-1245748917-99e3329a7b8147e8ab648806220ce153.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/personal-finance/050515/financial-considerations-buying-tiny-house.asp",
+          "author": "Amy Fontinelle",
+          "description": "Whether your goal is simplicity, saving money, or an alternative lifestyle, a tiny house (100 to 400 square feet) could be the solution.",
+          "link": "https://www.investopedia.com/articles/personal-finance/050515/financial-considerations-buying-tiny-house.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-09T16:07:59.000Z",
+          "wordCount": 8558,
+          "title": "Financial Considerations of Buying a Tiny House",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Y1coCH7qtCIGuGOUVUQ_Y9k2n9I=/1500x1000/GettyImages-1051774132-e035b2fe4d25434293142a32adb42feb.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Y1coCH7qtCIGuGOUVUQ_Y9k2n9I=/1500x1000/GettyImages-1051774132-e035b2fe4d25434293142a32adb42feb.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/h/hecm.asp",
           "author": "Julia Kagan",
@@ -26652,6 +26732,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "docusign-beats-quarterly-estimates-and-guidance-forecasts-but-shares-fall-on-business-warning-7510336?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "Shares of DocuSign turned lower after the online document signing service warned about customer demand.",
+          "link": "https://www.investopedia.com/docusign-beats-quarterly-estimates-and-guidance-forecasts-but-shares-fall-on-business-warning-7510336?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-06-09T15:40:08.000Z",
+          "wordCount": 5227,
+          "title": "DocuSign Beats Quarterly Estimates, but Shares Fall on Business Warning",
+          "imageUrl": "https://www.investopedia.com/thmb/G77mC8v3LjZhc2UPPw-U73QzKi8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1172292903-6439ee145a1f4b29b0d63ec333f003ce.jpg"
+        },
+        {
           "id": "uipath-stock-ai-downgrade-43c92694?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Wells Fargo analyst Michael Turrin downgraded the stock to Equal Weight from Overweight.",
@@ -27150,6 +27240,16 @@
           "wordCount": 1909,
           "title": "Bud Light is no longer America's best-selling beer",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/i5zqJ69DdePtV3c7myiYWw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/cbsmoneywatch.com/90ae879fbd697fca29899af34cdb4229"
+        },
+        {
+          "id": "billionaire-investor-ray-dalio-says-183858002.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/billionaire-investor-ray-dalio-says-183858002.html",
+          "publishedOn": "2023-06-08T18:38:58.000Z",
+          "wordCount": null,
+          "title": "Billionaire investor Ray Dalio says the US is at the start of a debt crisis - and worse times are ahead for the economy",
+          "imageUrl": null
         },
         {
           "id": "sec-seeks-alternative-means-serve-183636656.html",
@@ -48360,16 +48460,6 @@
           "wordCount": 6764,
           "title": "Healthcare Stocks Are on Sale. Pfizer and Stryker Have Strong Growth Prospects.",
           "imageUrl": "https://images.barrons.com/im-779585/social"
-        },
-        {
-          "id": "spacex-starlink-ipo-elon-musk-b6c02c7?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "A Starlink IPO could raise billions of dollars and give Musk another source of funds outside of Tesla stock.",
-          "link": "https://www.barrons.com/articles/spacex-starlink-ipo-elon-musk-b6c02c7?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-11T04:30:00.000Z",
-          "wordCount": 9749,
-          "title": "SpaceX Is a Roaring Success. Could a Starlink IPO Get Elon Musk Out of His Financial Jam?",
-          "imageUrl": "https://images.barrons.com/im-779608/social"
         }
       ]
     }
