@@ -1548,6 +1548,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6267540/",
+          "author": "onze nieuwsredactie",
+          "description": "De Britse beleggingsfirma Odey Asset Management heeft oprichter Crispin Odey op straat gezet na nieuwe beschuldigingen van seksueel wangedrag. Het hedgefonds wil niets meer met de Britse belegger te maken hebben.",
+          "link": "https://www.nu.nl/economie/6267540/bekende-britse-belegger-ontslagen-na-beschuldigingen-seksueel-wangedrag.html",
+          "publishedOn": "2023-06-11T11:20:04.000Z",
+          "wordCount": 891,
+          "title": "Bekende Britse belegger ontslagen na beschuldigingen seksueel wangedrag",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/3bwx362ac79h_sqr256.jpg/bekende-britse-belegger-ontslagen-na-beschuldigingen-seksueel-wangedrag.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/3bwx362ac79h_sqr256.jpg/bekende-britse-belegger-ontslagen-na-beschuldigingen-seksueel-wangedrag.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6267032/",
           "author": "Eva Schouten",
           "description": "Zorgen dat het treinverkeer soepel verloopt, is een belangrijke taak van de verkeersleiders bij ProRail. Zorgen dat dit veilig gebeurt, is nóg belangrijker. Veiligheid gaat voor alles en dat kan weleens botsen met het belang om reizigers zo snel mogelijk op de juiste plek te krijgen.",
@@ -7659,6 +7674,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/top-communications-stocks-for-june-2023-7510271",
+          "author": "Nathan Reiff",
+          "description": "Vodafone Group, InterDigital, and Opera lead the industry for best value, fastest growth, and most momentum, respectively.",
+          "link": "https://www.investopedia.com/top-communications-stocks-for-june-2023-7510271?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-11T11:39:29.000Z",
+          "wordCount": 6405,
+          "title": "Top Communications Stocks for June 2023",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/foroPAwvCVBKAJMOLHlCJ0HrA4U=/5926x3733/GettyImages-1392608785-afe5ec692ebd4eda8b5c662c51224617.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/foroPAwvCVBKAJMOLHlCJ0HrA4U=/5926x3733/GettyImages-1392608785-afe5ec692ebd4eda8b5c662c51224617.jpg"
+        },
         {
           "id": "https://www.investopedia.com/millennial-homeownership-still-lagging-behind-previous-generations-7510642",
           "author": "Staff Author",
@@ -25788,21 +25818,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/LMChmIpIJfkLSyufTuUjF0vJD7E=/6240x4160/GettyImages-1415414241-47de06522c764010afb6cd0464646559.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/c/cash-value-life-insurance.asp",
-          "author": "Julia Kagan",
-          "description": "Cash value life insurance is permanent life insurance with a cash value savings component. Learn more about what cash value life insurance is and how it works.",
-          "link": "https://www.investopedia.com/terms/c/cash-value-life-insurance.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-12T23:36:17.000Z",
-          "wordCount": 7569,
-          "title": "What Is Cash Value in Life Insurance? Explanation With Example",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/fzFtQf6CxatRDpPkps5Zib-oCTY=/4000x2700/cash-value-life-insurance.asp-final-642f8f39dafe49b9bed6310edb61d726.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/fzFtQf6CxatRDpPkps5Zib-oCTY=/4000x2700/cash-value-life-insurance.asp-final-642f8f39dafe49b9bed6310edb61d726.jpg"
         }
       ]
     },
@@ -25812,6 +25827,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "shell-ceo-takes-u-k-oil-giants-pitch-direct-to-wall-street-835bebf0?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Wael Sawan signals openness to more oil production in an effort to woo investors.",
+          "link": "https://www.wsj.com/articles/shell-ceo-takes-u-k-oil-giants-pitch-direct-to-wall-street-835bebf0?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-11T11:00:00.000Z",
+          "wordCount": 8746,
+          "title": "Shell CEO Takes U.K. Oil Giant’s Pitch Direct to Wall Street",
+          "imageUrl": "https://images.wsj.net/im-797798/social"
+        },
+        {
           "id": "etf-flows-sputter-as-investors-favor-defensive-strategies-b432f54a?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Risk-averse investors aren’t rushing to chase a new bull market.",
@@ -25820,6 +25845,36 @@
           "wordCount": 8261,
           "title": "ETF Flows Sputter as Investors Favor Defensive Strategies",
           "imageUrl": "https://images.wsj.net/im-797840/social"
+        },
+        {
+          "id": "net-zero-interest-rates-menacing-050000846.html",
+          "author": null,
+          "description": "Perched inside a pile driver in East London in May 1988, Margaret Thatcher attempted to operate heavy machinery clad in her trademark skirt suit, high heels and pearl earrings.",
+          "link": "https://finance.yahoo.com/news/net-zero-interest-rates-menacing-050000846.html",
+          "publishedOn": "2023-06-11T05:00:00.000Z",
+          "wordCount": 4694,
+          "title": "How Thatcher’s Canary Wharf legacy became a debt-ridden millstone",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/jNVJYu7qAYjLQXlRcS0p5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/0e12283c53ed54af8a3670640a5d32a2"
+        },
+        {
+          "id": "air-bag-parts-maker-refusing-u-s-recall-request-had-workplace-safety-woes-9d8e3ec8?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "ARC Automotive, the Chinese-owned maker of 67 million air-bag inflators that regulators want recalled, has faced safety violations and litigation over allegedly flawed parts.",
+          "link": "https://www.wsj.com/articles/air-bag-parts-maker-refusing-u-s-recall-request-had-workplace-safety-woes-9d8e3ec8?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-11T04:01:00.000Z",
+          "wordCount": 8731,
+          "title": "Air-Bag Parts Maker Refusing U.S. Recall Request Had Workplace-Safety Woes",
+          "imageUrl": "https://images.wsj.net/im-797648/social"
+        },
+        {
+          "id": "supply-chain-diversification-apparent-freight-003000217.html",
+          "author": null,
+          "description": "There has definitely been a sustainable shift in how freight is distributed do The post Supply chain diversification apparent in freight market appeared first on FreightWaves.",
+          "link": "https://finance.yahoo.com/news/supply-chain-diversification-apparent-freight-003000217.html",
+          "publishedOn": "2023-06-11T00:30:00.000Z",
+          "wordCount": 2257,
+          "title": "Supply chain diversification apparent in freight market",
+          "imageUrl": "https://media.zenfs.com/en/freightwaves_373/709feae3dd860af05f8df53f89e18c24"
         },
         {
           "id": "wall-street-eyes-homebuilder-stocks-225140694.html",
@@ -25852,6 +25907,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/NykQXgpzdXKOZOkg9Pc..g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_media_980/1afc4de24ea5879879df73aa37eb3c89"
         },
         {
+          "id": "apple-unveils-vision-pro-ios-203701217.html",
+          "author": null,
+          "description": "It's where we highlight the key stories in the week that was (Apple Vision Pro, anyone?) and other goings on around the TC universe, like the analyses on TC+, our premium subscription service, plus TechCrunch's growing collection of podcasts.  It's an embarrassment of content, if I do say so myself -- and hopefully a welcome reprieve for those on the East Coast who've been inundated with smoke from the Canadian wildfires.  Apple Vision Pro: TC's intrepid editor-in-chief, Matthew, went hands-on with the Vision Pro, Apple's first attempt at an augmented reality (AR) headset, announced at the company's annual Worldwide Developers Conference (WWDC) keynote -- and came away impressed.",
+          "link": "https://finance.yahoo.com/news/apple-unveils-vision-pro-ios-203701217.html",
+          "publishedOn": "2023-06-10T20:37:01.000Z",
+          "wordCount": 2466,
+          "title": "Apple unveils the Vision Pro, iOS 17 brings new features, and WhatsApp launches Channels",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ndG.KCKPC4QKdXMWE7yzug--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/0579a33ad3d0a3a7200ee61f8657ee1d"
+        },
+        {
           "id": "bull-market-legs-5-questions-201500597.html",
           "author": null,
           "description": "",
@@ -25859,6 +25924,16 @@
           "publishedOn": "2023-06-10T20:15:00.000Z",
           "wordCount": null,
           "title": "'New bull market has legs': These are the 5 questions investors should ask now that the bear market is officially over",
+          "imageUrl": null
+        },
+        {
+          "id": "auddev&yptr=yahoo",
+          "author": null,
+          "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+          "link": "https://www.ft.com/cms/s/d5dcc72e-96eb-403a-a793-c9a8c3a11e30,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev&yptr=yahoo",
+          "publishedOn": "2023-06-10T20:00:07.000Z",
+          "wordCount": 1670,
+          "title": "Economists predict at least two more US rate rises to quell stubborn inflation",
           "imageUrl": null
         },
         {
@@ -25910,6 +25985,16 @@
           "wordCount": 2151,
           "title": "Factbox-Who are Crispin Odey and the hedge fund Odey Asset Management?",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/4530dafc9d27ee8dc5dfbab3714eec3c"
+        },
+        {
+          "id": "crispin-odey-ousted-hedge-fund-135914893.html",
+          "author": null,
+          "description": "Crispin Odey, the high-profile City financier and Conservative party donor, has been ousted from the hedge fund he founded following a string of sexual harassment claims.",
+          "link": "https://finance.yahoo.com/news/crispin-odey-ousted-hedge-fund-135914893.html",
+          "publishedOn": "2023-06-10T16:46:59.000Z",
+          "wordCount": 1816,
+          "title": "Crispin Odey ousted from hedge fund in wake of sexual misconduct allegations",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/MPT7BRWDpl.ER4TaFEveyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/2ee00efb400db26089ef510d50b3315b"
         },
         {
           "id": "nigeria-suspended-central-bank-governor-161028059.html",
@@ -26150,6 +26235,16 @@
           "wordCount": 6468,
           "title": "Top Materials Stocks for June 2023",
           "imageUrl": "https://www.investopedia.com/thmb/A1aPvF2P4nSNdJuKpjpEW9b2CRU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1418008524-efaf7e2f5c2545f9935060f86aa71f56.jpg"
+        },
+        {
+          "id": "grilling-hasnt-been-this-cheap-in-years-c86982e1?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "U.S. propane prices have dropped more than 50% over the past year despite record exports.",
+          "link": "https://www.wsj.com/articles/grilling-hasnt-been-this-cheap-in-years-c86982e1?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-10T09:30:00.000Z",
+          "wordCount": 8495,
+          "title": "Grilling Hasn’t Been This Cheap in Years",
+          "imageUrl": "https://images.wsj.net/im-796242/social"
         },
         {
           "id": "charting-global-economy-weak-trade-090000597.html",
@@ -46969,96 +47064,6 @@
           "publishedOn": "2023-05-13T00:36:36.000Z",
           "wordCount": null,
           "title": "A recession and a credit crunch could result in $1 trillion of corporate debt defaults, Bank of America says",
-          "imageUrl": null
-        },
-        {
-          "id": "feds-jefferson-bidens-vice-chair-000154621.html",
-          "author": null,
-          "description": "The Federal Reserve is \"on track\" to doing what is necessary to meet the two mandates Congress has given it, Fed Governor Philip Jefferson said on Friday: bring inflation down and enable Americans who want jobs to get them.  The Fed has raised its benchmark interest rate five full percentage points over the past 14 months.  Inflation by the Fed's preferred measure has eased from 7% last summer to 4.2%, and unemployment has fallen to 3.4%, the lowest since 1969.",
-          "link": "https://finance.yahoo.com/news/feds-jefferson-bidens-vice-chair-000154621.html",
-          "publishedOn": "2023-05-13T00:01:54.000Z",
-          "wordCount": 11498,
-          "title": "Fed policy on right track, but inflation still too high, officials say",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/90db1e4a37d8f014bfae05c2c4a35935"
-        },
-        {
-          "id": "buy-topgolf-callaway-golf-stock-price-pick-22176ead?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "After plunging, its shares look attractive. The company is drawing crowds with its plush, high-tech driving ranges.",
-          "link": "https://www.barrons.com/articles/buy-topgolf-callaway-golf-stock-price-pick-22176ead?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-13T00:00:00.000Z",
-          "wordCount": 6577,
-          "title": "Buy Topgolf Callaway Stock. Why the Battered Shares Are Worth a Shot.",
-          "imageUrl": "https://images.barrons.com/im-778007/social"
-        },
-        {
-          "id": "executive-fired-tiktoks-chinese-owner-235023065.html",
-          "author": null,
-          "description": "A former executive fired from TikTok’s parent company ByteDance made a raft of accusations against the tech giant Friday, including that it stole content from competitors like Instagram and Snapchat, and served as a “propaganda tool” for the Chinese government by suppressing or promoting content favorable to the country’s interests.  The allegations were made in a complaint Friday by Yintao Yu, the head of engineering for ByteDance’s U.S. operations from August 2017 to November 2018, as part of a wrongful termination lawsuit filed earlier this month in San Francisco Superior Court.  Yu claims he was fired for disclosing “wrongful conduct” he saw at the company.",
-          "link": "https://finance.yahoo.com/news/executive-fired-tiktoks-chinese-owner-235023065.html",
-          "publishedOn": "2023-05-12T23:50:23.000Z",
-          "wordCount": 11533,
-          "title": "Executive fired from TikTok's Chinese owner says Beijing had access to app data in termination suit",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/4RnH3k.QDdJqAnFtd9E1aA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDI-/https://media.zenfs.com/en/ap_finance_articles_694/829a7a8194fd04843cd189a3390295b4"
-        },
-        {
-          "id": "consumer-confidence-markets-rates-inflation-fed-69c20c34?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Sentiment readings sink amid high interest rates, debt-ceiling crisis, and inflation worries. Good news on jobs can’t dispel the gloom.",
-          "link": "https://www.barrons.com/articles/consumer-confidence-markets-rates-inflation-fed-69c20c34?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-12T23:33:00.000Z",
-          "wordCount": 6715,
-          "title": "Wall Street Roots for Bad News. Consumers See Plenty Already.",
-          "imageUrl": "https://images.barrons.com/im-781375/social"
-        },
-        {
-          "id": "jpmorgan-opposes-class-action-status-233146276.html",
-          "author": null,
-          "description": "JPMorgan Chase & Co on Friday asked a federal judge to deny class-action status to more than 100 women who said the bank helped enable the late financier Jeffrey Epstein to sexually abuse them.  In a filing in Manhattan federal court, the largest U.S. bank said Epstein's accusers had too many differences to sue under an \"oversimplified\" theory that it was liable to all of them by having provided Epstein with banking services.  JPMorgan said allowing a class action \"skips over\" how Epstein's conduct \"varied from victim to victim, and across time,\" and that the bank's knowledge at the time and provision of banking services similarly varied.",
-          "link": "https://finance.yahoo.com/news/jpmorgan-opposes-class-action-status-233146276.html",
-          "publishedOn": "2023-05-12T23:31:46.000Z",
-          "wordCount": 11606,
-          "title": "JPMorgan opposes class-action status for Epstein accusers",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/1115738f255e98dd7c48c907ee27892a"
-        },
-        {
-          "id": "austin-russell-acquires-majority-stake-233121124.html",
-          "author": null,
-          "description": "(Bloomberg) -- Austin Russell, a 28-year-old automotive technology tycoon, acquired an 82% stake in Forbes Global Media Holdings, parent of the well-known business magazine.Most Read from BloombergYellen Says ‘We Have to Default’ on Something If Congress FailsFlorida’s Money Man Threatens to Cut Ties With Bank of America, Wells FargoThis New Airline Is Raising the Bar, From First Class to EconomyElon Musk Picks Linda Yaccarino as Next Twitter CEOTesla Recalls Virtually Every Car It Has Sold in C",
-          "link": "https://finance.yahoo.com/news/austin-russell-acquires-majority-stake-233121124.html",
-          "publishedOn": "2023-05-12T23:31:21.000Z",
-          "wordCount": 11302,
-          "title": "Austin Russell Acquires Majority Stake in Forbes Magazine",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/YhV9JPtbUEhv2yYBmQiIyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/0591ba5155f05cc3cf073782995f6ea8"
-        },
-        {
-          "id": "data-237-000-us-government-232707021.html",
-          "author": null,
-          "description": "The personal information of 237,000 current and former federal government employees has been exposed in a data breach at the U.S. Transportation Department (USDOT), sources briefed on the matter said on Friday.  It was not clear if any of the personal information had been used for criminal purposes.  USDOT said in a statement to Reuters that the breach did not affect any transportation safety systems.",
-          "link": "https://finance.yahoo.com/news/data-237-000-us-government-232707021.html",
-          "publishedOn": "2023-05-12T23:27:07.000Z",
-          "wordCount": 11104,
-          "title": "Data of 237,000 US government employees breached",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/5aa9cefdb3318ccc0f34dc213e6f3a1f"
-        },
-        {
-          "id": "debt-ceiling-mess-investing-fed-treasuries-9d5f90cc?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "If history is a guide, long-term investors should hang tight or lean into big caps, defensive plays, or tech. On the shorter, more speculative end, short-term Treasuries could see a pop in yields around June 1.",
-          "link": "https://www.barrons.com/articles/debt-ceiling-mess-investing-fed-treasuries-9d5f90cc?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-12T23:27:00.000Z",
-          "wordCount": 6743,
-          "title": "The Debt Ceiling Could Be a Mess. How to Play It.",
-          "imageUrl": "https://images.barrons.com/im-780401/social"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/market-rally-shows-dangerous-action-watch-tesla-amd-these-ev-chip-plays/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-05-12T23:26:14.000Z",
-          "wordCount": null,
-          "title": "Market Rally Action Is Dangerous; Watch Tesla, These EV Chip Stocks",
           "imageUrl": null
         }
       ]
