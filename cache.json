@@ -1558,6 +1558,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6267694/",
+          "author": "onze economieredactie",
+          "description": "Een vluchteling uit Oekraïne heeft 500.000 euro gewonnen met een kraskaart in België. Dat heeft de Belgische loterij bekendgemaakt.",
+          "link": "https://www.nu.nl/economie/6267694/oekraiense-vluchteling-krast-half-miljoen-euro-in-belgische-loterij.html",
+          "publishedOn": "2023-06-12T14:57:36.000Z",
+          "wordCount": 888,
+          "title": "Oekraïense vluchteling krast half miljoen euro in Belgische loterij",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/215x2n4a77l8_sqr256.jpg/oekraiense-vluchteling-krast-half-miljoen-euro-in-belgische-loterij.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/215x2n4a77l8_sqr256.jpg/oekraiense-vluchteling-krast-half-miljoen-euro-in-belgische-loterij.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6267686/",
           "author": "Eva Schouten",
           "description": "De Amerikaanse bank JP Morgan Chase heeft met de slachtoffers van Jeffrey Epstein overeenstemming bereikt voor schadevergoedingen. Dat heeft de bank samen met de advocaten van de slachtoffers bekendgemaakt.",
@@ -7781,21 +7796,6 @@
             "url": "https://media.nu.nl/m/0qwx5caa05d5_sqr256.jpg/eu-krijgt-nieuwe-begrotingsregels-en-stuurt-niet-meer-star-op-bezuinigen.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/0qwx5caa05d5_sqr256.jpg/eu-krijgt-nieuwe-begrotingsregels-en-stuurt-niet-meer-star-op-bezuinigen.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6263391/",
-          "author": "Thijs Rösken",
-          "description": "Europa krijgt nieuwe begrotingsregels. Het idee is dat Brussel minder rigide vraagt om extra bezuinigingen als landen toch al in de problemen zitten. Een hele verbetering, vinden experts, maar het is niet zonder gevaren.",
-          "link": "https://www.nu.nl/economie/6263391/europa-krijgt-nieuwe-begrotingsregels-en-stuurt-niet-meer-star-op-bezuinigen.html",
-          "publishedOn": "2023-05-14T03:09:54.000Z",
-          "wordCount": 2055,
-          "title": "Europa krijgt nieuwe begrotingsregels en stuurt niet meer star op bezuinigen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/0qwx5caa05d5_sqr256.jpg/europa-krijgt-nieuwe-begrotingsregels-en-stuurt-niet-meer-star-op-bezuinigen.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/0qwx5caa05d5_sqr256.jpg/europa-krijgt-nieuwe-begrotingsregels-en-stuurt-niet-meer-star-op-bezuinigen.jpg"
         }
       ]
     },
@@ -7804,6 +7804,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/trading/09/risk-management.asp",
+          "author": "Justin Kuepper",
+          "description": "Managing risk can be a big challenge even for the most seasoned trader. Read on to learn how you can manage risk through the use of stop-loss and take-profit points.",
+          "link": "https://www.investopedia.com/articles/trading/09/risk-management.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-12T14:47:41.000Z",
+          "wordCount": 7164,
+          "title": "Risk Management Techniques for Active Traders",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/H2mwcafY4TLhoFnmKkK9Zq8w1a4=/680x440/risk_management-5bfc36abc9e77c005182400f.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/H2mwcafY4TLhoFnmKkK9Zq8w1a4=/680x440/risk_management-5bfc36abc9e77c005182400f.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/the-express-podcast-episode-141-7510819",
+          "author": "Staff Author",
+          "description": "Jay Woods, NYSE veteran and Chief Global Strategist for Freedom Capital Markets, joins the Express from the floor of the NYSE to examine the new bull market. It looks a little thin, but it is showing signs of strengthening.",
+          "link": "https://www.investopedia.com/the-express-podcast-episode-141-7510819?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-12T14:27:21.000Z",
+          "wordCount": 5422,
+          "title": "Riding the Skinny Bull Market From the Floor of the NYSE",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/du63ETgmnQn8RdLUcKmJoCAk2Y4=/6250x4167/RidingtheSkinnyBullMarketFromtheFlooroftheNYSE-bfa0f87be8de47ef8bbe41284c42c160.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/du63ETgmnQn8RdLUcKmJoCAk2Y4=/6250x4167/RidingtheSkinnyBullMarketFromtheFlooroftheNYSE-bfa0f87be8de47ef8bbe41284c42c160.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/optioninvestor/07/swaps.asp",
           "author": "Michael McCaffrey",
@@ -26293,21 +26323,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/7HDXH33T_gqznFMShph-YYACtis=/2000x1334/GettyImages-171249610-56a27dfd3df78cf77276a8b5.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/investing/10-biggest-start-ups-valuation-recode/",
-          "author": "Jake Frankenfield",
-          "description": "Find out the companies that made the list of the 10 biggest startups by valuation, according to a recent report published by Recode.",
-          "link": "https://www.investopedia.com/investing/10-biggest-start-ups-valuation-recode/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-14T03:04:14.000Z",
-          "wordCount": 6448,
-          "title": "These Are the 10 Biggest U.S. Startups by Valuation",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ljh2wXOTbrX9naBvcfGfl2JVdAE=/680x452/uber-5bfc476fc9e77c0026bb4700.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ljh2wXOTbrX9naBvcfGfl2JVdAE=/680x452/uber-5bfc476fc9e77c0026bb4700.jpg"
         }
       ]
     },
@@ -26317,6 +26332,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "load-says-raymond-james-3-144258007.html",
+          "author": null,
+          "description": "Policymakers face a big challenge this week. The Fed will convene for its two-day policy meeting on June 13-14 (Tuesday/Wednesday) to determine whether another rate hike is required in its ongoing efforts to tame persistently high inflation. However, this time around, there might finally be a change in tune. “For much of last year the Fed was united about the need to lift rates into restrictive territory,” notes Raymond James’ CIO Larry Adam. “But after ten consecutive rate increases, we are sta",
+          "link": "https://finance.yahoo.com/news/load-says-raymond-james-3-144258007.html",
+          "publishedOn": "2023-06-12T14:42:58.000Z",
+          "wordCount": 3295,
+          "title": "‘Load Up,’ Says Raymond James About These 3 ‘Strong Buy’ Stocks",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/4a10145b8a405cb7a3ed34b9aa70ec09"
+        },
+        {
+          "id": "tesla-upgraded-nio-downgraded-wall-135603348.html",
+          "author": null,
+          "description": "Tesla upgraded, Nio downgraded: Wall Street's top analyst calls",
+          "link": "https://finance.yahoo.com/news/tesla-upgraded-nio-downgraded-wall-135603348.html",
+          "publishedOn": "2023-06-12T13:56:03.000Z",
+          "wordCount": 2469,
+          "title": "Tesla upgraded, Nio downgraded: Wall Street's top analyst calls",
+          "imageUrl": "https://media.zenfs.com/en/the_fly_169/135b0749a3ad5e86fe326a9da1d664b6"
+        },
+        {
           "id": "stocks-open-higher-to-kick-off-key-week-for-us-economy-stock-market-news-today-110707386.html",
           "author": null,
           "description": "Stocks were higher early Monday as investors await key data on inflation and the Fed's latest policy decision later this week.",
@@ -26325,6 +26360,26 @@
           "wordCount": 1964,
           "title": "Stocks open higher to kick off key week for US economy: Stock market news today",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/WRYAAOxh9ko2mRedXmK2TA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/78b14640-0343-11ee-bba7-23d8d75e4473"
+        },
+        {
+          "id": "nasdaq-agrees-buy-thoma-bravo-102326315.html",
+          "author": null,
+          "description": "(Bloomberg) -- Nasdaq Inc. has agreed to buy financial-software maker Adenza from its private equity owners in the exchange operator’s biggest-ever deal.Most Read from BloombergOil Traders Are Daring to Defy Market Kingpin Saudi ArabiaUBS Completes Credit Suisse Takeover to Create Bank TitanAs Fed Signals Rate Pause, Powell Will Have to Placate HawksJeff Bezos Has Gained $10 on Mystery Purchase of One Amazon ShareGoldman’s Low US Recession Odds Get It Wrong, Bond Investors SayThe acquisition is",
+          "link": "https://finance.yahoo.com/news/nasdaq-agrees-buy-thoma-bravo-102326315.html",
+          "publishedOn": "2023-06-12T13:40:32.000Z",
+          "wordCount": 2022,
+          "title": "Nasdaq to Purchase Adenza From Thoma Bravo for $10.5 Billion",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/lXIPyMDUxKD4WV4USr1jYQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/5a2b833ddb2a87c3a0c75983c67a8055"
+        },
+        {
+          "id": "credit-suisse-era-ends-after-ubs-takeover-becomes-official-a0d677ee?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The deal marks the end of 167 years of independence for the troubled bank and the beginning of a new stretch in financial history with one dominant Swiss manager of money for the global elite.",
+          "link": "https://www.wsj.com/articles/credit-suisse-era-ends-after-ubs-takeover-becomes-official-a0d677ee?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-12T13:31:00.000Z",
+          "wordCount": 8445,
+          "title": "Credit Suisse Era Ends After UBS Takeover Becomes Official",
+          "imageUrl": "https://images.wsj.net/im-798477/social"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -26345,6 +26400,16 @@
           "wordCount": 5845,
           "title": "Nasdaq Stock Tumbles After $10.5 Billion Acquisition Announced",
           "imageUrl": "https://images.wsj.net/im-785590/social"
+        },
+        {
+          "id": "risk-averse-investors-buy-note-130012135.html",
+          "author": null,
+          "description": "A risk-averse investor is someone who prefers to emphasize security over potential gains. Their portfolio is built to preserve capital and prevent losses first and pursue growth second. This isn't to say that risk-averse investors see no gains. This is … Continue reading → The post How to Be a Risk Averse Investor appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/risk-averse-investors-buy-note-130012135.html",
+          "publishedOn": "2023-06-12T13:00:49.000Z",
+          "wordCount": 2773,
+          "title": "Why The Rest of Us Should Be Paying Attention to What Risk-Averse Investors Are Buying",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/72735e5fb767c4ce6471564b17d8d888"
         },
         {
           "id": "smile-its-a-bull-market-in-stocks-130049669.html",
@@ -26405,6 +26470,26 @@
           "wordCount": 6658,
           "title": "A Stock’s Dividend Yield Isn’t Enough. Pay Attention to ‘Shareholder Yield.’",
           "imageUrl": "https://images.barrons.com/im-797844/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/snowflake-snow-stock-buy-now/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-06-12T12:20:47.000Z",
+          "wordCount": null,
+          "title": "Is Snowflake Stock A Buy Ahead Of Investor Day?",
+          "imageUrl": null
+        },
+        {
+          "id": "jpmorgan-bob-michele-manages-700-121919845.html",
+          "author": null,
+          "description": "The current market rally is reminiscent of the immediate relief following JP Morgan's purchase of Bear Stearns in March 2008, six months before Lehman collapsed.",
+          "link": "https://finance.yahoo.com/news/jpmorgan-bob-michele-manages-700-121919845.html",
+          "publishedOn": "2023-06-12T12:19:19.000Z",
+          "wordCount": 2763,
+          "title": "JPMorgan’s Bob Michele manages $700 billion— and today’s bull run reminds him of the calm before the Lehman collapse",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/.jy4HvDNURBZDfr8CVDcRQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTA-/https://media.zenfs.com/en/fortune_175/20b4603fd05257b7e019db7e0cb76504"
         },
         {
           "id": "dont-say-it-too-loudly-but-ubs-just-got-a-steal-of-a-deal-ca23664e?siteid=yhoof2&yptr=yahoo",
