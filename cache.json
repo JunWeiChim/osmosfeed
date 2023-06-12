@@ -1548,6 +1548,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6267604/",
+          "author": "onze economieredactie",
+          "description": "De krapte op de arbeidsmarkt is ongekend. Ons land heeft momenteel 166 beroepen met een tekort aan arbeidskrachten, zo blijkt uit een analyse van uitkeringsinstantie UWV.",
+          "link": "https://www.nu.nl/economie/6267604/we-hebben-166-beroepen-met-een-tekort-aan-mensen.html",
+          "publishedOn": "2023-06-12T06:36:34.000Z",
+          "wordCount": 791,
+          "title": "We hebben 166 beroepen met een tekort aan mensen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/swsxwohaagl7_sqr256.jpg/we-hebben-166-beroepen-met-een-tekort-aan-mensen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/swsxwohaagl7_sqr256.jpg/we-hebben-166-beroepen-met-een-tekort-aan-mensen.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6267600/",
           "author": "onze economieredactie",
           "description": "Het aantal faillissementen is in mei opnieuw opgelopen. Afgelopen maand werden zestien bedrijven meer failliet verklaard dan in april. Dat is een stijging van 7 procent. Vooral in de handel en de bouw gingen bedrijven op de fles.",
@@ -7674,6 +7689,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/s/sharecapital.asp",
+          "author": "Alicia Tuovila",
+          "description": "Share capital is the money a company raises by issuing shares of common or preferred stock. The total is listed in the company's balance sheet.",
+          "link": "https://www.investopedia.com/terms/s/sharecapital.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-12T06:46:53.000Z",
+          "wordCount": 6676,
+          "title": "What Is Share Capital? Definition, How It Works, and Types",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/2hgWIdlSS8pkKXTzMspKgyMnviU=/1500x1000/Term-Definitions_Share-Capital-Source-File-Final-baf0dd29b0934899bd11d1a8081f2971.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/2hgWIdlSS8pkKXTzMspKgyMnviU=/1500x1000/Term-Definitions_Share-Capital-Source-File-Final-baf0dd29b0934899bd11d1a8081f2971.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/e/ex-dividend.asp",
+          "author": "Adam Hayes",
+          "description": "Ex-dividend is a classification in stock trading that indicates when a declared dividend belongs to the seller rather than the buyer.",
+          "link": "https://www.investopedia.com/terms/e/ex-dividend.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-12T06:13:29.000Z",
+          "wordCount": 7226,
+          "title": "What Does Ex-Dividend Mean, and What Are the Key Dates?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/BAmKoxXv_pky38jqDSITFGbRuaM=/1500x1000/Ex-Dividend-73326ee2cff9411dbe8504bf434bbe3b.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/BAmKoxXv_pky38jqDSITFGbRuaM=/1500x1000/Ex-Dividend-73326ee2cff9411dbe8504bf434bbe3b.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/a/ann-moore.asp",
           "author": "The Investopedia Team",
@@ -26142,6 +26187,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "stocks-fed-rate-cut-bonds-c2fe9475?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Volatile trading in the bond market reflects a less optimistic view. Investors there remain worried that high interest rates will damage the economy.",
+          "link": "https://www.barrons.com/articles/stocks-fed-rate-cut-bonds-c2fe9475?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-12T06:30:00.000Z",
+          "wordCount": 7566,
+          "title": "The Stock Market Says the Fed Will Cut Rates Soon. It Just May Be Right.",
+          "imageUrl": "https://images.barrons.com/im-797503/social"
+        },
+        {
           "id": "oracle-earnings-stock-price-a7d3efae?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Oracle shares have been on fire as the market begins to see the company as a major play on artificial intelligence.",
@@ -26150,6 +26205,16 @@
           "wordCount": 6703,
           "title": "Oracle Earnings Day Is Here. The Focus is on Cloud and AI.",
           "imageUrl": "https://images.barrons.com/im-701366/social"
+        },
+        {
+          "id": "chinas-property-sector-set-persistently-044942386.html",
+          "author": null,
+          "description": "China's property sector is expected to grapple with \"persistent weakness\" for years, Goldman Sachs analysts said, adding that its problems would continue to drag on the country's economic growth.  Weaknesses are particularly pronounced in lower-tier cities and private developer financing, they said in a client note, adding that policymakers, who have vowed not to use the sector as a short-term lever to spur growth, seem keen for there to be less economic and fiscal reliance on the industry.  \"As such, we only assume an 'L-shaped' recovery in the property sector in coming years,\" the note said.",
+          "link": "https://finance.yahoo.com/news/chinas-property-sector-set-persistently-044942386.html",
+          "publishedOn": "2023-06-12T04:49:42.000Z",
+          "wordCount": 2089,
+          "title": "China's property sector set to be persistently weak for years -Goldman",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/ceb0eb8ceeb7c8d750a0f8be690765f1"
         },
         {
           "id": "fed-jerome-powell-big-problem-more-complicated-ba27ece4?siteid=yhoof2&yptr=yahoo",
@@ -47520,46 +47585,6 @@
           "wordCount": 12183,
           "title": "The Fed Isn’t Fully Taking Its ‘Foot Off the Pedal,’ Loomis Says",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/9q3.ieAm4UFFLGBFzmEqxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/25eccdee682d9bc4335337e6199f1d58"
-        },
-        {
-          "id": "timing-market-isnt-easy-during-190000300.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/timing-market-isnt-easy-during-190000300.html",
-          "publishedOn": "2023-05-13T19:00:00.000Z",
-          "wordCount": null,
-          "title": "Timing the market isn't easy during a debt-ceiling showdown. Investors should stick to this strategy instead.",
-          "imageUrl": null
-        },
-        {
-          "id": "week-coins-bitcoin-ethereum-lead-184731749.html",
-          "author": null,
-          "description": "Crypto enjoyed a short rally after the release of the CPI on Wednesday, but a strengthening dollar pulled prices back down. fs",
-          "link": "https://finance.yahoo.com/news/week-coins-bitcoin-ethereum-lead-184731749.html",
-          "publishedOn": "2023-05-13T18:47:31.000Z",
-          "wordCount": 11573,
-          "title": "This Week in Coins: Bitcoin and Ethereum Lead Market Pullback as Dollar Rises",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/9AVZFCtKL5EO9YifyhCuTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_media_980/9d303b3a805ae0c9dd606cc90b520cdd"
-        },
-        {
-          "id": "warren-buffetts-bank-account-charlie-184500727.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/warren-buffetts-bank-account-charlie-184500727.html",
-          "publishedOn": "2023-05-13T18:45:00.000Z",
-          "wordCount": null,
-          "title": "Warren Buffett's bank account, Charlie Munger's oil checks, and an Amazon bestseller: 6 nuggets from Berkshire Hathaway's annual meeting",
-          "imageUrl": null
-        },
-        {
-          "id": "almost-impossible-trade-us-default-183000081.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/almost-impossible-trade-us-default-183000081.html",
-          "publishedOn": "2023-05-13T18:30:00.000Z",
-          "wordCount": null,
-          "title": "It's almost impossible to trade on a US default - so here's what investors should do instead, according to Bankrate's senior economic analyst",
-          "imageUrl": null
         }
       ]
     }
