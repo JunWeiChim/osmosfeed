@@ -831,6 +831,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "94be7fd6627c6d5046c28f95eebf2bd6",
+          "author": "Investopedia",
+          "description": "The latest inflation figures are expected to show price pressures easing, and a jump in revenue helped push Oracle shares higher. Here’s what investors need to know today.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df4f2a56d06e81209c9d0a69cdab3fa7fbe66db3bbc37ff57eba6758d7651e5c0158",
+          "publishedOn": "2023-06-13T14:11:23.704Z",
+          "wordCount": 411,
+          "title": "5 Things to Know Before Markets Open",
+          "imageUrl": null
+        },
+        {
           "id": "3cdf1390abe90cefc0260ed687eb04ac",
           "author": "Investopedia",
           "description": "The Dow Jones Industrial Average was higher by more than 180 points, marking five straight sessions in the green",
@@ -1617,6 +1627,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6267785/",
+          "author": "Ertan Basekin",
+          "description": "In de cao's die de afgelopen zes maanden zijn afgesloten, komt de gemiddelde loonstijging uit op 7,1 procent. \"En de stijgende lijn zet door\", zegt vicevoorzitter Zakaria Boufangacha van vakbond FNV.",
+          "link": "https://www.nu.nl/economie/6267785/ondanks-historische-loonstijging-in-caos-is-het-voor-fnv-nog-niet-genoeg.html",
+          "publishedOn": "2023-06-13T13:31:41.000Z",
+          "wordCount": 1254,
+          "title": "Ondanks 'historische' loonstijging in cao's is het voor FNV nog niet genoeg",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/co9xxzqa7t2l_sqr256.jpg/ondanks-historische-loonstijging-in-caos-is-het-voor-fnv-nog-niet-genoeg.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/co9xxzqa7t2l_sqr256.jpg/ondanks-historische-loonstijging-in-caos-is-het-voor-fnv-nog-niet-genoeg.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6267821/",
           "author": "Eva Schouten",
@@ -7984,6 +8009,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/optioninvestor/10/sell-puts-benefit-any-market.asp",
+          "author": "Sham Gad",
+          "description": "Selling (writing) a put option allows an investor to potentially own the underlying security at both a future date and a more favorable price.",
+          "link": "https://www.investopedia.com/articles/optioninvestor/10/sell-puts-benefit-any-market.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-13T13:37:59.000Z",
+          "wordCount": 7788,
+          "title": "How to Sell Put Options to Benefit in Any Market",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/F6SgAhc8iVfn02xn5O7QbSwTJIg=/1920x1357/stock-exchange-911608_1920-10d732f18b394e489f017932acd95d10.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/F6SgAhc8iVfn02xn5O7QbSwTJIg=/1920x1357/stock-exchange-911608_1920-10d732f18b394e489f017932acd95d10.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/top-reits-june-2023-7510762",
+          "author": "Noah Bolton",
+          "description": "Minto Apartment, National Health Investors, and Apartment Investment lead for value, growth, and momentum, respectively",
+          "link": "https://www.investopedia.com/top-reits-june-2023-7510762?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-13T13:31:07.000Z",
+          "wordCount": 6122,
+          "title": "Top REITs for June 2023",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/jpsDwKUccF5g9Q-el0Wrqdo8yV0=/5464x3640/GettyImages-1397479720-6f6a32bc56754836a859be469882b755.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/jpsDwKUccF5g9Q-el0Wrqdo8yV0=/5464x3640/GettyImages-1397479720-6f6a32bc56754836a859be469882b755.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/g/gordongrowthmodel.asp",
+          "author": "Adam Hayes",
+          "description": "The Gordon growth model (GGM) is used to determine the intrinsic value of a stock based on a future series of dividends that grow at a constant rate.",
+          "link": "https://www.investopedia.com/terms/g/gordongrowthmodel.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-13T13:09:43.000Z",
+          "wordCount": 7815,
+          "title": "Gordon Growth Model (GGM) Defined: Example and Formula",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/uohBxUvDfmT4Ej3ToCWDD5jREhw=/1500x1000/Gordon-Growth-Model-GGM-228042e32abb469f8145c64a4200d027.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/uohBxUvDfmT4Ej3ToCWDD5jREhw=/1500x1000/Gordon-Growth-Model-GGM-228042e32abb469f8145c64a4200d027.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/t/tmx-group.asp",
           "author": "James Chen",
@@ -27107,6 +27177,16 @@
           "imageUrl": null
         },
         {
+          "id": "retiring-55-2-5-million-130056751.html",
+          "author": null,
+          "description": "It probably is possible for most people to retire at age 55 if they have $2.5 million in savings. The ultimate answer, though, will depend on the interplay between various factors. These include your health, your anticipated retirement lifestyle and … Continue reading → The post Can I Retire at 55 With $2.5 Million? appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/retiring-55-2-5-million-130056751.html",
+          "publishedOn": "2023-06-13T13:00:29.000Z",
+          "wordCount": 2741,
+          "title": "I Want to Retire at 55; How Long Will $2.5 Million Last Me?",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/bc769cff1c0b0b2bca785965e87130c0"
+        },
+        {
           "id": "us-consumer-prices-slow-may-124354803.html",
           "author": null,
           "description": "U.S. consumer prices rose moderately in May, leading to the smallest annual increase in inflation in more than two years, though underlying price pressures remained strong, supporting views that the Federal Reserve would keep interest rates unchanged on Wednesday while adopting a hawkish posture.  The Consumer Price Index (CPI) increased 0.1% last month as gasoline prices fell, the Labor Department said on Tuesday.  The CPI gained 0.4% in April.",
@@ -27445,6 +27525,16 @@
           "wordCount": 2282,
           "title": "Oracle Pushes to Record High as AI-Frenzy Spurs Cloud Demand",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/W9tKrRcf4uT12pn.RRtN5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MzI-/https://media.zenfs.com/en/bloomberg_markets_842/6cca774862e1902be496851b5a595858"
+        },
+        {
+          "id": "brookfield-buy-duke-renewables-unit-222556232.html",
+          "author": null,
+          "description": "(Bloomberg) -- Brookfield Renewable agreed to buy a big portfolio of wind and solar farms from Duke Energy Corp. for $2.8 billion in a move intended to boost cash reserves.Most Read from BloombergElizabeth Holmes Objects to $250-a-Month Victim Payments After PrisonInstant Pot and Pyrex Maker Instant Brands Files for BankruptcyArm Courts Intel as Anchor Investor in Upcoming IPOOil Traders Are Daring to Defy Market Kingpin Saudi ArabiaChina Weighs Broad Stimulus With Property Support, Rate CutsDuk",
+          "link": "https://finance.yahoo.com/news/brookfield-buy-duke-renewables-unit-222556232.html",
+          "publishedOn": "2023-06-12T22:25:56.000Z",
+          "wordCount": 2206,
+          "title": "Brookfield to Buy Duke Renewables Unit for $2.8 Billion",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ZcdAUjINmUuf53SPIJTsog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_markets_842/ef0f2fa3889b25a14ba90ee52a897042"
         },
         {
           "id": "recession-strike-stocks-drop-declines-221020264.html",
@@ -49275,46 +49365,6 @@
           "wordCount": 7755,
           "title": "$14 Billion Deal to Create Mega-Pipeline Company",
           "imageUrl": "https://images.wsj.net/im-781724/social"
-        },
-        {
-          "id": "us-equity-futures-fall-baht-221302984.html",
-          "author": null,
-          "description": "(Bloomberg) -- US stock futures declined and the dollar traded in tight ranges versus major peers as investors weighed signs of progress in talks to avert a debt default and persistent inflationary pressure. Most Read from BloombergTurkey Latest: Erdogan Vote Below 50% Needed to Win ElectionRemote Work Comes With Daytime Drug and Drinking HabitsEarly Vote Count Shows Erdogan Below 50% in Turkish ElectionTrump Changed GOP Rules to Make Winning the Nomination Even Easier — for TrumpMuch of the act",
-          "link": "https://finance.yahoo.com/news/us-equity-futures-fall-baht-221302984.html",
-          "publishedOn": "2023-05-15T02:00:50.000Z",
-          "wordCount": 12071,
-          "title": "US Equity Futures Fall as Baht Gains With Rand: Markets Wrap",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/f93cb4454f7359495ae28ab41e333072"
-        },
-        {
-          "id": "oil-falls-economic-concerns-offset-015420035.html",
-          "author": null,
-          "description": "Oil prices slipped on Monday as concerns about fuel demand at top global oil consumers U.S. and China offset optimism about tightening supplies from any OPEC+ cuts and a resumption in U.S. buying for reserves.  Brent crude futures fell 43 cents, or 0.6%, to $73.74 a barrel by 0130 GMT while U.S. West Texas Intermediate crude was at $69.67 a barrel, down 37 cents, or 0.5%.  \"Oil prices are still under pressure on sluggish demand outlooks as China’s economic reopening progress seems bumpy,\" CMC Markets analyst Tina Teng said, adding that the U.S. banking rout has also caused market jitters.",
-          "link": "https://finance.yahoo.com/news/oil-falls-economic-concerns-offset-015420035.html",
-          "publishedOn": "2023-05-15T01:54:20.000Z",
-          "wordCount": 11822,
-          "title": "Oil falls as economic concerns offset prospect of tighter supplies",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/0c059bc083443f1054efcbd49ee81859"
-        },
-        {
-          "id": "oil-holds-fourth-weekly-decline-230926913.html",
-          "author": null,
-          "description": "(Bloomberg) -- Oil held a fourth weekly loss as concerns over the US economy and China’s slower-than-expected recovery weighed on the outlook.Most Read from BloombergTurkey Latest: Erdogan Vote Below 50% Needed to Win ElectionRemote Work Comes With Daytime Drug and Drinking HabitsEarly Vote Count Shows Erdogan Below 50% in Turkish ElectionTrump Changed GOP Rules to Make Winning the Nomination Even Easier — for TrumpWest Texas Intermediate futures traded near $70 a barrel after the longest run of",
-          "link": "https://finance.yahoo.com/news/oil-holds-fourth-weekly-decline-230926913.html",
-          "publishedOn": "2023-05-15T01:33:44.000Z",
-          "wordCount": 11602,
-          "title": "Oil Drops for a Fourth Day as Concerns Over Demand Persist",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/47ee94ad61fc4f1c15d17ec82d5cc940"
-        },
-        {
-          "id": "china-central-bank-rolls-over-013117981.html",
-          "author": null,
-          "description": "China's central bank rolled over maturing medium-term policy loans while keeping interest rates unchanged on Monday, matching market expectations. The People's Bank of China (PBOC) said it was keeping the rate on 125 billion yuan ($18.08 billion) worth of one-year medium-term lending facility (MLF) loans to some financial institutions unchanged at 2.75% from the previous operation. In a Reuters poll of 30 market watchers conducted last week, 26 participants, or 86.7%, predicted no change to the MLF rate, while four respondents expected a marginal rate cut.",
-          "link": "https://finance.yahoo.com/news/china-central-bank-rolls-over-013117981.html",
-          "publishedOn": "2023-05-15T01:31:17.000Z",
-          "wordCount": 11175,
-          "title": "China holds rates, adds more liquidity as recovery struggles",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/54057e641e4f5ecd39df07462ca926d3"
         }
       ]
     }
