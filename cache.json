@@ -1599,26 +1599,6 @@
           "wordCount": 411,
           "title": "5 Things to Know Before Markets Open",
           "imageUrl": null
-        },
-        {
-          "id": "88599438d9ee018bbbe1b1d248c9f66a",
-          "author": "Investopedia",
-          "description": "U.S. equities fell on Tuesday, May 16, 2023 as Home Depot’s revenue warning raised concerns about economic growth, and as President Biden met with congressional leaders on the debt ceiling to avoid a government default.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b66d5e91ab14f748e8f34afbf3523c24c50ce35c83cb4824d3f09cc6a873dd89c1d21c7e337a6b8f721eee39d60f278b0735ed366",
-          "publishedOn": "2023-05-16T22:11:09.740Z",
-          "wordCount": 411,
-          "title": "Markets Fall on Home Depot Warning, Debt Talks",
-          "imageUrl": null
-        },
-        {
-          "id": "de08b31cd16bdf3a0d7e166c9e8a34c4",
-          "author": "Investopedia",
-          "description": "The Dow Jones Industrial Average fell 1%, or 336 points, on a day of disappointing earnings and macroeconomic reports. Nike lost the most, while Microsoft led a small pack of gainers.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c2495eda7dd46efcc516721d8b32c7",
-          "publishedOn": "2023-05-16T22:11:09.731Z",
-          "wordCount": 411,
-          "title": "Dow Jones Today: Index Slumps on Retail Sales",
-          "imageUrl": null
         }
       ]
     },
@@ -1627,6 +1607,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6268085/",
+          "author": "Tom van Gurp",
+          "description": "Er trekken de laatste jaren veel miljonairs weg uit het Verenigd Koninkrijk. Vorig jaar verlieten zestienhonderd van hen het land, dit jaar verdubbelt dat aantal waarschijnlijk. Dat komt grotendeels door de Brexit.",
+          "link": "https://www.nu.nl/economie/6268085/brexit-jaagt-veel-miljonairs-weg-uit-vk-russen-zien-er-8500-vertrekken.html",
+          "publishedOn": "2023-06-15T10:09:34.000Z",
+          "wordCount": 1125,
+          "title": "Brexit jaagt veel miljonairs weg uit VK, Russen zien er 8.500 vertrekken",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/krlx3vca4fwq_sqr256.jpg/brexit-jaagt-veel-miljonairs-weg-uit-vk-russen-zien-er-8500-vertrekken.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/krlx3vca4fwq_sqr256.jpg/brexit-jaagt-veel-miljonairs-weg-uit-vk-russen-zien-er-8500-vertrekken.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6268057/",
           "author": "onze techredactie",
@@ -27288,21 +27283,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/Gpli3Qm9MireRSXMxGURf_6W31k=/680x440/thinkstockphotos-454144265-5bfc350c46e0fb0051469cdd.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/q/qualified-mortgage.asp",
-          "author": "Julia Kagan",
-          "description": "A qualified mortgage is a mortgage that meets certain requirements for lender protection and secondary market trading under the Dodd-Frank Wall Street Reform and Consumer Protection Act that was passed in 2010.",
-          "link": "https://www.investopedia.com/terms/q/qualified-mortgage.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-16T22:09:57.000Z",
-          "wordCount": 6238,
-          "title": "Qualified Mortgage: What it Is, How it Works",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/zDAqkZXNA_yTKUKbs5L2iLD_uWA=/2121x1414/financial-advisor-having-a-meeting-with-clients-1063753064-d33d8db25522429395807bb07c4768b3.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/zDAqkZXNA_yTKUKbs5L2iLD_uWA=/2121x1414/financial-advisor-having-a-meeting-with-clients-1063753064-d33d8db25522429395807bb07c4768b3.jpg"
         }
       ]
     },
@@ -27311,6 +27291,36 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "stock-market-movers-90f47bb9?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Lennar's earnings and revenue top expectations, XPeng gets approval for assisted-driving technology in Beijing, and Adobe reports earnings Thursday.",
+          "link": "https://www.barrons.com/articles/stock-market-movers-90f47bb9?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-15T09:13:00.000Z",
+          "wordCount": 6669,
+          "title": "These Stocks Are Moving the Most Today: Lennar, XPeng, Citigroup, Adobe, and More",
+          "imageUrl": "https://images.barrons.com/im-166688/social"
+        },
+        {
+          "id": "tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "It’s the first company to roll out an advanced driver-assistance system (ADAS) in Beijing, after it was approved for use on major ring roads and expressways in the capital city.",
+          "link": "https://www.barrons.com/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-15T08:59:00.000Z",
+          "wordCount": 6608,
+          "title": "Tesla Rival XPeng Rolls Out Self-Driving Tech in Beijing. The Stock Is Rising.",
+          "imageUrl": "https://images.barrons.com/im-417792/social"
+        },
+        {
+          "id": "copper-freeport-mcmoran-stock-pick-price-95cf6f5c?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Freeport stands to gain from the move to alternative energy—and it has the strongest balance sheet of any copper miner.",
+          "link": "https://www.barrons.com/articles/copper-freeport-mcmoran-stock-pick-price-95cf6f5c?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-15T08:00:00.000Z",
+          "wordCount": 6500,
+          "title": "Copper Is the Future. Freeport-McMoRan Is the Stock to Buy.",
+          "imageUrl": "https://images.barrons.com/im-799738/social"
+        },
         {
           "id": "adobe-earnings-stock-price-5e27bb24?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -27420,6 +27430,16 @@
           "wordCount": 1831,
           "title": "Gundlach Doesn’t Think the Fed Will Resume Rate Hikes Soon",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ryU4VBKpgoZDSBs8lvUcBQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/1b2e061bfd7b4f2b00fb0af77169a951"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/china-ev-stocks-revving-higher-chinese-economic-recovery-slowing/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-06-14T20:37:17.000Z",
+          "wordCount": null,
+          "title": "China EV Stocks: Li Auto, Nio, XPeng Revving Higher Despite Slowing Economy",
+          "imageUrl": null
         },
         {
           "id": "tesla-240-billion-rally-set-135539278.html",
@@ -48960,46 +48980,6 @@
           "wordCount": 11936,
           "title": "In his first public appearance since SVB’s collapse, former CEO Greg Becker is asked to defend trip to Hawaii and whether he’ll forfeit $1.5 million bonus",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/.gD6wJdivtwymAmZpNpkHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/71434a1c311068d0e642698235229800"
-        },
-        {
-          "id": "sofi-stock-price-buy-rating-a6cdaeb3?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The stock has dived 23% since the company reported first-quarter earnings on May 1.",
-          "link": "https://www.barrons.com/articles/sofi-stock-price-buy-rating-a6cdaeb3?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-16T22:12:00.000Z",
-          "wordCount": 6715,
-          "title": "Buy SoFi Stock, Analyst Says. Sellers Have Got It Wrong.",
-          "imageUrl": "https://images.barrons.com/im-782491/social"
-        },
-        {
-          "id": "tesla-shareholder-meeting-straubel-elected-to-board-musk-reiterates-production-cybertrucks-coming-this-year-220630036.html",
-          "author": null,
-          "description": "Tesla held its annual shareholder meeting after the bell on Tuesday, with the company dealing with a variety of items like board composition, shareholder votes on various measures, long-term planning and the return of a former Tesla exec as a new board member.",
-          "link": "https://finance.yahoo.com/news/tesla-shareholder-meeting-straubel-elected-to-board-musk-reiterates-production-cybertrucks-coming-this-year-220630036.html",
-          "publishedOn": "2023-05-16T22:06:30.000Z",
-          "wordCount": 12044,
-          "title": "Tesla shareholder meeting: Straubel elected to board; Musk reiterates 'production Cybertrucks' coming this year",
-          "imageUrl": "https://s.yimg.com/os/creatr-uploaded-images/2023-05/e3323120-f428-11ed-957f-d368baa23dc5"
-        },
-        {
-          "id": "short-seller-jim-chanos-scoffs-213332766.html",
-          "author": null,
-          "description": "Famed short seller Jim Chanos scoffed at remarks made by Silicon Valley Bank's ex-CEO that a sharp policy shift by the Fed had brought the bank down.",
-          "link": "https://finance.yahoo.com/news/short-seller-jim-chanos-scoffs-213332766.html",
-          "publishedOn": "2023-05-16T21:33:32.000Z",
-          "wordCount": 11574,
-          "title": "Short seller Jim Chanos scoffs at former SVB boss's suggestion that the Fed's sharp policy shift toppled the bank",
-          "imageUrl": "https://media.zenfs.com/en/business_insider_articles_888/d3f402ed545afd4d3df4a99a6aba7afe"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/research/these-5-fastest-growing-companies-still-expect-35-to-165-profit-growth/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-05-16T21:11:53.000Z",
-          "wordCount": null,
-          "title": "These 5 Fastest-Growing Companies Still Expect 35% To 165% Profit Growth",
-          "imageUrl": null
         }
       ]
     }
