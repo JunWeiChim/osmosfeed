@@ -24,6 +24,26 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "8ecc6e48822dc077f358ed682d2952b6",
+          "author": "Investopedia",
+          "description": "Adobe posted record Q2 revenue as its use of AI boosted demand.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca876e8ae707a6552d8d833dade6772b9a4153d07d8239b89c516642d479d832d59d18698eb160e6a2b476b5",
+          "publishedOn": "2023-06-16T17:10:26.869Z",
+          "wordCount": 411,
+          "title": "AI Excitement Fuels Gains for Adobe",
+          "imageUrl": null
+        },
+        {
+          "id": "fcf54b16d200e66c7233c9e974347eae",
+          "author": "Investopedia",
+          "description": "U.K. regulators approved Amazon's $1.7 billion purchase of Roomba vacuum maker iRobot.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca876ac6f810ab11299d9c3babf32928c24b598e399737b39d566645cb7b873cc7971e21c1ff78a7feae32e7ef9b21a438e6381ccf631a5c045ba5a0",
+          "publishedOn": "2023-06-16T17:10:26.861Z",
+          "wordCount": 411,
+          "title": "Amazon's Purchase of iRobot Approved by UK Regulators",
+          "imageUrl": null
+        },
+        {
           "id": "79fdb1bbbc9d4d12c7be75bf1e2ee077",
           "author": "Investopedia",
           "description": "Shares of Virgin Galactic surged after announcing it would begin to offer commercial space tourism services in late June.",
@@ -820,6 +840,16 @@
       "feedUrl": "https://rss.app/feeds/UWnMV6nTNN8mPDUG.xml",
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
+        {
+          "id": "83c7f409b272ab969411c705b27e6ab5",
+          "author": "Investopedia",
+          "description": "U.S. equities were little changed at midday on Friday, June 16, 2023, but on track for a winning week heading into the long holiday weekend.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b66d5e91ab14f7484872cb7fe3f608c4c5ecd37803cfc93566649d26f9132c8df1879d7ab3db7f4e729ecefc32baa3ea42b42953d41065a02fabebfdc72528485e3f68d9bc0de",
+          "publishedOn": "2023-06-16T17:10:26.832Z",
+          "wordCount": 411,
+          "title": "Markets Little Changed Midday but on Track for Weekly Gains Heading into Holiday",
+          "imageUrl": null
+        },
         {
           "id": "bfa835b8110c815fa81c7fa04496cb5d",
           "author": "Investopedia",
@@ -1627,6 +1657,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6268348/",
+          "author": "onze economieredactie",
+          "description": "Het kabinet trekt nog eens 900 miljoen euro uit, zodat ook lage- en middeninkomens hun woning kunnen verduurzamen. Zij kunnen dan via een renteloze lening bijvoorbeeld een warmtepomp aanschaffen.",
+          "link": "https://www.nu.nl/economie/6268348/meer-geld-voor-lage-en-middeninkomens-om-huis-te-verduurzamen.html",
+          "publishedOn": "2023-06-16T16:57:34.000Z",
+          "wordCount": 825,
+          "title": "Meer geld voor lage- en middeninkomens om huis te verduurzamen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/29nxaq1anxum_sqr256.jpg/meer-geld-voor-lage-en-middeninkomens-om-huis-te-verduurzamen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/29nxaq1anxum_sqr256.jpg/meer-geld-voor-lage-en-middeninkomens-om-huis-te-verduurzamen.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6268319/",
           "author": "Rutger Otto",
@@ -8009,6 +8054,66 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/ask/answers/05/investmentbank_vs_merchantbank.asp",
+          "author": "Rajeev Dhir",
+          "description": "Investment banks participate in trade financing activities while merchant banks often expand into securities underwriting.",
+          "link": "https://www.investopedia.com/ask/answers/05/investmentbank_vs_merchantbank.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-16T16:43:51.000Z",
+          "wordCount": 5945,
+          "title": "Investment Banks vs. Merchant Banks: What's the Difference?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/DXLQ0ewsQbQbXSdTnQ7XiM4ybUo=/380x254/78036503-5bfc2b8b4cedfd0026c118ed.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/DXLQ0ewsQbQbXSdTnQ7XiM4ybUo=/380x254/78036503-5bfc2b8b4cedfd0026c118ed.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/q/quartile.asp",
+          "author": "Daniel Liberto",
+          "description": "A quartile is a statistical term describing a division of a data set into four equal intervals.",
+          "link": "https://www.investopedia.com/terms/q/quartile.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-16T16:40:58.000Z",
+          "wordCount": 6444,
+          "title": "What Is a Quartile? Example and How It Works",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/CZ8smxuzQFmKbB6g4EQqVCS28-0=/1500x1000/Quartile-V2-72cf41f265dd40b3a0f043e32b4c611c.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/CZ8smxuzQFmKbB6g4EQqVCS28-0=/1500x1000/Quartile-V2-72cf41f265dd40b3a0f043e32b4c611c.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/inflation-cools-to-4-as-cost-of-living-increases-simmer-down-7511455",
+          "author": "Staff Author",
+          "description": "The Consumer Price Index rose 4% over 12 months in May, down more than half from the 9.1% inflation peak logged less than a year ago in June 2022 and its lowest since March 2021.",
+          "link": "https://www.investopedia.com/inflation-cools-to-4-as-cost-of-living-increases-simmer-down-7511455?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-16T16:39:34.000Z",
+          "wordCount": 5422,
+          "title": "Inflation Cools to 4% As Cost of Living Increases Simmer Down",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/MkR3aPxhj0AXDgNaLzdFjrguIF0=/6000x4000/groceryshopping-592fa525ab9a40a0bffdfd8f5c2780e0.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/MkR3aPxhj0AXDgNaLzdFjrguIF0=/6000x4000/groceryshopping-592fa525ab9a40a0bffdfd8f5c2780e0.jpeg"
+        },
+        {
+          "id": "https://www.investopedia.com/markets-little-changed-at-midday-but-heading-for-a-winning-week-7547799",
+          "author": "Staff Author",
+          "description": "U.S. equities were little changed at midday on Friday, June 16, 2023, but on track for a winning week heading into the long holiday weekend.",
+          "link": "https://www.investopedia.com/markets-little-changed-at-midday-but-heading-for-a-winning-week-7547799?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-16T16:17:33.000Z",
+          "wordCount": 4710,
+          "title": "Markets Little Changed Midday but on Track for Weekly Gains Heading into Holiday",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Ti8y1xkFxcX5D_TdUaO-9XvejOo=/3000x2000/GettyImages-8606625341-3ea97460fc3d4d7b8d5aaa7c26a8d5b0.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Ti8y1xkFxcX5D_TdUaO-9XvejOo=/3000x2000/GettyImages-8606625341-3ea97460fc3d4d7b8d5aaa7c26a8d5b0.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/personal-finance/022515/tax-preparer-vs-software-how-choose.asp",
           "author": "Barbara Weltman",
@@ -27798,36 +27903,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/393uh8BdM0ccTkB0Hr3m7cTGeo4=/6000x4000/bidendebtlimit-b11c1234a0b44060ba00ca7c04f6e6bc.jpeg"
-        },
-        {
-          "id": "https://www.investopedia.com/mortgage/mortgage-guide/mortgage-lenders/",
-          "author": "Deborah Kearns",
-          "description": "Shopping for a mortgage lender can feel confusing and a little intimidating. Understanding the differences among the main types of lenders can help you narrow down the field.",
-          "link": "https://www.investopedia.com/mortgage/mortgage-guide/mortgage-lenders/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-18T04:58:52.000Z",
-          "wordCount": 8055,
-          "title": "What Are the Main Types of Mortgage Lenders?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/31CyxTyZVN7jNBSrgmcIwXjJxFU=/680x451/shutterstock_197115044_mortgage_lender-5bfc317546e0fb00265d0275.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/31CyxTyZVN7jNBSrgmcIwXjJxFU=/680x451/shutterstock_197115044_mortgage_lender-5bfc317546e0fb00265d0275.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/c/conventionalmortgage.asp",
-          "author": "The Investopedia Team",
-          "description": "A conventional mortgage is a homebuyer’s loan made through a private lender. Compared to Federal Housing Administration (FHA) loans, conventional loans tend to have higher interest rates.",
-          "link": "https://www.investopedia.com/terms/c/conventionalmortgage.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-18T04:18:53.000Z",
-          "wordCount": 8802,
-          "title": "Conventional Mortgage or Loan",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/zBI_SyLUnu9a-IzpPav-C6J5m94=/680x440/mortgage_contract-5c4254734cedfd0001ce1a99.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/zBI_SyLUnu9a-IzpPav-C6J5m94=/680x440/mortgage_contract-5c4254734cedfd0001ce1a99.jpg"
         }
       ]
     },
@@ -27836,6 +27911,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "sell-tech-stocks-nvidia-microsoft-valuations-2f9c0c35?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "After Big Tech's parabolic run, the debate now is whether to hold the shares or fold them. Strategists at Citi argue that they look more like sells than buys.",
+          "link": "https://www.barrons.com/articles/sell-tech-stocks-nvidia-microsoft-valuations-2f9c0c35?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-16T16:37:00.000Z",
+          "wordCount": 8248,
+          "title": "The Case for Selling Highflying Tech Stocks Like Nvidia and Microsoft",
+          "imageUrl": "https://images.barrons.com/im-802025/social"
+        },
+        {
+          "id": "where-to-hold-cash-right-now-7547639?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "Yields for the top cash reserve accounts, CDs, savings accounts, and MMAs are at multi-year highs. The best choice for your savings likely comes down to the differences between these kinds of accounts.",
+          "link": "https://www.investopedia.com/where-to-hold-cash-right-now-7547639?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-06-16T14:57:20.000Z",
+          "wordCount": 5990,
+          "title": "Where Should You Hold Your Cash Right Now: MMAs, CD, Savings, or Cash Reserve?",
+          "imageUrl": "https://www.investopedia.com/thmb/CUk4EmV6LayzQCTwJUTHAKmzET4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1426366062-b1fbbd3f54a84c83995aafde47ca0db0.jpg"
+        },
         {
           "id": "disney-cfos-surprise-exit-adds-yet-another-wrinkle-to-bob-igers-restructuring-142244180.html",
           "author": null,
@@ -49735,26 +49830,6 @@
           "wordCount": 6824,
           "title": "Carl Icahn and Illumina Square Off Soon. The Stakes Are High.",
           "imageUrl": "https://images.barrons.com/im-783877/social"
-        },
-        {
-          "id": "clock-hit-midnight-china-loans-050244288.html",
-          "author": null,
-          "description": "A dozen poor countries are facing economic instability and even collapse under the weight of hundreds of billions of dollars in foreign loans, much of them from the world’s biggest and most unforgiving government lender, China.  An Associated Press analysis of a dozen countries most indebted to China — including Pakistan, Kenya, Zambia, Laos and Mongolia — found paying back that debt is consuming an ever-greater amount of the tax revenue needed to keep schools open, provide electricity and pay for food and fuel.",
-          "link": "https://finance.yahoo.com/news/clock-hit-midnight-china-loans-050244288.html",
-          "publishedOn": "2023-05-18T05:02:44.000Z",
-          "wordCount": 16707,
-          "title": "'Clock has hit midnight': China loans pushing world’s poorest countries to brink of collapse",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/WTjtLhW9YqNR5IOp6HzZEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/72f44fb40359a68c08cb49c06d97af9a"
-        },
-        {
-          "id": "marketmind-ready-debt-ceiling-rally-043321430.html",
-          "author": null,
-          "description": "European shares look poised to rally after a wave of optimism that a U.S. debt ceiling deal could be reached as soon as the weekend, which lifted stocks on Wall Street and in Asia.  Investors keyed in on an agreement between President Joe Biden and top congressional Republican Kevin McCarthy to negotiate a deal directly, with Biden cutting short an Asia trip to return to talks on Sunday.  The air may be getting thin in some stock markets, particularly Japan's. The Nikkei came within 130 points of its highest since 1990 - back in the days of the \"bubble economy\" - after smashing through 30,000 a day earlier for the first time in 20 months.",
-          "link": "https://finance.yahoo.com/news/marketmind-ready-debt-ceiling-rally-043321430.html",
-          "publishedOn": "2023-05-18T04:33:21.000Z",
-          "wordCount": 11760,
-          "title": "Marketmind: Get ready for the debt ceiling rally",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/82783b6a0ce380bc2a92f7e1dff2d63c"
         }
       ]
     }
