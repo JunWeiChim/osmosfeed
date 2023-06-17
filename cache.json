@@ -8046,21 +8046,6 @@
             "url": "https://media.nu.nl/m/6muxy0zatctm_sqr256.jpg/openai-brengt-ai-chatbot-chatgpt-uit-als-app-voor-iphone.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/6muxy0zatctm_sqr256.jpg/openai-brengt-ai-chatbot-chatgpt-uit-als-app-voor-iphone.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6264179/",
-          "author": "Noémi van de Pol",
-          "description": "Hemelvaartsdag valt traditiegetrouw op een donderdag. Vaak moeten werknemers de dag na Hemelvaart verplicht vrij nemen, omdat het bedrijf die dag de deuren gesloten houdt. Veel mensen zijn blij met zo'n lang weekend, maar wat als je juist wel naar kantoor wilt?",
-          "link": "https://www.nu.nl/economie/6264179/de-dag-na-hemelvaart-verplicht-vrij-dit-zijn-je-rechten.html",
-          "publishedOn": "2023-05-19T03:03:29.000Z",
-          "wordCount": 1173,
-          "title": "De dag na Hemelvaart verplicht vrij? Dit zijn je rechten",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/g16x204abkcz_sqr256.jpg/de-dag-na-hemelvaart-verplicht-vrij-dit-zijn-je-rechten.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/g16x204abkcz_sqr256.jpg/de-dag-na-hemelvaart-verplicht-vrij-dit-zijn-je-rechten.jpg"
         }
       ]
     },
@@ -8069,6 +8054,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/i/impairment.asp",
+          "author": "Alicia Tuovila",
+          "description": "An impairment in accounting is a permanent reduction in the value of an asset to less than its carrying value.",
+          "link": "https://www.investopedia.com/terms/i/impairment.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-17T14:40:12.000Z",
+          "wordCount": 7998,
+          "title": "What Does Impairment Mean in Accounting? With Examples",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/476F6aEBHJvICBL1rE4lKXxWfSs=/1500x1000/Impairment-Final-971b3c0742074160985263dd9eb329c2.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/476F6aEBHJvICBL1rE4lKXxWfSs=/1500x1000/Impairment-Final-971b3c0742074160985263dd9eb329c2.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/forex/g/gbp-usd-british-pound-us-dollar-currency-pair.asp",
           "author": "James Chen",
@@ -27767,6 +27767,16 @@
           "imageUrl": "https://media.zenfs.com/en/smartasset_475/f44309262290ce2f936531405b9466d0"
         },
         {
+          "id": "rich-americans-are-fooling-themselves-about-their-retirement-readiness-130029008.html",
+          "author": null,
+          "description": "About one-third (34%) of American households say they’re at risk of not being able to replace their working income in retirement.",
+          "link": "https://finance.yahoo.com/news/rich-americans-are-fooling-themselves-about-their-retirement-readiness-130029008.html",
+          "publishedOn": "2023-06-17T13:00:29.000Z",
+          "wordCount": 2559,
+          "title": "Rich Americans are fooling themselves about their retirement readiness",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/XPXn2HxdM.ffSF2ESjqPgQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/afa836b0-0c83-11ee-bfff-8f9ebf838ac2"
+        },
+        {
           "id": "84-retirees-rmd-mistake-130022029.html",
           "author": null,
           "description": "Though retirees are only required to take a certain portion of their retirement savings out as distributions each year, a study from JPMorgan Chase shows that there is likely good reason to take out more. A withdrawal approach based solely on … Continue reading → The post 84% of Retirees Are Making This RMD Mistake appeared first on SmartAsset Blog.",
@@ -27775,6 +27785,16 @@
           "wordCount": 2805,
           "title": "84% of Retirees Are Making This RMD Mistake",
           "imageUrl": "https://media.zenfs.com/en/smartasset_475/dd965931a7288bcaa10423640e7d79d3"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/top-stocks-boeing-cyberark-lead-5-stocks-near-buy-points/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-06-17T12:00:56.000Z",
+          "wordCount": null,
+          "title": "Boeing, CyberArk Lead 5 Stocks Near Buy Points",
+          "imageUrl": null
         },
         {
           "id": "more-workers-plan-retire-less-110014902.html",
@@ -27815,6 +27835,16 @@
           "wordCount": null,
           "title": "Nvidia is the top AI pick and the stock could jump 15% as demand has picked up since the chip maker's blockbuster earnings report, Morgan Stanley says",
           "imageUrl": null
+        },
+        {
+          "id": "a-schwab-wealth-survey-reveals-a-paradox-886f5dba?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Nearly half of the respondents averaging $560,000 in net worth said they were wealthy, when including nonfinancial factors like health and family. But when asked about how much money it took to be wealthy in America, they said $2.2 million.",
+          "link": "https://www.barrons.com/articles/a-schwab-wealth-survey-reveals-a-paradox-886f5dba?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-16T23:36:00.000Z",
+          "wordCount": 6606,
+          "title": "A Schwab Wealth Survey Reveals a Paradox",
+          "imageUrl": "https://images.barrons.com/im-802157/social"
         },
         {
           "id": "kroger-lennar-and-others-get-into-the-ai-act-3df3a930?siteid=yhoof2&yptr=yahoo",
@@ -49295,16 +49325,6 @@
           "wordCount": null,
           "title": "Carl Icahn lost $9 billion on an ill-timed short trade. Here's what he says are 3 big lessons from the soured bet.",
           "imageUrl": null
-        },
-        {
-          "id": "gold-set-biggest-weekly-fall-025844076.html",
-          "author": null,
-          "description": "Gold prices were on course for their biggest weekly drop in 3-1/2 months on Friday as hopes for a resolution in the U.S. debt ceiling negotiations and fading expectations of a rate cut by year-end took some shine off bullion.  Spot gold was flat at $1,958.29 per ounce by 0231 GMT, and was set for a 2.6% weekly drop - its biggest since early February.  Markets see a positive end to the debt ceiling talks as recent commentary has been about the progress being made, and given yields and the dollar are all going up at the same time, gold is pulling back, Ilya Spivak, head of global macro at Tastylive said.",
-          "link": "https://finance.yahoo.com/news/gold-set-biggest-weekly-fall-025844076.html",
-          "publishedOn": "2023-05-19T02:58:44.000Z",
-          "wordCount": 11670,
-          "title": "Gold inches higher, but set for worst week in 3-1/2 months",
-          "imageUrl": "https://media.zenfs.com/en/reuters.com/ca528e6e9f32068b34c17ffee81426d4"
         }
       ]
     }
