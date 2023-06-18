@@ -1608,6 +1608,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6268260/",
+          "author": "José Boon",
+          "description": "Ondanks maatschappelijke druk op Shell om te vergroenen, liet de CEO van het bedrijf afgelopen week weten dat de olieproductie niet verder omlaaggaat. Het bedrijf zegt voor te lopen op de doelen om uitstoot te verlagen. Maar Amerikaanse aandeelhouders drukken ook hun stempel.",
+          "link": "https://www.nu.nl/economie/6268260/waarom-shell-de-olie-en-gasproductie-niet-afbouwt-ondanks-groene-beloftes.html",
+          "publishedOn": "2023-06-18T10:04:36.000Z",
+          "wordCount": 1406,
+          "title": "NU+ | Waarom Shell de olie- en gasproductie niet afbouwt ondanks groene beloftes",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/mzpxacuawl1i_sqr256.jpg/waarom-shell-de-olie-en-gasproductie-niet-afbouwt-ondanks-groene-beloftes.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/mzpxacuawl1i_sqr256.jpg/waarom-shell-de-olie-en-gasproductie-niet-afbouwt-ondanks-groene-beloftes.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6268527/",
           "author": "onze nieuwsredactie",
           "description": "De topman van het Franse olie- en gasconcern TotalEnergies vindt de kritiek van klimaatactivisten dat het bedrijf aan 'greenwashing' zou doen oneerlijk. Volgens Patrick Pouyanné steekt TotalEnergies juist veel geld in duurzame energiebronnen en onder meer de aanleg van laadpalen voor elektrische auto's.",
@@ -27583,36 +27598,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/tIzjk_C7rN5LGsBoF5sfSmPDA24=/380x254/78291112-5bfc38b7c9e77c0051478cda.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/dow-jones-today-may-19-2023-7500681",
-          "author": "Terry Lane",
-          "description": "Tech stocks Cisco Systems, Intel and IBM moved higher, but Nike dragged the Dow lower on shoe sale worries.",
-          "link": "https://www.investopedia.com/dow-jones-today-may-19-2023-7500681?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-19T21:35:06.000Z",
-          "wordCount": 4925,
-          "title": "Dow Jones Today: Debt Deal Pause Drives Down Index",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/HUn_Sh34iO969NOcNrGKB5PO6XY=/5909x3939/GettyImages-1491033190-664bca3e05344ff1bb53637a974a6069.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/HUn_Sh34iO969NOcNrGKB5PO6XY=/5909x3939/GettyImages-1491033190-664bca3e05344ff1bb53637a974a6069.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/top-cd-rates-today-may-19-7500550",
-          "author": "Staff Author",
-          "description": "See what today's top nationwide rate is for every CD term, and how it compares to the previous business day's top rate. We collect data from more than 200 financial institutions.",
-          "link": "https://www.investopedia.com/top-cd-rates-today-may-19-7500550?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-19T21:27:56.000Z",
-          "wordCount": 5276,
-          "title": "Top CD Rates Today, May 19",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/8aZdAakN21zLChLz1XHwoacIniY=/8192x5464/cdratestodaymay19-98997fa0241a47c6bf46cb13f2327462.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/8aZdAakN21zLChLz1XHwoacIniY=/8192x5464/cdratestodaymay19-98997fa0241a47c6bf46cb13f2327462.jpg"
         }
       ]
     },
@@ -27622,6 +27607,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "intel-build-25-billion-factory-084222814.html",
+          "author": null,
+          "description": "Intel Corp will build a new factory in Israel worth $25 billion, Prime Minister Benjamin Netanyahu said on Sunday, calling it the largest-ever international investment in the country. The factory in Kiryat Gat is due to open in 2027 and will employ thousands of people, Israel's Finance Ministry said, adding that under the deal Intel will pay up a 7.5% tax rate, up from the current 5%. There was no immediate comment from Intel in Israel.",
+          "link": "https://finance.yahoo.com/news/intel-build-25-billion-factory-084222814.html",
+          "publishedOn": "2023-06-18T08:42:22.000Z",
+          "wordCount": 1824,
+          "title": "Intel to invest $25 billion in Israel factory in record deal, Netanyahu says",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/51b07f1148ffd3c1c568eaa7bc065d2f"
+        },
+        {
           "id": "boomers-got-hooked-on-stocks-now-they-cant-let-go-8589ff74?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Nearly two-thirds of U.S. adults age 65 and older have money in stocks.",
@@ -27630,6 +27625,16 @@
           "wordCount": 8145,
           "title": "Boomers Got Hooked on Stocks. Now They Can’t Let Go.",
           "imageUrl": "https://images.wsj.net/im-802181/social"
+        },
+        {
+          "id": "billionaire-bungalow-tycoon-bob-builder-060000967.html",
+          "author": null,
+          "description": "A billionaire bungalow tycoon has been plunged into a bankruptcy row amid allegations of a trail of unpaid debts.",
+          "link": "https://finance.yahoo.com/news/billionaire-bungalow-tycoon-bob-builder-060000967.html",
+          "publishedOn": "2023-06-18T06:00:00.000Z",
+          "wordCount": 2144,
+          "title": "Billionaire bungalow tycoon ‘Bob the Builder’ in bankruptcy row",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/OtYwQJnZ6QcI3_h7t4YwnA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/125a2ca7d90eae21d85709ea5d50a3b7"
         },
         {
           "id": "hong-kong-1-9-trillion-000000003.html",
@@ -27702,6 +27707,16 @@
           "imageUrl": null
         },
         {
+          "id": "binance-to-repatriate-us-assets-avoid-full-freeze-7548719?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "The Securities and Exchange Commission has secured an emergency action to protect the assets of Binance's U.S. customers.",
+          "link": "https://www.investopedia.com/binance-to-repatriate-us-assets-avoid-full-freeze-7548719?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-06-17T18:13:47.000Z",
+          "wordCount": 5390,
+          "title": "Binance Ordered to Repatriate US Assets, Avoiding Full Asset Freeze",
+          "imageUrl": "https://www.investopedia.com/thmb/0VeGrC4M0Y8Z4U5_GKsqg-utVyc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1396534247-047ca218884e4e78b59841fccb60250e.jpg"
+        },
+        {
           "id": "goldman-calls-markets-too-optimistic-154512695.html",
           "author": null,
           "description": "\"Although we expect further declines in inflation going forward, markets appear considerably more optimistic than we are about the pace of cooling,\" the Goldman strategists wrote in the note dated on Friday, according to the Bloomberg report.  Markets are ignoring the potential for \"delayed-onset inflation\" in sectors such as healthcare, the strategists wrote, Bloomberg reported.",
@@ -27710,6 +27725,16 @@
           "wordCount": 1968,
           "title": "Goldman calls markets too optimistic on pace of US inflation drop -Bloomberg",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/b10ea6999590fc3ccbdcbb68f4b78f28"
+        },
+        {
+          "id": "crypto-exchange-binance-us-avoids-broad-asset-freeze-e42fb00b?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The exchange agrees to keep assets in the country and under Binance.US executives’ control.",
+          "link": "https://www.wsj.com/articles/crypto-exchange-binance-us-avoids-broad-asset-freeze-e42fb00b?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-17T15:11:00.000Z",
+          "wordCount": 8645,
+          "title": "Crypto Exchange Binance.US Avoids Broad Asset Freeze",
+          "imageUrl": "https://images.wsj.net/im-802499/social"
         },
         {
           "id": "should-i-sell-stocks-to-buy-cds-right-now-7514837?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
@@ -27892,6 +27917,26 @@
           "imageUrl": "https://www.investopedia.com/thmb/uPGAp0SDWHTwsw6Rg4SeRHjUuDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1393876536-756be42a6e884a629fbab8300d69e9fc.jpg"
         },
         {
+          "id": "prospects-ubs-better-ever-ceo-094955289.html",
+          "author": null,
+          "description": "UBS's Chief Executive sought to reassure Switzerland on Saturday over its new banking giant, created by the Swiss bank's historic takeover of former rival Credit Suisse.  \"The prospects for UBS are better than ever,\" Sergio Ermotti wrote in an opinion piece published in the Swiss paper Tages-Anzeiger.  Ermotti, who returned to the bank as Chief Executive in a surprise move shortly after the government orchestrated rescue of Credit Suisse was announced, addressed public concern over the size of the combined bank.",
+          "link": "https://finance.yahoo.com/news/prospects-ubs-better-ever-ceo-094955289.html",
+          "publishedOn": "2023-06-17T09:49:55.000Z",
+          "wordCount": 1964,
+          "title": "'Prospects for UBS are better than ever' - CEO Ermotti",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/8db86fe963bd9b8e54b910f671e9cac8"
+        },
+        {
+          "id": "chinas-booming-one-man-bookstore-093000460.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/chinas-booming-one-man-bookstore-093000460.html",
+          "publishedOn": "2023-06-17T09:30:00.000Z",
+          "wordCount": null,
+          "title": "China's booming one-man bookstore on WeChat shows how Tencent is taking on ByteDance in live-streaming e-commerce",
+          "imageUrl": null
+        },
+        {
           "id": "when-svb-and-first-republic-collapsed-so-did-their-employees-investments-59ce4715?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Workers at the failed California banks plowed their money into company stock.",
@@ -27900,6 +27945,16 @@
           "wordCount": 9071,
           "title": "When SVB and First Republic Collapsed, So Did Their Employees’ Investments",
           "imageUrl": "https://images.wsj.net/im-800577/social"
+        },
+        {
+          "id": "taiwan-says-keep-talking-us-083045731.html",
+          "author": null,
+          "description": "Taiwan's central bank said on Saturday it has smooth communication channels with the U.S. Treasury Department and will keep talking with them about foreign exchange policies, after the United States kept the island on a monitoring list.  Treasury said on Friday it found that no major U.S. trading partners had manipulated their currencies for an export advantage and ended \"enhanced analysis\" for Switzerland after the country met only one of three manipulation criteria.  In its semi-annual currency report, the department said Switzerland remains on a \"monitoring list\" for close attention to foreign exchange and economic policies, along with six other trading partners: China, Taiwan, South Korea, Germany, Malaysia and Singapore.",
+          "link": "https://finance.yahoo.com/news/taiwan-says-keep-talking-us-083045731.html",
+          "publishedOn": "2023-06-17T08:30:45.000Z",
+          "wordCount": 1666,
+          "title": "Taiwan says will it keep talking to US on forex policies",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/da04d95d7ee1d420c1f5086c0f5c6d4e"
         },
         {
           "id": "world-most-feared-investor-heads-050000720.html",
@@ -27930,6 +27985,16 @@
           "wordCount": 2219,
           "title": "Binance, SEC strike deal to keep US customer assets in country",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/d3b7107fdd0f863f9a1772580756e439"
+        },
+        {
+          "id": "binance-sec-strike-deal-move-051205022.html",
+          "author": null,
+          "description": "Binance, Binance.US and the Securities and Exchange Commission (SEC) announced a deal to ensure that only Binance.US employees could access customer funds late Friday.",
+          "link": "https://finance.yahoo.com/news/binance-sec-strike-deal-move-051205022.html",
+          "publishedOn": "2023-06-17T05:12:05.000Z",
+          "wordCount": 2062,
+          "title": "Judge Signs Off on Binance, SEC Deal to Move All U.S. Customer Funds, Wallet Keys Back Onshore in Lieu of Restraining Order",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/1h87wNj1JEk9ZT6eVTLIFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/coindesk_75/81ccb0408d919eafbdd3e373ff1b1ecb"
         },
         {
           "id": "china-based-bank-thats-trying-042931661.html",
@@ -48700,46 +48765,6 @@
           "wordCount": null,
           "title": "Fund manager outperforming 96% of peers bets big on AI with Nvidia and Microsoft but avoids Apple, Alphabet and Meta",
           "imageUrl": null
-        },
-        {
-          "id": "jetblue-american-airlines-were-ordered-220600889.html",
-          "author": null,
-          "description": "A federal judge in Massachusetts struck down a partnership between JetBlue and American Airlines to coordinate routes and schedules in the Northeast US, which had effectively combined the Boston and New York operations of the two carriers. Citing antitrust grounds, the judge ruled that the deal was a “naked agreement not to compete.”",
-          "link": "https://finance.yahoo.com/news/jetblue-american-airlines-were-ordered-220600889.html",
-          "publishedOn": "2023-05-19T22:06:00.000Z",
-          "wordCount": 11629,
-          "title": "JetBlue and American Airlines were ordered by a judge to end their alliance in the Northeast US",
-          "imageUrl": "https://media.zenfs.com/en/quartz.com/f8604273e0e79bcfce54b4bf4fe13c34"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/research/investing-action-plan/stock-market-action-plan-nvidia-d-r-horton-and-a-wave-of-retail-earnings/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-05-19T21:51:17.000Z",
-          "wordCount": null,
-          "title": "Stock Market Action Plan: Nvidia, D.R. Horton And A Wave Of Retail Earnings",
-          "imageUrl": null
-        },
-        {
-          "id": "walmart-tesla-micron-stocks-that-defined-the-week-dc474fb0?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Seven major companies whose stocks moved on the week’s news.",
-          "link": "https://www.wsj.com/articles/walmart-tesla-micron-stocks-that-defined-the-week-dc474fb0?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-19T21:50:00.000Z",
-          "wordCount": 7819,
-          "title": "Walmart, Tesla, Micron: Stocks That Defined the Week",
-          "imageUrl": "https://images.wsj.net/im-785650/social"
-        },
-        {
-          "id": "treasurys-shrinking-cash-pile-making-154334033.html",
-          "author": null,
-          "description": "(Bloomberg) -- Yields on US Treasury bills that mature in early June have resumed climbing as the federal government’s coffers dwindle to the lowest level in almost a year-and-a-half, increasing pressure on lawmakers to strike a deal to raise the debt limit as negotiations show signs of faltering on Capitol Hill.Most Read from BloombergZelenskiy’s Surprise G-7 Stop Unnerves Critical Brazilian LeaderHedge Funds’ Ultra-Bearish Oil Bets Signal US Recession AngstDebt-Limit Talks Resume After Optimis",
-          "link": "https://finance.yahoo.com/news/treasurys-shrinking-cash-pile-making-154334033.html",
-          "publishedOn": "2023-05-19T21:13:02.000Z",
-          "wordCount": 11769,
-          "title": "Treasury's Cash Pile Shrinks Further as Debt-Ceiling Talks Stall",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Kxbf2a_lli1ZTyomkPVbgg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTM-/https://media.zenfs.com/en/bloomberg_markets_842/933d48208fae491c26509af2f37a16c3"
         }
       ]
     }
