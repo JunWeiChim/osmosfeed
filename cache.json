@@ -1558,6 +1558,36 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6268655/",
+          "author": "Ertan Basekin",
+          "description": "De Nederlandse economie koelt dit jaar flink af maar blijft met een groei van 0,8 procent stabiel. Consumenten geven minder uit vanwege de torenhoge inflatie en onze export groeit minder hard door de terugval van de wereldhandel. Afgelopen jaar was nog sprake van een groei van 4,5 procent.",
+          "link": "https://www.nu.nl/economie/6268655/nederlandse-economie-koelt-flink-af-inflatie-blijft-hardnekkig-probleem.html",
+          "publishedOn": "2023-06-19T10:09:46.000Z",
+          "wordCount": 1123,
+          "title": "Nederlandse economie koelt flink af, inflatie blijft hardnekkig probleem",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/0tzx7o0amoqf_sqr256.jpg/nederlandse-economie-koelt-flink-af-inflatie-blijft-hardnekkig-probleem.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/0tzx7o0amoqf_sqr256.jpg/nederlandse-economie-koelt-flink-af-inflatie-blijft-hardnekkig-probleem.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6268658/",
+          "author": "Tim Wijkman-van Aalst",
+          "description": "Telecomprovider KPN heeft glasvezelnetwerken in Den Haag, Rotterdam en Eindhoven gekocht van investeringsfonds Primevest. Dat is opvallend, want de geldschieter heeft die netwerken eerder samen met T-Mobile aangelegd.",
+          "link": "https://www.nu.nl/tech/6268658/kpn-koopt-glasvezelnetwerk-dat-investeerder-voor-t-mobile-heeft-aangelegd.html",
+          "publishedOn": "2023-06-19T10:08:52.000Z",
+          "wordCount": 1050,
+          "title": "KPN koopt glasvezelnetwerk dat investeerder voor T-Mobile heeft aangelegd",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/vgtx08iawv9r_sqr256.jpg/kpn-koopt-glasvezelnetwerk-dat-investeerder-voor-t-mobile-heeft-aangelegd.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/vgtx08iawv9r_sqr256.jpg/kpn-koopt-glasvezelnetwerk-dat-investeerder-voor-t-mobile-heeft-aangelegd.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6268624/",
           "author": "onze economieredactie",
           "description": "Bedrijven als ANWB en NS willen dat er meer geld beschikbaar komt voor het verduurzamen van het vervoer.",
@@ -27863,36 +27893,6 @@
           "wordCount": 6123,
           "title": "Zero Cost Collar: Definition and Example",
           "imageUrl": "https://www.investopedia.com/thmb/Sxark7T9uD1N9O3iHTTQlzAKFKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/investopedia-social-share-default-ab113c8afd9a439dbc4c68b1926292f4.png"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/082616/whats-difference-between-fha-and-conventional-loans.asp",
-          "author": "Lisa Goetz",
-          "description": "FHA loans and conventional loans are both types of mortgages—but an FHA loan is intended for borrowers with lower credit scores and income.",
-          "link": "https://www.investopedia.com/ask/answers/082616/whats-difference-between-fha-and-conventional-loans.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-20T22:11:30.000Z",
-          "wordCount": 8606,
-          "title": "FHA Loans vs. Conventional: What’s the Difference?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/fJBeMpfp7hPDJf_VBDUW3YwXyhg=/1500x1003/GettyImages-1054017850-f16bb55e001244cca985ea88fa73ab72.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/fJBeMpfp7hPDJf_VBDUW3YwXyhg=/1500x1003/GettyImages-1054017850-f16bb55e001244cca985ea88fa73ab72.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/t/triangulararbitrage.asp",
-          "author": "James Chen",
-          "description": "Triangular arbitrage involves the exchange of a currency in a series of three currency pairs over a short amount of time for a profit.",
-          "link": "https://www.investopedia.com/terms/t/triangulararbitrage.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-20T21:15:21.000Z",
-          "wordCount": 5908,
-          "title": "Triangular Arbitrage: Definition and Example",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/xma_NE3P3oPqG7N5RhuvzMGS6FU=/2201x1362/Arbitrage-7f349cc897c448f0a0c9965a6f4d6767.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/xma_NE3P3oPqG7N5RhuvzMGS6FU=/2201x1362/Arbitrage-7f349cc897c448f0a0c9965a6f4d6767.jpg"
         }
       ]
     },
@@ -27901,6 +27901,56 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "bitcoin-crypto-price-fed-powell-markets-90e84bf2?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Federal Reserve Chairman Jerome Powell is due to testify before both the House and Senate this week, it could prove to be a catalyst for cryptocurrencies.",
+          "link": "https://www.barrons.com/articles/bitcoin-crypto-price-fed-powell-markets-90e84bf2?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-19T09:36:00.000Z",
+          "wordCount": 6511,
+          "title": "Bitcoin Stalls Over Long Weekend. How the Fed Could Shake Up Cryptos This Week.",
+          "imageUrl": "https://images.barrons.com/im-789928/social"
+        },
+        {
+          "id": "down-15-per-cent-chinese-093000325.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/down-15-per-cent-chinese-093000325.html",
+          "publishedOn": "2023-06-19T09:30:00.000Z",
+          "wordCount": null,
+          "title": "Down 15 per cent on Chinese stocks, William Blair fund manager calls a 20 per cent rally in post-stimulus re-rating",
+          "imageUrl": null
+        },
+        {
+          "id": "bitcoin-ether-rise-most-top-092222416.html",
+          "author": null,
+          "description": "Bitcoin and Ether rose during Monday afternoon trading hours in Hong Kong, while most of the top 10 non-stablecoin cryptocurrencies by market capitalization declined. Risk appetite remained low after the U.S. Securities and Exchange Commission (SEC) sued Binance and Coinbase two weeks ago.",
+          "link": "https://finance.yahoo.com/news/bitcoin-ether-rise-most-top-092222416.html",
+          "publishedOn": "2023-06-19T09:22:22.000Z",
+          "wordCount": 2192,
+          "title": "Bitcoin, Ether, rise; most top 10 cryptos fall as SEC lawsuit weighs on investor sentiment",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/xzQXszzZq046a82pib6JSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/forkast_news_articles_672/7d1082bc5daeeec0f03d14d68ab8cc4e"
+        },
+        {
+          "id": "stock-market-today-d5d919e6?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "After a week dominated by central banks, this week will see them remain in focus as Federal Reserve Chairman Jerome Powell delivers two days of Congressional testimony and the Bank of England makes its latest rate decision.",
+          "link": "https://www.barrons.com/articles/stock-market-today-d5d919e6?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-19T08:46:00.000Z",
+          "wordCount": 6615,
+          "title": "Global Markets Fall as Investors Take Stock Ahead of Powell Testimony",
+          "imageUrl": "https://images.barrons.com/im-772933/social"
+        },
+        {
+          "id": "london-home-asking-prices-slide-230100176.html",
+          "author": null,
+          "description": "(Bloomberg) -- Homesellers in London cut prices more than any UK region in June as surging borrowing costs stretched affordability in the country’s most expensive property market, a survey found. Most Read from BloombergTucker Carlson's Fox Defense Crumbled When He Took MillionsFlorida Is Losing Its Affordability Edge After Drawing a Flood of New ArrivalsGoodbye, Body Mass Index. You Won’t Be Missed.Ermotti Suggests ‘Massive Downsizing’ Might Come to Credit Suisse’s Investment BankAsking prices",
+          "link": "https://finance.yahoo.com/news/london-home-asking-prices-slide-230100176.html",
+          "publishedOn": "2023-06-19T08:37:29.000Z",
+          "wordCount": 2422,
+          "title": "London Home Asking Prices Slide as Rate Rises Stretch Buyers",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/JzwvcYEYOudChhojMFnHPg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDc-/https://media.zenfs.com/en/bloomberg_markets_842/b997d5b83b07a31538e2d8aaabdd76c6"
+        },
         {
           "id": "exclusive-japan-regulator-sounded-top-081416880.html",
           "author": null,
@@ -27920,6 +27970,26 @@
           "wordCount": 2185,
           "title": "Warren Buffett Raises Stake in Five Japanese Trading Houses",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/xb7RtJAYq26N02B4KSUNOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/52a868b9dc4d86c699498ec984326440"
+        },
+        {
+          "id": "singapore-end-3-000-power-075516043.html",
+          "author": null,
+          "description": "(Bloomberg) -- Singapore plans to more aggressively regulate electricity markets as price jumps intensify, again threatening to hurt the retailers that sell it to businesses and households.Most Read from BloombergTucker Carlson's Fox Defense Crumbled When He Took MillionsFlorida Is Losing Its Affordability Edge After Drawing a Flood of New ArrivalsGoodbye, Body Mass Index. You Won’t Be Missed.Ermotti Suggests ‘Massive Downsizing’ Might Come to Credit Suisse’s Investment BankThe Energy Market Aut",
+          "link": "https://finance.yahoo.com/news/singapore-end-3-000-power-075516043.html",
+          "publishedOn": "2023-06-19T07:55:16.000Z",
+          "wordCount": 1785,
+          "title": "Singapore to End 3,000% Power Price Spikes That Sank Companies",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/63a36fa2e4c558c0ff79099e921479da"
+        },
+        {
+          "id": "jpmorgan-strategists-stocks-face-risks-073845286.html",
+          "author": null,
+          "description": "(Bloomberg) -- The rally in equities will come under pressure in the second half of the year if gains in growth shares stall and rotation into cyclicals doesn’t continue, according to JPMorgan Chase & Co. strategists.Most Read from BloombergTucker Carlson's Fox Defense Crumbled When He Took MillionsFlorida Is Losing Its Affordability Edge After Drawing a Flood of New ArrivalsGoodbye, Body Mass Index. You Won’t Be Missed.Ermotti Suggests ‘Massive Downsizing’ Might Come to Credit Suisse’s Investme",
+          "link": "https://finance.yahoo.com/news/jpmorgan-strategists-stocks-face-risks-073845286.html",
+          "publishedOn": "2023-06-19T07:38:45.000Z",
+          "wordCount": 2099,
+          "title": "JPMorgan Strategists Say Stocks Face Risks From Stalling Growth",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/dbfa019e9266230d71ac76a8dc4f6af8"
         },
         {
           "id": "sweden-property-crunch-worsens-another-063354379.html",
@@ -49260,16 +49330,6 @@
           "wordCount": null,
           "title": "BofA says AI is in a 'baby bubble' that echoes the dot-com era, and one move could easily blow up the investment frenzy ignited by ChatGPT",
           "imageUrl": null
-        },
-        {
-          "id": "house-prices-just-dropped-biggest-174117525.html",
-          "author": null,
-          "description": "US home prices fell nearly 2% year-over-year in April, according to the National Association of Realtors.",
-          "link": "https://finance.yahoo.com/news/house-prices-just-dropped-biggest-174117525.html",
-          "publishedOn": "2023-05-20T22:10:08.000Z",
-          "wordCount": 11164,
-          "title": "Home prices have dropped the most in 11 years with soaring mortgage rates driving away would-be buyers",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Uf8eK_YQbWItCyx.xJA_Gw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/7b594b7daa06f8358af8298049e216f9"
         }
       ]
     }
