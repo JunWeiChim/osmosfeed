@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "0c7bf5be0b21b9d6120117dffd2eabae",
+          "author": "Investopedia",
+          "description": "Rivian shares rose after it joined other EV makers in adopting Tesla's charging station standard.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca946ed1eb1eab11309bc32cabf777218e505ad024c83da7df4f2a4fde79d827dedf1b68ccf621ffe1e633eee9c32ead2dfb2d068c33021b470de9faa7d73a4addd3b8a6dbde9dca421bdb4e93c333",
+          "publishedOn": "2023-06-20T20:12:26.839Z",
+          "wordCount": 411,
+          "title": "Rivian Joins EV Makers Adopting Tesla's Charging Station Standard",
+          "imageUrl": null
+        },
+        {
           "id": "a6cdf4880716c29d7b633ad0e8802144",
           "author": "Investopedia",
           "description": "Alibaba's CEO and Chairman stepped down in a surprise move to lead its cloud business as the company doubles down on global expansion. But Alibaba shares fell 4%.",
@@ -8356,21 +8366,6 @@
             "url": "https://media.nu.nl/m/crhx10caic8u_sqr256.jpg/ryanair-waarschuwt-voor-hogere-ticketprijzen-nu-meer-mensen-willen-vliegen.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/crhx10caic8u_sqr256.jpg/ryanair-waarschuwt-voor-hogere-ticketprijzen-nu-meer-mensen-willen-vliegen.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6264611/",
-          "author": "Eva Schouten",
-          "description": "Marjan van Loon, die afgelopen maand afzwaaide als president-directeur van Shell Nederland, gaat niet meer fulltime betaald aan de slag.",
-          "link": "https://www.nu.nl/economie/6264611/voormalig-shell-topvrouw-gaat-niet-meer-fulltime-betaald-werken.html",
-          "publishedOn": "2023-05-22T07:35:29.000Z",
-          "wordCount": 937,
-          "title": "Voormalig Shell-topvrouw gaat niet meer fulltime betaald werken",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/amzxakcagmdx_sqr256.jpg/voormalig-shell-topvrouw-gaat-niet-meer-fulltime-betaald-werken.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/amzxakcagmdx_sqr256.jpg/voormalig-shell-topvrouw-gaat-niet-meer-fulltime-betaald-werken.jpg"
         }
       ]
     },
@@ -8379,6 +8374,96 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/m/moneymarket.asp",
+          "author": "James Chen",
+          "description": "The money market refers to trading in very short-term debt investments. These investments are characterized by a high degree of safety and relatively low rates of return.",
+          "link": "https://www.investopedia.com/terms/m/moneymarket.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-20T19:55:55.000Z",
+          "wordCount": 8198,
+          "title": "Money Markets: What They Are, How They Work, and Who Uses Them",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/gHNC2OCU9pb5KwBROtCgBsFvLlM=/1500x1000/Moneymarket1-9772966adfb74ce696740d53542e6c13.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/gHNC2OCU9pb5KwBROtCgBsFvLlM=/1500x1000/Moneymarket1-9772966adfb74ce696740d53542e6c13.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/biden-ai-researchers-amid-public-support-for-regulation-7550350",
+          "author": "Staff Author",
+          "description": "President Joe Biden is meeting with several artificial intelligence researchers in San Francisco today, amid growing talk of if and how the rapidly developing technology should be regulated.",
+          "link": "https://www.investopedia.com/biden-ai-researchers-amid-public-support-for-regulation-7550350?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-20T19:52:18.000Z",
+          "wordCount": 5217,
+          "title": "Biden Talks to AI Researchers as Public Support for Regulation Grows",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/08ufgafusDv6bDTkFFl5e-GS90E=/5258x3590/GettyImages-1479809684-25dbccec7be344edb05a775cf9477c14.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/08ufgafusDv6bDTkFFl5e-GS90E=/5258x3590/GettyImages-1479809684-25dbccec7be344edb05a775cf9477c14.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/r/rpi.asp",
+          "author": "The Investopedia Team",
+          "description": "The Retail Price Index (RPI) is one of two measures of consumer inflation produced by the United Kingdom's Office for National Statistics.",
+          "link": "https://www.investopedia.com/terms/r/rpi.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-20T19:51:06.000Z",
+          "wordCount": 5906,
+          "title": "Retail Price Index (RPI): What It Is and How It's Used",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/6pt6VALavABxSsU9sVpBXT5RMpY=/680x440/147323400-5bfc2b8c4cedfd0026c11901.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/6pt6VALavABxSsU9sVpBXT5RMpY=/680x440/147323400-5bfc2b8c4cedfd0026c11901.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/rivian-is-the-latest-ev-maker-to-adopt-tesla-charging-station-standard-7550409",
+          "author": "Staff Author",
+          "description": "Rivian shares rose after it joined other EV makers in adopting Tesla's charging station standard.",
+          "link": "https://www.investopedia.com/rivian-is-the-latest-ev-maker-to-adopt-tesla-charging-station-standard-7550409?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-20T19:44:54.000Z",
+          "wordCount": 4854,
+          "title": "Rivian Joins EV Makers Adopting Tesla's Charging Station Standard",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/CeK-_QKfwZZXjFzTswizjrLBk3w=/6000x4000/GettyImages-1396320779-cd41dfff5214499ab31e48323c1c2119.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/CeK-_QKfwZZXjFzTswizjrLBk3w=/6000x4000/GettyImages-1396320779-cd41dfff5214499ab31e48323c1c2119.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/the-new-york-city-economic-tracker-may-29-2023-7550438",
+          "author": "Staff Author",
+          "description": "Investopedia and NY1 are teaming up on a series of biweekly updates tracking the health of New York City’s economy, highlighting the best and worst-performing areas of New York's housing, tourism, leisure and hospitality metrics. areas of New York's housing, tourism, leisure and hospitality metrics.",
+          "link": "https://www.investopedia.com/the-new-york-city-economic-tracker-may-29-2023-7550438?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-20T19:40:02.000Z",
+          "wordCount": 5455,
+          "title": "The New York City Economic Tracker: May 29, 2023",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ApMI-6-Mg_P6-NZFgat7W37qEW0=/1999x1499/LowerManhattanSkyline-900c48d4f1064a97893dbc1548d775e1.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ApMI-6-Mg_P6-NZFgat7W37qEW0=/1999x1499/LowerManhattanSkyline-900c48d4f1064a97893dbc1548d775e1.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/personal-finance/what-difference-between-cashiers-check-and-money-order/",
+          "author": "Rebecca Lake",
+          "description": "Money orders and cashier’s checks can be a convenient way to pay someone or to receive money, but each comes with its own advantages and disadvantages",
+          "link": "https://www.investopedia.com/personal-finance/what-difference-between-cashiers-check-and-money-order/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-20T19:25:44.000Z",
+          "wordCount": 6908,
+          "title": "Cashier’s Check vs. Money Order: Key Differences",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/aW41oo65cAXT4B4TWElRVi-v_uQ=/4000x2700/what-difference-between-cashiers-check-and-money-order-FINAL-9a54f3bddd144fd8af92fbe3aed9512b.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/aW41oo65cAXT4B4TWElRVi-v_uQ=/4000x2700/what-difference-between-cashiers-check-and-money-order-FINAL-9a54f3bddd144fd8af92fbe3aed9512b.png"
+        },
         {
           "id": "https://www.investopedia.com/articles/personal-finance/030515/top-ten-economic-indicators-uk.asp",
           "author": "Elvis Picardo",
@@ -28656,6 +28741,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "whistleblower-raised-safety-concerns-oceangate-190058533.html",
+          "author": null,
+          "description": "The director of marine operations at OceanGate, the company whose submersible went missing Sunday on an expedition to the Titanic in the North Atlantic, was fired after raising concerns about its first-of-a-kind carbon fiber hull and other systems before its maiden voyage, according to a filing in a 2018 lawsuit first reported by Insider and New Republic.  David Lochridge was terminated in January 2018 after presenting a scathing quality control report on the vessel to OceanGate’s senior management, including founder and CEO Stockton Rush, who is reportedly on board the missing vessel.",
+          "link": "https://finance.yahoo.com/news/whistleblower-raised-safety-concerns-oceangate-190058533.html",
+          "publishedOn": "2023-06-20T19:00:58.000Z",
+          "wordCount": 2604,
+          "title": "A whistleblower raised safety concerns about OceanGate’s submersible in 2018. Then he was fired.",
+          "imageUrl": "https://media.zenfs.com/en/techcrunch_350/e4e506ca394af3b00a53818db2b50aae"
+        },
+        {
+          "id": "oil-prices-fall-on-news-from-china-Kb6Mql37n5sdi51KR6J5?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Oil prices were slipping in Tuesday trading, weighed down from news in China, according to Edward Moya, senior market analyst at OANDA.\nEarlier in the day, China slashed its benchmark lending rates fo",
+          "link": "https://www.barrons.com/livecoverage/stock-market-today-062023/card/oil-prices-fall-on-news-from-china-Kb6Mql37n5sdi51KR6J5?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-20T18:37:53.000Z",
+          "wordCount": 6674,
+          "title": "Oil Prices Fall on News From China",
+          "imageUrl": "https://images.barrons.com/im-800611/social"
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
