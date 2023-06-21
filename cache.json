@@ -1598,6 +1598,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6268979/",
+          "author": "onze economieredactie",
+          "description": "De Duitse economie krimpt dit jaar waarschijnlijk meer dan eerder gedacht. Vooral de hoge inflatie en energieprijzen zitten de oosterburen in de weg.",
+          "link": "https://www.nu.nl/economie/6268979/recessie-duitse-economie-dieper-dan-verwacht-door-hardnekkige-inflatie.html",
+          "publishedOn": "2023-06-21T10:45:32.000Z",
+          "wordCount": 817,
+          "title": "Recessie Duitse economie dieper dan verwacht door hardnekkige inflatie",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/z4ax5rdat81u_sqr256.jpg/recessie-duitse-economie-dieper-dan-verwacht-door-hardnekkige-inflatie.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/z4ax5rdat81u_sqr256.jpg/recessie-duitse-economie-dieper-dan-verwacht-door-hardnekkige-inflatie.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6268957/",
           "author": "onze economieredactie",
           "description": "Het Duitse bedrijf J. Weck, dat de bekende inmaakpotten op de markt brengt, heeft faillissement aangevraagd. De potten zorgen ervoor dat bijvoorbeeld groenten en fruit lang goed blijven en werden zo populair dat wecken in het woordenboek is opgenomen. Nu komt na 123 jaar waarschijnlijk een einde aan het bedrijf.",
@@ -8316,36 +8331,6 @@
             "url": "https://media.nu.nl/m/oa3xgj6ap2eu_sqr256.jpg/we-kopen-minder-maar-door-hoge-prijzen-zien-winkeliers-omzet-toch-stijgen.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/oa3xgj6ap2eu_sqr256.jpg/we-kopen-minder-maar-door-hoge-prijzen-zien-winkeliers-omzet-toch-stijgen.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6264736/",
-          "author": "onze nieuwsredactie",
-          "description": "TikTok heeft maandag een rechtszaak aangespannen tegen de Amerikaanse staat Montana, omdat daar vorige week een wet is aangenomen die het sociale medium verbiedt.",
-          "link": "https://www.nu.nl/tech/6264736/tiktok-begint-rechtszaak-tegen-amerikaanse-staat-montana-om-verbod-app.html",
-          "publishedOn": "2023-05-22T22:29:26.000Z",
-          "wordCount": 947,
-          "title": "TikTok begint rechtszaak tegen Amerikaanse staat Montana om verbod app",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/yg6xqgmalrrf_sqr256.jpg/tiktok-begint-rechtszaak-tegen-amerikaanse-staat-montana-om-verbod-app.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/yg6xqgmalrrf_sqr256.jpg/tiktok-begint-rechtszaak-tegen-amerikaanse-staat-montana-om-verbod-app.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6264679/",
-          "author": "José Boon",
-          "description": "175.000 mensen begonnen in 2022 met een baan in zorg en welzijn. Dat is het grootste aantal sinds eind 2010. Toch kampt de sector nog altijd met enorme personeelstekorten.",
-          "link": "https://www.nu.nl/economie/6264679/175000-werknemers-erbij-in-de-zorg-maar-tekort-is-nog-steeds-niet-weg.html",
-          "publishedOn": "2023-05-22T22:15:55.000Z",
-          "wordCount": 862,
-          "title": "175.000 werknemers erbij in de zorg, maar tekort is nog steeds niet weg",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/wdnxa4ka8eae_sqr256.jpg/175000-werknemers-erbij-in-de-zorg-maar-tekort-is-nog-steeds-niet-weg.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/wdnxa4ka8eae_sqr256.jpg/175000-werknemers-erbij-in-de-zorg-maar-tekort-is-nog-steeds-niet-weg.jpg"
         }
       ]
     },
@@ -8354,6 +8339,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/l/lse.asp",
+          "author": "James Chen",
+          "description": "The London Stock Exchange (LSE) is the main stock exchange in the United Kingdom. The LSE provides access to electronic trading for thousands of stocks.",
+          "link": "https://www.investopedia.com/terms/l/lse.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-21T10:00:04.000Z",
+          "wordCount": 6361,
+          "title": "London Stock Exchange (LSE): Definition, History, and Major Events",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/eoLD8rO3GY9fYn-ABNTks9zXvN0=/2121x1414/paternoster-square-136108254-5e089d0e1b404273ad15513a01e07c7c.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/eoLD8rO3GY9fYn-ABNTks9zXvN0=/2121x1414/paternoster-square-136108254-5e089d0e1b404273ad15513a01e07c7c.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/g/gilt-edged-securities.asp",
           "author": "Adam Hayes",
@@ -28308,51 +28308,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/eCXTfFOJyofp8Zv2Pk9zkLKDJgY=/6000x4000/GettyImages-1357938375-7a5701d12adf4f088ac2d5288488dcea.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/insights/052216/top-5-ibm-shareholders-ibm.asp",
-          "author": "Nathan Reiff",
-          "description": "The top IBM shareholders are James Whitehurst, Arvind Krishna, James Kavanaugh, Vanguard Group Inc., BlackRock Inc., and State Street Corp.",
-          "link": "https://www.investopedia.com/articles/insights/052216/top-5-ibm-shareholders-ibm.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-22T22:57:52.000Z",
-          "wordCount": 6235,
-          "title": "Top IBM Shareholders",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ntxVPdYwoYF5GfDRGmIJSjwIjV8=/680x440/shutterstock_271760132-5bfc3b1446e0fb00260f38eb.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ntxVPdYwoYF5GfDRGmIJSjwIjV8=/680x440/shutterstock_271760132-5bfc3b1446e0fb00260f38eb.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/zoom-beats-estimates-7501437",
-          "author": "Kevin George",
-          "description": "Zoom Communications shares jumped after beating analysts' estimates for revenue.",
-          "link": "https://www.investopedia.com/zoom-beats-estimates-7501437?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-22T22:51:12.000Z",
-          "wordCount": 4753,
-          "title": "Zoom Shares Jump as Revenue Beats Estimates",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/xVj_M1IVWHu8wvwx_sKCiQDH_XA=/2121x1414/INV_Zoom_preview_GettyImages-1317208553-7346468a438d424bbb3e6b601aadfbd9.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/xVj_M1IVWHu8wvwx_sKCiQDH_XA=/2121x1414/INV_Zoom_preview_GettyImages-1317208553-7346468a438d424bbb3e6b601aadfbd9.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/top-cd-rates-today-may-22-7501262",
-          "author": "Staff Author",
-          "description": "See what today's top nationwide rate is for every CD term, and how it compares to the previous business day's top rate. We collect data from more than 200 financial institutions.",
-          "link": "https://www.investopedia.com/top-cd-rates-today-may-22-7501262?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-22T22:37:07.000Z",
-          "wordCount": 5246,
-          "title": "Top CD Rates Today, May 22",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/CD61zosr23O42-AH3PHLDBgXLUs=/5617x3746/GettyImages-1407675003-9e6fc0129fe04c068dc11a4094a4ce07.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/CD61zosr23O42-AH3PHLDBgXLUs=/5617x3746/GettyImages-1407675003-9e6fc0129fe04c068dc11a4094a4ce07.jpg"
         }
       ]
     },
@@ -28361,6 +28316,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "analysis-us-treasury-bond-spree-100501873.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/analysis-us-treasury-bond-spree-100501873.html",
+          "publishedOn": "2023-06-21T10:05:01.000Z",
+          "wordCount": null,
+          "title": "Analysis-US Treasury bond spree could jolt markets if leveraged bets unravel",
+          "imageUrl": null
+        },
         {
           "id": "stock-market-movers-7bc4016a?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -28530,6 +28495,16 @@
           "wordCount": 8072,
           "title": "FedEx Quarterly Sales Fall 10% as Shipping Struggles Continue",
           "imageUrl": "https://images.wsj.net/im-801002/social"
+        },
+        {
+          "id": "?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "Moving from a paycheck to multiple retirement income is complicated. Understanding retirement income types and how to manage them can be beneficial.",
+          "link": "https://www.investopedia.com/retirement/how-to-manage-timing-and-sources-of-income-retirement/?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-06-20T20:42:14.000Z",
+          "wordCount": 7704,
+          "title": "How to Manage Income During Retirement",
+          "imageUrl": "https://www.investopedia.com/thmb/rGqaGsRnronNvePdFTau26aPXZk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/architecht-e16e271b2e654805a8a71be5be1a6abc.jpg"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -49760,26 +49735,6 @@
           "wordCount": 11257,
           "title": "China's economy has turned rotten and its reopening boom is a 'charade,' market expert says",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/NBkxGaIXzROUBtewmS5iEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/77be7023111ba7f35f6d6692be2d6b6e"
-        },
-        {
-          "id": "top-5-ibm-shareholders-ibm.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "The top IBM shareholders are James Whitehurst, Arvind Krishna, James Kavanaugh, Vanguard Group Inc., BlackRock Inc., and State Street Corp.",
-          "link": "https://www.investopedia.com/articles/insights/052216/top-5-ibm-shareholders-ibm.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-05-22T22:57:52.000Z",
-          "wordCount": 6226,
-          "title": "Top IBM Shareholders",
-          "imageUrl": "https://www.investopedia.com/thmb/HY2S2aq24-9Z_KyPd-8ftjny0rY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/shutterstock_271760132-5bfc3b1446e0fb00260f38eb.jpg"
-        },
-        {
-          "id": "zoom-beats-estimates-7501437?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Zoom Communications shares jumped after beating analysts' estimates for revenue.",
-          "link": "https://www.investopedia.com/zoom-beats-estimates-7501437?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-05-22T22:51:12.000Z",
-          "wordCount": 5155,
-          "title": "Zoom Shares Jump as Revenue Beats Estimates",
-          "imageUrl": "https://www.investopedia.com/thmb/ZVFT8X17fHm_uifzzrcSbaZ-kGc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV_Zoom_preview_GettyImages-1317208553-7346468a438d424bbb3e6b601aadfbd9.jpg"
         }
       ]
     }
