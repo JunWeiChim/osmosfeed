@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-21T12:24:18.900Z</updated>
+    <updated>2023-06-21T13:15:29.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dow Jones Futures Fall As Powell Expects More Rate Hikes; Tesla Stock Downgraded]]></title>
+        <id>?src=A00220&amp;yptr=yahoo</id>
+        <link href="https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-powell-speech-tesla-stock-downgraded/?src=A00220&amp;yptr=yahoo"/>
+        <updated>2023-06-21T13:03:38.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Things to Know Before Markets Open]]></title>
         <id>36a4a9e05c1198bee860ff5359b5345c</id>
@@ -173,6 +182,15 @@
         <summary type="html"><![CDATA[The London Stock Exchange (LSE) is the main stock exchange in the United Kingdom. The LSE provides access to electronic trading for thousands of stocks.]]></summary>
         <author>
             <name>James Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alibaba founders Jack Ma, Joe Tsai appear in Hangzhou in show of confidence amid corporate reshuffling]]></title>
+        <id>alibaba-founders-jack-ma-joe-093000163.html</id>
+        <link href="https://finance.yahoo.com/news/alibaba-founders-jack-ma-joe-093000163.html"/>
+        <updated>2023-06-21T09:30:00.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
         </author>
     </entry>
     <entry>
@@ -40430,16 +40448,6 @@ Their argument is based on the assumption that future prices of natural gas will
         <summary type="html"><![CDATA[LONDON (Reuters) -Oil rose on Tuesday supported by optimism the U.S. would avoid a debt default, a tighter market outlook and a warning from the Saudi energy minister to speculators that raised the prospect of further OPEC+ cuts to support the market.  The gains added to a rally on Monday, when crude gained a tailwind from a 2.8% increase in U.S. gasoline futures ahead of the Memorial Day holiday on May 29 which traditionally marks the start of the peak summer demand season.  On the U.S. debt ceiling, White House and congressional Republican negotiators will meet again on Tuesday to resolve a impasse over raising the $31.4 trillion debt limit, with the nation facing the risk of default in as little as nine days.]]></summary>
         <author>
             <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investopedia Credit Card Rating Methodology]]></title>
-        <id>https://www.investopedia.com/credit-card-review-methodology-4796769</id>
-        <link href="https://www.investopedia.com/credit-card-review-methodology-4796769?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-05-23T00:29:14.000Z</updated>
-        <summary type="html"><![CDATA[Learn about how Investopedia's credit card rating methodology considers over 70 features of credit cards including proprietary reward points valuation.]]></summary>
-        <author>
-            <name>Lee Huffman</name>
         </author>
     </entry>
 </feed>
