@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-22T02:39:10.090Z</updated>
+    <updated>2023-06-22T03:12:23.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NU+ | Moeten we ons zorgen maken over de Nederlandse economie?]]></title>
+        <id>https://www.nu.nl/-/6269010/</id>
+        <link href="https://www.nu.nl/economie/6269010/moeten-we-ons-zorgen-maken-over-de-nederlandse-economie.html"/>
+        <updated>2023-06-22T03:04:33.000Z</updated>
+        <summary type="html"><![CDATA[Consumenten zijn de afgelopen maanden negatiever over de economie dan voorheen en bedrijven hebben in april minder geïnvesteerd dan een jaar geleden. Als we de cijfers moeten geloven, gaat het niet goed met de Nederlandse economie. Is dat echt zo? Of valt het allemaal wel mee?]]></summary>
+        <author>
+            <name>Noémi van de Pol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unauthorized Insurer Definition]]></title>
+        <id>https://www.investopedia.com/terms/u/unauthorized-insurer.asp</id>
+        <link href="https://www.investopedia.com/terms/u/unauthorized-insurer.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
+        <updated>2023-06-22T02:34:28.000Z</updated>
+        <summary type="html"><![CDATA[The term “unauthorized insurer” refers to a fraudulent business that is posing as a legitimate insurance company.]]></summary>
+        <author>
+            <name>Jason Fernando</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dow Jones Futures Fall: Nasdaq Pullback Clearly Underway; Tesla Skids While Nvidia, AMD Diverge]]></title>
         <id>?src=A00220&amp;yptr=yahoo</id>
@@ -23,6 +43,15 @@
         <summary type="html"><![CDATA[Just how are companies added to and dropped from the S&P 500, and how is its value calculated? Curious? Read on.]]></summary>
         <author>
             <name>Greg McFarlane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The S&P 500 could sink 23% in a recession, so investors should consider some downside protection, Goldman Sachs says]]></title>
+        <id>p-500-could-sink-23-012336945.html</id>
+        <link href="https://finance.yahoo.com/news/p-500-could-sink-23-012336945.html"/>
+        <updated>2023-06-22T01:23:36.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
         </author>
     </entry>
     <entry>
@@ -357,6 +386,15 @@
         <summary type="html"><![CDATA[Lambda is the percentage change in an option contract's price to the percentage change in the price of the underlying security.]]></summary>
         <author>
             <name>Gordon Scott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oil, copper prices flash signs of recession]]></title>
+        <id>oil-copper-prices-flash-signs-of-recession-190454919.html</id>
+        <link href="https://finance.yahoo.com/news/oil-copper-prices-flash-signs-of-recession-190454919.html"/>
+        <updated>2023-06-21T19:04:54.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
         </author>
     </entry>
     <entry>
@@ -40703,26 +40741,6 @@ Their argument is based on the assumption that future prices of natural gas will
         <summary type="html"><![CDATA[A NINJA loan is a slang term for a loan extended to a borrower with "no income, no job and no assets."]]></summary>
         <author>
             <name>Julia Kagan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europese bierbrouwers geschokt om Ierse plannen]]></title>
-        <id>https://www.nu.nl/-/6264841/</id>
-        <link href="https://www.nu.nl/economie/6264841/europese-bierbrouwers-geschokt-om-ierse-plannen.html"/>
-        <updated>2023-05-23T14:56:05.000Z</updated>
-        <summary type="html"><![CDATA[Europese brouwers zijn geschokt door de plannen van Ierland om uitgebreide gezondheidswaarschuwingen op alcoholproducten te zetten.]]></summary>
-        <author>
-            <name>onze economieredactie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Will Boost Microsoft and Google, Analysts Say. Worry About These Stocks Instead.]]></title>
-        <id>ai-tech-microsoft-alphabet-stock-chatgpt-8b69efc0?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/articles/ai-tech-microsoft-alphabet-stock-chatgpt-8b69efc0?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2023-05-23T14:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise adoption of AI remains one of the biggest prizes for tech companies.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
         </author>
     </entry>
 </feed>

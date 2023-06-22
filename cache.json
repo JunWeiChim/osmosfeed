@@ -1608,6 +1608,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6269010/",
+          "author": "Noémi van de Pol",
+          "description": "Consumenten zijn de afgelopen maanden negatiever over de economie dan voorheen en bedrijven hebben in april minder geïnvesteerd dan een jaar geleden. Als we de cijfers moeten geloven, gaat het niet goed met de Nederlandse economie. Is dat echt zo? Of valt het allemaal wel mee?",
+          "link": "https://www.nu.nl/economie/6269010/moeten-we-ons-zorgen-maken-over-de-nederlandse-economie.html",
+          "publishedOn": "2023-06-22T03:04:33.000Z",
+          "wordCount": 1098,
+          "title": "NU+ | Moeten we ons zorgen maken over de Nederlandse economie?",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/8z4xzjdakeo5_sqr256.jpg/moeten-we-ons-zorgen-maken-over-de-nederlandse-economie.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/8z4xzjdakeo5_sqr256.jpg/moeten-we-ons-zorgen-maken-over-de-nederlandse-economie.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6268965/",
           "author": "Noémi van de Pol",
           "description": "De prijzen van koopwoningen zijn in mei voor de vierde maand op rij gedaald. De prijzen van bestaande koopwoningen waren gemiddeld bijna 6 procent lager dan een jaar eerder.",
@@ -8251,21 +8266,6 @@
             "url": "https://media.nu.nl/m/80dxojia7nsd_sqr256.jpg/microsoft-zet-ai-centraal-in-windows-11-met-persoonlijke-assistent-copilot.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/80dxojia7nsd_sqr256.jpg/microsoft-zet-ai-centraal-in-windows-11-met-persoonlijke-assistent-copilot.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6264841/",
-          "author": "onze economieredactie",
-          "description": "Europese brouwers zijn geschokt door de plannen van Ierland om uitgebreide gezondheidswaarschuwingen op alcoholproducten te zetten.",
-          "link": "https://www.nu.nl/economie/6264841/europese-bierbrouwers-geschokt-om-ierse-plannen.html",
-          "publishedOn": "2023-05-23T14:56:05.000Z",
-          "wordCount": 783,
-          "title": "Europese bierbrouwers geschokt om Ierse plannen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/afuxm4aab5zq_sqr256.jpg/europese-bierbrouwers-geschokt-om-ierse-plannen.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/afuxm4aab5zq_sqr256.jpg/europese-bierbrouwers-geschokt-om-ierse-plannen.jpg"
         }
       ]
     },
@@ -8274,6 +8274,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/u/unauthorized-insurer.asp",
+          "author": "Jason Fernando",
+          "description": "The term “unauthorized insurer” refers to a fraudulent business that is posing as a legitimate insurance company.",
+          "link": "https://www.investopedia.com/terms/u/unauthorized-insurer.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-22T02:34:28.000Z",
+          "wordCount": 5506,
+          "title": "Unauthorized Insurer Definition",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/dv0vV77g-G_uV2g_Wvc4pa_R0eA=/680x440/148985994-5bfc2b8c46e0fb0083c07ba8.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/dv0vV77g-G_uV2g_Wvc4pa_R0eA=/680x440/148985994-5bfc2b8c46e0fb0083c07ba8.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/investing/090414/sp-500-index-you-need-know.asp",
           "author": "Greg McFarlane",
@@ -28787,6 +28802,16 @@
           "imageUrl": null
         },
         {
+          "id": "p-500-could-sink-23-012336945.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/p-500-could-sink-23-012336945.html",
+          "publishedOn": "2023-06-22T01:23:36.000Z",
+          "wordCount": null,
+          "title": "The S&P 500 could sink 23% in a recession, so investors should consider some downside protection, Goldman Sachs says",
+          "imageUrl": null
+        },
+        {
           "id": "air-taxi-sector-could-worth-001904133.html",
           "author": null,
           "description": "",
@@ -28865,6 +28890,16 @@
           "wordCount": 7981,
           "title": "Car-Insurance Firm Root Gets Takeover Bid",
           "imageUrl": "https://images.wsj.net/im-804306/social"
+        },
+        {
+          "id": "oil-copper-prices-flash-signs-of-recession-190454919.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/oil-copper-prices-flash-signs-of-recession-190454919.html",
+          "publishedOn": "2023-06-21T19:04:54.000Z",
+          "wordCount": null,
+          "title": "Oil, copper prices flash signs of recession",
+          "imageUrl": null
         },
         {
           "id": "warren-buffetts-night-phone-call-190023046.html",
@@ -50235,16 +50270,6 @@
           "wordCount": 2171,
           "title": "The US Treasury may have to break the law to keep the world’s richest nation from default",
           "imageUrl": "https://media.zenfs.com/en/quartz.com/610507fddbf9e1fb4cb9f87fc79de75d"
-        },
-        {
-          "id": "ai-tech-microsoft-alphabet-stock-chatgpt-8b69efc0?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Enterprise adoption of AI remains one of the biggest prizes for tech companies.",
-          "link": "https://www.barrons.com/articles/ai-tech-microsoft-alphabet-stock-chatgpt-8b69efc0?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-23T14:56:00.000Z",
-          "wordCount": 6777,
-          "title": "AI Will Boost Microsoft and Google, Analysts Say. Worry About These Stocks Instead.",
-          "imageUrl": "https://images.barrons.com/im-718744/social"
         }
       ]
     }
