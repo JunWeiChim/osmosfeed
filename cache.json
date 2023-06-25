@@ -1469,16 +1469,6 @@
           "wordCount": 411,
           "title": "Top Tobacco Stocks for 2023",
           "imageUrl": null
-        },
-        {
-          "id": "d133332969e73fc1d383e7cd84bcb5ed",
-          "author": "Investopedia",
-          "description": "Intel rebounds to lead the Dow upward, while American Express gains on ratings upgrade",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c2495eda7dd76efcc0127917963cc06385c54335",
-          "publishedOn": "2023-05-26T23:11:49.093Z",
-          "wordCount": 411,
-          "title": "Dow Jones Today: Index Up on Debt Ceiling Hopes",
-          "imageUrl": null
         }
       ]
     },
@@ -1487,6 +1477,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6269531/",
+          "author": "onze nieuwsredactie",
+          "description": "Tientallen grote bedrijven eisen dat de Europese Unie strengere regels invoert voor de CO2-uitstoot van vrachtwagens. Multinationals als Heineken, Nike en IKEA hopen dat ambitieuzere doelstellingen zorgen voor meer investeringen van autofabrikanten in elektrische vrachtauto's.",
+          "link": "https://www.nu.nl/economie/6269531/grote-bedrijven-willen-strengere-regels-voor-uitstoot-vrachtwagens.html",
+          "publishedOn": "2023-06-25T11:18:40.000Z",
+          "wordCount": 972,
+          "title": "Grote bedrijven willen strengere regels voor uitstoot vrachtwagens",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/pr5xxk8afsly_sqr256.jpg/grote-bedrijven-willen-strengere-regels-voor-uitstoot-vrachtwagens.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/pr5xxk8afsly_sqr256.jpg/grote-bedrijven-willen-strengere-regels-voor-uitstoot-vrachtwagens.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6269343/",
           "author": "Emma van Bergeijk en Noémi van de Pol",
@@ -8124,6 +8129,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/michael-jordan-net-worth-7552678",
+          "author": "Staff Author",
+          "description": "NBA legend Michael Jordan is selling his majority stake in the Charlotte Hornets for an estimated $3 billion. One of the best basketball players in NBA history, Jordan has a net worth of $2 billion as of 2023, thanks to lucrative endorsements such as Nike and the Jordan Brand, and other business ventures.",
+          "link": "https://www.investopedia.com/michael-jordan-net-worth-7552678?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-25T12:00:00.000Z",
+          "wordCount": 5735,
+          "title": "Michael Jordan Is Selling His Majority Stake in the Hornets—Here’s Jordan’s Net Worth",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/krRBSeOGyFRqUvYa52v34DuMKMs=/4616x3077/GettyImages-1201774800-e37c10635ad04bb1bff7666a2b884748.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/krRBSeOGyFRqUvYa52v34DuMKMs=/4616x3077/GettyImages-1201774800-e37c10635ad04bb1bff7666a2b884748.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/investing/080715/top-6-energy-etfs.asp",
+          "author": "Nathan Reiff",
+          "description": "Fidelity MSCI Energy Index ETF has the lowest fees, SPDR S&P Oil & Gas Equipment Services ETF has the best return, and Energy Select Sector SPDR Fund is the most liquid",
+          "link": "https://www.investopedia.com/articles/investing/080715/top-6-energy-etfs.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-25T11:00:00.000Z",
+          "wordCount": 6204,
+          "title": "Top Energy ETFs for 2023",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/cGSYNp-_8R_TdUg7340-rEUnGkM=/680x440/thinkstockphotos-482600026-5bfc34c446e0fb00260328ed.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/cGSYNp-_8R_TdUg7340-rEUnGkM=/680x440/thinkstockphotos-482600026-5bfc34c446e0fb00260328ed.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/stocks/09/buffett-bear-market-strategies.asp",
           "author": "Dan Barufaldi",
@@ -27357,6 +27392,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "diners-are-losing-patience-with-restaurant-serviceand-theres-no-quick-fix-6aa5f17e?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Owners are using technology, training and fixed tipping to address staff turnover and shortages.",
+          "link": "https://www.wsj.com/articles/diners-are-losing-patience-with-restaurant-serviceand-theres-no-quick-fix-6aa5f17e?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-25T11:00:00.000Z",
+          "wordCount": 9040,
+          "title": "Diners Are Losing Patience With Restaurant Service—and There’s No Quick Fix",
+          "imageUrl": "https://images.wsj.net/im-805832/social"
+        },
+        {
+          "id": "top-6-energy-etfs.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "Fidelity MSCI Energy Index ETF has the lowest fees, SPDR S&P Oil & Gas Equipment Services ETF has the best return, and Energy Select Sector SPDR Fund is the most liquid",
+          "link": "https://www.investopedia.com/articles/investing/080715/top-6-energy-etfs.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-06-25T11:00:00.000Z",
+          "wordCount": 6214,
+          "title": "Top Energy ETFs for 2023",
+          "imageUrl": "https://www.investopedia.com/thmb/bali-seuH4136ED23WkcWu8APbU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/thinkstockphotos-482600026-5bfc34c446e0fb00260328ed.jpg"
+        },
+        {
           "id": "branch-closures-santander.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
           "author": null,
           "description": "“Banks are redrawing their maps, but no one has given them the instructions on how to do that,” said Chris Marinac, director of research at Janney Montgomery Scott.",
@@ -27457,6 +27512,16 @@
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/dcbec6ec047dffc592302b8c06dca71d"
         },
         {
+          "id": "pwc-australia-sell-govt-business-050056873.html",
+          "author": null,
+          "description": "PwC Australia said on Sunday it will sell its government practice to private equity firm Allegro Funds and appoint a new CEO, as the professional services firm battles the fall out from a major scandal.  The scandal, which broke in January, revolves around a former PwC tax partner who had been advising the federal government on laws to prevent corporate tax avoidance and shared confidential information with colleagues who then used it to pitch to multinational companies for work.  PwC said it had entered an exclusivity agreement to divest its federal and state government business to Allegro Funds for A$1 ($0.67) after reports this week it had been looking to offload its government, education and healthcare practice.",
+          "link": "https://finance.yahoo.com/news/pwc-australia-sell-govt-business-050056873.html",
+          "publishedOn": "2023-06-25T05:00:56.000Z",
+          "wordCount": 1773,
+          "title": "PwC Australia to sell government business for A$1, appoint new CEO",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/549185795a76612c32715e27d75dbc3d"
+        },
+        {
           "id": "russia-back-investors-focus-weekend-040438970.html",
           "author": null,
           "description": "Some investors were watching for ripple effects from an aborted mutiny in Russia on Saturday, expecting a move into safe havens such as U.S. government bonds and the dollar when markets open later on Sunday.  Heavily armed Russian mercenaries led by Yevgeny Prigozhin, a former ally of President Vladimir Putin and founder of the Wagner army, advanced most of the way to Moscow after capturing the city of Rostov, but then halted their approach, de-escalating a major challenge.  On Saturday night, they began withdrawing from the Rostov military headquarters they had seized, a Reuters witness said.",
@@ -27465,6 +27530,16 @@
           "wordCount": 1983,
           "title": "Russia back in investors' focus after weekend mutiny",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/70672d2cf40fb5225871b6bf9b031e80"
+        },
+        {
+          "id": "auddev&yptr=yahoo",
+          "author": null,
+          "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+          "link": "https://www.ft.com/cms/s/658d937f-f804-4656-a9d8-428b9c2c917d,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev&yptr=yahoo",
+          "publishedOn": "2023-06-25T04:00:14.000Z",
+          "wordCount": 1633,
+          "title": "Financial storm bears down on US commercial real estate",
+          "imageUrl": null
         },
         {
           "id": "cargo-airline-western-global-weighs-030908654.html",
@@ -27777,6 +27852,16 @@
           "imageUrl": null
         },
         {
+          "id": "ai-led-baby-bubble-bursting-020103566.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/ai-led-baby-bubble-bursting-020103566.html",
+          "publishedOn": "2023-06-24T02:01:03.000Z",
+          "wordCount": null,
+          "title": "Is the AI-led 'baby bubble' bursting? BofA says tech stocks just saw their biggest outflow in 10 weeks.",
+          "imageUrl": null
+        },
+        {
           "id": "ibm-talks-buy-apptio-much-004149678.html",
           "author": null,
           "description": "(Bloomberg) -- International Business Machines Corp. is in talks to buy software company Apptio as part of a deeper push into automation technology, according to people with knowledge of the matter.Most Read from BloombergGoldman Sachs Is Cutting About 125 Managing Directors GloballyPrigozhin Accused of Uprising in Challenge to Kremlin GripFive-Star Hotel Guest Leaves Without Paying After 603-Night StayTitanic Sub Crew Dead After Vessel’s Catastrophic ImplosionThe Big Names That Got Backstop for",
@@ -27795,6 +27880,16 @@
           "wordCount": 2871,
           "title": "Gas Is Here to Stay for Decades, Say Fossil Fuel Heavyweights",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/4CVb1KDiIEljX390fzQh1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/58feb4a0b918c30aceebed1d4a586a04"
+        },
+        {
+          "id": "fdic-mistakenly-releases-confidential-information-004846957.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/fdic-mistakenly-releases-confidential-information-004846957.html",
+          "publishedOn": "2023-06-24T00:48:46.000Z",
+          "wordCount": null,
+          "title": "FDIC mistakenly releases confidential information on Silicon Valley Bank depositors, revealing major tech giants that benefitted from government help",
+          "imageUrl": null
         },
         {
           "id": "ibm-close-5-billion-takeover-001659862.html",
@@ -48015,56 +48110,6 @@
           "wordCount": 7121,
           "title": "Elizabeth Holmes to Report to Prison: A History of the WSJ Theranos Investigation",
           "imageUrl": "https://images.wsj.net/im-669186/social"
-        },
-        {
-          "id": "big-techs-become-even-bigger-winners-shades-of-the-dot-com-boom-e7a59146?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Heavy concentration of gains recalls the excesses that preceded some epic market tumbles.",
-          "link": "https://www.barrons.com/articles/big-techs-become-even-bigger-winners-shades-of-the-dot-com-boom-e7a59146?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-27T00:26:00.000Z",
-          "wordCount": 6682,
-          "title": "Big Techs Become Even Bigger Winners. Shades of the Dot-Com Boom?",
-          "imageUrl": "https://images.barrons.com/im-790140/social"
-        },
-        {
-          "id": "short-sellers-bet-against-nvidia-234633104.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/short-sellers-bet-against-nvidia-234633104.html",
-          "publishedOn": "2023-05-26T23:46:33.000Z",
-          "wordCount": null,
-          "title": "Short sellers who bet against Nvidia lost $2.2 billion in a single day amid the chip maker's stellar rally",
-          "imageUrl": null
-        },
-        {
-          "id": "state-farm-halts-home-insurance-sales-in-california-5748c771?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The move is a blow to the state’s efforts to maintain a vibrant market for homeowners in the wildfire-prone state.",
-          "link": "https://www.wsj.com/articles/state-farm-halts-home-insurance-sales-in-california-5748c771?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-26T23:45:00.000Z",
-          "wordCount": 7944,
-          "title": "State Farm Halts Home-Insurance Sales in California",
-          "imageUrl": "https://images.wsj.net/im-790168/social"
-        },
-        {
-          "id": "genco-stock-is-a-good-bet-as-rising-shipping-rates-help-boost-dividend-7e454824?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The stock is down 35% since Barron’s first recommended it. Here’s why it’s a good time to get in.",
-          "link": "https://www.barrons.com/articles/genco-stock-is-a-good-bet-as-rising-shipping-rates-help-boost-dividend-7e454824?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-26T23:37:00.000Z",
-          "wordCount": 6751,
-          "title": "Genco Stock Is a Good Bet as Rising Shipping Rates Help Boost Dividend",
-          "imageUrl": "https://images.barrons.com/im-789546/social"
-        },
-        {
-          "id": "fed-could-pop-ai-bubble-232713274.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/fed-could-pop-ai-bubble-232713274.html",
-          "publishedOn": "2023-05-26T23:27:13.000Z",
-          "wordCount": null,
-          "title": "The Fed could pop the AI bubble, and investors shouldn't chase the hype as financial conditions tighten, Bank of America says",
-          "imageUrl": null
         }
       ]
     }
