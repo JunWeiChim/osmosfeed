@@ -1468,6 +1468,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6269623/",
+          "author": "onze economieredactie",
+          "description": "Deutsche Bank heeft aan klanten laten weten dat de bank geen garanties meer kan bieden over hun Russische aandelen. Het gaat om zogeheten waardepapieren die garant staan voor het aandelenbezit.",
+          "link": "https://www.nu.nl/economie/6269623/russische-aandelen-lijken-duitse-aandeelhouders-te-zijn-ontglipt.html",
+          "publishedOn": "2023-06-26T08:08:31.000Z",
+          "wordCount": 834,
+          "title": "Russische aandelen lijken Duitse aandeelhouders te zijn ontglipt",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/yb6x8ceaxy5k_sqr256.jpg/russische-aandelen-lijken-duitse-aandeelhouders-te-zijn-ontglipt.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/yb6x8ceaxy5k_sqr256.jpg/russische-aandelen-lijken-duitse-aandeelhouders-te-zijn-ontglipt.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6269602/",
           "author": "Noémi van de Pol",
           "description": "Er zijn vorig jaar veel meer vergunningen voor tijdelijke woningen afgegeven dan een jaar eerder. Vooral arbeidsmigranten en vluchtelingen kregen vaker een tijdelijke woning aangeboden.",
@@ -27478,36 +27493,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/I77n3dLLJHk2lbjmfTGx_JV53e0=/1500x1000/pdf-3-2-resized-20711edb58414ef5854c6a7a168d266b.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/investing/use-pe-ratio-and-peg-to-tell-stocks-future/",
-          "author": "Chris B. Murphy",
-          "description": "A price to earnings ratio helps investors find the market value of a stock compared to the company's earnings. Learn how the P/E and PEG assess a stock's future growth.",
-          "link": "https://www.investopedia.com/investing/use-pe-ratio-and-peg-to-tell-stocks-future/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-27T19:48:56.000Z",
-          "wordCount": 7566,
-          "title": "Using the Price to Earnings Ratio and PEG to Assess a Stock",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/LybI6jxatoH4LNXeWrnHn2trjDY=/724x482/GettyImages-1392923426-3b3fdf97afa24577bb1fd3cbff6568ca.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/LybI6jxatoH4LNXeWrnHn2trjDY=/724x482/GettyImages-1392923426-3b3fdf97afa24577bb1fd3cbff6568ca.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/pf/07/neworusedcar.asp",
-          "author": "Lisa Smith",
-          "description": "Should you buy a new or used car? Here are the pros and cons of each, and how to decide which is right for you",
-          "link": "https://www.investopedia.com/articles/pf/07/neworusedcar.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-27T19:16:17.000Z",
-          "wordCount": 6908,
-          "title": "Should I Buy a New Or Used Car?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/_dgx7gbblhuynzowo3JLv5gISkU=/6000x4000/repossession-a237637f04294572960e2507b6804487.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/_dgx7gbblhuynzowo3JLv5gISkU=/6000x4000/repossession-a237637f04294572960e2507b6804487.jpg"
         }
       ]
     },
@@ -27516,6 +27501,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "europe-shares-edge-lower-bank-073000758.html",
+          "author": null,
+          "description": "The pan-European STOXX 600 index was down 0.3% by 0717 GMT, after posting its biggest weekly percentage loss in three months at the end of a central bank policy-packed week on Friday.  The energy sector, meanwhile, gained 0.2% as oil prices climbed after a revolt by Russian mercenaries over the weekend stoked concerns about a potential hit to oil supply from Russia.  The banking index was the biggest drag on the STOXX index, down 1%, with shares of Deutsche Bank falling 2.4%.",
+          "link": "https://finance.yahoo.com/news/europe-shares-edge-lower-bank-073000758.html",
+          "publishedOn": "2023-06-26T07:30:00.000Z",
+          "wordCount": 1932,
+          "title": "Europe shares edge lower as bank stocks drag",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/2a826db05c693d2722e6f2eb97ec257d"
+        },
+        {
+          "id": "two-more-china-builders-t-030134143.html",
+          "author": null,
+          "description": "(Bloomberg) -- Two more Chinese developers have failed to meet dollar-bond payments, occurring amid renewed home-sales softness and a lack of aggressive stimulus. Most Read from BloombergSilence Cloaks Kremlin After Russian Mutiny Against PutinPrigozhin Turns Forces Back in Deal With Kremlin to Drop ChargesRussia Latest: Zelenskiy Adviser Says Wagner Remains in UkraineThe Wagner Mutiny Foreshadows a Russian DefeatRussia Latest: Kremlin Says It Gave Prigozhin Deal to End MutinyCentral China Real",
+          "link": "https://finance.yahoo.com/news/two-more-china-builders-t-030134143.html",
+          "publishedOn": "2023-06-26T06:33:21.000Z",
+          "wordCount": 2316,
+          "title": "Two More China Builders Say They Can’t Meet Debt Obligations",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/10427a3cabc55c3d8cef9ad5cc1e7efd"
+        },
         {
           "id": "traders-rushing-undo-massive-bets-050000962.html",
           "author": null,
@@ -27527,6 +27532,16 @@
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/3cf4876bc5e1b89c783d9bb36f9cb33d"
         },
         {
+          "id": "rouble-tumbles-15-month-low-061331648.html",
+          "author": null,
+          "description": "The Russian rouble tumbled to a near 15-month low against the dollar as markets responded for the first time to the short-lived military coup against Vladimir Putin.",
+          "link": "https://finance.yahoo.com/news/rouble-tumbles-15-month-low-061331648.html",
+          "publishedOn": "2023-06-26T06:13:31.000Z",
+          "wordCount": 1806,
+          "title": "Rouble tumbles to 15-month low after failed coup against Putin - latest updates",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/g30OgjLRF6QAb8wW8CZgVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/56ee1c36521c2f7bdca6bdffd2915d90"
+        },
+        {
           "id": "exclusive-deutsche-bank-tells-investors-060947836.html",
           "author": null,
           "description": "Deutsche Bank has told clients it can no longer guarantee full access to Russian stocks that belong to them, underlining the challenges global investors face to recover stranded investments in the country's companies.  Germany's largest bank said in a note dated June 9 and viewed by Reuters that it had uncovered a shortfall in the shares that back the depositary receipts (DRs) the bank had issued before the Ukraine invasion.  The shares have been held in Russia by a different depositary bank.",
@@ -27535,6 +27550,26 @@
           "wordCount": 2520,
           "title": "Exclusive-Deutsche Bank tells investors some of their Russian shares are missing",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/f10260eb5e91c51613cbfabcbdc18e59"
+        },
+        {
+          "id": "jd-com-creates-groceries-arm-055510776.html",
+          "author": null,
+          "description": "(Bloomberg) -- JD.com Inc. aims to create an independent unit by merging its 7Fresh supermarket chain with other online services, establishing a retailer of fresh food and groceries that serves millions nationwide.Most Read from BloombergSilence Cloaks Kremlin After Russian Mutiny Against PutinRussia Latest: Zelenskiy Adviser Says Wagner Remains in UkrainePrigozhin Turns Forces Back in Deal With Kremlin to Drop ChargesThe Wagner Mutiny Foreshadows a Russian DefeatRussia Latest: Kremlin Says It G",
+          "link": "https://finance.yahoo.com/news/jd-com-creates-groceries-arm-055510776.html",
+          "publishedOn": "2023-06-26T05:55:10.000Z",
+          "wordCount": 2232,
+          "title": "JD.com Creates Groceries Arm as Rival Alibaba Weighs Spinoffs",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/sej6d7p_b1ZQgUBpsvFFvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/6d6eb526749bbdac4d6db61de8d908b3"
+        },
+        {
+          "id": "state-handouts-money-printing-responsible-050000061.html",
+          "author": null,
+          "description": "Massive taxpayer handouts and a money-printing spree helped stoke inflation in Britain and around the world, with years of interest rate pain now needed to get the crisis under control according to a top central banker.",
+          "link": "https://finance.yahoo.com/news/state-handouts-money-printing-responsible-050000061.html",
+          "publishedOn": "2023-06-26T05:00:00.000Z",
+          "wordCount": 2278,
+          "title": "State handouts and money printing responsible for inflation crisis, says top central banker",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/BqDboFvXDnMW3bpIUOXhSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/05ee478c724232efed1e7191e5fe6436"
         },
         {
           "id": "big-us-banks-fare-well-040922294.html",
@@ -48335,26 +48370,6 @@
           "wordCount": 2547,
           "title": "Nvidia is up 165% in 2023. Here's why its the clear winner in the AI race so far.",
           "imageUrl": "https://media.zenfs.com/en/business_insider_articles_888/217e41f79cf3ad50cfd658be91c43e29"
-        },
-        {
-          "id": "hype-ai-stocks-isnt-bubble-002136986.html",
-          "author": null,
-          "description": "\"There's not enough retail interest to indicate a bubble is forming, and there's a lot more room for retail investors to get involved in these names.\"",
-          "link": "https://finance.yahoo.com/news/hype-ai-stocks-isnt-bubble-002136986.html",
-          "publishedOn": "2023-05-27T20:14:02.000Z",
-          "wordCount": 1990,
-          "title": "The hype in AI stocks isn't a bubble yet, and little buy in from retail investors means there's room for more upside",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/EeUpt1aVHK5Mau1JWGr7SQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/cf1c0223dffd67a3ff610e01b688915c"
-        },
-        {
-          "id": "why-buying-chunk-america-inflation-200000895.html",
-          "author": null,
-          "description": "(Bloomberg) -- In an era of historic inflation, one alternative investment has been making its way into portfolios as a diversifier and potential hedge against stubborn price pressures: farmland.Most Read from BloombergEurope’s Economic Engine Is Breaking Down‘Last of Us’ Multiplayer Video Game Faces Setbacks at SonyWorld’s Richest Man Throws In Towel on Beverly Hills HotelA $189 Airport Travel Hack Is No Longer Working Very WellDebt-Limit Talks Get More Time as US Treasury Pushes Back Deadline“",
-          "link": "https://finance.yahoo.com/news/why-buying-chunk-america-inflation-200000895.html",
-          "publishedOn": "2023-05-27T20:00:00.000Z",
-          "wordCount": 2421,
-          "title": "Here’s Why Buying a Chunk of America Can Be an Inflation Hedge",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/zxyFQo1Tb5ap_sS.JM_dgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_markets_842/0b535fbeff7e23dcb50c1d65d647b906"
         }
       ]
     }
