@@ -7925,6 +7925,21 @@
       "siteUrl": "https://www.investopedia.com",
       "articles": [
         {
+          "id": "https://www.investopedia.com/terms/c/convenience-fee.asp",
+          "author": "Julia Kagan",
+          "description": "A convenience fee is charged when a consumer pays with an electronic payment card rather than by cash, check, or Automated Clearing House (ACH) transfer.",
+          "link": "https://www.investopedia.com/terms/c/convenience-fee.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-26T01:50:11.000Z",
+          "wordCount": 6743,
+          "title": "Convenience Fee: Definition, Examples, and How To Avoid Them",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/FphfKrJCUYvZbTv4iLu4XKclyyE=/2121x1414/focused-senior-restaurant-owner-paying-bills-at-laptop-970533002-b0ec38d72b3a4fa3b99ac918a89e1f58.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/FphfKrJCUYvZbTv4iLu4XKclyyE=/2121x1414/focused-senior-restaurant-owner-paying-bills-at-laptop-970533002-b0ec38d72b3a4fa3b99ac918a89e1f58.jpg"
+        },
+        {
           "id": "https://www.investopedia.com/terms/f/foreignbranchbank.asp",
           "author": "Will Kenton",
           "description": "A foreign bank branch is a branch or an outpost of a larger bank that operates in foreign locations.",
@@ -27426,6 +27441,46 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "the-reasons-more-people-are-working-in-their-80s-34f11699?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "They joke that retirement is boring, but some acknowledge a deeper fear of becoming irrelevant if they quit.",
+          "link": "https://www.wsj.com/articles/the-reasons-more-people-are-working-in-their-80s-34f11699?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-26T01:00:00.000Z",
+          "wordCount": 8479,
+          "title": "The Reasons More People Are Working in Their 80s",
+          "imageUrl": "https://images.wsj.net/im-801129/social"
+        },
+        {
+          "id": "chip-startup-rides-ai-frenzy-004503703.html",
+          "author": null,
+          "description": "(Bloomberg) -- Shares of a small Japanese chip design firm have quintupled since it listed in October, supercharged by expectations of a boom in silicon demand driven by artificial intelligence.Most Read from BloombergSilence Cloaks Kremlin After Russian Mutiny Against PutinPrigozhin Turns Forces Back in Deal With Kremlin to Drop ChargesThe Wagner Mutiny Foreshadows a Russian DefeatRussia Latest: Biden, Zelenskiy Discuss US Aid in Wake of MutinyRussia Latest: Kremlin Says It Gave Prigozhin Deal",
+          "link": "https://finance.yahoo.com/news/chip-startup-rides-ai-frenzy-004503703.html",
+          "publishedOn": "2023-06-26T00:45:03.000Z",
+          "wordCount": 2004,
+          "title": "Chip Startup Rides AI Frenzy to Become Top-Gaining Topix Stock",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/v22DvaVbqhRug4o1qis6rQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Nzg-/https://media.zenfs.com/en/bloomberg_markets_842/ba9efe672317f78dfc1b052fda7d41e0"
+        },
+        {
+          "id": "bitcoin-treads-water-above-us-003316702.html",
+          "author": null,
+          "description": "Bitcoin held ground above US$30,000 following a week of traditional financial institutions showing interest in financial instruments that include the token. The U.S. regulator approved the first leveraged Bitcoin Futures ETF on Friday.",
+          "link": "https://finance.yahoo.com/news/bitcoin-treads-water-above-us-003316702.html",
+          "publishedOn": "2023-06-26T00:33:16.000Z",
+          "wordCount": 2133,
+          "title": "Bitcoin treads water above US$30,000; SEC approves first leveraged Bitcoin futures ETF",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/EhiT4eERCE_l48M0dbut0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDA-/https://media.zenfs.com/en/forkast_news_articles_672/2cd4500dfad6c4c4b29dbcaf994c0175"
+        },
+        {
+          "id": "bond-traders-heeding-powells-pledge-000005172.html",
+          "author": null,
+          "description": "(Bloomberg) -- Investors are conceding that the Federal Reserve is now intensely focused on fighting inflation and less concerned about higher interest rates breaking the US economy.Most Read from BloombergSilence Cloaks Kremlin After Russian Mutiny Against PutinPrigozhin Turns Forces Back in Deal With Kremlin to Drop ChargesThe Wagner Mutiny Foreshadows a Russian DefeatRussia Latest: Biden, Zelenskiy Discuss US Aid in Wake of MutinyRussia Latest: Kremlin Says It Gave Prigozhin Deal to End Mutin",
+          "link": "https://finance.yahoo.com/news/bond-traders-heeding-powells-pledge-000005172.html",
+          "publishedOn": "2023-06-26T00:00:05.000Z",
+          "wordCount": 2189,
+          "title": "Bond Traders Are Heeding Powell's Pledge to Stay on Volcker Path",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ac23BJ.JbgTojIOyg34Snw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/85bee55025cd12b1869e4c68c5481698"
+        },
         {
           "id": "oil-climbs-concerns-russia-political-232507968.html",
           "author": null,
@@ -48175,76 +48230,6 @@
           "wordCount": 7475,
           "title": "How 401(k) Matching Works",
           "imageUrl": "https://www.investopedia.com/thmb/opRN6vrD2vQ79Ec7gKTU0_GCcWU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how_401k_matching_works-5bfc374d46e0fb0026046f6c.jpg"
-        },
-        {
-          "id": "auddev&yptr=yahoo",
-          "author": null,
-          "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-          "link": "https://www.ft.com/cms/s/a7315746-6932-466c-8efb-bf9301017e37,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev&yptr=yahoo",
-          "publishedOn": "2023-05-27T15:00:36.000Z",
-          "wordCount": 1643,
-          "title": "Some investors see bargains in tentative US regional bank recovery",
-          "imageUrl": null
-        },
-        {
-          "id": "eighty-two-percent-of-millennials-worry-ai-will-threaten-their-pay-survey-says-143020771.html",
-          "author": null,
-          "description": "Investors believe AI is the latest tech revolution. Millennial workers are worried this will mean less pay for the same work.",
-          "link": "https://finance.yahoo.com/news/eighty-two-percent-of-millennials-worry-ai-will-threaten-their-pay-survey-says-143020771.html",
-          "publishedOn": "2023-05-27T14:30:20.000Z",
-          "wordCount": 2499,
-          "title": "Eighty-two percent of millennials worry AI will threaten their pay, survey says",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/CV_17xGwdnveOYLWyST1Ng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04ODc-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/a7ae7980-fbe7-11ed-ba3a-e0905a8a6700"
-        },
-        {
-          "id": "the-new-rules-for-business-travel-to-china-f476f7b7?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "From burner phones to inquisitive border agents, the WSJ has consulted experts on the do’s and don’ts in an era of heightened tensions.",
-          "link": "https://www.wsj.com/articles/the-new-rules-for-business-travel-to-china-f476f7b7?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-27T14:30:00.000Z",
-          "wordCount": 8279,
-          "title": "The New Rules for Business Travel to China",
-          "imageUrl": "https://images.wsj.net/im-789417/social"
-        },
-        {
-          "id": "saudi-arabia-russia-ties-under-strain-over-oil-production-cuts-50566e9c?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Tensions are rising between Saudi Arabia and Russia as Moscow keeps pumping large volumes of cheaper crude into the market, undermining Riyadh’s efforts to bolster energy prices.",
-          "link": "https://www.wsj.com/articles/saudi-arabia-russia-ties-under-strain-over-oil-production-cuts-50566e9c?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-27T14:00:00.000Z",
-          "wordCount": 8791,
-          "title": "Saudi Arabia, Russia Ties Under Strain Over Oil-Production Cuts",
-          "imageUrl": "https://images.wsj.net/im-789075/social"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/economy/debt-ceiling-fight-is-just-the-start-these-big-fiscal-drags-could-derail-u-s-economy-stock-market/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-05-27T13:45:03.000Z",
-          "wordCount": null,
-          "title": "Debt-Ceiling Deal Is Close. Why Recession And Stock-Market Drop Will Follow.",
-          "imageUrl": null
-        },
-        {
-          "id": "workers-are-feeling-grim-about-their-retirement-prospects-study-finds-133017644.html",
-          "author": null,
-          "description": "A Gallup poll found that expectations for a comfortable retirement are the most pessimistic they have been in over a decade.",
-          "link": "https://finance.yahoo.com/news/workers-are-feeling-grim-about-their-retirement-prospects-study-finds-133017644.html",
-          "publishedOn": "2023-05-27T13:30:17.000Z",
-          "wordCount": 2770,
-          "title": "Workers are feeling grim about their retirement prospects, study finds",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/O2rGe.JqkwiqV5wzP5DHTg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-images/2020-01/5fc49b20-3608-11ea-a16f-f0c31a43ff41"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/ai-stocks-mobileye-lead-5-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-05-27T13:23:10.000Z",
-          "wordCount": null,
-          "title": "AI Stocks, Including Mobileye, Lead These 5 Names Near Buy Points",
-          "imageUrl": null
         }
       ]
     }
