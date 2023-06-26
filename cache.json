@@ -701,6 +701,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "c79e0e2ebc64e1e6dc7f0e4d07d8c6b9",
+          "author": "Investopedia",
+          "description": "Lucid shares surged after announcing a deal with luxury automaker Aston Martin, and Tesla shares fell as Goldman Sachs analysts join others in downgrading the stock. Here’s what investors need to know today.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df4f2a56d06e81209c9d0a69cdab3fa7fbe66db0bec37ff57eba6758d7611c580b58",
+          "publishedOn": "2023-06-26T13:22:24.305Z",
+          "wordCount": 411,
+          "title": "5 Things to Know Before Markets Open",
+          "imageUrl": null
+        },
+        {
           "id": "9e7cc80a95f0bb665648cb65cffab321",
           "author": "Investopedia",
           "description": "The Dow Jones Industrial Average fell 0.7%, or 219 points, Friday to cap a losing week as worsening economic data renewed investors’ fears of a looming recession.",
@@ -8089,6 +8099,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/p/pureyieldswap.asp",
+          "author": "Jason Fernando",
+          "description": "A pure yield pickup swap happens when bonds with lower returns and shorter maturity rates are swapped for higher-return, longer-maturity bonds.",
+          "link": "https://www.investopedia.com/terms/p/pureyieldswap.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-26T13:04:33.000Z",
+          "wordCount": 5749,
+          "title": "Pure Yield Pickup Swap Definition",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/QHtdzv-cawAaXLpVIk56fbRlns4=/205x136/investing11-5bfc2b90c9e77c00519aa65f.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/QHtdzv-cawAaXLpVIk56fbRlns4=/205x136/investing11-5bfc2b90c9e77c00519aa65f.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/r/ronic.asp",
+          "author": "James Chen",
+          "description": "Return on new invested capital (RONIC) is a calculation used to determine the expected rate of return for deploying new capital on projects and services.",
+          "link": "https://www.investopedia.com/terms/r/ronic.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-26T12:35:25.000Z",
+          "wordCount": 5504,
+          "title": "Return on New Invested Capital (RONIC) Definition",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/I-SnJvMX_1jkTiziC5Fj8qALnEE=/1500x1000/ReturnonNewInvestedCapitalRONIC_final-876f572e974f413da8d85826465bf082.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/I-SnJvMX_1jkTiziC5Fj8qALnEE=/1500x1000/ReturnonNewInvestedCapitalRONIC_final-876f572e974f413da8d85826465bf082.jpg"
+        },
         {
           "id": "https://www.investopedia.com/5-things-to-know-before-markets-open-june-26-2023-7553084",
           "author": "Terry Lane",
@@ -27508,21 +27548,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/HrnENt2wUuClHmR6cogqb4c2LlE=/7213x4809/GettyImages-1257763156-7f91fcfd1a1e4f9e8c656564d2ccd3f8.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/bonds/08/bond-market-basics.asp",
-          "author": "Eric Fontinelle",
-          "description": "Learn the basic lingo of bonds to unveil familiar market dynamics and open to the door to becoming a competent bond investor.",
-          "link": "https://www.investopedia.com/articles/bonds/08/bond-market-basics.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-28T00:47:49.000Z",
-          "wordCount": 8359,
-          "title": "4 Basic Things to Know About Bonds",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/O8sLpEAXNLHTLtWSG0WT7uhmzGc=/680x440/shutterstock_151894871-5bfc320546e0fb0083c1a809.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/O8sLpEAXNLHTLtWSG0WT7uhmzGc=/680x440/shutterstock_151894871-5bfc320546e0fb0083c1a809.jpg"
         }
       ]
     },
@@ -27531,6 +27556,86 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-losses-tesla-stock-slides-on-downgrade/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-06-26T13:17:29.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Dip After Last Week's Losses; Tesla Stock Slides On Another Downgrade",
+          "imageUrl": null
+        },
+        {
+          "id": "federal-reserves-message-to-the-bullish-stock-market-we-will-break-you-130024015.html",
+          "author": null,
+          "description": "Fight the Fed at your own risk.",
+          "link": "https://finance.yahoo.com/news/federal-reserves-message-to-the-bullish-stock-market-we-will-break-you-130024015.html",
+          "publishedOn": "2023-06-26T13:00:24.000Z",
+          "wordCount": 2468,
+          "title": "Federal Reserve's message to the bullish stock market: We will break you",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Y8fiE1vuGypIwtC3uk2nbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-05/d36c30d0-6cee-11e9-bf7b-789c59d220d9"
+        },
+        {
+          "id": "ibm-buys-apptio-stock-price-7978862?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The all-cash deal for the IT management company is subject to approvals and is expected to close later this year.",
+          "link": "https://www.barrons.com/articles/ibm-buys-apptio-stock-price-7978862?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-26T12:52:00.000Z",
+          "wordCount": 6728,
+          "title": "IBM Buys Software Firm Apptio for $4.6 Billion",
+          "imageUrl": "https://images.barrons.com/im-472019/social"
+        },
+        {
+          "id": "alphabet-google-stock-ai-search-microsoft-94ee1d0b?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Google-parent Alphabet might be a long-term winner in AI but UBS analysts downgraded the stock on its more immediate risks.",
+          "link": "https://www.barrons.com/articles/alphabet-google-stock-ai-search-microsoft-94ee1d0b?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-26T12:27:00.000Z",
+          "wordCount": 7688,
+          "title": "Alphabet Gets a Downgrade. Why This Analyst Thinks AI Is a Risk for the Stock.",
+          "imageUrl": "https://images.barrons.com/im-527789/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/tesla-stock-downgraded-again-cathie-wood-sells-7-million-in-tsla-shares/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-06-26T12:23:30.000Z",
+          "wordCount": null,
+          "title": "Tesla Stock Downgraded Yet Again; Cathie Wood Sells $7 Million In TSLA Shares",
+          "imageUrl": null
+        },
+        {
+          "id": "metas-mark-zuckerberg-led-reorganization-is-getting-company-back-to-its-secret-sauce-top-exec-120937932.html",
+          "author": null,
+          "description": "Change has been the norm for Meta the past 12 months. One top exec at the company says the change has worked creative wonders.",
+          "link": "https://finance.yahoo.com/news/metas-mark-zuckerberg-led-reorganization-is-getting-company-back-to-its-secret-sauce-top-exec-120937932.html",
+          "publishedOn": "2023-06-26T12:09:37.000Z",
+          "wordCount": 2427,
+          "title": "Meta's Mark Zuckerberg-led reorganization is getting company back to its 'secret sauce': top exec",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/OzD8Ufz.QDyP2Igjjr6qdg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/43bd6b20-1415-11ee-afce-c0c47931d794"
+        },
+        {
+          "id": "pacwest-stock-jumps-ares-loans-d219c7e7?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shares of the bank were hammered earlier in the year amid the turmoil among regional banks triggered by the collapse of Silicon Valley Bank.",
+          "link": "https://www.barrons.com/articles/pacwest-stock-jumps-ares-loans-d219c7e7?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-26T12:01:00.000Z",
+          "wordCount": 6741,
+          "title": "PacWest Bancorp Stock Jumps as Ares Buys $3.5 Billion of Loans",
+          "imageUrl": "https://images.barrons.com/im-775717/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-analysts-are-almost-100-certain-you-should-buy-these-10-stocks/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-06-26T12:00:26.000Z",
+          "wordCount": null,
+          "title": "Analysts Are Almost 100% Certain You Should Buy These 10 Stocks",
+          "imageUrl": null
+        },
         {
           "id": "pacwest-sells-3-5-billion-110010792.html",
           "author": null,
@@ -27542,6 +27647,46 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/NlOoBsA7QR8kurbAWwjjeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/191e6f69c4bb226c5e476619000dd22a"
         },
         {
+          "id": "ARGUS_2708_AnalystReport_1687780137000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_2708_AnalystReport_1687780137000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-06-26T11:48:57.000Z",
+          "wordCount": null,
+          "title": "Analyst Report: AMGEN Inc.",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_2849_AnalystReport_1687780137000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_2849_AnalystReport_1687780137000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-06-26T11:48:57.000Z",
+          "wordCount": null,
+          "title": "Analyst Report: CMS Energy Corporation",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_3588_AnalystReport_1687780137000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_3588_AnalystReport_1687780137000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-06-26T11:48:57.000Z",
+          "wordCount": null,
+          "title": "Analyst Report: Tapestry Inc",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_2965_AnalystReport_1687780137000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_2965_AnalystReport_1687780137000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-06-26T11:48:57.000Z",
+          "wordCount": null,
+          "title": "Analyst Report: Fedex Corp",
+          "imageUrl": null
+        },
+        {
           "id": "ibm-buys-apptio-deal-takeover-stock-it-cloud-7978862?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "The all-cash deal for the IT management company is subject to approvals and is expected to close later this year.",
@@ -27550,6 +27695,36 @@
           "wordCount": 6735,
           "title": "IBM Buys Software Firm Apptio for $4.6 Billion",
           "imageUrl": "https://images.barrons.com/im-472019/social"
+        },
+        {
+          "id": "ARGUS_36871_MarketOutlook_1687779274000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_36871_MarketOutlook_1687779274000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-06-26T11:34:34.000Z",
+          "wordCount": null,
+          "title": "Daily Spotlight: Wildfires Could Dampen Canada's Real GDP",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_36870_TechnicalAnalysis_1687779255000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_36870_TechnicalAnalysis_1687779255000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-06-26T11:34:15.000Z",
+          "wordCount": null,
+          "title": "Technical Assessment: Bearish in the Intermediate-Term",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_36868_MarketSummary_1687779237000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_36868_MarketSummary_1687779237000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-06-26T11:33:57.000Z",
+          "wordCount": null,
+          "title": "Market Digest: AMGN, CMS, TPR, FDX",
+          "imageUrl": null
         },
         {
           "id": "?src=A00220&yptr=yahoo",
