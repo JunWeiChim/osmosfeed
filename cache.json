@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "ac488b5a089850abbccbfb21ba0e8f5a",
+          "author": "Investopedia",
+          "description": "Meta Platforms launched a VR gamer subscription service that costs $7.99 a month, or $59.99 for a full year in a move that could boost its revenue stream.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b62d3e352b550389c8837b1ff296083454acd338d3da2df513e46c868873ac1861363cdab26b7e7f529e1edc32baa3ea43c1dcf334e05561eeebeff8c220a9c82ee",
+          "publishedOn": "2023-06-26T22:12:58.219Z",
+          "wordCount": 411,
+          "title": "Meta Platforms Launches Subscription Service for VR Gamers",
+          "imageUrl": null
+        },
+        {
           "id": "cfdfe4bfb17cb00f046df8ac379b067d",
           "author": "Investopedia",
           "description": "Carnival shares sank on Monday after the company's current quarter profit outlook missed expectations as costs climbed.",
@@ -1557,6 +1567,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6269672/",
+          "author": "Tim Wijkman-van Aalst",
+          "description": "Webwinkelgigant Amazon verdient meer geld aan de persoonsgegevens van klanten dan de verkoop van producten, volgens Stichting Data Bescherming Nederland. De claimstichting eist namens alle Nederlandse gebruikers een schadevergoeding, omdat het techbedrijf op grote schaal hun privacy zou schenden.",
+          "link": "https://www.nu.nl/tech/6269672/amazon-kan-nederlandse-massaclaim-tegemoetzien-vanwege-privacyschending.html",
+          "publishedOn": "2023-06-26T22:03:52.000Z",
+          "wordCount": 1075,
+          "title": "Amazon kan Nederlandse massaclaim tegemoetzien vanwege privacyschending",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/7zwxsw8a1cxc_sqr256.jpg/amazon-kan-nederlandse-massaclaim-tegemoetzien-vanwege-privacyschending.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/7zwxsw8a1cxc_sqr256.jpg/amazon-kan-nederlandse-massaclaim-tegemoetzien-vanwege-privacyschending.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6269673/",
+          "author": "Noémi van de Pol",
+          "description": "Mensen met een arbeidsbeperking staan ondanks de grote vraag naar personeel nog vaak aan de kant. Hoewel er de laatste tijd veel regelingen en afspraken zijn gemaakt om meer mensen met een beperking aan het werk te krijgen, is dit nog lang niet altijd terug te zien in de praktijk.",
+          "link": "https://www.nu.nl/economie/6269673/mensen-met-een-beperking-vallen-nog-steeds-buiten-de-boot-op-de-arbeidsmarkt.html",
+          "publishedOn": "2023-06-26T22:01:38.000Z",
+          "wordCount": 997,
+          "title": "Mensen met een beperking vallen nog steeds buiten de boot op de arbeidsmarkt",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/hi8xye7am84h_sqr256.jpg/mensen-met-een-beperking-vallen-nog-steeds-buiten-de-boot-op-de-arbeidsmarkt.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/hi8xye7am84h_sqr256.jpg/mensen-met-een-beperking-vallen-nog-steeds-buiten-de-boot-op-de-arbeidsmarkt.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6269725/",
           "author": "onze economieredactie",
@@ -8141,21 +8181,6 @@
             "url": "https://media.nu.nl/m/hgkxzx4asqfk_sqr256.jpg/minister-schreinemacher-europese-energietransitie-niet-mogelijk-zonder-china.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/hgkxzx4asqfk_sqr256.jpg/minister-schreinemacher-europese-energietransitie-niet-mogelijk-zonder-china.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6265556/",
-          "author": "onze nieuwsredactie",
-          "description": "De Britse regering werkt aan plannen om voor bepaalde basisproducten in de supermarkt een maximumprijs te stellen. Dat schrijft de Britse nieuwssite Sky News zondag op basis van regeringsbronnen. Supermarkten zouden op vrijwillige basis aan het plan kunnen meedoen.",
-          "link": "https://www.nu.nl/economie/6265556/britse-overheid-werkt-aan-plan-voor-maximumprijzen-voedsel.html",
-          "publishedOn": "2023-05-28T10:03:59.000Z",
-          "wordCount": 793,
-          "title": "Britse overheid werkt aan plan voor maximumprijzen voedsel",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/xkzx6i7axcbe_sqr256.jpg/britse-overheid-werkt-aan-plan-voor-maximumprijzen-voedsel.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/xkzx6i7axcbe_sqr256.jpg/britse-overheid-werkt-aan-plan-voor-maximumprijzen-voedsel.jpg"
         }
       ]
     },
@@ -8164,6 +8189,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/personal-finance/091014/should-you-open-foreign-savings-account.asp",
+          "author": "Kate Anania",
+          "description": "Does opening a savings account in an overseas bank make sense for your money? Explore the pros and cons and how to launch the process.",
+          "link": "https://www.investopedia.com/articles/personal-finance/091014/should-you-open-foreign-savings-account.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-26T20:59:28.000Z",
+          "wordCount": 6741,
+          "title": "Foreign Savings Account",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ppxOEeACj525JQBtEU7vmONBdDk=/5313x3542/INV_ForeignSavingsAccounts_GettyImages-486633022-0319359a0e7e4824afe3cbf301f9e390.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ppxOEeACj525JQBtEU7vmONBdDk=/5313x3542/INV_ForeignSavingsAccounts_GettyImages-486633022-0319359a0e7e4824afe3cbf301f9e390.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/trading/02/110502.asp",
           "author": "Glenn Curtis",
@@ -28146,6 +28186,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/tesla-deliveries-q2-record-tesla-stock/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-06-26T20:44:15.000Z",
+          "wordCount": null,
+          "title": "Tesla Deliveries Should Hit Another Record In Q2, So Why The Wave Of TSLA Stock Downgrades?",
+          "imageUrl": null
+        },
         {
           "id": "wells-fargo-predicts-125-rally-200048295.html",
           "author": null,
@@ -49605,46 +49655,6 @@
           "wordCount": 3097,
           "title": "Author discovers 'most important financial skill' for achieving financial freedom",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/qTpPSFCKEUEvjl_0EPttuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/beeecbd0-fb11-11ed-9df3-bbfbb883be01"
-        },
-        {
-          "id": "auddev&yptr=yahoo",
-          "author": null,
-          "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-          "link": "https://www.ft.com/cms/s/e8dc2264-6b8d-4ed5-8bbd-e4a67e7d1e46,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev&yptr=yahoo",
-          "publishedOn": "2023-05-28T10:00:37.000Z",
-          "wordCount": 1654,
-          "title": "Numbers taking US accountancy exams drop to lowest level in 17 years",
-          "imageUrl": null
-        },
-        {
-          "id": "us-debt-ceiling-crisis-risks-093000037.html",
-          "author": null,
-          "description": "A tentative deal between the White House and Republicans to raise the US debt ceiling could bring temporary relief to the global financial market but there is still the risk of collateral damage, Chinese observers warned on the weekend. US President Joe Biden and House Speaker Kevin McCarthy reached an agreement in principle on Saturday on a deal that is believed to include a two-year debt limit increase and a cap on non-defence spending by the government. The agreement still needs the approval",
-          "link": "https://finance.yahoo.com/news/us-debt-ceiling-crisis-risks-093000037.html",
-          "publishedOn": "2023-05-28T09:30:00.000Z",
-          "wordCount": 2435,
-          "title": "US debt ceiling crisis: risks still lurk for China despite prospect of deal, analysts say",
-          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
-        },
-        {
-          "id": "chinese-app-factory-newborn-town-093000276.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/chinese-app-factory-newborn-town-093000276.html",
-          "publishedOn": "2023-05-28T09:30:00.000Z",
-          "wordCount": null,
-          "title": "Chinese app factory Newborn Town has designs on Southeast Asia with many smaller platforms, flipping the TikTok model",
-          "imageUrl": null
-        },
-        {
-          "id": "tech-stock-rally-leaves-small-caps-in-the-dust-2ffaa0ad?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "One measure shows large-cap stocks beating smaller companies by the widest margin in 25 years.",
-          "link": "https://www.wsj.com/articles/tech-stock-rally-leaves-small-caps-in-the-dust-2ffaa0ad?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-05-28T09:30:00.000Z",
-          "wordCount": 8475,
-          "title": "Tech Stock Rally Leaves Small-Caps in the Dust",
-          "imageUrl": "https://images.wsj.net/im-789158/social"
         }
       ]
     }
