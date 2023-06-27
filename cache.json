@@ -771,6 +771,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "f6ad0f3e5c95ebc581d5edd15d8d57fd",
+          "author": "Investopedia",
+          "description": "EV truck maker Lordstown Motors files for bankruptcy and online brokerage Robinhood cuts 7% of its workforce. Here’s what investors need to know today.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df4f2a56d06e81209c9d0a69cdab3fa7fbe66db0bfc37ff57eba6758d7611c5f0654",
+          "publishedOn": "2023-06-27T12:28:25.769Z",
+          "wordCount": 411,
+          "title": "5 Things to Know Before Markets Open",
+          "imageUrl": null
+        },
+        {
           "id": "3fc05adc1a19cb6c7b3d4ffeb4909660",
           "author": "Investopedia",
           "description": "Markets Open Last Week of Q2 on Monday, June 26 in the Red as Tech Stocks Slide.",
@@ -1567,6 +1577,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6269812/",
+          "author": "onze economieredactie",
+          "description": "De Europese Centrale Bank zal de rentetarieven in juli waarschijnlijk weer verhogen, zo kondigde ECB-president Christine Lagarde dinsdag aan. Daarmee komt het hoogste renteniveau sinds het begin van de euro in zicht.",
+          "link": "https://www.nu.nl/economie/6269812/hoogste-ecb-rente-ooit-nabij-want-reeks-verhogingen-is-nog-niet-voorbij.html",
+          "publishedOn": "2023-06-27T11:50:31.000Z",
+          "wordCount": 1091,
+          "title": "Hoogste ECB-rente ooit nabij, want reeks verhogingen is nog niet voorbij",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/yw7xqvkaqke2_sqr256.jpg/hoogste-ecb-rente-ooit-nabij-want-reeks-verhogingen-is-nog-niet-voorbij.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/yw7xqvkaqke2_sqr256.jpg/hoogste-ecb-rente-ooit-nabij-want-reeks-verhogingen-is-nog-niet-voorbij.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6269802/",
           "author": "onze economieredactie",
@@ -8339,6 +8364,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/british-royal-family-wealth-6741349",
+          "author": "Nathan Reiff",
+          "description": "The British royal family has a massive portfolio of property, art, and more. But calculating its value can be very difficult.",
+          "link": "https://www.investopedia.com/british-royal-family-wealth-6741349?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-27T11:38:55.000Z",
+          "wordCount": 6674,
+          "title": "How Wealthy Is the British Royal Family?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/FQsF--iSiDeARN-jhtYqHiBBh5U=/1024x683/INV_BritishRoyalFamilyWealth_0922_GettyImages-1243369372-40426561e7f64ef5a0f06d7470ba406e.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/FQsF--iSiDeARN-jhtYqHiBBh5U=/1024x683/INV_BritishRoyalFamilyWealth_0922_GettyImages-1243369372-40426561e7f64ef5a0f06d7470ba406e.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/5-things-to-know-before-markets-open-june-27-2023-7553758",
+          "author": "Terry Lane",
+          "description": "EV truck maker Lordstown Motors files for bankruptcy and online brokerage Robinhood cuts 7% of its workforce. Here’s what investors need to know today.",
+          "link": "https://www.investopedia.com/5-things-to-know-before-markets-open-june-27-2023-7553758?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-06-27T11:25:51.000Z",
+          "wordCount": 5450,
+          "title": "5 Things to Know Before Markets Open",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/MBLL18_hkxE8F9l0RGEeb_ODEPk=/1892x1224/Lordstown_Motors_Corp-2a75419e733341d9bb8742e2cad15ec0.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/MBLL18_hkxE8F9l0RGEeb_ODEPk=/1892x1224/Lordstown_Motors_Corp-2a75419e733341d9bb8742e2cad15ec0.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/o/offshore-banking-unit.asp",
           "author": "Julia Kagan",
@@ -28043,36 +28098,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/cfGHvQDpd_9_wam0D9fRSn0LnoI=/680x454/shutterstock548307841vc-5bfc2b2d46e0fb0083c06c19.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/trading/how-fiat-currency-crises-drive-nations-toward-cryptocurrencies/",
-          "author": "Nathan Reiff",
-          "description": "Countries like El Salvador, Iran, and Venezuela have turned to cryptocurrencies as fiats have experienced inflation and other troubles.",
-          "link": "https://www.investopedia.com/trading/how-fiat-currency-crises-drive-nations-toward-cryptocurrencies/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-28T23:47:09.000Z",
-          "wordCount": 5802,
-          "title": "How Fiat Currency Crises Drive Nations Toward Cryptocurrencies",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/LoHfiohTXb6ZHrUEfjNu55oUGcA=/680x440/thinkstockphotos186595560-5bfc2b25c9e77c00517fbfb1.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/LoHfiohTXb6ZHrUEfjNu55oUGcA=/680x440/thinkstockphotos186595560-5bfc2b25c9e77c00517fbfb1.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/mortgage/mortgage-rates/points/",
-          "author": "Lisa Smith",
-          "description": "Do you want to buy a house or apartment with lower upfront costs? Learn how mortgage points can help you pay less for your home.",
-          "link": "https://www.investopedia.com/mortgage/mortgage-rates/points/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-28T23:15:38.000Z",
-          "wordCount": 7641,
-          "title": "How Mortgage Points Work",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/7WMmVhuNcd709R-iTKDM3iWYSN0=/1500x1000/GettyImages-931812572-a67e660bd8c2476a9d7f87e76a97b158.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/7WMmVhuNcd709R-iTKDM3iWYSN0=/1500x1000/GettyImages-931812572-a67e660bd8c2476a9d7f87e76a97b158.jpg"
         }
       ]
     },
@@ -28081,6 +28106,126 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-key-economic-data-walgreens-dives-on-earnings/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-06-27T12:12:03.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Fall Ahead Of Key Economic Data; Walgreens Dives On Earnings Miss",
+          "imageUrl": null
+        },
+        {
+          "id": "walgreens-stock-price-outlook-consumer-cd63c914?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "A plunge in demand for Covid-19 related services, and increasingly cautious consumers focused on value are behind the pharmacy chain's disappointing third-quarter update.",
+          "link": "https://www.barrons.com/articles/walgreens-stock-price-outlook-consumer-cd63c914?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-27T11:58:00.000Z",
+          "wordCount": 6744,
+          "title": "Walgreens Stock Tumbles. It  Slashes Outlook as Shoppers Grow More Cautious.",
+          "imageUrl": "https://images.barrons.com/im-470276/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/cathie-wood-stock-top-ark-invest-stock-expected-to-deliver-772-earnings-growth/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-06-27T11:45:23.000Z",
+          "wordCount": null,
+          "title": "This Top Cathie Wood Stock Is Expected To Deliver 772% Earnings Growth — And It's Near A Buy Point",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_3681_AnalystReport_1687865860000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_3681_AnalystReport_1687865860000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-06-27T11:37:40.000Z",
+          "wordCount": null,
+          "title": "Analyst Report: Fortive Corp",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_3685_AnalystReport_1687865860000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_3685_AnalystReport_1687865860000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-06-27T11:37:40.000Z",
+          "wordCount": null,
+          "title": "Analyst Report: United Rentals, Inc.",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_3404_AnalystReport_1687865860000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_3404_AnalystReport_1687865860000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-06-27T11:37:40.000Z",
+          "wordCount": null,
+          "title": "Analyst Report: Suburban Propane Partners L P",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_36886_TechnicalAnalysis_1687864977000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_36886_TechnicalAnalysis_1687864977000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-06-27T11:22:57.000Z",
+          "wordCount": null,
+          "title": "Technical Assessment: Bearish in the Intermediate-Term",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_36884_MarketSummary_1687864960000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_36884_MarketSummary_1687864960000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-06-27T11:22:40.000Z",
+          "wordCount": null,
+          "title": "Market Digest: CCL, SPH, URI, FTV",
+          "imageUrl": null
+        },
+        {
+          "id": "5-things-to-know-before-markets-open-june-27-2023-7553758?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "EV truck maker Lordstown Motors files for bankruptcy and online brokerage Robinhood cuts 7% of its workforce. Here’s what investors need to know today.",
+          "link": "https://www.investopedia.com/5-things-to-know-before-markets-open-june-27-2023-7553758?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-06-27T11:15:56.000Z",
+          "wordCount": 5450,
+          "title": "5 Things to Know Before Markets Open",
+          "imageUrl": "https://www.investopedia.com/thmb/enT9t4UFXGR0qlx4qc2f7FyS-KA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Lordstown_Motors_Corp-2a75419e733341d9bb8742e2cad15ec0.jpg"
+        },
+        {
+          "id": "ARGUS_36883_TopBottomInsiderActivity_1687862762000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_36883_TopBottomInsiderActivity_1687862762000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-06-27T10:46:02.000Z",
+          "wordCount": null,
+          "title": "Daily – Vickers Top Buyers & Sellers for 06/27/2023",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_36882_InsiderActivity_1687862762000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_36882_InsiderActivity_1687862762000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-06-27T10:46:02.000Z",
+          "wordCount": null,
+          "title": "Daily – Vickers Top Insider Picks for 06/27/2023",
+          "imageUrl": null
+        },
+        {
+          "id": "what-to-know-today-af6ee3d?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Lordstown files for bankruptcy blaming Apple supplier Foxconn, weight-loss drugs take center stage with Lilly test results, and other news to start your day.",
+          "link": "https://www.barrons.com/articles/what-to-know-today-af6ee3d?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-27T10:27:00.000Z",
+          "wordCount": 6756,
+          "title": "Fed Will Pay High Price to Bring Down Inflation. Investors Should Take Note.",
+          "imageUrl": "https://images.barrons.com/im-802976/social"
+        },
         {
           "id": "j-js-8-9-billion-100409278.html",
           "author": null,
@@ -28230,6 +28375,16 @@
           "wordCount": null,
           "title": "Billionaire investor Ron Baron says inflation will propel major stock gains in the coming decades but everything will be 'twice as expensive'",
           "imageUrl": null
+        },
+        {
+          "id": "deceiving-disgusting-readers-react-rise-212607952.html",
+          "author": null,
+          "description": "A class-action lawsuit filed against the restaurant group that owns Jon & Vinny's has started a larger conversation on the ethics of service fees and tipping. L.A. Times readers share their thoughts.",
+          "link": "https://finance.yahoo.com/news/deceiving-disgusting-readers-react-rise-212607952.html",
+          "publishedOn": "2023-06-26T21:26:07.000Z",
+          "wordCount": 2724,
+          "title": "'Deceiving and disgusting': Readers react to the rise of restaurant service fees",
+          "imageUrl": "https://media.zenfs.com/en/la_times_articles_853/c4c9d14cf3528f0e6cc0b7c39c957c98"
         },
         {
           "id": "frugal-billionaire-warren-buffett-drives-143514827.html",
@@ -49440,46 +49595,6 @@
           "wordCount": 2222,
           "title": "Asian shares, US futures rise on debt ceiling deal",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/f618754028fcd5c8606cf8a24be2fc5e"
-        },
-        {
-          "id": "us-stock-futures-rise-dollar-231234882.html",
-          "author": null,
-          "description": "(Bloomberg) -- US stock futures advanced as appetite for risk taking returned to global markets following the deal between President Joe Biden and House Speaker Kevin McCarthy on the US debt ceiling. Most Read from BloombergBiden, McCarthy Forge Debt Deal in Bid to Avert US DefaultTraders Ready to Embrace Riskier Assets After Debt-Cap DealWorld’s Richest Man Throws In Towel on Beverly Hills HotelKey Takeaways From Deal Biden, GOP Sealed to Avert US DefaultTexas AG Ken Paxton Impeached by Republi",
-          "link": "https://finance.yahoo.com/news/us-stock-futures-rise-dollar-231234882.html",
-          "publishedOn": "2023-05-29T00:12:28.000Z",
-          "wordCount": 2729,
-          "title": "US Stock Futures, Asian Equities Rise on Debt Deal: Markets Wrap",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/789ca06af067cfebf63be04f91ef5191"
-        },
-        {
-          "id": "oil-climbs-us-leaders-strike-234329348.html",
-          "author": null,
-          "description": "(Reuters) -Oil prices rose on Monday after U.S. leaders reached a tentative debt ceiling deal, possibly averting a default in the world's largest economy and oil consumer, although concerns about further interest rate hikes capped gains.  U.S. President Joe Biden and House Speaker Kevin McCarthy on the weekend forged an agreement to suspend the $31.4 trillion debt ceiling and cap government spending for the next two years.",
-          "link": "https://finance.yahoo.com/news/oil-climbs-us-leaders-strike-234329348.html",
-          "publishedOn": "2023-05-28T23:43:29.000Z",
-          "wordCount": 1979,
-          "title": "Oil gains after US leaders strike debt deal",
-          "imageUrl": "https://media.zenfs.com/en/reuters.com/0701a39ea21806d8e131de7dce959dbd"
-        },
-        {
-          "id": "oil-climbs-us-leaders-strike-234329923.html",
-          "author": null,
-          "description": "Oil prices rose in early Asian trade on Monday after U.S. leaders reached a tentative debt ceiling deal, possibly averting a default in the world's largest economy and oil consumer.  Brent crude futures climbed 39 cents, or 0.5%, to $77.34 a barrel by 2317 GMT, while U.S. West Texas Intermediate crude was at $73.12 a barrel, up 45 cents, or 0.6%.  U.S. President Joe Biden and House Speaker Kevin McCarthy on Saturday reached an agreement in principle to suspend the $31.4 trillion debt ceiling.",
-          "link": "https://finance.yahoo.com/news/oil-climbs-us-leaders-strike-234329923.html",
-          "publishedOn": "2023-05-28T23:43:29.000Z",
-          "wordCount": 2097,
-          "title": "Oil climbs after US leaders strike provisional debt deal",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/0701a39ea21806d8e131de7dce959dbd"
-        },
-        {
-          "id": "wall-street-best-analyst-suggests-233944013.html",
-          "author": null,
-          "description": "Today, investors have access to huge amounts of information that can help in pointing towards the best stocks to pick up. So much information, in fact, that it can often result in overload and confusion, rather than providing a clear signal. Therefore, it might be best to stick to an uncomplicated regime and let the stock picking experts lead the way. And on Wall Street, right now Jeffries analyst Mark Lipacis is the best of the lot. According to TipRanks, a platform that tracks and measures the",
-          "link": "https://finance.yahoo.com/news/wall-street-best-analyst-suggests-233944013.html",
-          "publishedOn": "2023-05-28T23:39:44.000Z",
-          "wordCount": 2898,
-          "title": "Wall Street’s Best Analyst Suggests 2 Semiconductor Stocks to Buy — Here’s What Makes Them Stand Out",
-          "imageUrl": "https://media.zenfs.com/en/tipranks_452/98840178399ba5093f6980dc39d28d2a"
         }
       ]
     }
