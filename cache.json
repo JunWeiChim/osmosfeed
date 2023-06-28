@@ -1658,6 +1658,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6269991/",
+          "author": "Thijs Rösken",
+          "description": "Werknemers met een vaste baan krijgen bij de verdeling van diensten steeds vaker voorrang op zzp'ers. Zo is de voorrang voor sociaal werkers en medewerkers in de gehandicaptenzorg vandaag opgenomen in nieuwe cao's. Ook in de verpleegzorg mag vast personeel eerder kiezen dan zelfstandigen.",
+          "link": "https://www.nu.nl/economie/6269991/vaste-zorgwerknemers-krijgen-bij-het-kiezen-van-diensten-voorrang-op-zzpers.html",
+          "publishedOn": "2023-06-28T12:51:31.000Z",
+          "wordCount": 1080,
+          "title": "Vaste zorgwerknemers krijgen bij het kiezen van diensten voorrang op zzp'ers",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/lg4xfyeacdgl_sqr256.jpg/vaste-zorgwerknemers-krijgen-bij-het-kiezen-van-diensten-voorrang-op-zzpers.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/lg4xfyeacdgl_sqr256.jpg/vaste-zorgwerknemers-krijgen-bij-het-kiezen-van-diensten-voorrang-op-zzpers.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6269971/",
           "author": "onze economieredactie",
           "description": "Leraren eisen een loonsverhoging van 12 procent en willen daarvoor in de herfst stakingen organiseren. De basis- en middelbare scholen willen de lonen wel verhogen, maar zien te weinig financiële ruimte. Daarom vragen ze of het ministerie van Onderwijs kan bijspringen.",
@@ -28733,21 +28748,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/-IVjGS8mAO2bfGvVFO6Al_uyVG0=/3290x2554/us-it-lifestyle-amazon-internet-technology-economy-computers-1148404624-912d07a571ef45fbbe2c6a0bcd3afb59.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/f/fastmoving-consumer-goods-fmcg.asp",
-          "author": "Will Kenton",
-          "description": "Fast-moving consumer goods (FMCG) are cheaper products that sell quickly such as milk, gum, fruit and vegetables, soda, beer, and common drugs like aspirin.",
-          "link": "https://www.investopedia.com/terms/f/fastmoving-consumer-goods-fmcg.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-05-30T00:50:17.000Z",
-          "wordCount": 7021,
-          "title": "Fast-Moving Consumer Goods (FMCG) Industry: Definition, Types, and Profitability",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/uUImG-GHDQEax4DxhXNJmUb7UM8=/1500x1000/Fast-Moving-Consumer-Goods-509b235dd5e74d5fb8dedb02271bd24c.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/uUImG-GHDQEax4DxhXNJmUb7UM8=/1500x1000/Fast-Moving-Consumer-Goods-509b235dd5e74d5fb8dedb02271bd24c.jpg"
         }
       ]
     },
@@ -28756,6 +28756,76 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-powell-speech-amd-stock-nvidia-slide-on-ai-chip-ban-to-china/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-06-28T12:57:30.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Fall Ahead Of Powell Speech; AMD, Nvidia Slide On AI Chip Export Ban Report",
+          "imageUrl": null
+        },
+        {
+          "id": "M7EnGEPs9npsl3fbT6G6?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Barron's live coverage of financial markets, from stocks and bonds to oil and crypto.",
+          "link": "https://www.barrons.com/livecoverage/stock-market-today-062823/card/M7EnGEPs9npsl3fbT6G6?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-28T12:51:00.000Z",
+          "wordCount": 4895,
+          "title": "These Stocks Are Moving the Most Today: Nvidia, AMD, Micron, General Mills, and More",
+          "imageUrl": "https://images.barrons.com/im-784019/social"
+        },
+        {
+          "id": "general-mills-gis-q4-earnings-report-2023-ca39a948?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The maker of Cheerios and Bisquick pancake mix said its top line rose 3%, boosted by higher prices.",
+          "link": "https://www.wsj.com/articles/general-mills-gis-q4-earnings-report-2023-ca39a948?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-28T12:27:00.000Z",
+          "wordCount": 8367,
+          "title": "General Mills Posts Underwhelming Sales as Retailers Tighten Inventories",
+          "imageUrl": "https://images.wsj.net/im-806984/social"
+        },
+        {
+          "id": "nvidia-amd-stocks-china-chip-tensions-748e9735?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The White House is considering new rules on exports of artificial intelligence chips, including those from Nvidia, to China, The Wall Street Journal reported.",
+          "link": "https://www.barrons.com/articles/nvidia-amd-stocks-china-chip-tensions-748e9735?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-28T12:06:00.000Z",
+          "wordCount": 6831,
+          "title": "Nvidia Could Take $3 Billion Hit From New U.S. Chip Rules on China. Buy the Stock Dip.",
+          "imageUrl": "https://images.barrons.com/im-807638/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-missed-the-rally-so-far-10-stocks-start-soaring-right-now/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-06-28T12:00:08.000Z",
+          "wordCount": null,
+          "title": "Missed The S&P 500 Rally So Far? 10 Stocks Start Soaring Right Now",
+          "imageUrl": null
+        },
+        {
+          "id": "boeing-supplier-spirit-aerosystems-union-vote-979df6d3?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Spirit AeroSystems shut its plant this past week after its workers rejected a new labor deal. A new vote has been scheduled for Thursday.",
+          "link": "https://www.barrons.com/articles/boeing-supplier-spirit-aerosystems-union-vote-979df6d3?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-06-28T11:54:00.000Z",
+          "wordCount": 7680,
+          "title": "A Boeing Supplier Schedules Union Vote. The Stocks Are Up.",
+          "imageUrl": "https://images.barrons.com/im-297981/social"
+        },
+        {
+          "id": "ask-advisor-1-5m-invested-113644080.html",
+          "author": null,
+          "description": "I'm trying to nail down what metrics I should use to evaluate how well my retirement account is being managed. I've vetted the company that \"actively\" manages my account. I have $1.5 million invested in a 50/50 mix of stocks … Continue reading → The post Ask an Advisor: I Have $1.5M Invested With My Advisor and I Pay a 0.75% Fee. How Do I Know If I'm Getting the ‘Best Bang for My Buck?' appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/ask-advisor-1-5m-invested-113644080.html",
+          "publishedOn": "2023-06-28T11:36:44.000Z",
+          "wordCount": 2627,
+          "title": "Ask an Advisor: I Have $1.5M Invested With My Advisor and I Pay a 0.75% Fee. How Do I Know If I'm Getting the ‘Best Bang for My Buck?'",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/17d6eeb5a8eb7241b6c6dee485c2d4f6"
+        },
         {
           "id": "ARGUS_36900_MarketOutlook_1687951686000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "author": null,
@@ -28885,6 +28955,16 @@
           "wordCount": 6844,
           "title": "These Stocks Are Moving the Most Today: Nvidia, AMD, AeroVironment, Micron, and More",
           "imageUrl": "https://images.barrons.com/im-805893/social"
+        },
+        {
+          "id": "meta-splurged-2-3-million-084255336.html",
+          "author": null,
+          "description": "But Meta spent even more on one of its other executives.",
+          "link": "https://finance.yahoo.com/news/meta-splurged-2-3-million-084255336.html",
+          "publishedOn": "2023-06-28T08:42:55.000Z",
+          "wordCount": 2244,
+          "title": "Meta splurged $2.3 million on Mark Zuckerberg’s private jet travel last year—and the most among the S&P 500",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/3uDU8rtM9uZ2pPpIrGuMzw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NzI-/https://media.zenfs.com/en/fortune_175/3ced4f5a977bf50ca97bfd53dfe445fb"
         },
         {
           "id": "crypto-miners-sent-over-1b-073647777.html",
@@ -50435,36 +50515,6 @@
           "wordCount": 2172,
           "title": "Arm Chief Pitches Chip Designer as AI Play in Buildup to IPO",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/XGh9vEhNiss43yyl8gAfgw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDQ-/https://media.zenfs.com/en/bloomberg_technology_68/c5674d6019c1ff29d931fb8cf8a9de03"
-        },
-        {
-          "id": "cathie-wood-says-nvidia-too-011707869.html",
-          "author": null,
-          "description": "Investing.com -- Cathie Wood, manager of the ARK Innovation exchange-traded fund (NYSE:ARKK), said on late-Monday that recent stock market darling Nvidia Corporation (NASDAQ:NVDA) was priced “ahead of the curve,” and that Tesla Inc (NASDAQ:TSLA) was positioned to benefit from recent breakthroughs in artificial intelligence.",
-          "link": "https://finance.yahoo.com/news/cathie-wood-says-nvidia-too-011707869.html",
-          "publishedOn": "2023-05-30T01:17:07.000Z",
-          "wordCount": 2109,
-          "title": "Cathie Wood says Nvidia too expensive, Tesla to benefit from AI boom",
-          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
-        },
-        {
-          "id": "treasury-bills-climb-traders-back-010545533.html",
-          "author": null,
-          "description": "(Bloomberg) -- Soon-to-mature Treasury bills rallied as trading resumed after the Memorial Day holiday, following a tentative deal over the debt ceiling which eased concerns of a US default. Most Read from BloombergWorld’s Most Valuable Chipmaker Nvidia Unveils More AI Products After $184 Billion RallyDebt-Limit Deal Brings Relief Tinged by Caution: Markets WrapManchin Gets Mountain Valley Pipeline Deal Into Debt BillTraders Ready to Embrace Riskier Assets After Debt-Cap DealBiden, McCarthy Forg",
-          "link": "https://finance.yahoo.com/news/treasury-bills-climb-traders-back-010545533.html",
-          "publishedOn": "2023-05-30T01:05:45.000Z",
-          "wordCount": 2115,
-          "title": "Treasury Bills Climb as Traders Bet Congress Will Pass Debt Deal",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/b2f9a1c78baced25a7f4ccb6110023f2"
-        },
-        {
-          "id": "reason-stock-market-stayed-relatively-164110240.html",
-          "author": null,
-          "description": "Quant funds, which use computer models to trade, are helping calm the markets at a time of uncertainty.",
-          "link": "https://finance.yahoo.com/news/reason-stock-market-stayed-relatively-164110240.html",
-          "publishedOn": "2023-05-30T00:41:10.000Z",
-          "wordCount": 2340,
-          "title": "The reason the stock market has stayed relatively stable amid economic chaos: computer-driven trading",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ovb5Fq4_3MPxiJjLBFo9vg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/44fba3c6a7dca82e62ad8f5a7dfca386"
         }
       ]
     }
