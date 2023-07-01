@@ -1638,6 +1638,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6270175/",
+          "author": "Jeroen Kraan",
+          "description": "Vanaf vandaag betaal je een toeslag voor wegwerpbekers of -bakjes van plastic. Ook moet het overal mogelijk zijn om je koffie in een herbruikbare beker te krijgen. Die is beter voor het klimaat, als we hem inderdaad netjes hergebruiken.",
+          "link": "https://www.nu.nl/klimaat/6270175/statiegeldbeker-is-beter-voor-het-klimaat-als-we-hem-maar-netjes-inleveren.html",
+          "publishedOn": "2023-07-01T15:56:55.000Z",
+          "wordCount": 1417,
+          "title": "NU+ | Statiegeldbeker is beter voor het klimaat, als we hem maar netjes inleveren",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/1wwx3d0avhw6_sqr256.jpg/statiegeldbeker-is-beter-voor-het-klimaat-als-we-hem-maar-netjes-inleveren.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/1wwx3d0avhw6_sqr256.jpg/statiegeldbeker-is-beter-voor-het-klimaat-als-we-hem-maar-netjes-inleveren.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6270455/",
           "author": "onze nieuwsredactie",
           "description": "China heeft er bij Nederland op aangedrongen geen misbruik te maken van exportbeperkingen op producten uit de chipindustrie. Dat staat in een verklaring van het Chinese ministerie van Handel.",
@@ -8394,6 +8409,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/d/depressed.asp",
+          "author": "James Chen",
+          "description": "Depressed is a state or condition of a market characterized by slumping prices, low volume, and lack of buyers.",
+          "link": "https://www.investopedia.com/terms/d/depressed.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-01T15:32:18.000Z",
+          "wordCount": 6225,
+          "title": "Depressed Definition",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/jWdLxQJYwHg4Zy41nFUC-2KgoBQ=/205x136/activetrading8-5bfc2b99c9e77c00587706c0.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/jWdLxQJYwHg4Zy41nFUC-2KgoBQ=/205x136/activetrading8-5bfc2b99c9e77c00587706c0.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/j/jolts.asp",
+          "author": "Will Kenton",
+          "description": "The Job Openings and Labor Turnover Survey (JOLTS) counts U.S. job vacancies and separations, including the number of workers quitting their jobs.",
+          "link": "https://www.investopedia.com/terms/j/jolts.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-01T15:16:35.000Z",
+          "wordCount": 6326,
+          "title": "Job Openings and Labor Turnover Survey (JOLTS): Meaning, Overview",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/PntyT-AaWMEvRl6rSHL6nXdtONE=/2121x1414/job_search-1036265652-d0dca2ee6c4e4f2bbedbb29c923ebb2a.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/PntyT-AaWMEvRl6rSHL6nXdtONE=/2121x1414/job_search-1036265652-d0dca2ee6c4e4f2bbedbb29c923ebb2a.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/1/2011-debt-ceiling-crisis.asp",
+          "author": "The Investopedia Team",
+          "description": "The 2011 U.S. Debt Ceiling Crisis was a contentious debate on the borrowing limit of the United States government in July 2011.",
+          "link": "https://www.investopedia.com/terms/1/2011-debt-ceiling-crisis.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-01T15:10:10.000Z",
+          "wordCount": 7592,
+          "title": "2011 U.S. Debt Ceiling Crisis Definition",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/XeCZ6rEplf_izDIOGKBBEzfEe4g=/2121x1414/GettyImages-951695678-9d8605c12bff4d0da3c464a899621b21.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/XeCZ6rEplf_izDIOGKBBEzfEe4g=/2121x1414/GettyImages-951695678-9d8605c12bff4d0da3c464a899621b21.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/b/bond-rating-agencies.asp",
           "author": "James Chen",
@@ -28865,6 +28925,16 @@
           "wordCount": 2024,
           "title": "Nokia renews patent license agreement with Apple, covering 5G and other technologies",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/p0_U.UeSxt0S61NI0r9rlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/12fea2536e5300e4849d450b7139ecea"
+        },
+        {
+          "id": "grantham-warns-ai-boom-wont-prevent-market-bubble-from-bursting-fd7f5a98?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Money manager GMO betting big on cheap stocks and bonds backed by commercial real estate",
+          "link": "https://www.wsj.com/articles/grantham-warns-ai-boom-wont-prevent-market-bubble-from-bursting-fd7f5a98?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-01T09:30:00.000Z",
+          "wordCount": 9454,
+          "title": "Grantham Warns AI Boom Won’t Prevent Market Bubble From Bursting",
+          "imageUrl": "https://images.wsj.net/im-809194/social"
         },
         {
           "id": "trading-legend-art-cashin-skeptical-014530569.html",
@@ -50105,16 +50175,6 @@
           "wordCount": 2155,
           "title": "4 big analyst picks: C3.ai upgraded on AI mega-trend",
           "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
-        },
-        {
-          "id": "putin-war-ignites-backlash-against-040100975.html",
-          "author": null,
-          "description": "(Bloomberg) -- All around the world, a backlash is brewing against the hegemony of the US dollar.Most Read from BloombergChina Is Drilling a 10,000-Meter-Deep Hole Into the EarthInside the Making of Redfall, Xbox’s Latest MisfireWall Street Banks Are Using AI to Rewire the World of FinanceBillionaire Perot Warns of Real Estate Recession as Loans Dry UpApple Plans Major Retail Push With New Stores Across China, USBrazil and China recently struck a deal to settle trade in their local currencies, s",
-          "link": "https://finance.yahoo.com/news/putin-war-ignites-backlash-against-040100975.html",
-          "publishedOn": "2023-06-02T04:01:00.000Z",
-          "wordCount": 3215,
-          "title": "Putin’s War Ignites Backlash Against US Dollar Across the World",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/14N0NQY.MRA5fNyTyJ5Cwg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/52334b568dd96966d74599baa0646f98"
         }
       ]
     }
