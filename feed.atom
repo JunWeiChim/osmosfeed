@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-01T01:24:53.208Z</updated>
+    <updated>2023-07-01T03:03:56.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Crude Oil Affects Natural Gas Prices]]></title>
+        <id>https://www.investopedia.com/articles/economics/08/crude-and-gas-prices.asp</id>
+        <link href="https://www.investopedia.com/articles/economics/08/crude-and-gas-prices.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
+        <updated>2023-07-01T02:21:34.000Z</updated>
+        <summary type="html"><![CDATA[Learn about the origins of oil, how its price is determined, and what effect its correlation with natural gas prices has on the global economy.]]></summary>
+        <author>
+            <name>Nick Lioudis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stock Dividend: What It Is and How It Works, With Example]]></title>
+        <id>https://www.investopedia.com/terms/s/stockdividend.asp</id>
+        <link href="https://www.investopedia.com/terms/s/stockdividend.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
+        <updated>2023-07-01T01:29:44.000Z</updated>
+        <summary type="html"><![CDATA[A stock dividend is a payment to shareholders that is made in additional shares rather than in cash.]]></summary>
+        <author>
+            <name>James Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are 409A Plans?]]></title>
+        <id>https://www.investopedia.com/terms/n/nqdc.asp</id>
+        <link href="https://www.investopedia.com/terms/n/nqdc.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
+        <updated>2023-07-01T01:24:46.000Z</updated>
+        <summary type="html"><![CDATA[A 409A plan is a non-qualified deferred compensation plan for compensation that has been earned but not received. It can be a tax-saving strategy for high earners.]]></summary>
+        <author>
+            <name>Will Kenton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open Interest: Definition, How It Works, and Example]]></title>
         <id>https://www.investopedia.com/terms/o/openinterest.asp</id>
@@ -14,6 +44,15 @@
         <summary type="html"><![CDATA[Open interest is the total number of outstanding derivative contracts, such as options or futures, that have not been settled.]]></summary>
         <author>
             <name>Akhilesh Ganti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[S&P 500 Rallies Back To Highs, But Watch For This; Tesla Deliveries Due]]></title>
+        <id>?src=A00220&amp;yptr=yahoo</id>
+        <link href="https://www.investors.com/market-trend/stock-market-today/sp-500-rallies-back-to-highs-apple-nvidia-lead-watch-for-this-tesla-deliveries/?src=A00220&amp;yptr=yahoo"/>
+        <updated>2023-07-01T00:00:19.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
         </author>
     </entry>
     <entry>
@@ -162,6 +201,26 @@
         <link href="https://www.barrons.com/articles/activision-blizzard-stock-microsoft-deal-8c6910ee?siteid=yhoof2&amp;yptr=yahoo"/>
         <updated>2023-06-30T21:23:00.000Z</updated>
         <summary type="html"><![CDATA[A judge’s decision could allow the deal to go ahead, or give the FTC permission to block it.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UPDATE 4-Top U.S. banks raise dividends after sailing through Fed stress tests]]></title>
+        <id>1-top-u-banks-raise-212055511.html</id>
+        <link href="https://finance.yahoo.com/news/1-top-u-banks-raise-212055511.html"/>
+        <updated>2023-06-30T21:20:55.000Z</updated>
+        <summary type="html"><![CDATA[U.S. banks including JPMorgan Chase, Wells Fargo , Goldman Sachs and Morgan Stanley hiked their dividends on Friday after sailing through the Federal Reserve's annual health check, which showed they have enough capital to weather a severe economic downturn. JPMorgan, the biggest U.S. bank by assets, intends to increase its quarterly stock dividend to $1.05 per share, from $1.00 for the third quarter, while Wells Fargo will boost its dividend in the same period to 35 cents a share from 30 cents, the companies said. Goldman Sachs' dividend will rise to $2.75 a share from $2.50, while Morgan Stanley's will increase to 85 cents share from the current 77.5 cents.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Stock Market’s Biggest Winners and Losers for First Half of 2023]]></title>
+        <id>stocks-first-half-biggest-gainers-losers-10549f23?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.barrons.com/articles/stocks-first-half-biggest-gainers-losers-10549f23?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2023-06-30T21:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia led the gains in both the Nasdaq 100 and the S&P 500. Salesforce led the Dow industrials.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -40935,165 +40994,6 @@ The recent rally has been marked by heavy activity in bullish options tied to te
         <summary type="html"><![CDATA[Balance transfers and personal loans can help improve your finances, but they are different products. A balance transfer focuses on moving your debt from one creditor to another, usually for a lower interest rate, while a personal loan is a new debt.]]></summary>
         <author>
             <name>Miranda Marquit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video | Hoe de Philips-familie de wereld wilde verbeteren (Aflevering 4)]]></title>
-        <id>https://www.nu.nl/-/6266152/</id>
-        <link href="https://www.nu.nl/economie/6266152/hoe-de-philips-familie-de-wereld-wilde-verbeteren-aflevering-4.html"/>
-        <updated>2023-06-01T15:02:48.000Z</updated>
-        <summary type="html"><![CDATA[Sander Schimmelpenninck en Eline Hintzen, achterkleindochter van Frits Philips, zoeken uit wat er is overgebleven van de nalatenschap van de familie Philips. In de vierde aflevering kijken ze naar de grote impact die Philips heeft gehad op Eindhoven. De komende weken zie je iedere donderdag vanaf 17.00 uur een nieuwe aflevering op NU.nl.]]></summary>
-        <author>
-            <name>onze videoredactie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Macy's, Dollar General Plunge On Results, Outlook; Target Falls After Downgrade]]></title>
-        <id>?src=A00220&amp;yptr=yahoo</id>
-        <link href="https://www.investors.com/news/macys-dollar-general-plunge-on-results-outlook-target-falls-after-downgrade/?src=A00220&amp;yptr=yahoo"/>
-        <updated>2023-06-01T14:57:05.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Savings Account Customers Say It’s Hard to Get Their Money Out of Goldman Sachs]]></title>
-        <id>apple-savings-account-customers-say-its-hard-to-get-their-money-out-of-goldman-sachs-bd8b9ccb?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.wsj.com/articles/apple-savings-account-customers-say-its-hard-to-get-their-money-out-of-goldman-sachs-bd8b9ccb?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2023-06-01T14:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Some customers with Apple savings accounts, which are a partnership with Goldman Sachs, say it has taken weeks to withdraw money.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Price War Worked for Tesla. Could It Work for Boeing?]]></title>
-        <id>boeing-stock-price-tesla-price-war-ae74eaa2?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/articles/boeing-stock-price-tesla-price-war-ae74eaa2?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2023-06-01T14:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Chief Executive Dave Calhoun explains why he isn't worried about ceding market share to rival Airbus.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Long Does Negative Information Stay on Your Credit Report?]]></title>
-        <id>https://www.investopedia.com/how-long-does-negative-information-stay-on-your-credit-report-4769774</id>
-        <link href="https://www.investopedia.com/how-long-does-negative-information-stay-on-your-credit-report-4769774?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-06-01T14:29:28.000Z</updated>
-        <summary type="html"><![CDATA[Although most negative information stays on your credit report for seven years, there are exceptions you should be aware of.]]></summary>
-        <author>
-            <name>Jim Probasco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Direct Public Offering (DPO): Definition, How It Works, Examples]]></title>
-        <id>https://www.investopedia.com/terms/d/directpublicoffering.asp</id>
-        <link href="https://www.investopedia.com/terms/d/directpublicoffering.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-06-01T14:24:56.000Z</updated>
-        <summary type="html"><![CDATA[A direct public offering (DPO) is an offering where the company offers its securities directly to the public without financial intermediaries.]]></summary>
-        <author>
-            <name>Will Kenton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Stocks for June 2023]]></title>
-        <id>https://www.investopedia.com/top-stocks-june-2023-7505936</id>
-        <link href="https://www.investopedia.com/top-stocks-june-2023-7505936?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-06-01T14:23:19.000Z</updated>
-        <summary type="html"><![CDATA[Southwestern Energy, Mirati Therapeutics, and First Solar are top US stocks Russell 3000 in June 2023 for value, growth, and momentum, respectively.]]></summary>
-        <author>
-            <name>Noah Bolton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Load Up,’ Says Raymond James About These 2 ‘Strong Buy’ Stocks]]></title>
-        <id>load-says-raymond-james-2-142022756.html</id>
-        <link href="https://finance.yahoo.com/news/load-says-raymond-james-2-142022756.html"/>
-        <updated>2023-06-01T14:20:22.000Z</updated>
-        <summary type="html"><![CDATA[The main piece of this week involved the debt ceiling deal reached by the White House and House Speaker Kevin McCarthy. The deal has passed the House and now awaits approval in the Senate for the US to avoid a default. The chances of it passing are good, says Raymond James CIO Larry Adam, who is “generally optimistic about the passage of the deal,” while also noting that the “reduction in uncertainty will be a net positive for the equity market. In any case, Adam notes that through the whole deb]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk Regains Title of World's Richest Person]]></title>
-        <id>https://www.investopedia.com/elon-musk-regains-worlds-richest-person-title-7506906</id>
-        <link href="https://www.investopedia.com/elon-musk-regains-worlds-richest-person-title-7506906?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-06-01T14:14:27.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk has once again become the world's richest person as a sputtering Chinese economy hurts Bernard Arnault's luxury goods empire.]]></summary>
-        <author>
-            <name>Kevin George</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today's Mortgage Rates & Trends - June 1, 2023: Rates Fall Again]]></title>
-        <id>https://www.investopedia.com/todays-mortgage-rates-and-trends-june-1-2023-rates-drop-again-7506899</id>
-        <link href="https://www.investopedia.com/todays-mortgage-rates-and-trends-june-1-2023-rates-drop-again-7506899?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-06-01T14:10:36.000Z</updated>
-        <summary type="html"><![CDATA[Rates on 30-year mortgages fell for a second day in a row, now down 36 basis points from Friday's high. All other purchase rates, except for 7/6 ARM loans, were also down.]]></summary>
-        <author>
-            <name>Staff Author</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Student-Loan Freeze Is Ending. Prepare to Pay Up.]]></title>
-        <id>student-loan-debt-payments-summer-bfa94e57?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.wsj.com/articles/student-loan-debt-payments-summer-bfa94e57?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2023-06-01T13:58:00.000Z</updated>
-        <summary type="html"><![CDATA[After a three-year pause, borrowers will have to make monthly payments again starting Aug. 30.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dollar General Forecast Shows Just How Much Shoppers Are Hurting]]></title>
-        <id>dollar-general-forecast-shows-just-135800057.html</id>
-        <link href="https://finance.yahoo.com/news/dollar-general-forecast-shows-just-135800057.html"/>
-        <updated>2023-06-01T13:58:00.000Z</updated>
-        <summary type="html"><![CDATA[(Bloomberg) -- In case there was any doubt, the lower-income US consumer is in full retreat.Most Read from BloombergChina Is Drilling a 10,000-Meter-Deep Hole Into the EarthInside the Making of Redfall, Xbox’s Latest MisfireDebt-Limit Deal Passes the House, Easing US Default ConcernsS&P 500 Almost Wipes Out Its Monthly Advance: Markets WrapBillionaire Perot Warns of Real Estate Recession as Loans Dry UpDollar General Corp.’s shares plunged the most since August 2016 after the discount retailer s]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanguard Fined for Misleading Money-Market Fund Customers]]></title>
-        <id>vanguard-fined-for-misleading-money-market-fund-customers-70fab86b?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.wsj.com/articles/vanguard-fined-for-misleading-money-market-fund-customers-70fab86b?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2023-06-01T13:55:00.000Z</updated>
-        <summary type="html"><![CDATA[The money manager sent statements with incorrect information about fund yields and income, according to the Financial Industry Regulatory Authority.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Melk, brood en eieren nog altijd flink duurder, 'maar geen reden tot paniek']]></title>
-        <id>https://www.nu.nl/-/6266112/</id>
-        <link href="https://www.nu.nl/economie/6266112/melk-brood-en-eieren-nog-altijd-flink-duurder-maar-geen-reden-tot-paniek.html"/>
-        <updated>2023-06-01T13:52:45.000Z</updated>
-        <summary type="html"><![CDATA[De inflatie is afgelopen maand wéér gestegen, maar experts zien geen reden tot paniek. De dalende energiekosten en goede oogsten voorspellen dat de markt weer tot rust kan komen. Maar door vertragingen in de voedselketen betaal je in de supermarkt nog wel de volle mep.]]></summary>
-        <author>
-            <name>José Boon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Salesforce stock a 'table-pounder' after earnings sell-off? Wall Street reacts.]]></title>
-        <id>is-salesforce-stock-a-table-pounder-after-earnings-sell-off-wall-street-reacts-134133638.html</id>
-        <link href="https://finance.yahoo.com/news/is-salesforce-stock-a-table-pounder-after-earnings-sell-off-wall-street-reacts-134133638.html"/>
-        <updated>2023-06-01T13:41:33.000Z</updated>
-        <summary type="html"><![CDATA[Salesforce has a mixed quarter, leading to some mixed responses by Wall Street]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Much Is Car Insurance for Teens?]]></title>
-        <id>https://www.investopedia.com/how-much-is-car-insurance-for-teens-7506838</id>
-        <link href="https://www.investopedia.com/how-much-is-car-insurance-for-teens-7506838?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-06-01T13:40:50.000Z</updated>
-        <summary type="html"><![CDATA[When you add a teen to your car insurance policy, you can expect to costs to rise. How much your car insurance rates will rise will depend on a number of factors.]]></summary>
-        <author>
-            <name>Staff Author</name>
         </author>
     </entry>
 </feed>
