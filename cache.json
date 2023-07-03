@@ -1558,6 +1558,36 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6270325/",
+          "author": "Tim Wijkman-van Aalst",
+          "description": "Ons gebruik van sociale media verandert. We plaatsen minder over onszelf op Facebook, maar delen juist meer in kleine WhatsApp-groepen met vrienden of familie. Jongeren ruilen Instagram in voor TikTok. Al die veranderingen zijn voor Facebook-moederbedrijf Meta een grote uitdaging.",
+          "link": "https://www.nu.nl/tech/6270325/jongeren-verlaten-instagram-en-omarmen-tiktok-een-uitdaging-voor-meta.html",
+          "publishedOn": "2023-07-03T10:01:35.000Z",
+          "wordCount": 1094,
+          "title": "Jongeren verlaten Instagram en omarmen TikTok: een uitdaging voor Meta",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/b5vxarjalfyw_sqr256.jpg/jongeren-verlaten-instagram-en-omarmen-tiktok-een-uitdaging-voor-meta.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/b5vxarjalfyw_sqr256.jpg/jongeren-verlaten-instagram-en-omarmen-tiktok-een-uitdaging-voor-meta.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6270622/",
+          "author": "Eva Schouten",
+          "description": "De Europese Unie overweegt een Russische bank weer toegang te geven tot het wereldwijde financiële systeem. Die stap is nodig om de graandeal te redden.",
+          "link": "https://www.nu.nl/economie/6270622/europa-overweegt-uitzondering-voor-russische-bank-omwille-van-graandeal.html",
+          "publishedOn": "2023-07-03T09:58:52.000Z",
+          "wordCount": 871,
+          "title": "Europa overweegt uitzondering voor Russische bank omwille van graandeal",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/nslxh9kaqq4l_sqr256.jpg/europa-overweegt-uitzondering-voor-russische-bank-omwille-van-graandeal.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/nslxh9kaqq4l_sqr256.jpg/europa-overweegt-uitzondering-voor-russische-bank-omwille-van-graandeal.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6270624/",
           "author": "José Boon",
           "description": "Heineken neemt afscheid van de Nederlandse Pepsi-bottelaar Vrumona. De bierbrouwer wil zich meer richten op bieren in plaats van de zoete Vrumona-drankjes. Een Deens frisdrankbedrijf koopt het onderdeel over.",
@@ -8164,6 +8194,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/d/debtgdpratio.asp",
+          "author": "Will Kenton",
+          "description": "The debt-to-GDP ratio measures the proportion of a country's national debt to its gross domestic product.",
+          "link": "https://www.investopedia.com/terms/d/debtgdpratio.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-03T09:33:56.000Z",
+          "wordCount": 7145,
+          "title": "Debt-to-GDP Ratio: Formula and What It Can Tell You",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/948zxeaNQGp8KFyUs1rrG5C7aTo=/1500x1000/Term-Definitions_Debt-to-GDP-ratio-Final-81dfb807989544fb967849366c4acb3d.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/948zxeaNQGp8KFyUs1rrG5C7aTo=/1500x1000/Term-Definitions_Debt-to-GDP-ratio-Final-81dfb807989544fb967849366c4acb3d.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/p/per-capita-gdp.asp",
+          "author": "The Investopedia Team",
+          "description": "GDP per capitais a metric that breaks down a country's GDP per person and is calculated by dividing the GDP of a country by its population.",
+          "link": "https://www.investopedia.com/terms/p/per-capita-gdp.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-03T09:11:20.000Z",
+          "wordCount": 7223,
+          "title": "GDP Per Capita Defined: Applications and Highest Per Country",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/797piE8qJzPu01eRl0ItCPC3EOI=/1080x722/TermDefinitions_PercapitaGDP-09e9332fe3d04e68b34e676554168077.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/797piE8qJzPu01eRl0ItCPC3EOI=/1080x722/TermDefinitions_PercapitaGDP-09e9332fe3d04e68b34e676554168077.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/r/realgdp.asp",
           "author": "Akhilesh Ganti",
@@ -28343,36 +28403,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/e_CTZYfWnBwhgqOJB6H6tvCXLv4=/2121x1414/man-inserting-credit-card-in-atm-machine--close-up-1064361324-7cb2184f0fac4f7aa7432f841e21b9b0.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/secured-overnight-financing-rate-sofr-4683954",
-          "author": "Daniel Kurt",
-          "description": "The secured overnight financing rate (SOFR) is a benchmark interest rate for dollar-denominated derivatives and loans that replaced LIBOR.",
-          "link": "https://www.investopedia.com/secured-overnight-financing-rate-sofr-4683954?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-03T22:11:16.000Z",
-          "wordCount": 6527,
-          "title": "Secured Overnight Financing Rate (SOFR) Definition and History",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Wt4weehpoQOZmICQ9Jxd-WyBhr4=/1080x722/Secured-overnight-financing-rate-sofr-4683954-10a5b417e6714dd987b5f7712e7b253e.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Wt4weehpoQOZmICQ9Jxd-WyBhr4=/1080x722/Secured-overnight-financing-rate-sofr-4683954-10a5b417e6714dd987b5f7712e7b253e.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/pf/09/marriage-killing-money-issues.asp",
-          "author": "James McWhinney",
-          "description": "Strengthen your marriage by understanding and dealing with these six major financial stressors.",
-          "link": "https://www.investopedia.com/articles/pf/09/marriage-killing-money-issues.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-03T21:43:04.000Z",
-          "wordCount": 9110,
-          "title": "Top 6 Marriage-Killing Money Issues",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/xuLxZElSzrSZFEGGjsTOD3XriV8=/380x254/bill_payment-5bfc3cc3c9e77c0026b95970.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/xuLxZElSzrSZFEGGjsTOD3XriV8=/380x254/bill_payment-5bfc3cc3c9e77c0026b95970.jpg"
         }
       ]
     },
@@ -28381,6 +28411,36 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "stocks-to-watch-monday-tesla-apple-nio-0hjsaZE60WmDehjAeGF3?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "↗️ Tesla (TSLA): The electric carmaker's stock rose 6.3% premarket after the company posted a record quarter for sales. Other U.S. EV makers incl",
+          "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-03-2023/card/stocks-to-watch-monday-tesla-apple-nio-0hjsaZE60WmDehjAeGF3?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-03T09:32:34.000Z",
+          "wordCount": 6445,
+          "title": "Stocks to Watch Monday: Tesla, Apple, Nio, AstraZeneca",
+          "imageUrl": "https://images.wsj.net/im-810834/social"
+        },
+        {
+          "id": "tesla-stock-price-analysts-deliveries-32366823?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Tesla announced second quarter deliveries of just 466,000 units Sunday, a record and about 4% higher than the roughly 445,000 to 447,000 Wall Street was looking for. Now analysts are weighing in.",
+          "link": "https://www.barrons.com/articles/tesla-stock-price-analysts-deliveries-32366823?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-03T08:57:00.000Z",
+          "wordCount": 7174,
+          "title": "Tesla Crushed Delivery Expectations. Here’s What Wall Street Is Saying.",
+          "imageUrl": "https://images.barrons.com/im-754197/social"
+        },
+        {
+          "id": "stock-market-movers-707bb709?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Stock futures were mixed Monday ahead of the shortened holiday week but there were still plenty of movers in early trading.",
+          "link": "https://www.barrons.com/articles/stock-market-movers-707bb709?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-03T08:53:00.000Z",
+          "wordCount": 7267,
+          "title": "These Stocks Are Moving the Most Today: Tesla, Agilent, Palantir, Sabre, and More.",
+          "imageUrl": "https://images.barrons.com/im-803052/social"
+        },
         {
           "id": "panasonic-needs-four-more-ev-083452500.html",
           "author": null,
