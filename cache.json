@@ -1558,6 +1558,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6270592/",
+          "author": "José Boon",
+          "description": "Klanten van Albert Heijn zien nog te vaak andere bedragen op de kassabon dan ze in de winkel zien, meldt de Consumentenbond. Zo hangen er bij 'prijsfavorieten' borden met een lager bedrag dan de klant daadwerkelijk afrekent.",
+          "link": "https://www.nu.nl/economie/6270592/albert-heijn-laat-nog-steeds-verkeerde-prijzen-zien-in-supermarkten.html",
+          "publishedOn": "2023-07-03T06:15:19.000Z",
+          "wordCount": 977,
+          "title": "Albert Heijn laat nog steeds verkeerde prijzen zien in supermarkten",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/cnkxhguangv5_sqr256.jpg/albert-heijn-laat-nog-steeds-verkeerde-prijzen-zien-in-supermarkten.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/cnkxhguangv5_sqr256.jpg/albert-heijn-laat-nog-steeds-verkeerde-prijzen-zien-in-supermarkten.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6270169/",
           "author": "Jeroen Kraan",
           "description": "Er zit weinig schot in de klimaatafspraken die het kabinet wil maken met de twintig grootste CO2-uitstoters. Het kabinet wilde de onderhandelingen dit jaar al afronden, maar het blijft voorlopig bij een handvol intentieverklaringen.",
@@ -8111,21 +8126,6 @@
             "url": "https://media.nu.nl/m/q09xt0zat1aj_sqr256.jpg/biden-ondertekent-schuldendeal-en-voorkomt-chaos-op-financiele-markten.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/q09xt0zat1aj_sqr256.jpg/biden-ondertekent-schuldendeal-en-voorkomt-chaos-op-financiele-markten.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6266121/",
-          "author": "Tim Wijkman-van Aalst",
-          "description": "Ga je deze zomer buiten Europa op vakantie, denk dan goed na over het gebruik van je smartphone. Met een beetje pech verbruik je in enkele seconden voor tientallen euro's aan mobiel dataverkeer. Gelukkig zijn er manieren om te voorkomen dat je thuis een dikke telefoonrekening op de mat vindt.",
-          "link": "https://www.nu.nl/tech/6266121/op-vakantie-buiten-europa-in-een-paar-seconden-verbruik-je-60-euro-aan-data.html",
-          "publishedOn": "2023-06-03T18:09:23.000Z",
-          "wordCount": 1612,
-          "title": "Op vakantie buiten Europa? In een paar seconden verbruik je 60 euro aan data",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/q1zx3lwa0793_sqr256.jpg/op-vakantie-buiten-europa-in-een-paar-seconden-verbruik-je-60-euro-aan-data.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/q1zx3lwa0793_sqr256.jpg/op-vakantie-buiten-europa-in-een-paar-seconden-verbruik-je-60-euro-aan-data.jpg"
         }
       ]
     },
@@ -28403,36 +28403,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/-90ibXuMKvaW6fQjaY97K6t0iu4=/1500x1000/Empirical-rule-e70c821160054a6eaec6a257e5adf0c4.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/t/tezos.asp",
-          "author": "Mark Jahn",
-          "description": "Tezos (XTZ) is a decentralized blockchain network with an associated cryptocurrency token and a colorful history.",
-          "link": "https://www.investopedia.com/terms/t/tezos.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-03T18:17:30.000Z",
-          "wordCount": 6692,
-          "title": "Tezos (XTZ): Definition and How It Works in Crypto",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/4uaAks_8btI43jRGgQ2kvBzSuV0=/700x452/tezos-5bfc31a6c9e77c005180e9f2.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/4uaAks_8btI43jRGgQ2kvBzSuV0=/700x452/tezos-5bfc31a6c9e77c005180e9f2.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/ethereum-2-0-6455959",
-          "author": "Rahul Nambiampurath",
-          "description": "The Ethereum blockchain transitioned to proof-of-stake in September 2022. The upgrade also set the stage for the blockchain's future.",
-          "link": "https://www.investopedia.com/ethereum-2-0-6455959?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-03T17:56:39.000Z",
-          "wordCount": 6578,
-          "title": "What Is Ethereum 2.0?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/wR2GEPO-IAWJ6xqSvIS9n3Bja-E=/760x527/001_what-is-ethereum-4801899-20ee6a77184a4f69aaf2e73543ffdaef.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/wR2GEPO-IAWJ6xqSvIS9n3Bja-E=/760x527/001_what-is-ethereum-4801899-20ee6a77184a4f69aaf2e73543ffdaef.jpg"
         }
       ]
     },
@@ -28442,6 +28412,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "analysis-bond-markets-reckon-central-051610061.html",
+          "author": null,
+          "description": "Bond investors could be in luck for the rest of 2023 if market indicators signalling central banks will take policy tightening too far and tip their economies into recession prove accurate.  Headline inflation has eased but underlying pressures remain high, keeping central banks hawkish.  Canada resumed tightening and Britain and Norway made big moves in June, while U.S. Federal Reserve and European Central Bank officials at last week's Sintra forum signalled more rate hikes.",
+          "link": "https://finance.yahoo.com/news/analysis-bond-markets-reckon-central-051610061.html",
+          "publishedOn": "2023-07-03T05:16:10.000Z",
+          "wordCount": 2347,
+          "title": "Analysis-Bond markets reckon a central bank policy error is on the cards",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/07a0432b784e9bd7fdb48739b6d1e1c4"
+        },
+        {
           "id": "marketmind-tesla-delivers-surprise-china-043403525.html",
           "author": null,
           "description": "The big question for the day is how will investors greet  Tesla's announcement on Sunday that it delivered a record 466,000 vehicles in the second quarter, topping market estimates of around 445,000.  Back in the real world, China's Caixin/S&P Global survey of  manufacturing showed a slowdown to 50.5 in June, but that was not as bad as the 50.2 feared.  The People's Bank of China again pushed back on a weaker yuan by fixing the currency well above expectations, but these official fixings are having less and less of an impact in the market and offshore dealers are testing to see if Chinese banks actually sell dollars to support the yuan.",
@@ -28450,6 +28430,16 @@
           "wordCount": 2219,
           "title": "Marketmind: Tesla delivers surprise, China goes slow",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/d3a4eb913d913df9ee9890790ba10a04"
+        },
+        {
+          "id": "he-spent-140-billion-on-ai-with-little-to-show-now-he-is-trying-again-dbcca17?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Billionaire Masayoshi Son said he would make SoftBank “the investment company for the AI revolution” but he missed out on the most recent frenzy.",
+          "link": "https://www.wsj.com/articles/he-spent-140-billion-on-ai-with-little-to-show-now-he-is-trying-again-dbcca17?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-03T04:02:00.000Z",
+          "wordCount": 8872,
+          "title": "He Spent $140 Billion on AI With Little to Show. Now He Is Trying Again.",
+          "imageUrl": "https://images.wsj.net/im-810126/social"
         },
         {
           "id": "asian-shares-set-rise-back-223552740.html",
@@ -49430,16 +49420,6 @@
           "wordCount": 1948,
           "title": "The housing market has never been this unaffordable for new buyers",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/j72nQXZhBBH4t80QqfbnIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/48adadfe1a4b61533737b0ff5d9cbee2"
-        },
-        {
-          "id": "jim-chanos-bank-america-others-173000200.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/jim-chanos-bank-america-others-173000200.html",
-          "publishedOn": "2023-06-03T17:30:00.000Z",
-          "wordCount": null,
-          "title": "Jim Chanos, Bank of America, and others still aren't jumping on the AI hype train",
-          "imageUrl": null
         }
       ]
     }
