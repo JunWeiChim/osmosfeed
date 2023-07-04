@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-04T02:57:06.612Z</updated>
+    <updated>2023-07-04T03:28:26.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We geven online veel uit aan evenementen, pretparken en vliegtickets]]></title>
+        <id>https://www.nu.nl/-/6270694/</id>
+        <link href="https://www.nu.nl/economie/6270694/we-geven-online-veel-uit-aan-evenementen-pretparken-en-vliegtickets.html"/>
+        <updated>2023-07-04T03:09:30.000Z</updated>
+        <summary type="html"><![CDATA[We kopen online weer massaal kaarten voor evenementen en pretparken. Verder besteden we meer aan vliegtickets, pakketreizen en accommodaties. Nederlanders hebben in het eerste kwartaal online 8,5 miljard euro uitgegeven, een stijging van 5 procent ten opzichte van vorig jaar.]]></summary>
+        <author>
+            <name>onze economieredactie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wharton's Jeremy Siegel says the bull run in stocks can go a lot longer even as the Fed wages 'war on growth']]></title>
         <id>whartons-jeremy-siegel-says-bull-234325068.html</id>
@@ -29,6 +39,15 @@
         <id>ready-stocks-stumble-recession-strike-223130542.html</id>
         <link href="https://finance.yahoo.com/news/ready-stocks-stumble-recession-strike-223130542.html"/>
         <updated>2023-07-03T22:31:30.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech stock investors are positioned for a 'win-win' outcome regardless of recession risk, Wharton's Jeremy Siegel says]]></title>
+        <id>tech-stock-investors-positioned-win-222528629.html</id>
+        <link href="https://finance.yahoo.com/news/tech-stock-investors-positioned-win-222528629.html"/>
+        <updated>2023-07-03T22:25:28.000Z</updated>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -139,6 +158,16 @@
         <link href="https://www.ft.com/cms/s/afeb5570-89a5-4c0d-b522-bc7337a732d8,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev&amp;yptr=yahoo"/>
         <updated>2023-07-03T20:30:39.000Z</updated>
         <summary type="html"><![CDATA[News, analysis and comment from the Financial Times, the worldʼs leading global business publication]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nasdaq refiles BlackRock's bitcoin ETF application with SEC]]></title>
+        <id>nasdaq-refiles-blackrocks-bitcoin-etf-202444034.html</id>
+        <link href="https://finance.yahoo.com/news/nasdaq-refiles-blackrocks-bitcoin-etf-202444034.html"/>
+        <updated>2023-07-03T20:24:44.000Z</updated>
+        <summary type="html"><![CDATA[The refreshed filing, submitted to the U.S. Securities and Exchange Commission (SEC) on Thursday, said that Coinbase Global Inc will provide market surveillance in support of the proposed ETF from the world's largest asset manager.  The move comes after the regulator reportedly had concerns over the initial filings by Nasdaq as being unclear and incomplete.  It had flagged similar concerns to Cboe related to a filing from Fidelity.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -40551,35 +40580,6 @@ Most-actively Brent crude oil contracts jumped, and recently stood more than 2.2
         <summary type="html"><![CDATA[A transportation bond is a fixed-income security issued by a municipality to fund infrastructure needs related to public transportation.]]></summary>
         <author>
             <name>James Chen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modified Accrual Accounting: Definition and How It Works]]></title>
-        <id>https://www.investopedia.com/terms/m/modified-accrual-accounting.asp</id>
-        <link href="https://www.investopedia.com/terms/m/modified-accrual-accounting.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-06-04T15:17:09.000Z</updated>
-        <summary type="html"><![CDATA[Modified accrual accounting is a bookkeeping method commonly used by government agencies that combines accrual basis accounting with cash basis accounting.]]></summary>
-        <author>
-            <name>Daniel Liberto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is an Amendment? Definition, How It Works, and Example]]></title>
-        <id>https://www.investopedia.com/terms/a/amendment.asp</id>
-        <link href="https://www.investopedia.com/terms/a/amendment.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-06-04T15:12:38.000Z</updated>
-        <summary type="html"><![CDATA[An amendment is a change or addition to the terms of a contract agreement, government document, or law.]]></summary>
-        <author>
-            <name>Will Kenton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dow Jones Futures: Market Rally Shows Character Change; Tesla, Apple In Focus]]></title>
-        <id>?src=A00220&amp;yptr=yahoo</id>
-        <link href="https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-shows-character-change-tesla-apple-in-focus/?src=A00220&amp;yptr=yahoo"/>
-        <updated>2023-06-04T15:02:09.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
         </author>
     </entry>
 </feed>
