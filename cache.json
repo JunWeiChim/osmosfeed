@@ -742,16 +742,6 @@
           "wordCount": 411,
           "title": "Sales of Tesla EVs Made in China Soar",
           "imageUrl": null
-        },
-        {
-          "id": "d0c258cb2afebaccc97d2993780f2b49",
-          "author": "Investopedia",
-          "description": "GM said it plans to invest more than $1 billion on manufacturing new heavy-duty ICE pickups.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca816a8af610e84f298d803ceee72929de095dca3c8931be9c0f244a966590249c9b1478c6f43bb3f9ae23ede58c38b638e02501cf31410f5a02f8beb8d07452dcc2a5ef8d99c9df411ed7",
-          "publishedOn": "2023-06-05T20:12:18.615Z",
-          "wordCount": 411,
-          "title": "GM to Spend Over $1 Billion on New Internal Combustion Engine Pickups",
-          "imageUrl": null
         }
       ]
     },
@@ -1547,6 +1537,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6270916/",
+          "author": "Ertan Basekin",
+          "description": "Meer dan een kwart van de werkenden is in het eerste kwartaal van dit jaar uitgevallen door stress of burn-outklachten. De stijging van het verzuim is vooral zichtbaar in de leeftijdsgroep 25 tot 45 jaar.",
+          "link": "https://www.nu.nl/economie/6270916/werkenden-vallen-steeds-vaker-uit-met-stress-of-burn-outklachten.html",
+          "publishedOn": "2023-07-05T08:03:53.000Z",
+          "wordCount": 1137,
+          "title": "Werkenden vallen steeds vaker uit met stress of burn-outklachten",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/lcmx28wahn3o_sqr256.jpg/werkenden-vallen-steeds-vaker-uit-met-stress-of-burn-outklachten.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/lcmx28wahn3o_sqr256.jpg/werkenden-vallen-steeds-vaker-uit-met-stress-of-burn-outklachten.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6270901/",
           "author": "onze economieredactie",
@@ -8431,21 +8436,6 @@
             "url": "https://media.nu.nl/m/r9kxy3lan9nx_sqr256.jpg/in-vijf-jaar-tijd-zijn-bijna-alle-nederlanders-al-eens-getroffen-door-een-datalek.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/r9kxy3lan9nx_sqr256.jpg/in-vijf-jaar-tijd-zijn-bijna-alle-nederlanders-al-eens-getroffen-door-een-datalek.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6266735/",
-          "author": "Martijn van Delft",
-          "description": "Na een koel en fris voorjaar genieten Nederlanders momenteel massaal van de zon. Alleen is dat lekkere weer minder goed voor je gazon. Hoe zorg je er ondanks de droogte voor dat jouw gras groener is dan bij de buren?",
-          "link": "https://www.nu.nl/wonen/6266735/eerste-hulp-bij-gras-zo-houd-je-je-gazon-groen-en-gezond-nu-het-erg-droog-is.html",
-          "publishedOn": "2023-06-05T19:25:44.000Z",
-          "wordCount": 1660,
-          "title": "Eerste hulp bij gras: zo houd je je gazon groen en gezond nu het erg droog is",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/wkjx6n0a5on7_sqr256.jpg/eerste-hulp-bij-gras-zo-houd-je-je-gazon-groen-en-gezond-nu-het-erg-droog-is.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/wkjx6n0a5on7_sqr256.jpg/eerste-hulp-bij-gras-zo-houd-je-je-gazon-groen-en-gezond-nu-het-erg-droog-is.jpg"
         }
       ]
     },
@@ -8454,6 +8444,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/tax/11/tax-tips-for-advisors.asp",
+          "author": "Mark P. Cussen",
+          "description": "Self-employed advisors have a number of unique expenses, but the tax benefits often compensate for the financial burdens.",
+          "link": "https://www.investopedia.com/articles/tax/11/tax-tips-for-advisors.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-05T07:57:47.000Z",
+          "wordCount": 7045,
+          "title": "Tax Tips for Financial Advisors",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/yvJpdQmX0PujzsDlfzroACGdmNg=/1500x1000/GettyImages-169267748-83909612b1bf4cafa8ee5552cc2f89cb.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/yvJpdQmX0PujzsDlfzroACGdmNg=/1500x1000/GettyImages-169267748-83909612b1bf4cafa8ee5552cc2f89cb.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/professionals/080615/top-5-software-programs-used-financial-advisors.asp",
+          "author": "J.B. Maverick",
+          "description": "Learn about the top five financial planning software programs that are most commonly used by professional financial advisors.",
+          "link": "https://www.investopedia.com/articles/professionals/080615/top-5-software-programs-used-financial-advisors.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-05T07:55:59.000Z",
+          "wordCount": 6922,
+          "title": "Top Financial Planning Tools Used by Financial Advisors",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/OuURvC5yUTruSwQNrwlDUcPilAg=/680x440/thinkstockphotos-474168152-5bfc34e546e0fb00517dab35.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/OuURvC5yUTruSwQNrwlDUcPilAg=/680x440/thinkstockphotos-474168152-5bfc34e546e0fb00517dab35.jpg"
+        },
         {
           "id": "https://www.investopedia.com/what-is-yield-curve-control-4797189",
           "author": "Mark Kolakowski",
@@ -27913,66 +27933,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/vrYNvqpZY8sJAgSmv9P6z2Ho2UM=/680x440/shutterstock_112522391-5bfc2b9846e0fb0051bde2d3.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/mutualfund/08/recession-proof-mutual-funds.asp",
-          "author": "Lisa Smith",
-          "description": "When the economy blows up, find out what funds offer some protection from major losses.",
-          "link": "https://www.investopedia.com/articles/mutualfund/08/recession-proof-mutual-funds.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-05T20:11:47.000Z",
-          "wordCount": 6387,
-          "title": "8 Best Fund Types to Use in a Recession",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/OYGnWT6Kmqg_KAHH_34PgjKRn7E=/2121x1414/GettyImages-691164308-75656b1775f346578a476e437a7476d7.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/OYGnWT6Kmqg_KAHH_34PgjKRn7E=/2121x1414/GettyImages-691164308-75656b1775f346578a476e437a7476d7.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/gm-to-spend-usd1-billion-on-new-internal-combustion-engine-pickups-7508409",
-          "author": "Staff Author",
-          "description": "GM said it plans to invest more than $1 billion on manufacturing new heavy-duty ICE pickups.",
-          "link": "https://www.investopedia.com/gm-to-spend-usd1-billion-on-new-internal-combustion-engine-pickups-7508409?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-05T19:46:26.000Z",
-          "wordCount": 4830,
-          "title": "GM to Spend Over $1 Billion on New Internal Combustion Engine Pickups",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/iiRu1LlXvmhvslRBCd0wNWrimvM=/5976x3984/GettyImages-1454433470-b3058fe1268c462aa9f9609bd212a752.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/iiRu1LlXvmhvslRBCd0wNWrimvM=/5976x3984/GettyImages-1454433470-b3058fe1268c462aa9f9609bd212a752.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/06/preaftermarket.asp",
-          "author": "Chad Langager",
-          "description": "The NYSE and the Nasdaq have pre-market and after-hours trading. Several factors are worth considering if you want to trade at these times.",
-          "link": "https://www.investopedia.com/ask/answers/06/preaftermarket.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-05T19:24:44.000Z",
-          "wordCount": 7119,
-          "title": "Pre-Market and After-Hours Trading",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/EOHv46aZEAKZtfNRGRz6yWfREhk=/1920x1078/professional-profession-chart-font-diagram-multimedia-1163690-pxhere.com1-f4d24f07af8c427699a8c18019ba0012.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/EOHv46aZEAKZtfNRGRz6yWfREhk=/1920x1078/professional-profession-chart-font-diagram-multimedia-1163690-pxhere.com1-f4d24f07af8c427699a8c18019ba0012.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/cryptocurrencies-to-watch-week-of-june-5-7508103",
-          "author": "Rahul Nambiampurath",
-          "description": "This week’s cryptocurrencies to keep an eye on are XRP (XRP), The Sandbox (SAND), XDC Network (XDC), and Lido (LDO).",
-          "link": "https://www.investopedia.com/cryptocurrencies-to-watch-week-of-june-5-7508103?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-05T19:22:30.000Z",
-          "wordCount": 5869,
-          "title": "Cryptocurrencies To Watch: Week of June 5",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/dJAP-tcnpWqggO-CZeO4xivjwMM=/6250x4167/INV_crypto_coin_image_33-20664d5caaee44189814c206ee632023.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/dJAP-tcnpWqggO-CZeO4xivjwMM=/6250x4167/INV_crypto_coin_image_33-20664d5caaee44189814c206ee632023.jpg"
         }
       ]
     },
@@ -27990,6 +27950,16 @@
           "wordCount": 1849,
           "title": "Chinese Builder’s $1.8 Billion Distressed Asset Gets No Bids",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/87x.mWcx9RayTXpyOrS.rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/01c093997bf850980e4af7f462171b2e"
+        },
+        {
+          "id": "bullet-proof-portfolio-investing-trick-21b1750d?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "\"You want the riskless part of your portfolio to be absolutely riskless,\" financial author William J. Bernstein.",
+          "link": "https://www.barrons.com/articles/bullet-proof-portfolio-investing-trick-21b1750d?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-05T05:00:00.000Z",
+          "wordCount": 7228,
+          "title": "The Trick to a Bullet-Proof Portfolio? Invest for the Very Worst of the Worst.",
+          "imageUrl": "https://images.barrons.com/im-810363/social"
         },
         {
           "id": "investing-pillars-superstar-portfolio-managers-trap-fa7d7fe4?siteid=yhoof2&yptr=yahoo",
@@ -28120,6 +28090,16 @@
           "wordCount": null,
           "title": "The stock market has a 70% chance of crashing in a few years, according to legendary investor Jeremy Grantham",
           "imageUrl": null
+        },
+        {
+          "id": "casino-unveils-rival-bids-billionaires-192814906.html",
+          "author": null,
+          "description": "(Bloomberg) -- Casino Guichard-Perrachon SA unveiled offers from rival billionaires seeking to win support of the French grocer and its creditors in a battle for control of the firm.Under the proposal made by Czech financier Daniel Kretinsky and Marc Ladreit de Lacharrière’s Fimalac — both of which are existing shareholders — the company would get a €1.35 billion ($1.47 billion) equity injection, the company said in a statement on Tuesday.Casino also outlined the details of a rival bid made by a",
+          "link": "https://finance.yahoo.com/news/casino-unveils-rival-bids-billionaires-192814906.html",
+          "publishedOn": "2023-07-04T20:14:40.000Z",
+          "wordCount": 1979,
+          "title": "Casino Unveils Rival Bids From Billionaires for the French Grocer",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ds4jfQ0FLchUd6VRFeHCqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/fc072adb72b4a729277012fb0180e5fb"
         },
         {
           "id": "superbubble-stocks-housing-burst-ai-200235302.html",
@@ -49100,66 +49080,6 @@
           "wordCount": 2307,
           "title": "Binance Lawsuit Could Be ‘Huge Mistake’ or Bring Needed Clarity to U.S. Crypto Industry",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/MhH9_XEg2K2BeUQWNuXRLw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MTg-/https://media.zenfs.com/en/coindesk_75/486a47067cd86eee6a06d94e370621af"
-        },
-        {
-          "id": "the-opec-us-battle-is-back-on-200830646.html",
-          "author": null,
-          "description": "With little notice, US oil exports have hit new record highs. That will counter new OPEC production cuts and help keep prices in check.",
-          "link": "https://finance.yahoo.com/news/the-opec-us-battle-is-back-on-200830646.html",
-          "publishedOn": "2023-06-05T20:08:30.000Z",
-          "wordCount": 2787,
-          "title": "The OPEC-US battle is back on",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/CDY0dg7DsDJAVvpWdTnnAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/36486040-03de-11ee-b1f7-254ce88e64ee"
-        },
-        {
-          "id": "us-bank-shares-fall-treasury-195800233.html",
-          "author": null,
-          "description": "Shares of U.S. banks fell on Monday with some investors pointing to worries that a flood of Treasury bill issuance following the raising of the U.S. debt ceiling would drain liquidity from lenders.  The U.S. government is expected to issue $1 trillion or more of short-term debt to replenish its Treasury General Account (TGA) or cash reserves that were depleted during the political haggling over the debt ceiling.  Some analysts have warned that this flood of new bills could drain bank reserves at time when liquidity is needed to bolster their balance sheet given the recent shocks to the financial system from the regional banking crisis.",
-          "link": "https://finance.yahoo.com/news/us-bank-shares-fall-treasury-195800233.html",
-          "publishedOn": "2023-06-05T19:58:00.000Z",
-          "wordCount": 2194,
-          "title": "US bank shares fall after Treasury debt issuance, proposed new capital requirements",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/fd603edad89bec0c69d191a914a887cd"
-        },
-        {
-          "id": "blackstone-reit-continues-trend-bad-193739975.html",
-          "author": null,
-          "description": "Blackstone real estate investment trust (BREIT) is known as one of America’s largest and most dependable privately held REITs when it comes to delivering investor returns. However, 2023 has proven to be a difficult year for real estate investors, and Blackstone is not immune. As of May 1, 2023, Blackstone announced it is limiting investor withdrawals from its REIT, which is worth an estimated $70 billion. This move is not a new trend, as Blackstone has been limiting monthly investor withdrawals",
-          "link": "https://finance.yahoo.com/news/blackstone-reit-continues-trend-bad-193739975.html",
-          "publishedOn": "2023-06-05T19:37:39.000Z",
-          "wordCount": 2844,
-          "title": "Blackstone REIT Continues Trend Of Bad News For Real Estate Investors",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/ebeef7b3016c31281a10a771c580cb30"
-        },
-        {
-          "id": "markets-brace-deluge-treasury-bill-192544465.html",
-          "author": null,
-          "description": "Investors are bracing for a wave of U.S. government bond issuance as the Treasury plans to refill its depleted coffers quickly after the recent suspension of the debt limit.  The Treasury General Account has fallen sharply since January when Treasury hit its limit on borrowing.  Deutsche Bank strategist Steven Zeng said in a recent research note he expected net bill issuance of $400 billion in June, followed by $500 billion between July and September.",
-          "link": "https://finance.yahoo.com/news/markets-brace-deluge-treasury-bill-192544465.html",
-          "publishedOn": "2023-06-05T19:25:44.000Z",
-          "wordCount": 1942,
-          "title": "Markets brace for deluge of Treasury bill supply after US debt deal",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/6ed95290430da261a39c100f937e4752"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-falls-even-as-apple-unveils-ios-17-vr-headset-vision-pro-this-stock-soars-after-cathie-wood-sells-it/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-06-05T19:15:02.000Z",
-          "wordCount": null,
-          "title": "Dow Jones Falls As Apple Unveils These Products; This Stock Soars After Cathie Wood Sells It",
-          "imageUrl": null
-        },
-        {
-          "id": "charlie-munger-turned-1-000-191456632.html",
-          "author": null,
-          "description": "At Berkshire Hathaway Inc.’s annual shareholder meeting, Charlie Munger’s revelation about a brilliant investment he made over 60 years ago offered a glimmer of hope and inspiration to investors worldwide. Don't Miss: Why Jason Calacanis and Other Silicon Valley Elites Are Betting On This Startups Vision For Re-Uniting American Families The octogenarian billionaire has been raking in $70,000 per year from a $1,000 bet on oil royalties, a deal he struck with a golfer named Al Marshall after a cha",
-          "link": "https://finance.yahoo.com/news/charlie-munger-turned-1-000-191456632.html",
-          "publishedOn": "2023-06-05T19:14:56.000Z",
-          "wordCount": 2497,
-          "title": "How Charlie Munger Turned $1,000 Investment Into Over $1 Million In Oil Royalties With His Unemployed Friend",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/85dd22d5c7d70af7b2c561b0b07fc977"
         }
       ]
     }
