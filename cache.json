@@ -8401,21 +8401,6 @@
             "url": "https://media.nu.nl/m/c56xdizakfun_sqr256.jpg/eurozone-zat-begin-dit-jaar-toch-in-een-recessie.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/c56xdizakfun_sqr256.jpg/eurozone-zat-begin-dit-jaar-toch-in-een-recessie.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6267023/",
-          "author": "Noémi van de Pol",
-          "description": "Voor het eerst in tien jaar is het aantal mensen dat zich zorgen maakt over de eigen financiële toekomst gestegen. Het gaat vooral om jongeren en alleenstaande ouders.",
-          "link": "https://www.nu.nl/economie/6267023/steeds-meer-nederlanders-zijn-bezorgd-over-hun-geldzaken-in-de-toekomst.html",
-          "publishedOn": "2023-06-08T06:28:24.000Z",
-          "wordCount": 1222,
-          "title": "Steeds meer Nederlanders zijn bezorgd over hun geldzaken in de toekomst",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/ll1xn1majjjr_sqr256.jpg/steeds-meer-nederlanders-zijn-bezorgd-over-hun-geldzaken-in-de-toekomst.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/ll1xn1majjjr_sqr256.jpg/steeds-meer-nederlanders-zijn-bezorgd-over-hun-geldzaken-in-de-toekomst.jpg"
         }
       ]
     },
@@ -8424,6 +8409,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/ask/answers/08/find-stocks-in-sp500.asp",
+          "author": "Nathan Reiff",
+          "description": "The list of the 500 companies that make up the S&P 500 is called its constituent list and includes many well-known names.",
+          "link": "https://www.investopedia.com/ask/answers/08/find-stocks-in-sp500.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-07T18:12:57.000Z",
+          "wordCount": 7291,
+          "title": "The Top 25 Stocks in the S&P 500",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/GUVpd5mpvQr9rNt0yufzM84z9Z0=/2314x1295/GettyImages-1170949937-b35aba1d88bc4c6ea9c1552bec7e18e0.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/GUVpd5mpvQr9rNt0yufzM84z9Z0=/2314x1295/GettyImages-1170949937-b35aba1d88bc4c6ea9c1552bec7e18e0.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/clients-ask-about-crypto-5323846",
+          "author": "Michelle Lodge",
+          "description": "Clients need to understand the full picture, including the good and bad of cryptocurrency investing.",
+          "link": "https://www.investopedia.com/clients-ask-about-crypto-5323846?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-07T18:07:48.000Z",
+          "wordCount": 7462,
+          "title": "What To Do When Clients Ask About Crypto",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/OiZjATJoYjwuKXSnLqG95OP4yZA=/1000x670/crypto_shutterstock_1039691803-cc691906b4af44158311f87049fde22a.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/OiZjATJoYjwuKXSnLqG95OP4yZA=/1000x670/crypto_shutterstock_1039691803-cc691906b4af44158311f87049fde22a.jpg"
+        },
         {
           "id": "https://www.investopedia.com/money-market-account-vs-money-market-fund-whats-the-difference-7557816",
           "author": "Staff Author",
@@ -27382,6 +27397,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "energy-stocks-are-having-one-of-their-best-days-of-the-year-qM7ynMbOppLBDpajNnKW?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shares of the giant companies that help energy producers around the world find and extract oil and gas are leading the market higher with some of their big U.S. customers not far behind.\nSchlumberger and Halliburton, which frack wells in Texas and orchestrate deep ocean drilling projects, are up mo",
+          "link": "https://www.wsj.com/livecoverage/stock-market-today-jobs-report-07-07-2023/card/energy-stocks-are-having-one-of-their-best-days-of-the-year-qM7ynMbOppLBDpajNnKW?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-07T18:01:59.000Z",
+          "wordCount": 6571,
+          "title": "Energy Stocks Are Having One of Their Best Days of the Year",
+          "imageUrl": "https://images.wsj.net/im-813508/social"
+        },
+        {
           "id": "rivians-stock-rallies-highest-2023-170434332.html",
           "author": null,
           "description": "Shares of Rivian Automotive surged more than 15% on Friday, extending gains for the eighth consecutive session, after the electric vehicle (EV) maker reported better-than-expected quarterly deliveries.  Rivian said on Monday it delivered 12,640 vehicles in the second quarter on steady demand from customers, beating market estimates.  Multiple analysts have raised their price targets for Rivian's stock as the EV maker is seen as having overcome production and supply chain challenges that restricted deliveries.",
@@ -27730,6 +27755,16 @@
           "wordCount": 7898,
           "title": "These Stocks Are Moving the Most Today: Biogen, Alibaba, Levi Strauss, Costco, and More",
           "imageUrl": "https://images.barrons.com/im-724722/social"
+        },
+        {
+          "id": "elon-musk-tesla-offered-customers-101223802.html",
+          "author": null,
+          "description": "Tesla and its Chinese competitors have been locked in a months-long price war in a brutal battle for market share.",
+          "link": "https://finance.yahoo.com/news/elon-musk-tesla-offered-customers-101223802.html",
+          "publishedOn": "2023-07-07T10:12:23.000Z",
+          "wordCount": 2517,
+          "title": "Elon Musk’s Tesla offered customers a cash rebate just one day after pledging to end the ‘reckless’ EV price war in China and support Beijing’s ‘core socialist values’",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/QudmOzBSXBxIg_vEH8nUmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODA-/https://media.zenfs.com/en/fortune_175/69687c327c5f108e31a6cd3351366cee"
         },
         {
           "id": "investors-are-waiting-for-a-consumer-collapse-morning-brief-100009895.html",
@@ -48740,16 +48775,6 @@
           "wordCount": 2563,
           "title": "Google ramps up return-to-office push by using in-person attendance as part of employee performance reviews",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Lt75C.PWpneNKHzGeGnD5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/18c9c65b110241a454d404b1b165f713"
-        },
-        {
-          "id": "bonds-everywhere-suffering-rate-hike-003448005.html",
-          "author": null,
-          "description": "(Bloomberg) -- Bonds are slumping from the US to Australia as early hawkish signs from this month’s slew of central-bank meetings spurred traders to renew bets on an extended interest-rate hiking cycle. Most Read from BloombergThese Are the World’s 20 Most Expensive Cities for Expats in 2023Tech Stocks Sputter as Traders Consider July Hike: Markets WrapFlights to LaGuardia Airport Grounded as Smoke Blankets NYCMessi Spurns $400 Million Saudi Offer to Join Beckham’s MiamiDam Destroyed in the Dead",
-          "link": "https://finance.yahoo.com/news/bonds-everywhere-suffering-rate-hike-003448005.html",
-          "publishedOn": "2023-06-08T06:24:21.000Z",
-          "wordCount": 2201,
-          "title": "Bonds Everywhere Are Suffering as Rate-Hike Fears Swamp Traders",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/fd03d350271ff383a99cccb542836645"
         }
       ]
     }
