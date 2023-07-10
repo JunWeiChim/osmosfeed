@@ -1378,6 +1378,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6271717/",
+          "author": "onze techredactie",
+          "description": "De Amerikaanse komiek Sarah Silverman en twee auteurs beschuldigen Facebook-moederbedrijf Meta en ChatGPT-ontwikkelaar OpenAI van auteursrechtschending. Volgens de schrijvers hebben de techbedrijven hun kunstmatige intelligentie zonder toestemming getraind met hun boeken.",
+          "link": "https://www.nu.nl/tech/6271717/schrijvers-klagen-chatgpt-maker-open-ai-aan-voor-schending-auteursrecht.html",
+          "publishedOn": "2023-07-10T08:50:27.000Z",
+          "wordCount": 1108,
+          "title": "Schrijvers klagen ChatGPT-maker Open AI aan voor schending auteursrecht",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/m8fx55taotvj_sqr256.jpg/schrijvers-klagen-chatgpt-maker-open-ai-aan-voor-schending-auteursrecht.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/m8fx55taotvj_sqr256.jpg/schrijvers-klagen-chatgpt-maker-open-ai-aan-voor-schending-auteursrecht.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6271697/",
           "author": "Noémi van de Pol",
           "description": "Er werd 9,2 procent minder geproduceerd in de Nederlandse industrie dan een jaar eerder. Industriebedrijven laten al vijf maanden op rij een krimp zien.",
@@ -25997,6 +26012,46 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "stock-market-movers-b7357280?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "U.S.-listed shares of Alibaba fall after surging 8% on Friday after China fined affiliate Ant Group nearly $1 billion, Meta's Threads surpasses 100 million users, and Delta and JPMorgan Chase kick off earnings season later this week.",
+          "link": "https://www.barrons.com/articles/stock-market-movers-b7357280?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-10T08:40:00.000Z",
+          "wordCount": 7940,
+          "title": "These Stocks Are Moving the Most Today: Alibaba, Meta, Delta, JPMorgan Chase, and More",
+          "imageUrl": "https://images.barrons.com/im-788940/social"
+        },
+        {
+          "id": "explainer-whats-behind-chinas-failed-075619181.html",
+          "author": null,
+          "description": "The China Association of Auto Manufacturers (CAAM) said in a statement on Saturday it recognised the agreement had violated China's antitrust law and would retract it.  Intense competitive pressure: Since January, when Tesla cut prices in China, about two dozen automakers have followed with price cuts of their own to stay competitive and stoke demand.",
+          "link": "https://finance.yahoo.com/news/explainer-whats-behind-chinas-failed-075619181.html",
+          "publishedOn": "2023-07-10T07:56:19.000Z",
+          "wordCount": 2498,
+          "title": "Explainer-What's behind China's failed 'truce' in EV price war?",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/a305d606401fd4b909fe20699bea9c6f"
+        },
+        {
+          "id": "earnings-won-t-fuel-stock-073446065.html",
+          "author": null,
+          "description": "(Bloomberg) -- A stronger-than-expected corporate earnings season alone won’t be enough to boost the S&P 500 this time around, according to one of the most bearish voices on Wall Street.Most Read from BloombergJack Ma’s Clash With Beijing Costs Ant, Alibaba $850 BillionPowell Haunted by Repo Crisis as Fed Aims to Cut Balance SheetYellen Says US-China Ties on ‘Surer Footing’ After Beijing VisitMove Over Dubai. This Tiny Emirate Wants to Be the Next Haven for BillionairesChina’s Flood of Plastic,",
+          "link": "https://finance.yahoo.com/news/earnings-won-t-fuel-stock-073446065.html",
+          "publishedOn": "2023-07-10T07:34:46.000Z",
+          "wordCount": 2154,
+          "title": "Earnings Won’t Fuel Stock Rally, Morgan Stanley’s Wilson Says",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/addb0f0fe17c359bfe4558893f1ba06e"
+        },
+        {
+          "id": "uber-stock-ceo-dara-khosrowshahi-sells-dd4cae2a?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Dara Khosrowshahi just sold $4.5 million of shares of the ride-hailing firm he heads, his first sales of Uber stock since January 2021.",
+          "link": "https://www.barrons.com/articles/uber-stock-ceo-dara-khosrowshahi-sells-dd4cae2a?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-10T07:00:00.000Z",
+          "wordCount": 7876,
+          "title": "Uber CEO Sells Stock for the First Time in Years",
+          "imageUrl": "https://images.barrons.com/im-812567/social"
+        },
+        {
           "id": "tsmc-sales-ride-ai-demand-053309700.html",
           "author": null,
           "description": "(Bloomberg) -- Taiwan Semiconductor Manufacturing Co. reported better-than-expected sales on a boom in artificial intelligence applications demanding more of the industry-leading firm’s chipmaking capacity.Most Read from BloombergJack Ma’s Clash With Beijing Costs Ant, Alibaba $850 BillionPowell Haunted by Repo Crisis as Fed Aims to Cut Balance SheetYellen Says US-China Ties on ‘Surer Footing’ After Beijing VisitChina’s Flood of Plastic, Yellen Departs: Sunday Asia BriefingYellen’s China Trip Of",
@@ -46635,16 +46690,6 @@
           "wordCount": 1841,
           "title": "Picking and Choosing Tokens to Prosecute Is 'Pretty Unfair,' Says Former SEC Cyber Chief",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/NykQXgpzdXKOZOkg9Pc..g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_media_980/1afc4de24ea5879879df73aa37eb3c89"
-        },
-        {
-          "id": "apple-unveils-vision-pro-ios-203701217.html",
-          "author": null,
-          "description": "It's where we highlight the key stories in the week that was (Apple Vision Pro, anyone?) and other goings on around the TC universe, like the analyses on TC+, our premium subscription service, plus TechCrunch's growing collection of podcasts.  It's an embarrassment of content, if I do say so myself -- and hopefully a welcome reprieve for those on the East Coast who've been inundated with smoke from the Canadian wildfires.  Apple Vision Pro: TC's intrepid editor-in-chief, Matthew, went hands-on with the Vision Pro, Apple's first attempt at an augmented reality (AR) headset, announced at the company's annual Worldwide Developers Conference (WWDC) keynote -- and came away impressed.",
-          "link": "https://finance.yahoo.com/news/apple-unveils-vision-pro-ios-203701217.html",
-          "publishedOn": "2023-06-10T20:37:01.000Z",
-          "wordCount": 2466,
-          "title": "Apple unveils the Vision Pro, iOS 17 brings new features, and WhatsApp launches Channels",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ndG.KCKPC4QKdXMWE7yzug--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/0579a33ad3d0a3a7200ee61f8657ee1d"
         }
       ]
     }
