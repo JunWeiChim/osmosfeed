@@ -1468,6 +1468,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6271837/",
+          "author": "Noémi van de Pol",
+          "description": "Nederlandse goederen en diensten waren vorige maand 5,7 procent duurder dan een jaar eerder. Het inflatiecijfer is iets lager dan in mei: toen steeg de inflatie nog naar 6,1 procent.",
+          "link": "https://www.nu.nl/economie/6271837/inflatie-daalt-een-beetje-in-juni-prijzen-57-procent-hoger-dan-jaar-eerder.html",
+          "publishedOn": "2023-07-11T05:01:23.000Z",
+          "wordCount": 837,
+          "title": "Inflatie daalt een beetje in juni: prijzen 5,7 procent hoger dan jaar eerder",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/srexbu9akc6w_sqr256.jpg/inflatie-daalt-een-beetje-in-juni-prijzen-57-procent-hoger-dan-jaar-eerder.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/srexbu9akc6w_sqr256.jpg/inflatie-daalt-een-beetje-in-juni-prijzen-57-procent-hoger-dan-jaar-eerder.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6271791/",
           "author": "Tom van Gurp",
           "description": "Starters konden in het afgelopen half jaar meer huizen kopen dan in dezelfde periode vorig jaar. Dit kwam door lagere prijzen, hogere inkomens en ruimere leennormen. Toch blijft hun positie moeilijk, met name voor alleenstaanden.",
@@ -8359,6 +8374,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/h/horizontalmerger.asp",
+          "author": "Mitchell Grant",
+          "description": "A horizontal merger is a merger or business consolidation that occurs between firms that operate in the same industry, usually as larger companies attempt to create more efficient economies of scale.",
+          "link": "https://www.investopedia.com/terms/h/horizontalmerger.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-11T04:35:30.000Z",
+          "wordCount": 7579,
+          "title": "Understanding Horizontal Merger vs. Vertical Merger",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/QHtdzv-cawAaXLpVIk56fbRlns4=/205x136/investing11-5bfc2b90c9e77c00519aa65f.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/QHtdzv-cawAaXLpVIk56fbRlns4=/205x136/investing11-5bfc2b90c9e77c00519aa65f.jpg"
+        },
         {
           "id": "https://www.investopedia.com/ask/answers/110614/what-difference-between-overdraft-and-cash-credit.asp",
           "author": "Troy Segal",
@@ -26558,36 +26588,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/I0wjsVQHw88npD9v-tD6o8Td1DA=/5251x3501/oldercouple-00609e40040e44bcbc15769a7a30fd16.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/investing/020116/theranos-fallen-unicorn.asp",
-          "author": "Zaw Thiha Tun",
-          "description": "The saga of Theranos, a unicorn biotech startup, and its enigmatic CEO, Elizabeth Holmes, from the rise to the fall and its aftermath.",
-          "link": "https://www.investopedia.com/articles/investing/020116/theranos-fallen-unicorn.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-11T16:32:26.000Z",
-          "wordCount": 7464,
-          "title": "Theranos: A Fallen Unicorn",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/wdi6fBf4UrvW_mGcN7tWmzFzaC8=/1000x667/shutterstock_444401248-5bfc31ba46e0fb00265d0f21.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/wdi6fBf4UrvW_mGcN7tWmzFzaC8=/1000x667/shutterstock_444401248-5bfc31ba46e0fb00265d0f21.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/personal-finance/091015/millennials-guide-picking-right-car-insurance.asp",
-          "author": "Amy Bell",
-          "description": "Millennials fall into the category of high car insurance rates but this guide will help you find the best auto policy to suit your needs and pocketbook. Check out some of the ways to save money, like owning an older car or leasing a vehicle.",
-          "link": "https://www.investopedia.com/articles/personal-finance/091015/millennials-guide-picking-right-car-insurance.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-11T16:28:36.000Z",
-          "wordCount": 6614,
-          "title": "Millennials Guide: Picking the Right Car Insurance",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/_8Ob9onoSilzy01buokM-wyLQrs=/2121x1414/GettyImages-1174506613-f4e4b34167884036a640d06c898c4509.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/_8Ob9onoSilzy01buokM-wyLQrs=/2121x1414/GettyImages-1174506613-f4e4b34167884036a640d06c898c4509.jpg"
         }
       ]
     },
@@ -47725,16 +47725,6 @@
           "wordCount": 2750,
           "title": "Many insured older Americans face unpaid medical bills",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/FUCU2X1Zm_WGOYDkMmzxgw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/7d3dbea0-06e5-11ee-bffb-48085afab191"
-        },
-        {
-          "id": "irs-gets-major-power-to-request-private-tax-info-after-supreme-court-decision-161906032.html",
-          "author": null,
-          "description": "The Supreme court ruled in favor of the IRS in recent case, allowing it to request third party information without notification.",
-          "link": "https://finance.yahoo.com/news/irs-gets-major-power-to-request-private-tax-info-after-supreme-court-decision-161906032.html",
-          "publishedOn": "2023-06-11T16:19:06.000Z",
-          "wordCount": 2560,
-          "title": "IRS gets major power to request private tax info after Supreme Court decision",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/895Q1JmskC5ht0_dPVYfGA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/fdd1a960-f415-11ed-b656-7dfa21a875fe"
         }
       ]
     }
