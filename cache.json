@@ -1478,6 +1478,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6271914/",
+          "author": "onze economieredactie",
+          "description": "Fietsenproducent VanMoof heeft de verkoop van nieuwe (elektrische) fietsen tijdelijk stilgelegd. Via de webwinkel kun je op dit moment geen fietsen meer bestellen. Volgens VanMoof is dat 'om de productie en levering van bestaande bestellingen te kunnen inhalen'.",
+          "link": "https://www.nu.nl/economie/6271914/vanmoof-legt-verkoop-van-fietsen-tijdelijk-stil.html",
+          "publishedOn": "2023-07-11T12:57:53.000Z",
+          "wordCount": 955,
+          "title": "VanMoof legt verkoop van fietsen tijdelijk stil",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/bfxxnplacswy_sqr256.jpg/vanmoof-legt-verkoop-van-fietsen-tijdelijk-stil.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/bfxxnplacswy_sqr256.jpg/vanmoof-legt-verkoop-van-fietsen-tijdelijk-stil.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6271904/",
           "author": "onze economieredactie",
           "description": "De gevallen techmiljardair Elizabeth Holmes hoeft nog maar negen jaar vast te zitten. Dat is twee jaar minder dan de straf die ze eind vorig jaar kreeg voor het misleiden van investeerders en klanten.",
@@ -8519,6 +8534,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/top-100-financial-advisors-7556227",
+          "author": "Staff Author",
+          "description": "The 2023 Investopedia 100 celebrates financial advisors who are making significant contributions to conversations about financial literacy, investing strategies, and wealth management.",
+          "link": "https://www.investopedia.com/top-100-financial-advisors-7556227?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-11T13:04:08.000Z",
+          "wordCount": null,
+          "title": "Investopedia 100 Top Financial Advisors of 2023",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ZqnhzxHkNeBpTk4OgsOfWKQxuMI=/6250x4167/Investopedia100TopFinancialAdvisorsof2023_31-52919a1c14fa475b9b4cf73dddaa22e3.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ZqnhzxHkNeBpTk4OgsOfWKQxuMI=/6250x4167/Investopedia100TopFinancialAdvisorsof2023_31-52919a1c14fa475b9b4cf73dddaa22e3.jpg"
+        },
         {
           "id": "https://www.investopedia.com/5-things-to-know-before-markets-open-july-11-2023-7558945",
           "author": "Terry Lane",
@@ -26457,6 +26487,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cpi-inflation-data-looms-best-stocks-to-buy-and-watch/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-07-11T12:35:37.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Rise As CPI Inflation Data Looms; 8 Best Stocks To Buy and Watch",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-stocks-will-make-you-richer-than-others-in-a-year-analysts/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-07-11T12:00:34.000Z",
+          "wordCount": null,
+          "title": "10 Stocks Will Make You 30% Richer Than Others In A Year, Analysts",
+          "imageUrl": null
+        },
+        {
           "id": "apple-stock-price-target-b232a6be?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Proprietary data analyzed by KeyBanc suggest Apple faces a slowdown in hardware sales, but there may be bigger forces moving the stock price.",
@@ -26497,6 +26547,16 @@
           "imageUrl": null
         },
         {
+          "id": "saudi-arabia-oil-production-cuts-105634851.html",
+          "author": null,
+          "description": "(Bloomberg) -- The oil market is finally starting to flicker into life — and nowhere is that clearer than in the prices of crude like Saudi Arabia’s, where output cuts are quietly transforming the supply landscape.Most Read from BloombergTurkey Agrees to Back Sweden’s NATO Bid in Boost to AllianceErdogan Just Doomed Turkey's EU MembershipMove Over Dubai. This Tiny Emirate Wants to Be the Next Haven for BillionairesPowell Haunted by Repo Crisis as Fed Aims to Cut Balance SheetPutin Met Wagner’s P",
+          "link": "https://finance.yahoo.com/news/saudi-arabia-oil-production-cuts-105634851.html",
+          "publishedOn": "2023-07-11T10:56:34.000Z",
+          "wordCount": 2773,
+          "title": "Saudi Arabia’s Oil Production Cuts Are Quietly Starting to Bite",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/f375dcd63721a789ba0f95d34a4c35e9"
+        },
+        {
           "id": "ARGUS_37008_TechnicalAnalysis_1689072950000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "author": null,
           "description": "",
@@ -26515,6 +26575,16 @@
           "wordCount": 2112,
           "title": "Futures edge higher ahead of monthly inflation data",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/2c88a6b46e6cadfb99a98ec8665a1a40"
+        },
+        {
+          "id": "stock-futures-edge-up-in-wait-for-inflation-data-stock-market-news-today-104244154.html",
+          "author": null,
+          "description": "Stock futures rose Tuesday in the countdown to inflation reports that could give the Federal Reserve cause to consider ending its interest-rate hikes more quickly.",
+          "link": "https://finance.yahoo.com/news/stock-futures-edge-up-in-wait-for-inflation-data-stock-market-news-today-104244154.html",
+          "publishedOn": "2023-07-11T10:42:44.000Z",
+          "wordCount": 2014,
+          "title": "Stock futures edge up in wait for inflation data: Stock market news today",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/3diN4Q4rjNvEwqG9b9Byww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzg-/https://s.yimg.com/os/creatr-images/2019-08/cb697300-b854-11e9-bffe-0c421017c20b"
         },
         {
           "id": "stock-futures-tread-water-in-wait-for-inflation-data-stock-market-news-today-104244066.html",
@@ -47585,36 +47655,6 @@
           "wordCount": 1904,
           "title": "Bank of Korea Warns of Financial Risk as Real Estate Loans Fail",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/gT5CtFI3kro0jsEnZN6M3Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/72f69c4af56cc10469f7568eab60f07c"
-        },
-        {
-          "id": "oil-edges-lower-ahead-fed-010601964.html",
-          "author": null,
-          "description": "Oil prices edged lower on Monday ahead of a Federal Reserve meeting as investors try to gauge the central bank's appetite for further rate hikes, while concerns about China's fuel demand growth and rising Russian crude supply weighed on the market.  Brent crude futures fell 29 cents, or 0.4%, to $74.50 a barrel by 0058 GMT.  U.S. West Texas Intermediate (WTI) crude was at $69.93 a barrel, down 24 cents, or 0.3%.",
-          "link": "https://finance.yahoo.com/news/oil-edges-lower-ahead-fed-010601964.html",
-          "publishedOn": "2023-06-12T01:06:01.000Z",
-          "wordCount": 2145,
-          "title": "Oil edges lower ahead of Fed meeting",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/5764710d240b36f3916207848cd65f73"
-        },
-        {
-          "id": "gold-ticks-lower-firmer-dollar-005850079.html",
-          "author": null,
-          "description": "(Reuters) -Gold prices dipped on Monday as the U.S. dollar edged higher, and investors positioned for a series of major central bank policy meetings this week, with a likely pause in interest rate hikes by the U.S. Federal Reserve.  \"While the Fed is expected to hold their interest rate, they are unlikely to deliver a dovish undertone required to tempt gold bulls back to the table in a meaningful way,\" said Matt Simpson, senior market analyst at City Index.  Gold prices climbed 0.7% for the week ended Friday, helped by a more-than-1% jump on Thursday after a surge in U.S. weekly jobless claims.",
-          "link": "https://finance.yahoo.com/news/gold-ticks-lower-firmer-dollar-005850079.html",
-          "publishedOn": "2023-06-12T00:58:50.000Z",
-          "wordCount": 2127,
-          "title": "Gold listless as markets strap in for Fed verdict",
-          "imageUrl": "https://media.zenfs.com/en/reuters.com/6fa05133fe8ec23f307ca2e6dcff40e0"
-        },
-        {
-          "id": "billionaires-steve-cohen-ken-griffin-002839681.html",
-          "author": null,
-          "description": "Is there a right way to invest? Not really. Each person has their own individual style, but what ultimately matters are the results. This holds especially true in the realm of investing, where even the most successful stock pickers on Wall Street employ diverse strategies to achieve their goals. And what are those goals? Big returns, of course. Take Billionaires Steve Cohen and Ken Griffin, for example. Both have had incredible careers, but each’s route to riches has been distinct. Griffin, who",
-          "link": "https://finance.yahoo.com/news/billionaires-steve-cohen-ken-griffin-002839681.html",
-          "publishedOn": "2023-06-12T00:28:39.000Z",
-          "wordCount": 2911,
-          "title": "Billionaires Steve Cohen and Ken Griffin Have One Thing in Common: They Both Like These 2 ‘Strong Buy’ Stocks",
-          "imageUrl": "https://media.zenfs.com/en/tipranks_452/7f4bee699e105318033974e0b35e7a49"
         }
       ]
     }
