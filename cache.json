@@ -841,6 +841,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "3e0219b86ae8bad476c866aea9b9c3b0",
+          "author": "Investopedia",
+          "description": "Shares of JPMorgan and Wells Fargo surge after reporting earnings that beat analyst expectations and U.K. regulators extend the deadline on the Microsoft-Activision merger probe. Here’s what investors need to know today.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df4f2a56d06e81209c9d0a69cdab3fa7f9fa6db3bcc37ff57eba6758d7621e59025d",
+          "publishedOn": "2023-07-14T12:27:19.511Z",
+          "wordCount": 411,
+          "title": "5 Things to Know Before Markets Open",
+          "imageUrl": null
+        },
+        {
           "id": "47dce000c5bd37510f25403505453122",
           "author": "Investopedia",
           "description": "Better-than-expected inflation data prompted investors to send the Dow Jones higher for the fourth day in a row.",
@@ -1507,6 +1517,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6272355/",
+          "author": "onze techredactie",
+          "description": "India heeft vrijdag de onbemande maanmissie Chandrayaan-3 gelanceerd. Als alles goed gaat, komt de maanlander in de tweede helft van augustus aan op de maan.",
+          "link": "https://www.nu.nl/tech/6272355/india-lanceert-onbemande-ruimtemissie-naar-de-maan.html",
+          "publishedOn": "2023-07-14T11:41:15.000Z",
+          "wordCount": 996,
+          "title": "India lanceert onbemande ruimtemissie naar de maan",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/8x1xkbna7ci2_sqr256.jpg/india-lanceert-onbemande-ruimtemissie-naar-de-maan.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/8x1xkbna7ci2_sqr256.jpg/india-lanceert-onbemande-ruimtemissie-naar-de-maan.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6272353/",
           "author": "onze economieredactie",
@@ -8579,6 +8604,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/5-things-to-know-before-markets-open-july-14-2023-7561111",
+          "author": "Terry Lane",
+          "description": "Shares of JPMorgan and Wells Fargo surge after reporting earnings that beat analyst expectations and U.K. regulators extend the deadline on the Microsoft-Activision merger probe. Here’s what investors need to know today.",
+          "link": "https://www.investopedia.com/5-things-to-know-before-markets-open-july-14-2023-7561111?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-14T11:27:50.000Z",
+          "wordCount": 5262,
+          "title": "5 Things to Know Before Markets Open",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/3lC41R9Ys_7VzdDqTi9NGklSgt0=/3500x2333/GettyImages-14979696821-10e586889c88470eb83bb3211708ea25.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/3lC41R9Ys_7VzdDqTi9NGklSgt0=/3500x2333/GettyImages-14979696821-10e586889c88470eb83bb3211708ea25.jpg"
+        },
         {
           "id": "https://www.investopedia.com/small-business/how-businesses-borrow-money/",
           "author": "Daniel Kurt",
@@ -25907,6 +25947,56 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "wells-fargo-profit-jumps-57--UVZSCHSGBlpyvSDgzngh?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Wells Fargo’s earnings jumped in the second quarter, joining JPMorgan Chase’s blockbuster report. Here are the highlights:\nThe bank earn",
+          "link": "https://www.wsj.com/livecoverage/stock-market-today-earnings-07-14-2023/card/wells-fargo-profit-jumps-57--UVZSCHSGBlpyvSDgzngh?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-14T11:49:46.000Z",
+          "wordCount": 7081,
+          "title": "Wells Fargo Profit Jumps 57%",
+          "imageUrl": "https://images.wsj.net/im-816931/social"
+        },
+        {
+          "id": "unitedhealth-unh-q2-earnings-report-2023-2361e546?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Healthcare and insurance company UnitedHealth Group said its revenue grew 16% to $92.9 billion in the latest quarter.",
+          "link": "https://www.wsj.com/articles/unitedhealth-unh-q2-earnings-report-2023-2361e546?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-14T11:34:00.000Z",
+          "wordCount": 7187,
+          "title": "UnitedHealth Lifts Earnings Outlook as Premiums Rise",
+          "imageUrl": "https://images.wsj.net/im-816461/social"
+        },
+        {
+          "id": "slow-5g-rollout-hits-ericsson-and-nokia-brUp7fCf8MGftgAGO89p?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "America’s 5G revolution is faltering.\nEricsson and Nokia shares were both down over 8% in recent trading. Key network suppliers to the likes of Verizon Communications and AT&T, the companies independently cut their profit outlooks on Friday morning as the weak U.S. market shows no immediate sign of",
+          "link": "https://www.wsj.com/livecoverage/stock-market-today-earnings-07-14-2023/card/slow-5g-rollout-hits-ericsson-and-nokia-brUp7fCf8MGftgAGO89p?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-14T11:24:31.000Z",
+          "wordCount": 6839,
+          "title": "Heard on the Street: Slow 5G Rollout Hits Ericsson and Nokia",
+          "imageUrl": "https://images.wsj.net/im-817132/social"
+        },
+        {
+          "id": "jpmorgan-2q-profits-surge-in-show-of-strength-for-banking-giant-105848406.html",
+          "author": null,
+          "description": "The result kicked off an earnings season where banks of all sizes will be trying to show that they recovered from one of the most challenging periods since the 2008 financial crisis.",
+          "link": "https://finance.yahoo.com/news/jpmorgan-2q-profits-surge-in-show-of-strength-for-banking-giant-105848406.html",
+          "publishedOn": "2023-07-14T10:58:48.000Z",
+          "wordCount": 2099,
+          "title": "JPMorgan 2Q profits surge in show of strength for banking giant",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Do5c0RkLP22LiUwtJ9F09Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-03/1667ac20-b427-11ec-af67-689c849d3a6a"
+        },
+        {
+          "id": "wells-fargo-profit-rises-higher-104825181.html",
+          "author": null,
+          "description": "Net income rose to $4.94 billion, or $1.25 per share, for the three months ended June 30, compared with $3.14 billion, or $0.75 per share, a year earlier, the lender said on Friday.  After the Federal Reserve raised interest rates to tame inflation, banks have benefited by charging customers more to borrow money.  Fed Chair Jerome Powell signaled late last month that the central bank will likely resume its rate-hiking campaign after leaving the policy rate unchanged in June.",
+          "link": "https://finance.yahoo.com/news/wells-fargo-profit-rises-higher-104825181.html",
+          "publishedOn": "2023-07-14T10:48:25.000Z",
+          "wordCount": 1975,
+          "title": "Wells Fargo profit surges 57% as interest payments climb",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/16c26ef7a58281255de46b9c8c0089d9"
+        },
+        {
           "id": "amazon-has-become-one-the-most-boring-stories-in-tech-morning-brief-102017920.html",
           "author": null,
           "description": "Where did the buzz go for Amazon? Out the door with buff founder Jeff Bezos?",
@@ -26067,6 +26157,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/4M7JS_54IHe2tBBmbwQ_hw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/cbsmoneywatch.com/4cd6d8610b3a9f075cb711829300f581"
         },
         {
+          "id": "top-cd-rates-today-july-13-2023-7560945?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "See what today's top nationwide rate is for every CD term, and how it compares to the previous business day's top rate. We collect data from more than 200 financial institutions.",
+          "link": "https://www.investopedia.com/top-cd-rates-today-july-13-2023-7560945?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-07-13T21:38:44.000Z",
+          "wordCount": 6011,
+          "title": "Top CD Rates Today, July 13, 2023",
+          "imageUrl": "https://www.investopedia.com/thmb/uH7NOFmsP3klp-BCSGmCwGU5MR8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/July13-6cf8141f16d34d179ee5c7a7003d27cc.jpg"
+        },
+        {
           "id": "stock-market-rally-7a1cfe26?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "The S&P 500 is up about 25% from its bear market low hit in early October.",
@@ -26107,6 +26207,16 @@
           "imageUrl": null
         },
         {
+          "id": "rise-semiretired-life.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "The number of people leaving the workforce to become semi-retired, instead of fully retired, is growing. Here is a look at the reasons and options.",
+          "link": "https://www.investopedia.com/articles/retirement/102516/rise-semiretired-life.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-07-13T20:18:14.000Z",
+          "wordCount": 7900,
+          "title": "The Rise of the Semi-Retired Life",
+          "imageUrl": "https://www.investopedia.com/thmb/fnJjKGmTRvD89PIBqiUGWqX1r5c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/happy-mature-woman-drinking-coffee-and-raking-autumn-leaves-in-backyard-1011586776-73c84d3c457a41c2bcaa3b4c2fd9bfba.jpg"
+        },
+        {
           "id": "the-dollar-is-weakening--heres-what-it-means-for-investors-201122414.html",
           "author": null,
           "description": "The dollar has been on a downward trend. That could be good news for equities and commodities.",
@@ -26145,6 +26255,16 @@
           "wordCount": null,
           "title": "Dow Jones Gains Amid Disney TV Shock; This Cathie Wood Stock Hits Buy Zone As She Loads Up",
           "imageUrl": null
+        },
+        {
+          "id": "citigroup-earnings-stock-price-af3e04ec?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Wall Street expects Citigroup's second-quarter earnings to tumble from a year ago. The bank reports Friday before the market opens.",
+          "link": "https://www.barrons.com/articles/citigroup-earnings-stock-price-af3e04ec?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-13T18:55:00.000Z",
+          "wordCount": 7836,
+          "title": "Citigroup Reports Earnings Friday. Here’s What to Expect.",
+          "imageUrl": "https://images.barrons.com/im-815854/social"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -46525,26 +46645,6 @@
           "wordCount": 2088,
           "title": "Bitcoin mining difficulty rises 2.18% to record amid increasing competition among miners",
           "imageUrl": "https://media.zenfs.com/en/forkast_news_articles_672/c69df786151f9963431075d64af2024a"
-        },
-        {
-          "id": "elon-musks-decision-not-pay-232822636.html",
-          "author": null,
-          "description": "Twitter has still not paid rent on its office spaces, and Elon Musk told an advisor he would pay rent \"over his dead body,\" according to a lawsuit.",
-          "link": "https://finance.yahoo.com/news/elon-musks-decision-not-pay-232822636.html",
-          "publishedOn": "2023-06-14T23:28:22.000Z",
-          "wordCount": 2265,
-          "title": "Elon Musk's decision to not pay rent on Twitter's offices is adding to commercial mortgage headaches at Goldman Sachs",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/UsTZXOCC7e6X3F2W6NitsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/f51ba0e0f53be2d4f3dac0249c8369d2"
-        },
-        {
-          "id": "irs-audits-rich-deliver-huge-232644712.html",
-          "author": null,
-          "description": "Republicans have been clamoring to rescind billions of dollars in additional funding provided for the Internal Revenue Service as part of last year’s Inflation Reduction Act. They succeeded to an extent as part of the recent deal between House Speaker Kevin McCarthy and President Joe Biden to raise the debt limit, which also clawed back $21.4 billion from the tax agency. A new study suggests that deal could be costly. Researchers at the Treasury Department, Harvard University and The University",
-          "link": "https://finance.yahoo.com/news/irs-audits-rich-deliver-huge-232644712.html",
-          "publishedOn": "2023-06-14T23:26:44.000Z",
-          "wordCount": 1984,
-          "title": "IRS Audits of the Rich Deliver Huge Bang for the Buck: New Study",
-          "imageUrl": "https://media.zenfs.com/en/us.finance.thefiscaltimes/4c85e4adf4572787530e00ef5651e6ee"
         }
       ]
     }
