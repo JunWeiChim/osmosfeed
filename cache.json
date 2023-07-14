@@ -832,16 +832,6 @@
           "wordCount": 411,
           "title": "CAVA Shares Soar on the Restaurant Chain's First Day of Trading",
           "imageUrl": null
-        },
-        {
-          "id": "2a97d3bab7ac28b25a709b6f82a6ccad",
-          "author": "Investopedia",
-          "description": "UnitedHealth shares tumbled after warning that more seniors are choosing to have elective surgeries, driving up costs.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9369cef61aa1543c89822cabbf2d2c9d4a4c8e318737a4860f394dc8629b349c91157fd7f578b4faf16df1ed8024aa3efa671c9726480d4105f8e0e5d8795d84c1bea3c8c98aca064780158ac43f31de31777f",
-          "publishedOn": "2023-06-14T21:10:32.111Z",
-          "wordCount": 411,
-          "title": "UnitedHealth Warns About Rising Costs for Seniors' Surgeries, and Shares Sink",
-          "imageUrl": null
         }
       ]
     },
@@ -1509,26 +1499,6 @@
           "wordCount": 411,
           "title": "5 Things to Know Before Markets Open",
           "imageUrl": null
-        },
-        {
-          "id": "3829f16d6b86927039b964c68242f022",
-          "author": "Investopedia",
-          "description": "Markets ended mixed on forecast the Fed may pause rate increases, and declines in healthcare stocks.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b66d5e91ab14f748d803ceeff33358a4012cc3ec83eb4960f3945cf6ed835de801f6fc2f521ffa2b674b4b0dd79",
-          "publishedOn": "2023-06-14T21:10:32.481Z",
-          "wordCount": 411,
-          "title": "Markets End Mixed on Fed Rate Forecast, Healthcare Sector Stock Moves",
-          "imageUrl": null
-        },
-        {
-          "id": "892d6493cb0dcd69ede6cbf5e588d2b8",
-          "author": "Investopedia",
-          "description": "The Dow fell 230 points after the Fed holds rates steady, but hints more rate hikes to come",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c24e4acd35c869e5df107b168826c26685c4423e91",
-          "publishedOn": "2023-06-14T21:10:32.132Z",
-          "wordCount": 411,
-          "title": "Dow Jones Today: Index Falls on Fed’s ‘Pause’",
-          "imageUrl": null
         }
       ]
     },
@@ -1537,6 +1507,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6272334/",
+          "author": "Tom van Gurp",
+          "description": "De lonen van bijna een miljoen werkenden gaan de komende twaalf maanden ruim 8 procent omhoog. Dat is afgesproken in de cao's die in juni zijn gesloten, meldt werkgeversvereniging AWVN.",
+          "link": "https://www.nu.nl/economie/6272334/lonen-van-een-miljoen-mensen-stijgen-ruim-8-procent-in-nieuwe-caos.html",
+          "publishedOn": "2023-07-14T09:08:02.000Z",
+          "wordCount": 951,
+          "title": "Lonen van een miljoen mensen stijgen ruim 8 procent in nieuwe cao's",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/zsbxfzcajfyj_sqr256.jpg/lonen-van-een-miljoen-mensen-stijgen-ruim-8-procent-in-nieuwe-caos.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/zsbxfzcajfyj_sqr256.jpg/lonen-van-een-miljoen-mensen-stijgen-ruim-8-procent-in-nieuwe-caos.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6272327/",
+          "author": "Tim Wijkman-van Aalst",
+          "description": "Een deel van de klanten van KPN kon vrijdagochtend enkele uren geen tv kijken door een storing. Het probleem is rond 10.30 uur verholpen.",
+          "link": "https://www.nu.nl/tech/6272327/storing-waardoor-kpn-klanten-geen-tv-konden-kijken-is-opgelost.html",
+          "publishedOn": "2023-07-14T08:50:58.000Z",
+          "wordCount": 851,
+          "title": "Storing waardoor KPN-klanten geen tv konden kijken is opgelost",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/qtdxz3sarn6d_sqr256.jpg/storing-waardoor-kpn-klanten-geen-tv-konden-kijken-is-opgelost.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/qtdxz3sarn6d_sqr256.jpg/storing-waardoor-kpn-klanten-geen-tv-konden-kijken-is-opgelost.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6272311/",
           "author": "onze economieredactie",
@@ -25973,81 +25973,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/2cUKf4phFkkkkGqQmswSDq2qBhg=/680x440/shutterstock_253136563-5bfc2b98c9e77c00519aa7a8.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/markets-end-mixed-on-fed-rate-forecast-7546834",
-          "author": "Staff Author",
-          "description": "Markets ended mixed on forecast the Fed may pause rate increases, and declines in healthcare stocks.",
-          "link": "https://www.investopedia.com/markets-end-mixed-on-fed-rate-forecast-7546834?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-14T20:49:16.000Z",
-          "wordCount": 4764,
-          "title": "Markets End Mixed on Wednesday, June 14, 2023 on Fed Rate Forecast, Healthcare Sector Stock Moves",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/C8Cp2_jY8OHFj-s8MA8aHkZtHdo=/1240x744/3qqnH-18-46d88b25aaf8469eba0816d8e0a8e803.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/C8Cp2_jY8OHFj-s8MA8aHkZtHdo=/1240x744/3qqnH-18-46d88b25aaf8469eba0816d8e0a8e803.png"
-        },
-        {
-          "id": "https://www.investopedia.com/dow-jones-today-june-14-2023-7546822",
-          "author": "Terry Lane",
-          "description": "The Dow fell 230 points after the Fed holds rates steady, but hints more rate hikes to come",
-          "link": "https://www.investopedia.com/dow-jones-today-june-14-2023-7546822?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-14T20:48:15.000Z",
-          "wordCount": 4995,
-          "title": "Dow Jones Today: Index Falls on Fed’s ‘Pause’",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/vuE2Zj2rEjjVrwOM-WrqMj976Wg=/5369x3579/GettyImages-1258692541-321d445ea8a84f93a54340ae919ed7a2.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/vuE2Zj2rEjjVrwOM-WrqMj976Wg=/5369x3579/GettyImages-1258692541-321d445ea8a84f93a54340ae919ed7a2.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/where-should-my-savings-be-right-now-7546652",
-          "author": "Staff Author",
-          "description": "Rates on bank accounts and CDs have already surged to their highest level in almost 16 years, and may rise further, giving you many options to earn 5% or more on your cash.",
-          "link": "https://www.investopedia.com/where-should-my-savings-be-right-now-7546652?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-14T20:46:09.000Z",
-          "wordCount": 6057,
-          "title": "Where Should My Savings Be Right Now?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/LTCjA5WLo7U6vbX7wALILtsGF7Y=/5760x3840/Manmid-agewhite-MorsaImages-fcccd135177040e6b22f73ca6b7a0c79.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/LTCjA5WLo7U6vbX7wALILtsGF7Y=/5760x3840/Manmid-agewhite-MorsaImages-fcccd135177040e6b22f73ca6b7a0c79.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/apply-for-mortgage-loan-5213910",
-          "author": "Andrew Martins",
-          "description": "If you've found your next home and it's in your budget, you're likely going to want to know how to apply for a mortgage loan. Read on to learn how.",
-          "link": "https://www.investopedia.com/apply-for-mortgage-loan-5213910?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-14T20:41:22.000Z",
-          "wordCount": 6573,
-          "title": "How to Apply for a Mortgage Loan",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/yU5Ykn0eYIBzKoOtuWjsoHEcRxc=/2121x1414/GettyImages-178492151-32929be71e11438ba878e75670c59f40.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/yU5Ykn0eYIBzKoOtuWjsoHEcRxc=/2121x1414/GettyImages-178492151-32929be71e11438ba878e75670c59f40.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/unitedhealth-warns-about-rising-costs-for-seniors-surgeries-and-shares-sink-7546796",
-          "author": "Staff Author",
-          "description": "UnitedHealth shares tumbled after warning that more seniors are choosing to have elective surgeries, driving up costs.",
-          "link": "https://www.investopedia.com/unitedhealth-warns-about-rising-costs-for-seniors-surgeries-and-shares-sink-7546796?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-14T20:21:36.000Z",
-          "wordCount": 4798,
-          "title": "UnitedHealth Warns About Rising Costs for Seniors' Surgeries, and Shares Sink",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/q2n6cd1wmQj8NS5TKfk_xaAgORc=/4861x3357/GettyImages-540839640-a0c7498f588848cda139cb6ee3e7fcaa.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/q2n6cd1wmQj8NS5TKfk_xaAgORc=/4861x3357/GettyImages-540839640-a0c7498f588848cda139cb6ee3e7fcaa.jpg"
         }
       ]
     },
@@ -26056,6 +25981,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "auddev&yptr=yahoo",
+          "author": null,
+          "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+          "link": "https://www.ft.com/cms/s/c6630e49-e29a-4360-af0a-83758eec9e10,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev&yptr=yahoo",
+          "publishedOn": "2023-07-14T07:02:19.000Z",
+          "wordCount": 1634,
+          "title": "Nokia warns on profits due to slowing economy and rising inflation",
+          "imageUrl": null
+        },
         {
           "id": "visa-mastercard-undervalued-stocks-buy-922575a?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -26115,6 +26050,16 @@
           "wordCount": 3102,
           "title": "First Mover Asia: Bitcoin Soars to One-Year High at $31.7K as Crypto Investors Savor Partial Ripple Victory",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/sb4UK1xMGyXXQHnPaVjYGQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mzc-/https://media.zenfs.com/en/coindesk_75/7d1bfddb855ab8a05d62bf127389835f"
+        },
+        {
+          "id": "millions-gen-xers-almost-nothing-214455229.html",
+          "author": null,
+          "description": "\"The American Dream of retirement is going to be a nightmare for too many Gen-Xers,\" one expert said.",
+          "link": "https://finance.yahoo.com/news/millions-gen-xers-almost-nothing-214455229.html",
+          "publishedOn": "2023-07-13T21:44:55.000Z",
+          "wordCount": 1998,
+          "title": "Millions of Gen-Xers have almost nothing saved for retirement",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/4M7JS_54IHe2tBBmbwQ_hw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/cbsmoneywatch.com/4cd6d8610b3a9f075cb711829300f581"
         },
         {
           "id": "stock-market-rally-7a1cfe26?siteid=yhoof2&yptr=yahoo",
@@ -46655,46 +46600,6 @@
           "wordCount": 2068,
           "title": "Jerome Powell just admitted that some banks are in trouble with their commercial real estate holdings: ‘We do expect that there will be losses’",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/CsvjquEPfRJr9v14WXk5TA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/92ad6074f2b760bee398d4aadf3ac670"
-        },
-        {
-          "id": "gundlach-doesn-t-think-fed-205115368.html",
-          "author": null,
-          "description": "(Bloomberg) -- DoubleLine Capital’s Jeffrey Gundlach doesn’t believe the Federal Reserve will continue to raise interest rates anytime soon despite Fed Chair Jerome Powell signaling the resumption of monetary tightening. Most Read from BloombergElizabeth Holmes Objects to $250-a-Month Victim Payments After PrisonBiggest Losers of AI Boom Are Knowledge Workers, McKinsey SaysTrump Urges Prosecutors to Drop Case, Offers Defense PreviewNYC’s Rent Surge Defied by New Grads Pursuing a TikTok Lifestyle",
-          "link": "https://finance.yahoo.com/news/gundlach-doesn-t-think-fed-205115368.html",
-          "publishedOn": "2023-06-14T20:51:15.000Z",
-          "wordCount": 1831,
-          "title": "Gundlach Doesn’t Think the Fed Will Resume Rate Hikes Soon",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ryU4VBKpgoZDSBs8lvUcBQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/1b2e061bfd7b4f2b00fb0af77169a951"
-        },
-        {
-          "id": "where-should-my-savings-be-right-now-7546652?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Rates on bank accounts and CDs have already surged to their highest level in almost 16 years, and may rise further, giving you many options to earn 5% or more on your cash.",
-          "link": "https://www.investopedia.com/where-should-my-savings-be-right-now-7546652?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-06-14T20:46:09.000Z",
-          "wordCount": 6501,
-          "title": "Where Should Your Savings Be Right Now? Somewhere You Can Earn at Least 5%",
-          "imageUrl": "https://www.investopedia.com/thmb/b-pUFyd8dQ1iooYLEiJLMCXvY70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Manmid-agewhite-MorsaImages-fcccd135177040e6b22f73ca6b7a0c79.jpg"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/china-ev-stocks-revving-higher-chinese-economic-recovery-slowing/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-06-14T20:37:17.000Z",
-          "wordCount": null,
-          "title": "China EV Stocks: Li Auto, Nio, XPeng Revving Higher Despite Slowing Economy",
-          "imageUrl": null
-        },
-        {
-          "id": "tesla-240-billion-rally-set-135539278.html",
-          "author": null,
-          "description": "(Bloomberg) -- Tesla Inc. shares snapped their record-setting 13-day winning streak Wednesday, as a hawkish stance from the Federal Reserve and market technicals took some steam off the rally. Most Read from BloombergElizabeth Holmes Objects to $250-a-Month Victim Payments After PrisonBiggest Losers of AI Boom Are Knowledge Workers, McKinsey SaysTrump Urges Prosecutors to Drop Case, Offers Defense PreviewNYC’s Rent Surge Defied by New Grads Pursuing a TikTok LifestyleKen Griffin Ramps Up Credit",
-          "link": "https://finance.yahoo.com/news/tesla-240-billion-rally-set-135539278.html",
-          "publishedOn": "2023-06-14T20:34:06.000Z",
-          "wordCount": 2160,
-          "title": "Tesla’s $240 Billion Rally Set to Collide With a Bearish Signal",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/L2117PYWmlxFWTblP0WewA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/90427b7a5aeae28ef0d2029cd7747791"
         }
       ]
     }
