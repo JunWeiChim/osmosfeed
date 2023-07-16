@@ -1468,6 +1468,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6272575/",
+          "author": "onze nieuwsredactie",
+          "description": "Twitter is sinds de overname door Elon Musk ongeveer de helft van zijn advertentie-inkomsten kwijtgeraakt. Ook kampt de berichtendienst met een grote schuldenlast en een negatieve kasstroom. Dat wil zeggen dat er meer geld de onderneming uitgaat, dan dat er binnenkomt.",
+          "link": "https://www.nu.nl/economie/6272575/twitter-is-helft-advertentieomzet-kwijt-en-ziet-geld-wegvloeien.html",
+          "publishedOn": "2023-07-16T07:57:06.000Z",
+          "wordCount": 1236,
+          "title": "Twitter is helft advertentieomzet kwijt en ziet geld wegvloeien",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/e1fxfxpanxr1_sqr256.jpg/twitter-is-helft-advertentieomzet-kwijt-en-ziet-geld-wegvloeien.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/e1fxfxpanxr1_sqr256.jpg/twitter-is-helft-advertentieomzet-kwijt-en-ziet-geld-wegvloeien.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6272393/",
           "author": "Thijs Rösken",
           "description": "De WOZ-waarde van koopwoningen blijft stijgen, ook nu de huizenmarkt is afgekoeld. Velen zijn daar niet gelukkig mee, want daardoor betaal je hogere belastingen. Maar er zitten ook voordelen aan een hoge WOZ-waarde.",
@@ -8359,6 +8374,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/ask/answers/050515/how-can-you-calculate-difference-between-nominal-value-and-real-value-stock-shares.asp",
+          "author": "The Investopedia Team",
+          "description": "Explore the impact of real value and nominal value on stock trading. Find out how these values are assigned and what causes them to change.",
+          "link": "https://www.investopedia.com/ask/answers/050515/how-can-you-calculate-difference-between-nominal-value-and-real-value-stock-shares.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-16T07:43:26.000Z",
+          "wordCount": 5303,
+          "title": "Calculate the Difference Between Nominal Value and Real Value of Stock Shares",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/vrYNvqpZY8sJAgSmv9P6z2Ho2UM=/680x440/shutterstock_112522391-5bfc2b9846e0fb0051bde2d3.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/vrYNvqpZY8sJAgSmv9P6z2Ho2UM=/680x440/shutterstock_112522391-5bfc2b9846e0fb0051bde2d3.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/021616/what-good-turnover-ratio-mutual-fund.asp",
+          "author": "Claire Boyte-White",
+          "description": "Mutual fund turnover ratios have an ideal ratio that may differ based on the type of mutual fund and your investment goals.",
+          "link": "https://www.investopedia.com/ask/answers/021616/what-good-turnover-ratio-mutual-fund.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-16T07:38:43.000Z",
+          "wordCount": 5255,
+          "title": "A Good Turnover Ratio for a Mutual Fund",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/lBINxh4QbUDkC6eb1UXPkULbjew=/2121x1414/financial-advisor-having-a-meeting-with-clients-1063753064-c799ed7b34b945e79e548b62e90fdd83.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/lBINxh4QbUDkC6eb1UXPkULbjew=/2121x1414/financial-advisor-having-a-meeting-with-clients-1063753064-c799ed7b34b945e79e548b62e90fdd83.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/investing/072715/dummies-guide-iran-nuclear-deal.asp",
+          "author": "Shobhit Seth",
+          "description": "Learn more about the Iran Nuclear Deal, including its implementation, its cancellation, and the potential next steps.",
+          "link": "https://www.investopedia.com/articles/investing/072715/dummies-guide-iran-nuclear-deal.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-16T07:02:43.000Z",
+          "wordCount": 7618,
+          "title": "A Guide to the Iran Nuclear Deal",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/sWoLVKJisHQCDcVvn2St1Bo7oAM=/680x440/shutterstock_200460026-5bfc363bc9e77c002632779a.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/sWoLVKJisHQCDcVvn2St1Bo7oAM=/680x440/shutterstock_200460026-5bfc363bc9e77c002632779a.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/b/boe.asp",
           "author": "Will Kenton",
@@ -25063,186 +25123,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/oDPBslV1JzT9gTOf9GxjGAT1A-Y=/6240x4160/INV-IBonds_GettyImages-1335987568-e8ce10d458fb4998adad1ead4d31280c.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/draftkings-and-fanatics-in-bidding-war-for-pointsbet-us-assets-7548250",
-          "author": "Staff Author",
-          "description": "DraftKings made a $195 million cash bid for the U.S. assets of PointsBet, a higher offer than Fanatics.",
-          "link": "https://www.investopedia.com/draftkings-and-fanatics-in-bidding-war-for-pointsbet-us-assets-7548250?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-16T20:15:28.000Z",
-          "wordCount": 4815,
-          "title": "DraftKings and Fanatics in Bidding War for PointsBet's US Assets",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/wlJ0GQN6F9dZlkbNHKXzqbxKN40=/5568x3712/GettyImages-1475353237-bd8804ef3ce349c3b5ba5fba7fca24e3.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/wlJ0GQN6F9dZlkbNHKXzqbxKN40=/5568x3712/GettyImages-1475353237-bd8804ef3ce349c3b5ba5fba7fca24e3.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/personal-finance/050815/what-do-financial-advisers-do.asp",
-          "author": "Amy Fontinelle",
-          "description": "Just what does a financial advisor do? A lot, in fact. And any potential client should do their due diligence and come prepared with questions.",
-          "link": "https://www.investopedia.com/articles/personal-finance/050815/what-do-financial-advisers-do.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-16T20:09:22.000Z",
-          "wordCount": 9448,
-          "title": "What Does a Financial Advisor Do?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/WfHy5GN401vW3GNBqRK89SEf7ZA=/3888x2592/GettyImages-172372854-57af9e643df78cd39c41a631.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/WfHy5GN401vW3GNBqRK89SEf7ZA=/3888x2592/GettyImages-172372854-57af9e643df78cd39c41a631.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/d/deposit-slip.asp",
-          "author": "Mitchell Grant",
-          "description": "A deposit slip is a paper form that a bank customer includes when depositing funds into a bank account. It cites the depositor's account number and the amount deposited",
-          "link": "https://www.investopedia.com/terms/d/deposit-slip.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-16T20:07:25.000Z",
-          "wordCount": 6197,
-          "title": "Deposit Slip: What It Is, How It Works, Benefits",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/f9tc802ZXz4i2fSjE6oOOHna9qA=/5760x3840/five-hundred-dollar-drive-through-bank-deposit-169963185-26b3ce44e88c45beaa12d134c2b45888.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/f9tc802ZXz4i2fSjE6oOOHna9qA=/5760x3840/five-hundred-dollar-drive-through-bank-deposit-169963185-26b3ce44e88c45beaa12d134c2b45888.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/markets/022016/general-electrics-8-most-profitable-lines-business-ge.asp",
-          "author": "Matthew Johnston",
-          "description": "GE generates most of its profit and revenue through its aviation segment.",
-          "link": "https://www.investopedia.com/articles/markets/022016/general-electrics-8-most-profitable-lines-business-ge.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-16T20:00:40.000Z",
-          "wordCount": 6380,
-          "title": "How GE Makes Money",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ARqNM1Yi7_8Pr_TIeZHMGkLp3aQ=/1602x1186/AdobeStock_155782211_Editorial_Use_Only-cf3c567ee2db43d58cb16892a6c6a634.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ARqNM1Yi7_8Pr_TIeZHMGkLp3aQ=/1602x1186/AdobeStock_155782211_Editorial_Use_Only-cf3c567ee2db43d58cb16892a6c6a634.jpeg"
-        },
-        {
-          "id": "https://www.investopedia.com/easing-inflation-boosts-consumer-sentiment-7548237",
-          "author": "Staff Author",
-          "description": "The University of Michigan's Consumer Sentiment Index rose in June to its highest level in four months as inflation eased.",
-          "link": "https://www.investopedia.com/easing-inflation-boosts-consumer-sentiment-7548237?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-16T19:59:11.000Z",
-          "wordCount": 4725,
-          "title": "Easing Inflation Boosts Consumer Sentiment",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/5WiSAmZtRqOMQ_D9CtCqpoituas=/7200x5059/GettyImages-1404201128-1f7ab835dc324a35ac1195f17499d96c.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/5WiSAmZtRqOMQ_D9CtCqpoituas=/7200x5059/GettyImages-1404201128-1f7ab835dc324a35ac1195f17499d96c.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/why-todays-5-percent-savings-rates-are-the-best-weve-seen-since-2007-7547586",
-          "author": "Staff Author",
-          "description": "On the heels of the pandemic, the Fed has been battling decades-high inflation with aggressive rate hikes, and driving savings account rates to almost 16-year highs.",
-          "link": "https://www.investopedia.com/why-todays-5-percent-savings-rates-are-the-best-weve-seen-since-2007-7547586?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-16T19:58:37.000Z",
-          "wordCount": 5299,
-          "title": "Why Today's 5% Savings Rates Are the Best We've Seen Since 2007",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/CO3G_la8SaBbpIpFSlIAWDSjfvs=/5641x3730/Couplewhitemid-age-shapecharge-92441ecfd7e1469084754e2876b8e094.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/CO3G_la8SaBbpIpFSlIAWDSjfvs=/5641x3730/Couplewhitemid-age-shapecharge-92441ecfd7e1469084754e2876b8e094.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/exchangetradedfunds/08/gold-etf-gold-futures-showdown.asp",
-          "author": "Rebecca Baldridge",
-          "description": "Gold ETFs and gold futures are two ways to diversify into the metals asset class, but there are significant differences between the two investment vehicles.",
-          "link": "https://www.investopedia.com/articles/exchangetradedfunds/08/gold-etf-gold-futures-showdown.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-16T19:54:41.000Z",
-          "wordCount": 7822,
-          "title": "Understanding Gold ETFs vs. Gold Futures",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/j-sPs-_Me87sx67TKVQ7lOy2f2E=/285x260/etfs-lrg-3-5bfc2b2346e0fb00265bd786.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/j-sPs-_Me87sx67TKVQ7lOy2f2E=/285x260/etfs-lrg-3-5bfc2b2346e0fb00265bd786.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/are-online-banks-safe-right-now-7547452",
-          "author": "Staff Author",
-          "description": "Sure, online-only banks are offering great interest rates on high-yield savings accounts and certificates of deposit these days, but how safe is your money?",
-          "link": "https://www.investopedia.com/are-online-banks-safe-right-now-7547452?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-16T19:42:43.000Z",
-          "wordCount": 4313,
-          "title": "Are Online Banks Safe Right Now?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/D0Gjba2gusVxu-NVjJv4StGgZp4=/7000x4667/onlinebanking-b6aafbe34e974783b2ab12d0fc4e4299.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/D0Gjba2gusVxu-NVjJv4StGgZp4=/7000x4667/onlinebanking-b6aafbe34e974783b2ab12d0fc4e4299.jpeg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/b/broad-basedindex.asp",
-          "author": "Will Kenton",
-          "description": "A broad-based index is designed to reflect the movement of the entire market—one example of a broad-based index is the Dow Jones Industrial Average.",
-          "link": "https://www.investopedia.com/terms/b/broad-basedindex.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-16T19:33:07.000Z",
-          "wordCount": 6419,
-          "title": "What Is a Broad-Based Index, and What Are Some Broad Index Funds?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/24G4S3SMKvisyB6-qpc6qP7DHwk=/205x136/investing12-5bfc2b8f46e0fb00517be087.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/24G4S3SMKvisyB6-qpc6qP7DHwk=/205x136/investing12-5bfc2b8f46e0fb00517be087.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/c/capital-stock-insurance-company.asp",
-          "author": "Daniel Liberto",
-          "description": "A capital stock insurance company is an insurer that gets capital from stockholder contributions, in addition to other reserve or surplus accounts.",
-          "link": "https://www.investopedia.com/terms/c/capital-stock-insurance-company.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-16T19:30:27.000Z",
-          "wordCount": 5922,
-          "title": "Capital Stock Insurance Company Definition",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/BwZV3omqBBTujYqnK1EhpY77GeQ=/1500x1000/CapitalStockInsuranceCompany_v1-fd108ecc8764402682db52abf4bbc88b.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/BwZV3omqBBTujYqnK1EhpY77GeQ=/1500x1000/CapitalStockInsuranceCompany_v1-fd108ecc8764402682db52abf4bbc88b.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/top-cd-rates-today-june-16-2023-7548129",
-          "author": "Staff Author",
-          "description": "See what today's top nationwide rate is for every CD term, and how it compares to the previous business day's top rate. We collect data from more than 200 financial institutions.",
-          "link": "https://www.investopedia.com/top-cd-rates-today-june-16-2023-7548129?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-16T19:24:13.000Z",
-          "wordCount": 5310,
-          "title": "Top CD Rates Today, June 16, 2023",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/79zFY7uDftyVgljtJKXRJVYoBAc=/2959x2000/06-16cdnews-2636b7cbbd734d498d487930b43d4cdc.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/79zFY7uDftyVgljtJKXRJVYoBAc=/2959x2000/06-16cdnews-2636b7cbbd734d498d487930b43d4cdc.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/what-is-the-sec-s-regulation-bi-best-interest-rule-4689542",
-          "author": "Adam Hayes",
-          "description": "Regulation Best Interest (BI) is an SEC rule that requires broker-dealers to recommend only products that are in their customers' best interests.",
-          "link": "https://www.investopedia.com/what-is-the-sec-s-regulation-bi-best-interest-rule-4689542?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-16T19:22:14.000Z",
-          "wordCount": 7283,
-          "title": "Regulation Best Interest (BI): Definition, Broker Obligations",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/6b659hKJbo5M1wuUlW9QVLi-FbY=/3000x2000/GettyImages-82880373-59f3f0a6c412440011f19240.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/6b659hKJbo5M1wuUlW9QVLi-FbY=/3000x2000/GettyImages-82880373-59f3f0a6c412440011f19240.jpg"
         }
       ]
     },
@@ -25251,6 +25131,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "china-economy-struggling-gain-traction-200000941.html",
+          "author": null,
+          "description": "(Bloomberg) -- China is likely to report rapid economic expansion for the second quarter, although underlying figures will reveal a more challenging picture.Most Read from BloombergUS Homeowners Are Tapping $9 Trillion in Real Estate WealthTesla Starts Cybertruck Production Two Years Behind ScheduleTop-Ranked Hedge Fund Chief Sees S&P 500 Entering ‘No Man’s Land’BlackRock’s Rieder Says US Doesn’t Have to Fall Into RecessionWho’s Winning the Money Race for President as 2024 Heats UpThe comparison",
+          "link": "https://finance.yahoo.com/news/china-economy-struggling-gain-traction-200000941.html",
+          "publishedOn": "2023-07-16T05:45:00.000Z",
+          "wordCount": 2989,
+          "title": "China’s Economy Is Struggling to Gain Traction",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/AEfOtz.RPDx4nTdbG_6hRg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTE-/https://media.zenfs.com/en/bloomberg_markets_842/bfddf2a973e0bb14d899c1b3620fa42a"
+        },
+        {
+          "id": "markets-appear-convinced-the-fed-can-pull-off-a-soft-landing-700a40dd?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Stocks surged this past week on evidence that inflation is cooling.",
+          "link": "https://www.wsj.com/articles/markets-appear-convinced-the-fed-can-pull-off-a-soft-landing-700a40dd?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-16T04:06:00.000Z",
+          "wordCount": 8269,
+          "title": "Markets Appear Convinced the Fed Can Pull Off a Soft Landing",
+          "imageUrl": "https://images.wsj.net/im-817744/social"
+        },
         {
           "id": "retirement-tax-breaks-401k-contributions-2868ffdc?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -25280,6 +25180,16 @@
           "wordCount": 1771,
           "title": "SEC Formally Accepts BlackRock Spot Bitcoin ETF Application for Review",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/1Z9lBe6lazySGytgVv5GJg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_media_980/91f4f473c85f059ef0ada54ae9a74a6d"
+        },
+        {
+          "id": "elon-musk-says-twitters-ad-revenue-has-dropped-by-50-percent-202600398.html",
+          "author": null,
+          "description": "In the early hours of Saturday morning, Musk tweeted Twitter was suffering from an ongoing negative cash flow issue due to an approximately 50 percent drop in advertising revenue and heavy debt burden.",
+          "link": "https://finance.yahoo.com/news/elon-musk-says-twitters-ad-revenue-has-dropped-by-50-percent-202600398.html",
+          "publishedOn": "2023-07-15T20:26:00.000Z",
+          "wordCount": 1752,
+          "title": "Elon Musk says Twitter’s ad revenue has dropped by 50 percent",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/7_XIBlloR.Y629fPq4NMfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/cc8f3cd0-234c-11ee-ba7d-11739ee2bc79"
         },
         {
           "id": "us-probably-avoid-recession-might-201500402.html",
@@ -25639,6 +25549,16 @@
           "publishedOn": "2023-07-14T20:16:13.000Z",
           "wordCount": null,
           "title": "Investors Can Still Get Into Four IBD 50 Leaders, Including Uber Stock",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/research/amc-entertainment-stock-buy-now/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-07-14T20:15:09.000Z",
+          "wordCount": null,
+          "title": "Is AMC Stock A Buy Or Sell Now? Here's What Fundamentals, Chart Action, Fund Ownership Metrics Say",
           "imageUrl": null
         },
         {
@@ -45690,86 +45610,6 @@
           "wordCount": 2552,
           "title": "BlackRock’s Bitcoin ETF Would Be a Big Deal",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/i9ZHRs2tgPfqeoj8aVt9IA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MzE-/https://media.zenfs.com/en/coindesk_75/baf4dadfc9ce9a63d2ff04793317bc65"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/blackrock-files-for-bitcoin-etf-coinbase-stock-surges/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-06-16T20:14:14.000Z",
-          "wordCount": null,
-          "title": "BlackRock Files For Bitcoin ETF; Coinbase Stock Surges",
-          "imageUrl": null
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/research/earnings-preview/fedex-stock-in-buy-zone-ahead-of-potential-growth-catalyst-quarter-olive-garden-parent-also-on-deck/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-06-16T20:11:55.000Z",
-          "wordCount": null,
-          "title": "FedEx Stock In Buy Zone Ahead Of Potential Growth-Catalyst Quarter; Olive Garden Parent Also On Deck",
-          "imageUrl": null
-        },
-        {
-          "id": "i-bonds-vs-cds-which-is-the-better-investment-right-now-7546699?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Series I US savings bonds (I bonds) bought before Nov. 1, 2023, pay a guaranteed 4.30% for six months. Or you could open a 6-month CD that pays 5.65%. Which makes the most sense in the long run?",
-          "link": "https://www.investopedia.com/i-bonds-vs-cds-which-is-the-better-investment-right-now-7546699?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-06-16T20:09:09.000Z",
-          "wordCount": 5838,
-          "title": "I Bonds vs. CDs: Which Is the Better Investment Right Now?",
-          "imageUrl": "https://www.investopedia.com/thmb/YaM6caS2mIIHqzTKkTCuZtwkKlE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV-IBonds_GettyImages-1335987568-e8ce10d458fb4998adad1ead4d31280c.jpg"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/tesla-stock-gains-25-in-june-musk-macron-meet-amid-u-s-china-diplomatic-tensions/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-06-16T20:04:52.000Z",
-          "wordCount": null,
-          "title": "Tesla Stock Gains 27% In June; Musk/Macron Meet Amid U.S.-China Diplomatic Tensions",
-          "imageUrl": null
-        },
-        {
-          "id": "p-500-above-4-400-200245730.html",
-          "author": null,
-          "description": "(Bloomberg) -- The bull-market rally in US stocks is about to run out of steam, according to Citigroup Inc.Most Read from BloombergAfrica’s Richest City Is Crumbling Under Chaos and CorruptionEric Schmidt Buys Abandoned Alfa Nero Superyacht for $67.6 MillionPutin Says Russia Put First Nuclear Weapons in BelarusA Goldman Partner’s Sexually Explicit Video Led to Millions in SettlementMichael Jordan to Sell $3 Billion Hornets Stake to PlotkinStrategists at the bank led by Scott Chronert this week r",
-          "link": "https://finance.yahoo.com/news/p-500-above-4-400-200245730.html",
-          "publishedOn": "2023-06-16T20:02:45.000Z",
-          "wordCount": 2296,
-          "title": "S&P 500 Above 4,400 Leaves No Room for More Gains, Citigroup Says",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/ec8d5ea54de34817dd5ab9bca679c02f"
-        },
-        {
-          "id": "general-electrics-8-most-profitable-lines-business-ge.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "GE generates most of its profit and revenue through its aviation segment.",
-          "link": "https://www.investopedia.com/articles/markets/022016/general-electrics-8-most-profitable-lines-business-ge.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-06-16T20:00:40.000Z",
-          "wordCount": 6371,
-          "title": "How GE Makes Money",
-          "imageUrl": "https://www.investopedia.com/thmb/xSUmfhrve5w7djoF9atWGRjHJj4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AdobeStock_155782211_Editorial_Use_Only-cf3c567ee2db43d58cb16892a6c6a634.jpeg"
-        },
-        {
-          "id": "stock-market-news-today-live-updates-june-16-2023-200023853.html",
-          "author": null,
-          "description": "US stocks lost steam on Friday after rallying the previous day amid signs of a resilient economy that boosted hopes the Federal Reserve could end its rate-hike campaign soon.",
-          "link": "https://finance.yahoo.com/news/stock-market-news-today-live-updates-june-16-2023-200023853.html",
-          "publishedOn": "2023-06-16T20:00:23.000Z",
-          "wordCount": 2070,
-          "title": "Stock rally takes breather, but S&P 500, Nasdaq have best week since March: Stock market news today",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/yJPtQeKpjICtZaaIE9ueLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/d9428b90-0b45-11ee-b86f-77255808d642"
-        },
-        {
-          "id": "supertanker-rate-roller-coaster-surprise-195610083.html",
-          "author": null,
-          "description": "The International Energy Agency predicts Asia will buy growing volumes of U.S. crude through 2028. That’s good news for supertanker demand. The post Supertanker rate roller coaster: Surprise spike to $91,000 per day appeared first on FreightWaves.",
-          "link": "https://finance.yahoo.com/news/supertanker-rate-roller-coaster-surprise-195610083.html",
-          "publishedOn": "2023-06-16T19:56:10.000Z",
-          "wordCount": 2594,
-          "title": "Supertanker rate roller coaster: Surprise spike to $91,000 per day",
-          "imageUrl": "https://media.zenfs.com/en/freightwaves_373/0990bccc1a90ad83d1f4b6eeb9fa3c4f"
         }
       ]
     }
