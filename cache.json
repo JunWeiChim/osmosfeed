@@ -1428,6 +1428,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6272708/",
+          "author": "onze economieredactie",
+          "description": "Leveranciers van warmtepompen hebben in de eerste zes maanden van dit jaar 85.000 warmtepompen voor woningen verkocht. Dat is een stijging van 80 procent ten opzichte van dezelfde periode vorig jaar.",
+          "link": "https://www.nu.nl/economie/6272708/steeds-meer-warmtepompen-voor-woningen-verkocht.html",
+          "publishedOn": "2023-07-17T09:35:37.000Z",
+          "wordCount": 742,
+          "title": "Steeds meer warmtepompen voor woningen verkocht",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/u9lxiegagt3z_sqr256.jpg/steeds-meer-warmtepompen-voor-woningen-verkocht.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/u9lxiegagt3z_sqr256.jpg/steeds-meer-warmtepompen-voor-woningen-verkocht.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6272702/",
           "author": "onze economieredactie",
           "description": "Werkgevers die mensen uit de bijstand aan werk helpen, kunnen daar straks subsidie voor krijgen. Het kabinet stelt 70 miljoen euro ter beschikking om kwetsbare mensen op de arbeidsmarkt te helpen.",
@@ -25233,36 +25248,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/RTw8l-6JPqRdgkbct6kDcTDGT8U=/1500x1003/journal-4194014-1-blue-462dddf9f33143f6b3d4df80c60639d8.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/sell-open-buy-close-buy-open-sell-close-mean/",
-          "author": "Troy Segal",
-          "description": "Options trading sounds complicated until you know these four basic moves. Learn how to trade options here.",
-          "link": "https://www.investopedia.com/ask/answers/sell-open-buy-close-buy-open-sell-close-mean/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-17T21:35:02.000Z",
-          "wordCount": 7217,
-          "title": "How to Trade Options: Buying or Selling Calls and Puts",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/kQC3j9bTo-GEGR_6JkLYKkkmdJI=/2797x1920/95528215-5bfc2b71c9e77c002630606b.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/kQC3j9bTo-GEGR_6JkLYKkkmdJI=/2797x1920/95528215-5bfc2b71c9e77c002630606b.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/preparing-for-retirement-as-an-lgbtq-person-5183693",
-          "author": "Jill Cornfield",
-          "description": "Learn about LGBTQ+ retirement challenges and remedies, including higher poverty rates, a savings shortfall, the need to plan, and available resources.",
-          "link": "https://www.investopedia.com/preparing-for-retirement-as-an-lgbtq-person-5183693?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-17T21:17:30.000Z",
-          "wordCount": 7764,
-          "title": "Preparing for Retirement as an LGBTQ+ Person",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/eKe5KFBmXFO2-vZSV1oJ8sLXHX0=/3800x2850/__opt__aboutcom__coeus__resources__content_migration__brides__proteus__5b7d89476b2d9c0892bc572c__43-32f9b6e4de26494da31316e629909343.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/eKe5KFBmXFO2-vZSV1oJ8sLXHX0=/3800x2850/__opt__aboutcom__coeus__resources__content_migration__brides__proteus__5b7d89476b2d9c0892bc572c__43-32f9b6e4de26494da31316e629909343.jpeg"
         }
       ]
     },
@@ -25271,6 +25256,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "stock-market-movers-98f1bdf9?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Tesla's first Cybertruck rolls off the assembly line, and United Airlines and its pilots reach a contract agreement. Both Tesla and United also report earnings this week as do Bank of America, Morgan Stanley, Goldman Sachs, and Netflix.",
+          "link": "https://www.barrons.com/articles/stock-market-movers-98f1bdf9?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-17T09:16:00.000Z",
+          "wordCount": 7967,
+          "title": "These Stocks Are Moving the Most Today: Tesla, United Airlines, Microsoft, Activision, and More",
+          "imageUrl": "https://images.barrons.com/im-788940/social"
+        },
+        {
+          "id": "tesla-stock-cybertruck-ev-pickup-margins-878dfb1c?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Tesla announced over the weekend that the first Cybertruck had been built at the company’s factory in Texas.",
+          "link": "https://www.barrons.com/articles/tesla-stock-cybertruck-ev-pickup-margins-878dfb1c?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-17T09:14:00.000Z",
+          "wordCount": 7825,
+          "title": "Tesla Stock Rises as First Cybertruck Arrives. Why Margins Are Key.",
+          "imageUrl": "https://images.barrons.com/im-172031/social"
+        },
         {
           "id": "richemont-shares-slump-us-revenue-070954998.html",
           "author": null,
@@ -25290,6 +25295,16 @@
           "wordCount": 2353,
           "title": "Casino Bidder Kretinsky Wins as Rival Investor Group Drops",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/SXYqoBKoVL6kY_8bi1Y9wQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/8cd2808edcde08086e5c5dc43e06fc83"
+        },
+        {
+          "id": "global-rules-leave-crypto-firms-070452514.html",
+          "author": null,
+          "description": "Globally agreed rules leave crypto firms with no option but to introduce basic safeguards to prevent the blow-ups seen at FTX exchange and other crypto casualties, the G20's Financial Stability Board said on Monday.  The FSB published on Monday final recommendations requested by the G20 on supervising firms that trade cryptoassets such as bitcoin.  \"As recent events have illustrated, if linkages to traditional finance were to grow further, spillovers from cryptoasset markets into the broader financial system could increase,\" the FSB said.",
+          "link": "https://finance.yahoo.com/news/global-rules-leave-crypto-firms-070452514.html",
+          "publishedOn": "2023-07-17T07:04:52.000Z",
+          "wordCount": 1875,
+          "title": "Global rules leave crypto firms with no place to hide, says G20 watchdog",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/be8ae08929e9e34a392f434cb26b58a1"
         },
         {
           "id": "sec-accepts-blackrock-bitcoin-etf-053621595.html",
