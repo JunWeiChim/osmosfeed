@@ -1508,6 +1508,36 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6272895/",
+          "author": "Tom van Gurp",
+          "description": "Met een opvallend design, technische snufjes en gelikte marketing wist VanMoof de e-bike sexy te maken. Maar de fietsen gingen vaak kapot en waren voor velen te duur door de unieke onderdelen. Dat deed het bedrijf de das om.",
+          "link": "https://www.nu.nl/economie/6272895/failliet-vanmoof-deed-alles-zelf-behalve-winst-maken.html",
+          "publishedOn": "2023-07-18T13:12:26.000Z",
+          "wordCount": 1111,
+          "title": "NU+ | Failliet VanMoof deed alles zelf, behalve winst maken",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/x3vx3s4ah7dj_sqr256.jpg/failliet-vanmoof-deed-alles-zelf-behalve-winst-maken.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/x3vx3s4ah7dj_sqr256.jpg/failliet-vanmoof-deed-alles-zelf-behalve-winst-maken.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6272897/",
+          "author": "onze economieredactie",
+          "description": "Voormalig Nissan-topman Carlos Ghosn is met zijn rechtszaak tegen de Japanse autofabrikant niet uit op wraak. Het is volgens hem een poging de mensen die tegen hem samenspanden ter verantwoording te roepen.",
+          "link": "https://www.nu.nl/economie/6272897/oud-nissan-topman-ghosn-is-niet-uit-op-wraak.html",
+          "publishedOn": "2023-07-18T12:52:41.000Z",
+          "wordCount": 989,
+          "title": "Oud-Nissan-topman Ghosn is niet uit op wraak",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/e6qxqj2a3564_sqr256.jpg/oud-nissan-topman-ghosn-is-niet-uit-op-wraak.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/e6qxqj2a3564_sqr256.jpg/oud-nissan-topman-ghosn-is-niet-uit-op-wraak.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6272869/",
           "author": "onze economieredactie",
           "description": "De Turkse lira heeft dinsdag een nieuw dieptepunt bereikt ten opzichte van de euro en de dollar. Daarmee zet de vrije val van de Turkse munt sinds de verkiezingen van 28 mei onverminderd door.",
@@ -8909,6 +8939,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/ask/answers/070715/what-difference-between-earnings-and-revenue.asp",
+          "author": "Evan Tarver",
+          "description": "Revenue is the total income earned by a company for selling its goods and services. Earnings are revenues minus all expenses associated with operating the business.",
+          "link": "https://www.investopedia.com/ask/answers/070715/what-difference-between-earnings-and-revenue.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-18T13:06:12.000Z",
+          "wordCount": 6436,
+          "title": "Revenue vs. Earnings: What's the Difference?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/zdlWkZX5_ZR2AtbgOKyziybd2NE=/1500x1001/GettyImages-767986903-16fb9c6298c645928fa94ac24a36d521.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/zdlWkZX5_ZR2AtbgOKyziybd2NE=/1500x1001/GettyImages-767986903-16fb9c6298c645928fa94ac24a36d521.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/investing/060815/how-netflix-changing-tv-industry.asp",
+          "author": "The Investopedia Team",
+          "description": "From its beginnings, Netflix has been a disruptor. Now, its popular streaming service is forcing the television industry to adapt or die trying.",
+          "link": "https://www.investopedia.com/articles/investing/060815/how-netflix-changing-tv-industry.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-18T12:38:20.000Z",
+          "wordCount": 5811,
+          "title": "How Netflix Is Changing the TV Industry",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/XfXvJl-F_Y0ZSVCy0sSi98NMsSI=/680x440/thinkstockphotos-130205750-5bfc354c46e0fb0051bfaca9.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/XfXvJl-F_Y0ZSVCy0sSi98NMsSI=/680x440/thinkstockphotos-130205750-5bfc354c46e0fb0051bfaca9.jpg"
+        },
         {
           "id": "https://www.investopedia.com/5-things-to-know-before-markets-open-july-18-2023-7562259",
           "author": "Terry Lane",
@@ -25688,36 +25748,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/jPgPiUrvVHdvVtd3cRJhviFK-tw=/1500x1000/GettyImages-998996486-5c006305fe7a451288907571bb201b15.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/c/contractfordifferences.asp",
-          "author": "James Chen",
-          "description": "A contract for differences (CFD) is a marginable financial derivative that can be used to speculate on very short-term price movements for a variety of underlying instruments.",
-          "link": "https://www.investopedia.com/terms/c/contractfordifferences.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-19T00:56:18.000Z",
-          "wordCount": 7584,
-          "title": "Contract for Differences (CFD) Definition: Uses and Examples",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Y7nqJNcQv5bGW9tvmKV1dFfUGYs=/1080x722/CFD-b99b747a807e4abda0918e74a355592d.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Y7nqJNcQv5bGW9tvmKV1dFfUGYs=/1080x722/CFD-b99b747a807e4abda0918e74a355592d.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/041015/how-does-financial-accounting-differ-managerial-accounting.asp",
-          "author": "Sean Ross",
-          "description": "There are big differences between financial accounting and managerial accounting, including why one is highly uniform and the other unique.",
-          "link": "https://www.investopedia.com/ask/answers/041015/how-does-financial-accounting-differ-managerial-accounting.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-19T00:51:10.000Z",
-          "wordCount": 6980,
-          "title": "How Financial Accounting Differs From Managerial Accounting",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/pdVK5fRwftbdteFMzrsQM8ereuo=/2121x1414/business-woman-thinking-account-989484872-d5ffd42eacac4a8598a631ac6c59a28f.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/pdVK5fRwftbdteFMzrsQM8ereuo=/2121x1414/business-woman-thinking-account-989484872-d5ffd42eacac4a8598a631ac6c59a28f.jpg"
         }
       ]
     },
@@ -25726,6 +25756,66 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "bank-of-america-bond-losses-earnings-faed0e68?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The loss on the portfolio, which totals $614 billion, increased by nearly $7 billion relative to the first quarter.",
+          "link": "https://www.barrons.com/articles/bank-of-america-bond-losses-earnings-faed0e68?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-18T13:02:00.000Z",
+          "wordCount": 7827,
+          "title": "Bank of America’s Bond Losses Widened to $106 Billion in Second Quarter",
+          "imageUrl": "https://images.barrons.com/im-819008/social"
+        },
+        {
+          "id": "lockheed-martin-earnings-stock-price-2ac4f6a7?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The jet maker reported adjusted earnings per share of $6.75 from $16.7 billion in sales, Tuesday. Wall Street was looking for $6.45 from $15.9 billion.",
+          "link": "https://www.barrons.com/articles/lockheed-martin-earnings-stock-price-2ac4f6a7?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-18T13:02:00.000Z",
+          "wordCount": 7812,
+          "title": "Lockheed Martin Stock Rises After Earnings Beat Estimates",
+          "imageUrl": "https://images.barrons.com/im-818242/social"
+        },
+        {
+          "id": "stocks-to-watch-tuesday-at-t-novartis-bank-of-america-B7TyzlGsQQzl8njBJyOY?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "↘️ Bank of America (BAC): The nation’s second-largest bank reported a 19% rise in quarterly profit and said earning",
+          "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-18-2023/card/stocks-to-watch-tuesday-at-t-novartis-bank-of-america-B7TyzlGsQQzl8njBJyOY?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-18T12:24:50.000Z",
+          "wordCount": 6866,
+          "title": "Stocks to Watch Tuesday: Bank of America, AT&T, Novartis",
+          "imageUrl": "https://images.wsj.net/im-818970/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/cybertruck-rally-triggers-cathie-wood-tesla-stock-dump-ahead-of-q2-earnings/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-07-18T12:13:32.000Z",
+          "wordCount": null,
+          "title": "Cybertruck Rally Triggers Cathie Wood Tesla Stock Dump Ahead Of Q2 Earnings",
+          "imageUrl": null
+        },
+        {
+          "id": "pnc-stock-falls-revenue-miss-earnings-regional-bank-aa5a5b56?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "PNC Financial Services Group earnings were flat year over year, but came in ahead of expectations.",
+          "link": "https://www.barrons.com/articles/pnc-stock-falls-revenue-miss-earnings-regional-bank-aa5a5b56?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-18T12:12:00.000Z",
+          "wordCount": 7823,
+          "title": "PNC Stock Falls. The Regional Bank’s Revenue Was a Miss.",
+          "imageUrl": "https://images.barrons.com/im-339853/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/research/these-cybersecurity-stocks-outperform-to-hit-new-highs/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-07-18T12:00:45.000Z",
+          "wordCount": null,
+          "title": "These Cybersecurity Stocks Outperform To Hit New Highs",
+          "imageUrl": null
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
@@ -25765,6 +25855,16 @@
           "wordCount": 2608,
           "title": "Morgan Stanley profits drop 14% on Wall Street slump",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ftdZRHJh7unGwoT5BdVuRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/2031d250-4c64-11ed-b9bf-88e30d86764f"
+        },
+        {
+          "id": "nvidia-microsoft-apple-ai-alphabet-stock-40ba74?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Melius Research started coverage of Nvidia, Microsoft and Apple with Buy ratings on their AI potential but were more skeptical about Google-parent Alphabet.",
+          "link": "https://www.barrons.com/articles/nvidia-microsoft-apple-ai-alphabet-stock-40ba74?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-18T11:49:00.000Z",
+          "wordCount": 7888,
+          "title": "Nvidia, Microsoft, Apple and 4 More Stocks to Play AI. Why Alphabet Misses Out.",
+          "imageUrl": "https://images.barrons.com/im-651111/social"
         },
         {
           "id": "bank-of-americas-profits-jump-19-on-strong-wall-street-showing-111011364.html",
@@ -46835,56 +46935,6 @@
           "wordCount": 1955,
           "title": "Indian rupee to extend gains, bond yield seen edging higher",
           "imageUrl": "https://media.zenfs.com/en/reuters.com/8754787a65892a349f3a5bd8f1f82e8e"
-        },
-        {
-          "id": "jd-sees-seven-units-worth-011859247.html",
-          "author": null,
-          "description": "(Bloomberg) -- JD.com Inc. aims to create seven listed firms with market values of at least $14 billion apiece, outlining aggressive targets spanning two decades as it wrapped its signature 2023 sales gala with another record haul.Most Read from BloombergFlorida Is Losing Its Affordability Edge After Drawing a Flood of New ArrivalsTucker Carlson's Fox Defense Crumbled When He Took MillionsGoodbye, Body Mass Index. You Won’t Be Missed.Blinken Has ‘Candid’ Talks With China’s Qin on Trip to Mend Ti",
-          "link": "https://finance.yahoo.com/news/jd-sees-seven-units-worth-011859247.html",
-          "publishedOn": "2023-06-19T01:18:59.000Z",
-          "wordCount": 2436,
-          "title": "JD Sees Seven Units Worth $14 Billion Each After Mega Sales Haul",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/OXR1Bzn0JS2PNt7x5nP3Qw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/6d0383546b9f5ea7de572e6ccc9947a2"
-        },
-        {
-          "id": "bitcoin-dips-reclaiming-us-26-005531085.html",
-          "author": null,
-          "description": "Bitcoin dipped on Monday morning in Asia after reclaiming US$26,000 support over the weekend. Ether also fell back but held above US$1,700.",
-          "link": "https://finance.yahoo.com/news/bitcoin-dips-reclaiming-us-26-005531085.html",
-          "publishedOn": "2023-06-19T00:55:31.000Z",
-          "wordCount": 2292,
-          "title": "Bitcoin dips after reclaiming US$26,000, Ether falls; XRP gains, Tron leads losers in crypto top 10",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/KijRsZWAE3825h3TJep.sA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/forkast_news_articles_672/7a7f92b731150b44d554876beebb5a09"
-        },
-        {
-          "id": "oil-prices-come-off-earlier-005009718.html",
-          "author": null,
-          "description": "Global oil prices fell on Monday, backing off last week's gains as questions over China's economy outweighed OPEC+ output cuts and the seventh straight drop in the number of oil and gas rigs operating in the United States.  Brent crude lost 68 cents to trade at $75.93 a barrel by 0042 GMT, while U.S. West Texas Intermediate (WTI) crude was down 59 cents to $71.19.  Last week, Brent posted a gain of 2.4% and WTI rose 2.3%.",
-          "link": "https://finance.yahoo.com/news/oil-prices-come-off-earlier-005009718.html",
-          "publishedOn": "2023-06-19T00:50:09.000Z",
-          "wordCount": 2090,
-          "title": "Oil prices come off earlier gains as banks cut China growth forecasts",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/756c2eca4e2f656b3d5cc78a96c10e26"
-        },
-        {
-          "id": "asian-stocks-off-slow-start-003822121.html",
-          "author": null,
-          "description": "Asian shares started cautiously on Monday after their best weekly run in five months, as investors looked ahead to China's rate decision and U.S. Federal Reserve Chair Jerome Powell's testimonies for clues on the rate path ahead.  In Asia, Japan's Nikkei fell 0.5%, having clinched a fresh three-decade top on Friday, buoyed by the Bank of Japan's (BOJ) decision to leave its ultra-easy policy setting unchanged, which has sent the yen to a 7-month low against the U.S. dollar.  MSCI's broadest index of Asia-Pacific shares outside Japan was 0.1% lower, after hitting a four-month high on Friday and finishing up 3% for the week, the best since January.",
-          "link": "https://finance.yahoo.com/news/asian-stocks-off-slow-start-003822121.html",
-          "publishedOn": "2023-06-19T00:38:22.000Z",
-          "wordCount": 2307,
-          "title": "Asian stocks pause rally, eyeing China stimulus, Powell testimony",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/8d29584ecb074468442685b7294200e8"
-        },
-        {
-          "id": "aussie-dollar-us-futures-rise-222904488.html",
-          "author": null,
-          "description": "(Bloomberg) -- The Australian dollar and US equity futures rose in early Asian trading Monday amid signs of improving ties between the US and China, while contracts for benchmarks in Asia showed muted moves.Most Read from BloombergFlorida Is Losing Its Affordability Edge After Drawing a Flood of New ArrivalsGoodbye, Body Mass Index. You Won’t Be Missed.Tucker Carlson's Fox Defense Crumbled When He Took MillionsBlinken Has ‘Candid’ Talks With China’s Qin on Trip to Mend TiesThe Australian dollar",
-          "link": "https://finance.yahoo.com/news/aussie-dollar-us-futures-rise-222904488.html",
-          "publishedOn": "2023-06-19T00:36:05.000Z",
-          "wordCount": 2565,
-          "title": "Stocks Whipsaw, Yuan Dips with China in Spotlight: Markets Wrap",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/821e04bc9c34fdd624de6c1699581d81"
         }
       ]
     }
