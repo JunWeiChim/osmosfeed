@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "f134358439b64455f956c495927b5cd1",
+          "author": "Investopedia",
+          "description": "Activision Blizzard and Microsoft have extended their acquisition deadline to October after regulatory delays pushed the past the limits of the original agreement.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8764d3eb09ac4f30878075a1fe333795454dc77d8831b2804d384bdd7fd837d4931621c6fe21b7fbe725e6a59a22e823ea3e0080315d45520ae9f6ba94655ccec7baa3cec38b9e584a8b12c68a7928df33787bcdcf02",
+          "publishedOn": "2023-07-19T15:12:32.310Z",
+          "wordCount": 409,
+          "title": "Activision Blizzard-Microsoft Deal Extended to October After Regulatory Delays",
+          "imageUrl": null
+        },
+        {
           "id": "31355d826637514bb4c39ab461c9b8e9",
           "author": "Investopedia",
           "description": "Qualcomm chips will support Meta's Llama 2 Large Language Model (LLM), in a move that will bring LLMs—that typically need data centers to run because of computational requirements—to smartphones and PCs starting 2024.",
@@ -8976,21 +8986,6 @@
             "url": "https://media.nu.nl/m/v0gxrrwa8rgt_sqr256.jpg/winkeliers-voelen-druk-toenemen-door-stijgende-kosten.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/v0gxrrwa8rgt_sqr256.jpg/winkeliers-voelen-druk-toenemen-door-stijgende-kosten.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6268680/",
-          "author": "Ertan Basekin",
-          "description": "Winkeliers in de sport-, mode- en schoenenbranche voelen zich steeds meer onder druk staan vanwege de hoge kosten. Ondernemers verwachten dat de komende zes maanden nog zwaarder worden, aangezien zij de stijgende prijzen niet volledig kunnen doorberekenen aan de consument.",
-          "link": "https://www.nu.nl/economie/6268680/winkeliers-voelen-druk-oplopen-vanwege-stijgende-kosten.html",
-          "publishedOn": "2023-06-20T03:01:36.000Z",
-          "wordCount": 1312,
-          "title": "Winkeliers voelen druk oplopen vanwege stijgende kosten",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/v0gxrrwa8rgt_sqr256.jpg/winkeliers-voelen-druk-oplopen-vanwege-stijgende-kosten.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/v0gxrrwa8rgt_sqr256.jpg/winkeliers-voelen-druk-oplopen-vanwege-stijgende-kosten.jpg"
         }
       ]
     },
@@ -8999,6 +8994,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/realestate/12/real-estate-valuation.asp",
+          "author": "Jean Folger",
+          "description": "Accurate real estate valuation is important to mortgage lenders, investors, insurers, and buyers and sellers of real property.",
+          "link": "https://www.investopedia.com/articles/realestate/12/real-estate-valuation.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-19T14:59:41.000Z",
+          "wordCount": 7240,
+          "title": "What You Should Know About Real Estate Valuation",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/5YlCfkk38_qk0wzj0IdNmao_Q1c=/680x440/home_equity__rental_gowth_shutterstock_582996238-5bfc3330c9e77c005145595b.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/5YlCfkk38_qk0wzj0IdNmao_Q1c=/680x440/home_equity__rental_gowth_shutterstock_582996238-5bfc3330c9e77c005145595b.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/stock-analysis/2013/investing-news-for-jan-29-hsbcs-money-laundering-scandal-hbc-scbff-ing-cs-rbs0129.aspx",
+          "author": "Marc L. Ross",
+          "description": "HSBC's agreement to pay a $1.9 billion fine and enter into a deferred prosecution agreement points to a lack of control processes in compliance and anti-money laundering.",
+          "link": "https://www.investopedia.com/stock-analysis/2013/investing-news-for-jan-29-hsbcs-money-laundering-scandal-hbc-scbff-ing-cs-rbs0129.aspx?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-19T14:44:58.000Z",
+          "wordCount": 6469,
+          "title": "HSBC's Money Laundering Scandal",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/2HOfiGbppoNsxi7BkcIcFR0yd-A=/380x253/138014825-5bfc2b9c46e0fb00260b2621.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/2HOfiGbppoNsxi7BkcIcFR0yd-A=/380x253/138014825-5bfc2b9c46e0fb00260b2621.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/mortgage-rates-drop-again-7562810",
+          "author": "Staff Author",
+          "description": "Rates on 30-year mortgages dropped again, erasing most of a two-day climb. Averages were down for almost every loan type, though some jumbo rates remained steady.",
+          "link": "https://www.investopedia.com/mortgage-rates-drop-again-7562810?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-19T14:31:56.000Z",
+          "wordCount": 5901,
+          "title": "Mortgage Rates Drop Again",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/6LlZdfZLZo-CyRJ-AWV1qQ55u0M=/5626x4167/July23MortageRatesNews-19-683b4ddf3af24c48a59829c386978923.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/6LlZdfZLZo-CyRJ-AWV1qQ55u0M=/5626x4167/July23MortageRatesNews-19-683b4ddf3af24c48a59829c386978923.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/insights/113016/what-tencent-baba-bidu.asp",
           "author": "Prableen Bajpai",
@@ -26038,21 +26078,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/2xIsCJWGYoB7jvL0khtDof9MsuY=/205x136/investing10-5bfc2b90c9e77c00517fd2ef.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/how-to-choose-a-bank-5183999",
-          "author": "Kiara Taylor",
-          "description": "Choosing a bank is rarely a one-off process, and there are a few critical factors to know before you make your decision. Here are the top three.",
-          "link": "https://www.investopedia.com/how-to-choose-a-bank-5183999?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-20T02:48:02.000Z",
-          "wordCount": 7302,
-          "title": "How to Choose a Bank",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/CmfNGQ4yXLZWcW4xEi8SskTfIj4=/2000x1333/How-To-Chose-A-BankV2-29cde172a8674e5cb4f20dd4dd1ab7e2.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/CmfNGQ4yXLZWcW4xEi8SskTfIj4=/2000x1333/How-To-Chose-A-BankV2-29cde172a8674e5cb4f20dd4dd1ab7e2.png"
         }
       ]
     },
@@ -26061,6 +26086,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "oppenheimer-says-2-stocks-could-141307483.html",
+          "author": null,
+          "description": "These are good times for the markets. Inflation concerns are abating, showing that the Fed’s aggressive efforts to tame it are bearing fruit. At the same time, notes Oppenheimer’s Chief Investment Strategist John Stoltzfus, the strength exhibited by labor, the consumer, and business have contributed to “improved sentiment” in the stock market. While the rally that drove the gains in the first part of the year was led by the Mega Caps, it is now widening to less heralded corners. And that brings",
+          "link": "https://finance.yahoo.com/news/oppenheimer-says-2-stocks-could-141307483.html",
+          "publishedOn": "2023-07-19T14:13:07.000Z",
+          "wordCount": 2896,
+          "title": "Oppenheimer Says These 2 Stocks Could Double Your Money — Here’s Why They Could Jump",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/2ad86a4f8ed0d57239bb1ed9e04bc731"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/t-stock-telecom-stocks-att-fires-back-on-lead-sheathed-cabling-issue/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-07-19T14:11:37.000Z",
+          "wordCount": null,
+          "title": "AT&T Fires Back On Lead-Sheathed Cabling Issue, Telecom Stocks Climb",
+          "imageUrl": null
+        },
         {
           "id": "carvana-stock-spikes-30-after-co-announces-debt-restructure-quarterly-results-134714287.html",
           "author": null,
@@ -26092,6 +26137,26 @@
           "imageUrl": null
         },
         {
+          "id": "treasury-bills-vs-bonds-best-140027182.html",
+          "author": null,
+          "description": "Fixed-income securities play an important role within individual investment portfolios and the economy at large. But like other securities, fixed-income instruments come in a myriad of variations, from short-term Treasury bills that only pay interest when the bill matures, to … Continue reading → The post Treasury Bills vs. Bonds: What's the Difference? appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/treasury-bills-vs-bonds-best-140027182.html",
+          "publishedOn": "2023-07-19T13:06:58.000Z",
+          "wordCount": 2456,
+          "title": "Can I Make More in 2023 Off Treasury Bills or Bonds?",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/58efbc97cf6341f3f9ce7ddcb232bd39"
+        },
+        {
+          "id": "much-retired-person-earn-without-205612737.html",
+          "author": null,
+          "description": "Depending on your age, if your income is below a certain threshold, you may not have to pay taxes. Here's what you need to know.",
+          "link": "https://finance.yahoo.com/news/much-retired-person-earn-without-205612737.html",
+          "publishedOn": "2023-07-19T13:00:54.000Z",
+          "wordCount": 2558,
+          "title": "I'm Retired. How Much Income Can I Make Before It Triggers Taxes?",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/9cf6d23c0fd9de38d85fe9857f239469"
+        },
+        {
           "id": "where-millionaires-keep-money-070638027.html",
           "author": null,
           "description": "Where do millionaires keep their money? High net worth individuals put money into different classifications of financial and real assets, including stocks, mutual funds, retirement accounts and real estate. Most of the 20.27 million millionaires in the U.S. did not … Continue reading → The post Where Do Millionaires Keep Their Money? appeared first on SmartAsset Blog.",
@@ -26100,6 +26165,16 @@
           "wordCount": 2849,
           "title": "The Sneaky (But Smart) Place Millionaires Keep Their Money",
           "imageUrl": "https://media.zenfs.com/en/smartasset_475/0fcbb9d7a481d00e571df7eedba05e8d"
+        },
+        {
+          "id": "ive-maxed-401-k-plan-140004329.html",
+          "author": null,
+          "description": "Are you maxing out the 401(k) plan you have at work every year? Do you still have money left for saving and investment after contributing the maximum to your 401(k) and maybe an IRA or two? If so, then you … Continue reading → The post Executive Deferred Compensation Plans appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/ive-maxed-401-k-plan-140004329.html",
+          "publishedOn": "2023-07-19T13:00:19.000Z",
+          "wordCount": 2656,
+          "title": "I Maxed Out My 401(k)! What Plans Are Available to Me Now?",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/9125502a2fc232332d6e28c509242acb"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -47450,36 +47525,6 @@
           "wordCount": 2271,
           "title": "Thai Firm Cites Russian War in Ukraine to Exit €560 Million Deal",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/hhTZEZ0qK0dF7ivqlqzeaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_markets_842/8f470baac64b4738b46267577495c3f6"
-        },
-        {
-          "id": "asia-shares-fall-chinas-modest-030340190.html",
-          "author": null,
-          "description": "Stocks in Asia fell on Tuesday as investors worried China's latest rate cut was not enough to boost confidence in the weakening economy and awaited a wider stimulus package by Beijing.  China, in a highly anticipated move, cut two key benchmark lending rates for the first time in 10 months on Tuesday, with its one-year loan prime rate (LPR) lowered by 10 basis points to 3.55% and the five-year LPR cut by the same margin to 4.20%.  China's benchmark CSI edged down 0.03%.",
-          "link": "https://finance.yahoo.com/news/asia-shares-fall-chinas-modest-030340190.html",
-          "publishedOn": "2023-06-20T03:03:40.000Z",
-          "wordCount": 2242,
-          "title": "Asia shares fall on China's modest rate cut",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/7964ab4ad3e9c059ae31124bdcba3b94"
-        },
-        {
-          "id": "asian-stock-futures-mixed-global-222645015.html",
-          "author": null,
-          "description": "(Bloomberg) -- Asian stocks are poised for a mixed open on Tuesday as the rally in global equities shows signs of wavering and investors fret over China’s tepid post-pandemic recovery.Most Read from BloombergTucker Carlson's Fox Defense Crumbled When He Took MillionsXi Tells Blinken ‘Very Good’ That Progress Made on US-China TiesGlobal Stocks Slip on Worry Rally Looks Exhausted: Markets WrapMass Immigration Experiment Gives Canada an Edge in Global Race for LaborIndiGo Bets Big on Indian Travel",
-          "link": "https://finance.yahoo.com/news/asian-stock-futures-mixed-global-222645015.html",
-          "publishedOn": "2023-06-20T02:31:04.000Z",
-          "wordCount": 2256,
-          "title": "Equities Fall as China Loan-Rate Cuts Underwhelm: Markets Wrap",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/f4f00d556ab3e2c57ad090255d01bcb8"
-        },
-        {
-          "id": "optimism-rises-china-tech-world-022341616.html",
-          "author": null,
-          "description": "(Bloomberg) -- A world-beating rally in Chinese tech stocks this month is shoring up confidence that the once-beleaguered sector may finally see its fortunes reverse.Most Read from BloombergTucker Carlson's Fox Defense Crumbled When He Took MillionsXi Tells Blinken ‘Very Good’ That Progress Made on US-China TiesGlobal Stocks Slip on Worry Rally Looks Exhausted: Markets WrapMass Immigration Experiment Gives Canada an Edge in Global Race for LaborIndiGo Makes Record 500-Plane Order With Airbus, Be",
-          "link": "https://finance.yahoo.com/news/optimism-rises-china-tech-world-022341616.html",
-          "publishedOn": "2023-06-20T02:23:41.000Z",
-          "wordCount": 2567,
-          "title": "Optimism Rises in China Tech With World-Beating Rally",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/6e1395b24e998d7fdd78462ef29dd32a"
         }
       ]
     }
