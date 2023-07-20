@@ -902,26 +902,6 @@
           "wordCount": 411,
           "title": "Rivian Joins EV Makers Adopting Tesla's Charging Station Standard",
           "imageUrl": null
-        },
-        {
-          "id": "a6cdf4880716c29d7b633ad0e8802144",
-          "author": "Investopedia",
-          "description": "Alibaba's CEO and Chairman stepped down in a surprise move to lead its cloud business as the company doubles down on global expansion. But Alibaba shares fell 4%.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca876bcee01ea75d749b8639b1f72960834b48c622c839a2df412e4b96719d32df95577fd7e325a1b8e72ff5e6c37af079b97a5edb",
-          "publishedOn": "2023-06-20T18:13:50.550Z",
-          "wordCount": 411,
-          "title": "Can Alibaba's Surprise Exec Reshuffle, Focus On Cloud Help It Beat Amazon, Microsoft?",
-          "imageUrl": null
-        },
-        {
-          "id": "b15f14554d55812d447d9a7e8de7b405",
-          "author": "Investopedia",
-          "description": "Hyundai plans to spend $28 billion over the next decade to speed up its electrification efforts and is considering adopting Tesla’s charging network.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8e7ed2ec1ba455748b8136b0fb3e289d5712c93f8c36b89c456650de7899329c970c21c0ee34a0f2ea2ee5a58028b13be63804cf631a5d035caca0",
-          "publishedOn": "2023-06-20T18:13:50.548Z",
-          "wordCount": 411,
-          "title": "Hyundai Considers Joining Tesla’s EV Charging Network",
-          "imageUrl": null
         }
       ]
     },
@@ -1617,6 +1597,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6273125/",
+          "author": "onze economieredactie",
+          "description": "Bedrijven hebben in mei 6,9 procent meer geïnvesteerd dan in dezelfde maand vorig jaar. Dat komt vooral doordat ze  meer geld hebben gestoken in gebouwen, personenauto's en vliegtuigen.",
+          "link": "https://www.nu.nl/economie/6273125/bedrijven-steken-meer-geld-in-gebouwen-autos-en-vliegtuigen.html",
+          "publishedOn": "2023-07-20T05:56:44.000Z",
+          "wordCount": 720,
+          "title": "Bedrijven steken meer geld in gebouwen, auto's en vliegtuigen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/dksx3ycapdoo_sqr256.jpg/bedrijven-steken-meer-geld-in-gebouwen-autos-en-vliegtuigen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/dksx3ycapdoo_sqr256.jpg/bedrijven-steken-meer-geld-in-gebouwen-autos-en-vliegtuigen.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6273123/",
+          "author": "onze economieredactie",
+          "description": "Consumenten waren in juli net zo negatief over de economie als de maand ervoor. Daarmee zijn ze al vier jaar onafgebroken pessimistisch.",
+          "link": "https://www.nu.nl/economie/6273123/consumenten-blijven-negatief-over-economie.html",
+          "publishedOn": "2023-07-20T05:55:41.000Z",
+          "wordCount": 814,
+          "title": "Consumenten blijven negatief over economie",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/oycxxmoa2456_sqr256.jpg/consumenten-blijven-negatief-over-economie.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/oycxxmoa2456_sqr256.jpg/consumenten-blijven-negatief-over-economie.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6273014/",
           "author": "Tom van Gurp",
@@ -8824,6 +8834,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/07/cdo-mortgages.asp",
+          "author": "Jon Ogg",
+          "description": "CDOs are structured debt instruments and when comprised of mortgages are known as mortgage-backed securities (MBS).",
+          "link": "https://www.investopedia.com/articles/07/cdo-mortgages.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-20T05:38:43.000Z",
+          "wordCount": 7549,
+          "title": "CDOs and the Mortgage Market",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/A8dg8rj7HnGIIzYqPUFo3TwaBV4=/2122x1412/GettyImages-925397546-3b9c2d67e33f4ea99f2f4098e25b1507.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/A8dg8rj7HnGIIzYqPUFo3TwaBV4=/2122x1412/GettyImages-925397546-3b9c2d67e33f4ea99f2f4098e25b1507.jpg"
+        },
         {
           "id": "https://www.investopedia.com/the-impact-of-cancelling-student-debt-5101053",
           "author": "Dan Miller",
@@ -26043,126 +26068,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/U2q0wT5dL6UhEG1ZdldhDAuDFKU=/8000x5333/GettyImages-1222151483-65c0bc28e7454bed85dc0924e7461480.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/builders-accelerated-home-construction-in-may-7550310",
-          "author": "Staff Author",
-          "description": "If builders kept up the pace they set in May, they would begin work on 1.63 million single and mutli-family housing units in one year, up significantly from April's pace.",
-          "link": "https://www.investopedia.com/builders-accelerated-home-construction-in-may-7550310?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-20T18:02:48.000Z",
-          "wordCount": 4935,
-          "title": "Builders Accelerated Construction of Much-Needed Houses in May",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/1gC-McQuiKog7BBxuk1HBJx-Mz8=/7737x5158/buildinghouse-569cb07b90b44b43a5cb591de850f0c6.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/1gC-McQuiKog7BBxuk1HBJx-Mz8=/7737x5158/buildinghouse-569cb07b90b44b43a5cb591de850f0c6.jpeg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/basics/04/022704.asp",
-          "author": "Barclay Palmer",
-          "description": "The investment advisor field is divided into two types: fee-based and commission-based. The better one for your needs depends on the nature and the size of your portfolio, along with your investment strategy and goals.",
-          "link": "https://www.investopedia.com/articles/basics/04/022704.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-20T18:01:39.000Z",
-          "wordCount": 7888,
-          "title": "Fee- vs. Commission-Based Advisor: What's the Difference?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/rSLqAo1BWTATC7Hp2JOnSnXWh5U=/680x440/financial_advisors_-5bfc2f9bc9e77c0026311e52.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/rSLqAo1BWTATC7Hp2JOnSnXWh5U=/680x440/financial_advisors_-5bfc2f9bc9e77c0026311e52.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/a/averagedailytradingvolume.asp",
-          "author": "Cory Mitchell",
-          "description": "Average daily trading volume (ADTV) is the average number of shares that change hands for a stock. This average is useful for determining which stocks are suitable for certain investors.",
-          "link": "https://www.investopedia.com/terms/a/averagedailytradingvolume.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-20T17:39:27.000Z",
-          "wordCount": 7967,
-          "title": "Average Daily Trading Volume (ADTV): Definition, How To Use It",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/8BIAYqw_9haSX_LSq8PZIywIW_o=/5362x3575/INV_ADTV_GettyImages-1412762526-b0d83b1a04db44a3b792c1a144012341.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/8BIAYqw_9haSX_LSq8PZIywIW_o=/5362x3575/INV_ADTV_GettyImages-1412762526-b0d83b1a04db44a3b792c1a144012341.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/schwab-backed-crypto-exchange-edx-goes-live-announces-funding-7550102",
-          "author": "Kyle Torpey",
-          "description": "EDX Markets, a cryptocurrency platform backed by Charles Schwab, Fidelity and Ken Griffin's Citadel Securities, launched trading for bitcoin, ether, litecoin, and bitcoin cash.",
-          "link": "https://www.investopedia.com/schwab-backed-crypto-exchange-edx-goes-live-announces-funding-7550102?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-20T17:34:42.000Z",
-          "wordCount": 4983,
-          "title": "Schwab and Fidelity-Backed Crypto Exchange EDX Goes Live, Adds More Backers",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/CKJLCfBxXmbZAuW4SOOUX9Qlf8Q=/7369x4786/GettyImages-1304093999-5bdeb7d40cd34f5bbf7066aa95de1097.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/CKJLCfBxXmbZAuW4SOOUX9Qlf8Q=/7369x4786/GettyImages-1304093999-5bdeb7d40cd34f5bbf7066aa95de1097.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/hyundai-considers-joining-tesla-ev-charging-network-7550013",
-          "author": "Staff Author",
-          "description": "Hyundai plans to spend $28 billion over the next decade to speed up its electrification efforts and is considering adopting Tesla’s charging network.",
-          "link": "https://www.investopedia.com/hyundai-considers-joining-tesla-ev-charging-network-7550013?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-20T17:21:54.000Z",
-          "wordCount": 5053,
-          "title": "Hyundai Considers Joining Tesla’s EV Charging Network",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/eBrUAvG4lqdcTagKfq3iCsifGSI=/6000x4000/GettyImages-597435820-ce5b5df57bfa4307b5b02bc494c1cb85.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/eBrUAvG4lqdcTagKfq3iCsifGSI=/6000x4000/GettyImages-597435820-ce5b5df57bfa4307b5b02bc494c1cb85.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/trading/options-trading-volume-and-open-interest/",
-          "author": "Emily Norris",
-          "description": "Trading volume and open interest are key numbers to watch when buying and selling options. Together they can indicate liquidity, trader interest, and price strength.",
-          "link": "https://www.investopedia.com/trading/options-trading-volume-and-open-interest/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-20T17:19:11.000Z",
-          "wordCount": 7104,
-          "title": "Why Open Interest and Trading Volume Matter to Options Traders",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/tJFxZt-sOLBFfYS9o-AbABigkKw=/1500x1000/GettyImages-172163302-7d684da9a7544a928e48d75ad7ed5f72.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/tJFxZt-sOLBFfYS9o-AbABigkKw=/1500x1000/GettyImages-172163302-7d684da9a7544a928e48d75ad7ed5f72.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/personal-loan-rates-and-trends-week-of-june-19-rates-hold-7550137",
-          "author": "Staff Author",
-          "description": "Personal loan rates increased slightly this week to 21.38%, a rise of 3 basis points since last week when the average personal loan rate sat at 21.35%.",
-          "link": "https://www.investopedia.com/personal-loan-rates-and-trends-week-of-june-19-rates-hold-7550137?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-20T17:14:51.000Z",
-          "wordCount": 5181,
-          "title": "Personal Loan Rates & Trends, Week of June 19: Rates Hold",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/4DU4vN6eZLyMk15pVzXN-1xSvB8=/8600x5733/GettyImages-1404674974-96c994001ca944f1890f7218a168e09c.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/4DU4vN6eZLyMk15pVzXN-1xSvB8=/8600x5733/GettyImages-1404674974-96c994001ca944f1890f7218a168e09c.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/construction-keeps-humming-despite-office-real-estate-woes-7546604",
-          "author": "Lyle Niedens",
-          "description": "Despite plentiful lease availability, rising vacancies and plunging office property values, construction on new offices hasn't stopped—and more lies ahead",
-          "link": "https://www.investopedia.com/construction-keeps-humming-despite-office-real-estate-woes-7546604?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-20T17:11:38.000Z",
-          "wordCount": 6048,
-          "title": "Office Construction Keeps Humming Despite Property Market's Woes",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/uAsmVhU4pcwHoFwhcaH_cIX1qUU=/5200x3185/GettyImages-976755576-87187c76847749d5bae67bdd780384a2.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/uAsmVhU4pcwHoFwhcaH_cIX1qUU=/5200x3185/GettyImages-976755576-87187c76847749d5bae67bdd780384a2.jpg"
         }
       ]
     },
@@ -26171,6 +26076,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "tsmc-profit-falls-less-feared-053434951.html",
+          "author": null,
+          "description": "(Bloomberg) -- Taiwan Semiconductor Manufacturing Co. posted a smaller than expected profit decline, after the global AI development boom outweighed a persistent slump in smartphone demand.Most Read from BloombergApple Tests ‘Apple GPT,’ Develops Generative AI Tools to Catch OpenAIA $500 Billion Corporate-Debt Storm Builds Over Global EconomyIn London, New York and Paris, a Giant Office Bet Is Going WrongNadella’s Microsoft Payouts Top $1 Billion on 1,000% Stock BoomTesla Investor Rode a 14,800%",
+          "link": "https://finance.yahoo.com/news/tsmc-profit-falls-less-feared-053434951.html",
+          "publishedOn": "2023-07-20T05:34:34.000Z",
+          "wordCount": 2477,
+          "title": "TSMC Profit Falls Less Than Feared as AI Boom Offsets Tech Slump",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_technology_68/a9174c6fddbf8f14f67812536a19c2b8"
+        },
         {
           "id": "evergrande-creditors-seized-1-6-021946236.html",
           "author": null,
@@ -26510,6 +26425,16 @@
           "wordCount": 2241,
           "title": "Carvana stock is up 1000% this year, leaving short sellers with a $2 billion loss",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/duuJcszW1Djp6JoDZqk6.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-01/1ee313e0-5676-11eb-bfff-0bed4ec4693b"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/research/warren-buffett-stocks/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-07-19T16:19:15.000Z",
+          "wordCount": null,
+          "title": "Warren Buffett Stocks: What's Inside Berkshire Hathaway's Portfolio?",
+          "imageUrl": null
         },
         {
           "id": "constellation-brands-fights-off-activist-investor-as-it-takes-business-from-bud-light-155826837.html",
@@ -47420,56 +47345,6 @@
           "wordCount": null,
           "title": "Weekly Stock List",
           "imageUrl": null
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/boeing-stock-falls-amid-paris-air-show-orders/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-06-20T18:00:28.000Z",
-          "wordCount": null,
-          "title": "Boeing Stock Falls, Airbus Rises Amid These Big Jet Orders From Paris Air Show",
-          "imageUrl": null
-        },
-        {
-          "id": "irked-boss-owed-employee-915-173505172.html",
-          "author": null,
-          "description": "Georgia auto shop owner Miles Walker has to pay Andreas Flaten and 8 coworkers nearly $39,934 in a judgment after originally paying in dirty pennies.",
-          "link": "https://finance.yahoo.com/news/irked-boss-owed-employee-915-173505172.html",
-          "publishedOn": "2023-06-20T17:35:05.000Z",
-          "wordCount": 2014,
-          "title": "An irked boss who owed an employee $915 paid with 91,500 dirty, oily pennies. That cost him.",
-          "imageUrl": "https://media.zenfs.com/en/usa_today_money_325/784044ea95a7e69981ba4472e9835fa0"
-        },
-        {
-          "id": "schwab-backed-crypto-exchange-edx-goes-live-announces-funding-7550102?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "EDX Markets, a cryptocurrency platform backed by Charles Schwab, Fidelity and Ken Griffin's Citadel Securities, launched trading for bitcoin, ether, litecoin, and bitcoin cash.",
-          "link": "https://www.investopedia.com/schwab-backed-crypto-exchange-edx-goes-live-announces-funding-7550102?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-06-20T17:34:42.000Z",
-          "wordCount": 5346,
-          "title": "Schwab and Fidelity-Backed Crypto Exchange EDX Goes Live, Adds More Backers",
-          "imageUrl": "https://www.investopedia.com/thmb/aRTisDQIc4zGyrmm92o1vn9JJvk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1304093999-5bdeb7d40cd34f5bbf7066aa95de1097.jpg"
-        },
-        {
-          "id": "nvidia-broadcom-chip-stocks-ai-5ac3d23f?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Bernstein analyst Stacy Rasgon says Nvidia and Broadcom are the ideal chip stocks to benefit from the rising demand for artificial-intelligence semiconductors.",
-          "link": "https://www.barrons.com/articles/nvidia-broadcom-chip-stocks-ai-5ac3d23f?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-06-20T17:26:00.000Z",
-          "wordCount": 6653,
-          "title": "2 Best Chip Stocks to Play the AI Boom, Says Analyst",
-          "imageUrl": "https://images.barrons.com/im-803090/social"
-        },
-        {
-          "id": "virgin-galactic-still-meme-stock-171800792.html",
-          "author": null,
-          "description": "Investors snapped up shares of Virgin Galactic (SPCE) after Richard Branson’s space tourism firm finally announced plans to begin commercial service at the end of this month.",
-          "link": "https://finance.yahoo.com/news/virgin-galactic-still-meme-stock-171800792.html",
-          "publishedOn": "2023-06-20T17:18:00.000Z",
-          "wordCount": 2216,
-          "title": "Virgin Galactic still has meme stock power",
-          "imageUrl": "https://media.zenfs.com/en/quartz.com/3e4b0347d3dc9d2104b3ea0040ae3298"
         }
       ]
     }
