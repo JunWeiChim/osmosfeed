@@ -861,6 +861,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "b6d6ce869d34a9675a35c09b9d8d8150",
+          "author": "Investopedia",
+          "description": "Higher interest rates boosted big banks’ net interest income in the second quarter, which is the profit banks earn from charging higher interest rates to borrowers than they pay out to depositors and account holders.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9262d5ef52aa5a749c863deee53f28840951c624c831bf86473941c87fd83adf911561c6ab62e7a3b074b3bb",
+          "publishedOn": "2023-07-22T13:12:49.601Z",
+          "wordCount": 409,
+          "title": "Term of the Week: Net Interest Income",
+          "imageUrl": null
+        },
+        {
           "id": "beff490606e3db65cb34253700de25cf",
           "author": "Investopedia",
           "description": "Interpublic Group shares tumbled on Friday after slashing its 2023 organic revenue growth forecast in half, citing falling business from tech firms.",
@@ -8589,6 +8599,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/ask/answers/022015/what-methods-are-used-launder-money.asp",
+          "author": "The Investopedia Team",
+          "description": "Learn about the methods that criminals use when they are looking to launder money and how the government seeks to prevent them.",
+          "link": "https://www.investopedia.com/ask/answers/022015/what-methods-are-used-launder-money.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-22T12:12:15.000Z",
+          "wordCount": 7157,
+          "title": "What Methods Are Used to Launder Money?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/BHC6Wzjz0aFfWPg2ti0kz_aErGo=/2121x1416/515819613-56a066843df78cafdaa16ae1.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/BHC6Wzjz0aFfWPg2ti0kz_aErGo=/2121x1416/515819613-56a066843df78cafdaa16ae1.jpg"
+        },
         {
           "id": "https://www.investopedia.com/elon-musk-launched-his-own-ai-startup-heres-musks-net-worth-7562899",
           "author": "Staff Author",
@@ -25788,21 +25813,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/oQd-woeF8ojPVa2M6eoHaWrsGKk=/6000x4000/GettyImages-10443266122-c87ceab903af47f494c706038edd950b.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/a/account-hold.asp",
-          "author": "Adam Hayes",
-          "description": "An account hold is a restriction on the owner's ability to access funds.",
-          "link": "https://www.investopedia.com/terms/a/account-hold.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-23T01:09:14.000Z",
-          "wordCount": 5576,
-          "title": "What Is an Account Hold?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Eck9MI6LUpu1jZXFlNsbdJpkvAI=/1024x722/GettyImages-1045038100-6dc586469d9e4e9ebaff0e5dd499d40a.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Eck9MI6LUpu1jZXFlNsbdJpkvAI=/1024x722/GettyImages-1045038100-6dc586469d9e4e9ebaff0e5dd499d40a.jpg"
         }
       ]
     },
@@ -25811,6 +25821,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "the-energy-transition-will-require-cobalt-americas-only-mine-cant-get-off-the-ground-e5ea91f1?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The U.S. is playing catch-up in battery supply chains dominated by China.",
+          "link": "https://www.wsj.com/articles/the-energy-transition-will-require-cobalt-americas-only-mine-cant-get-off-the-ground-e5ea91f1?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-22T12:00:00.000Z",
+          "wordCount": 6710,
+          "title": "The Energy Transition Will Require Cobalt. America’s Only Mine Can’t Get Off the Ground.",
+          "imageUrl": "https://images.wsj.net/im-821926/social"
+        },
         {
           "id": "beijing-address-investor-concerns-rare-062547211.html",
           "author": null,
