@@ -1468,6 +1468,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6273335/",
+          "author": "Tom van Gurp",
+          "description": "Koophuizen waren vorige maand gemiddeld 5,5 procent goedkoper dan een jaar eerder. Verder blijkt dat het aantal verkochte woningen met 6 procent is gestegen in vergelijking met vorig jaar. Dat concluderen het Kadaster en statistiekbureau CBS.",
+          "link": "https://www.nu.nl/economie/6273335/huizenprijzen-dalen-in-een-jaar-met-ruim-5-procent.html",
+          "publishedOn": "2023-07-23T22:01:42.000Z",
+          "wordCount": 1066,
+          "title": "Huizenprijzen dalen in een jaar met ruim 5 procent",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/eduxdo8a5lm6_sqr256.jpg/huizenprijzen-dalen-in-een-jaar-met-ruim-5-procent.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/eduxdo8a5lm6_sqr256.jpg/huizenprijzen-dalen-in-een-jaar-met-ruim-5-procent.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6273359/",
           "author": "Thijs Rösken",
           "description": "Vakantiegangers die in het buitenland in het ziekenhuis belanden, krijgen ook nog eens een pijnlijke verrassing te verwerken. Als je niet extra verzekerd bent, is er een grote kans dat je zelf een deel van de kosten moet betalen.",
@@ -8201,21 +8216,6 @@
             "url": "https://media.nu.nl/m/3eixu0oaqyzb_sqr256.jpg/zwitserland-nog-niet-klaar-met-renteverhogingen-spanje-wel.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/3eixu0oaqyzb_sqr256.jpg/zwitserland-nog-niet-klaar-met-renteverhogingen-spanje-wel.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6269170/",
-          "author": "José Boon",
-          "description": "De speelsheid die volwassenen tijdens de coronapandemie bij zichzelf hebben ontdekt, blijft hangen. Speelgoedverkopers zien steeds vaker oudere klanten die iets leuks kopen voor zichzelf. Vooral LEGO-sets, Funko-poppen en spellen vliegen over de toonbank.",
-          "link": "https://www.nu.nl/economie/6269170/speelgoedbranche-merkt-dat-volwassenen-hun-speelsheid-niet-meer-kwijtraken.html",
-          "publishedOn": "2023-06-24T10:07:36.000Z",
-          "wordCount": 1474,
-          "title": "Speelgoedbranche merkt dat volwassenen hun speelsheid niet meer kwijtraken",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/1j2x5gca8uj0_sqr256.jpg/speelgoedbranche-merkt-dat-volwassenen-hun-speelsheid-niet-meer-kwijtraken.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/1j2x5gca8uj0_sqr256.jpg/speelgoedbranche-merkt-dat-volwassenen-hun-speelsheid-niet-meer-kwijtraken.jpg"
         }
       ]
     },
@@ -8224,6 +8224,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/tech/ripple-xrp-cryptocurrency-how-to-buy/",
+          "author": "Nathan Reiff",
+          "description": "Ripple (XRP) is the native cryptocurrency for the payment system created by Ripple Labs Inc. Find out how to buy and invest in XRP.",
+          "link": "https://www.investopedia.com/tech/ripple-xrp-cryptocurrency-how-to-buy/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-23T21:14:26.000Z",
+          "wordCount": 6834,
+          "title": "How to Buy Ripple (XRP)",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/asQm9AIAjJ7e5Olz8Cc6YTXpQuw=/2131x1406/ripple-dd0a8c0a803947669d334e45ef809d46.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/asQm9AIAjJ7e5Olz8Cc6YTXpQuw=/2131x1406/ripple-dd0a8c0a803947669d334e45ef809d46.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/c/carriage-and-insurance-paid-cip.asp",
+          "author": "Will Kenton",
+          "description": "“Carriage and insurance paid to” is when a seller pays freight and insurance to deliver goods to a seller-appointed party at an agreed-upon location.",
+          "link": "https://www.investopedia.com/terms/c/carriage-and-insurance-paid-cip.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-23T21:00:12.000Z",
+          "wordCount": 6210,
+          "title": "Carriage and Insurance Paid to (CIP): Definition and Example",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/SQA_eQr3UE5VeA39uo3ISsxFka4=/1500x1000/TermDef_CIP_3-2-9c1f2d3f4f2b49a59530b865352d4b9f.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/SQA_eQr3UE5VeA39uo3ISsxFka4=/1500x1000/TermDef_CIP_3-2-9c1f2d3f4f2b49a59530b865352d4b9f.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/basics/03/030703.asp",
           "author": "The Investopedia Team",
@@ -25753,21 +25783,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/F-Jul7_AVfzgWdXYPLzB67posEU=/6000x4000/INV_TopJapanETFs_GettyImages-1485016936-65b59c5b80d74b43bab609fdfa9557e0.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/investing/top-india-etfs/",
-          "author": "Nathan Reiff",
-          "description": "Franklin FTSE India ETF offers the lowest fees, Columbia India Consumer ETF has the best return, and iShares MSCI India ETF is the most liquid.",
-          "link": "https://www.investopedia.com/investing/top-india-etfs/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-24T10:00:00.000Z",
-          "wordCount": 6217,
-          "title": "Top India ETFs for 2023",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ZMZozfHQkrUW2R1veyzwFA-b2JE=/4511x3000/adobestock_196973170-5bfc2e7a46e0fb00265c7563.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ZMZozfHQkrUW2R1veyzwFA-b2JE=/4511x3000/adobestock_196973170-5bfc2e7a46e0fb00265c7563.jpeg"
         }
       ]
     },
@@ -25865,6 +25880,16 @@
           "wordCount": 3056,
           "title": "Barclays loves these gold mining stocks — and gives them double-digit upside",
           "imageUrl": "https://media.zenfs.com/en/tipranks_452/1f1ed2aafa7428f25db4a57fc483173f"
+        },
+        {
+          "id": "tech-worker-stock-benefits-could-bite-back-at-tax-time-7564161?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "Workers at firms like Nvidia, Amazon, Apple and Microsoft have seen big jumps in their company shares, but many don’t know the tax hit those earnings could bring",
+          "link": "https://www.investopedia.com/tech-worker-stock-benefits-could-bite-back-at-tax-time-7564161?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-07-23T14:05:51.000Z",
+          "wordCount": 5847,
+          "title": "Tech Employee Stock Benefits Could Bite Back at Tax Time, Advisors Say",
+          "imageUrl": "https://www.investopedia.com/thmb/0R17MibJOEd_bTYFDZdqBZw8j6I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1163568487-17a108e304e84ca891f55a55815cc6bc.jpg"
         },
         {
           "id": "bain-buy-90-stake-adani-134245254.html",
@@ -47225,26 +47250,6 @@
           "wordCount": 3654,
           "title": "Gen Z workers came of age amid the pandemic—and now quitting their job is always front of mind",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/lqa7JkKHM2lKAvvKyS8lzg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/a41202b3321d9a9ba0750b9ca107f391"
-        },
-        {
-          "id": "?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Franklin FTSE India ETF offers the lowest fees, Columbia India Consumer ETF has the best return, and iShares MSCI India ETF is the most liquid.",
-          "link": "https://www.investopedia.com/investing/top-india-etfs/?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-06-24T10:00:00.000Z",
-          "wordCount": 6227,
-          "title": "Top India ETFs for 2023",
-          "imageUrl": "https://www.investopedia.com/thmb/oMM83eEqsIB10LjyMk0ZLd5MmI0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/adobestock_196973170-5bfc2e7a46e0fb00265c7563.jpeg"
-        },
-        {
-          "id": "car-insurance-rates-are-soaring-with-little-relief-in-sight-66138e2a?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Even states with consumer friendly laws, and tough powers to veto increases, are allowing rates to rise.",
-          "link": "https://www.wsj.com/articles/car-insurance-rates-are-soaring-with-little-relief-in-sight-66138e2a?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-06-24T09:30:00.000Z",
-          "wordCount": 8463,
-          "title": "Car Insurance Rates Are Soaring With Little Relief in Sight",
-          "imageUrl": "https://images.wsj.net/im-805228/social"
         }
       ]
     }
