@@ -8396,36 +8396,6 @@
             "url": "https://media.nu.nl/m/nu6xyu9a12mq_sqr256.jpg/pizzarel-in-new-york-over-veronderstelde-milieumaatregel.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/nu6xyu9a12mq_sqr256.jpg/pizzarel-in-new-york-over-veronderstelde-milieumaatregel.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6269804/",
-          "author": "Tom van Gurp",
-          "description": "Klanten van ABN AMRO krijgen vanaf 1 augustus 1,25 procent rente op hun spaargeld. Dat is nu nog 1 procent. Dat meldt de bank dinsdag op zijn website.",
-          "link": "https://www.nu.nl/economie/6269804/spaarrente-bij-abn-amro-naar-boven-de-1-procent.html",
-          "publishedOn": "2023-06-28T04:51:15.000Z",
-          "wordCount": 803,
-          "title": "Spaarrente bij ABN AMRO naar boven de 1 procent",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/8lrxra0a7ylz_sqr256.jpg/spaarrente-bij-abn-amro-naar-boven-de-1-procent.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/8lrxra0a7ylz_sqr256.jpg/spaarrente-bij-abn-amro-naar-boven-de-1-procent.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6269915/",
-          "author": "Eva Schouten",
-          "description": "Vanaf zaterdag wordt de kassabon in de supermarkt weer een stukje langer. Sinds twee jaar staat het statiegeld op kleine flesjes erop, sins een paar maanden het statiegeld op blikjes. Nu komt daar de nieuwe plastictoeslag bij. Of dat helpt bij het terugdringen van de plastic afvalberg, valt te bezien.",
-          "link": "https://www.nu.nl/economie/6269915/kassabon-wordt-door-plastictoeslag-weer-wat-langer.html",
-          "publishedOn": "2023-06-28T04:47:41.000Z",
-          "wordCount": 1409,
-          "title": "Kassabon wordt door plastictoeslag weer wat langer",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/4ddxqnsaq25t_sqr256.jpg/kassabon-wordt-door-plastictoeslag-weer-wat-langer.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/4ddxqnsaq25t_sqr256.jpg/kassabon-wordt-door-plastictoeslag-weer-wat-langer.jpg"
         }
       ]
     },
@@ -8434,6 +8404,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/chipotle-q2-2023-earnings-recap-7566289",
+          "author": "Staff Author",
+          "description": "Chipotle shares tumbled after the restaurant chain's sales came in short of expectations as the company raised prices because of higher ingredient costs.",
+          "link": "https://www.investopedia.com/chipotle-q2-2023-earnings-recap-7566289?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-27T16:46:05.000Z",
+          "wordCount": 4921,
+          "title": "Chipotle Sales Fall Short on Higher Prices",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/pcXEkj1f993Uo9DIZXBjvz6bVAw=/8256x5504/GettyImages-1485489295-a4a0a6e4c508449c9492cc4a1d619ed7.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/pcXEkj1f993Uo9DIZXBjvz6bVAw=/8256x5504/GettyImages-1485489295-a4a0a6e4c508449c9492cc4a1d619ed7.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/shell-s-profit-sinks-on-oil-and-gas-price-declines-7566372",
+          "author": "Staff Author",
+          "description": "ADRs of Shell Plc dropped after the energy giant reported earnings fell by more than half, hurt by falling oil and gas prices.",
+          "link": "https://www.investopedia.com/shell-s-profit-sinks-on-oil-and-gas-price-declines-7566372?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-27T16:45:53.000Z",
+          "wordCount": 4889,
+          "title": "Shell's Profit Sinks on Oil and Gas Price Declines",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/44O9VXTmYkD07XIJ2jFfS2KVjZY=/5200x3470/GettyImages-1497150228-c681837fc1384125a3ced1f8586e1d41.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/44O9VXTmYkD07XIJ2jFfS2KVjZY=/5200x3470/GettyImages-1497150228-c681837fc1384125a3ced1f8586e1d41.jpg"
+        },
         {
           "id": "https://www.investopedia.com/markets-rise-at-midday-on-us-economic-growth-7566387",
           "author": "Staff Author",
@@ -26962,6 +26962,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "quantumscape-stock-earnings-9692772f?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shares of electric-vehicle battery start-up QuantumScape are soaring following the company's earnings report. But earnings aren't the reason for the stock surge.",
+          "link": "https://www.barrons.com/articles/quantumscape-stock-earnings-9692772f?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-27T16:17:00.000Z",
+          "wordCount": 7773,
+          "title": "QuantumScape Stock Is Soaring. Here’s What Is Driving the Gains.",
+          "imageUrl": "https://images.barrons.com/im-824950/social"
+        },
+        {
           "id": "silicon-motion-enforce-merger-maxlinear-1fd1e3d2?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "MaxLinear terminated its deal to buy Silicon Motion on Wednesday, hours after the unexpected news that Chinese regulators had approved the merger.",
@@ -26990,6 +27000,16 @@
           "wordCount": 3252,
           "title": "Bank of America Says These 2 Stocks Could Double Your Money — Here’s Why They Could Rally",
           "imageUrl": "https://media.zenfs.com/en/tipranks_452/0ef7bc5b065f20a8a520a82feb732435"
+        },
+        {
+          "id": "t-verizon-escape-managed-decline-151246265.html",
+          "author": null,
+          "description": "America’s telecoms incumbents are in a funk",
+          "link": "https://finance.yahoo.com/news/t-verizon-escape-managed-decline-151246265.html",
+          "publishedOn": "2023-07-27T15:12:46.000Z",
+          "wordCount": 9530,
+          "title": "Can AT&T and Verizon escape managed decline?",
+          "imageUrl": "https://media.zenfs.com/en/the_economist_group_401/b1414e7783e19998f31a5ccbd4af805d"
         },
         {
           "id": "ark-invest-cathie-wood-speaks-her-mind-tesla-nvidia-ai-meta-438bf0b7?siteid=yhoof2&yptr=yahoo",
@@ -28180,6 +28200,16 @@
           "wordCount": 2876,
           "title": "Can I Make $1,000 Bucks Every Month in Dividends?",
           "imageUrl": "https://media.zenfs.com/en/smartasset_475/7f6b14f300219e5fa0ec307b068177f5"
+        },
+        {
+          "id": "ask-advisor-much-money-earn-172524045.html",
+          "author": null,
+          "description": "How much am I able to earn from an employer if I opt to take my Social Security at age 62 next year? – Glenn To be very clear, you can earn as much money as you want while collecting … Continue reading → The post Ask an Advisor: How Much Money Can I Earn Working After Taking Social Security at Age 62? appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/ask-advisor-much-money-earn-172524045.html",
+          "publishedOn": "2023-07-26T13:00:15.000Z",
+          "wordCount": 12197,
+          "title": "Ask an Advisor: How Much Money Can I Earn Working After Taking Social Security at Age 62?",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/358ba29e5cb43c0dbdf84ff398871418"
         },
         {
           "id": "volkswagen-expand-china-line-xpeng-125500108.html",
@@ -49770,16 +49800,6 @@
           "wordCount": 2211,
           "title": "Tesla to hit record quarterly sales in China even as market share shrinks - analysts",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/73d9df7a43385635f4c272a0c962c662"
-        },
-        {
-          "id": "analysis-contrarians-bet-u-energy-050351417.html",
-          "author": null,
-          "description": "A blazing U.S. stock market rally left shares of energy companies behind in the first six months of 2023 as faltering global growth sapped expectations of oil demand.  While the U.S. economy has been more resilient than expected, weaker growth in the eurozone and China has weighed on oil prices, pushing Brent crude down about 16% for the year.  The benchmark S&P 500, by comparison, is up 14%.",
-          "link": "https://finance.yahoo.com/news/analysis-contrarians-bet-u-energy-050351417.html",
-          "publishedOn": "2023-06-28T05:03:51.000Z",
-          "wordCount": 2497,
-          "title": "Analysis-Contrarians bet U.S. energy shares will shake doldrums in 2023's second half",
-          "imageUrl": "https://media.zenfs.com/en/reuters.com/06fd9da33f33abbfdf04e51eddd8f3d7"
         }
       ]
     }
