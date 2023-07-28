@@ -1498,6 +1498,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6274208/",
+          "author": "onze economieredactie",
+          "description": "De Franse economie is in het tweede kwartaal onverwacht hard gegroeid. Het bruto binnenlands product (bbp) groeide met 0,5 procent. Dit kwam vooral doordat de export steeg en bedrijven meer produceerden.",
+          "link": "https://www.nu.nl/economie/6274208/franse-economie-groeit-harder-dan-verwacht.html",
+          "publishedOn": "2023-07-28T07:41:23.000Z",
+          "wordCount": 800,
+          "title": "Franse economie groeit harder dan verwacht",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/kh6x49jaq9gk_sqr256.jpg/franse-economie-groeit-harder-dan-verwacht.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/kh6x49jaq9gk_sqr256.jpg/franse-economie-groeit-harder-dan-verwacht.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6274201/",
           "author": "onze economieredactie",
           "description": "KLM zag zijn inkomsten de afgelopen maanden groeien door hogere prijzen en doordat passagiers vaker voor luxere zitplaatsen kozen. Daarmee compenseerde het bedrijf de schade van het schrappen van Transavia-vluchten.",
@@ -26718,51 +26733,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/7BhR9AXhpxa9oQl5OJNYPB7q1f8=/1600x762/GettyImages-1092336080_1600-4eaf77d71757437b9bac3c5f24d76ead.png"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/s/sga.asp",
-          "author": "Alicia Tuovila",
-          "description": "The selling, general, and administrative expenses (SG&A) category includes all of the overhead costs of doing business.",
-          "link": "https://www.investopedia.com/terms/s/sga.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-28T20:03:04.000Z",
-          "wordCount": 7871,
-          "title": "SG&A: Selling, General, and Administrative Expenses",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/I8Sg5gq9q-7pBCEwihgyW3mii84=/1500x1000/sgaExpenses-57d2c13f16bf417c805124f301e13ec4.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/I8Sg5gq9q-7pBCEwihgyW3mii84=/1500x1000/sgaExpenses-57d2c13f16bf417c805124f301e13ec4.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/news/brexit-winners-and-losers/",
-          "author": "Michelle P. Scott",
-          "description": "Now that a Brexit deal has finally been reached, here’s what we know about the few winners and many losers of Brexit.",
-          "link": "https://www.investopedia.com/news/brexit-winners-and-losers/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-28T19:42:55.000Z",
-          "wordCount": 8334,
-          "title": "Brexit: Winners and Losers",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/oPrhvbiDcAb48cRFvvQTty8CaEo=/684x510/istock542799318-5bfc3c26c9e77c00519eef0c.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/oPrhvbiDcAb48cRFvvQTty8CaEo=/684x510/istock542799318-5bfc3c26c9e77c00519eef0c.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/types-of-investments-in-the-uk-7546224",
-          "author": "Adam Hayes",
-          "description": "There are many different ways to invest in the UK for both residents and those overseas",
-          "link": "https://www.investopedia.com/types-of-investments-in-the-uk-7546224?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-28T19:26:10.000Z",
-          "wordCount": 9351,
-          "title": "Types of Investments in the UK",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ZPceyZjqCht6LUy7m0MsW9dEwIw=/5760x3840/GettyImages-923317900-88b47227a61a402587b07617abe14a7f.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ZPceyZjqCht6LUy7m0MsW9dEwIw=/5760x3840/GettyImages-923317900-88b47227a61a402587b07617abe14a7f.jpg"
         }
       ]
     },
@@ -26771,6 +26741,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "boj-loosens-grip-long-term-040558615.html",
+          "author": null,
+          "description": "(Bloomberg) -- The Bank of Japan jolted financial markets by loosening its grip on bond yields in Governor Kazuo Ueda’s first surprise move since taking the helm, a step that will likely spur talk of potential policy normalization to come. The yen whipsawed to give back some of its earlier sharp gains against the dollar.Most Read from BloombergSubway Offers Free Sandwiches That Come With a Lifetime CommitmentLargest US Grid Declares Emergency Alert For July 27US 10-Year Yield Hits 4% as BOJ Worr",
+          "link": "https://finance.yahoo.com/news/boj-loosens-grip-long-term-040558615.html",
+          "publishedOn": "2023-07-28T05:20:45.000Z",
+          "wordCount": 2375,
+          "title": "BOJ Sends Yields Soaring With Surprise Change to Rate Ceiling",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/0d721ad53d46259f0d0c0ab31baf1624"
+        },
         {
           "id": "the-disney-magic-will-return-its-time-to-buy-the-stock-ecdb52c2?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -26840,6 +26820,16 @@
           "wordCount": 2995,
           "title": "Merger Madness Among REITs Heats Up This Summer",
           "imageUrl": "https://media.zenfs.com/en/Benzinga/93be6860829779fbdfc520932fb97f09"
+        },
+        {
+          "id": "t-mobile-ceo-q2-earnings-221156609.html",
+          "author": null,
+          "description": "T-Mobile CEO says his telecom is just getting started on the outperformance of investor expectations.",
+          "link": "https://finance.yahoo.com/news/t-mobile-ceo-q2-earnings-221156609.html",
+          "publishedOn": "2023-07-27T22:11:56.000Z",
+          "wordCount": 2342,
+          "title": "T-Mobile CEO on Q2 earnings: 'We can set goals, beat them, and then raise them'",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ELjAjp8uLL3CTrRZswu9Ow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzU-/https://s.yimg.com/os/creatr-uploaded-images/2021-04/c53c36f0-989c-11eb-bdbf-873b819bc9ea"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -27250,6 +27240,16 @@
           "wordCount": 8012,
           "title": "Cathie Wood Speaks Her Mind on Tesla, Meta, Nvidia, AI, and More",
           "imageUrl": "https://images.barrons.com/im-824512/social"
+        },
+        {
+          "id": "european-bonds-gain-euro-softens-after-ecb-decision-tGjoRpUijGhvbt1TmFUt?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The European Central Bank’s latest policy statement didn’t change very much from June’s. But the absence of one verb from the policy announcement was quickly noticed by investors, sending ripples through European markets.\nThe ECB’s July statement said interest rates “will be set” at sufficiently re",
+          "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-27-2023/card/european-bonds-gain-euro-softens-after-ecb-decision-tGjoRpUijGhvbt1TmFUt?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-27T14:44:39.000Z",
+          "wordCount": 7098,
+          "title": "How the ECB Jolted the Euro With One Word",
+          "imageUrl": "https://images.wsj.net/im-824879?width=600"
         },
         {
           "id": "royal-caribbean-soars-boosting-full-133825564.html",
@@ -49470,46 +49470,6 @@
           "wordCount": 3179,
           "title": "All 23 banks survive Fed's 2023 stress test",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/XBiGCnXXMlVKDiOoJKp7gA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/47fbb7b0-15ef-11ee-bc77-bc2ccd9bc24e"
-        },
-        {
-          "id": "chipmaker-micron-forecasts-revenue-above-200917466.html",
-          "author": null,
-          "description": "Micron Technology forecast fourth-quarter revenue above Wall Street expectations on Wednesday, banking on a bounce in demand for its memory chips from the fast-growing artificial intelligence (AI) sector. The company expects revenue of $3.9 billion plus or minus $200 million for the quarter ending Aug. 31, compared with estimates of $3.89 billion, according to IBES data from Refinitiv.",
-          "link": "https://finance.yahoo.com/news/chipmaker-micron-forecasts-revenue-above-200917466.html",
-          "publishedOn": "2023-06-28T20:09:17.000Z",
-          "wordCount": 1841,
-          "title": "Chipmaker Micron tops revenue estimates on demand from booming AI",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/4089676202b37b7aa5c130e6ad2d1803"
-        },
-        {
-          "id": "apple-stock-price-sp-500-106e9f3b?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Apple actually isn't the best performer in the S&P 500 so far this year.",
-          "link": "https://www.barrons.com/articles/apple-stock-price-sp-500-106e9f3b?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-06-28T19:45:00.000Z",
-          "wordCount": 7246,
-          "title": "6 Stocks You Probably Didn’t Know Have Outperformed Apple This Year",
-          "imageUrl": "https://images.barrons.com/im-808657/social"
-        },
-        {
-          "id": "retirement-portfolio-stocks-bonds-d42a2358?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Older investors often take too much investment risk by overweighting stocks in their investment portfolios.",
-          "link": "https://www.barrons.com/advisor/articles/retirement-portfolio-stocks-bonds-d42a2358?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-06-28T19:28:00.000Z",
-          "wordCount": 7128,
-          "title": "Hey Boomer, You Own Too Many Stocks. How Pros Get Retirees to Diversify.",
-          "imageUrl": "https://images.barrons.com/im-808600/social"
-        },
-        {
-          "id": "19-000-per-month-internship-192054528.html",
-          "author": null,
-          "description": "Wall Street is attempting to attract Gen Z employees with high pay. Citadel is leading the way.",
-          "link": "https://finance.yahoo.com/news/19-000-per-month-internship-192054528.html",
-          "publishedOn": "2023-06-28T19:20:54.000Z",
-          "wordCount": 2319,
-          "title": "How about a $19,000-per-month internship this summer? That’s what the biggest hedge fund in the world is paying as Wall Street returns to the office",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/C4HVyC4BMsX8CeGVHaOH9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/b64ac19f4ee24d656ff9339a8ee9f88d"
         }
       ]
     }
