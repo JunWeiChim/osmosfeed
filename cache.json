@@ -801,6 +801,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "ab6f00b3bfc58e93a2e33394139d3b48",
+          "author": "Investopedia",
+          "description": "Toy company Mattel, the maker of Barbie dolls, reported a surprise profit in the second quarter, as the success and promotional impact of the box office hit Barbie offset lower toy sales.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b66d3f61aa9112b8d9e37b1e629609c514dd3228c2bb4df52394bdd62817ed09f13688ee434a0f7ea25afea8135e823ef2c06813102005a18b0a4fd8f210c9c85",
+          "publishedOn": "2023-07-29T14:09:20.482Z",
+          "wordCount": 409,
+          "title": "Earnings Beat of the Week: Mattel Reports Surprise Profit Amid Barbie Box Office Hit",
+          "imageUrl": null
+        },
+        {
           "id": "a306822dae81cd3259827931238c5802",
           "author": "Investopedia",
           "description": "U.S. equities rallied on Friday, July 28, 2023 after a report showing inflation cooled in June, and the S&P 500 rose 1%.",
@@ -8249,6 +8259,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/mattel-reports-surprise-profit-amid-barbie-box-office-hit-7566557",
+          "author": "Staff Author",
+          "description": "Toy company Mattel, the maker of Barbie dolls, reported a surprise profit in the second quarter, as the success and promotional impact of the box office hit Barbie offset lower toy sales.",
+          "link": "https://www.investopedia.com/mattel-reports-surprise-profit-amid-barbie-box-office-hit-7566557?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-29T13:00:00.000Z",
+          "wordCount": 5268,
+          "title": "Earnings Beat of the Week: Mattel Reports Surprise Profit Amid Barbie Box Office Hit",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/L9rz5z_Kg--Mlsx-CpVwkkKHOhY=/3300x2200/GettyImages-1521025895-b67042b71e5d41ffa98fac8091352d78.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/L9rz5z_Kg--Mlsx-CpVwkkKHOhY=/3300x2200/GettyImages-1521025895-b67042b71e5d41ffa98fac8091352d78.jpg"
+        },
         {
           "id": "https://www.investopedia.com/job-optimism-steady-1-in-4-looking-for-new-career-7566949",
           "author": "Kathleen Marshall",
@@ -26323,21 +26348,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/ivlQk8P1yrm1FBHmHe9Ny_oum88=/4925x3045/Transgender.Flag.AdobeStock_71354352-95622a29a0724d8bb3cb9f66322b4c8e.jpeg"
-        },
-        {
-          "id": "https://www.investopedia.com/how-being-nonbinary-affects-getting-life-insurance-4869749",
-          "author": "Amy Fontinelle",
-          "description": "Life insurance underwriting will likely require you to apply as a male or female for now. Here's what else to know to smooth the process.",
-          "link": "https://www.investopedia.com/how-being-nonbinary-affects-getting-life-insurance-4869749?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-06-30T01:42:15.000Z",
-          "wordCount": 8778,
-          "title": "How Being Nonbinary Affects Getting Life Insurance",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/5atOVe6xuGwaK9FNbxjPSpBhdkY=/5184x3456/Nonbinary.flag.AdobeStock_295053672-7eba992879c04836933451f414d528aa.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/5atOVe6xuGwaK9FNbxjPSpBhdkY=/5184x3456/Nonbinary.flag.AdobeStock_295053672-7eba992879c04836933451f414d528aa.jpeg"
         }
       ]
     },
@@ -26346,6 +26356,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "ready-or-not-generation-x-faces-bleak-retirement-horizon-130324103.html",
+          "author": null,
+          "description": "It's a grim retirement forecast for Generation X workers–those who are now between the ages of 41 and 56.\nMany in the so-called latchkey kid generation, who may have muddled through a childhood with less parent hand-holding than millennials and boomers, are now in need of some serious nurturing, according to a new report published by the National Institute on Retirement Security (NIRS).",
+          "link": "https://finance.yahoo.com/news/ready-or-not-generation-x-faces-bleak-retirement-horizon-130324103.html",
+          "publishedOn": "2023-07-29T13:03:24.000Z",
+          "wordCount": 2797,
+          "title": "Ready or not: Generation X faces bleak retirement horizon",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/QzQaC3eIkM4ugTuXd0T8tA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzc-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/033a9ce0-2d5f-11ee-bb7a-7ca359898809"
+        },
         {
           "id": "banks-are-still-losing-deposits-just-not-the-banks-you-might-expect-113352716.html",
           "author": null,
@@ -49204,26 +49224,6 @@
           "publishedOn": "2023-06-30T02:26:21.000Z",
           "wordCount": null,
           "title": "Dow Jones Futures: Inflation Report Due As Fed Rate Hike Odds Rise; Citi Sees 27% Apple Upside",
-          "imageUrl": null
-        },
-        {
-          "id": "microsoft-activision-hearing-set-to-wrap-up-as-ftc-tries-to-stop-75-billion-deal-a0540b8f?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The hearing in San Francisco could decide the fate of one of tech’s largest-ever acquisitions.",
-          "link": "https://www.wsj.com/articles/microsoft-activision-hearing-set-to-wrap-up-as-ftc-tries-to-stop-75-billion-deal-a0540b8f?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-06-30T01:45:00.000Z",
-          "wordCount": 9391,
-          "title": "Microsoft-Activision Hearing Wraps Up as FTC Tries to Stop $75 Billion Deal",
-          "imageUrl": "https://images.wsj.net/im-809883/social"
-        },
-        {
-          "id": "fed-only-thing-standing-way-011821051.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/fed-only-thing-standing-way-011821051.html",
-          "publishedOn": "2023-06-30T01:18:21.000Z",
-          "wordCount": null,
-          "title": "The Fed is the only thing standing in the way of a sustained bull market in stocks",
           "imageUrl": null
         }
       ]
