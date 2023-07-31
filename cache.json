@@ -1448,6 +1448,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6274578/",
+          "author": "onze economieredactie",
+          "description": "De inflatie komt deze maand uit op 4,6 procent. De prijzen stijgen gemiddeld minder hard dan in de maanden hiervoor, al is dat aan de kassa niet te merken.",
+          "link": "https://www.nu.nl/economie/6274578/inflatie-zwakt-deze-maand-af-maar-goedkopere-boodschappen-nog-niet-in-zicht.html",
+          "publishedOn": "2023-07-31T05:49:02.000Z",
+          "wordCount": 1269,
+          "title": "Inflatie zwakt deze maand af, maar goedkopere boodschappen nog niet in zicht",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/ctcx703ar3ec_sqr256.jpg/inflatie-zwakt-deze-maand-af-maar-goedkopere-boodschappen-nog-niet-in-zicht.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/ctcx703ar3ec_sqr256.jpg/inflatie-zwakt-deze-maand-af-maar-goedkopere-boodschappen-nog-niet-in-zicht.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6274299/",
           "author": "Tom van Gurp",
           "description": "Diverse seinen voor de economie stonden de afgelopen tijd op rood. Het aantal faillissementen stijgt, bedrijven durven nauwelijks nog te lenen en ze maken steeds minder. Moeten we ons zorgen maken?",
@@ -7979,6 +7994,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/o/overlay.asp",
+          "author": "James Chen",
+          "description": "Overlay refers to an asset management style that uses software to harmonize an investor's separately managed accounts, preventing inefficiencies and ensuring strategies are implemented and coordinated correctly.",
+          "link": "https://www.investopedia.com/terms/o/overlay.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-31T05:55:49.000Z",
+          "wordCount": 5585,
+          "title": "Overlay Definition in Portfolio Management, Pros & Cons",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/VjUIx3g5IkHvsKd4oWwAR8Wzg3w=/205x136/investing13-5bfc2b8f46e0fb0026016f4d.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/VjUIx3g5IkHvsKd4oWwAR8Wzg3w=/205x136/investing13-5bfc2b8f46e0fb0026016f4d.jpg"
+        },
         {
           "id": "https://www.investopedia.com/modular-vs-manufactured-home-insurance-5074202",
           "author": "Jean Folger",
@@ -25837,6 +25867,46 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "sofi-earnings-stock-price-1a5f7d29?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The stock has doubled this year, and the fintech's second-quarter earnings report may indicate whether that wild run was warranted.",
+          "link": "https://www.barrons.com/articles/sofi-earnings-stock-price-1a5f7d29?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-07-31T05:30:00.000Z",
+          "wordCount": 7798,
+          "title": "SoFi’s Earnings Are All About Student Loans",
+          "imageUrl": "https://images.barrons.com/im-824797/social"
+        },
+        {
+          "id": "goldman-upgrades-oil-demand-outlook-052354155.html",
+          "author": null,
+          "description": "Goldman analysts estimate global oil demand climbed to an all-time high of 102.8 million barrels per day (bpd) in July and see solid demand driving a larger-than-expected 1.8 million bpd deficit in the second half this year and a 0.6 million bpd deficit in 2024.  A reduced recession risk and a strong effort by the Organization of the Petroleum Exporting Countries (OPEC) to push up prices support Goldman's view on higher oil prices and an outlook for less volatility, the analysts wrote in a note.  Oil prices hovered near three-month highs on Monday, set to post their biggest monthly gains in over a year on expectations that Saudi Arabia would extend voluntary output cuts into September and tighten global supply.",
+          "link": "https://finance.yahoo.com/news/goldman-upgrades-oil-demand-outlook-052354155.html",
+          "publishedOn": "2023-07-31T05:23:54.000Z",
+          "wordCount": 2095,
+          "title": "Goldman upgrades oil demand outlook as market tempers growth pessimism",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/2c4f303531a743135bdf1c0ca75db09c"
+        },
+        {
+          "id": "stock-market-today-asia-shares-043913720.html",
+          "author": null,
+          "description": "Sentiment also has been boosted by revived hopes for more stimulus from Beijing for the sluggish Chinese economy.  Chinese factory activity contracted in July as export orders shrank, a survey showed, adding to pressure on the ruling Communist Party to reverse an economic slowdown.",
+          "link": "https://finance.yahoo.com/news/stock-market-today-asia-shares-043913720.html",
+          "publishedOn": "2023-07-31T04:39:13.000Z",
+          "wordCount": 2158,
+          "title": "Stock market today: Asia shares gain after Wall St rally as investors pin hopes on China stimulus",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/eHJ5Pj6F523zOrEwyihAWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/ed44a6065fafc676ddc3d39ca56c5c2b"
+        },
+        {
+          "id": "sec-asked-coinbase-stop-trading-041551053.html",
+          "author": null,
+          "description": "The U.S. Securities and Exchange Commission (SEC) had asked Coinbase to stop trading in all cryptocurrencies other than bitcoin prior to suing cryptocurrency platform in June, the Financial Times reported on Monday, citing Chief Executive Brian Armstrong.",
+          "link": "https://finance.yahoo.com/news/sec-asked-coinbase-stop-trading-041551053.html",
+          "publishedOn": "2023-07-31T04:15:51.000Z",
+          "wordCount": 1836,
+          "title": "Before suing Coinbase, SEC asked it to trade only in bitcoin -FT",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/e2e7f7255822f82eab84923f5a259e9a"
+        },
+        {
           "id": "walmart-buys-tiger-global-flipkart-021517559.html",
           "author": null,
           "description": "(Bloomberg) -- Walmart Inc. paid $1.4 billion to buy Tiger Global Management’s remaining stake in Flipkart, boosting its bet on the Indian retailer and helping the money manager provide distributions to investors at a time when accessing liquidity is tough.Most Read from BloombergLots of US Homeowners Want to Move. They Just Have Nowhere to GoBurning Ship’s Operator Says Almost 500 EVs Are on BoardBodegas Put on Notice as Visa Fights Back on Card SurchargesItaly Must Exit China Pact While Avoidi",
@@ -25875,6 +25945,26 @@
           "wordCount": 8992,
           "title": "Chinese Stocks Extend Rally as Optimism Builds Over Stimulus",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/hysVHAB_Y.sPfgCkZlBhfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/e963dc0706624272c76adf7ff60023de"
+        },
+        {
+          "id": "yen-eyes-first-monthly-gain-013142848.html",
+          "author": null,
+          "description": "The yen edged steadily higher on Monday following a volatile session at the end of last week after the Bank of Japan (BOJ) loosened its grip on interest rates, and was on track to reverse three consecutive months of loss.  The U.S. dollar was conversely headed for a monthly loss on the prospect that the Federal Reserve's aggressive rate-hike cycle - a key driver of the dollar's strength - could have concluded with last week's 25-basis-point increase.  The yen was last roughly 0.3% higher at 140.77 per dollar, nursing some of its heavy loss from Friday after the BOJ maintained ultra-low rates, though made its bond yield curve control (YCC) policy more flexible and loosened its defence of a long-term rate cap.",
+          "link": "https://finance.yahoo.com/news/yen-eyes-first-monthly-gain-013142848.html",
+          "publishedOn": "2023-07-31T01:31:42.000Z",
+          "wordCount": 2283,
+          "title": "Yen snaps three-month losing streak; dollar eyes monthly loss",
+          "imageUrl": "https://media.zenfs.com/en/reuters.com/4b492cbac5801844277c56e0c00925aa"
+        },
+        {
+          "id": "plummeting-production-show-australias-lithium-012322182.html",
+          "author": null,
+          "description": "(Bloomberg) -- Production has plummeted at Australia’s first lithium hydroxide refinery, operated by Tianqi Lithium Corp., extending a run of setbacks in the country’s attempt to move into battery metal refining.Most Read from BloombergLots of US Homeowners Want to Move. They Just Have Nowhere to GoBurning Ship’s Operator Says Almost 500 EVs Are on BoardBodegas Put on Notice as Visa Fights Back on Card SurchargesItaly Must Exit China Pact While Avoiding Crisis, Minister SaysVanguard’s Economists",
+          "link": "https://finance.yahoo.com/news/plummeting-production-show-australias-lithium-012322182.html",
+          "publishedOn": "2023-07-31T01:23:22.000Z",
+          "wordCount": 2213,
+          "title": "Plummeting Production Show Australia's Lithium Refining Challenge",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/nkz4wrEvvEYnCaNs4ikT9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_markets_842/14f63663821381a056cde8320cf2b4da"
         },
         {
           "id": "while-everyone-else-fights-inflation-chinas-deflation-fears-deepen-4045cabf?siteid=yhoof2&yptr=yahoo",
@@ -48565,46 +48655,6 @@
           "wordCount": null,
           "title": "Steve Jobs' laser-sharp focus made Apple a world-beater. Warren Buffett takes the same approach to investing.",
           "imageUrl": null
-        },
-        {
-          "id": "us-stocks-face-painful-rest-180500933.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/us-stocks-face-painful-rest-180500933.html",
-          "publishedOn": "2023-07-01T18:05:00.000Z",
-          "wordCount": null,
-          "title": "US stocks face a painful rest of 2023 with a recession set to take the shine off the AI-fueled rally, HSBC says",
-          "imageUrl": null
-        },
-        {
-          "id": "british-microchip-champion-launches-us-180000366.html",
-          "author": null,
-          "description": "A taxpayer-backed microchip champion has launched operations in the US after warning that meagre support from Britain could force it to move operations abroad.",
-          "link": "https://finance.yahoo.com/news/british-microchip-champion-launches-us-180000366.html",
-          "publishedOn": "2023-07-01T18:00:00.000Z",
-          "wordCount": 2156,
-          "title": "British microchip champion launches US operation in blow to Sunak",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_wkkA7NTrkL_wEvOYTJXUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/5d5bc692b67bf09d67406c01950de245"
-        },
-        {
-          "id": "teamsters-abf-freight-ratify-labor-173123547.html",
-          "author": null,
-          "description": "Less-than-truckload carrier ABF Freight announced a new five-year collective bargaining agreement has been ratified by its union employees. The post Teamsters at ABF Freight ratify new labor deal appeared first on FreightWaves.",
-          "link": "https://finance.yahoo.com/news/teamsters-abf-freight-ratify-labor-173123547.html",
-          "publishedOn": "2023-07-01T17:31:23.000Z",
-          "wordCount": 2028,
-          "title": "Teamsters at ABF Freight ratify new labor deal",
-          "imageUrl": "https://media.zenfs.com/en/freightwaves_373/05cea9047f451e2be0898590856df0c4"
-        },
-        {
-          "id": "stock-market-open-today-know-173111743.html",
-          "author": null,
-          "description": "United States stock markets will be closing early on Monday, July 3, 2023, in honor of the 4th of July holiday.",
-          "link": "https://finance.yahoo.com/news/stock-market-open-today-know-173111743.html",
-          "publishedOn": "2023-07-01T17:31:11.000Z",
-          "wordCount": 1708,
-          "title": "Is the stock market open Monday? What to know about July 3 hours, early closing",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/KAGunakYOxfITwsPLC2mkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/usa_today_money_325/f6f9d3a29d59beb37f08b5195541b6a3"
         }
       ]
     }
