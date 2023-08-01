@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "52cd0c353766f679ef97056291eca004",
+          "author": "Investopedia",
+          "description": "Ford Motor Company said the plant that produces its popular electric F-150 Lightning pickup is back in operation, and ready to meet rising demand.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8068d5e652a0503c8b9a2aaaf1772bc2150a937d8931b69a56254dd56cd823dd9314788ef430bde5e62ef1a58f3ee83cfb230c87794c1d471fb0f1a7d6644d84d6b3afdbc29dca421bd84693c032",
+          "publishedOn": "2023-08-01T21:10:27.541Z",
+          "wordCount": 409,
+          "title": "Ford Electric F-150 Lightning Plant Reopens as Price Cuts Boost Demand",
+          "imageUrl": null
+        },
+        {
           "id": "f6944b44dd2e7c3d5889cfe352b53adf",
           "author": "Investopedia",
           "description": "The National Highway Traffic Safety Administration (NHTSA) has initiated a probe into Tesla's 2023 editions of Models 3 and Y.",
@@ -1627,6 +1637,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6274853/",
+          "author": "onze nieuwsredactie",
+          "description": "Amazon heeft dinsdag zijn eerste Nederlandse distributiecentrum in Almelo geopend. De locatie moet tot 25.000 pakketten per dag kunnen verwerken, waardoor het webwinkelconcern meteen kans ziet meer producten in zijn assortiment op te nemen.",
+          "link": "https://www.nu.nl/economie/6274853/amazon-opent-eerste-nederlandse-distributiecentrum-in-almelo.html",
+          "publishedOn": "2023-08-01T21:07:20.000Z",
+          "wordCount": 1049,
+          "title": "Amazon opent eerste Nederlandse distributiecentrum in Almelo",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/ktwxjnyawyq5_sqr256.jpg/amazon-opent-eerste-nederlandse-distributiecentrum-in-almelo.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/ktwxjnyawyq5_sqr256.jpg/amazon-opent-eerste-nederlandse-distributiecentrum-in-almelo.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6274838/",
+          "author": "onze nieuwsredactie",
+          "description": "Tankstations in Italië moeten vanaf dinsdag verplicht de gemiddelde prijzen van benzine en diesel tonen. Italië wil zo voorkomen dat pomphouders sjoemelen met de prijzen.",
+          "link": "https://www.nu.nl/economie/6274838/italiaanse-tankstations-moeten-voortaan-gemiddelde-benzineprijs-tonen.html",
+          "publishedOn": "2023-08-01T20:24:18.000Z",
+          "wordCount": 750,
+          "title": "Italiaanse tankstations moeten voortaan gemiddelde benzineprijs tonen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/rx2xi9tab1kr_sqr256.jpg/italiaanse-tankstations-moeten-voortaan-gemiddelde-benzineprijs-tonen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/rx2xi9tab1kr_sqr256.jpg/italiaanse-tankstations-moeten-voortaan-gemiddelde-benzineprijs-tonen.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6274829/",
           "author": "onze economieredactie",
@@ -8361,21 +8401,6 @@
             "url": "https://media.nu.nl/m/nslxh9kaqq4l_sqr256.jpg/europa-overweegt-uitzondering-voor-russische-bank-omwille-van-graandeal.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/nslxh9kaqq4l_sqr256.jpg/europa-overweegt-uitzondering-voor-russische-bank-omwille-van-graandeal.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6270624/",
-          "author": "José Boon",
-          "description": "Heineken neemt afscheid van de Nederlandse Pepsi-bottelaar Vrumona. De bierbrouwer wil zich meer richten op bieren in plaats van de zoete Vrumona-drankjes. Een Deens frisdrankbedrijf koopt het onderdeel over.",
-          "link": "https://www.nu.nl/economie/6270624/nederlands-frisdrankbedrijf-in-deense-handen-na-verkoop-door-heineken.html",
-          "publishedOn": "2023-07-03T09:06:53.000Z",
-          "wordCount": 890,
-          "title": "Nederlands frisdrankbedrijf in Deense handen na verkoop door Heineken",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/62bxbemasfod_sqr256.jpg/nederlands-frisdrankbedrijf-in-deense-handen-na-verkoop-door-heineken.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/62bxbemasfod_sqr256.jpg/nederlands-frisdrankbedrijf-in-deense-handen-na-verkoop-door-heineken.jpg"
         }
       ]
     },
@@ -8384,6 +8409,141 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/dow-jones-today-cat-earnings-lift-index-7568500",
+          "author": "Terry Lane",
+          "description": "The price-weighted index rode gains from Caterpillar to move higher by 0.2%, or roughly 70 points, despite more than two-thirds of the index’s stocks falling.",
+          "link": "https://www.investopedia.com/dow-jones-today-cat-earnings-lift-index-7568500?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-01T20:51:59.000Z",
+          "wordCount": 5102,
+          "title": "Dow Jones Today: Caterpillar Earnings Lift Index",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/e3a6XZ3z80R2VRZzkSjXibFtn7I=/5473x3649/GettyImages-971514390-5666850133f6416bb03ca72171c63183.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/e3a6XZ3z80R2VRZzkSjXibFtn7I=/5473x3649/GettyImages-971514390-5666850133f6416bb03ca72171c63183.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ford-electric-f-150-lightning-plant-reopens-as-price-cuts-boost-demand-7568438",
+          "author": "Staff Author",
+          "description": "Ford Motor Company said the plant that produces its popular electric F-150 Lightning pickup is back in operation, and ready to meet rising demand.",
+          "link": "https://www.investopedia.com/ford-electric-f-150-lightning-plant-reopens-as-price-cuts-boost-demand-7568438?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-01T20:34:40.000Z",
+          "wordCount": 4942,
+          "title": "Ford Electric F-150 Lightning Plant Reopens as Price Cuts Boost Demand",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/VVHA3f-FHk12GbFmjJzer46alYQ=/4000x2667/GettyImages-1243051269-157229dcd4a94897b3a16c9616d46a1d.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/VVHA3f-FHk12GbFmjJzer46alYQ=/4000x2667/GettyImages-1243051269-157229dcd4a94897b3a16c9616d46a1d.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/apple-bank-savings-account-interest-rates-7551428",
+          "author": "Staff Author",
+          "description": "The savings account at Apple Bank offers competitive rates, but are they competitive enough? We reviewed Apple Bank so you can decide if the bank is right for you.",
+          "link": "https://www.investopedia.com/apple-bank-savings-account-interest-rates-7551428?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-01T20:28:47.000Z",
+          "wordCount": 6215,
+          "title": "Apple Bank Savings Account Interest Rates: August 2023",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ZQHAmpyNAoSyX8_TA9iyxCCD97c=/4000x2667/Primary-Image-apple-bank-savings-account-interest-rates-june-2023-7551428-dc1a89d7ac85489fa319c58cedf10c23.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ZQHAmpyNAoSyX8_TA9iyxCCD97c=/4000x2667/Primary-Image-apple-bank-savings-account-interest-rates-june-2023-7551428-dc1a89d7ac85489fa319c58cedf10c23.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/what-recession-model-shows-gdp-growth-accelerating-in-3rd-quarter-7568465",
+          "author": "Staff Author",
+          "description": "The gross domestic product, a broad measure of the country’s entire economic output, is on track to surge ahead to a 3.9% annual growth rate in the third quarter, for now.",
+          "link": "https://www.investopedia.com/what-recession-model-shows-gdp-growth-accelerating-in-3rd-quarter-7568465?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-01T20:28:10.000Z",
+          "wordCount": 5178,
+          "title": "What Recession? Model Shows GDP Growth Accelerating To 3.9% In 3rd Quarter",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/iXgFpBhf4-0nz26yGehZ4NoVQH0=/7099x4293/GettyImages-1177464658-8251d923b82a4d3ab512040e3da0f4ef.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/iXgFpBhf4-0nz26yGehZ4NoVQH0=/7099x4293/GettyImages-1177464658-8251d923b82a4d3ab512040e3da0f4ef.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/norwegian-cruise-line-guidance-misses-forecasts-as-costs-weigh-on-earnings-7568404",
+          "author": "Staff Author",
+          "description": "Norwegian Cruise Line shares plummeted as the cruise line operator’s outlook for the key third quarter missed estimates on higher costs.",
+          "link": "https://www.investopedia.com/norwegian-cruise-line-guidance-misses-forecasts-as-costs-weigh-on-earnings-7568404?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-01T20:21:40.000Z",
+          "wordCount": 4932,
+          "title": "Norwegian Cruise Line Guidance Misses Forecasts as Costs Weigh on Earnings",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/RPLLzgbK1m486VefSNk1Ty1as28=/4200x2504/GettyImages-1244630197-00e9ea5c34074dd99d0156d83537289b.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/RPLLzgbK1m486VefSNk1Ty1as28=/4200x2504/GettyImages-1244630197-00e9ea5c34074dd99d0156d83537289b.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/genz-wants-to-invest-in-line-with-their-values-but-the-economy-is-making-that-harder-7568328",
+          "author": "Beth Treffeisen",
+          "description": "High inflation, high interest rates, and high costs of living has impacted how younger generations invest.",
+          "link": "https://www.investopedia.com/genz-wants-to-invest-in-line-with-their-values-but-the-economy-is-making-that-harder-7568328?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-01T20:17:55.000Z",
+          "wordCount": 5276,
+          "title": "GenZ Wants To Invest In Line With Their Values, But The Economy Is Making That Harder",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Gkk7V61FcinLtdD99ENBOZfCP7I=/5398x3600/GettyImages-1327781775-96292f36784b4c5fa8721294d8909fb7.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Gkk7V61FcinLtdD99ENBOZfCP7I=/5398x3600/GettyImages-1327781775-96292f36784b4c5fa8721294d8909fb7.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/08/guns-butter.asp",
+          "author": "Alan Farley",
+          "description": "\"Guns and Butter\" describes the opposing relationship between defense and social spending for a nation's government.",
+          "link": "https://www.investopedia.com/ask/answers/08/guns-butter.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-01T20:07:12.000Z",
+          "wordCount": 6331,
+          "title": "What Does \"Guns and Butter\" Mean?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/N3IkOrWDQSq3_AGZeY7OstaiG2g=/285x260/options-lrg-4-5bfc2b2046e0fb0051199e91.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/N3IkOrWDQSq3_AGZeY7OstaiG2g=/285x260/options-lrg-4-5bfc2b2046e0fb0051199e91.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/construction-spending-jumped-in-june-7568265",
+          "author": "Meg Cunningham",
+          "description": "Construction spending—a key economic indicator of infrastructure activity—jumped 3.5% higher in June compared to a year ago, and was up 0.5% month-over-month.",
+          "link": "https://www.investopedia.com/construction-spending-jumped-in-june-7568265?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-01T20:02:32.000Z",
+          "wordCount": 4955,
+          "title": "Construction Spending Jumped in June",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/a1p0GsKpcjF8E8AdVzkIL0_9mjg=/7008x4672/GettyImages-1540957737-7158350e59734475bef3691602a0629a.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/a1p0GsKpcjF8E8AdVzkIL0_9mjg=/7008x4672/GettyImages-1540957737-7158350e59734475bef3691602a0629a.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/uber-sets-an-operating-income-mark-but-shares-fall-on-revenue-miss-7568359",
+          "author": "Staff Author",
+          "description": "Uber Technologies posted its first-ever quarterly operating profit, but shares slumped as revenue missed estimates.",
+          "link": "https://www.investopedia.com/uber-sets-an-operating-income-mark-but-shares-fall-on-revenue-miss-7568359?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-01T19:55:41.000Z",
+          "wordCount": 5317,
+          "title": "Uber Posts First Quarterly Operating Profit, But Shares Fall After Revenue Miss",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/h_OGwQcsau47vqE3DuMdxo7UZFE=/4301x3328/GettyImages-1405446216-91316a7428e749f5b9473d14c2e6fe17.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/h_OGwQcsau47vqE3DuMdxo7UZFE=/4301x3328/GettyImages-1405446216-91316a7428e749f5b9473d14c2e6fe17.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/m/morbidity-rate.asp",
           "author": "Will Kenton",
@@ -9583,6 +9743,21 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/5iwv9UrcBlFt95zH8Iw5KJxFunw=/1080x722/FederalFundsRate-8064baabc82d47bf81b735e57a5c4557.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/r/realgdp.asp",
+          "author": "Akhilesh Ganti",
+          "description": "Real gross domestic product is an inflation-adjusted measure of the value of all goods and services produced in an economy.",
+          "link": "https://www.investopedia.com/terms/r/realgdp.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-07-31T13:35:07.000Z",
+          "wordCount": 8836,
+          "title": "What Real Gross Domestic Product (Real GDP) Is, How to Calculate It, vs. Nominal",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/z0C8201025SZ5SqfjENrSaOI1BQ=/1500x1000/RealGDP_Final_4190456-2a2ba1af9b9b49bfb59dcce76c6c5de0.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/z0C8201025SZ5SqfjENrSaOI1BQ=/1500x1000/RealGDP_Final_4190456-2a2ba1af9b9b49bfb59dcce76c6c5de0.jpg"
         },
         {
           "id": "https://www.investopedia.com/5-things-to-know-before-markets-open-july-31-2023-7567494",
@@ -26677,6 +26852,66 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/elf-beauty-stock-elf-beauty-earnings-q1/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-08-01T20:47:25.000Z",
+          "wordCount": null,
+          "title": "Elf Beauty Stock Soars On 182% Earnings Leap, Guidance Hike",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/amd-stock-rises-on-second-quarter-beat/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-08-01T20:30:53.000Z",
+          "wordCount": null,
+          "title": "Chipmaker AMD Cites AI Growth As It Beats Second-Quarter Targets",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/exas-stock-cologuard-sales-surge-as-exact-sciences-run-continues/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-08-01T20:27:07.000Z",
+          "wordCount": null,
+          "title": "Exact Sciences, A Cathie Wood Darling, Just Reported A Sixth Big Sales Quarter",
+          "imageUrl": null
+        },
+        {
+          "id": "amd-forecasts-third-quarter-revenue-201734664.html",
+          "author": null,
+          "description": "Advanced Micro Devices forecast third-quarter revenue below market expectations on Tuesday, hit by a slowdown in cloud computing spending. The company forecast current-quarter revenue of about $5.7 billion, plus or minus $300 million. Analysts polled by Refinitiv expect revenue of $5.82 billion.",
+          "link": "https://finance.yahoo.com/news/amd-forecasts-third-quarter-revenue-201734664.html",
+          "publishedOn": "2023-08-01T20:17:34.000Z",
+          "wordCount": 9015,
+          "title": "AMD forecasts strong fourth quarter, AI chip launch",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/31b3b1c9d27ddfbc43846a2cf7d1c8ac"
+        },
+        {
+          "id": "electronic-arts-misses-quarterly-bookings-201053527.html",
+          "author": null,
+          "description": "Videogame publisher Electronic Arts missed booking estimates for its first quarter on Tuesday, hurt by competition from other franchise-based games and muted spending by gamers. The company posted net bookings of $1.58 billion in the quarter ended June 30, compared with Refinitiv estimates of $1.59 billion.",
+          "link": "https://finance.yahoo.com/news/electronic-arts-misses-quarterly-bookings-201053527.html",
+          "publishedOn": "2023-08-01T20:10:53.000Z",
+          "wordCount": 9010,
+          "title": "Electronic Arts forecasts weak bookings as competition, lower spending weigh",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/2746540b93ade4499a170217b6a7a5be"
+        },
+        {
+          "id": "starbucks-q3-earnings-161227097.html",
+          "author": null,
+          "description": "Starbucks posted fiscal third-quarter results on Tuesday after market close.",
+          "link": "https://finance.yahoo.com/news/starbucks-q3-earnings-161227097.html",
+          "publishedOn": "2023-08-01T20:09:00.000Z",
+          "wordCount": 9220,
+          "title": "Starbucks misses Q3 comparable same-store sales estimates, China sees 46% sales growth",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/hLEb8xa4ACF6vV63iwuqIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/71c98590-2d50-11ee-bbef-934f675c3cca"
+        },
+        {
           "id": "apple-heads-largest-q3-revenue-195336996.html",
           "author": null,
           "description": "Apple is likely to report a dip in iPhone sales in the April-June quarter as shoppers held out for a new model in a slow economy, making it important for the company to detail how it is using artificial intelligence to augment growth, analysts said.  IPhone sales likely fell more than 2% in the period, according to 24 analysts polled by Visible Alpha, compared with a near 3% increase a year earlier and a 1.5% rise in the quarter ended March.  The quarterly report could mark a break from an upbeat earnings season for the likes of Meta Platforms, Alphabet and Microsoft that have shown resilience in their cloud businesses and an uptick in digital ad sales.",
@@ -26695,6 +26930,16 @@
           "wordCount": 7931,
           "title": "Apple Earnings Are Soon, and Analysts See the Stock Going Higher and Higher",
           "imageUrl": "https://images.barrons.com/im-827425/social"
+        },
+        {
+          "id": "pfizer-reports-mixed-quarterly-results-on-uncertain-covid-outlook-191025365.html",
+          "author": null,
+          "description": "Pfizer reports mixed second quarter earnings as uncertainty around COVID remains a headwind.",
+          "link": "https://finance.yahoo.com/news/pfizer-reports-mixed-quarterly-results-on-uncertain-covid-outlook-191025365.html",
+          "publishedOn": "2023-08-01T19:10:25.000Z",
+          "wordCount": 9816,
+          "title": "Pfizer reports mixed quarterly results on uncertain COVID outlook",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/UzCKoKWQNfzbbxlhysfxwg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Nzg-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/517106d0-309b-11ee-9c7e-6dbcc3144e13"
         },
         {
           "id": "tupperware-stock-soars-meme-trade-49f69f15?siteid=yhoof2&yptr=yahoo",
@@ -50615,56 +50860,6 @@
           "wordCount": 2560,
           "title": "Sweden’s Debt-Laden Landlords Veer Closer to Forced Sales",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/eaGbTX7MGhrbYMPQTDeumg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjY-/https://media.zenfs.com/en/bloomberg_markets_842/a4e307893304861f1e890fcf0908c889"
-        },
-        {
-          "id": "auddev&yptr=yahoo",
-          "author": null,
-          "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-          "link": "https://www.ft.com/cms/s/7172d136-dd14-404a-8a5c-92125af2b24e,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev&yptr=yahoo",
-          "publishedOn": "2023-07-03T09:04:34.000Z",
-          "wordCount": 1584,
-          "title": "Beware a Chinese ‘dollar avalanche’",
-          "imageUrl": null
-        },
-        {
-          "id": "tesla-stock-price-analysts-deliveries-32366823?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Tesla announced second quarter deliveries of just 466,000 units Sunday, a record and about 4% higher than the roughly 445,000 to 447,000 Wall Street was looking for. Now analysts are weighing in.",
-          "link": "https://www.barrons.com/articles/tesla-stock-price-analysts-deliveries-32366823?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-07-03T08:57:00.000Z",
-          "wordCount": 7174,
-          "title": "Tesla Crushed Delivery Expectations. Here’s What Wall Street Is Saying.",
-          "imageUrl": "https://images.barrons.com/im-754197/social"
-        },
-        {
-          "id": "stock-market-movers-707bb709?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Stock futures were mixed Monday ahead of the shortened holiday week but there were still plenty of movers in early trading.",
-          "link": "https://www.barrons.com/articles/stock-market-movers-707bb709?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-07-03T08:53:00.000Z",
-          "wordCount": 7267,
-          "title": "These Stocks Are Moving the Most Today: Tesla, Agilent, Palantir, Sabre, and More.",
-          "imageUrl": "https://images.barrons.com/im-803052/social"
-        },
-        {
-          "id": "panasonic-needs-four-more-ev-083452500.html",
-          "author": null,
-          "description": "The battery arm of Japan's Panasonic will need to build around four more factories to meet a plan to sharply boost annual capacity of batteries for electric vehicles by 2031, its head of technology told Reuters.  The comments from Panasonic Energy Chief Technology Officer Shoichiro Watanabe mark the first time the Telsa supplier has given a clear indication of the number of additional factories it will need.  It could also fuel expectations of more investment by Japanese companies into the United States, after Washington and Tokyo struck a deal in March that is key to giving Japanese manufacturers wider access to U.S. electric-vehicle (EV) tax credits.",
-          "link": "https://finance.yahoo.com/news/panasonic-needs-four-more-ev-083452500.html",
-          "publishedOn": "2023-07-03T08:34:52.000Z",
-          "wordCount": 2109,
-          "title": "Panasonic needs four more EV battery plants, executive says",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/227af7e6fd411c6efa6d27448e9e6c79"
-        },
-        {
-          "id": "tesla-byd-post-record-sales-032534083.html",
-          "author": null,
-          "description": "(Bloomberg) -- Tesla Inc. and BYD Co. set sales records in the second quarter, widening their lead as the world’s best-selling electric-car makers.Most Read from BloombergIt’s Getting a Lot Harder to Chase the Stock Rally From Here OnFrench Riots Begin to Abate Even as Economic Costs MountTesla, BYD Post Record Sales on Demand for Electric VehiclesSingapore’s Star Banker Creates a Succession Dilemma for DBSElon Musk-led Tesla delivered 466,140 cars worldwide, outpacing Wall Street estimates. BYD",
-          "link": "https://finance.yahoo.com/news/tesla-byd-post-record-sales-032534083.html",
-          "publishedOn": "2023-07-03T08:21:45.000Z",
-          "wordCount": 2473,
-          "title": "Tesla and BYD Post Record Sales on Surge in Electric-Car Demand",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/LHSMJkPH7nmSVve8mL0Xaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/2ce81abe271933b32ae508c71920376f"
         }
       ]
     }
