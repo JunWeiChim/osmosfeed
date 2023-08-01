@@ -1558,6 +1558,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6274728/",
+          "author": "onze economieredactie",
+          "description": "Maaltijdbezorger Thuisbezorgd brengt naast pizza's en burgers nu ook shampoo, zeep en andere verzorgingsmiddelen rond. Daarvoor gaat het bedrijf een samenwerking aan met Lush.",
+          "link": "https://www.nu.nl/economie/6274728/thuisbezorgd-koeriers-vervoeren-naast-een-snelle-hap-nu-ook-bodylotion.html",
+          "publishedOn": "2023-08-01T06:49:41.000Z",
+          "wordCount": 840,
+          "title": "Thuisbezorgd-koeriers vervoeren naast een snelle hap nu ook bodylotion",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/qztxlb5auf0n_sqr256.jpg/thuisbezorgd-koeriers-vervoeren-naast-een-snelle-hap-nu-ook-bodylotion.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/qztxlb5auf0n_sqr256.jpg/thuisbezorgd-koeriers-vervoeren-naast-een-snelle-hap-nu-ook-bodylotion.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6274664/",
           "author": "Ertan Basekin",
           "description": "Werknemers hebben nauwelijks iets te vrezen als zij openlijk aangeven dat ze op zoek zijn naar een andere baan. Veel bedrijven hebben namelijk grote moeite om mensen aan te trekken en te behouden vanwege het personeelstekort. En dat zorgt voor andere verhoudingen op de arbeidsmarkt.",
@@ -26343,21 +26358,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/GCK27TUiYnS2ZgawUiuCMTgVIaU=/4000x2700/durables.asp-FINAL-b14db899fdca4e6e9b08aa083194e5f7.png"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/active-trading/121715/bulge-bracket-vs-mid-market-vs-boutique-investment-banks.asp",
-          "author": "J.B. Maverick",
-          "description": "Learn the primary differences between the various types of investment banks: bulge bracket, middle-market, and boutique, including elite and regional boutiques.",
-          "link": "https://www.investopedia.com/articles/active-trading/121715/bulge-bracket-vs-mid-market-vs-boutique-investment-banks.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-07-02T18:58:50.000Z",
-          "wordCount": 6991,
-          "title": "Types of Investment Banks",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/2on1f1a0FHmADIX6Lsu-EchZdog=/2121x1414/GettyImages-667735326-72a237424186492fb99245bd5cf41a85.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/2on1f1a0FHmADIX6Lsu-EchZdog=/2121x1414/GettyImages-667735326-72a237424186492fb99245bd5cf41a85.jpg"
         }
       ]
     },
@@ -26366,6 +26366,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "amd-earnings-stock-price-bdc77862?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The Wall Street consensus estimate is that AMD will report revenue of $5.3 billion with adjusted earnings per share of 57 cents for the June quarter.",
+          "link": "https://www.barrons.com/articles/amd-earnings-stock-price-bdc77862?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-08-01T05:30:00.000Z",
+          "wordCount": 7926,
+          "title": "AMD Chips Face Challenges. Why the Stock Is Still a Buy Ahead of Earnings.",
+          "imageUrl": "https://images.barrons.com/im-826572/social"
+        },
         {
           "id": "hsbc-launches-2-billion-buyback-041452716.html",
           "author": null,
