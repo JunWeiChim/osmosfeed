@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "3661c8105ecfad47ad9d842331936cc9",
+          "author": "Investopedia",
+          "description": "Toyota, the world's top-selling automaker, nearly doubled its operating profit from a year earlier as better pricing, productivity gains, and supply-chain improvements boosted sales.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8366d5ec16ab5b2ac58c3da2e6772289094bcb35c82fb497496650d4729a27d0df1469c2f439abb8e72ff7ea8228a161e03e1ccf3b5f0d410de9faa6de3a49dbddb0abce81ced24317d94696",
+          "publishedOn": "2023-08-05T15:10:35.055Z",
+          "wordCount": 409,
+          "title": "Earnings Beat of the Week: Toyota Nearly Doubled Its Operating Profit",
+          "imageUrl": null
+        },
+        {
           "id": "116865a8ada25c3f99b76cbc578d93ef",
           "author": "Investopedia",
           "description": "Toyota, GAC-Toyota, and Pony.ai will invest $140 million to manufacture a fleet of driverless taxis in China.",
@@ -1669,16 +1679,6 @@
           "wordCount": 411,
           "title": "5 Things to Know Before Markets Open",
           "imageUrl": null
-        },
-        {
-          "id": "8e61a1e7e1c2c716fd964772b6e6659c",
-          "author": "rss.app",
-          "description": "",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b66d5e91ab14f74868b2fb0bf6e79dd13089364c6",
-          "publishedOn": "2023-07-07T02:55:05.659Z",
-          "wordCount": 411,
-          "title": "Stocks & Bond News, Trading News, ETF News",
-          "imageUrl": null
         }
       ]
     },
@@ -1687,6 +1687,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6275377/",
+          "author": "onze nieuwsredactie",
+          "description": "De klokkenluider die de Panama Papers in 2016 lekte aan de Süddeutsche Zeitung eist 14,5 miljoen euro van de Duitse politie. De Duitse politie zou namelijk een beloning van miljoenen euro's hebben bemiddeld voor de klokkenluider.",
+          "link": "https://www.nu.nl/economie/6275377/klokkenluider-panama-papers-wil-miljoenen-zien-voor-lekken-documenten.html",
+          "publishedOn": "2023-08-05T14:44:07.000Z",
+          "wordCount": 1037,
+          "title": "Klokkenluider Panama Papers wil miljoenen zien voor lekken documenten",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/nd0x6rga19fc_sqr256.jpg/klokkenluider-panama-papers-wil-miljoenen-zien-voor-lekken-documenten.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/nd0x6rga19fc_sqr256.jpg/klokkenluider-panama-papers-wil-miljoenen-zien-voor-lekken-documenten.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6275367/",
           "author": "onze nieuwsredactie",
@@ -8189,6 +8204,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/personal-finance/080616/6-countries-virtually-free-college-tuition.asp",
+          "author": "Lisa Goetz",
+          "description": "Some countries in Europe, such as Norway, Finland, and Germany, provide free or low-cost university education for all students.",
+          "link": "https://www.investopedia.com/articles/personal-finance/080616/6-countries-virtually-free-college-tuition.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-05T13:59:07.000Z",
+          "wordCount": 7345,
+          "title": "6 European Countries With Free College Tuition",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/sIN6owrHnWkmOG8CtNoYZed32kU=/2122x1415/Campus-Danita-Delimont-Gallo-Images-Getty-Images-148258683-58958dac5f9b5874eecd7318.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/sIN6owrHnWkmOG8CtNoYZed32kU=/2122x1415/Campus-Danita-Delimont-Gallo-Images-Getty-Images-148258683-58958dac5f9b5874eecd7318.jpg"
+        },
         {
           "id": "https://www.investopedia.com/kylie-jenner-net-worth-7569856",
           "author": "Staff Author",
@@ -27172,6 +27202,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "heres-much-keep-stocks-bonds-205122372.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/heres-much-keep-stocks-bonds-205122372.html",
+          "publishedOn": "2023-08-05T13:25:55.000Z",
+          "wordCount": null,
+          "title": "I'm Retired. How Much Should I Keep in Stocks, Bonds and Cash?",
+          "imageUrl": null
+        },
+        {
           "id": "the-stock-markets-next-challenge-august-doldrums-130811503.html",
           "author": null,
           "description": "Seasonal trends point to a weak August for stocks.",
@@ -27590,6 +27630,16 @@
           "wordCount": 9580,
           "title": "Russia says JPMorgan stops processing its grain payments",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/53583a0bc07ee7754c44459bb51131e9"
+        },
+        {
+          "id": "bond-king-bill-gross-says-170253891.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/bond-king-bill-gross-says-170253891.html",
+          "publishedOn": "2023-08-04T17:02:53.000Z",
+          "wordCount": null,
+          "title": "'Bond King' Bill Gross says he's 'out' of regional bank stocks – and is bearish on 10-year US Treasurys",
+          "imageUrl": null
         },
         {
           "id": "icahn-enterprises-halves-quarterly-dividend-165313988.html",
