@@ -1628,6 +1628,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6275522/",
+          "author": "onze economieredactie",
+          "description": "Nationale-Nederlanden heeft tienduizenden klanten verkeerd en te laat geïnformeerd over hun pensioen. Daarom heeft toezichthouder AFM de verzekeringsmaatschappij een boete opgelegd van 425.000 euro.",
+          "link": "https://www.nu.nl/economie/6275522/nationale-nederlanden-krijgt-boete-voor-foute-informatie-over-pensioenen.html",
+          "publishedOn": "2023-08-07T07:50:30.000Z",
+          "wordCount": 910,
+          "title": "Nationale-Nederlanden krijgt boete voor foute informatie over pensioenen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/sbpxf5nadqi1_sqr256.jpg/nationale-nederlanden-krijgt-boete-voor-foute-informatie-over-pensioenen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/sbpxf5nadqi1_sqr256.jpg/nationale-nederlanden-krijgt-boete-voor-foute-informatie-over-pensioenen.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6275508/",
           "author": "onze economieredactie",
           "description": "PostNL heeft de afgelopen maanden meer pakketten verwerkt dan verwacht. Daarom is het postbedrijf positiever over de winst voor dit jaar.",
@@ -7799,6 +7814,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/d/defaultrisk.asp",
+          "author": "Julia Kagan",
+          "description": "Default risk is the risk lenders take that companies or individuals will be unable to make the required payments on their debt obligations. Learn how its measured.",
+          "link": "https://www.investopedia.com/terms/d/defaultrisk.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-07T07:20:08.000Z",
+          "wordCount": 6905,
+          "title": "Default Risk: Definition, Types, and Ways to Measure",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/11_ynVqqYCACHKuElOHjS_dS4Tg=/5256x3508/defaultrisk-a57343abec5d4ea7a05d2ee973278339.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/11_ynVqqYCACHKuElOHjS_dS4Tg=/5256x3508/defaultrisk-a57343abec5d4ea7a05d2ee973278339.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/s/sovereignbond.asp",
+          "author": "James Chen",
+          "description": "A sovereign bond is a debt security issued by a national government to borrow funds.",
+          "link": "https://www.investopedia.com/terms/s/sovereignbond.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-07T07:09:07.000Z",
+          "wordCount": 6182,
+          "title": "Understanding and Investing in Sovereign Bonds",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/1wY1pYb7D7DWLAk2sleDVgyizsk=/2121x1414/GettyImages-1277680562-bb84e47afff54fc1a1361435596d08cb.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/1wY1pYb7D7DWLAk2sleDVgyizsk=/2121x1414/GettyImages-1277680562-bb84e47afff54fc1a1361435596d08cb.jpg"
+        },
         {
           "id": "https://www.investopedia.com/ask/answers/what-does-investment-grade-mean/",
           "author": "The Investopedia Team",
@@ -27217,6 +27262,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "record-china-local-state-borrowers-025601708.html",
+          "author": null,
+          "description": "(Bloomberg) -- China’s local government financing vehicles are showing more signs of stress, with a record number of them missing payments for a popular type of short-term debt last month. Most Read from BloombergTexas Power Prices to Surge 800% on Sunday Amid Searing HeatNetanyahu Seeks to Change How Judges Are Named, Then Stop RevampDeSantis Camp Hit by Gloom as Aides Worry Race Is Slipping AwayUkraine Black Sea Drone Attacks Signal Rapidly Expanding WarUS Lab Behind Fusion Breakthrough Reache",
+          "link": "https://finance.yahoo.com/news/record-china-local-state-borrowers-025601708.html",
+          "publishedOn": "2023-08-07T07:09:02.000Z",
+          "wordCount": 8965,
+          "title": "Record Number of China LGFVs Overdue on Short Debt",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/9JlnqxjMfF1HyPyhGb.HZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/e4b15bea3b759236fb26d4c00399eebd"
+        },
+        {
+          "id": "aramco-q2-profit-down-38-065234172.html",
+          "author": null,
+          "description": "Saudi Arabian state oil giant Aramco on Monday reported a near 38% drop in second-quarter net profit reflecting lower oil prices and thinner margins in refining and chemicals. Aramco's net profit fell to 112.81 billion riyals ($30.07 billion) for the quarter to June 30 from 181.64 billion a year earlier, the company said in a bourse filing, but topped the $29.8 billion expected by 15 analysts in an Aramco-provided poll. ($1 = 3.7513 riyals)",
+          "link": "https://finance.yahoo.com/news/aramco-q2-profit-down-38-065234172.html",
+          "publishedOn": "2023-08-07T06:52:34.000Z",
+          "wordCount": 8764,
+          "title": "Saudi oil giant Aramco posts nearly 40% drop in Q2 profit amid lower crude prices",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/5580bb7e6c2f570db656ae30d4037dfb"
+        },
+        {
           "id": "chinas-exports-likely-contracted-further-054427902.html",
           "author": null,
           "description": "China's state planner hinted of stimulus over three press conferences convened last week, but investors were underwhelmed by proposals to expand consumption in the automobile, real estate and services sectors as well as extend loan support tools for small and medium-sized enterprises until the end of 2024.  As many of China's major markets grapple with higher borrowing costs amid a battle to bring down soaring inflation, authorities in Beijing are walking a tight rope in trying to boost domestic consumption without easing monetary policy too much lest it triggers large capital outflows.  But South Korean exports to China, a leading indicator for imports to the Asian giant dropped 25.1% in July from a year earlier, the sharpest in three months.",
@@ -27245,6 +27310,16 @@
           "wordCount": 10557,
           "title": "How Britain lost its quirky tech champion to the US and ‘growth at all costs’",
           "imageUrl": "https://media.zenfs.com/en/the_telegraph_258/41be5538fb4df1121d4d92d85e20cc68"
+        },
+        {
+          "id": "hedge-funds-boosted-record-treasury-043447869.html",
+          "author": null,
+          "description": "(Bloomberg) -- Hedge funds ramped up their bearish Treasuries bets to a record last week just as yields surged toward multi-month highs, while more traditional investors were burnt having boosted wagers in the opposite direction with similar conviction.Most Read from BloombergTexas Power Prices to Surge 800% on Sunday Amid Searing HeatNetanyahu Seeks to Change How Judges Are Named, Then Stop RevampMusk Says He May Need Surgery, Will Get MRI on Back and NeckUkraine Black Sea Drone Attacks Signal",
+          "link": "https://finance.yahoo.com/news/hedge-funds-boosted-record-treasury-043447869.html",
+          "publishedOn": "2023-08-07T04:34:47.000Z",
+          "wordCount": 9224,
+          "title": "Hedge Funds Boosted Record Treasury Shorts as Markets Convulsed",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/e6af830c0d5aa8f5ad7c0598e5273bdc"
         },
         {
           "id": "trucking-firm-yellow-goes-bankrupt-030016771.html",
@@ -51125,46 +51200,6 @@
           "wordCount": 2471,
           "title": "China's LNG Imports Soar Despite Global Price Dip",
           "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
-        },
-        {
-          "id": "blue-chip-debt-problems-just-200001004.html",
-          "author": null,
-          "description": "(Bloomberg) -- The corporate bond market seems surprisingly blase about the risk of an economic downturn now. Most Read from BloombergAnt to Buy Back Shares at 70% Lower Valuation Than at IPOCEO Who Grew Up in Poverty Builds Rare $1.4 Billion Fish StartupYellen Had Candid Five-Hour Meeting With China’s He, US SaysStock Market Short Sellers That Helped Fuel This Year’s Rally Are Finally Giving UpMacron Is Trying to Get Back on the Right Side of History — and NATOUS job growth is slowing and consu",
-          "link": "https://finance.yahoo.com/news/blue-chip-debt-problems-just-200001004.html",
-          "publishedOn": "2023-07-08T20:00:01.000Z",
-          "wordCount": 2677,
-          "title": "Blue-Chip Debt Problems Are Just Getting Started: Credit Weekly",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/c587f7f43b499d15e744450837f3e37f"
-        },
-        {
-          "id": "inflation-cooling-though-still-too-200000716.html",
-          "author": null,
-          "description": "(Bloomberg) -- Inflation in the US likely continued to soften in June but a key measure of underlying price pressures is still running at an uncomfortable pace that keeps the Federal Reserve tilted toward resuming interest-rate hikes this month.Most Read from BloombergWall Street Soothsayers Are Bewildered About What’s NextYellen Had Candid Five-Hour Meeting With China’s He, US SaysCEO Who Grew Up in Poverty Builds Rare $1.4 Billion Fish StartupAnt to Buy Back Shares at 70% Lower Valuation Than",
-          "link": "https://finance.yahoo.com/news/inflation-cooling-though-still-too-200000716.html",
-          "publishedOn": "2023-07-08T20:00:00.000Z",
-          "wordCount": 2967,
-          "title": "Inflation Cooling, Though Still Too Elevated for Fed: Eco Week",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/878735563618139bee4e04cc0befae12"
-        },
-        {
-          "id": "bruised-bond-investors-face-long-200000357.html",
-          "author": null,
-          "description": "(Bloomberg) -- The bond-market selloff that sent some yields to the highest levels in more than a decade this week leaves investors straining to see past the Federal Reserve’s next move in July.Most Read from BloombergAnt to Buy Back Shares at 70% Lower Valuation Than at IPOCEO Who Grew Up in Poverty Builds Rare $1.4 Billion Fish StartupYellen Had Candid Five-Hour Meeting With China’s He, US SaysStock Market Short Sellers That Helped Fuel This Year’s Rally Are Finally Giving UpMacron Is Trying t",
-          "link": "https://finance.yahoo.com/news/bruised-bond-investors-face-long-200000357.html",
-          "publishedOn": "2023-07-08T20:00:00.000Z",
-          "wordCount": 2467,
-          "title": "Bruised Bond Investors Face Long Road Beyond Fed’s July Decision",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/efc11c8627cdbfac19d9759acaf923c7"
-        },
-        {
-          "id": "2023-stock-rally-no-longer-192500207.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/2023-stock-rally-no-longer-192500207.html",
-          "publishedOn": "2023-07-08T19:25:00.000Z",
-          "wordCount": null,
-          "title": "The 2023 stock rally is no longer about just AI and Big Tech",
-          "imageUrl": null
         }
       ]
     }
