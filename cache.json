@@ -1698,6 +1698,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6275661/",
+          "author": "Thijs Rösken",
+          "description": "Elf van de twaalf reisaanbieders laten op hun website prijzen zien waarvoor de vakantie helemaal niet te boeken is. Dat blijkt uit een controle van toezichthouder ACM. Binnen acht weken moeten de reisaanbieders hun zaken op orde hebben, anders volgen boetes.",
+          "link": "https://www.nu.nl/economie/6275661/vrijwel-elke-reisaanbieder-toont-goedkope-reizen-die-helemaal-niet-te-boeken-zijn.html",
+          "publishedOn": "2023-08-08T10:24:34.000Z",
+          "wordCount": 1247,
+          "title": "Vrijwel elke reisaanbieder toont goedkope reizen die helemaal niet te boeken zijn",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/berx7pxagyj9_sqr256.jpg/vrijwel-elke-reisaanbieder-toont-goedkope-reizen-die-helemaal-niet-te-boeken-zijn.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/berx7pxagyj9_sqr256.jpg/vrijwel-elke-reisaanbieder-toont-goedkope-reizen-die-helemaal-niet-te-boeken-zijn.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6275691/",
           "author": "onze economieredactie",
           "description": "De Italiaanse regering gaat zogenoemde overwinsten van banken extra belasten, omdat banken profiteren van de oplopende rente. De overheid denkt daarmee 2 miljard euro op te halen voor belastingverlagingen en steun aan starters op de woningmarkt.",
@@ -7959,6 +7974,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/i/insead.asp",
+          "author": "Rajeev Dhir",
+          "description": "The Institut Europeen d'Administration des Affaires (INSEAD) is a top business graduate school, founded in 1957, with campuses in France, Singapore, and the Middle East.",
+          "link": "https://www.investopedia.com/terms/i/insead.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-08T10:58:45.000Z",
+          "wordCount": 6483,
+          "title": "INSEAD: What It Means, History, Programs",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/l3AfE58WvMzkyll45wUIYhB5Bto=/3504x2336/GettyImages-1524026945-61a230d5fabf4f31920c86ce9c8a05a5.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/l3AfE58WvMzkyll45wUIYhB5Bto=/3504x2336/GettyImages-1524026945-61a230d5fabf4f31920c86ce9c8a05a5.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/personal-finance/042914/when-grad-school-worth-it.asp",
           "author": "Kate Anania",
@@ -27797,6 +27827,46 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "alibaba-slumps-chinese-data-72854bb4?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "A plunge in Chinese imports bodes ill for Alibaba. But falling exports holds gloomy signs for the global economy more broadly.",
+          "link": "https://www.barrons.com/articles/alibaba-slumps-chinese-data-72854bb4?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-08-08T10:37:00.000Z",
+          "wordCount": 7949,
+          "title": "Alibaba Slumps After Grim Chinese Data. The S&P 500 Could Follow.",
+          "imageUrl": "https://images.barrons.com/im-803043/social"
+        },
+        {
+          "id": "stocks-slide-weighed-down-by-worries-about-banks-and-china-stock-market-news-today-103202997.html",
+          "author": null,
+          "description": "Stocks sank on Tuesday, set to open in the red after surprisingly weak Chinese trade data and a warning about US bank health sent shivers through markets.",
+          "link": "https://finance.yahoo.com/news/stocks-slide-weighed-down-by-worries-about-banks-and-china-stock-market-news-today-103202997.html",
+          "publishedOn": "2023-08-08T10:32:02.000Z",
+          "wordCount": 9401,
+          "title": "Stocks slide, weighed down by worries about banks and China: Stock market news today",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/0DZ7FstweUxZd2BtqRG2lA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/a22c2310-04b4-11ee-bbe9-a0e06825f73d"
+        },
+        {
+          "id": "us-bank-stocks-drop-moodys-102127325.html",
+          "author": null,
+          "description": "The rating agency said rising funding costs, possible decline in deposit levels and weaker profitability pose risks to the banking sector, which went through a crisis earlier this year after the collapse of three lenders.  \"The Moody's announcement is a wake-up call,\" Stuart Cole, chief macro economist at Equiti Capital, said.",
+          "link": "https://finance.yahoo.com/news/us-bank-stocks-drop-moodys-102127325.html",
+          "publishedOn": "2023-08-08T10:21:27.000Z",
+          "wordCount": 9154,
+          "title": "US bank stocks drop after Moody's downgrade",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/e261fda7beb9be0bbf5e8e4f0e49f0fb"
+        },
+        {
+          "id": "ups-cuts-revenue-view-lower-101941821.html",
+          "author": null,
+          "description": "Meanwhile, the global shipping downturn, which has hurt margins for the sector, has forced logistic firms to balance costs and capacity to lower demand.  UPS now expects 2023 consolidated revenue to be about $93 billion, compared with a prior forecast of about $97 billion.  The company expects full-year adjusted operating margin of around 11.8%, compared to its prior forecast of about 12.8%.",
+          "link": "https://finance.yahoo.com/news/ups-cuts-revenue-view-lower-101941821.html",
+          "publishedOn": "2023-08-08T10:19:41.000Z",
+          "wordCount": 9246,
+          "title": "UPS cuts revenue view on lower e-commerce demand, new labor contract",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/379bb0dcad8b7ccbc2e5e86a5815121c"
+        },
+        {
           "id": "palantir-stock-earnings-ai-platform-25b862be?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Palantir stock was rising early Tuesday after a drop following its earnings report. All eyes are on the progress of its artificial-intelligence platform after a stunning rally this year so far.",
@@ -27805,6 +27875,16 @@
           "wordCount": 7968,
           "title": "Palantir Stock Rises After Post-Earnings Wobble. It’s the Gold Standard in AI, Says This Analyst.",
           "imageUrl": "https://images.barrons.com/im-354063/social"
+        },
+        {
+          "id": "disinflation-spreads-across-emerging-markets-085925116.html",
+          "author": null,
+          "description": "(Bloomberg) -- A selloff in emerging markets accelerated Tuesday after data releases from China to Hungary underscored the price nations are paying for disinflation: a deeper slowdown in economic growth than initially expected.Most Read from BloombergMusk Says He May Need Surgery, Will Get MRI on Back and NeckEastern US Prepares for a ‘Potent’ Storm System: Weather WatchPayPal Launches a Stablecoin in Latest Crypto Payments PushHSBC Executive Slams ‘Weak’ UK for Backing US Against ChinaTexas Pow",
+          "link": "https://finance.yahoo.com/news/disinflation-spreads-across-emerging-markets-085925116.html",
+          "publishedOn": "2023-08-08T08:59:25.000Z",
+          "wordCount": 9282,
+          "title": "Disinflation Spreads Across Emerging Markets and Selloff Deepens",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/7e7fda97c572d89f0216ae72584a5aba"
         },
         {
           "id": "chinas-country-garden-missed-two-053143099.html",
@@ -52475,46 +52555,6 @@
           "wordCount": 2490,
           "title": "There’s More Pain Ahead for S&P 500 as Profit Warnings Loom, Investors Say",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/CUJBGNsrskSyNXdwXrKrIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/dd50901a1656a12feea41a5693832ef9"
-        },
-        {
-          "id": "china-led-ev-boom-thailand-230225897.html",
-          "author": null,
-          "description": "Thailand's Siam Motors partnered with Nissan Motors in 1962 with a factory that rolled out four cars a day, leading to a profitable, decades-long relationship with Japanese companies that transformed it from a car dealer to an automotive pioneer.  Siam Motors is in talks with several Chinese automakers about potential partnerships, particularly for high-end electric vehicles, vice president Sebastien Dupuy said in an interview,  referring to previously unreported discussions.  \"EVs will be a nice pocket of growth,\" he said.",
-          "link": "https://finance.yahoo.com/news/china-led-ev-boom-thailand-230225897.html",
-          "publishedOn": "2023-07-09T23:02:25.000Z",
-          "wordCount": 2713,
-          "title": "China-led EV boom in Thailand threatens Japan's grip on key market",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/9a9c03c103ef8ce70ca2ffc17dd5a399"
-        },
-        {
-          "id": "stocks-poised-for-muted-open-908c46dc?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "On Wednesday, the Bureau of Labor Statistics will report the consumer price index for June and the Fed will release its Beige Book of economic conditions.",
-          "link": "https://www.barrons.com/articles/stocks-poised-for-muted-open-908c46dc?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-07-09T22:28:00.000Z",
-          "wordCount": 7788,
-          "title": "Stocks Poised for Muted Open",
-          "imageUrl": "https://images.barrons.com/im-807128/social"
-        },
-        {
-          "id": "tulsa-race-massacre-court-tosses-reparations-case-3e39b5e4?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Judge dismissed a lawsuit brought by three survivors of the 1921 attack.",
-          "link": "https://www.wsj.com/articles/tulsa-race-massacre-court-tosses-reparations-case-3e39b5e4?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-07-09T22:27:00.000Z",
-          "wordCount": 7888,
-          "title": "Tulsa Race Massacre: Court Tosses Reparations Case",
-          "imageUrl": "https://images.wsj.net/im-813991/social"
-        },
-        {
-          "id": "don-t-duped-doomsayers-billionaire-221814191.html",
-          "author": null,
-          "description": "It hasn’t gone unnoticed that the market’s strong performance this year has been led by the mega-caps, with the tech giants largely responsible for the surge in the S&P 500 and NASDAQ. This has led many commentators to issue warnings about the lack of market breadth driving the gains, with many believing it indicates that the market is a lot more fragile than it looks. However, that is not the case at all, according to billionaire Ken Fisher, who thinks that “bad breadth” is a bullish indicator.",
-          "link": "https://finance.yahoo.com/news/don-t-duped-doomsayers-billionaire-221814191.html",
-          "publishedOn": "2023-07-09T22:18:14.000Z",
-          "wordCount": 3442,
-          "title": "Don’t be duped by doomsayers, billionaire Ken Fisher says — this mega-cap-led surge has legs. Here are 3 stocks he’s using to bet on a bounce",
-          "imageUrl": "https://media.zenfs.com/en/tipranks_452/25e6bb85680f95bf5a1c49eeba4e2fff"
         }
       ]
     }
