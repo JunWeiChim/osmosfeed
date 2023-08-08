@@ -891,6 +891,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "abc77d6c50f33a69b0d429691787454b",
+          "author": "Investopedia",
+          "description": "Moody’s cuts the ratings for several banks while warning of downgrading others and UPS lowers its revenue and margins forecast following its new labor contract. Here’s what investors need to know today.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df4f2a56d06e81209c9d0a69cdab34a7f2f633f6a5d660f77cbb7942d5611859015ea9",
+          "publishedOn": "2023-08-08T13:14:41.027Z",
+          "wordCount": 409,
+          "title": "5 Things to Know Before Markets Open",
+          "imageUrl": null
+        },
+        {
           "id": "ee21e69fb1b6aacf014a51eef55ee9a3",
           "author": "Investopedia",
           "description": "The S&P 500 snapped a four-day losing streak on Monday, Aug. 7, 2023, rising 0.9% after the latest round of earnings reports.",
@@ -7974,6 +7984,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/ask/answers/030515/which-united-states-presidents-have-run-largest-budget-deficits.asp",
+          "author": "Mary Hall",
+          "description": "Here is a look at which presidents ran the largest federal budget deficits in U.S. history and why, from World War I through President Biden's administration.",
+          "link": "https://www.investopedia.com/ask/answers/030515/which-united-states-presidents-have-run-largest-budget-deficits.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-08T12:43:47.000Z",
+          "wordCount": 7228,
+          "title": "U.S. Presidents and the Largest Budget Deficits",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/YKJHtUVlXYYsko8z8PCVr0MAM84=/680x440/shutterstock_313802690-5bfc2b5446e0fb0051bdd5d0.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/YKJHtUVlXYYsko8z8PCVr0MAM84=/680x440/shutterstock_313802690-5bfc2b5446e0fb0051bdd5d0.jpg"
+        },
         {
           "id": "https://www.investopedia.com/5-things-to-know-before-markets-open-august-8-2023-7571224",
           "author": "Terry Lane",
@@ -27842,6 +27867,66 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-on-moodys-bank-downgrades-palantir-slides-on-earnings/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-08-08T12:52:03.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Fall 250 Points On Moody's Bank Downgrades; Palantir Slides On Earnings",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/eli-lilly-stock-eli-lilly-earnings-q2-2023/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-08-08T12:46:43.000Z",
+          "wordCount": null,
+          "title": "Lilly Stock Rockets After Diabetes Powerhouse Mounjaro Drives Beat And Raise",
+          "imageUrl": null
+        },
+        {
+          "id": "hanesbrands-draws-activist-investor-seeking-to-shake-up-underwear-maker-1aa808b4?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Barington Capital is pushing the company to find new directors, and possibly a new CEO.",
+          "link": "https://www.wsj.com/articles/hanesbrands-draws-activist-investor-seeking-to-shake-up-underwear-maker-1aa808b4?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-08-08T12:27:00.000Z",
+          "wordCount": 7561,
+          "title": "Hanesbrands Draws Activist Investor Seeking to Shake Up Underwear Maker",
+          "imageUrl": "https://images.wsj.net/im-831310/social"
+        },
+        {
+          "id": "2-novavax-posts-quarterly-profit-121803024.html",
+          "author": null,
+          "description": "Novavax reported a second-quarter profit on Tuesday, helped by strong revenue from its COVID-19 vaccines, but still trimmed its full-year forecast for sales of the shot.  The biotech company also entered into a stock purchase agreement with SK Bioscience Co, under which Novavax will issue 6.5 million shares to the South Korean company at $13 per share.  Shares of Novavax were up 19% at $8.95 in premarket trading.",
+          "link": "https://finance.yahoo.com/news/2-novavax-posts-quarterly-profit-121803024.html",
+          "publishedOn": "2023-08-08T12:18:03.000Z",
+          "wordCount": 9271,
+          "title": "UPDATE 2-Novavax posts quarterly profit on COVID vaccine sales",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/li-auto-stock-li-auto-earnings-q2-2-2023/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-08-08T11:52:47.000Z",
+          "wordCount": null,
+          "title": "Li Auto Earnings Boom, Delivery Guidance Strong, But Tesla Rival Backs Off Record High",
+          "imageUrl": null
+        },
+        {
+          "id": "ups-lowers-full-outlook-posts-115211210.html",
+          "author": null,
+          "description": "UPS’ full-year guidance change reflects the volume and cost impact from labor negotiations with the Teamsters. The post UPS lowers full-year outlook, posts drop in Q2 results appeared first on FreightWaves.",
+          "link": "https://finance.yahoo.com/news/ups-lowers-full-outlook-posts-115211210.html",
+          "publishedOn": "2023-08-08T11:52:11.000Z",
+          "wordCount": 9320,
+          "title": "UPS lowers full-year outlook, posts drop in Q2 results",
+          "imageUrl": "https://media.zenfs.com/en/freightwaves_373/3a856baf8094d157b70922bcbf608c33"
+        },
+        {
           "id": "dish-network-echostar-stock-merger-charlie-ergen-ae5af037?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Billionaire Charlie Ergen is planning to combine pay-TV provider Dish Network and satellite-communications company EchoStar.",
@@ -27850,6 +27935,16 @@
           "wordCount": 7940,
           "title": "Dish, EchoStar to Merge. It’s a Challenge to AT&T and Verizon.",
           "imageUrl": "https://images.barrons.com/im-351368/social"
+        },
+        {
+          "id": "novo-nordisk-wegovy-study-prevent-heart-attack-ae09e586?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Results of a study looking at whether Novo Nordisk's Wegovy reduces the risk of heart attack and stroke are released Tuesday.",
+          "link": "https://www.barrons.com/articles/novo-nordisk-wegovy-study-prevent-heart-attack-ae09e586?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-08-08T11:36:00.000Z",
+          "wordCount": 7993,
+          "title": "Novo Nordisk Stock Surges as Weight-Loss Drug Cuts Risk of Cardiovascular Events",
+          "imageUrl": "https://images.barrons.com/im-830942/social"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -27950,6 +28045,16 @@
           "wordCount": 9078,
           "title": "Eli Lilly raises annual forecasts as new diabetes drug powers beat",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/9613c2bc349e95a2aa92c6c65b24642a"
+        },
+        {
+          "id": "rivian-wounded-shorts-set-potential-104943552.html",
+          "author": null,
+          "description": "(Bloomberg) -- Investors betting against Rivian Automotive Inc. have a lot riding on the electric vehicle maker’s results later Tuesday, after a steep rally exposed them to big losses. Most Read from BloombergMusk Says He May Need Surgery, Will Get MRI on Back and NeckEastern US Prepares for a ‘Potent’ Storm System: Weather WatchPayPal Launches a Stablecoin in Latest Crypto Payments PushThe Global South Breaks Away From the US-Led World OrderHSBC Executive Slams ‘Weak’ UK for Backing US Against",
+          "link": "https://finance.yahoo.com/news/rivian-wounded-shorts-set-potential-104943552.html",
+          "publishedOn": "2023-08-08T10:49:43.000Z",
+          "wordCount": 9809,
+          "title": "Rivian’s Wounded Shorts Set for Potential Squeeze",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/b2ffee6087533981fa4ef62f14cea037"
         },
         {
           "id": "alibaba-slumps-chinese-data-72854bb4?siteid=yhoof2&yptr=yahoo",
@@ -52680,26 +52785,6 @@
           "wordCount": 1871,
           "title": "Alibaba shares rise 5.5% amid hopes Ant regulatory crackdown is ending",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/c9b793f7c467db085854216568e6da89"
-        },
-        {
-          "id": "oil-eases-ahead-china-us-011349625.html",
-          "author": null,
-          "description": "Oil prices dipped in early Asian trade on Monday as investors tread cautiously ahead of fresh economic data from top consumers the United States and China this week, while expected crude supply cuts from Saudi Arabia and Russia supported the market.  Brent crude futures fell 22 cents, or 0.3%, to $78.25 a barrel by 0107 GMT, and U.S. West Texas Intermediate crude was at $73.57 a barrel, down 29 cents, or 0.4%.  \"Oil traders may be cautious ahead of the U.S. CPI and China's slew of economic data later this week,\" CMC Markets analyst Tina Teng said.",
-          "link": "https://finance.yahoo.com/news/oil-eases-ahead-china-us-011349625.html",
-          "publishedOn": "2023-07-10T01:13:49.000Z",
-          "wordCount": 2229,
-          "title": "Oil eases ahead of China, US data, but OPEC+ cuts support market",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/ff0f391a36d5ab27271b9106624ffe47"
-        },
-        {
-          "id": "dollar-softens-china-inflation-data-010302276.html",
-          "author": null,
-          "description": "The dollar was on the back foot on Monday after a miss in U.S. jobs data scaled back market expectations on how much further the Federal Reserve would need to raise rates, while focus in the Asia day was on China's inflation data release.  That sent the dollar tumbling nearly 1% against a basket of currencies on Friday while the yen and sterling surged.  The Japanese yen last bought 142.30 per dollar in early Asia trade on Monday, having jumped 1.4% on Friday in the wake of the greenback's decline and a slump in U.S. Treasury yields.",
-          "link": "https://finance.yahoo.com/news/dollar-softens-china-inflation-data-010302276.html",
-          "publishedOn": "2023-07-10T01:03:02.000Z",
-          "wordCount": 2239,
-          "title": "Dollar softens, China's yuan draws support from stimulus hopes",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/06aa072f146531c40f2acd74853319b5"
         }
       ]
     }
