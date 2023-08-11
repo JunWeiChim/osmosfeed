@@ -24,6 +24,46 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "7c6618dfc544944898f5d7bdc62f2119",
+          "author": "Investopedia",
+          "description": "Alphabet's Waymo and General Motor's Cruise received regulatory approval to expand their robotaxi services to offer driverless ride-hailing services 24/7 across San Francisco.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca876bd7ea1ea7592dc59d75b4f3232080095ecd34c83fbcdf516647c97e9c20d4df0d65cdab34a2e5f12ff4e98260b123a42f179235410c1e1ef2f1a7cd7641c09fa5a7c8da9084105dc317c9de7964862b283b949451898305e6842478bbda73d29c",
+          "publishedOn": "2023-08-11T16:13:17.531Z",
+          "wordCount": 409,
+          "title": "Alphabet's Waymo and GM's Cruise Win Approval to Expand Robotaxi Services in San Francisco",
+          "imageUrl": null
+        },
+        {
+          "id": "93d86d493c7f8196ae59025c80402476",
+          "author": "Investopedia",
+          "description": "Archer Aviation will team up with Boeing for autonomous flying technology after ending litigation, as the startup prepares to grow with an FAA nod for test flights and another $215 million in funds from investors.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca806bdeeb11a2112d899631eeff3b268a5612c2228630b4800f3841cf7f9936c2df1863c6ef3bb5b8ef21f5fb9b24b161be7c5bd067185e",
+          "publishedOn": "2023-08-11T16:13:17.524Z",
+          "wordCount": 409,
+          "title": "Flying Taxi Maker Archer Settles Boeing Lawsuit, Secures $215M in Funding",
+          "imageUrl": null
+        },
+        {
+          "id": "47f544291dcc3ad196fc96550ffd3990",
+          "author": "Investopedia",
+          "description": "Swiss megabank UBS has agreed to voluntarily end a $10 billion backstop used to cover potential losses from its merger with Credit Suisse.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9365d4af0ba04e34818039b7f729609a575b92608775b69d542e56d566903dc5df1b65c7ab33bde7ae23f0ed8a24b161fa3f0691274a455709fcffe58e210d9b81e0f7",
+          "publishedOn": "2023-08-11T16:13:17.515Z",
+          "wordCount": 409,
+          "title": "UBS Terminates $10B Government Aid For Credit Suisse Deal",
+          "imageUrl": null
+        },
+        {
+          "id": "c5b98aea2880202fd6628344e9bf1fdb",
+          "author": "Investopedia",
+          "description": "Cano Health shares plummeted to an all-time low after the health care provider for seniors warned it may not be able to continue operations and is looking for a buyer as revenue sank and expenses rose.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8566c9ed52ad5938849a30eee53b3f815712ca24c835b08b0f254bcf2697369c931860c6ab21bdb8f034e3f1c324ab61eb3f1c8b3a4a1b4041f1fca7d26414cfdda4efd8d980820703d94893c13e37db",
+          "publishedOn": "2023-08-11T16:13:17.497Z",
+          "wordCount": 409,
+          "title": "Cano Health Warns it May Not Be Able to Stay in Business, Looks for Buyer",
+          "imageUrl": null
+        },
+        {
           "id": "dffeb528cef8cc2356a941cbd6a55d67",
           "author": "Investopedia",
           "description": "Increasing costs, faltering subscriber growth, inflation, and reduced revenue per membership figures all contribute to subscription price hikes.",
@@ -1737,6 +1777,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6276180/",
+          "author": "onze economieredactie",
+          "description": "Het aantal schuldzaken tegen discounter Big Bazar neemt toe. Directeur Joost Konings van Invorderingsbedrijf Amsterdam meldt dat er inmiddels tien lopende dossiers in behandeling zijn. De totale vorderingen tegen Big Bazar gaan richting de 430.000 euro.",
+          "link": "https://www.nu.nl/economie/6276180/schuldzaken-tegen-big-bazar-nemen-toe.html",
+          "publishedOn": "2023-08-11T15:35:33.000Z",
+          "wordCount": 950,
+          "title": "Schuldzaken tegen Big Bazar nemen toe",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/b3kxwnsa6hzg_sqr256.jpg/schuldzaken-tegen-big-bazar-nemen-toe.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/b3kxwnsa6hzg_sqr256.jpg/schuldzaken-tegen-big-bazar-nemen-toe.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6276153/",
           "author": "onze economieredactie",
@@ -7924,6 +7979,126 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/ubs-terminates-usd10b-government-aid-for-credit-suisse-deal-7642365",
+          "author": "Kevin George",
+          "description": "Swiss megabank UBS has agreed to voluntarily end a $10 billion backstop used to cover potential losses from its merger with Credit Suisse.",
+          "link": "https://www.investopedia.com/ubs-terminates-usd10b-government-aid-for-credit-suisse-deal-7642365?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-11T15:42:31.000Z",
+          "wordCount": 5013,
+          "title": "UBS Terminates $10B Government Aid For Credit Suisse Deal",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/vB5oY8wJMrqa8Bgy1Jkb_cVOvi0=/5000x3333/GettyImages-1248847545-e8ef0aecb0534d6798c23ef34105978f.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/vB5oY8wJMrqa8Bgy1Jkb_cVOvi0=/5000x3333/GettyImages-1248847545-e8ef0aecb0534d6798c23ef34105978f.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/financial-edge/0512/maternity-leave-basics-canada-vs.-the-u.s..aspx",
+          "author": "Angie Mohr",
+          "description": "The Family and Medical Leave Act is sparse and makes the U.S. one of the only countries that has no mandated form of paid leave for new parents.",
+          "link": "https://www.investopedia.com/financial-edge/0512/maternity-leave-basics-canada-vs.-the-u.s..aspx?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-11T15:39:42.000Z",
+          "wordCount": 7385,
+          "title": "The U.S. vs. Canada: Maternity Leave Differences",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/5qvgy51F_7XRD3XiEldjnCiP0M0=/205x136/131479181-5bfc2df8c9e77c0058777f56.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/5qvgy51F_7XRD3XiEldjnCiP0M0=/205x136/131479181-5bfc2df8c9e77c0058777f56.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/cano-health-warns-it-may-not-be-able-to-stay-in-business-looks-for-buyer-7642423",
+          "author": "Staff Author",
+          "description": "Cano Health shares plummeted to an all-time low after the health care provider for seniors warned it may not be able to continue operations and is looking for a buyer as revenue sank and expenses rose.",
+          "link": "https://www.investopedia.com/cano-health-warns-it-may-not-be-able-to-stay-in-business-looks-for-buyer-7642423?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-11T15:36:17.000Z",
+          "wordCount": 5033,
+          "title": "Cano Health Warns it May Not Be Able to Stay in Business, Looks for Buyer",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/oRxQwV_pSa3-SArfl2M645BgyIg=/7360x4912/GettyImages-883682088-a2e28ecc94c641acba9bbdb93a684a5e.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/oRxQwV_pSa3-SArfl2M645BgyIg=/7360x4912/GettyImages-883682088-a2e28ecc94c641acba9bbdb93a684a5e.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/alphabet-s-waymo-and-gm-s-cruise-win-approval-to-expand-robotaxi-services-in-san-francisco-7642342",
+          "author": "Fatima Attarwala",
+          "description": "Alphabet's Waymo and General Motor's Cruise received regulatory approval to expand their robotaxi services to offer driverless ride-hailing services 24/7 across San Francisco.",
+          "link": "https://www.investopedia.com/alphabet-s-waymo-and-gm-s-cruise-win-approval-to-expand-robotaxi-services-in-san-francisco-7642342?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-11T15:35:41.000Z",
+          "wordCount": 4995,
+          "title": "Alphabet&#39;s Waymo and GM&#39;s Cruise Win Approval to Expand Robotaxi Services in San Francisco",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/w9arTy1_17RLkWlKdRMRX8kmrqA=/4000x2666/GettyImages-1590504209-c754e5897b964e228a9ea617b2ff3a94.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/w9arTy1_17RLkWlKdRMRX8kmrqA=/4000x2666/GettyImages-1590504209-c754e5897b964e228a9ea617b2ff3a94.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/flying-taxi-maker-archer-settles-boeing-lawsuit-7642376",
+          "author": "Vivian Medithi",
+          "description": "Archer Aviation will team up with Boeing for autonomous flying technology after ending litigation, as the startup prepares to grow with an FAA nod for test flights and another $215 million in funds from investors.",
+          "link": "https://www.investopedia.com/flying-taxi-maker-archer-settles-boeing-lawsuit-7642376?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-11T15:22:07.000Z",
+          "wordCount": 5267,
+          "title": "Flying Taxi Maker Archer Settles Boeing Lawsuit, Secures $215M in Funding",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/IGhbwHpXijpkkZl6VeXKrK-isSY=/7932x5288/GettyImages-1258807874-e57f08ffbdae49aaa8dbdb9fa5e44bff.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/IGhbwHpXijpkkZl6VeXKrK-isSY=/7932x5288/GettyImages-1258807874-e57f08ffbdae49aaa8dbdb9fa5e44bff.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/30-year-mortgage-rates-drop-to-two-week-low-7642386",
+          "author": "Staff Author",
+          "description": "Mortgage rates dropped across every loan type except jumbo loans, with the 30-year average now down to a two-week low after dropping about a quarter point over the past week.",
+          "link": "https://www.investopedia.com/30-year-mortgage-rates-drop-to-two-week-low-7642386?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-11T15:15:04.000Z",
+          "wordCount": 5967,
+          "title": "30-Year Mortgage Rates Drop to Two-Week Low",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/lAIBGMsTr7vAM5SUSe3nRcdxU8A=/5626x4168/August23MortageRatesNews-11-5f55a92f80b348999d646749eef2c118.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/lAIBGMsTr7vAM5SUSe3nRcdxU8A=/5626x4168/August23MortageRatesNews-11-5f55a92f80b348999d646749eef2c118.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/042415/what-are-different-types-price-discrimination-and-how-are-they-used.asp",
+          "author": "Melissa Horton",
+          "description": "Price discrimination is the strategy of a business or seller charging different prices to different customers for the same product or service. There are three ways businesses can do it.",
+          "link": "https://www.investopedia.com/ask/answers/042415/what-are-different-types-price-discrimination-and-how-are-they-used.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-11T15:02:18.000Z",
+          "wordCount": 6846,
+          "title": "3 Degrees of Price Discrimination",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/aVWWfI_N0Aj1qE6wxhdszzn0Xe4=/5760x3840/businesswoman-at-whiteboard-leading-meeting-in-conference-room-558270379-3e4c0d92986b49ce9a25f84c811c4748.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/aVWWfI_N0Aj1qE6wxhdszzn0Xe4=/5760x3840/businesswoman-at-whiteboard-leading-meeting-in-conference-room-558270379-3e4c0d92986b49ce9a25f84c811c4748.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/forex/051415/pros-cons-strong-dollar.asp",
+          "author": "Adam Hayes",
+          "description": "While a strong U.S. dollar benefits some, it negatively impacts others. These are the advantages and disadvantages of a strong U.S. dollar, and who gains and loses.",
+          "link": "https://www.investopedia.com/articles/forex/051415/pros-cons-strong-dollar.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-11T15:01:38.000Z",
+          "wordCount": 6727,
+          "title": "Strong Dollar: Advantages and Disadvantages",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/AbXzWffgSXmsm9TeIrdbLWWWiBI=/2121x1414/does-saving-a-few-dollars-matter-59756761845b340011737a67.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/AbXzWffgSXmsm9TeIrdbLWWWiBI=/2121x1414/does-saving-a-few-dollars-matter-59756761845b340011737a67.jpg"
+        },
         {
           "id": "https://www.investopedia.com/ask/answers/040715/why-are-factors-production-important-economic-growth.asp",
           "author": "Sean Ross",
@@ -28722,6 +28897,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "cano-health-warns-it-may-not-be-able-to-stay-in-business-looks-for-buyer-7642423?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "Cano Health shares plummeted to an all-time low after the health care provider for seniors warned it may not be able to continue operations and is looking for a buyer as revenue sank and expenses rose.",
+          "link": "https://www.investopedia.com/cano-health-warns-it-may-not-be-able-to-stay-in-business-looks-for-buyer-7642423?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-08-11T15:36:17.000Z",
+          "wordCount": 5033,
+          "title": "Cano Health Warns it May Not Be Able to Stay in Business, Looks for Buyer",
+          "imageUrl": "https://www.investopedia.com/thmb/zVuljE00md-3dGXkv9kf5dnRQus=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-883682088-a2e28ecc94c641acba9bbdb93a684a5e.jpg"
+        },
+        {
+          "id": "disappointing-earnings-just-trashed-3-144415332.html",
+          "author": null,
+          "description": "It's always risky for an investor to buy or sell shares of a stock right before an earnings report because nobody can predict with 100% accuracy how a company will perform, nor is it possible to gauge how Wall Street will react to the news. When a company misses the earnings estimate, sometimes it gets shrugged off if the revenue beats the estimates. Other times the earnings may beat the estimates, but the revenue falls short of expectations and that precipitates a sell-off in share price. Anoth",
+          "link": "https://finance.yahoo.com/news/disappointing-earnings-just-trashed-3-144415332.html",
+          "publishedOn": "2023-08-11T14:44:15.000Z",
+          "wordCount": 10162,
+          "title": "Disappointing Earnings Just Trashed These 3 REITs: What Should Investors Do?",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/56ce6a0ba6274f953658e6da530df6c7"
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -28740,6 +28935,26 @@
           "wordCount": 9432,
           "title": "Stocks mixed as fresh inflation data shows more pickup: Stock market news today",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/t1JKd5_qE5.kdEn48lV1uQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/0820d7d0-2b8c-11ee-bf7b-03a5dbaad5ee"
+        },
+        {
+          "id": "own-a-piece-of-first-republic-history-the-corporate-jet-is-for-sale-t2EfkbIy7Tb3DCh9qarM?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "For anyone in the market for a corporate jet, federal regulators have just the thing for you.\nThe Federal Deposit Insurance Corp. is selling a “spectacular” corporate jet that can accommodate 13 passengers, complete with leather seatin",
+          "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-11-2023/card/own-a-piece-of-first-republic-history-the-corporate-jet-is-for-sale-t2EfkbIy7Tb3DCh9qarM?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-08-11T14:23:02.000Z",
+          "wordCount": 6832,
+          "title": "Own a Piece of First Republic History: The Corporate Jet Is for Sale",
+          "imageUrl": "https://images.wsj.net/im-833981/social"
+        },
+        {
+          "id": "chrysler-parent-stellantis-criticizes-uaw-135250310.html",
+          "author": null,
+          "description": "(Reuters) -Chrysler parent Stellantis sharply criticized the demands of the United Auto Workers (UAW) union on Friday, saying they need \"a focus on reality from everyone involved.\"  Stellantis North America Chief Operating Officer Mark Stewart said in a letter to employees seen by Reuters the automaker is \"committed to working with the UAW to reach an agreement based on economic realism.\"  A UAW spokesman declined immediate comment on Stewart's letter, but earlier this week UAW President Shawn Fain called the Stellantis proposals \"trash\" and tossed a copy of them in a waste basket in live streamed remarks.",
+          "link": "https://finance.yahoo.com/news/chrysler-parent-stellantis-criticizes-uaw-135250310.html",
+          "publishedOn": "2023-08-11T13:52:50.000Z",
+          "wordCount": 9435,
+          "title": "Chrysler owner calls for focus on reality in UAW labor talks",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/67a4e06806ea3f70e9afea86724d2945"
         },
         {
           "id": "ask-advisor-im-65-earning-192928957.html",
@@ -29270,6 +29485,16 @@
           "wordCount": 10100,
           "title": "China's heading for another real estate crisis — but it's on a whole different scale than what it's seen before",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/acC0iz5EosoE6.pL5xfpVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/4d862c1ecf0a48311b622cf125d19d40"
+        },
+        {
+          "id": "forward-air-merges-omni-logistics-171948180.html",
+          "author": null,
+          "description": "Forward Air announced Thursday it will merge with asset-light logistics peer Omni Logistics. The post Forward Air merges with Omni Logistics, will target expedited LTL appeared first on FreightWaves.",
+          "link": "https://finance.yahoo.com/news/forward-air-merges-omni-logistics-171948180.html",
+          "publishedOn": "2023-08-10T17:19:48.000Z",
+          "wordCount": 9789,
+          "title": "Forward Air merges with Omni Logistics, will target expedited LTL",
+          "imageUrl": "https://media.zenfs.com/en/freightwaves_373/87829b18e51d9df57adfd104850a4924"
         },
         {
           "id": "tesla-stock-linda-yaccarino-x-ceo-9412194?siteid=yhoof2&yptr=yahoo",
@@ -54010,16 +54235,6 @@
           "wordCount": 1567,
           "title": "AT&T’s $13bn pile of puzzling payables",
           "imageUrl": null
-        },
-        {
-          "id": "xi-china-economy-capital-investment-3439d31a?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Foreign direct investment in China fell to $20 billion in the first quarter from $100 billion a year earlier, hurting an already struggling economy.",
-          "link": "https://www.wsj.com/articles/xi-china-economy-capital-investment-3439d31a?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-07-13T04:01:00.000Z",
-          "wordCount": 6545,
-          "title": "Xi Jinping Chokes Off Crucial Engine of China’s Economy",
-          "imageUrl": "https://images.wsj.net/im-816062/social"
         }
       ]
     }
