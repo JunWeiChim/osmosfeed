@@ -1719,16 +1719,6 @@
           "wordCount": 411,
           "title": "5 Things to Know Before Markets Open",
           "imageUrl": null
-        },
-        {
-          "id": "fe6f358dd2b5821294441e3df73f7218",
-          "author": "Investopedia",
-          "description": "The Dow Jones Industrial Average continued its winning week, rising 0.3% or 96 points, Wednesday after data showed inflation continuing to cool.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c24e4acf29c869e3df107b168826c26687c2483991",
-          "publishedOn": "2023-07-12T22:12:27.967Z",
-          "wordCount": 411,
-          "title": "Dow Jones Today: Index Jumps on Inflation Drop",
-          "imageUrl": null
         }
       ]
     },
@@ -1737,6 +1727,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6276113/",
+          "author": "onze economieredactie",
+          "description": "De economie van het Verenigd Koninkrijk is het afgelopen kwartaal onverwachts 0,2 procent gegroeid. Het is de grootste groei in meer dan een jaar.",
+          "link": "https://www.nu.nl/economie/6276113/britse-economie-groeit-verrassend-maar-blijft-achter-bij-andere-landen.html",
+          "publishedOn": "2023-08-11T10:42:44.000Z",
+          "wordCount": 1008,
+          "title": "Britse economie groeit verrassend, maar blijft achter bij andere landen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/bigx2blag9gr_sqr256.jpg/britse-economie-groeit-verrassend-maar-blijft-achter-bij-andere-landen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/bigx2blag9gr_sqr256.jpg/britse-economie-groeit-verrassend-maar-blijft-achter-bij-andere-landen.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6276113/",
           "author": "onze economieredactie",
@@ -7894,6 +7899,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/ask/answers/012915/what-difference-between-inelasticity-and-elasticity-demand.asp",
+          "author": "Mary Hall",
+          "description": "Elasticity and Inelasticity of demand are the degrees to which demand changes in response to price changes, income levels, and substitution.",
+          "link": "https://www.investopedia.com/ask/answers/012915/what-difference-between-inelasticity-and-elasticity-demand.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-11T10:35:32.000Z",
+          "wordCount": 7202,
+          "title": "Elasticity vs. Inelasticity of Demand: What&#39;s the Difference?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/7LOsPfTrPZ5VJ0Ek0sCZNt4W1M8=/6000x4005/shopping-cc0622537452400aa3806fce7f2d7999.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/7LOsPfTrPZ5VJ0Ek0sCZNt4W1M8=/6000x4005/shopping-cc0622537452400aa3806fce7f2d7999.jpeg"
+        },
         {
           "id": "https://www.investopedia.com/articles/personal-finance/010915/cost-studying-new-york-university-nyu.asp",
           "author": "Daniel Kurt",
@@ -28646,6 +28666,46 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "stocks-trade-muted-in-wait-for-fresh-inflation-data-stock-market-news-today-101030063.html",
+          "author": null,
+          "description": "Stock futures wavered around the flatline on Friday, as markets waited for fresh inflation data to provide insight into the Fed's next move.",
+          "link": "https://finance.yahoo.com/news/stocks-trade-muted-in-wait-for-fresh-inflation-data-stock-market-news-today-101030063.html",
+          "publishedOn": "2023-08-11T10:10:30.000Z",
+          "wordCount": 9483,
+          "title": "Stocks trade muted in wait for fresh inflation data: Stock market news today",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/t1JKd5_qE5.kdEn48lV1uQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/0820d7d0-2b8c-11ee-bf7b-03a5dbaad5ee"
+        },
+        {
+          "id": "byd-calls-china-automakers-unite-100159682.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/byd-calls-china-automakers-unite-100159682.html",
+          "publishedOn": "2023-08-11T10:01:59.000Z",
+          "wordCount": null,
+          "title": "BYD calls on China automakers to unite, 'demolish the old' in global push",
+          "imageUrl": null
+        },
+        {
+          "id": "heres-what-a-5-million-retirement-looks-like-in-america-1abc76d9?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Retirees open up about their financial lives and how they spend their time and money.",
+          "link": "https://www.wsj.com/articles/heres-what-a-5-million-retirement-looks-like-in-america-1abc76d9?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-08-11T09:30:00.000Z",
+          "wordCount": 6859,
+          "title": "Here’s What a $5 Million Retirement Looks Like in America",
+          "imageUrl": "https://images.wsj.net/im-832718/social"
+        },
+        {
+          "id": "alphabet-118-billion-cash-pile-092957812.html",
+          "author": null,
+          "description": "(Bloomberg) -- Alphabet Inc. is facing a new and, by most accounts, welcome problem — how to spend its rapidly expanding pile of cash. Most Read from BloombergRetirees Face $17,400 Cut to Social Security Benefits in 2033Maui Fires Show Climate Change’s Ugly ReachBiden Fears China Is ‘Ticking Time Bomb' Posing Danger to WorldFirst American City to Tame Inflation Owes Its Success to Affordable HousingEcuador Presidential Candidate Assassinated, Suspect Shot DeadThe Google owner generated nearly $2",
+          "link": "https://finance.yahoo.com/news/alphabet-118-billion-cash-pile-092957812.html",
+          "publishedOn": "2023-08-11T09:29:57.000Z",
+          "wordCount": 9983,
+          "title": "Alphabet’s $118 Billion Cash Pile Poses a New Problem",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/9d8e19b777a5e0cfe90c3049206a0ca2"
+        },
         {
           "id": "alphabet-waymo-google-gm-cruise-robotaxis-california-36e0c6c0?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -53715,16 +53775,6 @@
           "wordCount": 1865,
           "title": "Russia's economy dealt a crushing blow as its current-account surplus collapses by 93%",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/.ft1QMUpCkblueOMnmOirg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTc-/https://media.zenfs.com/en/business_insider_articles_888/f151a9f739d99972449b9857ed2ebc43"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-hits-high-as-nvidia-leads-8-ai-stocks-flashing-buy-signals/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-07-12T22:59:29.000Z",
-          "wordCount": null,
-          "title": "Dow Jones Futures: Market Rally Hits High As Nvidia Leads 8 AI Stocks Flashing Buy Signals",
-          "imageUrl": null
         }
       ]
     }
