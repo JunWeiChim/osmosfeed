@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-11T06:14:50.218Z</updated>
+    <updated>2023-08-11T07:10:20.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -34,6 +34,16 @@
         <summary type="html"><![CDATA[The costs of attending NYU—including paying NYU’s tuition bills—are above average, even for private universities. But research shows it's a wise investment.]]></summary>
         <author>
             <name>Daniel Kurt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fed may be done hiking rates but there's another policy move that still poses a big risk to stocks]]></title>
+        <id>fed-may-done-hiking-rates-040108472.html</id>
+        <link href="https://finance.yahoo.com/news/fed-may-done-hiking-rates-040108472.html"/>
+        <updated>2023-08-11T04:01:08.000Z</updated>
+        <summary type="html"><![CDATA["When [Fed] reserves have been declining by more than $38 billion over the past four weeks, stocks have struggled," Ned Davis Research said.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
         </author>
     </entry>
     <entry>
@@ -2428,6 +2438,16 @@ In case you missed the memo—]]></summary>
         <summary type="html"><![CDATA[Mortgage applications declined 3.1% from the previous week as the average interest rate for FHA-backed mortgages increased to 7.02%—the highest in almost 21 years—according to data from the Mortgage Bankers Association.]]></summary>
         <author>
             <name>Kathleen Marshall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New York City Economy Tracker]]></title>
+        <id>https://www.investopedia.com/the-new-york-city-economy-tracker-7104393</id>
+        <link href="https://www.investopedia.com/the-new-york-city-economy-tracker-7104393?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
+        <updated>2023-08-09T17:22:02.000Z</updated>
+        <summary type="html"><![CDATA[Investopedia and NY1 are teaming up on a series of biweekly updates tracking the health of New York City’s economy, highlighting the best and worst-performing areas of New York's housing, tourism, leisure and hospitality metrics.]]></summary>
+        <author>
+            <name>Staff Author</name>
         </author>
     </entry>
     <entry>
@@ -44234,45 +44254,6 @@ Investors hav]]></summary>
         <summary type="html"><![CDATA[Fintech company Wealthfront launched an automated portfolio which aims to offer higher rates than simply investing in traditional bonds.]]></summary>
         <author>
             <name>Kevin George</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Nvidia is still seen as worth more than $1 trillion]]></title>
-        <id>why-nvidia-is-still-seen-as-worth-more-than-1-trillion-190753277.html</id>
-        <link href="https://finance.yahoo.com/news/why-nvidia-is-still-seen-as-worth-more-than-1-trillion-190753277.html"/>
-        <updated>2023-07-12T19:07:53.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia remains a Wall Street darling.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC Form S-6 Definition]]></title>
-        <id>https://www.investopedia.com/terms/s/sec-form-s-6.asp</id>
-        <link href="https://www.investopedia.com/terms/s/sec-form-s-6.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-07-12T18:59:53.000Z</updated>
-        <summary type="html"><![CDATA[SEC Form S-6 is the initial registration statement filed with the SEC, which unit investment trusts (UITs) use to register securities that they plan to issue.]]></summary>
-        <author>
-            <name>Alice Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dow Jones Giant Caterpillar Breaks Out; Tesla Stock, Chipotle Boast Rising Profit Estimates]]></title>
-        <id>?src=A00220&amp;yptr=yahoo</id>
-        <link href="https://www.investors.com/research/dow-jones-caterpillar-breaks-out-tesla-stock-chipotle-boast-rising-profit-estimates/?src=A00220&amp;yptr=yahoo"/>
-        <updated>2023-07-12T18:32:12.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charles Schwab Boosts Services for Wealthy Investors]]></title>
-        <id>charles-schwab-wealthy-services-38a8c9e4?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/advisor/articles/charles-schwab-wealthy-services-38a8c9e4?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2023-07-12T18:25:00.000Z</updated>
-        <summary type="html"><![CDATA[The company wants to do more business with high-net-worth and ultrahigh-net-worth investors, who represent more than two-thirds of Schwab’s total retail client assets.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
         </author>
     </entry>
 </feed>
