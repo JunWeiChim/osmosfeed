@@ -7721,36 +7721,6 @@
             "url": "https://media.nu.nl/m/qtdxz3sarn6d_sqr256.jpg/kpn-klanten-kunnen-geen-tv-kijken-door-storing.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/qtdxz3sarn6d_sqr256.jpg/kpn-klanten-kunnen-geen-tv-kijken-door-storing.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6272309/",
-          "author": "Tom van Gurp",
-          "description": "Klanten met een vast contract kunnen bij het terugleveren van stroom toch te maken krijgen met variabele tarieven, blijkt uit onderzoek van de Consumentenbond onder tientallen energieleveranciers. Toezichthouder ACM zegt dat dergelijk beleid niet mag.",
-          "link": "https://www.nu.nl/economie/6272309/irritatie-over-variabele-terugleververgoeding-bij-vaste-energiecontracten.html",
-          "publishedOn": "2023-07-14T08:02:36.000Z",
-          "wordCount": 989,
-          "title": "Irritatie over variabele terugleververgoeding bij vaste energiecontracten",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/95xxt8ea5hdt_sqr256.jpg/irritatie-over-variabele-terugleververgoeding-bij-vaste-energiecontracten.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/95xxt8ea5hdt_sqr256.jpg/irritatie-over-variabele-terugleververgoeding-bij-vaste-energiecontracten.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6272305/",
-          "author": "Tom van Gurp",
-          "description": "Onduidelijkheid over fiscale maatregelen leidt ertoe dat er dit jaar minder elektrische auto's worden verkocht.. Vooral particulieren zijn voorzichtiger, ook op de tweedehandsmarkt.",
-          "link": "https://www.nu.nl/economie/6272305/elektrische-auto-minder-in-trek-door-onduidelijkheid-over-nieuwe-regels.html",
-          "publishedOn": "2023-07-14T07:09:44.000Z",
-          "wordCount": 999,
-          "title": "Elektrische auto minder in trek door onduidelijkheid over nieuwe regels",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/gdtxvzqaem8t_sqr256.jpg/elektrische-auto-minder-in-trek-door-onduidelijkheid-over-nieuwe-regels.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/gdtxvzqaem8t_sqr256.jpg/elektrische-auto-minder-in-trek-door-onduidelijkheid-over-nieuwe-regels.jpg"
         }
       ]
     },
@@ -7759,6 +7729,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/news/what-role-xrp-ripples-products/",
+          "author": "Rakesh Sharma",
+          "description": "XRP's role in Ripple's ecosystem is confusing, causing many to quickly lose interest in its utility and invest elsewhere. Here's an explainer of its role.",
+          "link": "https://www.investopedia.com/news/what-role-xrp-ripples-products/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-12T19:26:03.000Z",
+          "wordCount": 6461,
+          "title": "Ripple Ecosystem: What Is The Role Of XRP?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/IYB-SpFmkQ4Q2A1NHLGp9XnN5z4=/680x440/shutterstock_783958297-5bfc312646e0fb0051bee073.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/IYB-SpFmkQ4Q2A1NHLGp9XnN5z4=/680x440/shutterstock_783958297-5bfc312646e0fb0051bee073.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/a/abstract-of-title.asp",
+          "author": "James Chen",
+          "description": "Abstract of Title is the summarized historical legal record of a piece of property.",
+          "link": "https://www.investopedia.com/terms/a/abstract-of-title.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-12T19:22:05.000Z",
+          "wordCount": 5547,
+          "title": "Abstract of Title: Defining This Crucial Real Estate Document",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/6W_Z1ieTvooysGWAvWXnGor4LB4=/680x440/investing8-5bfc2b8d46e0fb005144dbe3.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/6W_Z1ieTvooysGWAvWXnGor4LB4=/680x440/investing8-5bfc2b8d46e0fb005144dbe3.jpg"
+        },
         {
           "id": "https://www.investopedia.com/as-is-home-sales-5213925",
           "author": "Andrew Martins",
@@ -28751,6 +28751,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "nikola-recalls-most-of-its-battery-electric-trucks-after-fire-probe-234b5b86?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Nikola is recalling about 209 of its battery-powered commercial trucks after an outside investigation indicated a defective battery part likely caused a fire in one of the trucks.",
+          "link": "https://www.wsj.com/articles/nikola-recalls-most-of-its-battery-electric-trucks-after-fire-probe-234b5b86?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-08-12T19:56:00.000Z",
+          "wordCount": 8232,
+          "title": "Nikola Recalls Most of Its Battery-Electric Trucks After Fire Probe",
+          "imageUrl": "https://images.wsj.net/im-834747/social"
+        },
         {
           "id": "lina-khan-the-most-feared-person-in-silicon-valley-is-a-34-year-old-in-dc-160417898.html",
           "author": null,
@@ -53830,16 +53840,6 @@
           "wordCount": 7843,
           "title": "Nokia, Ericsson Stocks Are Tumbling. U.S. Telecom Companies Are Cutting Back.",
           "imageUrl": "https://images.barrons.com/im-300943/social"
-        },
-        {
-          "id": "coinbase-rally-back-xrp-court-074403813.html",
-          "author": null,
-          "description": "The surge in the crypto exchange’s share price was driven largely by investors who saw the decision as a representing a rejection of the SEC’s argument in the lawsuit it filed against Coinbase in June, the report said.",
-          "link": "https://finance.yahoo.com/news/coinbase-rally-back-xrp-court-074403813.html",
-          "publishedOn": "2023-07-14T07:44:03.000Z",
-          "wordCount": 2064,
-          "title": "Coinbase Rally on the Back of XRP Court Ruling Is Overdone: Berenberg",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/QWLxAKONckA_60kYLacQyg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/coindesk_75/f9e85c1d230e4a13705a3733dfdada23"
         }
       ]
     }
