@@ -1668,6 +1668,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6276366/",
+          "author": "onze nieuwsredactie",
+          "description": "Dagattracties in Nederland hebben het een stuk drukker gekregen nu het weer zonnig is. \"Het is zomerdrukte. Eindelijk regent het niet meer en dat merken we wel\", zegt een woordvoerder van de Efteling.",
+          "link": "https://www.nu.nl/economie/6276366/zonnig-weer-zorgt-eindelijk-voor-zomerdrukte-bij-pretparken-en-strandtenten.html",
+          "publishedOn": "2023-08-13T11:39:22.000Z",
+          "wordCount": 905,
+          "title": "Zonnig weer zorgt (eindelijk) voor zomerdrukte bij pretparken en strandtenten",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/8p5x123acmn9_sqr256.jpg/zonnig-weer-zorgt-eindelijk-voor-zomerdrukte-bij-pretparken-en-strandtenten.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/8p5x123acmn9_sqr256.jpg/zonnig-weer-zorgt-eindelijk-voor-zomerdrukte-bij-pretparken-en-strandtenten.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6276357/",
           "author": "onze nieuwsredactie",
           "description": "Particuliere beleggers die geld hebben verloren na de overname van Credit Suisse door bankconcern UBS spannen een rechtszaak aan. Ze proberen de uitkoop aan te vechten bij de rechter, meldt Financial Times zondag.",
@@ -7494,6 +7509,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/5-lesser-known-parent-companies-of-big-luxury-brands-7642490",
+          "author": "Staff Author",
+          "description": "Tapestry, Inc. (TPR) the parent company of brands such as Coach and Kate Spade, has acquired Capri Holdings Limited (CPRI), home to brands Versace, Jimmy Choo, and Michael Kors, in a deal worth about $8.5 billion.﻿﻿ Here are some of the lesser known parent brands of the world's biggest luxury brands.",
+          "link": "https://www.investopedia.com/5-lesser-known-parent-companies-of-big-luxury-brands-7642490?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-13T12:00:00.000Z",
+          "wordCount": 5674,
+          "title": "5 Lesser Known Parent Companies Of Big Luxury Brands",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/n5WKBbgCqx9kKPX68kRXZQLkMV4=/5315x3543/GettyImages-1347405528-0bbe19eeca32473299b955462bc53bd0.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/n5WKBbgCqx9kKPX68kRXZQLkMV4=/5315x3543/GettyImages-1347405528-0bbe19eeca32473299b955462bc53bd0.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/b/blanket-honesty-bond.asp",
           "author": "Mark Jahn",
@@ -28277,6 +28307,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "why-cooling-inflation-may-be-good-news-for-tech-stocks-120320814.html",
+          "author": null,
+          "description": "The relationship between interest rates and inflation has some significant implications for tech companies' valuations.",
+          "link": "https://finance.yahoo.com/news/why-cooling-inflation-may-be-good-news-for-tech-stocks-120320814.html",
+          "publishedOn": "2023-08-13T12:03:20.000Z",
+          "wordCount": 9916,
+          "title": "Why cooling inflation may be good news for tech stocks",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/JONUEpY19xKwfL1NdSZNsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/67f29bf0-eea9-11ed-bdee-dc38aa41c7c0"
+        },
+        {
           "id": "restaurants-and-supermarkets-are-brawling-over-your-dollar-8a764eaa?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Kroger, Giant Eagle and other grocers expand their prepared meals. Meanwhile, Chipotle, Taco Bell and other restaurants aim to defend their turf.",
@@ -28387,6 +28427,16 @@
           "imageUrl": "https://images.wsj.net/im-834747/social"
         },
         {
+          "id": "paul-graham-calls-exact-opposite-193355866.html",
+          "author": null,
+          "description": "A.I. \"is turning out to be the missing piece in a large number of important, almost-completed puzzles,\" said the Y Combinator cofounder.",
+          "link": "https://finance.yahoo.com/news/paul-graham-calls-exact-opposite-193355866.html",
+          "publishedOn": "2023-08-12T19:33:55.000Z",
+          "wordCount": 9339,
+          "title": "Paul Graham calls A.I. ‘the exact opposite of a solution in search of a problem’",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Q7YUH0NZiWDr4Nh8juck3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/f6f639d3c2d27f4d7898fc6735b2e99d"
+        },
+        {
           "id": "elon-musk-chinese-tech-titans-183001204.html",
           "author": null,
           "description": "",
@@ -28395,6 +28445,16 @@
           "wordCount": null,
           "title": "From Elon Musk to Chinese tech titans, everyone wants Nvidia's GPU chips. There might not be enough to go around.",
           "imageUrl": null
+        },
+        {
+          "id": "zero-interest-home-remodeling-loan-1821719?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "Learn the eligibility requirements to get an interest-free loan for home improvement projects from your county's housing agency.",
+          "link": "https://www.investopedia.com/zero-interest-home-remodeling-loan-1821719?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-08-12T17:35:01.000Z",
+          "wordCount": 6687,
+          "title": "How to Get a Zero Interest Home Remodeling Loan",
+          "imageUrl": "https://www.investopedia.com/thmb/fIg1SeshUz9L0F-yJRUqt8Nybk4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/family-using-hammer-on-walls-of-house-being-renovated-551425707-784a9f130eab464dae1ee756031bb37f.jpg"
         },
         {
           "id": "americans-cant-break-thanks-surging-172201469.html",
@@ -28527,6 +28587,26 @@
           "imageUrl": "https://media.zenfs.com/en/smartasset_475/b8efa9edbbbc5bc3ba85e12d97aa9421"
         },
         {
+          "id": "millennials-not-too-rescue-retirement-130039490.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/millennials-not-too-rescue-retirement-130039490.html",
+          "publishedOn": "2023-08-12T13:46:25.000Z",
+          "wordCount": null,
+          "title": "Good News, Millennials: You Can Still Rescue Your Retirement",
+          "imageUrl": null
+        },
+        {
+          "id": "ask-advisor-conflicts-interest-arise-184207113.html",
+          "author": null,
+          "description": "The existence of fiduciary duty does not prevent potential conflicts of interest. Could you explain a little more about this idea? What types of conflicts could arise even with a fiduciary? – Marianne Finding a fiduciary is a great start … Continue reading → The post Ask an Advisor: What Conflicts of Interest Can Arise Even With a Fiduciary? appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/ask-advisor-conflicts-interest-arise-184207113.html",
+          "publishedOn": "2023-08-12T13:45:17.000Z",
+          "wordCount": 9793,
+          "title": "Ask an Advisor: What Conflicts of Interest Can Arise Even With a Fiduciary?",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/d7ccbb1d877ccf9c46f6f10b7e507279"
+        },
+        {
           "id": "ask-advisor-im-43-old-160032038.html",
           "author": null,
           "description": "",
@@ -28545,6 +28625,16 @@
           "wordCount": null,
           "title": "Ask an Advisor: ‘Am I Getting Fleeced?' I'm 66, Contributing $272 Per Month to an IRA and Paying $136 Monthly in Fees. That's 50% of My Contribution",
           "imageUrl": null
+        },
+        {
+          "id": "earnings-beat-of-the-week-wynn-resorts-capitalizes-on-retail-tourism-boom-7629389?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "Casino operator Wynn Resorts (WYNN) capitalized on a surge in tourism and retail spending at its resorts in Las Vegas and Macau that boosted the company's second-quarter earnings.",
+          "link": "https://www.investopedia.com/earnings-beat-of-the-week-wynn-resorts-capitalizes-on-retail-tourism-boom-7629389?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-08-12T12:42:45.000Z",
+          "wordCount": 5697,
+          "title": "Earnings Beat of the Week: Wynn Resorts Capitalizes on Tourism, Spending Boom",
+          "imageUrl": "https://www.investopedia.com/thmb/2E8uSBcE53pFNgPDA9aO4gm0FBs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1233695862-8a35d3a136f4462f9db2f015bd40c8db.jpg"
         },
         {
           "id": "molson-coors-tilray-search-for-next-billion-dollar-idea-in-recent-booze-deals-120231367.html",
@@ -28575,6 +28665,16 @@
           "wordCount": 9976,
           "title": "Here's How Much Americans' 401(k) Balances Have Grown in 2023. Is Yours Keeping Pace?",
           "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        },
+        {
+          "id": "financial-advisor-ai-portfolio-2315ac1e?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Artificial intelligence will transform advising, and will be used for everything from constructing more efficient portfolios to answering client questions.",
+          "link": "https://www.barrons.com/articles/financial-advisor-ai-portfolio-2315ac1e?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-08-12T11:00:00.000Z",
+          "wordCount": 7928,
+          "title": "Your Financial Advisor Will Soon Use AI on Your Portfolio",
+          "imageUrl": "https://images.barrons.com/im-833819/social"
         },
         {
           "id": "chicago-school-economist-warned-years-110000877.html",
@@ -28655,6 +28755,16 @@
           "wordCount": 8991,
           "title": "Shiba Inu Open Interest Tops $100M, Raises Red Flag For Bitcoin",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/bbUQs_eBf3MYwO5itwO.sQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/coindesk_75/426180637fd617c36be5bb090bdf1561"
+        },
+        {
+          "id": "us-stocks-finish-week-mostly-040355039.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/us-stocks-finish-week-mostly-040355039.html",
+          "publishedOn": "2023-08-12T04:03:55.000Z",
+          "wordCount": null,
+          "title": "US stocks finish the week mostly lower as July inflation data comes in mixed",
+          "imageUrl": null
         },
         {
           "id": "chinas-home-buyers-are-waiting-out-the-property-slump-bcbf9239?siteid=yhoof2&yptr=yahoo",
@@ -52745,46 +52855,6 @@
           "wordCount": 2230,
           "title": "FTC Loses Appeal Bid to Block Microsoft-Activision Deal",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/4TuqiAaoq4WvMU1psX._MA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/484fc87e1a5b6e0b910fa300435d48c5"
-        },
-        {
-          "id": "risky-assets-stocks-fire-investors-001032539.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/risky-assets-stocks-fire-investors-001032539.html",
-          "publishedOn": "2023-07-15T00:10:32.000Z",
-          "wordCount": null,
-          "title": "Risky assets like stocks are on fire as investors pile into the market amid tumbling inflation, Bank of America says",
-          "imageUrl": null
-        },
-        {
-          "id": "investors-once-again-chasing-most-000031963.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/investors-once-again-chasing-most-000031963.html",
-          "publishedOn": "2023-07-15T00:00:31.000Z",
-          "wordCount": null,
-          "title": "Investors are once again chasing some of the most speculative names in the stock market",
-          "imageUrl": null
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-had-great-week-what-to-do-now-tesla-earnings-due/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-07-15T00:00:27.000Z",
-          "wordCount": null,
-          "title": "Market Rally Had A Great Week, But Here's What To Do Now; Tesla Earnings Loom",
-          "imageUrl": null
-        },
-        {
-          "id": "exclusive-us-chip-ceos-plan-232601585.html",
-          "author": null,
-          "description": "The chief executives of Intel Corp and Qualcomm Inc are planning to visit Washington next week to discuss China policy, according to two sources familiar with the matter.  The executives plan to hold meetings with U.S. officials to talk about market conditions, export controls and other matters affecting their businesses, one of the sources said.  Intel and Qualcomm declined to comment, and officials at the White House did not immediately return a request for comment.",
-          "link": "https://finance.yahoo.com/news/exclusive-us-chip-ceos-plan-232601585.html",
-          "publishedOn": "2023-07-14T23:26:01.000Z",
-          "wordCount": 2263,
-          "title": "Exclusive-US chip CEOs plan Washington trip to talk China policy - sources",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/8d3f6e8fdd81209cab74819a3a331df4"
         }
       ]
     }
