@@ -7405,6 +7405,21 @@
       "siteUrl": "https://www.investopedia.com",
       "articles": [
         {
+          "id": "https://www.investopedia.com/articles/economics/08/interest-rate-affecting-consumers.asp",
+          "author": "Dr. Tisa Silver Canady",
+          "description": "Traders rejoice when the Fed drops the rate, but is it good news for all? Find out here.",
+          "link": "https://www.investopedia.com/articles/economics/08/interest-rate-affecting-consumers.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-19T13:34:00.000Z",
+          "wordCount": 7316,
+          "title": "Impact of Fed Interest Rate Cuts on Consumers",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/srxOMQTuGinxz1UJUP4pz-uyiuM=/3000x2000/fedres-572f19773df78c038e132299.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/srxOMQTuGinxz1UJUP4pz-uyiuM=/3000x2000/fedres-572f19773df78c038e132299.jpg"
+        },
+        {
           "id": "https://www.investopedia.com/terms/b/bankreconciliation.asp",
           "author": "Julia Kagan",
           "description": "A bank reconciliation statement summarizes banking activity, allowing individuals and companies to compare their own records with the bank’s records.",
@@ -29412,6 +29427,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "more-americans-are-now-401k-millionaires-123138990.html",
+          "author": null,
+          "description": "The number of people with $1 million or more saved in their 401(k) accounts leapt 10% from April to the end of June, according to Fidelity Investments.",
+          "link": "https://finance.yahoo.com/news/more-americans-are-now-401k-millionaires-123138990.html",
+          "publishedOn": "2023-08-19T12:31:38.000Z",
+          "wordCount": 9963,
+          "title": "More Americans are now 401(k) millionaires",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/gKkRe0YtGetZICMjQt0Aaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTQ-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/b2b92fb0-3de5-11ee-bf7f-2ebeb3a692cb"
+        },
+        {
           "id": "social-security-cola-increase-return-110124249.html",
           "author": null,
           "description": "In the past two years, those receiving Social Security have seen large cost-of-living adjustments that can help. Many wonder what's next in 2024?",
@@ -29630,6 +29655,16 @@
           "wordCount": null,
           "title": "These Are The 5 Best EV Stocks To Buy And Watch Now",
           "imageUrl": null
+        },
+        {
+          "id": "cleveland-cliffs-us-steel-acquisition-impact.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "author": null,
+          "description": "Cleveland-Cliffs Inc. rocked the steel and investing worlds on Sunday with its nearly $8 billion offer to acquire United States Steel Corp.",
+          "link": "https://www.bizjournals.com/cleveland/news/2023/08/18/cleveland-cliffs-us-steel-acquisition-impact.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "publishedOn": "2023-08-18T19:53:58.000Z",
+          "wordCount": 3312,
+          "title": "How Cleveland-Cliffs and Cleveland could benefit from a U.S. Steel acquisition",
+          "imageUrl": "https://media.bizj.us/view/img/12233889/img0466*1200xx1200-675-0-58.jpg"
         },
         {
           "id": "protest-broke-55-florida-community-193758949.html",
@@ -54580,16 +54615,6 @@
           "wordCount": 2067,
           "title": "Intuitive Surgical drops on weaker demand for bariatric surgeries; 'buy the dip' says Truist",
           "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
-        },
-        {
-          "id": "david-rubenstein-says-theres-only-012509761.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/david-rubenstein-says-theres-only-012509761.html",
-          "publishedOn": "2023-07-21T01:25:09.000Z",
-          "wordCount": null,
-          "title": "David Rubenstein says there's only one solution to US debt: inflation",
-          "imageUrl": null
         }
       ]
     }
