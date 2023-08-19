@@ -7396,21 +7396,6 @@
             "url": "https://media.nu.nl/m/kqqx168al243_sqr256.jpg/klanten-klagen-steeds-minder-over-bankiers.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/kqqx168al243_sqr256.jpg/klanten-klagen-steeds-minder-over-bankiers.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6273200/",
-          "author": "Ertan Basekin",
-          "description": "De krapte op de arbeidsmarkt leidt tot steeds meer problemen op de werkvloer, blijkt uit een rondgang van NU.nl. Zo zijn er onder meer conflicten over het concurrentiebeding, dat moet voorkomen dat werknemers soortgelijk werk uitvoeren bij een ander bedrijf.",
-          "link": "https://www.nu.nl/economie/6273200/krapte-op-arbeidsmarkt-leidt-tot-meer-conflicten-op-werkvloer.html",
-          "publishedOn": "2023-07-21T03:15:24.000Z",
-          "wordCount": 1180,
-          "title": "Krapte op arbeidsmarkt leidt tot meer conflicten op werkvloer",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/s5jxc2magxaf_sqr256.jpg/krapte-op-arbeidsmarkt-leidt-tot-meer-conflicten-op-werkvloer.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/s5jxc2magxaf_sqr256.jpg/krapte-op-arbeidsmarkt-leidt-tot-meer-conflicten-op-werkvloer.jpg"
         }
       ]
     },
@@ -7419,6 +7404,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/pf/08/renting-vacation-home.asp",
+          "author": "Glenn Curtis",
+          "description": "Read these insightful tips on how to get a picture-perfect summer rental home at a great price. Don’t spoil your fun by leasing the wrong type of accommodations.",
+          "link": "https://www.investopedia.com/articles/pf/08/renting-vacation-home.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-19T15:59:22.000Z",
+          "wordCount": 7125,
+          "title": "Tips for Renting a Vacation House",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/GCqza8dFxYRJlye0feSX_Q55U5c=/680x440/house_vacation-5bfc30f046e0fb00265ce9fe.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/GCqza8dFxYRJlye0feSX_Q55U5c=/680x440/house_vacation-5bfc30f046e0fb00265ce9fe.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/economics/08/interest-rate-affecting-consumers.asp",
           "author": "Dr. Tisa Silver Canady",
@@ -29442,6 +29442,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/top-ai-stock-anet-lead-5-stocks-near-buy-points-in-tough-market/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-08-19T15:02:51.000Z",
+          "wordCount": null,
+          "title": "Top AI Stock ANET Leads 5 Stocks Near Buy Points In Tough Market",
+          "imageUrl": null
+        },
+        {
+          "id": "average-retirement-income-130002358.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/average-retirement-income-130002358.html",
+          "publishedOn": "2023-08-19T14:46:35.000Z",
+          "wordCount": null,
+          "title": "Is Your Retirement Income Higher Than the Average in America?",
+          "imageUrl": null
+        },
+        {
           "id": "ask-advisor-im-over-age-161105558.html",
           "author": null,
           "description": "",
@@ -29640,6 +29660,16 @@
           "wordCount": null,
           "title": "Palo Alto Networks Stock Jumps After Unusual Friday Earnings Release",
           "imageUrl": null
+        },
+        {
+          "id": "hawaii-maui-utility-investment-risk-a55650f?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Utilities are supposed to be a staid investment.",
+          "link": "https://www.wsj.com/finance/investing/hawaii-maui-utility-investment-risk-a55650f?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-08-18T20:21:00.000Z",
+          "wordCount": 8110,
+          "title": "Hawaii Fires Turn a Safe Investment Into a Big Risk",
+          "imageUrl": "https://images.wsj.net/im-836037/social"
         },
         {
           "id": "maker-400-golf-putter-poised-202034860.html",
