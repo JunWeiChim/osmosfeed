@@ -24,6 +24,26 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "a6dcd7d4b5285272944bf9a29a528cda",
+          "author": "Investopedia",
+          "description": "Materials manufacturer DuPont de Nemours Inc. (DD) has agreed to sell its 80.1% controlling stake in Delrin to private equity firm The Jordan Company in a deal valued at $1.8 billion.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8272d7ed11b111388f9c3da6e1773980094cc63c8975a481467a098326973add9e1363cdab27b7e6ea2ef1a59b23ac38a43e00cf3e401a570df3beabd63a0e9f8be5f68d98",
+          "publishedOn": "2023-08-21T16:14:39.627Z",
+          "wordCount": 409,
+          "title": "DuPont Agrees to Sell $1.8 Billion Resins Unit to Jordan Co. It Refocuses",
+          "imageUrl": null
+        },
+        {
+          "id": "40503855489cf7d6b5f361d77b0d3290",
+          "author": "Investopedia",
+          "description": "The U.K.'s Competition and Markets Authority gave the green light for Broadcom's $69 billion purchase of VMware.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8475c8e31ba65334c58f3bb2e7333e865056cc3ec837b7df542653da79907ed0820a7eccf030b6b8e139affd8560b729ee3f038320401a4041aaa5f18a23089e",
+          "publishedOn": "2023-08-21T16:14:39.625Z",
+          "wordCount": 409,
+          "title": "Broadcom's $69 Billion Acquisition of VMware Approved by UK Regulators",
+          "imageUrl": null
+        },
+        {
           "id": "c938ddfef9e60e609b960264a59ac105",
           "author": "Investopedia",
           "description": "A web version of Threads, Meta Platforms' chat-based social media app linked to Instagram, could launch as soon as this week, as executives aim to boost user engagement and signups.",
@@ -1837,6 +1857,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6277414/",
+          "author": "onze nieuwsredactie",
+          "description": "De iconische uitspraken \"It's-a me, Mario\" en \"Mamma mia\" in Super Mario zullen binnenkort wellicht anders klinken. De stem achter Mario, Charles Martinet, houdt er namelijk mee op.",
+          "link": "https://www.nu.nl/tech/6277414/iconische-stem-van-its-a-me-mario-en-mamma-mia-stopt-bij-nintendo.html",
+          "publishedOn": "2023-08-21T15:32:26.000Z",
+          "wordCount": 801,
+          "title": "Iconische stem van It's-a me, Mario en Mamma mia stopt bij Nintendo",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/nsox87iaz2fs_sqr256.jpg/iconische-stem-van-its-a-me-mario-en-mamma-mia-stopt-bij-nintendo.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/nsox87iaz2fs_sqr256.jpg/iconische-stem-van-its-a-me-mario-en-mamma-mia-stopt-bij-nintendo.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6277395/",
           "author": "onze economieredactie",
@@ -7304,6 +7339,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/p/proof-capacity-cryptocurrency.asp",
+          "author": "Adam Hayes",
+          "description": "Proof of Capacity is a consensus mechanism that uses a mining node’s hard drive space to decide the mining rights on the blockchain network.",
+          "link": "https://www.investopedia.com/terms/p/proof-capacity-cryptocurrency.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-21T15:38:05.000Z",
+          "wordCount": 6036,
+          "title": "Proof of Capacity (Cryptocurrency) Overview",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ZxWONvg35nIjITyfE-uMktN6f-w=/680x453/shutterstock373543888vc-5bfc2b2dc9e77c005143e0d5.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ZxWONvg35nIjITyfE-uMktN6f-w=/680x453/shutterstock373543888vc-5bfc2b2dc9e77c005143e0d5.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/dupont-agrees-to-sell-usd1-8-billion-resins-unit-to-jordan-co-7693474",
+          "author": "Kathleen Marshall",
+          "description": "Materials manufacturer DuPont de Nemours Inc. (DD) has agreed to sell its 80.1% controlling stake in Delrin to private equity firm The Jordan Company in a deal valued at $1.8 billion.",
+          "link": "https://www.investopedia.com/dupont-agrees-to-sell-usd1-8-billion-resins-unit-to-jordan-co-7693474?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-21T15:24:40.000Z",
+          "wordCount": 5027,
+          "title": "DuPont Agrees to Sell $1.8 Billion Resins Unit to Jordan Co. It Refocuses",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ZHuJzNpygTTiojlL3K-POBEEDJE=/6000x4000/GettyImages-1248814142-0d3aa19fc423461d94721b62954f6a8d.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ZHuJzNpygTTiojlL3K-POBEEDJE=/6000x4000/GettyImages-1248814142-0d3aa19fc423461d94721b62954f6a8d.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/broadcom-acquisition-of-vmware-approved-by-uk-regulators-7693417",
+          "author": "Staff Author",
+          "description": "The U.K.'s Competition and Markets Authority gave the green light for Broadcom's $69 billion purchase of VMware.",
+          "link": "https://www.investopedia.com/broadcom-acquisition-of-vmware-approved-by-uk-regulators-7693417?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-21T15:19:22.000Z",
+          "wordCount": 5088,
+          "title": "Broadcom&#39;s $69 Billion Acquisition of VMware Approved by UK Regulators",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/mp2hHDLeuwpHbnzL9AcPG1mRk6E=/3000x1908/GettyImages-969249126-95a68079b145468eadb33baf0ab2fea3.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/mp2hHDLeuwpHbnzL9AcPG1mRk6E=/3000x1908/GettyImages-969249126-95a68079b145468eadb33baf0ab2fea3.jpg"
+        },
         {
           "id": "https://www.investopedia.com/marsh-to-acquire-honan-insurance-group-7693394",
           "author": "Kathleen Marshall",
@@ -28967,6 +29047,76 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "stocks-lose-steam-as-august-slump-drags-on-stock-market-news-today-155741738.html",
+          "author": null,
+          "description": "Stocks are looking to bounce back from a brutal August for investors so far.",
+          "link": "https://finance.yahoo.com/news/stocks-lose-steam-as-august-slump-drags-on-stock-market-news-today-155741738.html",
+          "publishedOn": "2023-08-21T15:57:41.000Z",
+          "wordCount": 9562,
+          "title": "Stocks lose steam as August slump drags on: Stock market news today",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/uSJOWXEcBzW5vEwMeMlAbg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/14f4a1d0-2808-11ee-9ffa-5220400018b2"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/nvidia-stock-2023-buy-now/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-08-21T15:48:48.000Z",
+          "wordCount": null,
+          "title": "Nvidia Stock Makes Key Technical Moves Amid 'AI Tidal Wave Of Spending'",
+          "imageUrl": null
+        },
+        {
+          "id": "amazon-shipping-fedex-ups-stocks-6ee81334?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shares of FedEx and Amazon are both falling after investors learn that Amazon has restarted a third-partly logistics offering.",
+          "link": "https://www.barrons.com/articles/amazon-shipping-fedex-ups-stocks-6ee81334?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-08-21T15:47:00.000Z",
+          "wordCount": 7849,
+          "title": "FedEx and UPS Stocks Drop. Amazon Shipping Is to Blame.",
+          "imageUrl": "https://images.barrons.com/im-839237/social"
+        },
+        {
+          "id": "china-cuts-key-interest-rate-063200766.html",
+          "author": null,
+          "description": "Germany’s “lacklustre” economy will likely stagnate again in the third quarter, the Bundesbank has said, as weak demand from abroad and high interest rates take their toll on Europe’s industrial powerhouse.",
+          "link": "https://finance.yahoo.com/news/china-cuts-key-interest-rate-063200766.html",
+          "publishedOn": "2023-08-21T15:22:43.000Z",
+          "wordCount": 13138,
+          "title": "US borrowing costs highest since 2007 amid interest rate fears - latest updates",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/vNcAofr7aIZmAeLLxkj0wA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/dc8a6c35bcf2ad955cacd613fe6b7904"
+        },
+        {
+          "id": "treasury-10-real-yield-tops-140545478.html",
+          "author": null,
+          "description": "(Bloomberg) -- The yield on 10-year inflation-protected Treasuries exceeded 2% for the first time since 2009, extending its ascent from year-to-date lows near 1%.Most Read from BloombergBorrowers With $39 Billion in Student Loans Finally See ReliefBond Bulls at JPMorgan, Allianz Keep Piling Into a Bet Gone BadPutin Turns to Ruble and Ballot to Shore Up Shaken AuthorityCargill Tests 123-Foot-Tall Sails in Effort to Slash Fuel BurnThe benchmark rose as much as 6 basis points to 2%, before easing a",
+          "link": "https://finance.yahoo.com/news/treasury-10-real-yield-tops-140545478.html",
+          "publishedOn": "2023-08-21T15:20:46.000Z",
+          "wordCount": 9230,
+          "title": "Treasury Yields Hit Highest Since 2007 on Elevated Rate Fears",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/065a7c6873183d3a47380c1657c6914f"
+        },
+        {
+          "id": "moderna-rises-ahead-of-fall-covid-19-booster-campaign-6gew6Kia95kSSrJuILvi?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "It has been a tough year for the stock prices of Covid-19 vaccine makers, but today is a different story.\nModerna shares are up 7% Monday, after a Biden administration official urged Americans to get booster shots for the disease this fall. Moderna [said in a release last week](https://investors.mo",
+          "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-21-2023/card/moderna-rises-ahead-of-fall-covid-19-booster-campaign-6gew6Kia95kSSrJuILvi?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-08-21T15:10:00.000Z",
+          "wordCount": 6485,
+          "title": "Moderna Stock Rises Ahead of Fall Covid-19 Booster Campaign",
+          "imageUrl": "https://images.wsj.net/im-785590/social"
+        },
+        {
+          "id": "worried-optimistic-david-einhorn-makes-145626884.html",
+          "author": null,
+          "description": "Coming off last year’s merciless bear market year, billionaire value investor David Einhorn managed to buck the trend and steer his hedge fund Greenlight Capital to its best performance in a decade. Now, Einhorn finds himself a bit worried about what might come next. “If we were ‘bearish’ until March and ‘neutral’ through June, we would now characterize ourselves as ‘worried,’” he recently said. “Should long-term interest rates rise, either due to the strong economy or due to supply/demand issue",
+          "link": "https://finance.yahoo.com/news/worried-optimistic-david-einhorn-makes-145626884.html",
+          "publishedOn": "2023-08-21T14:56:26.000Z",
+          "wordCount": 10186,
+          "title": "‘Worried but Optimistic’: David Einhorn Makes a Move on These 2 Buy-Rated Stocks",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/bb61c2672d36520a924bc6bbd530fb8d"
+        },
+        {
           "id": "stocks-open-higher-after-three-week-slump-stock-market-news-today-133331891.html",
           "author": null,
           "description": "Stocks are looking to bounce back from a brutal August for investors so far.",
@@ -29015,6 +29165,26 @@
           "wordCount": 7958,
           "title": "Nvidia’s Earnings Have Wall Street Excited. Why That’s a Risk.",
           "imageUrl": "https://images.barrons.com/im-614824/social"
+        },
+        {
+          "id": "cano-health-mark-kent-named-permanent-ceo.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "author": null,
+          "description": "The company has been in a dispute with a group of former board members.",
+          "link": "https://www.bizjournals.com/southflorida/news/2023/08/21/cano-health-mark-kent-named-permanent-ceo.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "publishedOn": "2023-08-21T14:15:37.000Z",
+          "wordCount": 3038,
+          "title": "Cano Health names permanent CEO, founder leaves board",
+          "imageUrl": "https://media.bizj.us/view/img/12580453/mark-kent*1200xx1724-970-0-126.png"
+        },
+        {
+          "id": "fedex-pilots-are-worried-about-their-jobs-7ff2fcba?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "A decline in parcel volume and a combination of the Express and Ground units leaves the company with an excess of 700 pilots.",
+          "link": "https://www.wsj.com/business/airlines/fedex-pilots-are-worried-about-their-jobs-7ff2fcba?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-08-21T14:00:00.000Z",
+          "wordCount": 7587,
+          "title": "FedEx Pilots Are Worried About Their Jobs",
+          "imageUrl": "https://images.wsj.net/im-836201/social"
         },
         {
           "id": "apple-stock-is-having-an-awful-august-now-in-correction-135850402.html",
@@ -54475,26 +54645,6 @@
           "wordCount": 6877,
           "title": "Roth IRA Fund Options from Charles Schwab",
           "imageUrl": "https://www.investopedia.com/thmb/El0algpEKniltlB-2qtavNCVWcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Charles_Schwab-c13a84ef61db44a0a4ae4b67b2a67497.jpg"
-        },
-        {
-          "id": "russia-defies-sanctions-by-selling-oil-above-price-cap-bae1c271?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Higher prices could bolster Moscow’s oil-export revenues, which last month dropped to just over half their level from a year ago.",
-          "link": "https://www.wsj.com/articles/russia-defies-sanctions-by-selling-oil-above-price-cap-bae1c271?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-07-23T04:03:00.000Z",
-          "wordCount": 7909,
-          "title": "Russia Defies Sanctions by Selling Oil Above Price Cap",
-          "imageUrl": "https://images.wsj.net/im-821601/social"
-        },
-        {
-          "id": "how-u-s-drug-companies-could-tip-europe-into-recession-aa6f34cf?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Swings in Ireland’s pharmaceutical industry, often rooted in tax moves by U.S.-based firms, have outsize impact on European output.",
-          "link": "https://www.wsj.com/articles/how-u-s-drug-companies-could-tip-europe-into-recession-aa6f34cf?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-07-23T04:00:00.000Z",
-          "wordCount": 7294,
-          "title": "How U.S. Drug Companies Could Tip Europe Into Recession",
-          "imageUrl": "https://images.wsj.net/im-821927/social"
         }
       ]
     }
