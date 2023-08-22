@@ -1908,6 +1908,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6277487/",
+          "author": "Tom van Gurp",
+          "description": "Nederlandse particulieren pakten vorig kwartaal gemiddeld 3,2 procent rendement op hun beleggingen. Dan gaat het om investeringen in aandelen, obligaties en beleggingsfondsen.",
+          "link": "https://www.nu.nl/economie/6277487/particuliere-belegger-deed-goede-zaken-in-tweede-kwartaal.html",
+          "publishedOn": "2023-08-22T08:59:33.000Z",
+          "wordCount": 922,
+          "title": "Particuliere belegger deed goede zaken in tweede kwartaal",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/33qxikza3ezp_sqr256.jpg/particuliere-belegger-deed-goede-zaken-in-tweede-kwartaal.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/33qxikza3ezp_sqr256.jpg/particuliere-belegger-deed-goede-zaken-in-tweede-kwartaal.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6277463/",
           "author": "Noémi van de Pol",
           "description": "De Verenigde Staten hebben 27 Chinese bedrijven en organisaties van de 'zwarte lijst' gehaald. Bedrijven op die lijst hebben beperkte toegang tot Amerikaanse technologie.",
@@ -29223,66 +29238,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/asQm9AIAjJ7e5Olz8Cc6YTXpQuw=/2131x1406/ripple-dd0a8c0a803947669d334e45ef809d46.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/c/carriage-and-insurance-paid-cip.asp",
-          "author": "Will Kenton",
-          "description": "“Carriage and insurance paid to” is when a seller pays freight and insurance to deliver goods to a seller-appointed party at an agreed-upon location.",
-          "link": "https://www.investopedia.com/terms/c/carriage-and-insurance-paid-cip.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-07-23T21:00:12.000Z",
-          "wordCount": 6210,
-          "title": "Carriage and Insurance Paid to (CIP): Definition and Example",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/SQA_eQr3UE5VeA39uo3ISsxFka4=/1500x1000/TermDef_CIP_3-2-9c1f2d3f4f2b49a59530b865352d4b9f.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/SQA_eQr3UE5VeA39uo3ISsxFka4=/1500x1000/TermDef_CIP_3-2-9c1f2d3f4f2b49a59530b865352d4b9f.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/basics/03/030703.asp",
-          "author": "The Investopedia Team",
-          "description": "We go over different types of shares and what investors need to know about them so they can make better investing decisions.",
-          "link": "https://www.investopedia.com/articles/basics/03/030703.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-07-23T20:43:29.000Z",
-          "wordCount": 5640,
-          "title": "The Basics of Outstanding Shares and the Float",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/yYLUOTTX4MunNJnrsdqdY_FE0dU=/2920x1947/GettyImages-90166058-13b92a0185ed450daf421373896966e4.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/yYLUOTTX4MunNJnrsdqdY_FE0dU=/2920x1947/GettyImages-90166058-13b92a0185ed450daf421373896966e4.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/y/yearly-probability-of-dying.asp",
-          "author": "Julia Kagan",
-          "description": "Yearly probability of dying is a statistical estimate of the likelihood of a person dying within a year, based on age and sometimes other factors.",
-          "link": "https://www.investopedia.com/terms/y/yearly-probability-of-dying.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-07-23T20:42:19.000Z",
-          "wordCount": 7070,
-          "title": "What Are the Chances of Dying Each Year? How to Determine",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/QVfVnXCK1rs7xFLQpc6uoJO-rko=/1500x1000/yearly-probability-of-dying-final-f7e408ddd9344ab5b5341c095029bf07.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/QVfVnXCK1rs7xFLQpc6uoJO-rko=/1500x1000/yearly-probability-of-dying-final-f7e408ddd9344ab5b5341c095029bf07.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/041615/whats-difference-between-confidence-level-and-confidence-interval-value-risk-var.asp",
-          "author": "The Investopedia Team",
-          "description": "Learn about the value at risk, how confidence intervals and confidence levels are used to interpret the value at risk and the difference between the two.",
-          "link": "https://www.investopedia.com/ask/answers/041615/whats-difference-between-confidence-level-and-confidence-interval-value-risk-var.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-07-23T20:38:17.000Z",
-          "wordCount": 5754,
-          "title": "What's the difference between a confidence level and a confidence interval in Value at Risk (VaR)?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/J1UL8zIRzK2X5Hh35LArbvhEFZI=/2121x1414/GettyImages-1207442932-d27ac17a0450491b8248a1cfa4e2bb78.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/J1UL8zIRzK2X5Hh35LArbvhEFZI=/2121x1414/GettyImages-1207442932-d27ac17a0450491b8248a1cfa4e2bb78.jpg"
         }
       ]
     },
@@ -29291,6 +29246,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "sudden-rally-china-stocks-traders-073408617.html",
+          "author": null,
+          "description": "(Bloomberg) -- Chinese stocks staged a sudden rally late on Tuesday, with several traders attributing the rebound to technical reasons in the absence of any fresh triggers.Most Read from BloombergMusk Told Pentagon He Spoke to Putin Directly, New Yorker SaysBorrowers With $39 Billion in Student Loans Finally See ReliefQuant Trader Doubles Fortune to $11 Billion as XTX Profit SurgesS&P Joins Moody’s in Cutting US Banks Amid ‘Tough’ ClimateIn Hong Kong, the Hang Seng Index climbed nearly 2% within",
+          "link": "https://finance.yahoo.com/news/sudden-rally-china-stocks-traders-073408617.html",
+          "publishedOn": "2023-08-22T08:17:27.000Z",
+          "wordCount": 9399,
+          "title": "Sudden Rally in China Stocks Has Traders Scratching Their Heads",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/2df9c1bca9f2444eb869c3310d393b01"
+        },
         {
           "id": "china-ramps-fight-yuan-bears-021358563.html",
           "author": null,
@@ -30160,6 +30125,16 @@
           "wordCount": 10445,
           "title": "‘We are burned out’: UAW ready to take on automakers in contract negotiations",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ayigRLzwslauryukTtbGhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the_guardian_765/1e7ff6cd38da260ed45c0ce9b395c2c8"
+        },
+        {
+          "id": "money-market-funds-hit-record-110003496.html",
+          "author": null,
+          "description": "The Fed's interest rate hikes have driven money market fund yields to their highest level in decades with balances at a record high as investors look to beat inflation.",
+          "link": "https://finance.yahoo.com/news/money-market-funds-hit-record-110003496.html",
+          "publishedOn": "2023-08-21T11:00:03.000Z",
+          "wordCount": 9496,
+          "title": "Money market funds hit record as investors jump at 5% returns",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/opxRrRRhOmy9ktZRrUNyjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_business_text_367/624047b721a2960eded9552f0b09e883"
         },
         {
           "id": "europes-gas-guzzling-days-are-fading-166b98bb?siteid=yhoof2&yptr=yahoo",
@@ -54950,36 +54925,6 @@
           "wordCount": 2095,
           "title": "Strike at trucking firm Yellow averted after deal",
           "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
-        },
-        {
-          "id": "craftsman-factory-texas-shows-challenges-210218198.html",
-          "author": null,
-          "description": "Craftsman's effort to create a highly-automated factory for tool production in Fort Worth, Texas, came to an end earlier this year when the facility was shutdown.",
-          "link": "https://finance.yahoo.com/news/craftsman-factory-texas-shows-challenges-210218198.html",
-          "publishedOn": "2023-07-23T21:02:18.000Z",
-          "wordCount": 2558,
-          "title": "Craftsman factory in Texas shows challenges of reshoring manufacturing",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/MVaPzMAKeoelEpfDpkGKOw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/fox_business_text_367/3f18cdb0f13325479e9d7821898847e5"
-        },
-        {
-          "id": "chevron-posts-6-billion-quarterly-203119310.html",
-          "author": null,
-          "description": "(Bloomberg) -- Chevron Corp. reported second-quarter earnings of $6.01 billion, beating analyst estimates.Most Read from BloombergThe Bear Market Has Nearly Been Erased, Fewer Than 20 Months After It BeganPutin Warns Poland Over ‘Aggression’ Against Ally BelarusUS Recession Becomes Closer Call as Economists Rethink ForecastsWhy South Africa Is on the Brink of ChaosOil Trader Vitol Doubled Average Pay on Record $15.1 Billion ProfitThe figures, while down 48% from the same period last year, topped",
-          "link": "https://finance.yahoo.com/news/chevron-posts-6-billion-quarterly-203119310.html",
-          "publishedOn": "2023-07-23T20:31:19.000Z",
-          "wordCount": 1993,
-          "title": "Chevron Posts $6 Billion Quarterly Earnings, Beating Estimates",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/736AGTvZkYAeFqMjSDs1uQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_markets_842/cdf326d60735d62d578f1602a6bb90e5"
-        },
-        {
-          "id": "chevron-appoints-eimear-bonner-finance-202643927.html",
-          "author": null,
-          "description": "U.S. oil major Chevron Corp on Sunday said Pierre Breber, vice president and chief financial officer, will retire from Chevron in 2024 and named current chief technical officer Eimear Bonner as his successor from March 1, 2024. Chevron's independent directors waived the company's mandatory retirement age of 65 for its chairman and chief executive officer, Mike Wirth, who will turn 63 later this year, the company said.",
-          "link": "https://finance.yahoo.com/news/chevron-appoints-eimear-bonner-finance-202643927.html",
-          "publishedOn": "2023-07-23T20:26:43.000Z",
-          "wordCount": 1846,
-          "title": "Chevron CEO to stay past retirement age, finance chief to depart in 2024",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/cebdfa71d05f648466dc5166c28aca2a"
         }
       ]
     }
