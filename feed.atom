@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-26T18:13:03.438Z</updated>
+    <updated>2023-08-26T19:08:17.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NU+ | Wat gaan wij merken van de Europese wet voor grote techbedrijven?]]></title>
+        <id>https://www.nu.nl/-/6278039/</id>
+        <link href="https://www.nu.nl/tech/6278039/wat-gaan-wij-merken-van-de-europese-wet-voor-grote-techbedrijven.html"/>
+        <updated>2023-08-26T18:41:52.000Z</updated>
+        <summary type="html"><![CDATA[Apple, Google, Facebook moederbedrijf Meta, X (voorheen Twitter) en andere grote techbedrijven vallen vanaf nu onder een nieuwe Europese wet. Deze zogenoemde Digital Services Act (DSA) moet ervoor zorgen dat inwoners van de EU online beter zijn beschermd.]]></summary>
+        <author>
+            <name>Tim Wijkman-van Aalst</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NU+ | Europese techwet is deze week ingegaan, dit moet je weten]]></title>
         <id>https://www.nu.nl/-/6278039/</id>
@@ -154,6 +164,15 @@
         <summary type="html"><![CDATA[When two parties engage in a loan transaction, minimum-interest rules can mandate that an interest rate that's not too low be charged, even in family deals.]]></summary>
         <author>
             <name>Julia Kagan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Much Money Will a $2 Million Annuity Get Me?]]></title>
+        <id>2-million-annuity-pays-much-130014993.html</id>
+        <link href="https://finance.yahoo.com/news/2-million-annuity-pays-much-130014993.html"/>
+        <updated>2023-08-26T13:13:16.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
         </author>
     </entry>
     <entry>
@@ -44333,16 +44352,6 @@ Dow Jones Industrial Average futures were up 117 points, or 0.3%, early on Frida
         <summary type="html"><![CDATA[De Franse economie is in het tweede kwartaal onverwacht hard gegroeid. Het bruto binnenlands product (bbp) groeide met 0,5 procent. Dit kwam vooral doordat de export steeg en bedrijven meer produceerden.]]></summary>
         <author>
             <name>onze economieredactie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reasons to Fall in Love With Municipal Bonds Right Now. How to Invest.]]></title>
-        <id>municipal-bonds-yields-invest-cc13aa06?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/articles/municipal-bonds-yields-invest-cc13aa06?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2023-07-28T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Investors in a high tax bracket can lock in an effective after-tax yield of 5% to 7% in very safe securities.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
         </author>
     </entry>
 </feed>
