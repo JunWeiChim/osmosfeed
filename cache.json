@@ -1918,6 +1918,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6278095/",
+          "author": "José Boon",
+          "description": "De schatkist van de overheid had eind 2022 een tekort van 'nog maar' 1,4 miljard euro. Door economische groei en het einde van coronasteunmaatregelen klimt de overheid uit een financieel dal.",
+          "link": "https://www.nu.nl/economie/6278095/tekort-in-schatkist-van-overheid-neemt-af-naar-14-miljard-euro.html",
+          "publishedOn": "2023-08-27T22:00:47.000Z",
+          "wordCount": 1229,
+          "title": "Tekort in schatkist van overheid neemt af naar 1,4 miljard euro",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/3bixdt2a38dg_sqr256.jpg/tekort-in-schatkist-van-overheid-neemt-af-naar-14-miljard-euro.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/3bixdt2a38dg_sqr256.jpg/tekort-in-schatkist-van-overheid-neemt-af-naar-14-miljard-euro.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6278340/",
           "author": "onze nieuwsredactie",
           "description": "Het Chinese vastgoedconcern Evergrande zegt in de eerste helft van het jaar een hogere omzet en een kleiner verlies te hebben geboekt. Het bedrijf kwam bijna twee jaar geleden in de problemen en staat centraal in de voortslepende crisis in de Chinese vastgoedsector.",
@@ -7301,21 +7316,6 @@
             "url": "https://media.nu.nl/m/gj1xcxnaz6nq_sqr256.jpg/adidas-verkoopt-opnieuw-een-deel-van-overtollige-yeezy-voorraad.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/gj1xcxnaz6nq_sqr256.jpg/adidas-verkoopt-opnieuw-een-deel-van-overtollige-yeezy-voorraad.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6274392/",
-          "author": "onze nieuwsredactie",
-          "description": "De Europese Unie heeft de financiële hulp aan Niger stopgezet vanwege de militaire staatsgreep in het land. Een generaal wierp zich vrijdag op als de nieuwe leider van het land.",
-          "link": "https://www.nu.nl/economie/6274392/eu-zet-hulp-aan-niger-stop-na-coup-en-erkent-generaal-niet-als-leider-van-land.html",
-          "publishedOn": "2023-07-29T10:00:56.000Z",
-          "wordCount": 1326,
-          "title": "EU zet hulp aan Niger stop na coup en erkent generaal niet als leider van land",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/xadxkhrab1y3_sqr256.jpg/eu-zet-hulp-aan-niger-stop-na-coup-en-erkent-generaal-niet-als-leider-van-land.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/xadxkhrab1y3_sqr256.jpg/eu-zet-hulp-aan-niger-stop-na-coup-en-erkent-generaal-niet-als-leider-van-land.jpg"
         }
       ]
     },
@@ -7324,6 +7324,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/tech/what-determines-value-1-bitcoin/",
+          "author": "Andrew Bloomenthal",
+          "description": "Several factors determine what gives a bitcoin its value, including supply and demand, forks, competition, and regulations.",
+          "link": "https://www.investopedia.com/tech/what-determines-value-1-bitcoin/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-27T21:56:16.000Z",
+          "wordCount": 7516,
+          "title": "What Determines Bitcoin&#39;s Price?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/6bzy9RMVuRYpA4d4CDrPKah4bWQ=/1248x369/BitcoinPriceGuide-a52a8d4fa0f945ffabf7f59b94cceae7.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/6bzy9RMVuRYpA4d4CDrPKah4bWQ=/1248x369/BitcoinPriceGuide-a52a8d4fa0f945ffabf7f59b94cceae7.png"
+        },
+        {
+          "id": "https://www.investopedia.com/financial-edge/0709/6-sources-of-free-cash-for-student-loans.aspx",
+          "author": "Reyna Gobel",
+          "description": "Websites and credit cards can offer you direct and indirect sources of free money to pay off your student loan.",
+          "link": "https://www.investopedia.com/financial-edge/0709/6-sources-of-free-cash-for-student-loans.aspx?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-27T21:51:56.000Z",
+          "wordCount": 7926,
+          "title": "5 Sources of Free Cash for Student Loans",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/p0AZ4GUWGTfNRxsaem6ckhmyWy8=/3680x2457/GettyImages-686657555-22f98dc272dd45dba22e325aafb1b3e5.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/p0AZ4GUWGTfNRxsaem6ckhmyWy8=/3680x2457/GettyImages-686657555-22f98dc272dd45dba22e325aafb1b3e5.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/c/cryptocurrency.asp",
           "author": "Jake Frankenfield",
@@ -29087,6 +29117,36 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "3m-nears-settlement-for-about-5-5-billion-to-resolve-earplugs-complaints-94e9f31e?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Negotiations are ongoing to settle the largest mass tort in U.S. history with more than 300,000 claims.",
+          "link": "https://www.wsj.com/business/3m-nears-settlement-for-about-5-5-billion-to-resolve-earplugs-complaints-94e9f31e?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-08-27T21:22:00.000Z",
+          "wordCount": 8124,
+          "title": "3M Nears Settlement for About $5.5 Billion to Resolve Earplugs Complaints",
+          "imageUrl": "https://images.wsj.net/im-842875/social"
+        },
+        {
+          "id": "china-worsening-economic-slowdown-rippling-210000323.html",
+          "author": null,
+          "description": "(Bloomberg) -- China’s economy was meant to drive a third of global economic growth this year, so its dramatic slowdown in recent months is sounding alarm bells across the world. Most Read from BloombergMarkets Brace for Swings After High-Rates Mantra of Jackson HoleThree US Marines Killed After Osprey Crash in AustraliaChina Cuts Stock Trade Tax, Tightens IPOs to Boost MarketTrump Doesn’t Look So Invincible in Post-Debate PollsPowell Has Bond Traders Right Where He Wants Them: Full of DoubtPoli",
+          "link": "https://finance.yahoo.com/news/china-worsening-economic-slowdown-rippling-210000323.html",
+          "publishedOn": "2023-08-27T21:00:00.000Z",
+          "wordCount": 10349,
+          "title": "China’s Worsening Economic Slowdown Is Rippling Across the Globe",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/526f68e48015d244f0536cfca4f8a88d"
+        },
+        {
+          "id": "jackson-hole-post-inflation-challenges-200707281.html",
+          "author": null,
+          "description": "(Bloomberg) -- The world’s top central bankers stressed the need to keep interest rates high until inflation is contained — and wrestled with deeper economic shifts that will make their jobs harder.Most Read from BloombergThree US Marines Killed After Osprey Crash in AustraliaMarkets Brace for Swings After High-Rates Mantra of Jackson HoleChina Cuts Stock Trade Tax, Tightens IPOs to Boost MarketPowell Has Bond Traders Right Where He Wants Them: Full of DoubtTrump Doesn’t Look So Invincible in Po",
+          "link": "https://finance.yahoo.com/news/jackson-hole-post-inflation-challenges-200707281.html",
+          "publishedOn": "2023-08-27T20:07:07.000Z",
+          "wordCount": 10061,
+          "title": "At Jackson Hole, Post-Inflation Challenges Vex Central Bankers",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/3yNnB2Il7oFTAYosAbPcMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_markets_842/c1ec491ed3d8db1fa4baa0d609462520"
+        },
+        {
           "id": "targetdate-funds-vs-sp-500-indexing.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
           "author": null,
           "description": "Target-date funds may seem like an obvious choice but they have some drawbacks compared to S&P 500 Index funds.",
@@ -29095,6 +29155,16 @@
           "wordCount": 6977,
           "title": "Target-Date Funds vs. S&P 500 Indexing: What's the Difference?",
           "imageUrl": "https://www.investopedia.com/thmb/hxoYqvPBxPTUVrdGXjRt_sjPPL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/shutterstock_223550878-5bfc3b3fc9e77c00519eccaa.jpg"
+        },
+        {
+          "id": "pizza-hut-uk-auditors-fire-154444809.html",
+          "author": null,
+          "description": "Pizza Hut UK’s auditors have fired a warning shot over the company’s future amid concerns over its mounting debt pile.",
+          "link": "https://finance.yahoo.com/news/pizza-hut-uk-auditors-fire-154444809.html",
+          "publishedOn": "2023-08-27T15:44:44.000Z",
+          "wordCount": 9175,
+          "title": "Pizza Hut UK’s auditors fire warning shot over restaurant chain’s future",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/O7yGm.SW8yywGBnzd5W7cA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/4eed64f061ef69bc25c6258e567abbe4"
         },
         {
           "id": "inflation-and-jobs-data-on-tap-as-feds-path-remains-in-focus-what-to-know-this-week-143051949.html",
@@ -53655,16 +53725,6 @@
           "wordCount": 5940,
           "title": "Twitter Is Now 'X': How Other Rebrands Have Succeeded",
           "imageUrl": "https://www.investopedia.com/thmb/9pOjO9YPuhTk19FsH2rwKfsnOWY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1499013229-3ed9a39142c84dfabd41e5a3aab950f1.jpg"
-        },
-        {
-          "id": "elon-musks-latest-mission-rev-up-the-electricity-industry-1583a184?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "“My biggest concern is that there’s insufficient urgency,” the billionaire tells energy executives.",
-          "link": "https://www.wsj.com/articles/elon-musks-latest-mission-rev-up-the-electricity-industry-1583a184?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-07-29T09:30:00.000Z",
-          "wordCount": 7797,
-          "title": "Elon Musk’s Latest Mission: Rev Up the Electricity Industry",
-          "imageUrl": "https://images.wsj.net/im-824503/social"
         }
       ]
     }
