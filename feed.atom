@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-27T08:13:06.130Z</updated>
+    <updated>2023-08-27T09:10:07.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Winsten van Chinese industrie blijven dalen, groeidoelstelling mogelijk niet gehaald]]></title>
+        <id>https://www.nu.nl/-/6278294/</id>
+        <link href="https://www.nu.nl/economie/6278294/winsten-van-chinese-industrie-blijven-dalen-groeidoelstelling-mogelijk-niet-gehaald.html"/>
+        <updated>2023-08-27T08:57:48.000Z</updated>
+        <summary type="html"><![CDATA[De winsten van Chinese industriebedrijven zijn in juli verder gedaald, een nieuw signaal dat de op één na grootste economie ter wereld in het slop is geraakt. Onlangs greep de centrale bank van het land in om de groei aan te jagen door rentes te verlagen]]></summary>
+        <author>
+            <name>onze economieredactie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[India zet wereldwijde rijstmarkt verder onder druk met flinke heffing]]></title>
         <id>https://www.nu.nl/-/6278283/</id>
@@ -540,6 +550,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Remote workers are treating their jobs like gig-work, and it’s turning them into the most disconnected employees]]></title>
+        <id>remote-workers-treating-jobs-gig-120000650.html</id>
+        <link href="https://finance.yahoo.com/news/remote-workers-treating-jobs-gig-120000650.html"/>
+        <updated>2023-08-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Remote workers are feeling disconnected. But that’s not enough to make them want to come back to the office]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NU+ | België 'dwingt' banken rente te verhogen: waarom doet Nederland dat niet?]]></title>
         <id>https://www.nu.nl/-/6278053/</id>
         <link href="https://www.nu.nl/economie/6278053/belgie-dwingt-banken-rente-te-verhogen-waarom-doet-nederland-dat-niet.html"/>
@@ -557,6 +577,16 @@
         <summary type="html"><![CDATA[The struggling 10-year U.S. Treasury Note, the world's benchmark bond, has never declined in value for three straight years—but it could this year.]]></summary>
         <author>
             <name>Lyle Niedens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consumers Are Spending Like It’s 2019]]></title>
+        <id>consumers-are-spending-like-its-2019-dff7b8bc?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.wsj.com/business/retail/consumers-are-spending-like-its-2019-dff7b8bc?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2023-08-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Shoppers have shifted their spending habits in a postpandemic world, leaving retailers in the lurch.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
         </author>
     </entry>
     <entry>
@@ -663,6 +693,16 @@
         <id>us-stocks-close-higher-traders-040716608.html</id>
         <link href="https://finance.yahoo.com/news/us-stocks-close-higher-traders-040716608.html"/>
         <updated>2023-08-26T04:07:16.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Despite What Powell Says, the Fed Is Likely Done]]></title>
+        <id>despite-what-powell-says-the-fed-is-likely-done-72e4f142?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.wsj.com/finance/despite-what-powell-says-the-fed-is-likely-done-72e4f142?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2023-08-26T04:01:00.000Z</updated>
+        <summary type="html"><![CDATA[The Federal Reserve chief left the central bank’s options open, in part to prevent investors from asking the next question: When will the Fed cut?]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -808,6 +848,15 @@
         <link href="https://finance.yahoo.com/news/cathie-wood-snaps-shares-zoom-220631586.html"/>
         <updated>2023-08-25T22:06:31.000Z</updated>
         <summary type="html"><![CDATA[In a show of confidence for video-conferencing giant Zoom Video Communications Inc., prominent investor Cathie Wood expanded her stake in the company. The move came as a response to Zoom’s stock decline following the release of its latest earnings. Don’t Miss: Online brokerages make ungodly amounts by selling your data. What trading platform doesn't sell your data to market makers? This one. Discover Johnny Depp's hidden talent that earned him $3.6 million in just a few hours and learn how you c]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top economist Steve Hanke says stocks look expensive – and a recession is 'right around the corner']]></title>
+        <id>top-economist-steve-hanke-says-180756644.html</id>
+        <link href="https://finance.yahoo.com/news/top-economist-steve-hanke-says-180756644.html"/>
+        <updated>2023-08-25T22:06:12.000Z</updated>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -43565,143 +43614,6 @@ Many in the so-called latchkey kid generation, who may have muddled through a ch
         <summary type="html"><![CDATA[The Dow Jones recovered from yesterday’s selloff to gain 0.5% as investors hoped that slowing inflation would end Fed rate hikes.]]></summary>
         <author>
             <name>Terry Lane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dow Jones Futures: Market Rally Powers Higher; Apple, Tesla Lead 10 Stocks To Watch]]></title>
-        <id>?src=A00220&amp;yptr=yahoo</id>
-        <link href="https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-powers-higher-apple-tesla-lead-10-stocks-to-watch/?src=A00220&amp;yptr=yahoo"/>
-        <updated>2023-07-28T21:09:55.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Container shipping giant CMA CGM still earning over billion a quarter]]></title>
-        <id>container-shipping-giant-cma-cgm-210935112.html</id>
-        <link href="https://finance.yahoo.com/news/container-shipping-giant-cma-cgm-210935112.html"/>
-        <updated>2023-07-28T21:09:35.000Z</updated>
-        <summary type="html"><![CDATA[Because container liner profits plummeted off an extraordinarily high peak, some carriers are still posting hefty profits despite huge declines. The post Container shipping giant CMA CGM still earning over billion a quarter appeared first on FreightWaves.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gas Tycoon’s Aspen Ranch Hits Bankruptcy as Lender Feud Rages]]></title>
-        <id>gas-tycoon-aspen-ranch-hits-210416769.html</id>
-        <link href="https://finance.yahoo.com/news/gas-tycoon-aspen-ranch-hits-210416769.html"/>
-        <updated>2023-07-28T21:04:16.000Z</updated>
-        <summary type="html"><![CDATA[(Bloomberg) -- Natural gas tycoon Charif Souki has put his sprawling Colorado ranch into bankruptcy in order to repay lenders he alleges undermined earlier attempts to retire his personal debt and tanked the value of Tellurian Inc.Most Read from BloombergLargest US Grid Declares Emergency Alert For July 27The Pizza That’s Taking Over the USClear Led a Flyer Carrying Ammo Under a False Name to TSA, Sparking ProbeChina’s Push to Expand BRICS Membership FaltersSubway Offers Free Sandwiches That Com]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Small-Cap Stocks Have Struggled. Here Are 6 Whose Time Has Come.]]></title>
-        <id>small-cap-stocks-that-can-rally-1e5876fb?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/articles/small-cap-stocks-that-can-rally-1e5876fb?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2023-07-28T21:01:00.000Z</updated>
-        <summary type="html"><![CDATA[A pair of money managers offer some of their favorite small-cap stocks, from snack foods to bearings to airplane leasing. They’re relatively cheap and poised to outperform many of the large-caps.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Bloomberg Terminal: Step By Step]]></title>
-        <id>https://www.investopedia.com/articles/active-trading/121114/bloomberg-terminal-step-step.asp</id>
-        <link href="https://www.investopedia.com/articles/active-trading/121114/bloomberg-terminal-step-step.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-07-28T20:52:51.000Z</updated>
-        <summary type="html"><![CDATA[Bloomberg is synonymous with investment information. Its media outlet and software/hardware are used by most, if not all, professional money managers.]]></summary>
-        <author>
-            <name>Kristina Zucchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top CDs Today: Another High-Rate Option]]></title>
-        <id>https://www.investopedia.com/top-cds-today-new-high-rate-options-7567183</id>
-        <link href="https://www.investopedia.com/top-cds-today-new-high-rate-options-7567183?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-07-28T20:47:04.000Z</updated>
-        <summary type="html"><![CDATA[See what today's best CD rates are in every term and how they compare to the previous day's top rates. We track daily CD rates from more than 200 banks and credit unions.]]></summary>
-        <author>
-            <name>Staff Author</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top CDs Today: Another High-Rate Option]]></title>
-        <id>top-cds-today-new-high-rate-options-7567183?utm_campaign=quote-yahoo&amp;utm_source=yahoo&amp;utm_medium=referral&amp;yptr=yahoo</id>
-        <link href="https://www.investopedia.com/top-cds-today-new-high-rate-options-7567183?utm_campaign=quote-yahoo&amp;utm_source=yahoo&amp;utm_medium=referral&amp;yptr=yahoo"/>
-        <updated>2023-07-28T20:47:04.000Z</updated>
-        <summary type="html"><![CDATA[See what today's best CD rates are in every term and how they compare to the previous day's top rates. We track daily CD rates from more than 200 banks and credit unions.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The World's 10 Biggest Oil Exporters]]></title>
-        <id>https://www.investopedia.com/articles/company-insights/082316/worlds-top-10-oil-exporters.asp</id>
-        <link href="https://www.investopedia.com/articles/company-insights/082316/worlds-top-10-oil-exporters.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-07-28T20:45:28.000Z</updated>
-        <summary type="html"><![CDATA[Discover the size of the global oil export market and its contribution to global GDP. Learn more about the biggest oil exporters in the world today.]]></summary>
-        <author>
-            <name>Alexandra Twin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S&P 500 Gains and Losses Today: Stocks Jump as Inflation Cools]]></title>
-        <id>https://www.investopedia.com/sandp500-gains-and-losses-today-072823-7567228</id>
-        <link href="https://www.investopedia.com/sandp500-gains-and-losses-today-072823-7567228?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-07-28T20:45:24.000Z</updated>
-        <summary type="html"><![CDATA[U.S. equities rallied on Friday, July 28, 2023 after a report showing inflation cooled in June, and the S&P 500 rose 1%.]]></summary>
-        <author>
-            <name>Staff Author</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five China Stocks Move Into Buy Zones]]></title>
-        <id>?src=A00220&amp;yptr=yahoo</id>
-        <link href="https://www.investors.com/news/top-china-stocks-to-buy-now/?src=A00220&amp;yptr=yahoo"/>
-        <updated>2023-07-28T20:37:33.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why We Got Out Of ANET Stock Before It Got Worse]]></title>
-        <id>?src=A00220&amp;yptr=yahoo</id>
-        <link href="https://www.investors.com/research/swing-trading/why-we-got-out-of-anet-stock-before-it-got-worse/?src=A00220&amp;yptr=yahoo"/>
-        <updated>2023-07-28T20:35:27.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biogen Buys Reata Pharmaceuticals, Expanding Its Lineup of Rare Disease Drugs]]></title>
-        <id>https://www.investopedia.com/biogen-buys-reata-pharmaceuticals-7567176</id>
-        <link href="https://www.investopedia.com/biogen-buys-reata-pharmaceuticals-7567176?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-07-28T20:24:01.000Z</updated>
-        <summary type="html"><![CDATA[Biogen said it was buying Reata Pharmaceuticals for $7.3 billion, expanding its rare disease treatment portfolio.]]></summary>
-        <author>
-            <name>Staff Author</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Apple Headed For A Blue-Sky Run? The iStock Trades In These Bullish Patterns Following Fed Call On Rates]]></title>
-        <id>apple-headed-blue-sky-run-201525061.html</id>
-        <link href="https://finance.yahoo.com/news/apple-headed-blue-sky-run-201525061.html"/>
-        <updated>2023-07-28T20:15:25.000Z</updated>
-        <summary type="html"><![CDATA[Apple, Inc (NASDAQ: AAPL) was rising about 1.6% on Friday, continuing to trek mostly north within a rising channel pattern, which Benzinga called out on July 19. The Cupertino, California-based company’s pattern is bullish, at least for the short-term. Apple is also trading in an inside bar pattern, indicating a period of consolidation, which is usually followed by a continuation move in the direction of the current trend. An inside bar pattern has more validity on larger time frames (four-hour]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NY Community Rises as Longtime Skeptic Turns Bullish on Bank Growth]]></title>
-        <id>ny-community-rises-longtime-skeptic-201459852.html</id>
-        <link href="https://finance.yahoo.com/news/ny-community-rises-longtime-skeptic-201459852.html"/>
-        <updated>2023-07-28T20:14:59.000Z</updated>
-        <summary type="html"><![CDATA[(Bloomberg) -- After more than a decade, New York Community Bancorp has finally won over JPMorgan analysts.Most Read from BloombergThe Pizza That’s Taking Over the USLargest US Grid Declares Emergency Alert For July 27China’s Push to Expand BRICS Membership FaltersClear Led a Flyer Carrying Ammo Under a False Name to TSA, Sparking ProbeSubway Offers Free Sandwiches That Come With a Lifetime CommitmentThis year the regional bank scooped up the failed Signature Bank’s deposits and lured six privat]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
         </author>
     </entry>
 </feed>
