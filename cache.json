@@ -1908,6 +1908,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6278459/",
+          "author": "Noémi van de Pol",
+          "description": "De speelgoedwinkels van Intertoys staan in de verkoop. Moederbedrijf Mirage Retail Group heeft dat besloten omdat het denkt dat dat beter is voor Intertoys, bevestigt topman Michiel Witteveen na berichtgeving van Het Financieele Dagblad (FD).",
+          "link": "https://www.nu.nl/economie/6278459/speelgoedketen-intertoys-wordt-te-koop-gezet.html",
+          "publishedOn": "2023-08-28T13:32:11.000Z",
+          "wordCount": 798,
+          "title": "Speelgoedketen Intertoys wordt te koop gezet",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/5w7xk7babp2i_sqr256.jpg/speelgoedketen-intertoys-wordt-te-koop-gezet.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/5w7xk7babp2i_sqr256.jpg/speelgoedketen-intertoys-wordt-te-koop-gezet.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6278455/",
           "author": "Noémi van de Pol",
           "description": "Britse luchtverkeersleiders moeten maandag het aantal vliegtuigen in het luchtruim beperken vanwege een technisch probleem. Luchtvaartmaatschappijen en luchthavens verwachten veel vertragingen en geannuleerde vluchten. Ook het vliegverkeer vanaf Schiphol wordt geraakt.",
@@ -7419,6 +7434,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/active-trading/112213/getting-handle-options-premium.asp",
+          "author": "Daniel Kurt",
+          "description": "The price of an option, otherwise known as the premium, has two basic components: intrinsic value and time value.",
+          "link": "https://www.investopedia.com/articles/active-trading/112213/getting-handle-options-premium.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-28T13:25:24.000Z",
+          "wordCount": 5966,
+          "title": "Understanding the Options Premium",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/_NHoMD8bqyt8fUsEu5gkTMi_8Eg=/1920x1078/chart-1942059_1920-3d68135351f04564b6b7f35c551fa58f.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/_NHoMD8bqyt8fUsEu5gkTMi_8Eg=/1920x1078/chart-1942059_1920-3d68135351f04564b6b7f35c551fa58f.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/xpeng-acquisition-didi-smart-ev-development-business-7853337",
+          "author": "Fatima Attarwala",
+          "description": "Chinese start-up Xpeng eliminated a potential rival and gained tech by acquiring mobility company DiDi's smart EV development arm, leading its shares to soar.",
+          "link": "https://www.investopedia.com/xpeng-acquisition-didi-smart-ev-development-business-7853337?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-28T13:00:41.000Z",
+          "wordCount": 5194,
+          "title": "Xpeng to Acquire Ride-Hailing Company Didi&#39;s Smart EV Development Business",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/zbgriobQx_ZlfZMvAZ61tWPNVR0=/5520x3680/GettyImages-1628188499-870eb0c6c7264edbbc390f5a261586df.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/zbgriobQx_ZlfZMvAZ61tWPNVR0=/5520x3680/GettyImages-1628188499-870eb0c6c7264edbbc390f5a261586df.jpg"
+        },
         {
           "id": "https://www.investopedia.com/hard-landing-china-meaning-for-us-economy-7852837",
           "author": "Kathleen Marshall",
@@ -29143,21 +29188,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/DXLQ0ewsQbQbXSdTnQ7XiM4ybUo=/380x254/78036503-5bfc2b8b4cedfd0026c118ed.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/how-to-buy-safemoon-crypto-7367861",
-          "author": "Staff Author",
-          "description": "Opening a crypto exchange account is an essential step in buying SafeMoon crypto. Learn what you need to open a crypto exchange account and how to do it.",
-          "link": "https://www.investopedia.com/how-to-buy-safemoon-crypto-7367861?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-07-30T01:47:33.000Z",
-          "wordCount": 7914,
-          "title": "How To Buy SafeMoon Crypto",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/JvaTb46PReO-E0ThiOGqQK7ZlR0=/5250x3500/Primary-Image-how-to-buy-safemoon-crypto-7367861-b8430761ded34118be8c234aede2e057.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/JvaTb46PReO-E0ThiOGqQK7ZlR0=/5250x3500/Primary-Image-how-to-buy-safemoon-crypto-7367861-b8430761ded34118be8c234aede2e057.jpg"
         }
       ]
     },
@@ -29166,6 +29196,76 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/3m-stock-lifts-dow-jones-industrials-on-reports-of-5-5-billion-settlement/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-08-28T13:43:28.000Z",
+          "wordCount": null,
+          "title": "3M Lifts Dow Jones Index On Reports Of $5.5 Billion Settlement",
+          "imageUrl": null
+        },
+        {
+          "id": "alibaba-jd-china-hong-kong-stock-price-6dc0fed8?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "China’s Ministry of Finance on Sunday said it would halve stamp duty on securities transactions, to 0.05%, starting Monday.",
+          "link": "https://www.barrons.com/articles/alibaba-jd-china-hong-kong-stock-price-6dc0fed8?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-08-28T13:38:00.000Z",
+          "wordCount": 7961,
+          "title": "Alibaba, JD.com, and Other Chinese Stocks Climb. What Is Behind the Rally.",
+          "imageUrl": "https://images.barrons.com/im-831707/social"
+        },
+        {
+          "id": "stocks-open-higher-as-inflation-jobs-data-looms-stock-market-news-today-133147832.html",
+          "author": null,
+          "description": "Stock futures were higher early Monday as markets continue to digest Powell's key speech from last week.",
+          "link": "https://finance.yahoo.com/news/stocks-open-higher-as-inflation-jobs-data-looms-stock-market-news-today-133147832.html",
+          "publishedOn": "2023-08-28T13:31:47.000Z",
+          "wordCount": 9463,
+          "title": "Stocks open higher as inflation, jobs data looms: Stock market news today",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/28YQSVOpJPDCTuZHyTMTfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/71a15860-459f-11ee-afdb-5408e299dda8"
+        },
+        {
+          "id": "charles-schwab-says-now-time-193757015.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/charles-schwab-says-now-time-193757015.html",
+          "publishedOn": "2023-08-28T13:17:51.000Z",
+          "wordCount": null,
+          "title": "Charles Schwab Says to Add This Asset to Your Retirement Portfolio",
+          "imageUrl": null
+        },
+        {
+          "id": "approaching-retirement-t-rowe-price-131650470.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/approaching-retirement-t-rowe-price-131650470.html",
+          "publishedOn": "2023-08-28T13:14:45.000Z",
+          "wordCount": null,
+          "title": "T. Rowe Price Says You Need This Much Saved For Retirement Based on Your Income",
+          "imageUrl": null
+        },
+        {
+          "id": "fidelitys-45-rule-really-guide-130031874.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/fidelitys-45-rule-really-guide-130031874.html",
+          "publishedOn": "2023-08-28T13:13:27.000Z",
+          "wordCount": null,
+          "title": "Does Fidelity's 45% Rule Still Hold Up?",
+          "imageUrl": null
+        },
+        {
+          "id": "fisker-stock-price-ev-deliveries-9b17c482?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The electric-vehicle company announced it has opened up new European distribution markets in Belgium, the Netherlands, and Switzerland.",
+          "link": "https://www.barrons.com/articles/fisker-stock-price-ev-deliveries-9b17c482?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-08-28T13:08:00.000Z",
+          "wordCount": 7940,
+          "title": "Fisker Stock Rises. The EV Start-Up Is Expanding Deliveries to 3 New Countries.",
+          "imageUrl": "https://images.barrons.com/im-797679/social"
+        },
         {
           "id": "xpeng-hong-kong-stock-price-didi-evs-ca20a71d?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -29185,6 +29285,16 @@
           "wordCount": null,
           "title": "Dow Jones Futures Rise With Jobs, Inflation Data On Deck; Tesla Rival Xpeng Surges On Didi Deal",
           "imageUrl": null
+        },
+        {
+          "id": "ksl-buys-hersha-hospitality-1-125255968.html",
+          "author": null,
+          "description": "Smaller owners of hotels are finding it tough to compete against giant players like Host. The Hersha takeover may not be the last opportunistic move by private equity we see in the lifestyle hotel segment.",
+          "link": "https://finance.yahoo.com/news/ksl-buys-hersha-hospitality-1-125255968.html",
+          "publishedOn": "2023-08-28T12:52:55.000Z",
+          "wordCount": 9336,
+          "title": "KSL Buys Hersha Hospitality for $1.4 Billion in Private Equity Bet on Lifestyle Hotels",
+          "imageUrl": "https://media.zenfs.com/en/skift_501/a8c400f4c5c6831f68623898e10c43c8"
         },
         {
           "id": "nvidia-stock-price-buybacks-cc77c241?siteid=yhoof2&yptr=yahoo",
@@ -29475,6 +29585,16 @@
           "wordCount": 8069,
           "title": "These Stocks Are Moving the Most Today: 3M, Jabil, XPeng, Alibaba, Nvidia, and More",
           "imageUrl": "https://images.barrons.com/im-788940/social"
+        },
+        {
+          "id": "indias-reliance-appoints-ambani-children-085459715.html",
+          "author": null,
+          "description": "BENGALURU (Reuters) -India's Reliance Industries Ltd on Monday appointed the three children of Chairman Mukesh Ambani as board directors at the oil-to-telecoms conglomerate, as the billionaire prepares to eventually hand over the reins.  Ambani, Asia's richest person, has previously said his children Isha, Akash and Anant would have significant roles in the business and that Reliance was \"in the process of effecting a momentous leadership transition\".  Mukesh Ambani was re-appointed as chairman of the company for another five years in July.",
+          "link": "https://finance.yahoo.com/news/indias-reliance-appoints-ambani-children-085459715.html",
+          "publishedOn": "2023-08-28T08:54:59.000Z",
+          "wordCount": 9702,
+          "title": "India's Reliance appoints Ambani children to board in succession plan",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/c06994372af7a7fa9df4a2024f514965"
         },
         {
           "id": "china-stocks-alibaba-jd-com-stamp-duty-6dc0fed8?siteid=yhoof2&yptr=yahoo",
