@@ -1151,6 +1151,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "849c13e06d68e5242b7bf7bd1d0fcbe5",
+          "author": "Investopedia",
+          "description": "U.S. equities rose, with the S&P 500 closing 0.4% higher on Wednesday, Aug. 30, 2023 after jobs and GDP data raised expectations the Fed may pull back on rate hikes.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca952ac6ec1be84c74ddde68eee0333e8a571297248d75a286502a4ddc63817ed5930321cce878b8fae133afef8a3de828e83e0ecf63165e0055afa6",
+          "publishedOn": "2023-08-30T23:11:10.571Z",
+          "wordCount": 409,
+          "title": "S&P 500 Gains and Losses Today: Index Rises a 4th-Straight Day After Jobs, GDP Data",
+          "imageUrl": null
+        },
+        {
           "id": "ea434efc57043cbb3fa6ef015cff6ae9",
           "author": "Investopedia",
           "description": "Electric vehicle (EV) sales in Europe surged more than 50% from a year ago in July, driven by rising demand, greater availability of parts, and easing supply chain constraints.",
@@ -7636,21 +7646,6 @@
             "url": "https://media.nu.nl/m/7snxwvvajws7_sqr256.jpg/nieuwe-autos-rijden-in-file-showroom-uit-kia-picanto-in-juli-het-populairst.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/7snxwvvajws7_sqr256.jpg/nieuwe-autos-rijden-in-file-showroom-uit-kia-picanto-in-juli-het-populairst.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6274763/",
-          "author": "onze techredactie",
-          "description": "De FBI heeft naar eigen zeggen onbewust commerciële spionagesoftware ingezet om mensen te volgen. Daar kwam de dienst achter nadat The New York Times eerder dit jaar bewijs vond dat de Amerikaanse regering zich daar schuldig aan heeft gemaakt.",
-          "link": "https://www.nu.nl/tech/6274763/fbi-gebruikte-zonder-het-zelf-te-weten-verboden-israelische-spionagesoftware.html",
-          "publishedOn": "2023-08-01T10:13:07.000Z",
-          "wordCount": 933,
-          "title": "FBI gebruikte zonder het zelf te weten verboden Israëlische spionagesoftware",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/aapxbn5aquvt_sqr256.jpg/fbi-gebruikte-zonder-het-zelf-te-weten-verboden-israelische-spionagesoftware.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/aapxbn5aquvt_sqr256.jpg/fbi-gebruikte-zonder-het-zelf-te-weten-verboden-israelische-spionagesoftware.jpg"
         }
       ]
     },
@@ -7659,6 +7654,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/mortgage-rates-drop-to-two-week-low-7963508",
+          "author": "Staff Author",
+          "description": "Rates on 30-year mortgages dropped for a second day, sinking to their lowest average in more than two weeks and well below the 22-year peak they registered last week.",
+          "link": "https://www.investopedia.com/mortgage-rates-drop-to-two-week-low-7963508?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-30T22:20:02.000Z",
+          "wordCount": 6039,
+          "title": "Mortgage Rates Drop to Two-Week Low",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/vMGazXidCGo2ldlVZB7lNtmRcNU=/1240x1040/90dPNG-02402c45dbae4e20bef7bb1c05ddb94e.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/vMGazXidCGo2ldlVZB7lNtmRcNU=/1240x1040/90dPNG-02402c45dbae4e20bef7bb1c05ddb94e.png"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/y/yearly-renewable-term-yrt.asp",
+          "author": "Julia Kagan",
+          "description": "A yearly renewable term is a one-year term life insurance policy that can be continued year after year for a more expensive premium. Here's how these policies work.",
+          "link": "https://www.investopedia.com/terms/y/yearly-renewable-term-yrt.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-30T21:57:27.000Z",
+          "wordCount": 6204,
+          "title": "Yearly Renewable Term (YRT): What it is, How it Works",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/BfL2Df7Mu8Fx29p0xVDISCvIMvU=/2121x1414/GettyImages-1176591592-215adf2e23c4422f8f97fb132585cbe2.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/BfL2Df7Mu8Fx29p0xVDISCvIMvU=/2121x1414/GettyImages-1176591592-215adf2e23c4422f8f97fb132585cbe2.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/fema-has-usd3-4-billion-to-respond-to-disasters-will-it-be-enough-7963930",
+          "author": "Staff Author",
+          "description": "The Federal Emergency Management Agency has just $3.4 billion in the fund it uses to respond to disasters and help victims—an amount that can quickly be depleted by hurricanes and other catastrophes.",
+          "link": "https://www.investopedia.com/fema-has-usd3-4-billion-to-respond-to-disasters-will-it-be-enough-7963930?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-08-30T21:55:27.000Z",
+          "wordCount": 5923,
+          "title": "FEMA Has $3.4 Billion To Respond To Disasters. Will It Be Enough?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/F_Ve6WktBnhRje2IG4m2EZx8w3Q=/5000x3333/GettyImages-1634761399-4e8b5c9aa3454fbeba2a8a22455db7df.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/F_Ve6WktBnhRje2IG4m2EZx8w3Q=/5000x3333/GettyImages-1634761399-4e8b5c9aa3454fbeba2a8a22455db7df.jpg"
+        },
         {
           "id": "https://www.investopedia.com/investor-homebuying-has-dropped-45-in-deadlocked-housing-market-7963938",
           "author": "Staff Author",
@@ -30186,6 +30226,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "top-cds-today-leading-rate-rises-to-6-00-7963862?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "Today's best CD rates include a new record of 6.00% from American 1 Credit Union. Runners-up include 5.85% from One America Bank and 5.80% from Finworth.",
+          "link": "https://www.investopedia.com/top-cds-today-leading-rate-rises-to-6-00-7963862?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-08-30T21:24:57.000Z",
+          "wordCount": 6137,
+          "title": "Top CDs Today: Leading Rate Rises to 6.00%",
+          "imageUrl": "https://www.investopedia.com/thmb/qceIh2DsLPIC6zwYBOLJqPrB3nM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6CDDW-1c4e0b1751ed49b0b9926e7f5e94a536.png"
+        },
+        {
+          "id": "p-500-off-month-long-212147311.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/p-500-off-month-long-212147311.html",
+          "publishedOn": "2023-08-30T21:21:47.000Z",
+          "wordCount": null,
+          "title": "The S&P 500 is about to take off in a month-long rally that will retest its 2023 high, Fundstrat says",
+          "imageUrl": null
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
@@ -55025,36 +55085,6 @@
           "wordCount": 7478,
           "title": "Caterpillar’s Sales Surge as Construction Booms",
           "imageUrl": "https://images.wsj.net/im-826351/social"
-        },
-        {
-          "id": "pfizer-misses-quarterly-revenue-estimates-105022380.html",
-          "author": null,
-          "description": "Pfizer Inc on Tuesday fell short of Wall Street estimates for quarterly revenue, hit by declining sales of its COVID-19 products. Total revenue for the second quarter at $12.73 billion missing analysts' estimates of $13.27 billion, according to Refinitiv data.",
-          "link": "https://finance.yahoo.com/news/pfizer-misses-quarterly-revenue-estimates-105022380.html",
-          "publishedOn": "2023-08-01T10:50:22.000Z",
-          "wordCount": 9024,
-          "title": "Pfizer mulls cost cuts on volatile COVID products demand",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/fc015bd2948494389b6f328f7e651ee3"
-        },
-        {
-          "id": "enterprise-reports-lower-q2-earnings-104907119.html",
-          "author": null,
-          "description": "U.S. energy infrastructure group Enterprise Products Partners LP reported lower earnings for the second quarter due to a major year-on-year drop in the price of natural gas liquids, which affected margins, the company said on Tuesday.  Adjusted earnings before interest, taxes, depreciation and amortization (EBITDA) for the second quarter of 2023 were $2.17 billion, versus $2.36 billion a year before.  Lower revenues on the company's EFS Midstream System, as well as lower volumes on its propylene and octane enhancement business, also affected earnings, it said.",
-          "link": "https://finance.yahoo.com/news/enterprise-reports-lower-q2-earnings-104907119.html",
-          "publishedOn": "2023-08-01T10:49:07.000Z",
-          "wordCount": 9212,
-          "title": "Enterprise reports lower Q2 earnings as margins tighten",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/a7f87fe16092dca9b574c2a2dce5dfe2"
-        },
-        {
-          "id": "nio-li-auto-xpeng-tesla-stock-eeb6a5a4?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Chinese electric-vehicle makers Li Auto, XPeng, and NIO deliver a combined 65,604 vehicles in July. That's a record and up more than 100% from last year.",
-          "link": "https://www.barrons.com/articles/nio-li-auto-xpeng-tesla-stock-eeb6a5a4?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-08-01T10:34:00.000Z",
-          "wordCount": 7929,
-          "title": "Huge Delivery Numbers From, NIO, Li, and XPeng Are Good for Tesla Stock",
-          "imageUrl": "https://images.barrons.com/im-826531/social"
         }
       ]
     }
