@@ -1141,6 +1141,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "ea4b7ff4973dd6a814cfe68c58a0ebf7",
+          "author": "Investopedia",
+          "description": "Job growth is expected to slow in August to its lowest levels since January 2021 and Dell shares are surging after it delivered better-than-expected earnings on strong demand for PCs and lower component costs. Here’s what investors need to know today.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df4f2a56d06e81209c9d0a69cdab26b7e5f725efea8b3fe87da4785fd067025f0a5aa9a4f989",
+          "publishedOn": "2023-09-01T12:22:20.023Z",
+          "wordCount": 409,
+          "title": "5 Things to Know Before Markets Open",
+          "imageUrl": null
+        },
+        {
           "id": "dc04555a217a610df437ce3c85e84cbc",
           "author": "Investopedia",
           "description": "U.S. equities ended August little changed, with the S&P 500 slipping 0.2% on Aug. 31, 2023, after a report showing a small rise in inflation raised hopes the Fed may back off further rate hikes",
@@ -1979,16 +1989,6 @@
           "wordCount": 409,
           "title": "5 Things to Know Before Markets Open",
           "imageUrl": null
-        },
-        {
-          "id": "f91913cbcb8ed93592c075452d07511c",
-          "author": "Investopedia",
-          "description": "The S&P 500 index finished 1.4% lower on August 2, 2023, after chipmaker AMD issued weaker-than-expected third-quarter guidance, which weighed on the sector.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca952ac6ec1be84c74ddde68eef53b24815712c23e8175bd9d513841c826813cd5930321c2f332ffa7ae72b2badd60f279bf7257d462",
-          "publishedOn": "2023-08-02T23:10:47.084Z",
-          "wordCount": 409,
-          "title": "S&P 500 Gains and Losses Today: Weak Guidance from AMD Weighs on Chip Stocks",
-          "imageUrl": null
         }
       ]
     },
@@ -1997,6 +1997,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6279049/",
+          "author": "José Boon",
+          "description": "De huizenprijzen gaan volgend jaar weer in de lift, voorspellen onderzoekers van ING Research. Daarmee zijn goedkoper wordende huizen verleden tijd en dat komt vooral door de stijgende lonen.",
+          "link": "https://www.nu.nl/economie/6279049/huizenprijzen-zijn-even-stabiel-maar-volgens-experts-komt-daar-snel-een-eind-aan.html",
+          "publishedOn": "2023-09-01T12:01:10.000Z",
+          "wordCount": 1158,
+          "title": "Huizenprijzen zijn even stabiel, maar volgens experts komt daar snel een eind aan",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/rq1xmqsaov8d_sqr256.jpg/huizenprijzen-zijn-even-stabiel-maar-volgens-experts-komt-daar-snel-een-eind-aan.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/rq1xmqsaov8d_sqr256.jpg/huizenprijzen-zijn-even-stabiel-maar-volgens-experts-komt-daar-snel-een-eind-aan.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6279040/",
           "author": "Thijs Rösken",
@@ -7779,6 +7794,66 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/earn-less-than-55k-get-overtime-7964491",
+          "author": "Staff Author",
+          "description": "If you’re a salaried worker with a desk job earning less than $55,068 a year, a new rule would give you a workplace perk that’s nearly unheard of for white collar workers: overtime pay.",
+          "link": "https://www.investopedia.com/earn-less-than-55k-get-overtime-7964491?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-09-01T11:59:23.000Z",
+          "wordCount": 5337,
+          "title": "Earn Less Than $55,068? You May Well Get Overtime",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/qGCYIQ2n4gP4YyoLS1MvtkDGFEg=/7455x5080/05-Latinowoman30sandresr-f1d34f59da8849d880e8c5b46611510b.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/qGCYIQ2n4gP4YyoLS1MvtkDGFEg=/7455x5080/05-Latinowoman30sandresr-f1d34f59da8849d880e8c5b46611510b.jpeg"
+        },
+        {
+          "id": "https://www.investopedia.com/40-years-since-buying-a-house-was-this-unaffordable-7964673",
+          "author": "Staff Author",
+          "description": "To buy a median-priced house today, a typical income-earning household would have to shell out 38.3% of their earnings to make the mortgage, the highest percentage since 1984.",
+          "link": "https://www.investopedia.com/40-years-since-buying-a-house-was-this-unaffordable-7964673?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-09-01T11:52:35.000Z",
+          "wordCount": 5183,
+          "title": "It&#39;s Been Nearly 40 Years Since Buying a House Was This Unaffordable",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/7CX83fkgagkYG5LOvulMDnll1m4=/6000x4000/GettyImages-1475361645-95f7cef087e745ed8da1d1b9d8458874.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/7CX83fkgagkYG5LOvulMDnll1m4=/6000x4000/GettyImages-1475361645-95f7cef087e745ed8da1d1b9d8458874.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/investing/021716/strategies-trading-volatility-options-nflx.asp",
+          "author": "Elvis Picardo",
+          "description": "These strategies are used by traders to capitalize on stocks or securities that exhibit high volatility.",
+          "link": "https://www.investopedia.com/articles/investing/021716/strategies-trading-volatility-options-nflx.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-09-01T11:40:41.000Z",
+          "wordCount": 7886,
+          "title": "5 Strategies for Trading Volatility With Options",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/p98htw1_10Sfr9oHKpXmHkuTJgQ=/2124x1413/What-Is-Volatility-56a093ca3df78cafdaa2db8b.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/p98htw1_10Sfr9oHKpXmHkuTJgQ=/2124x1413/What-Is-Volatility-56a093ca3df78cafdaa2db8b.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/5-things-to-know-before-markets-open-september-1-2023-7964710",
+          "author": "Terry Lane",
+          "description": "Job growth is expected to slow in August to its lowest levels since January 2021 and Dell shares are surging after it delivered better-than-expected earnings on strong demand for PCs and lower component costs. Here’s what investors need to know today.",
+          "link": "https://www.investopedia.com/5-things-to-know-before-markets-open-september-1-2023-7964710?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-09-01T11:20:49.000Z",
+          "wordCount": 5402,
+          "title": "5 Things to Know Before Markets Open",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/KeciBslXSm7bYjxSSSWdV7LES88=/3000x2000/GettyImages-997428252-a8d3e212077f4242a93cf4e5aa8c3024.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/KeciBslXSm7bYjxSSSWdV7LES88=/3000x2000/GettyImages-997428252-a8d3e212077f4242a93cf4e5aa8c3024.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/investing/012715/5-richest-people-world.asp",
           "author": "Dan Moskowitz",
@@ -30277,6 +30352,116 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "walgreens-chief-executive-roz-brewer-steps-down-4fbd1733?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Walgreens Boots Alliance Chief Executive Rosalind Brewer has stepped down less than three years after taking the helm of the pharmacy operator.",
+          "link": "https://www.wsj.com/business/earnings/walgreens-chief-executive-roz-brewer-steps-down-4fbd1733?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-09-01T11:58:00.000Z",
+          "wordCount": 7444,
+          "title": "Walgreens Chief Executive Roz Brewer Steps Down",
+          "imageUrl": "https://images.wsj.net/im-845731/social"
+        },
+        {
+          "id": "ARGUS_3209_AnalystReport_1693567711000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_3209_AnalystReport_1693567711000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-09-01T11:28:31.000Z",
+          "wordCount": null,
+          "title": "Analyst Report: Merck & Co Inc",
+          "imageUrl": null
+        },
+        {
+          "id": "saudi-crude-oil-exports-plummet-111523835.html",
+          "author": null,
+          "description": "(Bloomberg) -- Saudi Arabia’s crude exports fell sharply in August as the kingdom leads an effort by the OPEC+ alliance to curb production and bolster oil prices.Most Read from BloombergEurope's Biggest Oil Company Quietly Shelves a Radical Plan to Shrink Its Carbon FootprintHong Kong Shuts Down City Before Super Typhoon Saola HitsFake Spare Parts Were Supplied to Fix Top-Selling Jet EnginePutin Moves to Seize Control of Wagner’s Mercenary EmpireIndia-China Tensions Threaten to Leave Modi Empty-",
+          "link": "https://finance.yahoo.com/news/saudi-crude-oil-exports-plummet-111523835.html",
+          "publishedOn": "2023-09-01T11:15:23.000Z",
+          "wordCount": 9605,
+          "title": "Saudi Crude Oil Exports Plummet as OPEC Giant Slashes Production",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/90eacc6402ad46511ee5c6044383adfe"
+        },
+        {
+          "id": "ARGUS_37545_MarketSummary_1693566811000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_37545_MarketSummary_1693566811000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-09-01T11:13:31.000Z",
+          "wordCount": null,
+          "title": "Market Digest: BTI, MRK",
+          "imageUrl": null
+        },
+        {
+          "id": "stock-futures-rise-ahead-of-key-august-jobs-report-stock-market-news-today-105355727.html",
+          "author": null,
+          "description": "Stocks gained on Wall Street ahead of the monthly payrolls report, set to be closely scrutinized for clues to whether the Fed will keep raising interest rates.",
+          "link": "https://finance.yahoo.com/news/stock-futures-rise-ahead-of-key-august-jobs-report-stock-market-news-today-105355727.html",
+          "publishedOn": "2023-09-01T10:53:55.000Z",
+          "wordCount": 9492,
+          "title": "Stock futures rise ahead of key August jobs report: Stock market news today",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/OU4E1mMQx0_DtEmHQ3RE6A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/78edda60-48ad-11ee-b7f5-c1372eaa2854"
+        },
+        {
+          "id": "ARGUS_37543_InsiderActivity_1693565254000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_37543_InsiderActivity_1693565254000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-09-01T10:47:34.000Z",
+          "wordCount": null,
+          "title": "Daily – Vickers Top Insider Picks for 09/01/2023",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_37544_TopBottomInsiderActivity_1693565254000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_37544_TopBottomInsiderActivity_1693565254000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-09-01T10:47:34.000Z",
+          "wordCount": null,
+          "title": "Daily – Vickers Top Buyers & Sellers for 09/01/2023",
+          "imageUrl": null
+        },
+        {
+          "id": "palantir-stock-cathie-wood-ai-17f187bb?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Palantir stock had a rough August. It seems AI hype can only take you so far.",
+          "link": "https://www.barrons.com/articles/palantir-stock-cathie-wood-ai-17f187bb?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-09-01T10:38:00.000Z",
+          "wordCount": 6740,
+          "title": "Palantir Stock Had More Than Just a Bad Month. Cathie Wood Buys the Dip.",
+          "imageUrl": "https://images.barrons.com/im-303948/social"
+        },
+        {
+          "id": "treasuries-set-worst-streak-since-103747845.html",
+          "author": null,
+          "description": "Bullish investors poured money into tech stocks for the 10th straight week, the longest streak in two years BofA Global Research said, while U.S. Treasuries are set for their worst yearly performance since the Declaration of Independence.  There were a net $10.3 billion of inflows into equity funds in the week to Wednesday, with investors putting $5.1 billion into tech stocks, the most since May, and $4.9 billion into emerging market stocks, BofA said on Friday, citing data from provider EPFR.  Investors have been buying stocks on increasing hopes that the U.S. economy will achieve a soft landing - slowing enough to bring inflation back to the Federal Reserve's target, but not dramatically.",
+          "link": "https://finance.yahoo.com/news/treasuries-set-worst-streak-since-103747845.html",
+          "publishedOn": "2023-09-01T10:37:47.000Z",
+          "wordCount": 9452,
+          "title": "Treasuries set for worst streak since U.S. independence, as investors bag tech stocks",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/24783215052ec1091c88534c1d000bd0"
+        },
+        {
+          "id": "ask-advisor-im-67-750k-102700928.html",
+          "author": null,
+          "description": "I am in a quandary about how to invest $750,000 that’s in my 401(k). I'm 67 years old, retired and I have not started taking Social Security yet. What is the best way to preserve this money for the rest of my life that doesn't have high fees? -Terry As you know, the big challenge […] The post Ask an Advisor: I’m 67 with $750K in a 401(k). How Can I Preserve This Money for the Rest of My Life? appeared first on SmartReads by SmartAsset.",
+          "link": "https://finance.yahoo.com/news/ask-advisor-im-67-750k-102700928.html",
+          "publishedOn": "2023-09-01T10:27:00.000Z",
+          "wordCount": 10396,
+          "title": "Ask an Advisor: I'm 67 with $750K in a 401(k). How Can I Preserve This Money for the Rest of My Life?",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        },
+        {
+          "id": "the-trade-downs-suggest-consumers-are-under-more-pressure-than-it-seems-100059587.html",
+          "author": null,
+          "description": "The consumer is sending signals of financial stress to investors.",
+          "link": "https://finance.yahoo.com/news/the-trade-downs-suggest-consumers-are-under-more-pressure-than-it-seems-100059587.html",
+          "publishedOn": "2023-09-01T10:00:59.000Z",
+          "wordCount": 9866,
+          "title": "The 'trade downs' suggest consumers are under more pressure than it seems",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/k8_8uC6qk.xh4azIqc_G9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTY-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/e32d9200-4842-11ee-bbd7-b336b915f968"
+        },
+        {
           "id": "nio-li-auto-xpeng-deliveries-tesla-b9e5cec3?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Combined deliveries from Li Auto, NIO, and XPeng total more than 68,000 units in August, a record month, and up from about 25,000 units a year ago.",
@@ -30595,6 +30780,16 @@
           "wordCount": 6739,
           "title": "Apple Ends Historic Winning Streak. The iPhone 15 Can’t Come Soon Enough.",
           "imageUrl": "https://images.barrons.com/im-818785/social"
+        },
+        {
+          "id": "paramount-global-debt-cut-just-202240206.html",
+          "author": null,
+          "description": "(Bloomberg) -- Paramount Global had its senior debt rating cut to one level above junk-bond status by Moody’s Investors Service, which cited the media company’s heavy borrowing and tough conditions for the film and TV industry.Most Read from BloombergHong Kong Shuts Down City Before Super Typhoon Saola HitsFake Spare Parts Were Supplied to Fix Top-Selling Jet EngineEurope's Biggest Oil Company Quietly Shelves a Radical Plan to Shrink Its Carbon FootprintPutin Moves to Seize Control of Wagner’s M",
+          "link": "https://finance.yahoo.com/news/paramount-global-debt-cut-just-202240206.html",
+          "publishedOn": "2023-08-31T20:22:40.000Z",
+          "wordCount": 9488,
+          "title": "Paramount global debt cut to just above junk by Moody’s",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/gDfziHCbgxzmCqzz9_2Osg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/29297aa72de537a3bf71b09117126265"
         },
         {
           "id": "heres-where-stock-market-headed-201848778.html",
@@ -54465,16 +54660,6 @@
           "wordCount": null,
           "title": "Market Rally Breaks Key Levels; Two Cathie Wood Stocks Report Late With Apple, Amazon On Tap",
           "imageUrl": null
-        },
-        {
-          "id": "abrupt-layoffs-center-lawsuit-against-232457675.html",
-          "author": null,
-          "description": "A Yellow employee has filed a class-action lawsuit over the company’s failure to provide advance notices of mass layoffs. The post Abrupt layoffs center of lawsuit against Yellow appeared first on FreightWaves.",
-          "link": "https://finance.yahoo.com/news/abrupt-layoffs-center-lawsuit-against-232457675.html",
-          "publishedOn": "2023-08-02T23:52:57.000Z",
-          "wordCount": 9221,
-          "title": "Abrupt layoffs center of lawsuit against Yellow",
-          "imageUrl": "https://media.zenfs.com/en/freightwaves_373/e147ff8a20d07da8387775b2612aa97b"
         }
       ]
     }
