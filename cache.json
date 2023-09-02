@@ -2009,16 +2009,6 @@
           "wordCount": 409,
           "title": "5 Things to Know Before Markets Open",
           "imageUrl": null
-        },
-        {
-          "id": "3412a830c337a42ad33871f9a5265788",
-          "author": "Investopedia",
-          "description": "The S&P 500 fell 0.3% on Thursday, Aug. 3, 2023 after weaker-than-expected earnings reports from ecommerce, travel, and chip companies weighed on the index.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca952ac6ec1be84c74ddde68eef53b24815712c23e8175bd9d513841c826813cd5930321d0f23ab1fef06de4e98221e82def3e0a9079580d5207f8e1e5cd7f58c79fb3bacac99a93104ac31bc681646c86613d64879f428f8212fa84247bb9d174d19e",
-          "publishedOn": "2023-08-03T23:11:09.830Z",
-          "wordCount": 409,
-          "title": "S&P 500 Gains and Losses Today: Stocks Fall After Weaker-Than-Expected Earnings Reports",
-          "imageUrl": null
         }
       ]
     },
@@ -7554,6 +7544,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/earnings-beat-of-the-week-crowdstrike-7964810",
+          "author": "Staff Author",
+          "description": "Cybersecurity company CrowdStrike (CRWD) posted solid earnings for the fiscal quarter ended July 31, driven by the robust performance of its AI-powered Falcon platform.",
+          "link": "https://www.investopedia.com/earnings-beat-of-the-week-crowdstrike-7964810?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-09-02T12:00:00.000Z",
+          "wordCount": 5187,
+          "title": "Earnings Beat of the Week: CrowdStrike&#39;s AI-Powered Platform Boosts Revenue",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/SfPyJpXVf-JPF6L3eS7VN7Qz1T0=/4000x2662/GettyImages-1252213737-8d3e70d948354a6e8f18a0522e90e9c4.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/SfPyJpXVf-JPF6L3eS7VN7Qz1T0=/4000x2662/GettyImages-1252213737-8d3e70d948354a6e8f18a0522e90e9c4.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ashton-kucher-net-worth-7963872",
+          "author": "Staff Author",
+          "description": "Ashton Kutcher’s venture capital firm, Sound Ventures LLC, is among the investors for open source AI company, Hugging Face. Kutcher has a net worth of $200 million thanks to acting and investing.",
+          "link": "https://www.investopedia.com/ashton-kucher-net-worth-7963872?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-09-02T11:37:00.000Z",
+          "wordCount": 5393,
+          "title": "Ashton Kutcher Is Backing AI Company Hugging Face—Here’s His Net Worth",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/qTKi-nxC0E74H6uM2_BxKfwCIko=/5580x3720/GettyImages-1486930551-5834314ddf2e4c8885b0bd476538291b.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/qTKi-nxC0E74H6uM2_BxKfwCIko=/5580x3720/GettyImages-1486930551-5834314ddf2e4c8885b0bd476538291b.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/beyonce-taylor-swift-barbenheimer-boosted-summer-spending-7964698",
+          "author": "Staff Author",
+          "description": "Spending on Beyoncé’s Renaissance Tour, Taylor Swift’s Eras Tour, and movie tickets for the summer’s hit films Barbie and Oppenheimer is expected to add about $8.5 billion to the economy in Q3 of 2023, according to a report by Morgan Stanley.",
+          "link": "https://www.investopedia.com/beyonce-taylor-swift-barbenheimer-boosted-summer-spending-7964698?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-09-02T11:00:00.000Z",
+          "wordCount": 5547,
+          "title": "Beyoncé, Taylor Swift, Barbenheimer To Add $8.5 Billion to the US Economy in Q3",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/kYCl9YHmprfOkMA3Jb_0G91vrRM=/4973x3315/GettyImages-1527170671-aa09fdc7defb41a0a876108db3605587.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/kYCl9YHmprfOkMA3Jb_0G91vrRM=/4973x3315/GettyImages-1527170671-aa09fdc7defb41a0a876108db3605587.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/c/cblo.asp",
           "author": "Marshall Hargrave",
@@ -30163,21 +30198,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/2cUKf4phFkkkkGqQmswSDq2qBhg=/680x440/shutterstock_253136563-5bfc2b98c9e77c00519aa7a8.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/b/back-to-back-letters-of-credit.asp",
-          "author": "Julia Kagan",
-          "description": "Back-to-back letters of credit consist of two LOCs used in international transactions facilitated by a broker. Learn how they help remove the risk of a payment default.",
-          "link": "https://www.investopedia.com/terms/b/back-to-back-letters-of-credit.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-03T23:37:03.000Z",
-          "wordCount": 6459,
-          "title": "Back-to-Back Letters of Credit: Definition in Banking and Example",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Ro4g2cLajmcZKC7U_7FUSFcT60M=/6580x4371/financial-advisor-and-woman-with-laptop-meeting-in-dining-room-697534409-01baaf6a46f348b6945bf02fe4f2053e.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Ro4g2cLajmcZKC7U_7FUSFcT60M=/6580x4371/financial-advisor-and-woman-with-laptop-meeting-in-dining-room-697534409-01baaf6a46f348b6945bf02fe4f2053e.jpg"
         }
       ]
     },
@@ -30244,6 +30264,16 @@
           "publishedOn": "2023-09-02T00:29:20.000Z",
           "wordCount": null,
           "title": "Dow Jones Futures: How To Handle This Market Rally; 'Magnificent 7' All Near Buy Points",
+          "imageUrl": null
+        },
+        {
+          "id": "chart-day-us-treasurys-track-235707482.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/chart-day-us-treasurys-track-235707482.html",
+          "publishedOn": "2023-09-01T23:57:07.000Z",
+          "wordCount": null,
+          "title": "CHART OF THE DAY: US Treasurys are on track for their longest stretch of losses since 1787",
           "imageUrl": null
         },
         {
@@ -30517,6 +30547,16 @@
           "imageUrl": "https://www.investopedia.com/thmb/bI_F-CUTEzwywfF0Ilohjgm6H38=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV_DefenseStocksQ323_GettyImages-1405614615-aecb3d147bb64296a9e73906388511b5.jpg"
         },
         {
+          "id": "millennium-bets-320-million-against-103724123.html",
+          "author": null,
+          "description": "(Bloomberg) -- Millennium Management has largely unwound a bet against the stock of America Movil SAB, the telecommunications giant controlled by Mexican billionaire Carlos Slim.Most Read from BloombergTesla’s $41,000 Model X Discount Unlocks Subsidies Musk Wanted GoneSaola Departs Hong Kong After Bringing Destructive WindsTesla Refreshes Model 3 and Slashes Prices of Top-End CarsMohamed Al Fayed, Tycoon Who Clashed With Royals, Dies at 94Singapore Votes for President in Test of Ruling Party’s S",
+          "link": "https://finance.yahoo.com/news/millennium-bets-320-million-against-103724123.html",
+          "publishedOn": "2023-09-01T16:58:38.000Z",
+          "wordCount": 9473,
+          "title": "Millennium Bets $320 Million Against Carlos Slim",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/E5opmkVHgNal30ZK72z_5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/d41844e9b28a61b12dd4ae777ca16b07"
+        },
+        {
           "id": "byd-tesla-ev-stock-renault-volkswagen-d79da3d1?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "China's BYD and Tesla are well placed to grow their market share through to 2030. European car manufacturers Volkswagen and Renault are in trouble, according to UBS.",
@@ -30605,6 +30645,16 @@
           "wordCount": 9594,
           "title": "5 Incredibly Costly Retirement Withdrawal Mistakes to Avoid at All Costs",
           "imageUrl": "https://media.zenfs.com/en/smartasset_475/e976cd25bdad741ea546f1ed4992e819"
+        },
+        {
+          "id": "many-bank-accounts-130010518.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/many-bank-accounts-130010518.html",
+          "publishedOn": "2023-09-01T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Should I Actually Have More Bank Accounts Than I Currently Do?",
+          "imageUrl": null
         },
         {
           "id": "8-great-investments-generate-monthly-130000894.html",
@@ -31025,6 +31075,16 @@
           "wordCount": 9284,
           "title": "Samsung Gains 6% on Reports It’s Joining Nvidia AI Suppliers",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/bjoMsGgOohSO2a9.KUJFsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/5999b5069f3c90c28562387e947f957b"
+        },
+        {
+          "id": "dollar-general-dg-q2-earnings-report-2023-5109a5cc?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Dollar General and Dollar Tree say shoppers are shifting spending toward food and essentials.",
+          "link": "https://www.wsj.com/business/earnings/dollar-general-dg-q2-earnings-report-2023-5109a5cc?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-09-01T02:00:00.000Z",
+          "wordCount": 8077,
+          "title": "Dollar Stores Flash Warning Signs on Consumer Spending",
+          "imageUrl": "https://images.wsj.net/im-845130/social"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -54115,26 +54175,6 @@
           "wordCount": 8205,
           "title": "UAW Demands 40% Pay Hike in Labor Talks With Detroit Automakers",
           "imageUrl": "https://images.wsj.net/im-829574/social"
-        },
-        {
-          "id": "insiders-pour-millions-2-dividend-234815898.html",
-          "author": null,
-          "description": "Investors are constantly looking for ways to generate solid returns, after all, that is the whole point of investing. Achieving that goal is easier said than done, however. As with anything, if it were really simple, investors would only have success stories to tell. That said, there are ways to gain an edge in the market, and one common route is to keep track of insiders’ actions. Insiders are the high-level company officers, Board members, CFOs and COOs, up to CEOs, whose positions give them a",
-          "link": "https://finance.yahoo.com/news/insiders-pour-millions-2-dividend-234815898.html",
-          "publishedOn": "2023-08-03T23:48:15.000Z",
-          "wordCount": 10439,
-          "title": "Insiders Pour Millions Into These 2 Dividend Stocks — Here’s Why You Might Want to Ride Their Coattails",
-          "imageUrl": "https://media.zenfs.com/en/tipranks_452/4af96769c5505d4306dc90af43090ea7"
-        },
-        {
-          "id": "apple-sluggish-iphone-sales-overshadow-210600655.html",
-          "author": null,
-          "description": "(Bloomberg) -- Apple Inc. posted its third straight quarter of declining sales and predicted a similar performance in the current period, hurt by an industrywide slump that has sapped demand for phones, computers and tablets.Most Read from BloombergTrump Cites Self Incrimination Concern in Lawsuit Against CohenQQQ Churns in Late Hours on Apple, Amazon Earnings: Markets WrapElon Musk Says Treasury Bills Are ‘No-Brainer’China Official’s Call to Save Xi’s City Angers Flood VictimsThe Strange Story",
-          "link": "https://finance.yahoo.com/news/apple-sluggish-iphone-sales-overshadow-210600655.html",
-          "publishedOn": "2023-08-03T23:37:08.000Z",
-          "wordCount": 10189,
-          "title": "Apple Faces Longest Sales Slowdown in Decades as iPhone Slumps",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/uHwnqUnqzlkoPnoZDx1JIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Njk-/https://media.zenfs.com/en/bloomberg_technology_68/7be517ca684931ef3041f224d71468f0"
         }
       ]
     }
