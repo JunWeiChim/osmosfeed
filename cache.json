@@ -1173,16 +1173,6 @@
           "wordCount": 409,
           "title": "Penn Entertainment Shares Jump After $2 Billion Sportsbook Deal With Disney's ESPN",
           "imageUrl": null
-        },
-        {
-          "id": "e30e00a6a7e1261ef97abec2fcff3cae",
-          "author": "Investopedia",
-          "description": "Shares of Tilray Brands skyrocketed after the maker of marijuana products and craft beer purchased eight beer and beverage brands from Budweiser parent Anheuser-Busch InBev.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca926ecbf01ebc113b9a8f36a7e1772f9a5d4c8e68c83aa3934c2f57966d873cdcdf1b62cbe320a1f0f16de0fd9d2ead61e0240d872202095d08b0e0a0d8655cda9fa5addbded4d04019df4b95ca",
-          "publishedOn": "2023-08-08T22:11:06.592Z",
-          "wordCount": 409,
-          "title": "Cannabis Maker Tilray's Shares Rise After Buying 8 Anheuser-Busch InBev Brands",
-          "imageUrl": null
         }
       ]
     },
@@ -2010,16 +2000,6 @@
           "wordCount": 409,
           "title": "5 Things to Know Before Markets Open",
           "imageUrl": null
-        },
-        {
-          "id": "e9e518dc308d1d37ecbe15604037cb13",
-          "author": "Investopedia",
-          "description": "The S&P 500 dipped 0.4% on Tuesday, Aug. 8, 2023, as bank stocks lost ground after Moody’s downgrades.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca952ac6ec1be84c748f8f31ade1772c814012cf3f962bb4810f3f4bdf6a8c7ed39314678ef521bdf6e833affc9b20a720ec67008c7942075c08e4bebb947356dedcb1b0dbc89cca421bd94f91c23e",
-          "publishedOn": "2023-08-08T22:11:06.588Z",
-          "wordCount": 409,
-          "title": "S&P Gains and Losses Today: Bank Stocks Tumble on Moody's Downgrade",
-          "imageUrl": null
         }
       ]
     },
@@ -2028,6 +2008,51 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6279880/",
+          "author": "Tom van Gurp",
+          "description": "Sommige energieleveranciers bieden nog steeds vaste contracten aan met tarieven boven het prijsplafond. Toezichthouder ACM waarschuwt consumenten dan ook om er rekening mee te houden dat het prijsplafond op 1 januari verdwijnt.",
+          "link": "https://www.nu.nl/economie/6279880/acm-waarschuwt-voor-energietarieven-die-nog-steeds-boven-prijsplafond-liggen.html",
+          "publishedOn": "2023-09-07T10:08:53.000Z",
+          "wordCount": 1035,
+          "title": "ACM waarschuwt voor energietarieven die nog steeds boven prijsplafond liggen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/75gxpppamn6f_sqr256.jpg/acm-waarschuwt-voor-energietarieven-die-nog-steeds-boven-prijsplafond-liggen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/75gxpppamn6f_sqr256.jpg/acm-waarschuwt-voor-energietarieven-die-nog-steeds-boven-prijsplafond-liggen.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6279613/",
+          "author": "Ertan Basekin",
+          "description": "We stappen iets minder snel over naar een nieuwe baan vanwege de economische onzekerheid in ons land. Ook is de groei van het aantal zzp'ers de laatste tijd afgevlakt.",
+          "link": "https://www.nu.nl/economie/6279613/economische-onzekerheid-zorgt-ervoor-dat-we-minder-vaak-switchen-van-baan.html",
+          "publishedOn": "2023-09-07T09:47:55.000Z",
+          "wordCount": 1537,
+          "title": "Economische onzekerheid zorgt ervoor dat we minder vaak switchen van baan",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/oloxxmvahlb2_sqr256.jpg/economische-onzekerheid-zorgt-ervoor-dat-we-minder-vaak-switchen-van-baan.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/oloxxmvahlb2_sqr256.jpg/economische-onzekerheid-zorgt-ervoor-dat-we-minder-vaak-switchen-van-baan.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6279854/",
+          "author": "onze techredactie",
+          "description": "Japan heeft een raket gelanceerd met een telescoop die onderzoek gaat doen naar het ontstaan van het universum. Het Nederlandse ruimte-instituut SRON heeft daaraan meegewerkt. Ook wil Japan een maanlander naar het maanoppervlak brengen.",
+          "link": "https://www.nu.nl/tech/6279854/japan-lanceert-raket-met-nederlandse-telescoop-en-wil-als-vijfde-land-naar-maan.html",
+          "publishedOn": "2023-09-07T09:41:46.000Z",
+          "wordCount": 1104,
+          "title": "Japan lanceert raket met Nederlandse telescoop en wil als vijfde land naar maan",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/kllx6oxae3hh_sqr256.jpg/japan-lanceert-raket-met-nederlandse-telescoop-en-wil-als-vijfde-land-naar-maan.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/kllx6oxae3hh_sqr256.jpg/japan-lanceert-raket-met-nederlandse-telescoop-en-wil-als-vijfde-land-naar-maan.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6279866/",
           "author": "Tom van Gurp",
@@ -7862,21 +7887,6 @@
             "url": "https://media.nu.nl/m/6xux58ha3hec_sqr256.jpg/abn-amro-boekt-meer-winst-dankzij-hogere-rente.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/6xux58ha3hec_sqr256.jpg/abn-amro-boekt-meer-winst-dankzij-hogere-rente.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6275688/",
-          "author": "onze economieredactie",
-          "description": "In de afgelopen twintig jaar zijn steeds meer mensen gaan werken in ons land. Momenteel zijn er meer werkenden dan mensen zonder baan. In het tweede kwartaal waren er 120 mensen met betaald werk op 100 mensen die niet werkten.",
-          "link": "https://www.nu.nl/economie/6275688/steeds-meer-nederlanders-werken-vooral-meer-vrouwen-aan-de-slag.html",
-          "publishedOn": "2023-08-08T22:01:39.000Z",
-          "wordCount": 1232,
-          "title": "Steeds meer Nederlanders werken, vooral meer vrouwen aan de slag",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/algxq0za8fiw_sqr256.jpg/steeds-meer-nederlanders-werken-vooral-meer-vrouwen-aan-de-slag.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/algxq0za8fiw_sqr256.jpg/steeds-meer-nederlanders-werken-vooral-meer-vrouwen-aan-de-slag.jpg"
         }
       ]
     },
@@ -29874,81 +29884,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/rIWv64E1i33blKz79U9P7O9jVdg=/900x900/__opt__aboutcom__coeus__resources__content_migration__brides__public__brides-services__production__2018__08__15__5b74542a01492b4fe2177c6d_2422C495-Raw-and-Rough-Cut-Diamond-Engagement-Rings-Wallis-Reid-Three-Plus-Carat-Diamond-Engagement-Ring-Raw-Diamond-Ring-18K-Gold-Claws-2422C495-1e6f0e9e00b249ceb7bb13cdff7b8f88.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/top-cd-rates-today-new-5-75-leader-unveiled-plus-four-more-top-tier-options-7571537",
-          "author": "Staff Author",
-          "description": "Today's top three nationwide CD rates are 5.75% from Andrews Federal Credit Union, 5.75% from INOVA Federal Credit Union, and 5.65% from Dow Credit Union.",
-          "link": "https://www.investopedia.com/top-cd-rates-today-new-5-75-leader-unveiled-plus-four-more-top-tier-options-7571537?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-08T21:52:52.000Z",
-          "wordCount": 5709,
-          "title": "Top CD Rates Today: New 5.75% Leader Unveiled, Plus Four More Top-Tier Options",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/FHN4d-CS8qeZgc1nHPlUb6M5Sbs=/2959x2000/August8-063b6094a33d4c3bafe29a21db81eb97.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/FHN4d-CS8qeZgc1nHPlUb6M5Sbs=/2959x2000/August8-063b6094a33d4c3bafe29a21db81eb97.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/c/cci.asp",
-          "author": "Akhilesh Ganti",
-          "description": "The Consumer Confidence Index is a survey that measures how optimistic or pessimistic consumers are regarding their expected financial situation.",
-          "link": "https://www.investopedia.com/terms/c/cci.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-08T21:47:54.000Z",
-          "wordCount": 7068,
-          "title": "Consumer Confidence Index (CCI): Definition and What It Indicates",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/RnK0nLv1LG5LnyFYL5_bCkyYmas=/2121x1414/rear-view-of-woman-carrying-shopping-bag-over-shoulder-walking-on-city-street-966373992-3ffae101f59c470db1031508550174af.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/RnK0nLv1LG5LnyFYL5_bCkyYmas=/2121x1414/rear-view-of-woman-carrying-shopping-bag-over-shoulder-walking-on-city-street-966373992-3ffae101f59c470db1031508550174af.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/s-and-p-gains-and-losses-today-bank-stocks-tumble-on-moody-s-downgrade-7571614",
-          "author": "Staff Author",
-          "description": "The S&P 500 dipped 0.4% on Tuesday, Aug. 8, 2023, as bank stocks lost ground after Moody’s downgrades.",
-          "link": "https://www.investopedia.com/s-and-p-gains-and-losses-today-bank-stocks-tumble-on-moody-s-downgrade-7571614?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-08T21:21:33.000Z",
-          "wordCount": 4833,
-          "title": "S&amp;P Gains and Losses Today: Bank Stocks Tumble on Moody&#39;s Downgrade",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/gXcFBNPCxzY4fAxMGK3E9fSQLE0=/1860x2070/k53KU-s-p-500-biggest-gains-and-losses-2023-08-08T164201.424-7a006a0a42fc4b5696816263e8650ece.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/gXcFBNPCxzY4fAxMGK3E9fSQLE0=/1860x2070/k53KU-s-p-500-biggest-gains-and-losses-2023-08-08T164201.424-7a006a0a42fc4b5696816263e8650ece.png"
-        },
-        {
-          "id": "https://www.investopedia.com/401k-contributions-rise-and-so-do-withdrawals-7571464",
-          "author": "Terry Lane",
-          "description": "Bank of America study shows 401(k) balances are almost 10% higher as Generation Z and Millennials increase their contribution rates",
-          "link": "https://www.investopedia.com/401k-contributions-rise-and-so-do-withdrawals-7571464?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-08T21:17:48.000Z",
-          "wordCount": 5283,
-          "title": "Contributions to 401(k) Savings on the Rise; So Are Withdrawals",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Z_ZCJjMHIZ8v-jqD655k8G685ow=/6337x4225/GettyImages-1438209904-91c7585c3e5a4c099bceb303b5f622cc.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Z_ZCJjMHIZ8v-jqD655k8G685ow=/6337x4225/GettyImages-1438209904-91c7585c3e5a4c099bceb303b5f622cc.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/june-wholesale-sector-inventory-and-sales-fall-7571338",
-          "author": "Staff Author",
-          "description": "Wholesale inventories—the stock of goods available for sale by wholesalers and a factor that may influence the country's Gross Domestic Product (GDP)—fell 0.5% to $905.2 billion in June compared to May, but were 1.3% higher over the June last year.",
-          "link": "https://www.investopedia.com/june-wholesale-sector-inventory-and-sales-fall-7571338?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-08T21:15:01.000Z",
-          "wordCount": 5101,
-          "title": "June Wholesale Inventories Fall, But Remain Elevated Over Last Year",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ZLMIjvXgoaFitm7uMl6l5xMPDEQ=/3000x1996/GettyImages-166415144-f23c53e7e33242c68581717b7e121c31.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ZLMIjvXgoaFitm7uMl6l5xMPDEQ=/3000x1996/GettyImages-166415144-f23c53e7e33242c68581717b7e121c31.jpg"
         }
       ]
     },
@@ -29958,6 +29893,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "uipath-stock-earnings-artificial-intelligence-cfde9bcb?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "UiPath's quarterly revenue beats expectations but Wall Street analysts are still concerned about how artificial intelligence will affect the automation market.",
+          "link": "https://www.barrons.com/articles/uipath-stock-earnings-artificial-intelligence-cfde9bcb?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-09-07T09:16:00.000Z",
+          "wordCount": 6752,
+          "title": "UiPath Stock Rises. Revenue Growth Sidelines the AI Debate for Now.",
+          "imageUrl": "https://images.barrons.com/im-275124/social"
+        },
+        {
+          "id": "stock-market-movers-3fac9192?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "C3.ai withdraws its forecast that it would reach profitability on an adjusted basis by the end of fiscal 2024, GameStop reports a narrower-than-expected adjusted second-quarter loss, and UiPath's adjusted earnings beat analysts' estimates.",
+          "link": "https://www.barrons.com/articles/stock-market-movers-3fac9192?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-09-07T08:52:00.000Z",
+          "wordCount": 9507,
+          "title": "These Stocks Are Moving the Most Today: C3.ai, GameStop, UiPath, ChargePoint, Yext, BlackBerry, WestRock, and More",
+          "imageUrl": "https://images.barrons.com/im-788940/social"
+        },
+        {
           "id": "asia-stocks-under-pressure-dollar-223920595.html",
           "author": null,
           "description": "(Bloomberg) -- Shares in Asia were broadly lower Thursday while the dollar strengthened further against major currencies as investors increased bets for further Federal Reserve policy tightening.Most Read from BloombergIndia’s Moment Has Arrived, and Modi Wants a New Global OrderFed Set to Double Its Economic Growth Forecast After Strong US DataStocks Retreat After Hot ISM Fuels Fed-Hike Wagers: Markets WrapSoaring US Dollar Raises Alarm as China, Japan Escalate FX PushbackTexas Teeters on Edge",
@@ -29966,6 +29921,16 @@
           "wordCount": 10066,
           "title": "Stocks Weaken, Dollar Extends Rally on Fed Outlook: Markets Wrap",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/73e1017d5d12d35c1927a98284ba074e"
+        },
+        {
+          "id": "utilities-stock-selling-at-an-absurd-price-5dc8b315?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "In a sector bursting with bargains, Avista—down more than 25% this year—is particularly cheap. It trades for about 13.7 times earnings, its lowest multiple in more than 10 years.",
+          "link": "https://www.barrons.com/articles/utilities-stock-selling-at-an-absurd-price-5dc8b315?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-09-07T07:00:00.000Z",
+          "wordCount": 6730,
+          "title": "The Utilities Selloff Has Gotten Out of Hand. This One Stock Is Selling at an ‘Absurd’ Price.",
+          "imageUrl": "https://images.barrons.com/im-96986300/social"
         },
         {
           "id": "buy-enphase-stock-price-pick-ff148d8e?siteid=yhoof2&yptr=yahoo",
@@ -53346,16 +53311,6 @@
           "wordCount": 9727,
           "title": "Bud Light May Never Recover From The Controversy That Cost $400 Million In Lost US Sales  – 'They Want To Enjoy Their Beer Without A Debate,' Anheuser-Busch CEO Says",
           "imageUrl": "https://media.zenfs.com/en/Benzinga/5890135913178381bb22820b7c3e0863"
-        },
-        {
-          "id": "top-cd-rates-today-new-5-75-leader-unveiled-plus-four-more-top-tier-options-7571537?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Today's top three nationwide CD rates are 5.75% from Andrews Federal Credit Union, 5.75% from INOVA Federal Credit Union, and 5.65% from Dow Credit Union.",
-          "link": "https://www.investopedia.com/top-cd-rates-today-new-5-75-leader-unveiled-plus-four-more-top-tier-options-7571537?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-08-08T21:52:52.000Z",
-          "wordCount": 6139,
-          "title": "Top CD Rates Today: New 5.75% Leader Unveiled, Plus Four More Top-Tier Options",
-          "imageUrl": "https://www.investopedia.com/thmb/RpGqf4eMSaVdjwo0E7nnJBcFDRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/August8-063b6094a33d4c3bafe29a21db81eb97.jpg"
         }
       ]
     }
