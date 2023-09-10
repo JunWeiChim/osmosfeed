@@ -35,6 +35,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "ac7c41304e799aee7c2a6d22a20d8f04",
+          "author": "Investopedia",
+          "description": "Companies ranging from tech giant Microsoft to Shopify, H&M, and payments company Stripe are investing millions of dollars on carbon removal, the process of extracting carbon dioxide from the atmosphere.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b6ec4f010b6533f9cc32cacbf2925805456c529c839a3970f224acd6e8627d89c1d21ceef39befcec2ef1a58723e82fe8380d8d3a021a5601f2e5a9d53a0e9084e1f1829f",
+          "publishedOn": "2023-09-10T14:09:40.046Z",
+          "wordCount": 409,
+          "title": "Why Companies From Microsoft to Shopify Are Investing Millions in Carbon Removal",
+          "imageUrl": null
+        },
+        {
           "id": "2b6c4a1de4e14e48754b4b82fb9193ec",
           "author": "Investopedia",
           "description": "Reports of a Chinese government ban on Apple's iPhone have sent the stock lower and some of its suppliers are hurting too.",
@@ -1978,6 +1988,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6280294/",
+          "author": "onze nieuwsredactie",
+          "description": "Het Internationaal Monetair Fonds (IMF) en de Wereldbank hebben samen met enkele wereldleiders Marokko financiële hulp beloofd. Het land is vrijdagavond getroffen door een grote aardbeving. Bij de aardschok in de regio rond Marrakesh zijn zeker tweeduizend mensen omgekomen.",
+          "link": "https://www.nu.nl/economie/6280294/imf-en-wereldbank-beloven-marokko-financiele-hulp.html",
+          "publishedOn": "2023-09-10T13:29:46.000Z",
+          "wordCount": 926,
+          "title": "IMF en Wereldbank beloven Marokko financiële hulp",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/d1oxdlgashwi_sqr256.jpg/imf-en-wereldbank-beloven-marokko-financiele-hulp.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/d1oxdlgashwi_sqr256.jpg/imf-en-wereldbank-beloven-marokko-financiele-hulp.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6280294/",
           "author": "onze nieuwsredactie",
@@ -7640,6 +7665,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/employer-sponsored-health-benefit-costs-to-rise-in-2024-7966987",
+          "author": "Staff Author",
+          "description": "Employers expect health benefit costs could rise an average of 5.4% per employee next year, a survey by Mercer found.",
+          "link": "https://www.investopedia.com/employer-sponsored-health-benefit-costs-to-rise-in-2024-7966987?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-09-10T13:48:46.000Z",
+          "wordCount": 4946,
+          "title": "Employer-Sponsored Health Benefit Costs Could Rise 5.4% in 2024",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/lTMDItqInA2NMgC--3uLs-W2l9E=/3000x2040/GettyImages-97768522-9e4ac1a78cd048dcaed62a0bce35ae5b.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/lTMDItqInA2NMgC--3uLs-W2l9E=/3000x2040/GettyImages-97768522-9e4ac1a78cd048dcaed62a0bce35ae5b.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/new-york-city-enforces-de-facto-ban-of-airbnbs-7967344",
+          "author": "Staff Author",
+          "description": "New York City is enforcing a host registration law to eliminate illegal short-term rentals.",
+          "link": "https://www.investopedia.com/new-york-city-enforces-de-facto-ban-of-airbnbs-7967344?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-09-10T13:34:14.000Z",
+          "wordCount": 5415,
+          "title": "Early Impacts of New York City&#39;s &#39;De Facto Ban&#39; on Airbnbs",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/uqXJZnczNR-JeNb0EynV5_9MXwQ=/4796x3198/GettyImages-1230048849-1c38c926ca6c4f04a39f592153433cd2.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/uqXJZnczNR-JeNb0EynV5_9MXwQ=/4796x3198/GettyImages-1230048849-1c38c926ca6c4f04a39f592153433cd2.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/microsoft-to-shopify-are-investing-millions-in-carbon-removal-7967383",
+          "author": "Staff Author",
+          "description": "Companies ranging from tech giant Microsoft to Shopify, H&M, and payments company Stripe are investing millions of dollars on carbon removal, the process of extracting carbon dioxide from the atmosphere.",
+          "link": "https://www.investopedia.com/microsoft-to-shopify-are-investing-millions-in-carbon-removal-7967383?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-09-10T13:12:30.000Z",
+          "wordCount": 5894,
+          "title": "Why Companies From Microsoft to Shopify Are Investing Millions in Carbon Removal",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/j0Q9nZIoH0Am5p47uvfoJShAEHE=/4000x2667/GettyImages-1235138831-713a86ac17174664b354453ce573c492.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/j0Q9nZIoH0Am5p47uvfoJShAEHE=/4000x2667/GettyImages-1235138831-713a86ac17174664b354453ce573c492.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/l/lastmile.asp",
           "author": "Katelyn Peters",
@@ -29119,21 +29189,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/PvHAElQ11tNXfZzMFMy381Ni_d8=/380x254/virtual_goods-5bfc2b8a46e0fb00517bdfe5.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/crossover-loss-definition-5223721",
-          "author": "Matt Ryan Webber",
-          "description": "In a reverse mortgage, a crossover loss occurs when the loan balance exceeds the property value at the time that the loan pays off.",
-          "link": "https://www.investopedia.com/crossover-loss-definition-5223721?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-12T01:18:44.000Z",
-          "wordCount": 6555,
-          "title": "Crossover Loss Definition",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/tQpaij-NcPac2CGo5hxdLUXN2Lo=/5760x3840/senior-couple-cooking-at-kitchen-stove-595348451-5c219b9946e0fb0001086820.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/tQpaij-NcPac2CGo5hxdLUXN2Lo=/5760x3840/senior-couple-cooking-at-kitchen-stove-595348451-5c219b9946e0fb0001086820.jpg"
         }
       ]
     },
@@ -29142,6 +29197,36 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "high-interest-rates-mean-boom-130223844.html",
+          "author": null,
+          "description": "Americans are taking advantage of high interest rates to invest more in fixed-income assets like bonds or CDs, but experts warn of higher taxes ahead.",
+          "link": "https://finance.yahoo.com/news/high-interest-rates-mean-boom-130223844.html",
+          "publishedOn": "2023-09-10T13:02:23.000Z",
+          "wordCount": 9835,
+          "title": "High interest rates mean a boom for fixed-income investments, but taxes may be a buzzkill.",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        },
+        {
+          "id": "u-s-saudi-arabia-in-talks-to-secure-metals-for-evs-9719f5?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The kingdom is looking to invest $15 billion in mining assets globally, while the U.S. is seeking to counter China’s supply-chain dominance.",
+          "link": "https://www.wsj.com/world/middle-east/u-s-saudi-arabia-in-talks-to-secure-metals-for-evs-9719f5?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-09-10T12:46:00.000Z",
+          "wordCount": 8724,
+          "title": "U.S., Saudi Arabia in Talks to Secure Metals for EVs",
+          "imageUrl": "https://images.wsj.net/im-849536/social"
+        },
+        {
+          "id": "earnings-estimates-are-rising-a-welcome-sign-for-2023-market-rally-21824c5e?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Stock advances have surprised many investors, partly because expectations for company earnings hadn’t kept up.",
+          "link": "https://www.wsj.com/finance/stocks/earnings-estimates-are-rising-a-welcome-sign-for-2023-market-rally-21824c5e?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-09-10T12:30:00.000Z",
+          "wordCount": 7755,
+          "title": "Earnings Estimates Are Rising, a Welcome Sign for 2023 Market Rally",
+          "imageUrl": "https://images.wsj.net/im-848573/social"
+        },
         {
           "id": "apple-stock-gm-rivian-lucid-group-988e8ff0?siteid=yhoof2&yptr=yahoo",
           "author": null,
