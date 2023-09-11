@@ -1142,6 +1142,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "dd5224bc7b5c1f0f89c4b3a0aeccdddc",
+          "author": "Investopedia",
+          "description": "Tesla shares climbed on an analyst upgrade over its AI supercomputer and Hostess shares surged on a potential sale to J.M. Smucker in a merger of snack makers. Here’s what investors need to know today.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df4f2a56d06e81209c9d0a69cdab26b7e5f725efea8b3fe87db8675dd2661c450455aba4f08c26",
+          "publishedOn": "2023-09-11T13:15:22.053Z",
+          "wordCount": 409,
+          "title": "5 Things to Know Before Markets Open",
+          "imageUrl": null
+        },
+        {
           "id": "7f062c492f7964294412ae2fb39ab506",
           "author": "Investopedia",
           "description": "US equities gained, with the S&P 500 Index gaining 0.1% on Sept. 8, 2023, snapping a three-day losing streak, as concerns about interest rates and US-China tensions eased.",
@@ -7770,6 +7780,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/fdic-fell-short-supervising-first-republic-bank-7967571",
+          "author": "Staff Author",
+          "description": "The FDIC, one of the federal regulators responsible for overseeing banks, admitted some of its shortcomings contributed to the second-largest bank collapse in U.S. history earlier this year.",
+          "link": "https://www.investopedia.com/fdic-fell-short-supervising-first-republic-bank-7967571?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-09-11T12:52:05.000Z",
+          "wordCount": 5264,
+          "title": "FDIC Says It Fell Short Supervising Failed First Republic Bank",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/IC6pADVkSawL-R2Dik80u2tPK_Q=/3500x2333/GettyImages-1495191906-38f8c68a74644a7d96cc14f9632c3fcc.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/IC6pADVkSawL-R2Dik80u2tPK_Q=/3500x2333/GettyImages-1495191906-38f8c68a74644a7d96cc14f9632c3fcc.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/financial-edge/0911/how-september-11-affected-the-u.s.-stock-market.aspx",
+          "author": "Marc Davis",
+          "description": "Some experts say the stock market today may be just as vulnerable to a major disruption as on Sept. 11, 2001.",
+          "link": "https://www.investopedia.com/financial-edge/0911/how-september-11-affected-the-u.s.-stock-market.aspx?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-09-11T12:29:53.000Z",
+          "wordCount": 6468,
+          "title": "How September 11 Affected the U.S. Stock Market",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/G9SlJl0d82-j8BmQFYEwVhz5s90=/150x114/76314589-5bfc2de546e0fb00265c599d.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/G9SlJl0d82-j8BmQFYEwVhz5s90=/150x114/76314589-5bfc2de546e0fb00265c599d.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/financial-edge/0911/the-impact-of-september-11-on-business.aspx",
+          "author": "Marc Davis",
+          "description": "The U.S. economy made great strides after Sept. 11, 2021, but some experts believe that the American economy shows its aftereffects to this day.",
+          "link": "https://www.investopedia.com/financial-edge/0911/the-impact-of-september-11-on-business.aspx?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-09-11T12:24:10.000Z",
+          "wordCount": 7058,
+          "title": "The Impact of 9/11 on Business",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/DoCu9zpTFRyMq92mVsMgW2VLQ_Q=/2048x1360/BalticServers_data_center-5c6fcb89c9e77c000107b58c.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/DoCu9zpTFRyMq92mVsMgW2VLQ_Q=/2048x1360/BalticServers_data_center-5c6fcb89c9e77c000107b58c.jpg"
+        },
         {
           "id": "https://www.investopedia.com/5-things-to-know-before-markets-open-september-11-2023-7967851",
           "author": "Terry Lane",
@@ -29804,21 +29859,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/XcFqNkUiV3hDQXDDFrEJHRB-vDU=/2121x1414/list-of-Information-to-collect-for-an-accident-report-form-if-you-have-a-car-accident-5758ca1f3df78c9b4634c98e.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/c/credit_market.asp",
-          "author": "Cory Mitchell",
-          "description": "The credit market is where investors buy bonds and other credit-related securities. It is also where governments and corporations raise funds.",
-          "link": "https://www.investopedia.com/terms/c/credit_market.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-13T00:35:18.000Z",
-          "wordCount": 6453,
-          "title": "Credit Market: Definition, Types, Example",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/iUthjKIpveoddgM4uDapZQDl1M0=/680x440/131616451-5bfc2b96c9e77c00263065da.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/iUthjKIpveoddgM4uDapZQDl1M0=/680x440/131616451-5bfc2b96c9e77c00263065da.jpg"
         }
       ]
     },
@@ -29831,11 +29871,61 @@
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
+          "link": "https://www.investors.com/news/tesla-stock-given-upgrade-on-supercomputer-adding-half-a-trillion-dollars-in-value/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-09-11T12:44:23.000Z",
+          "wordCount": null,
+          "title": "Tesla Stock Upgrade Sees FSD Supercomputer Adding A Half-Trillion Dollars In Value",
+          "imageUrl": null
+        },
+        {
+          "id": "rtx-stock-falls-after-announcing-profit-hit-from-recall-IrjghgtO5fOcxMaFXOl9?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Shares of RTX were down more than 3% in premarket trading after the company said its profit would take a hit of up to $3.5 billion from the recall of hundreds of Pratt & Whitney jet engines over th",
+          "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-09-11-2023/card/rtx-stock-falls-after-announcing-profit-hit-from-recall-IrjghgtO5fOcxMaFXOl9?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-09-11T12:38:59.000Z",
+          "wordCount": 6475,
+          "title": "RTX Stock Falls as Recall Hits Profit",
+          "imageUrl": "https://images.wsj.net/im-849775/social"
+        },
+        {
+          "id": "rtx-stock-airbus-a320-jet-engines-8662ef35?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The aerospace company announces it will take a $3 billion charge in the third quarter to reflect the costs of fixing some parts on its geared turbofan that powers A320 jets.",
+          "link": "https://www.barrons.com/articles/rtx-stock-airbus-a320-jet-engines-8662ef35?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-09-11T12:28:00.000Z",
+          "wordCount": 6746,
+          "title": "RTX Stock Falls. It Will Cost Billions to Fix Airbus A320 Jet Engines.",
+          "imageUrl": "https://images.barrons.com/im-68342/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-one-company-is-expected-to-grow-even-faster-than-nvidia/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-09-11T12:00:25.000Z",
+          "wordCount": null,
+          "title": "One Company Is Expected To Grow Even Faster Than Nvidia",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
           "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-inflation-data-tesla-stock-surges-on-upgrade/?src=A00220&yptr=yahoo",
           "publishedOn": "2023-09-11T11:59:40.000Z",
           "wordCount": null,
           "title": "Dow Jones Futures Rise As Inflation Data Looms; Tesla Stock Surges On Upgrade",
           "imageUrl": null
+        },
+        {
+          "id": "qualcomm-stock-supply-apple-iphone-chips-ef132afb?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Chip maker Qualcomm will supply Apple with 5G chips for smartphone launches in 2024, 2025, and 2026. Its stock is reversing recent declines.",
+          "link": "https://www.barrons.com/articles/qualcomm-stock-supply-apple-iphone-chips-ef132afb?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-09-11T11:59:00.000Z",
+          "wordCount": 6808,
+          "title": "Qualcomm to Supply Apple With iPhone Chips Through 2026. The Stock Is Flying.",
+          "imageUrl": "https://images.barrons.com/im-434027/social"
         },
         {
           "id": "fuelcell-earnings-revenue-stock-8f331b33?siteid=yhoof2&yptr=yahoo",
@@ -29856,6 +29946,16 @@
           "wordCount": 6845,
           "title": "Stocks to Watch Monday: Tesla, Qualcomm, Meta, Alibaba",
           "imageUrl": "https://images.wsj.net/im-849728/social"
+        },
+        {
+          "id": "stocks-set-up-for-gains-amid-hopes-for-soft-landing-stock-market-news-today-112459343.html",
+          "author": null,
+          "description": "US futures moved higher on Monday as investors weighed Janet Yellen's upbeat remarks on the US economy and as Tesla surged.",
+          "link": "https://finance.yahoo.com/news/stocks-set-up-for-gains-amid-hopes-for-soft-landing-stock-market-news-today-112459343.html",
+          "publishedOn": "2023-09-11T11:24:59.000Z",
+          "wordCount": 9673,
+          "title": "Stocks set up for gains amid hopes for soft landing: Stock market news today",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/TAP03p1nGEvVvua6grLWxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjI-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/b7cc9440-508e-11ee-bfcd-f2ac7632699f"
         },
         {
           "id": "ARGUS_37621_MarketOutlook_1694430959000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -29916,6 +30016,16 @@
           "wordCount": 6840,
           "title": "Apple Stock Is Rising. Why Tech Names From Tesla to Nvidia Can Breathe a Sigh of Relief.",
           "imageUrl": "https://images.barrons.com/im-45387383/social"
+        },
+        {
+          "id": "bitcoin-ether-extend-losses-g20-110333606.html",
+          "author": null,
+          "description": "Bitcoin started the week below US$26,000 while Ether dropped to US$1,611. Toncoin and XRP lead losers in the last 24 hours.",
+          "link": "https://finance.yahoo.com/news/bitcoin-ether-extend-losses-g20-110333606.html",
+          "publishedOn": "2023-09-11T11:03:33.000Z",
+          "wordCount": 10243,
+          "title": "Bitcoin, Ether extend losses; G20 eyes global crypto regulation",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/QVcjISCkSQpAU1nyi8TR4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDE-/https://media.zenfs.com/en/forkast_news_articles_672/03f666405df1450a3c239a73dfdd9e90"
         },
         {
           "id": "ARGUS_37617_TopBottomInsiderActivity_1694429136000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -30056,6 +30166,16 @@
           "wordCount": 6710,
           "title": "Tesla Catches an Upgrade. It’s an AI Stock.",
           "imageUrl": "https://images.barrons.com/im-726706/social"
+        },
+        {
+          "id": "boeing-ceo-private-jets-return-to-office-9bee2035?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Company flight patterns suggest CEO Calhoun travels infrequently to headquarters from two distant homes, while CFO West occupies a new office five minutes from his Connecticut doorstep.",
+          "link": "https://www.wsj.com/business/airlines/boeing-ceo-private-jets-return-to-office-9bee2035?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-09-11T07:03:00.000Z",
+          "wordCount": 7276,
+          "title": "Private Jets and Pop-Up Workspaces: Boeing Eases Return to Office for Top Brass",
+          "imageUrl": "https://images.wsj.net/im-848348/social"
         },
         {
           "id": "nzd-usd-pushes-back-toward-0-59-after-shaky-run-a8c45f6c?siteid=yhoof2&yptr=yahoo",
@@ -30376,6 +30496,16 @@
           "wordCount": 9372,
           "title": "Alibaba’s Ex-CEO Zhang Quits as Ma’s Lieutenants Take the Helm",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/zjXob5amPtG1neTy1_5igw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/2d33abc71862132d5f9c675b87105c6f"
+        },
+        {
+          "id": "4-big-deal-reports-enbridge-152656324.html",
+          "author": null,
+          "description": "Here is your Pro Recap of 4 head-turning deal dispatches you may have missed this past week: deals at Enbridge and Dominion Energy, WestRock and Smurfit Kappa, NextGen Healthcare and Thoma Bravo, and potential sale of Alteryx.  Enbridge (NYSE:ENB) agreed to acquire EOG, Questar, and PSNC from Dominion Energy (NYSE:D) at a combined value of $14 billion, which includes $9.4B cash and $4.6B of assumed debt, as reported in real time on InvestingPro.",
+          "link": "https://finance.yahoo.com/news/4-big-deal-reports-enbridge-152656324.html",
+          "publishedOn": "2023-09-10T15:26:56.000Z",
+          "wordCount": 9730,
+          "title": "4 big deal reports: Enbridge shells out $14B for Dominion utilities",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
         },
         {
           "id": "alibaba-says-daniel-zhang-steps-150144681.html",
