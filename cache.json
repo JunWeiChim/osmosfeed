@@ -45,6 +45,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "bd09f507006638e234adbf545c94374c",
+          "author": "Investopedia",
+          "description": "Amazon is expanding its ecosystem of services with an end-to-end supply chain service for third-party sellers called \"Supply Chain.\"",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca876ac6f810ab1135899b36a0fa3f3ec2574ad3208921fc914a2a4dd526983cdf970e65d9ef3bb5b8e638ebfb9a24ab2ba4230184264e1b471ee8f0bccc655c84c6b9efcec4909511039e1fd58773289b632225908841cdc75fbf912a7fb8",
+          "publishedOn": "2023-09-13T01:48:09.662Z",
+          "wordCount": 409,
+          "title": "Amazon Expands Its Ecosystem With End-to-End Supply Chain Service for Sellers",
+          "imageUrl": null
+        },
+        {
           "id": "b81e4c46d620e9a3e67dafbe14d0c119",
           "author": "Investopedia",
           "description": "Walgreens Boots Alliance is teaming with health technology firm Pearl Health to expand its reach into providing primary care services.",
@@ -1251,6 +1261,26 @@
       "feedUrl": "https://rss.app/feeds/UWnMV6nTNN8mPDUG.xml",
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
+        {
+          "id": "b2ac8ec485adb1263ba29aea6dd6636d",
+          "author": "Investopedia",
+          "description": "US equities fell on Sept. 12, 2023, with the S&P 500 Index dropping 0.6% after oil futures rose to a 10-month high.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca952ac6ec1be84c74ddde68eef53b24815712c23e8175bd9d513841c826813cd5930321cee727b9f0f733afee8f21a961e839428d3d4345431ef4f0adca3a51c0c6fbf08a9ecaca1d478916d4de3d3cde3e767bc2",
+          "publishedOn": "2023-09-13T01:48:09.654Z",
+          "wordCount": 409,
+          "title": "S&P 500 Gains and Losses Today: Index Falls as Oil Prices Hit 2023 Highs",
+          "imageUrl": null
+        },
+        {
+          "id": "d6fc69a64da3e295799f18fd729f53d8",
+          "author": "Investopedia",
+          "description": "Crude oil prices surged to 10-month highs after OPEC and the EIA indicated surging demand could keep prices elevated, but analysts suggest they may not have much room to rise further.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8575d2e61ae8533084c328b1fb39289c0957ca24c869e1df4f244acf63d83bd8951221c2f578bde5e623afed872ce83ffc2d0887275b455709f0f2a6dd3a5ac6c7baa697c79c8205039e0cce906f76c563222c839b4685944bbe902576b7d071",
+          "publishedOn": "2023-09-13T01:48:09.639Z",
+          "wordCount": 409,
+          "title": "Crude Oil Prices Hit 10-Month High as OPEC, EIA Suggest Demand Could Keep Prices Elevated",
+          "imageUrl": null
+        },
         {
           "id": "035a4b2ccfd96aa2d35020fa2d97b8d3",
           "author": "Investopedia",
@@ -8127,21 +8157,6 @@
             "url": "https://media.nu.nl/m/h36xx58aiblq_sqr256.jpg/big-bazar-sluit-twintig-filialen-en-wil-huurverlaging-om-bedrijf-gezond-te-houden.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/h36xx58aiblq_sqr256.jpg/big-bazar-sluit-twintig-filialen-en-wil-huurverlaging-om-bedrijf-gezond-te-houden.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6276488/",
-          "author": "onze economieredactie",
-          "description": "Budgetvlieger Ryanair annuleert maandag en dinsdag 88 vluchten van en naar het vliegveld in de Belgische stad Charleroi vanwege een staking van piloten. Dat meldt de Belgische luchthaven, die doorgaans ook door veel Nederlanders wordt bezocht.",
-          "link": "https://www.nu.nl/economie/6276488/ryanair-schrapt-88-vluchten-in-belgie-vanwege-stakende-piloten.html",
-          "publishedOn": "2023-08-14T13:28:41.000Z",
-          "wordCount": 889,
-          "title": "Ryanair schrapt 88 vluchten in België vanwege stakende piloten",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/q6ux449akwbk_sqr256.jpg/ryanair-schrapt-88-vluchten-in-belgie-vanwege-stakende-piloten.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/q6ux449akwbk_sqr256.jpg/ryanair-schrapt-88-vluchten-in-belgie-vanwege-stakende-piloten.jpg"
         }
       ]
     },
@@ -8150,6 +8165,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/n/nuclear-hazards-clause.asp",
+          "author": "Julia Kagan",
+          "description": "A nuclear hazards clause is property insurance policy language that excludes from coverage any damage caused by nuclear incidents.",
+          "link": "https://www.investopedia.com/terms/n/nuclear-hazards-clause.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-09-13T01:19:33.000Z",
+          "wordCount": 5664,
+          "title": "Nuclear Hazards Clause Definition",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/TKLrrZWhs93g4_dX8IBV_ETroiw=/1500x1000/nuclear-hazards-clause-Final-69463c4e035f4c65a87bbbb15d041744.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/TKLrrZWhs93g4_dX8IBV_ETroiw=/1500x1000/nuclear-hazards-clause-Final-69463c4e035f4c65a87bbbb15d041744.jpg"
+        },
         {
           "id": "https://www.investopedia.com/news/10-years-later-lessons-financial-crisis/",
           "author": "Caleb Silver",
@@ -31054,36 +31084,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/Ynnh1586YnYwg5cDcRuJsSKT_IA=/5738x3860/GettyImages-1597855990-2cc0706f3fb94c39aa4c6bbee9aea7a8.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/l/lending-facility.asp",
-          "author": "Julia Kagan",
-          "description": "A lending facility is used by central banks when lending funds to primary dealers that can conduct business with the U.S Federal Reserve.",
-          "link": "https://www.investopedia.com/terms/l/lending-facility.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-14T13:21:03.000Z",
-          "wordCount": 6479,
-          "title": "Lending Facility: Meaning, History, Development",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/7U33r04w5rVT9McZ-SERFC7bA3c=/5500x3667/INV_LendingFacility_GettyImages-907066866-eef2fa22ee6f41a092bcbbfdeadabb20.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/7U33r04w5rVT9McZ-SERFC7bA3c=/5500x3667/INV_LendingFacility_GettyImages-907066866-eef2fa22ee6f41a092bcbbfdeadabb20.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/111314/what-methods-can-government-use-control-inflation.asp",
-          "author": "Leslie Kramer",
-          "description": "There are many methods used by the government to control inflation; one popular method is contractionary monetary policy.",
-          "link": "https://www.investopedia.com/ask/answers/111314/what-methods-can-government-use-control-inflation.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-14T12:57:12.000Z",
-          "wordCount": 7907,
-          "title": "How Do Governments Fight Inflation?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/2BG_qAN3HToHXKaNO3PwbbSjdfE=/2103x1428/Stock-Market-Charts-Are-Useless-56a093595f9b58eba4b1ae5b.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/2BG_qAN3HToHXKaNO3PwbbSjdfE=/2103x1428/Stock-Market-Charts-Are-Useless-56a093595f9b58eba4b1ae5b.jpg"
         }
       ]
     },
@@ -31111,6 +31111,16 @@
           "wordCount": 6035,
           "title": "PNC not holding off on M&A due to regulators; here's why it's not buying",
           "imageUrl": "https://media.bizj.us/view/img/12560057/pnc-0003*1200xx2668-1500-0-246.jpg"
+        },
+        {
+          "id": "microsoft-powers-helion-fusion-game-203950539.html",
+          "author": null,
+          "description": "Countries have been vying toward clean energy, with most developed nations planning to achieve carbon neutrality by 2050. Several startups have achieved success thanks to their green energy initiatives, including the blockbuster electric vehicle maker Tesla, Inc. (NASDAQ:TSLA). Companies are now focusing on producing clean energy through nuclear fusion, which is often considered the epitome of green power, as it can produce nearly unlimited energy without any harmful byproducts. As of 2022, inve",
+          "link": "https://finance.yahoo.com/news/microsoft-powers-helion-fusion-game-203950539.html",
+          "publishedOn": "2023-09-12T20:39:50.000Z",
+          "wordCount": 10189,
+          "title": "Microsoft Powers Up with Helion Fusion: A Game-Changer in Clean Energy",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/b3ccbeeb22332a81c0832e63f0a3c928"
         },
         {
           "id": "vinfast-ev-sales-related-party-66c04347?siteid=yhoof2&yptr=yahoo",
@@ -54411,76 +54421,6 @@
           "wordCount": 9525,
           "title": "AMC stock sinks, preferred units climb after conversion settlement",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/05b6bc7931df8502a00ba73e1cd2f8e1"
-        },
-        {
-          "id": "amc-entertainment-effect-10-1-133313426.html",
-          "author": null,
-          "description": "The common shares of the theatre chain operator fell 38% to $3.25 in premarket trading, while its preferred shares rose 18% to $2.09.  AMC aims to increase its Class A common stock to 550 million from about 524 million, it said in a regulatory filing.  The company would make a settlement payment of one Class A common stock for every 7.5 Class A shares to the entitled shareholders after the reverse stock split.",
-          "link": "https://finance.yahoo.com/news/amc-entertainment-effect-10-1-133313426.html",
-          "publishedOn": "2023-08-14T13:33:13.000Z",
-          "wordCount": 9235,
-          "title": "AMC Entertainment to effect 10:1 reverse split on Aug. 24",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/bf4d008bd21ca3bb9682a0ed4729b960"
-        },
-        {
-          "id": "earn-over-145k-may-pay-100024185.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/earn-over-145k-may-pay-100024185.html",
-          "publishedOn": "2023-08-14T13:17:45.000Z",
-          "wordCount": null,
-          "title": "Earn Over $145k? You May Have to Pay Taxes on Your Catch-Up Contributions",
-          "imageUrl": null
-        },
-        {
-          "id": "chesapeake-energy-eagle-ford-silverbow-resources.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
-          "author": null,
-          "description": "Chesapeake Energy is finally exiting the Eagle Ford Shale in South Texas thanks to a $700 million deal with a Houston-based company.",
-          "link": "https://www.bizjournals.com/houston/news/2023/08/14/chesapeake-energy-eagle-ford-silverbow-resources.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
-          "publishedOn": "2023-08-14T13:05:36.000Z",
-          "wordCount": 3203,
-          "title": "Houston-based SilverBow Resources to buy Chesapeake Energy's remaining Eagle Ford assets",
-          "imageUrl": "https://media.bizj.us/view/img/11990733/sean-woolverton-silverbow*1200xx3004-1695-0-515.jpg"
-        },
-        {
-          "id": "ask-advisor-nursing-home-ira-140442815.html",
-          "author": null,
-          "description": "My wife and I are elderly. I have an individual retirement account (IRA) worth about $100,000, and we have a trust set up through our children to protect our assets. If one or both of us have to go into … Continue reading → The post Ask an Advisor: Can a Nursing Home ‘Take Our IRA?' My Wife and I Are Elderly. We Have a $100K IRA and a Trust to Protect Our Assets. appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/ask-advisor-nursing-home-ira-140442815.html",
-          "publishedOn": "2023-08-14T13:03:15.000Z",
-          "wordCount": 10097,
-          "title": "Ask an Advisor: Can a Nursing Home ‘Take Our IRA?' My Wife and I Are Elderly. We Have a $100K IRA and a Trust to Protect Our Assets.",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/2889805f53dfeb624d35d835703862b8"
-        },
-        {
-          "id": "guard-assets-nursing-homes-using-130051647.html",
-          "author": null,
-          "description": "Paying for a nursing home can seriously deplete your retirement savings. The government-funded Medicaid program can pay some or all nursing home costs, but it's restricted to people of very limited financial means. You may be able to qualify for … Continue reading → The post Does an Irrevocable Trust Protect Assets from Nursing Homes? appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/guard-assets-nursing-homes-using-130051647.html",
-          "publishedOn": "2023-08-14T13:00:20.000Z",
-          "wordCount": 9795,
-          "title": "How Can I Guard My Assets From Nursing Homes?",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/915403f2d8fde40f4068af6d625e77fa"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cathie-wood-sells-more-tesla-stock/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-08-14T12:59:57.000Z",
-          "wordCount": null,
-          "title": "Dow Jones Futures Fall Ahead Of Big Retail Earnings; Cathie Wood Sells More Tesla Stock",
-          "imageUrl": null
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/x-stock-jumps-as-us-steel-spurns-deal-with-cleveland-cliffs/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-08-14T12:58:41.000Z",
-          "wordCount": null,
-          "title": "X Stock Jumps As U.S. Steel Spurns Deal With Cleveland-Cliffs",
-          "imageUrl": null
         }
       ]
     }
