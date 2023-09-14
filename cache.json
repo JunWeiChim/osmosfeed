@@ -1193,16 +1193,6 @@
           "wordCount": 409,
           "title": "Occidental Petroleum to Acquire Carbon Capture Technology Supplier for $1.1 Billion",
           "imageUrl": null
-        },
-        {
-          "id": "8c63d42608d92db1f8ed069309921d73",
-          "author": "Investopedia",
-          "description": "Shares of Vietnam-based electric vehicle maker VinFast soared on their first day of trading on the Nasdaq after going public through a special purpose acquisition company.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca906ec2f611a4513c9b8b75a6e477208e4f5ad17d9331bf94433850966f9031c4860921cce878a6fde66dece99d29a43da42b0186795c00521ef8e0e5ca7858db9fe1f48e9fcedf40",
-          "publishedOn": "2023-08-15T21:10:14.122Z",
-          "wordCount": 409,
-          "title": "Vietnamese EV Maker VinFast Debuts on the Nasdaq, and Shares Soar",
-          "imageUrl": null
         }
       ]
     },
@@ -2068,6 +2058,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6280824/",
+          "author": "José Boon",
+          "description": "Pieter Pot vraagt klanten voor de tweede keer om te investeren in het bedrijf. Eerder haalde de verpakkingsvrije supermarkt op deze manier een half miljoen euro op. Het blijft onzeker of de idealistische winkel op de lange termijn houdbaar is.",
+          "link": "https://www.nu.nl/economie/6280824/verpakkingsvrije-winkel-pieter-pot-vraagt-klanten-opnieuw-geld-in-te-leggen.html",
+          "publishedOn": "2023-09-14T09:00:06.000Z",
+          "wordCount": 1319,
+          "title": "Verpakkingsvrije winkel Pieter Pot vraagt klanten opnieuw geld in te leggen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/08kxfnoaqt5y_sqr256.jpg/verpakkingsvrije-winkel-pieter-pot-vraagt-klanten-opnieuw-geld-in-te-leggen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/08kxfnoaqt5y_sqr256.jpg/verpakkingsvrije-winkel-pieter-pot-vraagt-klanten-opnieuw-geld-in-te-leggen.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6280825/",
+          "author": "onze techredactie",
+          "description": "Leiders van belangrijke techbedrijven kwamen woensdag bij elkaar in de Amerikaanse Senaat om met beleidsmakers te praten over kunstmatige intelligentie. Ze waren het er allemaal over eens: er moeten duidelijke regels voor het gebruik van AI komen.",
+          "link": "https://www.nu.nl/tech/6280825/musk-pleit-tijdens-gesprek-met-techleiders-voor-scheidsrechter-voor-ai.html",
+          "publishedOn": "2023-09-14T08:54:22.000Z",
+          "wordCount": 1312,
+          "title": "Musk pleit tijdens gesprek met techleiders voor 'scheidsrechter voor AI'",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/c1rx0dvaac1p_sqr256.jpg/musk-pleit-tijdens-gesprek-met-techleiders-voor-scheidsrechter-voor-ai.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/c1rx0dvaac1p_sqr256.jpg/musk-pleit-tijdens-gesprek-met-techleiders-voor-scheidsrechter-voor-ai.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6280814/",
           "author": "onze economieredactie",
@@ -8075,6 +8095,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/bonds/08/treasuries-fed.asp",
+          "author": "David Gonzalez",
+          "description": "If you want to purchase government debt, you can go straight to the source at TreasuryDirect. However, there are other ways to buy Treasuries.",
+          "link": "https://www.investopedia.com/articles/bonds/08/treasuries-fed.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-09-14T08:39:46.000Z",
+          "wordCount": 7692,
+          "title": "How to Buy Treasury Bonds and Bills",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/d0RMYUBWlpI3RZ0FA7uQZ3d_Gsc=/6000x4002/GettyImages-1424971285-07b7acf2520b47628ef97b2cbd140078.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/d0RMYUBWlpI3RZ0FA7uQZ3d_Gsc=/6000x4002/GettyImages-1424971285-07b7acf2520b47628ef97b2cbd140078.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/w/walras-law.asp",
           "author": "Will Kenton",
@@ -30174,96 +30209,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/wwsmasl7cBHLPRRMZtmRocSJTUI=/1500x1000/binance-coin-4200659-Final-c1be6a69c0274fe2869fac93124bb9ac.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-discover-shares-plunge-after-c-suite-shakeup-7643897",
-          "author": "Staff Author",
-          "description": "U.S. equities slumped, with the S&P 500 tumbling 1.16% on Tuesday, Aug. 15, 2023, amid worries about China's economy and possible Fed rate hikes.",
-          "link": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-discover-shares-plunge-after-c-suite-shakeup-7643897?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-15T20:56:30.000Z",
-          "wordCount": 5225,
-          "title": "S&amp;P 500 Gains and Losses Today: Discover Shares Plunge After C-Suite Shakeup",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ZmzLFdAh80Uf84bSNuioe-KpFlk=/1860x1716/k53KU-s-p-500-biggest-gains-and-losses-2023-08-15T163829.186-92c26d00279d430486c160f118f4b126.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ZmzLFdAh80Uf84bSNuioe-KpFlk=/1860x1716/k53KU-s-p-500-biggest-gains-and-losses-2023-08-15T163829.186-92c26d00279d430486c160f118f4b126.png"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/s/single-market.asp",
-          "author": "Will Kenton",
-          "description": "The European Single Market is an entity created by a trade agreement among participating nations, including the member nations of the European Union.",
-          "link": "https://www.investopedia.com/terms/s/single-market.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-15T20:52:01.000Z",
-          "wordCount": 6189,
-          "title": "The Single Market: Pros and Cons of The European Entity",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ZtGbMG_TRAwKV0jQlsodhR1EWJU=/680x440/shutterstock253136563-5bfc2b9846e0fb00517be1d4.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ZtGbMG_TRAwKV0jQlsodhR1EWJU=/680x440/shutterstock253136563-5bfc2b9846e0fb00517be1d4.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/credit-cards-auto-loans-an-issue-for-consumer-lending-7643602",
-          "author": "Terry Lane",
-          "description": "The banking sector is weathering impacts from the spring turmoil, but higher credit card debt helped push loan balances higher as consumers borrowed to beat inflation, an FDIC report showed this week.",
-          "link": "https://www.investopedia.com/credit-cards-auto-loans-an-issue-for-consumer-lending-7643602?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-15T20:41:33.000Z",
-          "wordCount": 5173,
-          "title": "Credit Card Debt, Auto Loan Delinquencies Pose Problems for Consumer Lending",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/dO_KTmfY0JrU7wIf9AZ_Nuskl_E=/4000x2662/GettyImages-1247382819-bb85ae944be04c3386fe27bc1bee3ca9.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/dO_KTmfY0JrU7wIf9AZ_Nuskl_E=/4000x2662/GettyImages-1247382819-bb85ae944be04c3386fe27bc1bee3ca9.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/top-cds-today-three-new-high-yield-options-and-a-leading-rate-of-5-90-7643428",
-          "author": "Staff Author",
-          "description": "Today's best CD rates are 5.90% from Pelican State Credit Union for 2 years, 5.75% from MapleMark Bank for 1 year, and 5.65% from Dow Credit Union for 3 months.",
-          "link": "https://www.investopedia.com/top-cds-today-three-new-high-yield-options-and-a-leading-rate-of-5-90-7643428?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-15T20:30:30.000Z",
-          "wordCount": 5794,
-          "title": "Top CDs Today: Three New High-Yield Options and a Leading Rate of 5.90%",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/7iCDWIqFO7MlBFpfGR737EUVwVs=/2959x2000/August15-701a6977a8dd469db1f6ee11810cafbd.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/7iCDWIqFO7MlBFpfGR737EUVwVs=/2959x2000/August15-701a6977a8dd469db1f6ee11810cafbd.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/shoppers-are-turbocharging-the-economy-gdp-model-shows-7643882",
-          "author": "Staff Author",
-          "description": "The Atlanta Fed’s GDPNow tracker estimates GDP will grow at an annual rate of 5% in the third quarter after a surprising jump in retail sales.",
-          "link": "https://www.investopedia.com/shoppers-are-turbocharging-the-economy-gdp-model-shows-7643882?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-15T20:24:22.000Z",
-          "wordCount": 5104,
-          "title": "Shoppers Are Turbocharging the Economy, GDP Model Shows",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/5wCg6jKFdnP0aIKX0V4i0XdMcOw=/5121x3414/GettyImages-980814892-292182ed33674e63bdb6a663320c8dc5.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/5wCg6jKFdnP0aIKX0V4i0XdMcOw=/5121x3414/GettyImages-980814892-292182ed33674e63bdb6a663320c8dc5.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/wheels-up-bailout-cedes-control-delta-certares-knighthead-7643839",
-          "author": "Staff Author",
-          "description": "Shares of Wheels Up skyrocketed after Delta Air Lines, Certares Management, and Knighthead Capital Management bailed out the private charter jet provider and took control of the firm.",
-          "link": "https://www.investopedia.com/wheels-up-bailout-cedes-control-delta-certares-knighthead-7643839?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-15T20:20:22.000Z",
-          "wordCount": 5026,
-          "title": "Wheels Up Gets a Bailout and Cedes Control to Delta Air Lines, Certares, and Knighthead",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/rhkihWOzGpl2kYSO9DAOoopSBR4=/1604x1070/Tail_4060_802x535_2x.width-1920-a25a8df61a03420f96a0a64b143d211e.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/rhkihWOzGpl2kYSO9DAOoopSBR4=/1604x1070/Tail_4060_802x535_2x.width-1920-a25a8df61a03420f96a0a64b143d211e.jpg"
         }
       ]
     },
@@ -30281,6 +30226,16 @@
           "wordCount": 7386,
           "title": "Dollar Slips as Market Assumes Fed Will Focus on Falling Core Inflation",
           "imageUrl": null
+        },
+        {
+          "id": "ray-dalio-says-doesn-t-073742264.html",
+          "author": null,
+          "description": "(Bloomberg) -- Bridgewater Associates LP founder Ray Dalio said he doesn’t want to own bonds and prefers cash, highlighting difficulties investors face as global central banks try to manage inflation.Most Read from BloombergCaesars Entertainment Paid Millions to Hackers in AttackCiti Plans Job Cuts as It Revamps Top Management StructureChina Sows Fresh Confusion About Apple With Security RemarksLuxury Cruise Ship Full of Australians Stuck in Greenland ArcticFed on Alert for One More Hike After ‘",
+          "link": "https://finance.yahoo.com/news/ray-dalio-says-doesn-t-073742264.html",
+          "publishedOn": "2023-09-14T07:37:42.000Z",
+          "wordCount": 9330,
+          "title": "Ray Dalio Says He Doesn’t Want to Hold Bonds, Cash ‘Is Good’",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/dzY2wX.bx6NWfwpr3Ov66g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/8e98e28033a78f02432a18670cb4ca07"
         },
         {
           "id": "moodys-cuts-china-property-sectors-054916287.html",
@@ -30301,6 +30256,16 @@
           "wordCount": 10219,
           "title": "Chip Designer Arm’s IPO Was Priced for Smooth Trading Debut",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/BlP6KfxeAZ2oPZFq7ZW2ZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/c39b3afec30e9f5e9bb0dc9d60ff74c9"
+        },
+        {
+          "id": "twenty-years-euro-no-vote-052013948.html",
+          "author": null,
+          "description": "Think Sweden, where a  nosedive in the local crown currency over the past 18 months is proving a blessing for used-car dealers and other exporters.  But 20 years after Swedes voted in a referendum to stay out of Europe's single currency, the crown's 17.5% slide against the euro is not making everyone happy.  \"Many foreign car dealers think there is a sale on in Sweden,\" Joachim Agren, senior key account manager at the Swedish branch of BCA, Europe's largest vehicle remarketing company according to its website, told Reuters.",
+          "link": "https://finance.yahoo.com/news/twenty-years-euro-no-vote-052013948.html",
+          "publishedOn": "2023-09-14T05:20:13.000Z",
+          "wordCount": 10121,
+          "title": "Twenty years after euro \"No\" vote, Swedes fret over weak crown",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/786718c6780d76e516104c34584c13d1"
         },
         {
           "id": "a-saudi-defense-contractor-courted-russia-and-china-then-its-u-s-business-partners-fled-962527ad?siteid=yhoof2&yptr=yahoo",
@@ -30361,6 +30326,36 @@
           "wordCount": 10932,
           "title": "‘The Balance Is to the Upside’: Citi Recommends Owning These 3 Stocks for 40%-Plus Upside — Here’s Why They Could Surge",
           "imageUrl": "https://media.zenfs.com/en/tipranks_452/29b21a958d39080c097a54028a5bc009"
+        },
+        {
+          "id": "tesla-most-shorted-stock-market-230020496.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/tesla-most-shorted-stock-market-230020496.html",
+          "publishedOn": "2023-09-13T23:00:20.000Z",
+          "wordCount": null,
+          "title": "Tesla is the most shorted stock in the market - and investors have bet against it more than any other name for 3 straight months",
+          "imageUrl": null
+        },
+        {
+          "id": "direxion-rolls-nvidia-focused-etfs-223407410.html",
+          "author": null,
+          "description": "The Direxion Daily NVDA Bull 1.5x Shares ETF seeks to deliver 1.5 times the price return of daily moves in Nvidia’s shares, which have more than tripled year-to-date.  Meanwhile, the Direxion Daily NVDD Bear 1x Shares ETF allows bearish investors to profit when Nvidia’s shares decline.",
+          "link": "https://finance.yahoo.com/news/direxion-rolls-nvidia-focused-etfs-223407410.html",
+          "publishedOn": "2023-09-13T22:34:07.000Z",
+          "wordCount": 9583,
+          "title": "Direxion rolls out Nvidia-focused ETFs for bulls and bears",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/1f8824221f5b80e480cf9942f42c74d9"
+        },
+        {
+          "id": "mullen-automotive-buys-romeo-power-assets.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "author": null,
+          "description": "Mullen Automotive Inc. said it spent $3.5 million to purchase battery pack production assets from Romeo Power.",
+          "link": "https://www.bizjournals.com/losangeles/news/2023/09/13/mullen-automotive-buys-romeo-power-assets.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "publishedOn": "2023-09-13T21:20:03.000Z",
+          "wordCount": 4233,
+          "title": "Mullen Automotive spends $3.5 million on Romeo Power assets",
+          "imageUrl": "https://media.bizj.us/view/img/12594981/mullen*1200xx3840-2160-0-0.jpg"
         },
         {
           "id": "column-why-auto-workers-strike-211222480.html",
@@ -30641,6 +30636,16 @@
           "wordCount": 10245,
           "title": "Intel Rides Made-in-America Wave to Big Stock Gain",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/cb195cb35b556714d22efe18bfb954df"
+        },
+        {
+          "id": "vw-eyes-job-cuts-zwickau-133801982.html",
+          "author": null,
+          "description": "Volkswagen is looking at reducing staff at its plant in the eastern German city of Zwickau due to low demand for electric cars, the dpa news agency reported on Wednesday.  Volkswagen was not immediately available for comment.  The German carmaker would thin down staff by allowing fixed-term contracts to expire, which could affect a few hundred employees at the end of October, according to dpa information.",
+          "link": "https://finance.yahoo.com/news/vw-eyes-job-cuts-zwickau-133801982.html",
+          "publishedOn": "2023-09-13T13:38:01.000Z",
+          "wordCount": 9535,
+          "title": "VW eyes job cuts at Zwickau plant on low e-car demand -dpa",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/e7a656b5db01e0ad9e2aa491aca39687"
         },
         {
           "id": "stocks-edge-up-after-inflation-data-comes-in-hot-stock-market-news-today-133238731.html",
@@ -53081,106 +53086,6 @@
           "wordCount": 7989,
           "title": "J&J’s Kenvue Deal Could Be Too Popular. What Happens if It Is.",
           "imageUrl": "https://images.barrons.com/im-836233/social"
-        },
-        {
-          "id": "pnc-joins-wall-street-banks-151137912.html",
-          "author": null,
-          "description": "(Bloomberg) -- PNC Financial Group Services Inc. tapped the US blue-chip bond market for the second time since a regional banking crisis rattled investors earlier this year.Most Read from BloombergHollywood Studios Offer Writers a New Deal With Push From Netflix, Iger to End StrikeRussia Calls Emergency Key Rate Meeting as Ruble PlungesRussia’s Emergency Rate Hike Fails to Lift Ruble After CrashS&P 500 Drops Below Key Level in Late-Day Slide: Markets WrapThe Fed’s Interest-Rate Debate Is Shiftin",
-          "link": "https://finance.yahoo.com/news/pnc-joins-wall-street-banks-151137912.html",
-          "publishedOn": "2023-08-15T21:05:11.000Z",
-          "wordCount": 9521,
-          "title": "PNC Sells $750 Million of Bonds as Banks Rush to Raise Cash",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/0e34905d3126ed6e7154b33b09b64a4d"
-        },
-        {
-          "id": "maker-400-golf-putters-becomes-205537204.html",
-          "author": null,
-          "description": "(Bloomberg) -- Sacks Parente Golf Inc. shares skyrocketed 624% in its first day of trading, notching the best initial public offering debut on a US exchange this year.Most Read from BloombergHollywood Studios Offer Writers a New Deal With Push From Netflix, Iger to End StrikeRussia Calls Emergency Key Rate Meeting as Ruble PlungesRussia’s Emergency Rate Hike Fails to Lift Ruble After CrashS&P 500 Drops Below Key Level in Late-Day Slide: Markets WrapTrump Indictment Lays Out Sweeping Georgia Elec",
-          "link": "https://finance.yahoo.com/news/maker-400-golf-putters-becomes-205537204.html",
-          "publishedOn": "2023-08-15T20:55:37.000Z",
-          "wordCount": 9079,
-          "title": "Maker of $400 Golf Putters Becomes 2023’s Best IPO With a 624% Gain",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/0df68f9f61ac4cf2dbb70a29faf9cffe"
-        },
-        {
-          "id": "vinfast-65-billion-spac-valuation-192744065.html",
-          "author": null,
-          "description": "(Bloomberg) -- VinFast Auto Ltd. soared in its debut as a public company, vaulting its market capitalization beyond that of General Motors Co. and Ford Motor Co., as traders flipped shares of the electric-vehicle maker.Most Read from BloombergRussia Calls Emergency Key Rate Meeting as Ruble PlungesHollywood Studios Offer Writers a New Deal With Push From Netflix, Iger to End StrikeTrump Indictment Lays Out Sweeping Georgia Election PlotRussia’s Emergency Rate Hike Fails to Lift Ruble After Crash",
-          "link": "https://finance.yahoo.com/news/vinfast-65-billion-spac-valuation-192744065.html",
-          "publishedOn": "2023-08-15T20:55:35.000Z",
-          "wordCount": 9545,
-          "title": "VinFast’s $65 Billion De-SPAC Valuation Vaults It Past Ford, General Motors",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/llK1pIEqjQEmP5Z_PJOsLw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTc-/https://media.zenfs.com/en/bloomberg_markets_842/61bca39253545b9fdd2f3cae1e2cf918"
-        },
-        {
-          "id": "warren-buffett-bought-3-stocks-203900108.html",
-          "author": null,
-          "description": "Warren Buffett is widely recognized as the greatest investor of all time, so when he buys new stocks, investors tend to take notice. According to its latest 13F filing, which came out yesterday, Buffett’s Berkshire Hathaway initiated positions in just three new stocks during the second quarter — NVR (NYSE:NVR), Lennar (NYSE:LEN), and D.R. Horton, Inc. (NYSE:DHI). Interestingly, all three are homebuilders. While investors should always do their own due diligence before making any investment, taki",
-          "link": "https://finance.yahoo.com/news/warren-buffett-bought-3-stocks-203900108.html",
-          "publishedOn": "2023-08-15T20:39:00.000Z",
-          "wordCount": 10284,
-          "title": "Warren Buffett Bought 3 New Stocks — The ITB ETF Owns Them All",
-          "imageUrl": "https://media.zenfs.com/en/tipranks_452/84569c91d2a1f7e70d9755444de843cb"
-        },
-        {
-          "id": "cava-earnings-203752847.html",
-          "author": null,
-          "description": "Cava delivered impressive earnings as it basks in its post-IPO glow.",
-          "link": "https://finance.yahoo.com/news/cava-earnings-203752847.html",
-          "publishedOn": "2023-08-15T20:37:52.000Z",
-          "wordCount": 9708,
-          "title": "Cava turns profitable, justifies high valuation with big quarter for sales",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/DqyI0fgj.3vaoIX2MgMxzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/23e8ef60-0bad-11ee-b55f-25eaf421997e"
-        },
-        {
-          "id": "cava-turns-profitable-justifies-high-valuation-with-a-big-quarter-for-sales-203752620.html",
-          "author": null,
-          "description": "Cava is giving investors their first taste of its future potential.",
-          "link": "https://finance.yahoo.com/news/cava-turns-profitable-justifies-high-valuation-with-a-big-quarter-for-sales-203752620.html",
-          "publishedOn": "2023-08-15T20:37:52.000Z",
-          "wordCount": 9518,
-          "title": "Cava turns profitable, justifies high valuation with a big quarter for sales",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/DqyI0fgj.3vaoIX2MgMxzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/23e8ef60-0bad-11ee-b55f-25eaf421997e"
-        },
-        {
-          "id": "vietnamese-ev-maker-vinfast-surges-203641581.html",
-          "author": null,
-          "description": "(Bloomberg) -- VinFast Auto Ltd. soared in its first day of trading as the Vietnamese electric-vehicle maker looks to raise its profile and take on established car manufacturers.Most Read from BloombergHollywood Studios Offer Writers a New Deal With Push From Netflix, Iger to End StrikeRussia Calls Emergency Key Rate Meeting as Ruble PlungesRussia’s Emergency Rate Hike Fails to Lift Ruble After CrashS&P 500 Drops Below Key Level in Late-Day Slide: Markets WrapTrump Indictment Lays Out Sweeping G",
-          "link": "https://finance.yahoo.com/news/vietnamese-ev-maker-vinfast-surges-203641581.html",
-          "publishedOn": "2023-08-15T20:36:41.000Z",
-          "wordCount": 9588,
-          "title": "Vietnamese EV Maker VinFast Surges in Nasdaq Trading Debut",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/q1beMd3Bn2QLXxq0QipaxA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/99244b8b5193b5cb6fa4308b2c01b43b"
-        },
-        {
-          "id": "wheels-up-nears-500-million-rescue-deal-from-investors-delta-541936b7?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The private-jet membership company agreed to turn over a 95% stake in return for new financing.",
-          "link": "https://www.wsj.com/articles/wheels-up-nears-500-million-rescue-deal-from-investors-delta-541936b7?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-08-15T20:34:00.000Z",
-          "wordCount": 8659,
-          "title": "Wheels Up Lands $500 Million Rescue That Puts Delta, Investors in Control",
-          "imageUrl": "https://images.wsj.net/im-577941/social"
-        },
-        {
-          "id": "top-cds-today-three-new-high-yield-options-and-a-leading-rate-of-5-90-7643428?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Today's best CD rates are 5.90% from Pelican State Credit Union for 2 years, 5.75% from MapleMark Bank for 1 year, and 5.65% from Dow Credit Union for 3 months.",
-          "link": "https://www.investopedia.com/top-cds-today-three-new-high-yield-options-and-a-leading-rate-of-5-90-7643428?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-08-15T20:30:30.000Z",
-          "wordCount": 6251,
-          "title": "Top CDs Today: Three New High-Yield Options and a Leading Rate of 5.90%",
-          "imageUrl": "https://www.investopedia.com/thmb/aq7qeOmSmRt0uq0JtfiMWkgR7aI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/August15-701a6977a8dd469db1f6ee11810cafbd.jpg"
-        },
-        {
-          "id": "insiders-agree-reit-great-value-202010529.html",
-          "author": null,
-          "description": "It's always a good sign for stockholders when they see one of the insiders at a company buying shares of company stock. It's well known that insiders may sell shares for dozens of personal reasons that have nothing to do with the company's performance, but generally, insiders are only buyers when they feel the stock price is undervalued and likely to rise over time. It's even more significant when multiple insiders are buying shares of company stock, as that indicates optimism among more than on",
-          "link": "https://finance.yahoo.com/news/insiders-agree-reit-great-value-202010529.html",
-          "publishedOn": "2023-08-15T20:20:10.000Z",
-          "wordCount": 9849,
-          "title": "Insiders 'Agree': This REIT Is A Great Value At These Levels",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/709f1e48dc647c7da6e653f6d2dcbd84"
         }
       ]
     }
