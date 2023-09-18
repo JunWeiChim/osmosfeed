@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-18T22:11:02.786Z</updated>
+    <updated>2023-09-18T23:11:38.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -144,6 +144,15 @@
         <summary type="html"><![CDATA[The Investopedia Anxiety Index is a gauge of investor sentiment based on the behavior of over 20 million Investopedia readers around the world.]]></summary>
         <author>
             <name>Caleb Silver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dow Jones Up As Tesla Dives Amid Elon Musk Denial; These Bill Ackman Stocks Eye Buy Points]]></title>
+        <id>?src=A00220&amp;yptr=yahoo</id>
+        <link href="https://www.investors.com/market-trend/stock-market-today/dow-jones-up-as-tesla-stock-falls-on-these-worries-bill-ackman-stocks-eye-entries-but-consider-this-apple-stock-arm-stock/?src=A00220&amp;yptr=yahoo"/>
+        <updated>2023-09-18T20:20:54.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
         </author>
     </entry>
     <entry>
@@ -43172,36 +43181,6 @@ Dow Jones Industrial Average futures were up 75 points, or 0.2%. S&P 500 futures
         <summary type="html"><![CDATA[Disney's size was once its strength. Now it's under scrutiny.]]></summary>
         <author>
             <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI Trade Faces Its First Major Test With Nvidia Earnings]]></title>
-        <id>the-ai-trade-faces-its-first-major-test-with-nvidia-earnings-4e820df1?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.wsj.com/finance/stocks/the-ai-trade-faces-its-first-major-test-with-nvidia-earnings-4e820df1?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2023-08-20T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The chip maker’s rosy forecast lifted markets in a turbulent time—but the bar to dazzle investors is higher now.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rare Signal Points to More Upside for Energy Stocks]]></title>
-        <id>rare-signal-points-more-upside-105601966.html</id>
-        <link href="https://finance.yahoo.com/news/rare-signal-points-more-upside-105601966.html"/>
-        <updated>2023-08-20T10:56:01.000Z</updated>
-        <summary type="html"><![CDATA[Energy stocks are up big recently. In July alone, the Energy Select Sector SPDR Fund (XLE) gained 7.8%.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Italiaanse spoorwegmaatschappij FS wil concurrentiestrijd aangaan in Europa]]></title>
-        <id>https://www.nu.nl/-/6277264/</id>
-        <link href="https://www.nu.nl/economie/6277264/italiaanse-spoorwegmaatschappij-fs-wil-concurrentiestrijd-aangaan-in-europa.html"/>
-        <updated>2023-08-20T10:42:29.000Z</updated>
-        <summary type="html"><![CDATA[De Italiaanse nationale spoorwegmaatschappij FS wil de concurrentiestrijd aangaan op het Europese spoor. Het spoorbedrijf wil ook trajecten uitzetten richting Amsterdam.]]></summary>
-        <author>
-            <name>onze nieuwsredactie</name>
         </author>
     </entry>
 </feed>
