@@ -2059,6 +2059,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6281534/",
+          "author": "Noémi van de Pol",
+          "description": "De inflatie in de eurozone is vorige maand iets gedaald. Eerder leek het erop dat de inflatie in augustus even hoog was als in juli, maar nieuwe cijfers laten een kleine daling zien.",
+          "link": "https://www.nu.nl/economie/6281534/inflatie-in-eurolanden-toch-iets-gedaald-in-augustus.html",
+          "publishedOn": "2023-09-19T10:17:09.000Z",
+          "wordCount": 936,
+          "title": "Inflatie in eurolanden tóch iets gedaald in augustus",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/4k2x353a14xs_sqr256.jpg/inflatie-in-eurolanden-toch-iets-gedaald-in-augustus.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/4k2x353a14xs_sqr256.jpg/inflatie-in-eurolanden-toch-iets-gedaald-in-augustus.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6281525/",
           "author": "onze techredactie",
           "description": "Als het aan Elon Musk ligt, gaat iedere gebruiker van X binnenkort een klein geldbedrag betalen. Dat is volgens de miljardair nodig om spamaccounts van het socialemediaplatform te weren.",
@@ -8050,6 +8065,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/personal-finance/how-much-income-puts-you-top-1-5-10/",
+          "author": "Julia Kagan",
+          "description": "To count yourself among the nation's top earners, it takes an income of at least six figures. Here's how the numbers break down for each group.",
+          "link": "https://www.investopedia.com/personal-finance/how-much-income-puts-you-top-1-5-10/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-09-19T10:53:05.000Z",
+          "wordCount": 6508,
+          "title": "How Much Income Puts You in the Top 1%, 5%, or 10%?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/7qhmV27aeXZyhjWZOsZzlgVLLsg=/1500x1001/GettyImages-1095869292-8eb86d666d8f40e19c8887ed43fd138e.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/7qhmV27aeXZyhjWZOsZzlgVLLsg=/1500x1001/GettyImages-1095869292-8eb86d666d8f40e19c8887ed43fd138e.jpg"
+        },
         {
           "id": "https://www.investopedia.com/us-bank-cd-rates-7497336",
           "author": "Staff Author",
@@ -29919,36 +29949,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/sqs-MwMY7-NWArgMNuIlPkBlHeo=/2121x1414/GettyImages-976906816-fb361f948ed34f72a7f4a32da3b706e0.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/investing/122215/sqqq-proshares-ultrapro-short-qqq-etf.asp",
-          "author": "Sean Ross",
-          "description": "Take a closer look at the ProShares UltraPro QQQ Short ETF, a small, inverse-leveraged ETF that relies on a poor performance from the Nasdaq stock exchange.",
-          "link": "https://www.investopedia.com/articles/investing/122215/sqqq-proshares-ultrapro-short-qqq-etf.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-20T23:06:33.000Z",
-          "wordCount": 6427,
-          "title": "SQQQ: ProShares UltraPro Short QQQ ETF",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ZAQMcjBQiLH082b6gWsL6m6V54s=/680x440/17_--thinkstockphotos-186278217-5bfc3923c9e77c005147a81a.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ZAQMcjBQiLH082b6gWsL6m6V54s=/680x440/17_--thinkstockphotos-186278217-5bfc3923c9e77c005147a81a.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/can-you-lease-a-used-car-5115886",
-          "author": "Dan Miller",
-          "description": "Used-car leases are rarer than leases on new cars, but they can be a viable option, especially if you’re looking to save some money.",
-          "link": "https://www.investopedia.com/can-you-lease-a-used-car-5115886?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-20T22:57:55.000Z",
-          "wordCount": 5179,
-          "title": "Can You Lease a Used Car?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/duQiawzzBMogagAe8FcjxiAcbmM=/3000x1911/GettyImages-115741172-594306fd5f9b58d58aad1e87.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/duQiawzzBMogagAe8FcjxiAcbmM=/3000x1911/GettyImages-115741172-594306fd5f9b58d58aad1e87.jpg"
         }
       ]
     },
@@ -29957,6 +29957,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "block-stock-jack-dorsey-square-762d0235?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "'We like that Dorsey is stepping in to lead Square strategy directly,' analysts at J.P. Morgan wrote in a note following Block's filing.",
+          "link": "https://www.barrons.com/articles/block-stock-jack-dorsey-square-762d0235?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-09-19T10:10:00.000Z",
+          "wordCount": 6508,
+          "title": "Block Stock Slips as Jack Dorsey Steps In to Run Square. Any Worries May Be Overblown.",
+          "imageUrl": "https://images.barrons.com/im-442451/social"
+        },
+        {
+          "id": "arm-stock-ipo-softbank-e8ae2fbb?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Share of chip-design firm Arm were falling again early Tuesday but majority owner SoftBank was counting its gains from the company's IPO.",
+          "link": "https://www.barrons.com/articles/arm-stock-ipo-softbank-e8ae2fbb?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-09-19T10:02:00.000Z",
+          "wordCount": 6533,
+          "title": "Arm Stock Is Dropping Again. Why Its Owner Is Happy.",
+          "imageUrl": "https://images.barrons.com/im-23361781/social"
+        },
         {
           "id": "nio-stock-convertible-bonds-43911c83?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -30056,6 +30076,16 @@
           "wordCount": 6457,
           "title": "Target Stock Tumbled. It Can’t Catch a Break.",
           "imageUrl": "https://images.barrons.com/im-88476512/social"
+        },
+        {
+          "id": "us-steel-blast-furnace-saved-212324276.html",
+          "author": null,
+          "description": "(Bloomberg) -- US Steel Corp. is idling an Illinois blast furnace that Donald Trump visited as part of his self-proclaimed “rescue” of the American steel industry five years ago, as it moves to balance production levels against the demand impact from customers affected by the United Auto Workers strike. Most Read from BloombergDebris Spotted in Search for Missing US F-35 Fighter JetVegas’ Newest Resort Is a $3.7 Billion Palace, 23 Years in the MakingHow Auto Executives Misread the UAW Ahead of H",
+          "link": "https://finance.yahoo.com/news/us-steel-blast-furnace-saved-212324276.html",
+          "publishedOn": "2023-09-18T21:23:24.000Z",
+          "wordCount": 9774,
+          "title": "US Steel Blast Furnace ‘Saved’ by Trump Now Idled on UAW Strike",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/lWotEB_.odcXsHK0rwIYzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/aace2a5785033b0a3bb6a6bce2b35973"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -30206,6 +30236,16 @@
           "wordCount": 6452,
           "title": "Target Stock Is Tumbling. It Can’t Catch a Break.",
           "imageUrl": "https://images.barrons.com/im-88476512/social"
+        },
+        {
+          "id": "ai-prediction-tupperware-stock-surge-florida.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "author": null,
+          "description": "AI stock predictions are fast becoming the new normal. Here's the wild prediction one AI platform made about Tupperware stocks.",
+          "link": "https://www.bizjournals.com/orlando/news/2023/09/18/ai-prediction-tupperware-stock-surge-florida.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh&yptr=yahoo",
+          "publishedOn": "2023-09-18T17:33:47.000Z",
+          "wordCount": 5998,
+          "title": "AI predicts Orlando-based Tupperware's stock will surge. See why.",
+          "imageUrl": "https://media.bizj.us/view/img/1704911/tupperware-smartsteamer*1200xx1500-845-0-985.jpg"
         },
         {
           "id": "moderna-pfizer-stocks-fall-with-weak-expected-covid-vaccine-demand-5w1tlKQ3SRtiTaINre0v?siteid=yhoof2&yptr=yahoo",
@@ -52706,36 +52746,6 @@
           "wordCount": 6784,
           "title": "3 Reasons Costco Is a Great Company",
           "imageUrl": "https://www.investopedia.com/thmb/D5Naj3SBCf4s4fSidpeMb1mY6-s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-976906816-fb361f948ed34f72a7f4a32da3b706e0.jpg"
-        },
-        {
-          "id": "raymond-james-says-warren-buffett-230723035.html",
-          "author": null,
-          "description": "Sometimes identifying the best stocks to buy can be difficult, but you could do a lot worse than checking out the stocks selected by one of the world’s savviest hedge fund managers – Warren Buffett. Buffett’s stock picks are a popular source of inspiration for investors, and for good reason. His formidable stock-picking ability has given him the nickname ‘the Oracle of Omaha’ and a fortune of ~$117 billion, making him one of the richest people in the world. His firm, Berkshire Hathaway, is also",
-          "link": "https://finance.yahoo.com/news/raymond-james-says-warren-buffett-230723035.html",
-          "publishedOn": "2023-08-20T23:07:23.000Z",
-          "wordCount": 10431,
-          "title": "Raymond James Says These New Warren Buffett Stock Picks Have Double-Digit Upside Potential",
-          "imageUrl": "https://media.zenfs.com/en/tipranks_452/84569c91d2a1f7e70d9755444de843cb"
-        },
-        {
-          "id": "sqqq-proshares-ultrapro-short-qqq-etf.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Take a closer look at the ProShares UltraPro QQQ Short ETF, a small, inverse-leveraged ETF that relies on a poor performance from the Nasdaq stock exchange.",
-          "link": "https://www.investopedia.com/articles/investing/122215/sqqq-proshares-ultrapro-short-qqq-etf.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-08-20T23:05:00.000Z",
-          "wordCount": 6437,
-          "title": "SQQQ: ProShares UltraPro Short QQQ ETF",
-          "imageUrl": "https://www.investopedia.com/thmb/rKdMVPcw5vvIhIgxaO4IxXxy0_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17_--thinkstockphotos-186278217-5bfc3923c9e77c005147a81a.jpg"
-        },
-        {
-          "id": "stocks-poised-to-open-higher-9ffe5838?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Federal Chairman Jerome Powell will speak Friday at the Federal Reserve Bank of Kansas City's Economic Policy Symposium in Jackson Hole, Wyo.",
-          "link": "https://www.barrons.com/articles/stocks-poised-to-open-higher-9ffe5838?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-08-20T22:39:00.000Z",
-          "wordCount": 7926,
-          "title": "Stocks Poised to Open Higher",
-          "imageUrl": "https://images.barrons.com/im-838208/social"
         }
       ]
     }
