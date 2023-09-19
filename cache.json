@@ -2059,6 +2059,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6281485/",
+          "author": "Noémi van de Pol",
+          "description": "Benzine kost weer meer dan 2,30 euro. Dat is voor het eerst sinds juli vorig jaar, blijkt uit cijfers van consumentencollectief UnitedConsumers. De stijging komt doordat olie steeds duurder wordt.",
+          "link": "https://www.nu.nl/economie/6281485/benzineprijs-stijgt-naar-hoogste-punt-in-meer-dan-een-jaar.html",
+          "publishedOn": "2023-09-19T08:52:06.000Z",
+          "wordCount": 940,
+          "title": "Benzineprijs stijgt naar hoogste punt in meer dan een jaar",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/uuuxxkjafbgi_sqr256.jpg/benzineprijs-stijgt-naar-hoogste-punt-in-meer-dan-een-jaar.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/uuuxxkjafbgi_sqr256.jpg/benzineprijs-stijgt-naar-hoogste-punt-in-meer-dan-een-jaar.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6281498/",
           "author": "Noémi van de Pol",
           "description": "Vopak verkoopt drie grote terminals voor chemische producten in de haven van Rotterdam. Het opslagbedrijf maakte dinsdag bekend dat het de terminals verkoopt aan het Britse investeringsfonds Infracapital.",
@@ -29949,36 +29964,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/Dk7UQLEEYMSRD4Vg9OylBF6GUTc=/5134x3416/How-Much-Insurance-Minimum-Car-Insurance-Requirements-list-by-State-574070de3df78c6bb08a3811.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/investing/080813/how-profit-inflation.asp",
-          "author": "Lisa Smith",
-          "description": "Changes in the inflation rate can present challenges for investors as well as consumers. Learn how to turn these challenges into opportunities.",
-          "link": "https://www.investopedia.com/articles/investing/080813/how-profit-inflation.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-20T20:45:33.000Z",
-          "wordCount": 8283,
-          "title": "How To Profit From Inflation",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/LlyabhIBy4lYJpeqdOHz4qJhNV8=/1500x1000/how-profit-inflation_V2-7a44069f363c407c8cbe36814b79e848.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/LlyabhIBy4lYJpeqdOHz4qJhNV8=/1500x1000/how-profit-inflation_V2-7a44069f363c407c8cbe36814b79e848.png"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/042215/what-difference-between-economies-scope-and-economies-scale.asp",
-          "author": "Steven Nickolas",
-          "description": "Learn about economies of scope and economies of scale, the differences between them, and how they offer cost advantages to companies.",
-          "link": "https://www.investopedia.com/ask/answers/042215/what-difference-between-economies-scope-and-economies-scale.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-20T20:39:37.000Z",
-          "wordCount": 7200,
-          "title": "Understanding Economies of Scope vs. Economies of Scale",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ZZNdZFO9sFSIJMB0tJc97RaiVfc=/2124x1411/GettyImages-766413195-cebadf721cf749e4acab3d8b6a790b78.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ZZNdZFO9sFSIJMB0tJc97RaiVfc=/2124x1411/GettyImages-766413195-cebadf721cf749e4acab3d8b6a790b78.jpg"
         }
       ]
     },
@@ -29988,6 +29973,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "stock-market-movers-8c0c7b23?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "NIO plans to raise $1 billion by issuing convertible senior notes, Moderna stock rebounds slightly, and the head of Square, Block's payments platform, is stepping down.",
+          "link": "https://www.barrons.com/articles/stock-market-movers-8c0c7b23?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-09-19T08:38:00.000Z",
+          "wordCount": 6583,
+          "title": "These Stocks Are Moving the Most Today: NIO, Moderna, Block, U.S. Steel, and More",
+          "imageUrl": "https://images.barrons.com/im-464732/social"
+        },
+        {
           "id": "tesla-shorted-car-stock-auto-second-third-d0e889ea?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "A new report from short-selling research firm S3 Partners shows how much money is being bet against automotive stocks.",
@@ -29996,6 +29991,16 @@
           "wordCount": 6534,
           "title": "Tesla Is the Most Shorted Car Stock. These Auto Makers Are Second and Third.",
           "imageUrl": "https://images.barrons.com/im-757730/social"
+        },
+        {
+          "id": "tesla-deliveries-stock-ev-estimates-8797fc76?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The third quarter is almost over so it's time for a Tesla delivery preview.",
+          "link": "https://www.barrons.com/articles/tesla-deliveries-stock-ev-estimates-8797fc76?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-09-19T07:25:00.000Z",
+          "wordCount": 6525,
+          "title": "Tesla Delivery Estimates Are Dropping. There’s Good and Bad News About That.",
+          "imageUrl": "https://images.barrons.com/im-722225/social"
         },
         {
           "id": "apple-iphone-15-deals-are-out-what-they-mean-for-t-mobile-at-t-verizon-stocks-6c42252?siteid=yhoof2&yptr=yahoo",
@@ -52756,16 +52761,6 @@
           "wordCount": 9748,
           "title": "Nikola’s energy president resigns",
           "imageUrl": "https://media.zenfs.com/en/freightwaves_373/111bd9928d509a1f45d0675493c6e824"
-        },
-        {
-          "id": "bond-vigilantes-saddling-heres-concerned-203001259.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/bond-vigilantes-saddling-heres-concerned-203001259.html",
-          "publishedOn": "2023-08-20T20:30:01.000Z",
-          "wordCount": null,
-          "title": "Bond vigilantes are 'saddling up.' Here's how concerned investors might take action over the ballooning federal deficit.",
-          "imageUrl": null
         }
       ]
     }
