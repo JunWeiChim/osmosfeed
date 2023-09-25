@@ -1989,6 +1989,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6282410/",
+          "author": "onze nieuwsredactie",
+          "description": "KLM heeft met pilotenvakbond VNV een cao-akkoord op hoofdlijnen gesloten. Daardoor gaat een geplande werkonderbreking van de vliegers maandag niet door, stelt de luchtvaartmaatschappij.",
+          "link": "https://www.nu.nl/economie/6282410/korte-staking-klm-piloten-van-de-baan-cao-akkoord-bereikt.html",
+          "publishedOn": "2023-09-25T05:40:25.000Z",
+          "wordCount": 801,
+          "title": "Korte staking KLM-piloten van de baan, cao-akkoord bereikt",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/eu4xj28ancqs_sqr256.jpg/korte-staking-klm-piloten-van-de-baan-cao-akkoord-bereikt.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/eu4xj28ancqs_sqr256.jpg/korte-staking-klm-piloten-van-de-baan-cao-akkoord-bereikt.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6282133/",
           "author": "onze economieredactie",
           "description": "HEMA stapt over op cacaoboeren die zijn aangesloten bij een netwerk dat zich inzet tegen de uitbuiting in de cacao-industrie. In de loop van volgend jaar moeten alle HEMA-chocolaatjes gemaakt worden van traceerbare cacao.",
@@ -8272,21 +8287,6 @@
             "url": "https://media.nu.nl/m/mcix5zma1397_sqr256.jpg/wat-gaan-wij-merken-van-de-europese-wet-voor-grote-techbedrijven.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/mcix5zma1397_sqr256.jpg/wat-gaan-wij-merken-van-de-europese-wet-voor-grote-techbedrijven.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6278039/",
-          "author": "Tim Wijkman-van Aalst",
-          "description": "Apple, Google, Facebook moederbedrijf Meta, X (voorheen Twitter) en andere grote techbedrijven vallen vanaf nu onder een nieuwe Europese wet. Deze zogenoemde Digital Services Act (DSA) moet ervoor zorgen dat inwoners van de EU online beter zijn beschermd.",
-          "link": "https://www.nu.nl/tech/6278039/europese-techwet-is-deze-week-ingegaan-dit-moet-je-weten.html",
-          "publishedOn": "2023-08-26T18:11:31.000Z",
-          "wordCount": 1197,
-          "title": "NU+ | Europese techwet is deze week ingegaan, dit moet je weten",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/mcix5zma1397_sqr256.jpg/europese-techwet-is-deze-week-ingegaan-dit-moet-je-weten.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/mcix5zma1397_sqr256.jpg/europese-techwet-is-deze-week-ingegaan-dit-moet-je-weten.jpg"
         }
       ]
     },
@@ -8295,6 +8295,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/how-much-does-it-cost-to-charge-an-electric-car-5186285",
+          "author": "Kat Tretina",
+          "description": "Most electric car owners charge their vehicles at home rather than at public charging stations. Here’s what you’ll pay for electricity and equipment.",
+          "link": "https://www.investopedia.com/how-much-does-it-cost-to-charge-an-electric-car-5186285?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-09-25T05:29:11.000Z",
+          "wordCount": 5987,
+          "title": "How Much Does It Cost to Charge an Electric Car?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/QJk0nXyy3uGMn4H2Lm28OrCuLrc=/2121x1414/woman-is-plugging-unplugging-cable-to-electric-car-1298426565-0199b68a20cc458ea939f8fb5361ce47.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/QJk0nXyy3uGMn4H2Lm28OrCuLrc=/2121x1414/woman-is-plugging-unplugging-cable-to-electric-car-1298426565-0199b68a20cc458ea939f8fb5361ce47.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/h/household_income.asp",
+          "author": "Michelle P. Scott",
+          "description": "Household income, as defined by the Census Bureau, is the total gross income of all people occupying the same housing unit who are 15 years and older.",
+          "link": "https://www.investopedia.com/terms/h/household_income.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-09-25T05:09:46.000Z",
+          "wordCount": 7171,
+          "title": "Household Income: What It Is and How to Calculate It",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/K9s5rNAVYblBusW8QsdjE91D-Pc=/4000x2700/household_income.aspfinal-dddb0f870b8e4195993e0a9fa2c2fa20.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/K9s5rNAVYblBusW8QsdjE91D-Pc=/4000x2700/household_income.aspfinal-dddb0f870b8e4195993e0a9fa2c2fa20.jpg"
+        },
         {
           "id": "https://www.investopedia.com/understanding-and-evaluating-home-warranties-5116644",
           "author": "Jim Probasco",
@@ -30134,36 +30164,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/1Wkv-VI8K_SmYg-oiafArkEGgDw=/680x440/153221908-5bfc2b8c4cedfd0026c118f2.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/wage-gaps-by-race-5073258",
-          "author": "Ward Williams",
-          "description": "Though countless companies claim to be championing equal opportunities within the workforce, many have yet to see this reflected in their paychecks.",
-          "link": "https://www.investopedia.com/wage-gaps-by-race-5073258?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-26T17:48:16.000Z",
-          "wordCount": 7839,
-          "title": "Wage Gaps by Race",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Eb823Cv_7JGINqNaWZ16k3hPQj4=/1731x1098/Paycheck_AdobeStock_154492502_Editorial_Use_Only-efff3c80027c45fab75b1b1b9459f1b3.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Eb823Cv_7JGINqNaWZ16k3hPQj4=/1731x1098/Paycheck_AdobeStock_154492502_Editorial_Use_Only-efff3c80027c45fab75b1b1b9459f1b3.jpeg"
-        },
-        {
-          "id": "https://www.investopedia.com/financial-edge/0511/top-6-oil-producing-states.aspx",
-          "author": "James Chen",
-          "description": "Though over half of 50 states produce at least some crude oil, there are six in particular that are responsible for the bulk of U.S. production.",
-          "link": "https://www.investopedia.com/financial-edge/0511/top-6-oil-producing-states.aspx?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-08-26T17:22:21.000Z",
-          "wordCount": 8133,
-          "title": "Top 6 Oil-Producing States",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/m9Mq5Txw6on5K6mLaLMcYPrbT3Y=/150x114/oilbarrel-5bfc2d1a46e0fb00260b6984.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/m9Mq5Txw6on5K6mLaLMcYPrbT3Y=/150x114/oilbarrel-5bfc2d1a46e0fb00260b6984.jpg"
         }
       ]
     },
@@ -30172,6 +30172,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "marketmind-feds-hawkish-pause-keeps-043850758.html",
+          "author": null,
+          "description": "Global markets have been feeling the heat as U.S. bond yields surged and a strengthened dollar hit a six-month high following the Federal Reserve's hawkish tone last week.  The Federal Reserve indicated that rates would be higher for longer, while its counterparts in Britain, Switzerland and Japan were surprisingly dovish.  The euro zone central bank also struck a relatively dovish tone.",
+          "link": "https://finance.yahoo.com/news/marketmind-feds-hawkish-pause-keeps-043850758.html",
+          "publishedOn": "2023-09-25T04:38:50.000Z",
+          "wordCount": 9445,
+          "title": "Marketmind: Fed's hawkish pause keeps pressure on markets",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/5321fe030fae50992a978e7ac0d9a705"
+        },
+        {
+          "id": "wall-street-is-hoping-100-oil-aint-what-it-used-to-be-55a1f54a?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Oil’s rise has inspired fresh fears from Washington to Wall Street that energy could throw off central bankers’ attempted soft landing of the American economy.",
+          "link": "https://www.wsj.com/economy/wall-street-is-hoping-100-oil-aint-what-it-used-to-be-55a1f54a?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-09-25T04:07:00.000Z",
+          "wordCount": 7984,
+          "title": "Wall Street Is Hoping $100 Oil Ain’t What It Used to Be",
+          "imageUrl": "https://images.wsj.net/im-856501/social"
+        },
         {
           "id": "china-developers-slump-most-since-025713139.html",
           "author": null,
@@ -30211,6 +30231,16 @@
           "wordCount": 9682,
           "title": "Evergrande shares sink after saying it is unable to issue new debt",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/e540cfa74423c70c1146e51a47af1369"
+        },
+        {
+          "id": "evergrande-liquidation-risk-rises-creditor-015451843.html",
+          "author": null,
+          "description": "(Bloomberg) -- China Evergrande Group is running out of time to get what would be one of the nation’s biggest-ever restructurings back on track, after setbacks in recent days that raise the risk of liquidation.Most Read from BloombergChinese Gold Buying Is Driving a Paradigm Shift in BullionStocks Flash Recession Warning as Trouble Spreads to IndustrialsWells Fargo Preps for Wealth Battle After $1 Billion TurnaroundIndia-Canada Clash Should Be a Wakeup CallBond Market Faces Quandary After Fed Si",
+          "link": "https://finance.yahoo.com/news/evergrande-liquidation-risk-rises-creditor-015451843.html",
+          "publishedOn": "2023-09-25T01:54:51.000Z",
+          "wordCount": 10070,
+          "title": "Evergrande Liquidation Risk Rises After Creditor Meet Scrapped",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/sRO1lc6MSiWAz5NnYy4CMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/bloomberg_markets_842/8877d1efd48c28b3a7b49571dd047f28"
         },
         {
           "id": "oil-resumes-rally-hedge-funds-001424424.html",
@@ -30281,6 +30311,16 @@
           "wordCount": 9348,
           "title": "Australia Warns of Impact If China Suffers Sharper Slowdown",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/9ea1a09c9f3df3fd8ea936b495a0b90f"
+        },
+        {
+          "id": "retirement-costs-you-may-not-have-thought-of-5090426?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "Retirement expenses such as health insurance, home renovations, and a new car could drain your funds if you don't plan for them now.",
+          "link": "https://www.investopedia.com/retirement-costs-you-may-not-have-thought-of-5090426?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-09-24T23:12:38.000Z",
+          "wordCount": 8126,
+          "title": "Retirement Costs You May Not Have Considered",
+          "imageUrl": "https://www.investopedia.com/thmb/MLb67el7GUrWkexHzOY_icVeVVY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Getty-Retirement-Health-56a5b7673df78cf77289881a.jpg"
         },
         {
           "id": "load-says-morgan-stanley-3-231010339.html",
@@ -30521,6 +30561,16 @@
           "wordCount": 5805,
           "title": "People Are Working in Retirement To Stay Active—Or So They Say",
           "imageUrl": "https://www.investopedia.com/thmb/ROW4PkDXlDc2uXGc6C1g1P1PoNE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1765502-f8e86f99eacd42c2a35e97cc7d0c239e.jpg"
+        },
+        {
+          "id": "china-evergrande-unable-meet-qualifications-122858866.html",
+          "author": null,
+          "description": "BEIJING (Reuters) -China Evergrande said on Sunday that in view of an investigation into Hengda Real Estate Group, its flagship onshore unit, it was unable to meet qualifications for the issuance of new notes under its debt restructuring plan.  The Evergrande unit was being probed by the Chinese securities regulator for suspected violation of information disclosure.  \"Holders of the company’s securities and potential investors of the company are advised to exercise caution when dealing in the securities of the company,\" Hui Ka Yan, chairman of China Evergrande Group, said in the Sunday filing to the Hong Kong Stock Exchange.",
+          "link": "https://finance.yahoo.com/news/china-evergrande-unable-meet-qualifications-122858866.html",
+          "publishedOn": "2023-09-24T12:28:58.000Z",
+          "wordCount": 9563,
+          "title": "China Evergrande: unable to meet qualifications for issuance of new notes",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/f54a559b07029253f4213e03b4a76ed1"
         },
         {
           "id": "exxon-stock-dominos-coke-cvs-71113fde?siteid=yhoof2&yptr=yahoo",
@@ -51771,26 +51821,6 @@
           "wordCount": 9353,
           "title": "BOJ's Ueda: Underlying inflation still a bit below target",
           "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
-        },
-        {
-          "id": "apple-microsoft-tesla-meta-see-180801339.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/apple-microsoft-tesla-meta-see-180801339.html",
-          "publishedOn": "2023-08-26T18:08:01.000Z",
-          "wordCount": null,
-          "title": "Apple, Microsoft, Tesla, and Meta see a combined $625 billion wipeout in market value amid August's stock slump",
-          "imageUrl": null
-        },
-        {
-          "id": "nvidia-stock-nvda-buybacks-cc77c241?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Buybacks can often be a key ingredient to stock market returns for investors.",
-          "link": "https://www.barrons.com/articles/nvidia-stock-nvda-buybacks-cc77c241?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-08-26T17:27:00.000Z",
-          "wordCount": 7944,
-          "title": "Nvidia Plans to Buy Back Billions in Stock. Other Companies Could Join in Soon.",
-          "imageUrl": "https://images.barrons.com/im-842794/social"
         }
       ]
     }
