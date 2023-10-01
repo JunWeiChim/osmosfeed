@@ -2050,16 +2050,6 @@
           "wordCount": 409,
           "title": "Markets News, Aug. 22, 2023: Tech Buoys Nasdaq; Nvidia, Banks Weigh on S&P 500 By Colin Laidley Updated Aug 22, 2023",
           "imageUrl": null
-        },
-        {
-          "id": "d817fb098586aa6b6379863200cf0c08",
-          "author": "rss.app",
-          "description": "",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c214079165d768e3c10f7c1c8e39c26780",
-          "publishedOn": "2023-09-02T05:10:26.236Z",
-          "wordCount": 409,
-          "title": "Markets News, Aug. 25, 2023: S&P 500, Nasdaq Rebound From Powell Comments to Close Winning Week By Colin Laidley Updated Aug 25, 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -8645,6 +8635,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/top-bank-etfs-for-q4-2023-7974616",
+          "author": "Timothy Smith",
+          "description": "Top bank exchange-traded funds (ETFs) for Q4 2023 include KBE, KBWB, and FTXO. Their weak performance highlights challenges to the sector from downturns in the economy, rising funding costs, and tightening regulations.",
+          "link": "https://www.investopedia.com/top-bank-etfs-for-q4-2023-7974616?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-10-01T16:30:00.000Z",
+          "wordCount": 5448,
+          "title": "Top Bank ETFs for Q4 2023",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/CStqIRW6UeZiiTwtYUnqWccpvQA=/5616x3744/INV_Bank_ETFS_GettyImages-183515441-93e41c8abae245e9aed051686d6c917c.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/CStqIRW6UeZiiTwtYUnqWccpvQA=/5616x3744/INV_Bank_ETFS_GettyImages-183515441-93e41c8abae245e9aed051686d6c917c.jpg"
+        },
         {
           "id": "https://www.investopedia.com/ask/answers/032715/what-impact-does-industrialization-have-wages.asp",
           "author": "Sean Ross",
@@ -29518,6 +29523,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "international-longshore-warehouse-us-dockworkers-161827301.html",
+          "author": null,
+          "description": "The union has listed its assets and liabilities in the range of $1 million to $10 million, according to the Sept. 30 filing made in a San Francisco court.  \"While we have attempted numerous times to resolve the decade-long litigation with ICTSI Oregon, at this point, the Union can no longer afford to defend against ICTSI's scorched-earth litigation tactic\", said ILWU International President Willie Adams.",
+          "link": "https://finance.yahoo.com/news/international-longshore-warehouse-us-dockworkers-161827301.html",
+          "publishedOn": "2023-10-01T16:18:27.000Z",
+          "wordCount": 9326,
+          "title": "International Longshore and Warehouse US dockworkers union files for bankruptcy",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/efd75571321330f4529596ae4451aaba"
+        },
+        {
           "id": "tesla-delivery-numbers-are-coming-221f59d7?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Wall Street projects that Tesla delivered about 455,000 units in the third quarter. Estimates are wide-ranging though. The number could come in anywhere from 440,000 to 485,000 units.",
@@ -29526,6 +29541,16 @@
           "wordCount": 6475,
           "title": "Tesla Delivery Numbers Are Coming. Here’s What To Expect.",
           "imageUrl": "https://images.barrons.com/im-50378827/social"
+        },
+        {
+          "id": "chose-etf-portfolio-145915946.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/chose-etf-portfolio-145915946.html",
+          "publishedOn": "2023-10-01T14:59:15.000Z",
+          "wordCount": null,
+          "title": "How Do I Chose the Right ETF For My Portfolio?",
+          "imageUrl": null
         },
         {
           "id": "china-ev-price-wars-deliveries-solid-a20d392c?siteid=yhoof2&yptr=yahoo",
@@ -29556,6 +29581,16 @@
           "wordCount": 5845,
           "title": "Top NASDAQ ETFs for Q4 2023",
           "imageUrl": "https://www.investopedia.com/thmb/XcfnCYdi0spUalgDS0KacIYJ17k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1238164638-5395d546f8694f69b251e9eba8e6b672.jpg"
+        },
+        {
+          "id": "bosses-getting-gen-z-skills-130000821.html",
+          "author": null,
+          "description": "Managers are worrying about the wrong thing when it comes to Gen Z's skill development.",
+          "link": "https://finance.yahoo.com/news/bosses-getting-gen-z-skills-130000821.html",
+          "publishedOn": "2023-10-01T13:00:00.000Z",
+          "wordCount": 9704,
+          "title": "Bosses are getting Gen Z’s skills deficit all wrong: The generation says its hard, not soft, skills they need to learn",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/CNRZxn6coQanGqzQ_lRoyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/6515fceb65af5b9426c0010a8cbf7f88"
         },
         {
           "id": "market-stress-rises-over-wild-122249376.html",
