@@ -1112,6 +1112,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "fd13c51d333e3c6cdbe834b804ba0457",
+          "author": "rss.app",
+          "description": "",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c214069167d768e3c10f7c1d8c3ec66184",
+          "publishedOn": "2023-10-01T21:10:01.349Z",
+          "wordCount": 409,
+          "title": "Markets News, Sept. 27, 2023: Indexes Finish Mixed as Dollar, Bond Yields, and Oil Advance By Colin Laidley Updated Sep 27, 2023",
+          "imageUrl": null
+        },
+        {
           "id": "886172bdb5fed004823de5f47c0dc31d",
           "author": "Investopedia",
           "description": "The S&P 500 finished 0.3% lower on Friday, Sept. 29, 2023, amid concerns about a potential U.S. government shutdown this weekend.",
@@ -8635,6 +8645,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/economics/09/free-market-dumping.asp",
+          "author": "Andrew Beattie",
+          "description": "Flooding the market with cheap products can mean job losses and even market collapse—but dumping isn't as threatening as it seems.",
+          "link": "https://www.investopedia.com/articles/economics/09/free-market-dumping.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-10-01T20:55:53.000Z",
+          "wordCount": 7412,
+          "title": "Do Cheap Imported Goods Cost Americans Jobs?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/UWG0khn64HlNL5OPxFsC8IAfozE=/680x440/investing1-5bfc2b9046e0fb005119b292.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/UWG0khn64HlNL5OPxFsC8IAfozE=/680x440/investing1-5bfc2b9046e0fb005119b292.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/investing/022716/4-consequences-government-intervention-chinas-markets.asp",
+          "author": "Richard Best",
+          "description": "Since widening the use of markets, the Chinese government has not hesitated to insert itself into the markets when they do not align with its policies.",
+          "link": "https://www.investopedia.com/articles/investing/022716/4-consequences-government-intervention-chinas-markets.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-10-01T20:24:28.000Z",
+          "wordCount": 7374,
+          "title": "China&#39;s Intervention During the 2015 Stock Market Crash",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/bB9RsFy2qZfIChxDsVkysExQjE4=/1500x1000/GettyImages-1167016699-f77b472d04814217a11dd1bf9b868b66.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/bB9RsFy2qZfIChxDsVkysExQjE4=/1500x1000/GettyImages-1167016699-f77b472d04814217a11dd1bf9b868b66.jpg"
+        },
         {
           "id": "https://www.investopedia.com/top-money-market-etfs-for-q4-2023-7975869",
           "author": "Nathan Reiff",
@@ -29688,6 +29728,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "fiscal-excess-power-main-street-203001524.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/fiscal-excess-power-main-street-203001524.html",
+          "publishedOn": "2023-10-01T20:30:01.000Z",
+          "wordCount": null,
+          "title": "Fiscal excess, the power of Main Street, and US 'debasement': Here are the themes BofA says will dominate markets for the rest of this decade",
+          "imageUrl": null
+        },
+        {
+          "id": "top-dividend-stocks-for-october-2023-7975873?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "Dividend stocks provide investors with reliable passive income and make it possible to reinvest money back into the dividend-issuing company.",
+          "link": "https://www.investopedia.com/top-dividend-stocks-for-october-2023-7975873?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-10-01T19:30:00.000Z",
+          "wordCount": 6295,
+          "title": "Top Dividend Stocks for October 2023",
+          "imageUrl": "https://www.investopedia.com/thmb/NMQOZAUyTm8opvNT-M8cKBI2Hx4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1327667193-e7e63089b0dc43cb82d1c50d1dfb0b18.jpg"
+        },
+        {
           "id": "powerball-jackpot-just-hit-104-billion-heres-what-youd-pocket-after-taxes-182711213.html",
           "author": null,
           "description": "Here's how much of the prize you would take home after taxes and five ways to invest your windfall.",
@@ -29726,6 +29786,16 @@
           "wordCount": 9452,
           "title": "Ackman Considers Musk’s X for New Investment Vehicle, WSJ Says",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/cBg1aH62jOAuG6Lq7Js.Tg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_markets_842/92cc1651b118dfe63eba72fb0dcdd3f8"
+        },
+        {
+          "id": "ftxs-bankman-fried-cannot-blame-163824587.html",
+          "author": null,
+          "description": "Sam Bankman-Fried cannot blame FTX's lawyers for its collapse or operations in his opening statements, though he can still try and make a so-called \"advice-of-counsel\" defense later, the federal judge overseeing his case ruled Sunday.",
+          "link": "https://finance.yahoo.com/news/ftxs-bankman-fried-cannot-blame-163824587.html",
+          "publishedOn": "2023-10-01T16:38:24.000Z",
+          "wordCount": 9357,
+          "title": "FTX's Bankman-Fried Cannot Blame Lawyers in Opening Statement: Judge",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/XXtanPmznGP_aBa9MNt7Dw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/coindesk_75/92b5cac8de72455e3fcfc843a29f5453"
         },
         {
           "id": "international-longshore-warehouse-us-dockworkers-161827301.html",
