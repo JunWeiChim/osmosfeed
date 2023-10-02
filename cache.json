@@ -8721,6 +8721,21 @@
       "siteUrl": "https://www.investopedia.com",
       "articles": [
         {
+          "id": "https://www.investopedia.com/terms/c/china-inv-corp.asp",
+          "author": "James Chen",
+          "description": "China Investment Corporation is the sovereign wealth fund of China that invests in public and private assets to diversify foreign exchange holdings.",
+          "link": "https://www.investopedia.com/terms/c/china-inv-corp.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-10-02T12:54:55.000Z",
+          "wordCount": 6540,
+          "title": "China Investment Corporation (Cic): Meaning, Criticism",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/2xIsCJWGYoB7jvL0khtDof9MsuY=/205x136/investing10-5bfc2b90c9e77c00517fd2ef.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/2xIsCJWGYoB7jvL0khtDof9MsuY=/205x136/investing10-5bfc2b90c9e77c00517fd2ef.jpg"
+        },
+        {
           "id": "https://www.investopedia.com/5-things-to-know-before-markets-open-october-2-2023-8303325",
           "author": "Terry Lane",
           "description": "The United Auto Workers reached an agreement with Mack Trucks to avert a strike and Apple said it would release a software update to address iPhone 15 overheating issues. Here’s what investors need to know today.",
@@ -29627,6 +29642,76 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-tesla-stock-q3-deliveries/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-10-02T12:52:30.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Fall After Shutdown Averted; Tesla Stock Awaits Q3 Deliveries",
+          "imageUrl": null
+        },
+        {
+          "id": "nvidia-stock-price-rally-buy-sell-13c983fe?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Nvidia has almost tripled in value this year but the stock has moved sideways in recent months. Citi analysts say the shares could receive a new push in the first half of 2024.",
+          "link": "https://www.barrons.com/articles/nvidia-stock-price-rally-buy-sell-13c983fe?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-10-02T12:48:00.000Z",
+          "wordCount": 6550,
+          "title": "Nvidia Stock Has Been Trading Sideways. What Could Spark Another Rally.",
+          "imageUrl": "https://images.barrons.com/im-842794/social"
+        },
+        {
+          "id": "ev-maker-rivian-beats-q3-123742345.html",
+          "author": null,
+          "description": "Electric-vehicle maker Rivian Automotive on Monday reported third-quarter deliveries above analysts' estimates, as it ramped up production to meet a sustained demand for its pickup trucks and sport-utility vehicles (SUVs).  The stronger-than-expected numbers from Rivian come amid concerns of softening demand for electric vehicles in the U.S. due to higher borrowing costs, which has prompted price cuts and discounts by rivals including Tesla.  Rivian, which makes R1T pickup trucks and R1S SUVs, delivered 15,564 vehicles in the quarter ended Sept. 30, compared with Visible Alpha estimates of 14,740 vehicles and up 23% from the second quarter.",
+          "link": "https://finance.yahoo.com/news/ev-maker-rivian-beats-q3-123742345.html",
+          "publishedOn": "2023-10-02T12:37:42.000Z",
+          "wordCount": 9626,
+          "title": "EV maker Rivian beats Q3 delivery estimates after raising production",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/9d4a2b1999eda64882e9edd3de08502f"
+        },
+        {
+          "id": "us-stocks-wall-st-set-123140056.html",
+          "author": null,
+          "description": "Wall Street was set to open lower on Monday as the 10-year Treasury yield regained 2007 highs, while investors awaited comments from Federal Reserve Chair Jerome Powell and more data this week to gauge the central bank's interest-rate path.  Powell and Philadelphia Fed President Patrick Hasker will speak at a roundtable discussion, due 11 a.m. ET, with local employers and small business owners on efforts to grow the economy.  Yield on the 10-year Treasury note edged higher on Monday at 4.6371%, touching 16-year highs again, while the yield on the 2-year note, which best reflects interest rate expectations, remained above 5%.",
+          "link": "https://finance.yahoo.com/news/us-stocks-wall-st-set-123140056.html",
+          "publishedOn": "2023-10-02T12:31:40.000Z",
+          "wordCount": 9919,
+          "title": "US STOCKS-Wall St set to open lower as yields rise ahead of Powell speech",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        },
+        {
+          "id": "rivian-stock-upgrade-deliveries-e43b6bbe?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Evercore ISI analyst Chris McNally now rates the electric-truck maker at Buy, rather than at Hold. His price target is $35 a share, up from $30.",
+          "link": "https://www.barrons.com/articles/rivian-stock-upgrade-deliveries-e43b6bbe?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-10-02T12:13:00.000Z",
+          "wordCount": 6563,
+          "title": "Rivian Stock Gains After Upgrade. Deliveries Are Coming Soon.",
+          "imageUrl": "https://images.barrons.com/im-754035/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/stock-market-october-is-best-month-for-confirmed-rallies-trick-to-that-treat/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-10-02T12:00:50.000Z",
+          "wordCount": null,
+          "title": "October Is The Best Month For New Stock Market Rallies. But There's A Trick To That Treat.",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-cheap-value-stocks-are-poised-to-report-massive-profit-growth/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-10-02T12:00:33.000Z",
+          "wordCount": null,
+          "title": "10 Cheap Value Stocks Are Poised To Report Massive Profit Growth",
+          "imageUrl": null
+        },
         {
           "id": "us-futures-steady-after-lawmakers-avert-shutdown-stock-market-news-today-112306597.html",
           "author": null,
@@ -51346,26 +51431,6 @@
           "wordCount": 9361,
           "title": "Swiss Luxury Watchmakers Face Profit Squeeze From Stronger Franc",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/745c6c8b4693e1fba5bf1b1b5bacb18e"
-        },
-        {
-          "id": "roth-401k-versus-traditional-retirement-1120bd9f?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Thousands of companies have added Roth 401(k)s to their retirement plans. Getting the math right is proving tricky.",
-          "link": "https://www.wsj.com/personal-finance/retirement/roth-401k-versus-traditional-retirement-1120bd9f?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-09-03T01:00:00.000Z",
-          "wordCount": 7738,
-          "title": "Roth vs. Traditional 401(k): Where to Put Your Money for Retirement?",
-          "imageUrl": "https://images.wsj.net/im-845813/social"
-        },
-        {
-          "id": "oil-industry-elite-hits-singapore-005526642.html",
-          "author": null,
-          "description": "(Bloomberg) -- Oil’s having a rocky year, swung by jitters over China’s slowdown, OPEC+ supply cuts, and the fallout from the Federal Reserve’s tightening campaign. The tensions wrongfooted many traders as prices sank, then recovered. Now, what comes next is up for debate in Singapore.Most Read from BloombergTesla’s $41,000 Model X Discount Unlocks Subsidies Musk Wanted GoneJimmy Buffett, Singer Who Spun Margaritas Into Gold, Dies at 76BMW Unwraps Next-Generation EV to Take on Tesla, China’s BYD",
-          "link": "https://finance.yahoo.com/news/oil-industry-elite-hits-singapore-005526642.html",
-          "publishedOn": "2023-09-03T00:55:26.000Z",
-          "wordCount": 9915,
-          "title": "Oil Industry Elite Hits Singapore to Debate Crude’s Next Twist",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/b98881f2d0b98796f8ee160d3427a91a"
         }
       ]
     }
