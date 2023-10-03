@@ -2159,6 +2159,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6283632/",
+          "author": "Noémi van de Pol",
+          "description": "De overheid gaat kinderopvang­organisaties compenseren voor de twee jaar dat zij hun elektrische bolderkarren van Stint niet mochten gebruiken.",
+          "link": "https://www.nu.nl/economie/6283632/overheid-gaat-kinderopvang-compenseren-voor-verbod-op-stint.html",
+          "publishedOn": "2023-10-03T08:20:45.000Z",
+          "wordCount": 938,
+          "title": "Overheid gaat kinderopvang compenseren voor verbod op Stint",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/vqixlr2ayxt3_sqr256.jpg/overheid-gaat-kinderopvang-compenseren-voor-verbod-op-stint.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/vqixlr2ayxt3_sqr256.jpg/overheid-gaat-kinderopvang-compenseren-voor-verbod-op-stint.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6283622/",
           "author": "Tom van Gurp",
           "description": "Bij Geldmaat-automaten kun je vanaf vandaag geld opnemen zonder dat je een bankpas in de gleuf hoeft te steken. Dit contactloos pinnen kan ook met een mobiele telefoon of smartwatch.",
@@ -30254,51 +30269,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/OmzZESJIk-Wt8WKQkB3yldNAsEo=/1728x1080/sea-coast-water-ocean-river-ship-536684-pxhere.com-c506b911422a4e5c82650cb241ded789.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/markets-economy/092216/why-insider-trading-bad-financial-markets.asp",
-          "author": "Andrew Sebastian",
-          "description": "The debate rages on about whether insider trading is good or bad for financial markets. Some want it to be legal, and others want it to stay a crime.",
-          "link": "https://www.investopedia.com/articles/markets-economy/092216/why-insider-trading-bad-financial-markets.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-09-03T20:46:57.000Z",
-          "wordCount": 7022,
-          "title": "Arguments for and Against Insider Trading",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/US-SWEgLKo-1EB8CLOfcxZiaXOw=/2274x1319/GettyImages-1160442159-6c8fb7cc8c064f86983cfdda6cfcef47.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/US-SWEgLKo-1EB8CLOfcxZiaXOw=/2274x1319/GettyImages-1160442159-6c8fb7cc8c064f86983cfdda6cfcef47.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/financial-edge/0910/7-ways-your-resume-dates-you.aspx",
-          "author": "Porcshe Moran",
-          "description": "Don't let your outdated resume prevent you from getting the job of your dreams.",
-          "link": "https://www.investopedia.com/financial-edge/0910/7-ways-your-resume-dates-you.aspx?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-09-03T20:34:26.000Z",
-          "wordCount": 6649,
-          "title": "7 Ways Your Resume Dates You",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/xuS-Tbqgc__Rh1M-2e4CamhSl7A=/1696x1131/iStock_34840800_MEDIUM.senior.job.interview-5c094c7346e0fb0001b076e2.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/xuS-Tbqgc__Rh1M-2e4CamhSl7A=/1696x1131/iStock_34840800_MEDIUM.senior.job.interview-5c094c7346e0fb0001b076e2.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/07/continuously_compound.asp",
-          "author": "David R. Harper",
-          "description": "Continuous compounding assumes interest is compounded and added to the balance an infinite number of times. See how this accelerates returns.",
-          "link": "https://www.investopedia.com/articles/07/continuously_compound.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-09-03T20:22:30.000Z",
-          "wordCount": 7888,
-          "title": "Continuous Compound Interest",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/VhG8w-ZZwmkysmaJ2dJ-y6wd4mU=/1500x1000/GettyImages-160519027-458287b2fbec405e85c38510953507ad.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/VhG8w-ZZwmkysmaJ2dJ-y6wd4mU=/1500x1000/GettyImages-160519027-458287b2fbec405e85c38510953507ad.jpg"
         }
       ]
     },
@@ -30307,6 +30277,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "auddev&yptr=yahoo",
+          "author": null,
+          "description": "Companies have yet to provide investors with convincing post-pandemic strategies",
+          "link": "https://www.ft.com/cms/s/efeabfcf-4810-4d50-9442-212ab39f3a4a,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev&yptr=yahoo",
+          "publishedOn": "2023-10-03T04:00:52.000Z",
+          "wordCount": 1675,
+          "title": "Reversal of fortunes for Covid-19 vaccine winners",
+          "imageUrl": null
+        },
         {
           "id": "tesla-sales-drop-brings-byd-002002307.html",
           "author": null,
@@ -30365,6 +30345,16 @@
           "publishedOn": "2023-10-03T00:35:38.000Z",
           "wordCount": null,
           "title": "Top tech stocks are trading at the biggest relative discount in over 6 years with earnings set to spark momentum, Goldman Sachs says",
+          "imageUrl": null
+        },
+        {
+          "id": "economy-stupid-5-reasons-why-234655870.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/economy-stupid-5-reasons-why-234655870.html",
+          "publishedOn": "2023-10-02T23:46:55.000Z",
+          "wordCount": null,
+          "title": "'It's the economy, stupid': 5 reasons why investors should stay bullish on the stock market",
           "imageUrl": null
         },
         {
@@ -30476,6 +30466,16 @@
           "wordCount": 6776,
           "title": "Kellanova, WK Kellogg Stocks Finish Their First Trading Day Lower",
           "imageUrl": "https://images.wsj.net/im-861193/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/nvidia-stock-rises-on-goldman-sachs-report/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-10-02T20:10:02.000Z",
+          "wordCount": null,
+          "title": "Chipmaker Nvidia Called Principal 'Shovel Supplier' In AI 'Gold Rush'",
+          "imageUrl": null
         },
         {
           "id": "microsoft-willing-drop-bing-name-200519071.html",
@@ -52366,16 +52366,6 @@
           "wordCount": 9220,
           "title": "Lithium developer Liontown backs Albemarle's sweetened $4.3 billion offer",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/b1b798f3009f107438a3fe8abe1506a3"
-        },
-        {
-          "id": "uaws-clash-big-3-automakers-205110509.html",
-          "author": null,
-          "description": "The demands that a more combative United Auto Workers union has pressed on General Motors, Stellantis and Ford — demands that even the UAW's own president calls “audacious” — are edging it closer to a strike when its contract ends Sept. 14.  The automakers, which are making billions in profits, have dismissed the UAW's wish list.",
-          "link": "https://finance.yahoo.com/news/uaws-clash-big-3-automakers-205110509.html",
-          "publishedOn": "2023-09-03T20:51:10.000Z",
-          "wordCount": 10782,
-          "title": "UAW's clash with Big 3 automakers shows off a more confrontational union as strike deadline looms",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/lSQL.H0_Hzhpb2CTDfaXpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/ap_finance_articles_694/c1fc4731eed64d78eeb15de4e9a92d6a"
         }
       ]
     }
