@@ -2209,6 +2209,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6284090/",
+          "author": "Bas Scharwachter",
+          "description": "Een nieuwbouwhuis is in deze tijd moeilijk te betalen voor een starter, en dat zal niet snel veranderen. In Heerenveen staat een fabriek waar die mogelijkheid toch gecreëerd moet worden. Twintig keer per dag wordt hier een woning met een prijskaartje vanaf 175.000 euro gemaakt.",
+          "link": "https://www.nu.nl/binnenland/6284090/voor-175000-euro-een-nieuwbouwhuis-deze-woningfabriek-maakt-het.html",
+          "publishedOn": "2023-10-06T18:30:48.000Z",
+          "wordCount": 827,
+          "title": "Explainer | Voor 175.000 euro een nieuwbouwhuis: deze woningfabriek maakt het",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/x7pxs46atpos_sqr256.jpg/voor-175000-euro-een-nieuwbouwhuis-deze-woningfabriek-maakt-het.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/x7pxs46atpos_sqr256.jpg/voor-175000-euro-een-nieuwbouwhuis-deze-woningfabriek-maakt-het.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6284234/",
           "author": "onze economieredactie",
           "description": "De snelle doorstart van de failliete garnalenverwerker Heiploeg in 2014 is toch niet helemaal volgens de regels gegaan. De Hoge Raad, het hoogste rechtsorgaan, heeft eerdere uitspraken in de langslepende rechtszaak vernietigd.",
@@ -8957,21 +8972,6 @@
             "url": "https://media.nu.nl/m/kllx6oxae3hh_sqr256.jpg/japan-lanceert-maanlander-en-rontgentelescoop-met-nederlands-tintje.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/kllx6oxae3hh_sqr256.jpg/japan-lanceert-maanlander-en-rontgentelescoop-met-nederlands-tintje.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6279842/",
-          "author": "Tom van Gurp",
-          "description": "Slechts 1,1 procent van de koophuizen is bereikbaar voor alleenstaande starters met een modaal inkomen. Dat is net zo weinig als vorig jaar. Voor tweeverdieners is de situatie wel verbeterd.",
-          "link": "https://www.nu.nl/economie/6279842/alleenstaande-met-modaal-inkomen-kan-op-huizenmarkt-nog-steeds-geen-kant-op.html",
-          "publishedOn": "2023-09-07T07:01:36.000Z",
-          "wordCount": 1427,
-          "title": "Alleenstaande met modaal inkomen kan op huizenmarkt nog steeds geen kant op",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/gvnxn97aesku_sqr256.jpg/alleenstaande-met-modaal-inkomen-kan-op-huizenmarkt-nog-steeds-geen-kant-op.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/gvnxn97aesku_sqr256.jpg/alleenstaande-met-modaal-inkomen-kan-op-huizenmarkt-nog-steeds-geen-kant-op.jpg"
         }
       ]
     },
@@ -8980,6 +8980,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/does-the-federal-government-offer-personal-loans-7693193",
+          "author": "Karon Warren",
+          "description": "The federal government doesn’t offer unsecured personal loans, but it does offer loans for specific purposes such as education, housing, and business.",
+          "link": "https://www.investopedia.com/does-the-federal-government-offer-personal-loans-7693193?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-10-06T18:50:24.000Z",
+          "wordCount": 6743,
+          "title": "Does the Federal Government Offer Personal Loans?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/zplvUcjIaJ9Qz4KIWToyLJSgjDI=/2121x1414/paperworkladyatdesk-f44c8138c5b64b81918fecbefbb8285c.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/zplvUcjIaJ9Qz4KIWToyLJSgjDI=/2121x1414/paperworkladyatdesk-f44c8138c5b64b81918fecbefbb8285c.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/h-1b-visa-to-green-card-why-tech-companies-demand-change-4580110",
+          "author": "Alexandra Twin",
+          "description": "The green card backlog is pushing U.S. tech companies to lobby for reform. Read how Microsoft, Facebook, and others want to change the green card process.",
+          "link": "https://www.investopedia.com/h-1b-visa-to-green-card-why-tech-companies-demand-change-4580110?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-10-06T18:09:42.000Z",
+          "wordCount": 8667,
+          "title": "H-1B Visa to Green Card Backlog: Why Tech Companies Demand Change",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/jnWmMuYaFp3-puveBpte_SE7GIo=/3700x2171/greencard-5c1a1df1c9e77c00014f26f5.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/jnWmMuYaFp3-puveBpte_SE7GIo=/3700x2171/greencard-5c1a1df1c9e77c00014f26f5.jpeg"
+        },
         {
           "id": "https://www.investopedia.com/terms/c/crowdfunding.asp",
           "author": "Tim Smith",
@@ -29883,6 +29913,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "rivian-stock-price-downgrade-f91622b6?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Friday, Battle Road Research analyst Ben Rose downgraded Rivian stock to Sell from Hold. He was surprised by the convertible note sale.",
+          "link": "https://www.barrons.com/articles/rivian-stock-price-downgrade-f91622b6?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-10-06T17:55:00.000Z",
+          "wordCount": 5407,
+          "title": "Rivian Stock Downgraded. Its Bond Sale Is a Canary in the Coal Mine.",
+          "imageUrl": "https://images.barrons.com/im-49507161/social"
+        },
+        {
           "id": "magnificent-seven-jim-cramer-says-164616272.html",
           "author": null,
           "description": "Stocks have recently retreated as Treasury yields continue to rise. To navigate this market turbulence, CNBC's Jim Cramer offers some promising insights. \"We're in an unusual situation, but skyrocketing bond yields are bad news for the vast bulk of the market. The mega-cap techs are the one big exception. You want to make it through this difficult moment?\" he asked in a recent \"Mad Money\" segment. \"You need the Magnificent Seven, and then the rest.\" By Magnificent Seven, Cramer means seven mega-",
@@ -30161,6 +30201,16 @@
           "wordCount": 10837,
           "title": "Blackstone’s Billion-Dollar Bet on Reese Witherspoon Falls Short",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/HshMu37nFSJwaIbD6adsAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/bloomberg_markets_842/0d25acc17145a740eec2da7d13a0e880"
+        },
+        {
+          "id": "lamborghini-battles-nashville-car-dealership-093013624.html",
+          "author": null,
+          "description": "The luxury automaker is asking for $100,000, saying the Nashville dealership is harming Lamborghini’s reputation while profiting off its name.",
+          "link": "https://finance.yahoo.com/news/lamborghini-battles-nashville-car-dealership-093013624.html",
+          "publishedOn": "2023-10-06T09:30:13.000Z",
+          "wordCount": 9618,
+          "title": "Lamborghini battles Nashville car dealership over internet domain name — for second time",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Fz5JSo6M4In3pU7_W2nX7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/usa_today_money_325/094be1a7301c17f6f2ae9c3eb1ace804"
         },
         {
           "id": "apple-stock-ai-siri-search-3940bdef?siteid=yhoof2&yptr=yahoo",
@@ -51921,16 +51971,6 @@
           "wordCount": 10066,
           "title": "Stocks Weaken, Dollar Extends Rally on Fed Outlook: Markets Wrap",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/73e1017d5d12d35c1927a98284ba074e"
-        },
-        {
-          "id": "utilities-stock-selling-at-an-absurd-price-5dc8b315?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "In a sector bursting with bargains, Avista—down more than 25% this year—is particularly cheap. It trades for about 13.7 times earnings, its lowest multiple in more than 10 years.",
-          "link": "https://www.barrons.com/articles/utilities-stock-selling-at-an-absurd-price-5dc8b315?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-09-07T07:00:00.000Z",
-          "wordCount": 6730,
-          "title": "The Utilities Selloff Has Gotten Out of Hand. This One Stock Is Selling at an ‘Absurd’ Price.",
-          "imageUrl": "https://images.barrons.com/im-96986300/social"
         }
       ]
     }
