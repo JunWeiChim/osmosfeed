@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-07T12:20:48.519Z</updated>
+    <updated>2023-10-07T13:12:19.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NU+ | Thuisaccu's kunnen helpen tegen een vol stroomnet, maar zijn niet zonder risico's]]></title>
+        <id>https://www.nu.nl/-/6283649/</id>
+        <link href="https://www.nu.nl/tech/6283649/thuisaccus-kunnen-helpen-tegen-een-vol-stroomnet-maar-zijn-niet-zonder-risicos.html"/>
+        <updated>2023-10-07T13:10:06.000Z</updated>
+        <summary type="html"><![CDATA[Het stroomnet zit op verschillende plekken in Nederland vol. Daardoor kunnen huishoudens met zonnepanelen niet altijd hun overtollig opgewekte stroom terugleveren. Met een thuisaccu kun je die stroom opslaan voor later gebruik, maar veel woningen zijn ongeschikt om veilig van een thuisbatterij te voorzien.]]></summary>
+        <author>
+            <name>Tim Wijkman-van Aalst</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[True Cost Economics: What It Is, How It Works]]></title>
         <id>https://www.investopedia.com/terms/t/truecosteconomics.asp</id>
@@ -467,6 +477,15 @@
         <link href="https://finance.yahoo.com/news/sam-bankman-fried-stole-customer-195245515.html"/>
         <updated>2023-10-06T19:52:45.000Z</updated>
         <summary type="html"><![CDATA[Sam Bankman-Fried authorized the illegal use of FTX customers' funds and assets to plug financial gaps at an affiliated hedge fund from the exchange's earliest days, FTX's co-founder Gary Wang told a New York jury on Friday, as prosecutors pressed their case that Bankman-Fried was the mastermind behind one of the biggest frauds in U.S. history.  “FTX was not fine,” Wang said, referring to the now-infamous tweet that Bankman-Fried wrote only a few days before the exchange filed for bankruptcy in November 2022.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVX Stock Today: Why This Short Iron Condor Produces A $490 Gain Right Away]]></title>
+        <id>?src=A00220&amp;yptr=yahoo</id>
+        <link href="https://www.investors.com/research/options/cvx-stock-today-why-this-short-iron-condor-produces-a-490-gain-right-away/?src=A00220&amp;yptr=yahoo"/>
+        <updated>2023-10-06T19:47:29.000Z</updated>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -1100,6 +1119,16 @@
         <id>?src=A00220&amp;yptr=yahoo</id>
         <link href="https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-with-jobs-report-on-tap-tesla-cuts-prices-exxon-near-huge-shale-deal/?src=A00220&amp;yptr=yahoo"/>
         <updated>2023-10-06T12:09:13.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Stock Is the Big Winner From the UAW Strike. It’s Not Tesla.]]></title>
+        <id>gm-ford-stocks-uaw-strike-tesla-34939792?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.barrons.com/articles/gm-ford-stocks-uaw-strike-tesla-34939792?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2023-10-06T12:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Investors are worried that rising labor costs at Ford and GM will give Tesla a cost advantage. That isn't reflected in Tesla stock though.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -41561,26 +41590,6 @@ VinFast stock was recently down about 3%. It closed Thursday at $17.99, off subs
         <summary type="html"><![CDATA[Dental insurance typically doesn't cover cosmetic procedures, including teeth whitening, Learn what is covered and what your options are when paying for whitening.]]></summary>
         <author>
             <name>Ciara Larkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple suppliers slide on China anxiety, rising competition from Huawei]]></title>
-        <id>tsmc-shares-fall-reports-china-010828085.html</id>
-        <link href="https://finance.yahoo.com/news/tsmc-shares-fall-reports-china-010828085.html"/>
-        <updated>2023-09-08T01:08:28.000Z</updated>
-        <summary type="html"><![CDATA[Shares in Taiwan's TSMC, a major Apple supplier, dropped around 1% on opening on Friday after reports that China has widened curbs on iPhone use by state employees. The broader index was down around 0.4%.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin above US$26,000; JP Morgan working on blockchain payment system]]></title>
-        <id>bitcoin-above-us-26-000-005829568.html</id>
-        <link href="https://finance.yahoo.com/news/bitcoin-above-us-26-000-005829568.html"/>
-        <updated>2023-09-08T00:58:29.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin rose Friday morning in Asia to above US$26,000, leading a rally across most top 10 cryptos. Ether gained but was still below US$1,650.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
         </author>
     </entry>
 </feed>
