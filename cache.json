@@ -9066,6 +9066,36 @@
       "siteUrl": "https://www.investopedia.com",
       "articles": [
         {
+          "id": "https://www.investopedia.com/terms/b/bitcoin.asp",
+          "author": "Jake Frankenfield",
+          "description": "Bitcoin (BTC) is a digital or virtual currency created in 2009 that uses peer-to-peer technology to facilitate instant payments.",
+          "link": "https://www.investopedia.com/terms/b/bitcoin.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-10-11T13:32:46.000Z",
+          "wordCount": 8791,
+          "title": "What Is Bitcoin? How to Mine, Buy, and Use It",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ibGSQzMeiYtfya7wDNAit4PAB9Y=/1300x512/bitcoin-8396ac24eaec45358708a79f8c61d1f3.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ibGSQzMeiYtfya7wDNAit4PAB9Y=/1300x512/bitcoin-8396ac24eaec45358708a79f8c61d1f3.png"
+        },
+        {
+          "id": "https://www.investopedia.com/investing/understanding-cryptocurrency-etfs/",
+          "author": "Nathan Reiff",
+          "description": "Cryptocurrency ETFs can provide a low cost of ownership for cryptocurrencies, but there are limitations to the types of funds you can access due to regulatory issues.",
+          "link": "https://www.investopedia.com/investing/understanding-cryptocurrency-etfs/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-10-11T13:19:15.000Z",
+          "wordCount": 7143,
+          "title": "How Do Cryptocurrency Exchange-Traded Funds (ETFs) Work?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/wMgjoT6CmtV80OvjlVSfxD3e41Y=/6720x4480/GettyImages-1347340210-e86f9bb837124f92b14a4f4e891513f7.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/wMgjoT6CmtV80OvjlVSfxD3e41Y=/6720x4480/GettyImages-1347340210-e86f9bb837124f92b14a4f4e891513f7.jpg"
+        },
+        {
           "id": "https://www.investopedia.com/terms/l/ledger-balance.asp",
           "author": "Alicia Tuovila",
           "description": "The ledger balance is computed by a bank at the end of each business day and includes all withdrawals and deposits to calculate the total amount of money in the bank account.",
@@ -28384,21 +28414,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/G5vRkORtEwHMVCyfN9Phlu0cuIE=/5600x3738/close-up-of-businessman-reading-newspaper-1023146588-676dd958d5f040f09c8b889237725113.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/economics/08/nps.asp",
-          "author": "Katrina Lamb",
-          "description": "The global interconnection of U.S. payment systems makes commercial and financial transfers possible.",
-          "link": "https://www.investopedia.com/articles/economics/08/nps.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-09-12T01:49:13.000Z",
-          "wordCount": 7654,
-          "title": "Take a Deeper Look at National Payment Systems",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/SNG5bgazL4QweAw5Fensip0iEQU=/2448x1224/GettyImages-674952306-00c7b5f3529748ae8b4be922d8c7e2ec.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/SNG5bgazL4QweAw5Fensip0iEQU=/2448x1224/GettyImages-674952306-00c7b5f3529748ae8b4be922d8c7e2ec.jpg"
         }
       ]
     },
@@ -28407,6 +28422,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "nvidia-stock-price-upside-analyst-de65afee?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "TD Cowen analysts raised their price target on Nvidia stock to $700 from $600. The chip maker's shares have already soared more than 200% so far this year.",
+          "link": "https://www.barrons.com/articles/nvidia-stock-price-upside-analyst-de65afee?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-10-11T13:32:00.000Z",
+          "wordCount": 4388,
+          "title": "Nvidia Stock Can Gain 50% to $700. One Analyst Explains How.",
+          "imageUrl": "https://images.barrons.com/im-27170815/social"
+        },
+        {
+          "id": "pinched-homebuyers-turn-to-adjustable-rate-mortgages-to-make-the-payment-math-work-132303226.html",
+          "author": null,
+          "description": "The volume of ARM applications jumped 15% last week from the previous one.",
+          "link": "https://finance.yahoo.com/news/pinched-homebuyers-turn-to-adjustable-rate-mortgages-to-make-the-payment-math-work-132303226.html",
+          "publishedOn": "2023-10-11T13:23:03.000Z",
+          "wordCount": 10075,
+          "title": "Pinched homebuyers turn to adjustable-rate mortgages to make the payment math work",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/KDxn30MDD6GKj9edCVBWIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/9cd0e260-6833-11ee-a32d-3e9df889062b"
+        },
         {
           "id": "us-producer-prices-increase-september-124633165.html",
           "author": null,
@@ -28478,6 +28513,16 @@
           "imageUrl": "https://images.wsj.net/im-866269/social"
         },
         {
+          "id": "bankman-fried-knew-alameda-risks-003237217.html",
+          "author": null,
+          "description": "(Bloomberg) -- Jurors in the fraud trial of FTX co-founder Sam Bankman-Fried heard his ex-girlfriend Caroline Ellison explain how he allegedly arranged for billions of dollars in customer funds to back risky investments that led to the collapse of the cryptocurrency exchange.Most Read from BloombergIsrael Latest: Israeli Death Toll in Hamas Attack Reaches 1,200Hamas Got Around Israel’s Surveillance Prowess by Going DarkIsrael Latest: Top US General Warns Iran to Stay Out of ConflictAfghanistan’s",
+          "link": "https://finance.yahoo.com/news/bankman-fried-knew-alameda-risks-003237217.html",
+          "publishedOn": "2023-10-11T11:19:22.000Z",
+          "wordCount": 10468,
+          "title": "Bankman-Fried Knew of Alameda Risks, Ex-Girlfriend Testifies",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/fKqxWnXQBOhdWrsuDggJVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/393904f6bc054c0195b534de0683c869"
+        },
+        {
           "id": "exxon-buys-shale-pioneer-e93aebba?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Exxon will pay $59.5 billion, all in stock. It’s Exxon’s biggest acquisition since its merger with Mobil in 1999.",
@@ -28486,6 +28531,16 @@
           "wordCount": 4905,
           "title": "Exxon Buys Shale Driller Pioneer. Why Drilling at Home Looks Smart.",
           "imageUrl": "https://images.barrons.com/im-533759/social"
+        },
+        {
+          "id": "stocks-open-higher-after-wholesale-inflation-data-surprises-stock-market-news-today-111108103.html",
+          "author": null,
+          "description": "After the PPI update suggests inflationary pressures persist, the focus is on Federal Reserve minutes for insight into whether the era of hikes is over.",
+          "link": "https://finance.yahoo.com/news/stocks-open-higher-after-wholesale-inflation-data-surprises-stock-market-news-today-111108103.html",
+          "publishedOn": "2023-10-11T11:11:08.000Z",
+          "wordCount": 10458,
+          "title": "Stocks open higher after wholesale inflation data surprises: Stock market news today",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/PvcEmYPfK0RAkj8jFz7r2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/8cc82d20-2750-11ee-b7ff-34c681c81efd"
         },
         {
           "id": "us-futures-step-higher-with-fed-minutes-on-deck-stock-market-news-today-111108830.html",
@@ -28546,6 +28601,16 @@
           "wordCount": 9592,
           "title": "Exxon Mobil doubles down on fossil fuels with $59.5 billion deal for Pioneer Natural as prices surge",
           "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        },
+        {
+          "id": "bitcoin-fundamentally-different-other-cryptocurrencies-103529881.html",
+          "author": null,
+          "description": "The crypto’s technological breakthrough was not as a superior payment method but as a superior form of money, the report said.",
+          "link": "https://finance.yahoo.com/news/bitcoin-fundamentally-different-other-cryptocurrencies-103529881.html",
+          "publishedOn": "2023-10-11T10:35:29.000Z",
+          "wordCount": 9594,
+          "title": "Bitcoin Is Fundamentally Different From Other Cryptocurrencies: Fidelity Digital Assets",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/SZJj80BgKl2n2RjeYTD1.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/coindesk_75/b8b02538c2610ec762e585fa3432c6cd"
         },
         {
           "id": "what-to-know-today-8d1b0ac?siteid=yhoof2&yptr=yahoo",
