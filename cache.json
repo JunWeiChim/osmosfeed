@@ -1152,16 +1152,6 @@
           "wordCount": 409,
           "title": "Media Entrepreneur Byron Allen Said To Offer $10B for Some Disney TV Assets",
           "imageUrl": null
-        },
-        {
-          "id": "34555f9014c2eb65acd7bd37505f6e19",
-          "author": "Investopedia",
-          "description": "The United Auto Workers union launched a simultaneous strike against the Big Three Detroit car companies for the first time after failing to reach an agreement by Thursday's deadline.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9366d0af13a449378b863db0bf29399d4d54c67d843fb09b4c385096699c349c86127ec6e378b3e0f72fefe98528b73fa47d56d5641f5f03",
-          "publishedOn": "2023-09-15T15:11:54.765Z",
-          "wordCount": 409,
-          "title": "UAW Launches Strike Against Big Three Automakers",
-          "imageUrl": null
         }
       ]
     },
@@ -2257,6 +2247,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6284995/",
+          "author": "José Boon",
+          "description": "Kantoren, attractieparken en ziekenhuizen weten nog niet hoe ze de wegwerpbeker gaan vervangen als die per januari verboden is, blijkt uit een rondgang van NU.nl. Onderwijsinstellingen hebben juist al wat ervaring opgedaan: \"De mokkendiefstal neemt af.\"",
+          "link": "https://www.nu.nl/economie/6284995/gestolen-mokken-en-volle-vaatwassers-verbod-op-wegwerpbeker-is-een-uitdaging.html",
+          "publishedOn": "2023-10-15T03:28:40.000Z",
+          "wordCount": 3835,
+          "title": "Gestolen mokken en volle vaatwassers: verbod op wegwerpbeker is een uitdaging",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/b9qxyvva0k92_sqr256.jpg/gestolen-mokken-en-volle-vaatwassers-verbod-op-wegwerpbeker-is-een-uitdaging.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/b9qxyvva0k92_sqr256.jpg/gestolen-mokken-en-volle-vaatwassers-verbod-op-wegwerpbeker-is-een-uitdaging.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6285284/",
+          "author": "onze nieuwsredactie",
+          "description": "China schendt op grote schaal mensenrechten in de visserij-industrie. Personeel aan boord van vissersboten en in de verwerkingsfabrieken, onder wie Oeigoeren en Noord-Koreanen, heeft te maken met mensenhandel, geweld en dwangarbeid. Daarbij vallen zelfs doden, blijkt uit onderzoek van journalisten van The Outlaw Ocean Project.",
+          "link": "https://www.nu.nl/the-outlaw-ocean-project/6285284/china-schendt-op-grote-schaal-mensenrechten-in-de-visserij-tot-de-dood-aan-toe.html",
+          "publishedOn": "2023-10-15T03:24:40.000Z",
+          "wordCount": 3018,
+          "title": "The Outlaw Ocean | China schendt op grote schaal mensenrechten in de visserij, tot de dood aan toe",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/vnoxfsaa5kx1_sqr256.jpg/china-schendt-op-grote-schaal-mensenrechten-in-de-visserij-tot-de-dood-aan-toe.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/vnoxfsaa5kx1_sqr256.jpg/china-schendt-op-grote-schaal-mensenrechten-in-de-visserij-tot-de-dood-aan-toe.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6285349/",
           "author": "onze nieuwsredactie",
@@ -8804,6 +8824,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/exchangetradedfunds/08/etf-periodic-investment.asp",
+          "author": "Hans Wagner",
+          "description": "ETFs have lower costs than index funds, but the cost to buy and sell can be more expensive.",
+          "link": "https://www.investopedia.com/articles/exchangetradedfunds/08/etf-periodic-investment.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-10-15T03:26:42.000Z",
+          "wordCount": 6729,
+          "title": "Using ETFs For Small Periodic Investments",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/o3ltCadSJkcglopMh7Dw86XNyo0=/2121x1414/GettyImages-152312166-d50baaa93b6c4ff99cf6f1589bb8fd62.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/o3ltCadSJkcglopMh7Dw86XNyo0=/2121x1414/GettyImages-152312166-d50baaa93b6c4ff99cf6f1589bb8fd62.jpg"
+        },
         {
           "id": "https://www.investopedia.com/giving-tuesday-5088418",
           "author": "Daniel Kurt",
@@ -27863,36 +27898,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/0XTKjA7fvHN-aoIlkUzqSyiZtU4=/2121x1414/GettyImages-1187411618-59da993ef3b24a28b9bad22a944883ca.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/mortgage-rates-drop-to-2-week-low-7970249",
-          "author": "Staff Author",
-          "description": "Rates on 30-year mortgages have dropped almost a quarter percentage point since spiking to a 22-year high last week. The 30-year average is now at a two-week low.",
-          "link": "https://www.investopedia.com/mortgage-rates-drop-to-2-week-low-7970249?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-09-15T16:09:13.000Z",
-          "wordCount": 5638,
-          "title": "Mortgage Rates Drop to 2-Week Low",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/30R0CJDp7IWfcaHH6ilT-eQLbBo=/1240x1040/0915-2b8e76ac926c4220abcf189def487f8c.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/30R0CJDp7IWfcaHH6ilT-eQLbBo=/1240x1040/0915-2b8e76ac926c4220abcf189def487f8c.png"
-        },
-        {
-          "id": "https://www.investopedia.com/media-entrepreneur-byron-allen-said-to-offer-usd10b-for-some-disney-tv-assets-7970266",
-          "author": "Staff Author",
-          "description": "Media entrepreneur Byron Allen reportedly has offered to purchase the Walt Disney Co.’s ABC network, local stations, and cable channels FX and National Geographic.",
-          "link": "https://www.investopedia.com/media-entrepreneur-byron-allen-said-to-offer-usd10b-for-some-disney-tv-assets-7970266?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-09-15T16:05:48.000Z",
-          "wordCount": 5078,
-          "title": "Media Entrepreneur Byron Allen Said To Offer $10B for Some Disney TV Assets",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/dAjTNC3nK8MNmG0LFkEbjuA4A1I=/5100x3402/INV_Disney_ABC_GettyImages-1241517067-cbf037b116974fb2891e3a870183e14a.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/dAjTNC3nK8MNmG0LFkEbjuA4A1I=/5100x3402/INV_Disney_ABC_GettyImages-1241517067-cbf037b116974fb2891e3a870183e14a.jpg"
         }
       ]
     },
@@ -27922,6 +27927,16 @@
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/85d66a210af4e6a7f9a69d1d71e51553"
         },
         {
+          "id": "nvidia-one-tech-hottest-companies-194442969.html",
+          "author": null,
+          "description": "Nvidia offers luxurious office spaces in which employees can gather, but there's no return-to-office mandate.",
+          "link": "https://finance.yahoo.com/news/nvidia-one-tech-hottest-companies-194442969.html",
+          "publishedOn": "2023-10-14T19:44:42.000Z",
+          "wordCount": 10319,
+          "title": "Nvidia, one of tech’s hottest companies, is fine with remote work—and is ignoring the return-to-office trend",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/zCKRbO.TalpRUcTeKnPLzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/9272e242c1e3582a3458836c20d02865"
+        },
+        {
           "id": "housing-never-unaffordable-home-prices-174501327.html",
           "author": null,
           "description": "",
@@ -27939,6 +27954,16 @@
           "publishedOn": "2023-10-14T16:41:02.000Z",
           "wordCount": null,
           "title": "Ask an Advisor: ‘Am I Too Late?' I'm 68, Have No Investments and Only Have $60K Saved",
+          "imageUrl": null
+        },
+        {
+          "id": "roll-over-401-k-annuity-130055783.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/roll-over-401-k-annuity-130055783.html",
+          "publishedOn": "2023-10-14T16:33:47.000Z",
+          "wordCount": null,
+          "title": "Can I Make More Money If I Roll My 401(k) Into An Annuity?",
           "imageUrl": null
         },
         {
@@ -27980,6 +28005,16 @@
           "wordCount": null,
           "title": "AI Stocks AVGO And ANET Lead 5 Resilient Names Near Buy Points",
           "imageUrl": null
+        },
+        {
+          "id": "gas-prices-fueled-summer-inflation-that-is-about-to-change-f5648db2?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Prices at the pump are tumbling, even as war rages in the Middle East.",
+          "link": "https://www.wsj.com/business/energy-oil/gas-prices-fueled-summer-inflation-that-is-about-to-change-f5648db2?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-10-14T14:00:00.000Z",
+          "wordCount": 8114,
+          "title": "Gas Prices Fueled Summer Inflation. That Is About to Change.",
+          "imageUrl": "https://images.wsj.net/im-868199/social"
         },
         {
           "id": "how-5g-changed-world-752b13ee?siteid=yhoof2&yptr=yahoo",
@@ -49130,66 +49165,6 @@
           "wordCount": 9393,
           "title": "El-Erian Warns of ‘Massive’ Corporate Refinancing Next Year",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/pAEcpAiTnBJlmj_CIz6Nbg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/ffe1cb04691918e2d9bbae2d4327967b"
-        },
-        {
-          "id": "tech-leads-stock-slump-as-wall-street-eyes-feds-next-move-stock-market-news-today-154616619.html",
-          "author": null,
-          "description": "US stocks were mostly muted Friday as the major indexes looked to build on a Thursday rally.",
-          "link": "https://finance.yahoo.com/news/tech-leads-stock-slump-as-wall-street-eyes-feds-next-move-stock-market-news-today-154616619.html",
-          "publishedOn": "2023-09-15T15:46:16.000Z",
-          "wordCount": 9842,
-          "title": "Tech leads stock slump as Wall Street eyes Fed's next move: Stock market news today",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/q68sw4oOcWAMfh7JK1cZwg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/b215d6c0-530d-11ee-b7e7-86f1d959d5df"
-        },
-        {
-          "id": "economist-says-uaws-strike-strategy-153300351.html",
-          "author": null,
-          "description": "The strategy of striking against all three automakers but at select plants — with the possibility of expanding the strike if necessary — is new for the union.",
-          "link": "https://finance.yahoo.com/news/economist-says-uaws-strike-strategy-153300351.html",
-          "publishedOn": "2023-09-15T15:33:00.000Z",
-          "wordCount": 9470,
-          "title": "Economist says UAW's strike strategy is \"a dangerous thing\"",
-          "imageUrl": "https://media.zenfs.com/en/cbsmoneywatch.com/69f27b604d3521f6f5e43b91769a1145"
-        },
-        {
-          "id": "3-million-enough-retire-65-130039497.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/3-million-enough-retire-65-130039497.html",
-          "publishedOn": "2023-09-15T15:14:30.000Z",
-          "wordCount": null,
-          "title": "$3 Million Will Last You This Long if You Retire at 65",
-          "imageUrl": null
-        },
-        {
-          "id": "ask-advisor-70-years-old-202905223.html",
-          "author": null,
-          "description": "My wife and I are 70 years old. We've paid off everything, including the house. Between my pension of $29,000 and Social Security, we're getting a gross of $99,000 a year in income, which is more than enough. Our current … Continue reading → The post Ask an Advisor: We Are 70 Years Old, Have $99K in Retirement Income, a $1.4M IRA and Other Investments. Is It Too Late to Convert to a Roth? appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/ask-advisor-70-years-old-202905223.html",
-          "publishedOn": "2023-09-15T15:13:00.000Z",
-          "wordCount": 10218,
-          "title": "Ask an Advisor: We Are 70 Years Old, Have $99K in Retirement Income, a $1.4M IRA and Other Investments. Is It Too Late to Convert to a Roth?",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/8159cbbcbb5c3d05a6f92305f1e2e110"
-        },
-        {
-          "id": "much-interest-earn-1-million-150000229.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/much-interest-earn-1-million-150000229.html",
-          "publishedOn": "2023-09-15T15:12:37.000Z",
-          "wordCount": null,
-          "title": "Can I Really Live Off The Interest of My $1 Million Portfolio?",
-          "imageUrl": null
-        },
-        {
-          "id": "analysts-buy-2-high-yield-151215438.html",
-          "author": null,
-          "description": "It doesn’t take much for sentiment to shift abruptly on Wall Street. Markets could be up one moment, then all of a sudden crash on account of a negative development. And looking at its current state, it won’t take much for it to come tumbling down, says Morgan Stanley’s chief investment officer and chief US equity strategist, Mike Wilson. “The S&P 500 risk/reward today is one of the worst I’ve ever seen, given the earnings setup that we see in front of us combined with the valuation that we have",
-          "link": "https://finance.yahoo.com/news/analysts-buy-2-high-yield-151215438.html",
-          "publishedOn": "2023-09-15T15:12:15.000Z",
-          "wordCount": 10577,
-          "title": "Analysts Say Buy These 2 High-Yield Dividend Stocks — Including One With 13% Yield",
-          "imageUrl": "https://media.zenfs.com/en/tipranks_452/74ce752606f5f9ef662bf89b968dd479"
         }
       ]
     }
