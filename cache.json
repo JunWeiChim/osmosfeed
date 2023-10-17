@@ -2308,6 +2308,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6285684/",
+          "author": "Tim Wijkman-van Aalst",
+          "description": "Apple loopt met zijn marktaandeel op de smartphonemarkt steeds verder in op Samsung, zo blijkt uit cijfers van marktonderzoeker Canalys. Van alle verkochte smartphones is 20 procent een Samsung en 17 procent een iPhone.",
+          "link": "https://www.nu.nl/tech/6285684/marktaandeel-van-samsung-op-de-smartphonemarkt-brokkelt-verder-af.html",
+          "publishedOn": "2023-10-17T10:43:05.000Z",
+          "wordCount": 2542,
+          "title": "Marktaandeel van Samsung op de smartphonemarkt brokkelt verder af",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/bwrxk17atw4m_sqr256.jpg/marktaandeel-van-samsung-op-de-smartphonemarkt-brokkelt-verder-af.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/bwrxk17atw4m_sqr256.jpg/marktaandeel-van-samsung-op-de-smartphonemarkt-brokkelt-verder-af.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6285509/",
           "author": "Rutger Otto",
           "description": "In de nieuwe telefoons van Google ligt de nadruk op kunstmatige intelligentie. En dat merk je vooral bij het bewerken van foto's op de Pixel 8 Pro. Nieuwe functies maken het kinderlijk eenvoudig om grenzen tussen echt en nep te vervagen.",
@@ -28038,21 +28053,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/AygtTPnz8QmJAbhLK4Kbhgd8Mig=/680x440/thinkstockphotos_493208894-5bfc2b9746e0fb0051bde2b8.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/investing/100814/wall-streets-enduring-impact-economy.asp",
-          "author": "Elvis Picardo",
-          "description": "Wall Street is just one little street in lower Manhattan, but both empirically and symbolically, it continues to make the world go round.",
-          "link": "https://www.investopedia.com/articles/investing/100814/wall-streets-enduring-impact-economy.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-09-17T23:01:41.000Z",
-          "wordCount": 7752,
-          "title": "Why Wall Street Is a Key Player in the World&#39;s Economy",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/NDCkeHW6bU-UXC41MUVKsx2rd6E=/680x440/business_building_153697270-5bfc2b9846e0fb0083c07d69.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/NDCkeHW6bU-UXC41MUVKsx2rd6E=/680x440/business_building_153697270-5bfc2b9846e0fb0083c07d69.jpg"
         }
       ]
     },
@@ -28061,6 +28061,46 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "bofa-profit-rises-higher-interest-104703134.html",
+          "author": null,
+          "description": "The second-largest U.S. bank on Tuesday posted net income of $7.27 billion, or 91 cents per share, in the three months ended Sept. 30.  BofA's investment banking and trading units managed to outperform Wall Street expectations as they reported higher revenue, bucking an industry-wide slump.  Meanwhile, lenders have seen their interest income swell as they had more room to charge customers higher rates on loans after the Federal Reserve raised borrowing costs in its fight against inflation.",
+          "link": "https://finance.yahoo.com/news/bofa-profit-rises-higher-interest-104703134.html",
+          "publishedOn": "2023-10-17T10:47:03.000Z",
+          "wordCount": 9599,
+          "title": "Bank of America profit rises as interest income grows, investment bank shines",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/4126b7136bccc59d389d1b90417c601c"
+        },
+        {
+          "id": "j-j-raises-annual-profit-102227097.html",
+          "author": null,
+          "description": "Investors are focused on how Johnson & Johnson, now a standalone pharmaceutical and medical devices company, will reach its goal of $57 billion in drug sales by 2025.  Excluding its consumer health unit, the company now expects 2023 adjusted profit of $10.07 to $10.13 per share, compared with its previous outlook of $10.00 to $10.10 per share.  J&J posted a third-quarter profit of $1.69 per share, compared with $1.62 per share a year earlier.",
+          "link": "https://finance.yahoo.com/news/j-j-raises-annual-profit-102227097.html",
+          "publishedOn": "2023-10-17T10:22:27.000Z",
+          "wordCount": 9501,
+          "title": "J&J lifts profit outlook on strong demand for top-seller Stelara",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/85516972bba9b750fe2a249c0976be18"
+        },
+        {
+          "id": "pfizer-looks-for-a-covid-bottom-f9b551fa?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The pharma giant has had to slash projections, but investors welcome its plans to cut costs.",
+          "link": "https://www.wsj.com/health/pharma/pfizer-looks-for-a-covid-bottom-f9b551fa?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-10-17T10:00:00.000Z",
+          "wordCount": 8169,
+          "title": "Pfizer Looks for a Covid Bottom",
+          "imageUrl": "https://images.wsj.net/im-869213/social"
+        },
+        {
+          "id": "home-insurance-is-so-high-in-this-florida-town-residents-are-leaving-bb00c96f?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "In West Palm Beach’s historic Flamingo Park neighborhood, those who own their homes outright are dropping their insurance, and some who can’t are selling their homes.",
+          "link": "https://www.wsj.com/real-estate/home-insurance-is-so-high-in-this-florida-town-residents-are-leaving-bb00c96f?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-10-17T09:30:00.000Z",
+          "wordCount": 6764,
+          "title": "Home Insurance Is So High in This Florida Town, Residents Are Leaving",
+          "imageUrl": "https://images.wsj.net/im-867538/social"
+        },
         {
           "id": "ericsson-stock-nokia-telecom-earnings-2e65ebd9?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -28180,6 +28220,16 @@
           "wordCount": 15195,
           "title": "Is This The End Of Naked Short Selling?",
           "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        },
+        {
+          "id": "theyre-repossessing-jeep-cartier-bracelet-230000415.html",
+          "author": null,
+          "description": "How to take over the family finances after a tragedy? How about not like this: I got a call maybe a month or three after my 55-year-old husband died from cancer, leaving our 12-year-old son and me stunned that this big personality had finally, in my husband’s words, “rolled over and called it a life.” I was picking up my elderly parents from the airport when I got an urgent call from the new manny (a male caretaker would be good for the kid, I was advised) saying, “Um, there’s a man here to take",
+          "link": "https://www.yahoo.com/lifestyle/theyre-repossessing-jeep-cartier-bracelet-230000415.html",
+          "publishedOn": "2023-10-16T23:00:00.000Z",
+          "wordCount": 15706,
+          "title": "\"They're Repossessing the Jeep and I Need a Cartier Bracelet\": What I Wish I Knew About My Finances *Before* My Husband Died",
+          "imageUrl": "https://media.zenfs.com/en/purewow_185/bf72d96f20b65e9b8a78b7ff8483a902"
         },
         {
           "id": "rite-aid-rushes-sale-unit-222739271.html",
@@ -50170,26 +50220,6 @@
           "wordCount": 9468,
           "title": "Savers missing out on interest as a third keep cash in current accounts",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ayyRSTAh9GacjA5Q1n6I0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/77b9a9651fe14b69bc22022f71e20c64"
-        },
-        {
-          "id": "carry-trade-mints-42-profit-230000757.html",
-          "author": null,
-          "description": "(Bloomberg) -- For currency speculators around the world, the trade has long been a no-brainer: simply borrow yen, which costs nothing because of sub-zero interest rates in Japan, and then park the money anywhere yields are higher, earning a tidy profit from the difference.Most Read from BloombergWall Street Comes to Grips With How Wrong It’s Been in 2023MGM Resorts Hackers Broke In After Tricking IT Service DeskThe World Is Struggling to Make Enough DieselHouse Republicans Prepare to Turn US Go",
-          "link": "https://finance.yahoo.com/news/carry-trade-mints-42-profit-230000757.html",
-          "publishedOn": "2023-09-17T23:00:00.000Z",
-          "wordCount": 10281,
-          "title": "Carry Trade Mints 42% Profit and Sparks Push Into New Market",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/8tMwuP_22s8jKyeatvdmVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzI-/https://media.zenfs.com/en/bloomberg_markets_842/dd447bd1bb7242ef202d9dc0cf925179"
-        },
-        {
-          "id": "asia-stocks-look-set-fall-222324472.html",
-          "author": null,
-          "description": "(Bloomberg) -- Asian equities look set to open lower following tech-led declines on Wall Street Friday as investors look ahead to a week that includes Federal Reserve and Bank of Japan meetings. Most Read from BloombergWall Street Comes to Grips With How Wrong It’s Been in 2023MGM Resorts Hackers Broke In After Tricking IT Service DeskThe World Is Struggling to Make Enough DieselHouse Republicans Prepare to Turn US Government Shutdown Into Immigration ClashUltra-Rich Buy Ultra-Luxury Counseling",
-          "link": "https://finance.yahoo.com/news/asia-stocks-look-set-fall-222324472.html",
-          "publishedOn": "2023-09-17T22:23:24.000Z",
-          "wordCount": 9825,
-          "title": "Asia Stocks Look Set to Fall on Wall Street Losses: Markets Wrap",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/da5afc514e1896ff720148551e5ad52c"
         }
       ]
     }
