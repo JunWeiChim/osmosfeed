@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-20T01:49:20.857Z</updated>
+    <updated>2023-10-20T02:19:05.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="https://www.barrons.com/articles/tesla-stock-next-7b1c1c04?siteid=yhoof2&amp;yptr=yahoo"/>
         <updated>2023-10-19T23:04:00.000Z</updated>
         <summary type="html"><![CDATA[Shares of the electric-vehicle maker dropped 9.3% after it reported lackluster earnings.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware Stock Implies 50% Chance of Completion of Broadcom Deal]]></title>
+        <id>vmware-stock-broadcom-deal-13869a4c?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.barrons.com/articles/vmware-stock-broadcom-deal-13869a4c?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2023-10-19T22:54:00.000Z</updated>
+        <summary type="html"><![CDATA[VMware shares fell after a report saying Chinese regulators are likely to delay signing off on the deal.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -41253,46 +41263,6 @@ Dow Jones Industrial Average futures were down 80 points, or 0.2%. S&P 500 futur
         <summary type="html"><![CDATA[Mortgage rates continue to bob around, with the 30-year average moving lower and sitting in a range just below the 22-year high reached earlier this month.]]></summary>
         <author>
             <name>Staff Author</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CD Rates Hit New Records in Three Terms—But Hold or Dip in Others]]></title>
-        <id>https://www.investopedia.com/cd-rates-hit-new-records-three-terms-hold-dip-others-7971730</id>
-        <link href="https://www.investopedia.com/cd-rates-hit-new-records-three-terms-hold-dip-others-7971730?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-09-20T14:17:38.000Z</updated>
-        <summary type="html"><![CDATA[CD rates have still been rising in several terms—setting a handful of new records. But rates are flat or fading in other terms. Is it a sign the CD rate party is winding down?]]></summary>
-        <author>
-            <name>Staff Author</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CD Rates Hit New Records in Three Terms—But Hold or Dip in Others]]></title>
-        <id>cd-rates-hit-new-records-three-terms-hold-dip-others-7971730?utm_campaign=quote-yahoo&amp;utm_source=yahoo&amp;utm_medium=referral&amp;yptr=yahoo</id>
-        <link href="https://www.investopedia.com/cd-rates-hit-new-records-three-terms-hold-dip-others-7971730?utm_campaign=quote-yahoo&amp;utm_source=yahoo&amp;utm_medium=referral&amp;yptr=yahoo"/>
-        <updated>2023-09-20T14:17:38.000Z</updated>
-        <summary type="html"><![CDATA[CD rates have still been rising in several terms—setting a handful of new records. But rates are flat or fading in other terms. Is it a sign the CD rate party is winding down?]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bekijk hier wat Prinsjesdag doet met jouw koopkracht]]></title>
-        <id>https://www.nu.nl/-/6281408/</id>
-        <link href="https://www.nu.nl/economie/6281408/bekijk-hier-wat-prinsjesdag-doet-met-jouw-koopkracht.html"/>
-        <updated>2023-09-20T13:55:59.000Z</updated>
-        <summary type="html"><![CDATA[Wat betekent Prinsjesdag voor jouw koopkracht? Dat kun je bekijken met deze tool.]]></summary>
-        <author>
-            <name>onze economieredactie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NU+ | Heeft werkend Nederland nog een vakbond nodig? 'Lonen een hot item']]></title>
-        <id>https://www.nu.nl/-/6281696/</id>
-        <link href="https://www.nu.nl/economie/6281696/heeft-werkend-nederland-nog-een-vakbond-nodig-lonen-een-hot-item.html"/>
-        <updated>2023-09-20T13:49:41.000Z</updated>
-        <summary type="html"><![CDATA[Het lidmaatschap van een vakbond kost al snel twee tientjes per maand. Ondertussen hebben werknemers door de krapte op de arbeidsmarkt meer macht dan ooit. Wat is lid zijn van een vakbond nog waard?]]></summary>
-        <author>
-            <name>José Boon</name>
         </author>
     </entry>
 </feed>
