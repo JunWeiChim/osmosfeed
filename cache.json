@@ -2488,6 +2488,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6286502/",
+          "author": "Tom van Gurp",
+          "description": "Nederland kent bijna tweehonderd bedrijven die wijn maken. Dat is 43 procent meer dan vijf jaar geleden, blijkt uit cijfers van de Kamer van Koophandel (KVK). Bijna de helft van de wijnboeren komt uit Limburg of Gelderland.",
+          "link": "https://www.nu.nl/economie/6286502/ons-land-telt-steeds-meer-wijnboeren-vooral-in-gelderland-en-limburg.html",
+          "publishedOn": "2023-10-23T23:01:41.000Z",
+          "wordCount": 2604,
+          "title": "Ons land telt steeds meer wijnboeren, vooral in Gelderland en Limburg",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/lifxwjbaj62f_sqr256.jpg/ons-land-telt-steeds-meer-wijnboeren-vooral-in-gelderland-en-limburg.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/lifxwjbaj62f_sqr256.jpg/ons-land-telt-steeds-meer-wijnboeren-vooral-in-gelderland-en-limburg.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6286494/",
           "author": "Tim Wijkman-van Aalst",
           "description": "Het overheidsloket waar zorgpersoneel met langdurige coronaklachten een tegemoetkoming kon aanvragen, is maandagmiddag gesloten. Zondagavond hadden 884 zorgmedewerkers een vergoeding van 15.000 euro aangevraagd, meldt het ministerie van Volksgezondheid aan NU.nl.",
@@ -8861,21 +8876,6 @@
             "url": "https://media.nu.nl/m/1b0x921an1qm_sqr256.jpg/frankrijk-stopt-met-steenkool-laatste-twee-centrales-voor-2027-dicht.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/1b0x921an1qm_sqr256.jpg/frankrijk-stopt-met-steenkool-laatste-twee-centrales-voor-2027-dicht.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6282343/",
-          "author": "onze economieredactie",
-          "description": "De Tsjechische miljardair Daniel Kretínský verkoopt zijn belang in de Franse krant Le Monde. Zijn aandelen gaan over naar de Franse zakenman Xavier Niel, die al grootaandeelhouder in het nieuwsmedium was.",
-          "link": "https://www.nu.nl/economie/6282343/tsjechische-miljardair-verkoopt-miljoenenbelang-in-nieuwsmediagroep-le-monde.html",
-          "publishedOn": "2023-09-24T10:53:26.000Z",
-          "wordCount": 1010,
-          "title": "Tsjechische miljardair verkoopt miljoenenbelang in nieuwsmediagroep Le Monde",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/skixnroa5fx0_sqr256.jpg/tsjechische-miljardair-verkoopt-miljoenenbelang-in-nieuwsmediagroep-le-monde.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/skixnroa5fx0_sqr256.jpg/tsjechische-miljardair-verkoopt-miljoenenbelang-in-nieuwsmediagroep-le-monde.jpg"
         }
       ]
     },
@@ -27366,6 +27366,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "home-buyers-backing-deals-highest-215148502.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/home-buyers-backing-deals-highest-215148502.html",
+          "publishedOn": "2023-10-23T21:51:48.000Z",
+          "wordCount": null,
+          "title": "Home buyers are backing out of deals at the highest rate in a year as surging mortgage rates slam the housing market",
+          "imageUrl": null
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
@@ -49985,26 +49995,6 @@
           "wordCount": 9961,
           "title": "Oil Price Surge Upends Emerging-Market Disinflation Trade",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/AO_kYlgeHi8P7YxPQmK8PA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MjQ-/https://media.zenfs.com/en/bloomberg_markets_842/c8c7424827a92fe70de686eb068869af"
-        },
-        {
-          "id": "ipo-market-arm-instacart-klaviyo-stocks-ee65206?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Arm, Instacart and Klaviyo all popped on their first day of trading, but their performance since then has been more muted.",
-          "link": "https://www.wsj.com/finance/stocks/ipo-market-arm-instacart-klaviyo-stocks-ee65206?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-09-24T11:00:00.000Z",
-          "wordCount": 8166,
-          "title": "The IPO Market Is Open Again! At Least for the Moment.",
-          "imageUrl": "https://images.wsj.net/im-856499/social"
-        },
-        {
-          "id": "twenty-five-years-after-ltcm-emerging-markets-keep-burning-investors-89444ed1?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Despite the threat of China’s triggering a worldwide crisis as Russia did in 1998, emerging markets are much more resilient now. It doesn’t mean investors will profit from them.",
-          "link": "https://www.wsj.com/finance/currencies/twenty-five-years-after-ltcm-emerging-markets-keep-burning-investors-89444ed1?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-09-24T11:00:00.000Z",
-          "wordCount": 7919,
-          "title": "Twenty-Five Years After LTCM, Emerging Markets Keep Burning Investors",
-          "imageUrl": "https://images.wsj.net/im-856795/social"
         }
       ]
     }
