@@ -1382,36 +1382,6 @@
           "wordCount": 409,
           "title": "Netflix Loses Broadcom Patent Lawsuit In Germany",
           "imageUrl": null
-        },
-        {
-          "id": "669f9660965d0647843d7807965f9875",
-          "author": "Investopedia",
-          "description": "Booking Holdings said Monday it plans to appeal EU regulators' veto of its acquisition of Etraveli Group, a Swedish online travel agency that specializes in tracking flights.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8468c8e916ab5b748b8135eee635608e544fc6318975b4870f3809cd6e813c9c9d1c21c6f227b3e3e62ceba5d974f278b97256",
-          "publishedOn": "2023-09-25T20:12:26.455Z",
-          "wordCount": 409,
-          "title": "Booking.com to Appeal EU's Veto of Etraveli Deal",
-          "imageUrl": null
-        },
-        {
-          "id": "2726ee67f38f999bf97beb92674e3bf5",
-          "author": "Investopedia",
-          "description": "Looking to be a holistic provider of AI solutions, Amazon is investing $4 billion into a startup founded by former OpenAI employees.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca876ac6f810ab11339d8328b0bf33239b4b12c239c82ab091476653d27f9d7ec4825778ccab20a1f1b76de0e18221ac23e767068c224a1b4701f8fdbc947e5784c1a2a3c8d88c97584f800acf8165758165637ecccd06d0c850",
-          "publishedOn": "2023-09-25T20:12:26.444Z",
-          "wordCount": 409,
-          "title": "Amazon Accelerates Heated AI Race With Up to $4 Billion Investment in Startup Anthropic",
-          "imageUrl": null
-        },
-        {
-          "id": "4439a0434d014d08595bf7c70d63555f",
-          "author": "Investopedia",
-          "description": "Jefferies warned that sales for Nike and other retailers could be hurt as the moratorium on student loan repayments ends.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8c62c1e41ab7553c9bc32fa2e0343ec24151c77d8a3efc81563e40de65817edd9d1b628ee03aa0f2ea36e7e68b3eb661ea251a8e3002015e1cfcf0bc947950c2d7fbb1dbc09c945819d74993c23936",
-          "publishedOn": "2023-09-25T20:12:26.427Z",
-          "wordCount": 409,
-          "title": "Jefferies Warns End of Student Loan Forgiveness Could Impact Nike's Sales",
-          "imageUrl": null
         }
       ]
     },
@@ -2637,6 +2607,51 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6286693/",
+          "author": "onze economieredactie",
+          "description": "De breuk in een gaspijplijn tussen Finland en Estland is mogelijk veroorzaakt door een anker. Finland meldt dat onderzoekers vlak bij de plek van de breuk een anker hebben opgevist. Wellicht was dat onderdeel van een Chinees containerschip.",
+          "link": "https://www.nu.nl/economie/6286693/finland-vist-anker-op-bij-plek-waar-gaspijplijn-kapot-ging.html",
+          "publishedOn": "2023-10-25T08:12:28.000Z",
+          "wordCount": 2515,
+          "title": "Finland vist anker op bij plek waar gaspijplijn kapot ging",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/h7lx419aag8i_sqr256.jpg/finland-vist-anker-op-bij-plek-waar-gaspijplijn-kapot-ging.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/h7lx419aag8i_sqr256.jpg/finland-vist-anker-op-bij-plek-waar-gaspijplijn-kapot-ging.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6286756/",
+          "author": "onze economieredactie",
+          "description": "Door het matige zomerweer in delen van Europa is er minder bier gedronken en dat ziet Heineken terug in zijn cijfers. Ook door de hogere prijzen heeft de Amsterdamse brouwer minder verkocht.",
+          "link": "https://www.nu.nl/economie/6286756/slecht-weer-en-hogere-prijzen-maken-heineken-bier-minder-populair.html",
+          "publishedOn": "2023-10-25T07:47:20.000Z",
+          "wordCount": 2507,
+          "title": "Slecht weer en hogere prijzen maken Heineken-bier minder populair",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/c0bx01aaa6yy_sqr256.jpg/slecht-weer-en-hogere-prijzen-maken-heineken-bier-minder-populair.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/c0bx01aaa6yy_sqr256.jpg/slecht-weer-en-hogere-prijzen-maken-heineken-bier-minder-populair.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6286755/",
+          "author": "Tim Wijkman-van Aalst",
+          "description": "KPN heeft een goed derde kwartaal achter de rug. De winst steeg met 6,5 procent, mede doordat de provider in juli een flinke inflatiecorrectie heeft doorgevoerd. Klanten waren volgens het telecombedrijf minder blij met die prijsverhoging.",
+          "link": "https://www.nu.nl/tech/6286755/inflatiecorrectie-stuwt-winst-van-kpn-maar-gaat-ten-koste-van-klanttevredenheid.html",
+          "publishedOn": "2023-10-25T07:46:54.000Z",
+          "wordCount": 2630,
+          "title": "Inflatiecorrectie stuwt winst van KPN, maar gaat ten koste van klanttevredenheid",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/gj1x415agl8l_sqr256.jpg/inflatiecorrectie-stuwt-winst-van-kpn-maar-gaat-ten-koste-van-klanttevredenheid.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/gj1x415agl8l_sqr256.jpg/inflatiecorrectie-stuwt-winst-van-kpn-maar-gaat-ten-koste-van-klanttevredenheid.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6286681/",
           "author": "Tom van Gurp",
@@ -27598,111 +27613,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/lEZmbJ3Dad0xd1sLbQUAU2hTBuo=/4000x2670/GettyImages-452899768-b9f350bdfba7416c89c836fae2f7cbe3.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/novo-nordisk-and-valo-health-to-use-ai-to-develop-treatments-for-cardiometabolic-diseases-7974338",
-          "author": "Staff Author",
-          "description": "Denmark’s Novo Nordisk struck a deal with U.S.-based health tech firm Valo Health to use AI to discover and develop treatments for cardiometabolic diseases such as heart attack, stroke, and diabetes.",
-          "link": "https://www.investopedia.com/novo-nordisk-and-valo-health-to-use-ai-to-develop-treatments-for-cardiometabolic-diseases-7974338?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-09-25T20:11:55.000Z",
-          "wordCount": 5054,
-          "title": "Novo Nordisk and Valo Health to Use AI to Develop Treatments for Cardiometabolic Diseases",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/6qCylyNx-h-yhU6LJeXwQKpnn1M=/4864x3648/GettyImages-1609713629-a18bedba0fc9458096ee57748e536c95.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/6qCylyNx-h-yhU6LJeXwQKpnn1M=/4864x3648/GettyImages-1609713629-a18bedba0fc9458096ee57748e536c95.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/r/reentry-term-insurance.asp",
-          "author": "Lucas Downey",
-          "description": "Re-entry term insurance offers a low rate for a fixed period, after which you must pass a medical exam to keep the low rate. Here's how it works.",
-          "link": "https://www.investopedia.com/terms/r/reentry-term-insurance.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-09-25T20:09:42.000Z",
-          "wordCount": 6662,
-          "title": "Re-Entry Term Insurance",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/nA08BAxDSYSl3DY8xj-QLZPyF-I=/2121x1414/GettyImages-1171931385-38c1b5923c294a608bcb50525df206fa.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/nA08BAxDSYSl3DY8xj-QLZPyF-I=/2121x1414/GettyImages-1171931385-38c1b5923c294a608bcb50525df206fa.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/netflix-loses-broadcom-patent-lawsuit-in-germany-7974353",
-          "author": "Kevin George",
-          "description": "A German court ruled that Netflix is infringing on a Broadcom patent in the country and has ordered the company to stop streaming video in the country using Broadcom's technology.",
-          "link": "https://www.investopedia.com/netflix-loses-broadcom-patent-lawsuit-in-germany-7974353?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-09-25T20:03:32.000Z",
-          "wordCount": 4940,
-          "title": "Netflix Loses Broadcom Patent Lawsuit In Germany",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/q2wO13TE2_mHKFkXUY4ggLgvCJ8=/4019x2752/GettyImages-1345411939-1d0162ea653e4eae90066859013398a4.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/q2wO13TE2_mHKFkXUY4ggLgvCJ8=/4019x2752/GettyImages-1345411939-1d0162ea653e4eae90066859013398a4.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/the-express-podcast-episode-155-7974435",
-          "author": "Staff Author",
-          "description": "Diana Henriques, author of the new book, Taming the Street: The Old Guard, The New Deal, and FDR's Fight to Save American Capitalism, joins the show to talk about how President Franklin Delano Roosevelt and a small group of men revolutionized Wall Street after the crash of 1929.",
-          "link": "https://www.investopedia.com/the-express-podcast-episode-155-7974435?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-09-25T19:53:05.000Z",
-          "wordCount": 4584,
-          "title": "The Taming of Wall Street Amid its Darkest Days",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/E0OVLoZ86fhsrx6nXnoW3UyBZ8U=/3954x3109/GettyImages-515142032-5cfa7de6e45540e8b896535a1d9c89c5.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/E0OVLoZ86fhsrx6nXnoW3UyBZ8U=/3954x3109/GettyImages-515142032-5cfa7de6e45540e8b896535a1d9c89c5.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/high-oil-prices-may-not-cause-a-recession-and-may-not-last-long-say-analysts-7974300",
-          "author": "Staff Author",
-          "description": "Higher oil prices likely won't cause consumer spending and gross domestic product (GDP) to decline, Goldman Sachs analysts said in a research note, and not all analysts expect oil prices to remain high.",
-          "link": "https://www.investopedia.com/high-oil-prices-may-not-cause-a-recession-and-may-not-last-long-say-analysts-7974300?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-09-25T19:47:08.000Z",
-          "wordCount": 5461,
-          "title": "High Oil Prices May Not Cause A Recession and May Not Last Long Say Analysts",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/LEzfHVU6tkrFoSCdjBUa94_Gndw=/3900x2595/GettyImages-1247204355-adf4a210af18400b91fc810c8fd54d13.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/LEzfHVU6tkrFoSCdjBUa94_Gndw=/3900x2595/GettyImages-1247204355-adf4a210af18400b91fc810c8fd54d13.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/i/italexit-italeave.asp",
-          "author": "Adam Hayes",
-          "description": "Italexit, a portmanteau of \"Italy\" and \"exit,\" is the Italian version of Brexit where the EU's third largest economy leaves the European Union.",
-          "link": "https://www.investopedia.com/terms/i/italexit-italeave.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-09-25T19:46:21.000Z",
-          "wordCount": 6147,
-          "title": "Italexit (Italeave) Definition",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/zdXR0IE4fB-fiDdxeLsaE-pJOT0=/4000x2700/italexit-italeave.asp-final-fdcd5d463dfb4393acf46c4d20a1853f.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/zdXR0IE4fB-fiDdxeLsaE-pJOT0=/4000x2700/italexit-italeave.asp-final-fdcd5d463dfb4393acf46c4d20a1853f.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/l/lifeexpectancy.asp",
-          "author": "Julia Kagan",
-          "description": "Life expectancy is defined as the age to which a person is expected to live, or the remaining number of years a person is expected to live.",
-          "link": "https://www.investopedia.com/terms/l/lifeexpectancy.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-09-25T19:39:28.000Z",
-          "wordCount": 6948,
-          "title": "Life Expectancy: It's More Than Just A Number",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/94h1BBv2H1Vk4iN4ifi8LnfW2Cc=/6048x4024/GettyImages-1188145019-dd8bcfa089bc42ac8c4aa5e937ff4d9a.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/94h1BBv2H1Vk4iN4ifi8LnfW2Cc=/6048x4024/GettyImages-1188145019-dd8bcfa089bc42ac8c4aa5e937ff4d9a.jpg"
         }
       ]
     },
@@ -28630,6 +28540,16 @@
           "wordCount": null,
           "title": "The S&P 500 is poised for a 14% rally as stocks are flashing signs of being oversold, strategist says",
           "imageUrl": null
+        },
+        {
+          "id": "paypal-under-microscope-ahead-earnings-224042291.html",
+          "author": null,
+          "description": "In the wake of 2022’s bear market, not many were expecting the bull market that defined the first half of the year to take place. But that was not the only surprise on offer. Also contrasting sharply with expectations set out at the start of 2023, Deutsche Bank analyst Bryan Keane notes e-commerce volumes have been “far more robust than expected,” and with all relevant metrics indicating resilience in online spending, this strength continued into 3Q23. As such, with PayPal’s (NASDAQ:PYPL) Q3 ear",
+          "link": "https://finance.yahoo.com/news/paypal-under-microscope-ahead-earnings-224042291.html",
+          "publishedOn": "2023-10-23T22:40:42.000Z",
+          "wordCount": 10080,
+          "title": "PayPal is under the microscope ahead of earnings; Here’s what to expect",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/5367e4ed6f3bcd8e1a44cf1d91d0fa94"
         },
         {
           "id": "why-venezuela-lose-oil-crown-223841707.html",
@@ -50160,46 +50080,6 @@
           "wordCount": null,
           "title": "Dow Jones Gains As Trump Ramps Up Shutdown Pressure; Tesla Up Despite This Call As LI Dives",
           "imageUrl": null
-        },
-        {
-          "id": "stocks-rise-as-wall-street-halts-fed-fueled-hangover-stock-market-news-today-200612734.html",
-          "author": null,
-          "description": "Wall Street stocks struggled to advance on Monday, as the Federal Reserve's \"higher for longer\" interest rate strategy continued to pile on pressure as a US government shutdown loomed.",
-          "link": "https://finance.yahoo.com/news/stocks-rise-as-wall-street-halts-fed-fueled-hangover-stock-market-news-today-200612734.html",
-          "publishedOn": "2023-09-25T20:06:12.000Z",
-          "wordCount": 13189,
-          "title": "Stocks rise as Wall Street halts Fed-fueled hangover: Stock market news today",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Ec_jEl91sgY2YGs8MNZm.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/dacdfd40-2d15-11ee-bdee-28a626e2ac06"
-        },
-        {
-          "id": "netflix-loses-broadcom-patent-lawsuit-in-germany-7974353?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "A German court ruled that Netflix is infringing on a Broadcom patent in the country and has ordered the company to stop streaming video in the country using Broadcom's technology.",
-          "link": "https://www.investopedia.com/netflix-loses-broadcom-patent-lawsuit-in-germany-7974353?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-09-25T20:03:32.000Z",
-          "wordCount": 5444,
-          "title": "Netflix Loses Broadcom Patent Lawsuit In Germany",
-          "imageUrl": "https://www.investopedia.com/thmb/bLibdEk4rufVmdKJoNgudyiGOSI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1345411939-1d0162ea653e4eae90066859013398a4.jpg"
-        },
-        {
-          "id": "plug-power-stock-hydrogen-cf1ec6de?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "HSBC analysts initiated coverage of hydrogen technology stocks Plug Power, Bloom Energy, and Chart industries at Buy.",
-          "link": "https://www.barrons.com/articles/plug-power-stock-hydrogen-cf1ec6de?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-09-25T19:37:00.000Z",
-          "wordCount": 6498,
-          "title": "Plug Power, 2 Other Stocks Are Winners in U.S. Hydrogen, Says Analyst",
-          "imageUrl": "https://images.barrons.com/im-800132/social"
-        },
-        {
-          "id": "ford-pauses-3-5-billion-191526095.html",
-          "author": null,
-          "description": "Republicans in Congress have been probing Ford's battery plant in Michigan using technology from CATL, the world's largest battery maker.  \"We are pausing work and limiting spending on construction on the Marshall project until we’re confident about our ability to competitively operate the plant,\" Ford said Monday.",
-          "link": "https://finance.yahoo.com/news/ford-pauses-3-5-billion-191526095.html",
-          "publishedOn": "2023-09-25T19:15:26.000Z",
-          "wordCount": 9381,
-          "title": "Ford pauses work on $3.5 billion battery plant in Michigan",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/5ac46ddc951225697bcdd65e69f53226"
         }
       ]
     }
