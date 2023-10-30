@@ -2478,6 +2478,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6287470/",
+          "author": "Tom van Gurp",
+          "description": "Zorgmedewerkers hebben zich het afgelopen kwartaal weer minder vaak ziek gemeld. Ook in eerdere kwartalen van dit jaar daalden de verzuimcijfers al.",
+          "link": "https://www.nu.nl/economie/6287470/ziekteverzuim-onder-zorgpersoneel-daalt-ook-in-derde-kwartaal.html",
+          "publishedOn": "2023-10-30T08:54:41.000Z",
+          "wordCount": 2521,
+          "title": "Ziekteverzuim onder zorgpersoneel daalt ook in derde kwartaal",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/t0rxrfga580s_sqr256.jpg/ziekteverzuim-onder-zorgpersoneel-daalt-ook-in-derde-kwartaal.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/t0rxrfga580s_sqr256.jpg/ziekteverzuim-onder-zorgpersoneel-daalt-ook-in-derde-kwartaal.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6287466/",
           "author": "onze economieredactie",
           "description": "De Japanse autoproducent Toyota heeft het afgelopen half jaar wereldwijd een recordaantal auto's verkocht. Met name de verkoop van hybride auto's, die deels elektrisch rijden, ging flink de hoogte in.",
@@ -8626,21 +8641,6 @@
             "url": "https://media.nu.nl/m/o4jxg65apm5f_sqr256.jpg/zestig-jaar-gronings-gas-van-winst-en-welvaart-naar-boosheid-en-frustratie.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/o4jxg65apm5f_sqr256.jpg/zestig-jaar-gronings-gas-van-winst-en-welvaart-naar-boosheid-en-frustratie.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6283328/",
-          "author": "onze nieuwsredactie",
-          "description": "Het Amerikaanse Huis van Afgevaardigden heeft zaterdag een shutdown van de overheid voorlopig voorkomen. Het onheil werd afgewend door een voorstel van de Republikein Kevin McCarthy voor noodfinanciering aan te nemen.",
-          "link": "https://www.nu.nl/economie/6283328/amerikaans-huis-neemt-voorstel-aan-dreigende-shutdown-van-de-baan.html",
-          "publishedOn": "2023-09-30T20:35:38.000Z",
-          "wordCount": 861,
-          "title": "Amerikaans Huis neemt voorstel aan, dreigende shutdown van de baan",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/a74x0pxanwbp_sqr256.jpg/amerikaans-huis-neemt-voorstel-aan-dreigende-shutdown-van-de-baan.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/a74x0pxanwbp_sqr256.jpg/amerikaans-huis-neemt-voorstel-aan-dreigende-shutdown-van-de-baan.jpg"
         }
       ]
     },
@@ -26342,6 +26342,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "jpmorgan-strategists-advise-opening-short-080156987.html",
+          "author": null,
+          "description": "Strategists at JPMorgan have advised opening a 'short' position in European banks, and moved the sector from 'neutral' to 'underweight', they said in a note published on Monday.  \"If the bond yields are in the process of peaking this quarter, as we suspect ... then Banks could start to struggle,\" JPM strategists, led by Mislav Matejka, said.  European banking shares have been some of the best performing in Europe in 2023, with the STOXX Europe 600 Banks Index rising almost 8% year-to-date versus a 1% for the broader STOXX 600.",
+          "link": "https://finance.yahoo.com/news/jpmorgan-strategists-advise-opening-short-080156987.html",
+          "publishedOn": "2023-10-30T08:01:56.000Z",
+          "wordCount": 9774,
+          "title": "JPMorgan strategists advise opening a short in European banks, upgrade healthcare",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/8b53cf2ef0d414a86e2beddf5fe1eda4"
+        },
+        {
           "id": "morgan-stanley-wilson-sees-end-065542936.html",
           "author": null,
           "description": "(Bloomberg) -- Investors hoping for a boost to stocks by the end of the year will be disappointed, according to Morgan Stanley’s Michael Wilson.Most Read from BloombergIsrael Latest: Biden, Netanyahu Plan to Talk Within HoursIsrael Deepens a War With Hamas That Has No End in SightHow This Israel-Hamas Conflict Is Like Nothing That’s Happened BeforeHedge Funds Pile Into Uranium Stocks Set for ‘Dramatic’ RiseRussia Closes Airport After Mob Swarms Flight From Israel“Chances of a fourth-quarter rall",
@@ -26350,6 +26360,16 @@
           "wordCount": 9996,
           "title": "Morgan Stanley’s Wilson Sees Year-End Stock Rally as Unlikely",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/b163eb8912cc1a35586a167f53759e0c"
+        },
+        {
+          "id": "vanguard-bond-outlook-value-105512e0?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Sara Devereux, global head of fixed income, says investors do better by locking in higher rates for longer than by staying in short-dated debt.",
+          "link": "https://www.barrons.com/articles/vanguard-bond-outlook-value-105512e0?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-10-30T06:45:00.000Z",
+          "wordCount": 7955,
+          "title": "Vanguard Sees ‘Tremendous Value’ in a New Day for Bond Market",
+          "imageUrl": "https://images.barrons.com/im-87098104/social"
         },
         {
           "id": "marketmind-markets-hold-nerve-amid-053311629.html",
@@ -49089,46 +49109,6 @@
           "publishedOn": "2023-09-30T23:50:28.000Z",
           "wordCount": null,
           "title": "The US housing market is starting to flash a few rays of sunshine for homebuyers",
-          "imageUrl": null
-        },
-        {
-          "id": "when-to-buy-stocks-september-44d37a64?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Now that the worst month of the year is over, the market can do what it does best—go up.",
-          "link": "https://www.barrons.com/articles/when-to-buy-stocks-september-44d37a64?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-09-30T21:02:00.000Z",
-          "wordCount": 6584,
-          "title": "A Rough September Is Finally Over. Now Is the Time to Buy Stocks.",
-          "imageUrl": "https://images.barrons.com/im-97796942/social"
-        },
-        {
-          "id": "stock-picks-best-of-breed-bisons-5151fbaa?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Investment bank D.A. Davidson, which has adopted the bison as a brand, picked 17 “high quality” stocks—a few giant, most smaller. We look at seven. .",
-          "link": "https://www.barrons.com/articles/stock-picks-best-of-breed-bisons-5151fbaa?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-09-30T20:59:00.000Z",
-          "wordCount": 6624,
-          "title": "7 Stock Picks You Might Not Have Heard About. Why They’re ‘Best-of-Breed Bisons.’",
-          "imageUrl": "https://images.barrons.com/im-66770118/social"
-        },
-        {
-          "id": "infrastructure-stocks-recession-72f3c15?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Sterling Infrastructure and other obvious beneficiaries of massive governmental spending have already seen their stocks surge in anticipation. Here are some others.",
-          "link": "https://www.barrons.com/articles/infrastructure-stocks-recession-72f3c15?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-09-30T20:57:00.000Z",
-          "wordCount": 6578,
-          "title": "These 4 Stocks Will Thrive Even if There’s a Recession",
-          "imageUrl": "https://images.barrons.com/im-09059209/social"
-        },
-        {
-          "id": "zero-day-options-heres-theyre-203002579.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/zero-day-options-heres-theyre-203002579.html",
-          "publishedOn": "2023-09-30T20:30:02.000Z",
-          "wordCount": null,
-          "title": "What are zero-day options? Here's how they're taking over a key corner of the stock market and why they could pose a big risk",
           "imageUrl": null
         }
       ]
