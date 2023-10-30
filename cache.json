@@ -1301,6 +1301,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "bb08719d705ebfef957a145ddda1ab2a",
+          "author": "Investopedia",
+          "description": "Stock futures were higher in premarket trading Monday to kick off another week of earnings, plus the Fed's interest rate decision and a major jobs report.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c2150f9060d768e3c10f7317833fc76482",
+          "publishedOn": "2023-10-30T13:14:50.342Z",
+          "wordCount": 409,
+          "title": "Dow Jones Today: Stock Futures Jump To Kick Off Big Earnings, Fed Week",
+          "imageUrl": null
+        },
+        {
           "id": "1c310aeadca41e274385efd9b28e6c5e",
           "author": "Investopedia",
           "description": "The United Auto Workers union reached a deal with Stellantis while expanding its strike against GM. Here’s what investors need to know today.",
@@ -2487,6 +2497,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6287519/",
+          "author": "onze economieredactie",
+          "description": "De Duitse economie is in het derde kwartaal van dit jaar licht gekrompen. De grootste economie van Europa en de belangrijkste handelspartner van Nederland stevent daarmee af op een mogelijke recessie.",
+          "link": "https://www.nu.nl/economie/6287519/kleine-krimp-voor-duitse-economie-door-zuinige-consument.html",
+          "publishedOn": "2023-10-30T12:24:18.000Z",
+          "wordCount": 2509,
+          "title": "Kleine krimp voor Duitse economie door zuinige consument",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/vk8xv7wav5ul_sqr256.jpg/kleine-krimp-voor-duitse-economie-door-zuinige-consument.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/vk8xv7wav5ul_sqr256.jpg/kleine-krimp-voor-duitse-economie-door-zuinige-consument.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6287510/",
           "author": "Tom van Gurp",
@@ -26472,6 +26497,56 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "stock-market-news-today-us-futures-rise-as-eyes-turn-to-big-week-of-events-124217770.html",
+          "author": null,
+          "description": "Investors are bracing for the Federal Reserve decision and Apple earnings later in the week.",
+          "link": "https://finance.yahoo.com/news/stock-market-news-today-us-futures-rise-as-eyes-turn-to-big-week-of-events-124217770.html",
+          "publishedOn": "2023-10-30T12:42:17.000Z",
+          "wordCount": 10334,
+          "title": "Stock market news today: US futures rise as eyes turn to big week of events",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Ec_jEl91sgY2YGs8MNZm.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/dacdfd40-2d15-11ee-bdee-28a626e2ac06"
+        },
+        {
+          "id": "on-semiconductor-stock-earnings-guidance-fcbe6138?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "ON Semi expects fourth-quarter earnings of between $1.13 and $1.27 a share, which is below analysts' consensus.",
+          "link": "https://www.barrons.com/articles/on-semiconductor-stock-earnings-guidance-fcbe6138?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-10-30T12:41:00.000Z",
+          "wordCount": 5876,
+          "title": "ON Semiconductor Issues Soft Fourth-Quarter Guidance. The Stock Drops.",
+          "imageUrl": "https://images.barrons.com/im-31390723/social"
+        },
+        {
+          "id": "western-digital-to-break-up-separating-hard-drive-business-from-flash-memory-unit-d8b89544?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Western Digital plans to break itself up, separating its business making traditional hard drives for computers from its flash-memory business.",
+          "link": "https://www.wsj.com/business/western-digital-to-break-up-separating-hard-drive-business-from-flash-memory-unit-d8b89544?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-10-30T12:39:00.000Z",
+          "wordCount": 7950,
+          "title": "Western Digital to Break up, Separating Hard-Drive Business From Flash-Memory Unit",
+          "imageUrl": "https://images.wsj.net/im-536380/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/research/apple-stock-buy-now/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-10-30T12:35:30.000Z",
+          "wordCount": null,
+          "title": "Is Apple Stock A Buy Before September-Quarter Earnings Report?",
+          "imageUrl": null
+        },
+        {
+          "id": "broadcom-vmware-stocks-merger-delay-8ae0f7a2?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The groups said in a statement that their merger, expected to close Monday, will complete \"soon.\"",
+          "link": "https://www.barrons.com/articles/broadcom-vmware-stocks-merger-delay-8ae0f7a2?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-10-30T12:27:00.000Z",
+          "wordCount": 7565,
+          "title": "Broadcom, VMware Stocks Gain Despite Apparent Delay to Merger Closing",
+          "imageUrl": "https://images.barrons.com/im-838204/social"
+        },
+        {
           "id": "detroit-is-paying-up-to-end-the-uaw-strike-now-carmakers-will-live-with-the-costs-df1d88d7?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "The Detroit automakers’ labor-cost disadvantage to rivals such as Toyota and Tesla is about to get worse just as many aspects of their growth plans get cloudier.",
@@ -26490,6 +26565,16 @@
           "wordCount": 8100,
           "title": "Healthpeak Properties, Physicians Realty Trust to Merge in $21B Deal",
           "imageUrl": "https://images.wsj.net/im-465536/social"
+        },
+        {
+          "id": "realty-income-acquire-spirit-realty-112254665.html",
+          "author": null,
+          "description": "(Bloomberg) -- Realty Income Corp., an owner of convenience stores, warehouses and other commercial real estate, agreed to acquire Spirit Realty Capital Inc. for $5.3 billion in an all-stock transaction. Most Read from BloombergIsrael Latest: War Deepens as Concerns Mount Over Gaza CiviliansPutin Calls Meeting to Discuss Anti-Israel Mob in DagestanIsrael Latest: Biden, Netanyahu Plan to Talk Within HoursIsrael-Hamas War Escalation Puts Qatar’s Clout to the TestHSBC Plans $3 Billion Buyback, CEO",
+          "link": "https://finance.yahoo.com/news/realty-income-acquire-spirit-realty-112254665.html",
+          "publishedOn": "2023-10-30T11:22:54.000Z",
+          "wordCount": 9889,
+          "title": "Realty Income to Acquire Spirit Realty Capital for $5.3 Billion",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/pbfeLa_uphS8MCAGBVtfHg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/163ec03ec391a915902c087d3dbca8e5"
         },
         {
           "id": "mcdonalds-beat-earnings-estimates-boosted-by-higher-menu-prices-111246018.html",
@@ -26530,6 +26615,16 @@
           "wordCount": 7945,
           "title": "Realty Income to Buy Spirit Realty Capital in $9.3 Billion Deal",
           "imageUrl": "https://images.wsj.net/im-876323/social"
+        },
+        {
+          "id": "1-realty-income-buy-spirit-105136570.html",
+          "author": null,
+          "description": "Realty Income said on Monday it would buy Spirit Realty Capital in an all-stock deal valued at $9.3 billion as it looks to expand its real estate portfolio. Shares of Realty Income are down 1.7% at $48.4 in premarket trading, while Spirit Realty was up 11% at $35.91. Under the terms of the agreement, Spirit shareholders will receive 0.762 newly-issued Realty Income common shares for each Spirit common share they own.",
+          "link": "https://finance.yahoo.com/news/1-realty-income-buy-spirit-105136570.html",
+          "publishedOn": "2023-10-30T10:51:36.000Z",
+          "wordCount": 9718,
+          "title": "UPDATE 2-Realty Income to buy Spirit Realty Capital in a $9.3 billion deal",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
         },
         {
           "id": "ARGUS_38121_TopBottomInsiderActivity_1698662205000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -26600,6 +26695,16 @@
           "wordCount": null,
           "title": "Analyst Report: Honeywell International Inc",
           "imageUrl": null
+        },
+        {
+          "id": "profit-cuts-signal-more-bad-102726010.html",
+          "author": null,
+          "description": "(Bloomberg) -- A deteriorating outlook for corporate earnings offers little support for the S&P 500 reeling from its worst October since 2018.Most Read from BloombergIsrael Latest: War Intensifies as Netanyahu Faces Calls to QuitRussia Shuts Airport After Mob Encircles Flight From IsraelIsrael Latest: Biden, Netanyahu Plan to Talk Within HoursIsrael-Hamas War Escalation Puts Qatar’s Clout to the TestHSBC Plans $3 Billion Buyback, CEO Touts Capital StrengthWhile data from Bloomberg Intelligence s",
+          "link": "https://finance.yahoo.com/news/profit-cuts-signal-more-bad-102726010.html",
+          "publishedOn": "2023-10-30T10:27:26.000Z",
+          "wordCount": 10067,
+          "title": "Profit Cuts Signal More Bad News for S&P 500 After October Slump",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/15cc09938cb8d87e3c5283581a783c3a"
         },
         {
           "id": "bitcoin-crypto-markets-today-b122859d?siteid=yhoof2&yptr=yahoo",
@@ -49430,26 +49535,6 @@
           "wordCount": 6568,
           "title": "Shutdowns Come and Go. Why Deficits Pose the Real and Present Danger.",
           "imageUrl": "https://images.barrons.com/im-65844344/social"
-        },
-        {
-          "id": "stellantis-negotiations-carlos-tavares-uaw-strike-a0f42954?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The company and boss Carlos Tavares—both more European than American—are making progress with the union and avoiding more strikes for now.",
-          "link": "https://www.wsj.com/business/autos/stellantis-negotiations-carlos-tavares-uaw-strike-a0f42954?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-10-01T01:00:00.000Z",
-          "wordCount": 7968,
-          "title": "How Stellantis and Its Not-So-Detroit CEO Are Taking On the UAW",
-          "imageUrl": "https://images.wsj.net/im-860466/social"
-        },
-        {
-          "id": "fuel-price-jump-boosts-rates-003000656.html",
-          "author": null,
-          "description": "Sharply increasing fuel costs may exacerbate the carrier exodus this winter. The post Fuel price jump boosts rates but threatens trucking capacity appeared first on FreightWaves.",
-          "link": "https://finance.yahoo.com/news/fuel-price-jump-boosts-rates-003000656.html",
-          "publishedOn": "2023-10-01T00:30:00.000Z",
-          "wordCount": 9702,
-          "title": "Fuel price jump boosts rates but threatens trucking capacity",
-          "imageUrl": "https://media.zenfs.com/en/freightwaves_373/65860a0ad6ffd271cbe9fb8cc2a93611"
         }
       ]
     }
