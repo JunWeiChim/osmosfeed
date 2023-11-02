@@ -1351,6 +1351,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "6bfc5cf273fa7cae9f5218aebe83c6ae",
+          "author": "Investopedia",
+          "description": "The S&P 500 added 1.9% on Thursday, Nov. 2, 2023, amid optimism that the Federal Reserve might stop boosting interest rates to bring down inflation.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca952ac6ec1be84c74ddde68eef53b24815712c23e8175bd9d513841c826813cd5930321d0f234a0f7f623e9fbc33ead2dfb2f1ccf3e5a054341fbfca4d5784ec0dcb1efcade96811c5ac30cc29065778c2b767acdcc04d7c6",
+          "publishedOn": "2023-11-02T23:12:08.346Z",
+          "wordCount": 409,
+          "title": "S&P 500 Gains and Losses Today: Starbucks Shares Jump Following Profit Record",
+          "imageUrl": null
+        },
+        {
           "id": "e94c0720645a0634a3f57b0b010d17cd",
           "author": "Investopedia",
           "description": "U.S. equities posted strong gains at midday on Thursday, Nov. 2, 2023 amid enthusiasm that the Federal Reserve may not raise interest rates to fight inflation any more this year.",
@@ -8934,6 +8944,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/insights/americas-slowly-disappearing-middle-class/",
+          "author": "Greg Daugherty",
+          "description": "A study from the Pew Research Center provides evidence that the American middle class is losing ground financially.",
+          "link": "https://www.investopedia.com/insights/americas-slowly-disappearing-middle-class/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-02T22:59:20.000Z",
+          "wordCount": 7496,
+          "title": "America&#39;s Middle Class Is Losing Ground Financially",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/u95SCxCw37frv0RBP_QUtsiPQVo=/4256x2832/GettyImages-182176337-0afb3964cf024b6cbbdb867f50f15c9b.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/u95SCxCw37frv0RBP_QUtsiPQVo=/4256x2832/GettyImages-182176337-0afb3964cf024b6cbbdb867f50f15c9b.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/a/available-for-sale-security.asp",
+          "author": "Alicia Tuovila",
+          "description": "An available-for-sale security is a security procured with the plan to sell before maturity or to hold it for a long period if there is no maturity date.",
+          "link": "https://www.investopedia.com/terms/a/available-for-sale-security.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-02T22:24:42.000Z",
+          "wordCount": 6983,
+          "title": "Available-for-Sale Securities: Definition, vs. Held-for-Trading",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/GhVgZ0Fx1TY1B-fCeAqSo_2hl3Y=/1500x1000/TermDefinitions_Availableforsalesecuritycopy-db184c56f56d4593aaac87cf4beec3fb.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/GhVgZ0Fx1TY1B-fCeAqSo_2hl3Y=/1500x1000/TermDefinitions_Availableforsalesecuritycopy-db184c56f56d4593aaac87cf4beec3fb.jpg"
+        },
         {
           "id": "https://www.investopedia.com/apple-q4-earnings-8385141",
           "author": "Nathan Reiff",
@@ -28767,6 +28807,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "apple-earnings-stock-price-7868109d?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Overall revenue declined, though  iPhone sales were $43.8 billion, up 3% from a year ago.",
+          "link": "https://www.barrons.com/articles/apple-earnings-stock-price-7868109d?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-11-02T22:02:00.000Z",
+          "wordCount": 8983,
+          "title": "Apple Stock Slips Despite Earnings Beat. The Outlook Is a Problem.",
+          "imageUrl": "https://images.barrons.com/im-49478718/social"
+        },
+        {
+          "id": "coinbase-trading-volumes-fall-as-exchange-posts-seventh-consecutive-quarterly-loss-215554057.html",
+          "author": null,
+          "description": "Investors pushed Coinbase's stock lower after the exchange reported a third-quarter loss that beat Wall Street expectations.",
+          "link": "https://finance.yahoo.com/news/coinbase-trading-volumes-fall-as-exchange-posts-seventh-consecutive-quarterly-loss-215554057.html",
+          "publishedOn": "2023-11-02T21:55:54.000Z",
+          "wordCount": 10335,
+          "title": "Coinbase trading volumes fall as exchange posts seventh consecutive quarterly loss",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Qh5fj83Fr_5hHPiS8RJDQw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/ac8d8bb0-323f-11ee-bfff-1326ad797a60"
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -28815,6 +28875,16 @@
           "wordCount": 10293,
           "title": "Apple beats estimates as iPhone sales edge up, services revenue jumps",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/b25ac6afcea8d4f3587fa5103a61ee5c"
+        },
+        {
+          "id": "apple-stock-falls-after-cautious-outlook-overshadows-record-iphone-quarter-203057640.html",
+          "author": null,
+          "description": "Apple reported quarterly earnings after the bell on Thursday that topped expectations, but shares fell as the company offered a cautious outlook for the holiday period.",
+          "link": "https://finance.yahoo.com/news/apple-stock-falls-after-cautious-outlook-overshadows-record-iphone-quarter-203057640.html",
+          "publishedOn": "2023-11-02T20:30:57.000Z",
+          "wordCount": 10363,
+          "title": "Apple stock falls after cautious outlook overshadows record iPhone quarter",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/hF3PMmgjRzhW20OgbnXqnw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/3f613bb0-78d8-11ee-9ffd-904a0c22c0f0"
         },
         {
           "id": "apple-earnings-top-estimates-iphone-sales-notch-september-quarter-record-203057905.html",
@@ -29365,6 +29435,16 @@
           "wordCount": 11089,
           "title": "What JP Morgan Chase CEO Jamie Dimon just told investors is very important",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/eTC02aiao875i3zj8asYsQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTE-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/b500eaa0-791e-11ee-a7ff-9e741b3fedca"
+        },
+        {
+          "id": "conocophillips-third-quarter-profit-beats-110552653.html",
+          "author": null,
+          "description": "(Reuters) -U.S. oil producer ConocoPhillips  on Thursday beat Wall Street's estimates for third-quarter profit and raised its quarterly dividend 14%, amid higher prices and production.  Shares rose more than 5% on the dividend increase, with the company saying it could sustain the higher level through 2024 depending on oil and gas prices.  The cash distribution comes during industry consolidation that has created stronger rivals in U.S. shale, where Conoco is a major player with production of 1.8 million barrels of oil equivalent per day (boepd).",
+          "link": "https://finance.yahoo.com/news/conocophillips-third-quarter-profit-beats-110552653.html",
+          "publishedOn": "2023-11-02T11:05:52.000Z",
+          "wordCount": 9981,
+          "title": "ConocoPhillips posts bigger profit than expected, raises dividend",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/f00aad01165281574a286a49f099705a"
         },
         {
           "id": "palantir-projects-revenue-above-estimates-110222353.html",
@@ -53015,126 +53095,6 @@
           "wordCount": 10075,
           "title": "US futures steady as bond selloff takes a break: Stock market news today",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/b7wtIKzqcheNhJJ8S1hTSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjA-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/1ea33620-6281-11ee-bb7e-86d8454af720"
-        },
-        {
-          "id": "ford-gm-stellantis-stocks-uaw-strikes-pay-offer-d9f1831f?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The auto maker hopes it will be too good for the union to refuse. Meanwhile, GM has laid off more workers.",
-          "link": "https://www.barrons.com/articles/ford-gm-stellantis-stocks-uaw-strikes-pay-offer-d9f1831f?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-10-04T11:10:00.000Z",
-          "wordCount": 6606,
-          "title": "Ford Makes Fresh Offer to UAW Amid Strikes. Here’s What’s In It.",
-          "imageUrl": "https://images.barrons.com/im-122917/social"
-        },
-        {
-          "id": "shares-scandinavian-airlines-plunge-become-110148733.html",
-          "author": null,
-          "description": "Shares in Scandinavian Airlines dropped more than 90% on Wednesday after the ailing carrier announced new shareholders in a restructuring scheme that will see the company delisted and existing ownership stakes erased.  The rescue deal involving airline alliance Air France-KLM and private equity firms Castlelake and Lind Invest, which became investors alongside the Danish state, was presented late Tuesday.  The deal means that SAS will receive $475 million in new equity and $700 million in convertible debt.",
-          "link": "https://finance.yahoo.com/news/shares-scandinavian-airlines-plunge-become-110148733.html",
-          "publishedOn": "2023-10-04T11:01:48.000Z",
-          "wordCount": 9876,
-          "title": "Shares in Scandinavian Airlines plunge to become almost worthless after rescue deal announced",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/uSL6KIPa_JJKp3q.Px.bLw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/a584599382fce918fa3621a08f119d6f"
-        },
-        {
-          "id": "may-paying-too-much-taxes-110000766.html",
-          "author": null,
-          "description": "Millions of Americans rely on Social Security benefits for all, or a portion, of their retirement income. Up to 85% of Social Security benefits are subject to federal income tax, depending on your total household income. However, Fidelity recently presented options for taxpayers to reduce how much they pay in taxes on Social Security benefits. […] The post You May Be Paying Too Much in Taxes on Your Social Security Benefits. Here's How to Lower Them appeared first on SmartReads by SmartAsset.",
-          "link": "https://finance.yahoo.com/news/may-paying-too-much-taxes-110000766.html",
-          "publishedOn": "2023-10-04T11:00:00.000Z",
-          "wordCount": 10075,
-          "title": "You May Be Paying Too Much in Taxes on Your Social Security Benefits. Here's How to Lower Them",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/4df0d05dedc0e4cf9320de0f01b08422"
-        },
-        {
-          "id": "apple-ceo-tim-cook-gets-105342302.html",
-          "author": null,
-          "description": "(Bloomberg) -- Apple Inc. Chief Executive Officer Tim Cook sold stock worth about $41 million after taxes in his biggest sale in more than two years as the shares of the iPhone maker slide off recent highs.Most Read from BloombergKey Taiwan Tech Firms Helping Huawei With China Chip PlantsKevin McCarthy Ousted as US House Speaker by Republican DissidentsWall Street Fear Gauge Ratchets Up After Jobs Data: Markets WrapWhy a US Recession Is Still Likely — and Coming SoonAirbnb Is Fundamentally Broke",
-          "link": "https://finance.yahoo.com/news/apple-ceo-tim-cook-gets-105342302.html",
-          "publishedOn": "2023-10-04T10:53:42.000Z",
-          "wordCount": 9642,
-          "title": "Apple CEO Tim Cook Gets $41 Million From Biggest Share Sale Since 2021",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/YJnPQc0LMlZgqGDyHQEsvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjI-/https://media.zenfs.com/en/bloomberg_markets_842/09a98f33b1faa176f8073cc3274edb22"
-        },
-        {
-          "id": "ARGUS_2917_AnalystReport_1696416456000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_2917_AnalystReport_1696416456000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2023-10-04T10:47:36.000Z",
-          "wordCount": null,
-          "title": "Analyst Report: Consolidated Edison, Inc.",
-          "imageUrl": null
-        },
-        {
-          "id": "ARGUS_37864_MarketSummary_1696416456000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_37864_MarketSummary_1696416456000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2023-10-04T10:47:36.000Z",
-          "wordCount": null,
-          "title": "Market Digest: ED",
-          "imageUrl": null
-        },
-        {
-          "id": "ARGUS_37867_TechnicalAnalysis_1696416123000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_37867_TechnicalAnalysis_1696416123000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2023-10-04T10:42:03.000Z",
-          "wordCount": null,
-          "title": "Technical Assessment: Neutral in the Intermediate-Term",
-          "imageUrl": null
-        },
-        {
-          "id": "ARGUS_37866_MarketOutlook_1696416118000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_37866_MarketOutlook_1696416118000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2023-10-04T10:41:58.000Z",
-          "wordCount": null,
-          "title": "Daily Spotlight: Insiders Pivot to Bullish",
-          "imageUrl": null
-        },
-        {
-          "id": "apple-stock-downgrade-iphone-85dbe04a?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Apple's historically high premium to other tech stocks was cited by analysts at KeyBanc as a factor behind their downgrade of the stock to Sector Weight.",
-          "link": "https://www.barrons.com/articles/apple-stock-downgrade-iphone-85dbe04a?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-10-04T10:33:00.000Z",
-          "wordCount": 6543,
-          "title": "Apple Stock Is Falling After a Downgrade. Four Reasons for Caution.",
-          "imageUrl": "https://images.barrons.com/im-45387383/social"
-        },
-        {
-          "id": "ARGUS_37862_InsiderActivity_1696415501000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_37862_InsiderActivity_1696415501000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2023-10-04T10:31:41.000Z",
-          "wordCount": null,
-          "title": "Daily – Vickers Top Insider Picks for 10/04/2023",
-          "imageUrl": null
-        },
-        {
-          "id": "ARGUS_37863_TopBottomInsiderActivity_1696415501000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_37863_TopBottomInsiderActivity_1696415501000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2023-10-04T10:31:41.000Z",
-          "wordCount": null,
-          "title": "Daily – Vickers Top Buyers & Sellers for 10/04/2023",
-          "imageUrl": null
-        },
-        {
-          "id": "flaring-ticks-texas-oil-patch-103012665.html",
-          "author": null,
-          "description": "(Bloomberg) -- It has been the US oil industry’s biggest environmental success story in recent years. Gas flares that once lit up the night skies were shut off, curbing a wasteful practice that generated millions of tons of planet-warming emissions. Most Read from BloombergKey Taiwan Tech Firms Helping Huawei With China Chip PlantsKevin McCarthy Ousted as US House Speaker by Republican DissidentsWall Street Fear Gauge Ratchets Up After Jobs Data: Markets WrapWhy a US Recession Is Still Likely —",
-          "link": "https://finance.yahoo.com/news/flaring-ticks-texas-oil-patch-103012665.html",
-          "publishedOn": "2023-10-04T10:30:12.000Z",
-          "wordCount": 10857,
-          "title": "Flaring Ticks Up in Texas Oil Patch, Showing Limits of ESG Pressure",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/aiLvIMX37vc552dbvuOHrQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_markets_842/5d0d904407802139d05110ede266aaaf"
         }
       ]
     }
