@@ -8571,21 +8571,6 @@
             "url": "https://media.nu.nl/m/x3zxcyjay1lc_sqr256.jpg/geef-nooit-toestemming-voor-evenementen-op-begraafplaatsen.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/x3zxcyjay1lc_sqr256.jpg/geef-nooit-toestemming-voor-evenementen-op-begraafplaatsen.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6284192/",
-          "author": "Thijs Rösken",
-          "description": "Looneisen van vakbonden lopen op tot aan 14 procent extra voor cao-onderhandelingen, terwijl de inflatie inmiddels flink afneemt. Wat zijn reële percentages om mee te schermen? Volgens de bonden is er vooral nog veel reparatiewerk te doen.",
-          "link": "https://www.nu.nl/economie/6284192/ook-al-lijkt-de-inflatie-nu-laag-de-looneis-blijft-overeind.html",
-          "publishedOn": "2023-10-07T03:19:28.000Z",
-          "wordCount": 3459,
-          "title": "Ook al lijkt de inflatie nu laag, de looneis blijft overeind",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/4bwx74aagizx_sqr256.jpg/ook-al-lijkt-de-inflatie-nu-laag-de-looneis-blijft-overeind.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/4bwx74aagizx_sqr256.jpg/ook-al-lijkt-de-inflatie-nu-laag-de-looneis-blijft-overeind.jpg"
         }
       ]
     },
@@ -8594,6 +8579,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/tech/who-charlie-shrem/",
+          "author": "Nathan Reiff",
+          "description": "Charlie Shrem is a Bitcoin advocate who spent time in prison for his involvement with the Silk Road black marketplace.",
+          "link": "https://www.investopedia.com/tech/who-charlie-shrem/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-05T16:00:07.000Z",
+          "wordCount": 7602,
+          "title": "Who Is Charlie Shrem?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/i2GjmfN1SlrwhXN1_kZMCsJ7mEE=/600x397/untitled-5bfc327b46e0fb0083c1bd14.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/i2GjmfN1SlrwhXN1_kZMCsJ7mEE=/600x397/untitled-5bfc327b46e0fb0083c1bd14.jpg"
+        },
         {
           "id": "https://www.investopedia.com/news/bitcoin-has-regulation-problem/",
           "author": "Rakesh Sharma",
@@ -27617,6 +27617,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "6-strategies-help-lower-rmd-152201320.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/6-strategies-help-lower-rmd-152201320.html",
+          "publishedOn": "2023-11-05T15:22:01.000Z",
+          "wordCount": null,
+          "title": "6 Strategies to Help Lower RMD Taxes",
+          "imageUrl": null
+        },
+        {
           "id": "stocks-look-to-build-on-best-week-in-a-year-what-to-know-this-week-141049604.html",
           "author": null,
           "description": "Investors will look to continue a rally sparked by declining bond yields and further confidence in the Fed's path forward in the coming week.",
@@ -27685,6 +27695,16 @@
           "wordCount": 10486,
           "title": "COLA boost for Social Security in 2024 still leaves seniors bleeding. Here's why.",
           "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        },
+        {
+          "id": "microsoft-date-inflows-send-shares-093736870.html",
+          "author": null,
+          "description": "Microsoft Corp. (MSFT) shares keep rising, up 47% in 2023. Unusual money flows reveal why.",
+          "link": "https://finance.yahoo.com/news/microsoft-date-inflows-send-shares-093736870.html",
+          "publishedOn": "2023-11-05T09:37:36.000Z",
+          "wordCount": 10012,
+          "title": "Microsoft: Year-to-date Inflows Send Shares Surging",
+          "imageUrl": "https://media.zenfs.com/en/fx_empire_176/8a6b3dd0d8f2eb782e75d4e9d10c2990"
         },
         {
           "id": "south-korea-ban-short-selling-083000879.html",
@@ -51415,16 +51435,6 @@
           "wordCount": 8181,
           "title": "China’s Factory Floor Is Moving—But Not to India or Mexico",
           "imageUrl": "https://images.wsj.net/im-863871/social"
-        },
-        {
-          "id": "heres-why-dangerous-wall-street-035517168.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/heres-why-dangerous-wall-street-035517168.html",
-          "publishedOn": "2023-10-07T03:55:17.000Z",
-          "wordCount": null,
-          "title": "Here's why it's so dangerous for Wall Street to bet against the American consumer",
-          "imageUrl": null
         }
       ]
     }
