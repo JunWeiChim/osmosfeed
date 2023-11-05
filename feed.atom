@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-05T01:57:49.491Z</updated>
+    <updated>2023-11-05T02:26:15.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -44,6 +44,16 @@
         <summary type="html"><![CDATA[Small Business Saturday is designed to encourage consumers to shop at small businesses.]]></summary>
         <author>
             <name>Rebecca Lake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analysts offer hot takes on Q4 2023 Apple results]]></title>
+        <id>analysts-offer-hot-takes-q4-225813030.html</id>
+        <link href="https://finance.yahoo.com/news/analysts-offer-hot-takes-q4-225813030.html"/>
+        <updated>2023-11-04T22:58:13.000Z</updated>
+        <summary type="html"><![CDATA[Analysts have weighed in on Apple's Q4 2023 financial results, with most taking the view that the quarter is decent-performing, but with caution about a shorter Q1 2024.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
         </author>
     </entry>
     <entry>
@@ -42978,16 +42988,6 @@ The yield was 4.74% on Monday, according to FactSet, slipping from last week’s
         <summary type="html"><![CDATA[Income ETFs can be a solid option during retirement. These insights can help you decide whether to include them in your portfolio.]]></summary>
         <author>
             <name>Dotdash Meredith Creative</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bond Bull Major Says He Was Wrong to Ignore Heavy Debt Supply]]></title>
-        <id>bond-bull-major-says-wrong-142158704.html</id>
-        <link href="https://finance.yahoo.com/news/bond-bull-major-says-wrong-142158704.html"/>
-        <updated>2023-10-06T14:21:58.000Z</updated>
-        <summary type="html"><![CDATA[(Bloomberg) -- Steven Major, HSBC Holding Plc’s renowned bond bull, said he was wrong-footed by the recent bond selloff because he underestimated how badly investors would react to ballooning US debt and a surge in supply.Most Read from BloombergThe 5% Bond Market Means Pain Is Heading Everyone’s WayThe Moral Case for No Longer Engaging With Elon Musk’s XIt's Done. The Future Is Battery-Powered Electric CarsUS Stocks Rebound as Wall Street Debates Rates: Markets WrapAlmost Anyone Can Become the]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
         </author>
     </entry>
 </feed>
