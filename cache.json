@@ -2458,6 +2458,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6288598/",
+          "author": "onze economieredactie",
+          "description": "UBS, de grootste bank van Zwitserland, heeft in het derde kwartaal van dit jaar zijn eerste kwartaalverlies geleden in bijna zes jaar. Het verlies van 785 miljoen dollar volgt op de samenvoeging met branchegenoot Credit Suisse.",
+          "link": "https://www.nu.nl/economie/6288598/bank-ubs-lijdt-voor-het-eerst-in-jaren-verlies-na-overname-credit-suisse.html",
+          "publishedOn": "2023-11-07T08:01:53.000Z",
+          "wordCount": 2610,
+          "title": "Bank UBS lijdt voor het eerst in jaren verlies na overname Credit Suisse",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/238xc5vaq63g_sqr256.jpg/bank-ubs-lijdt-voor-het-eerst-in-jaren-verlies-na-overname-credit-suisse.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/238xc5vaq63g_sqr256.jpg/bank-ubs-lijdt-voor-het-eerst-in-jaren-verlies-na-overname-credit-suisse.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6288592/",
           "author": "onze economieredactie",
           "description": "De Amerikaanse aanbieder van gedeelde werkplekken WeWork heeft uitstel van betaling aangevraagd. Het is een nieuw dieptepunt voor het bedrijf dat in 2019 nog is gewaardeerd op 47 miljard dollar, maar inmiddels al langere tijd met problemen kampt.",
@@ -28603,21 +28618,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/rDCYJ8Dkd1K1oC3XrCleM_8GXis=/2267x1323/WhatAreIndexETFsSept.8.2021-cb62c147b2c04881983630d7f68d0f01.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/100314/why-do-bitcoins-have-value.asp",
-          "author": "John P. Kelleher",
-          "description": "Bitcoin is touted as a private, decentralized digital currency. But what gives the leading cryptocurrency value?",
-          "link": "https://www.investopedia.com/ask/answers/100314/why-do-bitcoins-have-value.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-10-08T20:10:53.000Z",
-          "wordCount": 7072,
-          "title": "Why Do Bitcoins Have Value?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/s-KC-Od13X4nhrjERn6D4fWQdxI=/700x448/bitcoin_lightning-5bfd80de46e0fb0051fb6916",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/s-KC-Od13X4nhrjERn6D4fWQdxI=/700x448/bitcoin_lightning-5bfd80de46e0fb0051fb6916"
         }
       ]
     },
@@ -28626,6 +28626,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "asian-shares-dip-wall-street-232656256.html",
+          "author": null,
+          "description": "(Bloomberg) -- Equities in Asia declined as fresh doubts emerged on whether the Federal Reserve has finished tightening policy. The dollar advanced.Most Read from BloombergTrump Testimony Called a ‘Broken Record’ by Judge: Trial UpdateIsrael Latest: Netanyahu Sees a Role in Gaza Security After WarWeWork Goes Bankrupt, Signs Pact With Creditors to Cut DebtWall Street Faces ‘Reality Check’ After Big Rally: Markets WrapTrump Shouts at Judge and Lawyers in Wild Day on Witness StandAn Asian equity be",
+          "link": "https://finance.yahoo.com/news/asian-shares-dip-wall-street-232656256.html",
+          "publishedOn": "2023-11-07T06:52:56.000Z",
+          "wordCount": 10785,
+          "title": "Stocks Fall With Doubts Over Fed Pause in Focus: Markets Wrap",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/e5f6fc2198c9bec1aebc3fe1ee3307ed"
+        },
         {
           "id": "stock-markets-latest-rally-fizzle-045021286.html",
           "author": null,
@@ -28645,6 +28655,16 @@
           "wordCount": 10199,
           "title": "Cathie Wood Sells Top Bet Roku as Stock Surges on Upbeat Outlook",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/9d6a212a52f9bc35a44cb2c8eff49dc3"
+        },
+        {
+          "id": "more-oil-supertankers-ever-headed-041708994.html",
+          "author": null,
+          "description": "A record-high 48 oil supertankers are making their way to the US, according to data compiled by Bloomberg.",
+          "link": "https://finance.yahoo.com/news/more-oil-supertankers-ever-headed-041708994.html",
+          "publishedOn": "2023-11-07T04:17:08.000Z",
+          "wordCount": 10283,
+          "title": "More oil supertankers than ever are headed for the US to load up on crude for export as OPEC+ curbs supply",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/NW8rCu1.7MNG.xUks1pH8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/8a3f2a2ac9f653b282dc37551c1740ff"
         },
         {
           "id": "wework-files-bankruptcy-liabilities-50bn-030321882.html",
@@ -53025,26 +53045,6 @@
           "wordCount": 9756,
           "title": "Dollar Climbs as Traders Seek Safe Havens After Attack in Israel",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/ab69f6f03b03f94d61c70b73532ddbf8"
-        },
-        {
-          "id": "not-just-stocks-high-bond-201501342.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/not-just-stocks-high-bond-201501342.html",
-          "publishedOn": "2023-10-08T20:15:01.000Z",
-          "wordCount": null,
-          "title": "It's not just stocks - high bond yields are also laying waste to commodities, currencies, and housing",
-          "imageUrl": null
-        },
-        {
-          "id": "why-do-bitcoins-have-value.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Bitcoin is touted as a private, decentralized digital currency. But what gives the leading cryptocurrency value?",
-          "link": "https://www.investopedia.com/ask/answers/100314/why-do-bitcoins-have-value.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-10-08T20:10:53.000Z",
-          "wordCount": 7072,
-          "title": "Why Do Bitcoins Have Value?",
-          "imageUrl": "https://www.investopedia.com/thmb/NyVb9lfQqQU9caMG13Ha74VnOTI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/bitcoin_lightning-5bfd80de46e0fb0051fb6916"
         }
       ]
     }
