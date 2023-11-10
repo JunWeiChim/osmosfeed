@@ -1142,16 +1142,6 @@
           "wordCount": 409,
           "title": "Ford, GM, Stellantis Lay Off 5,000 Workers; UAW 'Stand-Up Strike' May Be Minimizing Damage",
           "imageUrl": null
-        },
-        {
-          "id": "f01e4d555ea736ef6f5b58a372da2683",
-          "author": "Investopedia",
-          "description": "Stellantis and Samsung SDI will spend $3.2 billion to build a second battery gigafactory in Indiana as part of their joint venture.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9573c2ee13a4522d819d75b0f3373e9a4a588e238131fc93453941de26813c9c900f65cfe278a1f0e02fececc32fa438fd2f1d9b795f045202e9bea1d73a50c7d6bfa3d4cdd4df461bde489fcb",
-          "publishedOn": "2023-10-11T20:12:22.895Z",
-          "wordCount": 409,
-          "title": "Stellantis, Samsung SDI Agree To Build Second Battery Plant in Indiana",
-          "imageUrl": null
         }
       ]
     },
@@ -2357,6 +2347,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6289075/",
+          "author": "onze economieredactie",
+          "description": "De productie van de Nederlandse industrie ligt nog steeds aanzienlijk lager dan een jaar geleden. Sinds januari is al een daling te zien. Vooral machineproducenten maken minder.",
+          "link": "https://www.nu.nl/economie/6289075/nederlandse-producenten-maken-minder-machines-voedingsmiddelen-en-kunststof.html",
+          "publishedOn": "2023-11-10T07:28:09.000Z",
+          "wordCount": 2609,
+          "title": "Nederlandse producenten maken minder machines, voedingsmiddelen en kunststof",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/zpuxuptad19t_sqr256.jpg/nederlandse-producenten-maken-minder-machines-voedingsmiddelen-en-kunststof.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/zpuxuptad19t_sqr256.jpg/nederlandse-producenten-maken-minder-machines-voedingsmiddelen-en-kunststof.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6289004/",
           "author": "Thijs Rösken",
@@ -9010,6 +9015,51 @@
           "imageUrl": "https://www.investopedia.com/thmb/zbTaeC2L3HYWfXIwz3wb8_BMklo=/680x440/shutterstock_68176102-5bfc35b146e0fb0051bfbf37.jpg"
         },
         {
+          "id": "https://www.investopedia.com/first-republic-bank-cd-rates-7481675",
+          "author": "Staff Author",
+          "description": "First Republic Bank’s CD rates are relatively high, but they have a high minimum balance requirement as well. Learn more and see if First Republic is right for you.",
+          "link": "https://www.investopedia.com/first-republic-bank-cd-rates-7481675?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-09T18:54:22.000Z",
+          "wordCount": 6288,
+          "title": "First Republic Bank CD Rates: November 2023",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/2f20CirWlVvH48Mc7tTKPdYLIIM=/4000x2669/Primary-Image-first-republic-bank-cd-rates-april-2023-7481675-aefc4dfa49d64fb1b5b3fa9c59dc80fb.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/2f20CirWlVvH48Mc7tTKPdYLIIM=/4000x2669/Primary-Image-first-republic-bank-cd-rates-april-2023-7481675-aefc4dfa49d64fb1b5b3fa9c59dc80fb.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/edward-jones-cd-rates-7486072",
+          "author": "Staff Author",
+          "description": "Certificates of deposit (CDs) can be a great, conservative way to invest your money. Edward Jones is worth considering for its competitive CD rates at a variety of term lengths.",
+          "link": "https://www.investopedia.com/edward-jones-cd-rates-7486072?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-09T18:52:40.000Z",
+          "wordCount": 6535,
+          "title": "Edward Jones CD Rates in 2023",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/NUHNeAdyMlzTKa0G1ylFIH9hsjI=/4000x2667/Primary-Image-edward-jones-cd-rates-in-2023-7486072-c80e63838d494936a0ac55d05674aa0b.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/NUHNeAdyMlzTKa0G1ylFIH9hsjI=/4000x2667/Primary-Image-edward-jones-cd-rates-in-2023-7486072-c80e63838d494936a0ac55d05674aa0b.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/citizens-bank-cd-rates-7480867",
+          "author": "Staff Author",
+          "description": "Citizens Bank offers a 14-month certificate of deposit (CD) account with a decent APY. Learn more about its features and how to open a new account.",
+          "link": "https://www.investopedia.com/citizens-bank-cd-rates-7480867?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-09T18:48:25.000Z",
+          "wordCount": 5874,
+          "title": "Citizens Bank CD Rates: November 2023",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/JSCwz9lrxlSmpmKXMENCQJCSfh8=/4000x2667/Primary-Image-citizens-bank-cd-rates-april-2023-7480867-d8dd5f2b125d45eea37092bd42cb6cd1.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/JSCwz9lrxlSmpmKXMENCQJCSfh8=/4000x2667/Primary-Image-citizens-bank-cd-rates-april-2023-7480867-d8dd5f2b125d45eea37092bd42cb6cd1.jpg"
+        },
+        {
           "id": "https://www.investopedia.com/citibank-cd-rates-7482684",
           "author": "Staff Author",
           "description": "CDs can be a great tool for a temporary conservative investment, but rates vary widely. Citibank has a variety of CD options, some with competitive rates.",
@@ -9023,6 +9073,21 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/g2eGbD_FIQYkdjvRVn001-ZfziQ=/4000x2667/Primary-Image-citibank-cd-rates-april-2023-7482684-ad6b9767001e4bc5a06d66c1cb71c3f4.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/cit-bank-cd-rates-7480633",
+          "author": "Staff Author",
+          "description": "A certificate of deposit (CD) can be a great way to secure your savings and grow your finances. Learn what CIT Bank CD Rates are and how you can benefit.",
+          "link": "https://www.investopedia.com/cit-bank-cd-rates-7480633?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-09T18:44:55.000Z",
+          "wordCount": 6415,
+          "title": "CIT Bank CD Rates November 2023",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/eCWz8o_MJwVdFU8783ypXZzftmA=/4000x2667/Primary-Image-cit-bank-cd-rates-april-2023-7480633-5c0912fda85c4a3a98f5766de1576664.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/eCWz8o_MJwVdFU8783ypXZzftmA=/4000x2667/Primary-Image-cit-bank-cd-rates-april-2023-7480633-5c0912fda85c4a3a98f5766de1576664.jpg"
         },
         {
           "id": "https://www.investopedia.com/midday-movers-disney-rises-tesla-and-becton-dickinson-fall-8399978",
@@ -28923,51 +28988,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/vH5W9IJHRA_cH5_wM4kzV8LwnnU=/4000x2667/Primary-Image-synchrony-bank-cd-rates-april-2023-7482657-86936ece5e4a44ecbe316590adf55c57.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/l/litecoin.asp",
-          "author": "Jake Frankenfield",
-          "description": "Launched in the year 2011, Litecoin (LTC) is an alternative cryptocurrency based on the model of Bitcoin.",
-          "link": "https://www.investopedia.com/terms/l/litecoin.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-10-11T19:55:55.000Z",
-          "wordCount": 7565,
-          "title": "What Is Litecoin (LTC)? How It Works, History, Trends and Future",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/w9qgsNGLpj8Zsddn-EWo4p4wxFs=/680x429/shutterstock440860456vc-5bfc2b2dc9e77c0026b4e88c.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/w9qgsNGLpj8Zsddn-EWo4p4wxFs=/680x429/shutterstock440860456vc-5bfc2b2dc9e77c0026b4e88c.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/stellantis-samsung-sdi-agree-to-build-second-battery-plant-in-indiana-8350688",
-          "author": "Staff Author",
-          "description": "Stellantis and Samsung SDI will spend $3.2 billion to build a second battery gigafactory in Indiana as part of their joint venture.",
-          "link": "https://www.investopedia.com/stellantis-samsung-sdi-agree-to-build-second-battery-plant-in-indiana-8350688?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-10-11T19:55:20.000Z",
-          "wordCount": 5040,
-          "title": "Stellantis, Samsung SDI Agree To Build Second Battery Plant in Indiana",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/vW-yXgE5hIAMydSVMWpYkmfIkC0=/4000x2667/INV_Stellantis_Sign_GettyImages-1230669529-4e76ecf4b6af45d389bfebd24616a57c.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/vW-yXgE5hIAMydSVMWpYkmfIkC0=/4000x2667/INV_Stellantis_Sign_GettyImages-1230669529-4e76ecf4b6af45d389bfebd24616a57c.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/sallie-mae-bank-cd-rates-7485414",
-          "author": "Staff Author",
-          "description": "You may know Sallie Mae as the bank that services your student loan, but it also offers other banking products, like CDs. Learn more about Sallie Mae’s CD rates.",
-          "link": "https://www.investopedia.com/sallie-mae-bank-cd-rates-7485414?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-10-11T19:12:46.000Z",
-          "wordCount": 6027,
-          "title": "Sallie Mae Bank CD Rates: October 2023",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/aykv7dv0XI5jmrbm47-1qo9U6CY=/4000x2670/Primary-Image-sallie-mae-bank-cd-rates-april-2023-7485414-12bd684077fd43e7906c146ae0d8f88c.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/aykv7dv0XI5jmrbm47-1qo9U6CY=/4000x2670/Primary-Image-sallie-mae-bank-cd-rates-april-2023-7485414-12bd684077fd43e7906c146ae0d8f88c.jpg"
         }
       ]
     },
@@ -28976,6 +28996,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "sunrun-enphase-nextera-clean-energy-stocks-collapse-87ce2a49?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Stocks related to wind, solar and other forms of renewable energy have fallen by a third this year.  Only a handful may be ready to rebound.",
+          "link": "https://www.barrons.com/articles/sunrun-enphase-nextera-clean-energy-stocks-collapse-87ce2a49?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-11-10T06:00:00.000Z",
+          "wordCount": 13985,
+          "title": "Clean-Energy Stocks Have Collapsed. What Comes Next.",
+          "imageUrl": "https://images.barrons.com/im-66167594/social"
+        },
         {
           "id": "marketmind-not-confident-powell-drags-053354053.html",
           "author": null,
@@ -53595,36 +53625,6 @@
           "wordCount": 9764,
           "title": "Donald Trump’s financial statements were key to getting loans, ex-bank official tells fraud trial",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/QHtnRKW5MceG4vKGfROAGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/b2a2a9867f3cbdc98d75ad8405e421f8"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/technology/amgen-stock-surges-to-10-month-high-after-snagging-an-unexpected-upgrade/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-10-11T20:08:56.000Z",
-          "wordCount": null,
-          "title": "Amgen Stock Surges To 10-Month High, Up 5% On An Unexpected Upgrade",
-          "imageUrl": null
-        },
-        {
-          "id": "stocks-rise-as-all-eyes-turn-to-inflation-data-stock-market-news-today-200707895.html",
-          "author": null,
-          "description": "Wall Street is looking ahead to consumer inflation data on Thursday for more insight into the Fed's next move.",
-          "link": "https://finance.yahoo.com/news/stocks-rise-as-all-eyes-turn-to-inflation-data-stock-market-news-today-200707895.html",
-          "publishedOn": "2023-10-11T20:07:07.000Z",
-          "wordCount": 13363,
-          "title": "Stocks rise as all eyes turn to inflation data: Stock market news today",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/PvcEmYPfK0RAkj8jFz7r2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/8cc82d20-2750-11ee-b7ff-34c681c81efd"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/technology/ntnx-stock-nutanix-rallies-as-ceo-targets-rival-vmware/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-10-11T20:04:43.000Z",
-          "wordCount": null,
-          "title": "Nutanix Rally Keeps On Going As CEO Targets Rival VMware",
-          "imageUrl": null
         }
       ]
     }
