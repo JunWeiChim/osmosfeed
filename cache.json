@@ -8336,21 +8336,6 @@
             "url": "https://media.nu.nl/m/902xqn5adomi_sqr256.jpg/werkgever-failliet-hier-heb-je-recht-op-als-werknemer.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/902xqn5adomi_sqr256.jpg/werkgever-failliet-hier-heb-je-recht-op-als-werknemer.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6285294/",
-          "author": "onze nieuwsredactie",
-          "description": "Aan de periode waarin de lonen alsmaar harder omhooggaan lijkt een einde gekomen. President Klaas Knot van De Nederlandsche Bank ziet de \"eerste signalen van afnemende loondruk\".",
-          "link": "https://www.nu.nl/economie/6285294/dnb-baas-knot-ziet-einde-van-periode-met-steeds-harder-stijgende-lonen.html",
-          "publishedOn": "2023-10-14T07:46:25.000Z",
-          "wordCount": 2948,
-          "title": "DNB-baas Knot ziet einde van periode met steeds harder stijgende lonen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/j7jxeuta7hbq_sqr256.jpg/dnb-baas-knot-ziet-einde-van-periode-met-steeds-harder-stijgende-lonen.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/j7jxeuta7hbq_sqr256.jpg/dnb-baas-knot-ziet-einde-van-periode-met-steeds-harder-stijgende-lonen.jpg"
         }
       ]
     },
@@ -8359,6 +8344,81 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/w/withdrawal-credits-pension-plan.asp",
+          "author": "Julia Kagan",
+          "description": "Withdrawal credits are the portion of an individual’s assets in a pension that the employee is entitled to withdraw when they leave a company.",
+          "link": "https://www.investopedia.com/terms/w/withdrawal-credits-pension-plan.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-12T19:47:22.000Z",
+          "wordCount": 6664,
+          "title": "Withdrawal Credits: Pension Plan",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/S4bxe-y_SoeQB-xsilCOqKAoJ8M=/4000x2700/withdrawal-credits-pension-plan.asp-final-a7828e7b9d2a4a7bb553be025ab9bf97.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/S4bxe-y_SoeQB-xsilCOqKAoJ8M=/4000x2700/withdrawal-credits-pension-plan.asp-final-a7828e7b9d2a4a7bb553be025ab9bf97.png"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/102714/ira-qualified-plan.asp",
+          "author": "Julia Kagan",
+          "description": "Learn about the definition of a qualified retirement plan and some of the features and benefits of individual retirement accounts (IRAs).",
+          "link": "https://www.investopedia.com/ask/answers/102714/ira-qualified-plan.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-12T19:10:44.000Z",
+          "wordCount": 7358,
+          "title": "Is an IRA a Qualified Plan?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/XbVhpD5ctUf9Peff4J-X-E18fW4=/2121x1414/GettyImages-1234228119-f45a816b11d64eee961d19f75f334f5c.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/XbVhpD5ctUf9Peff4J-X-E18fW4=/2121x1414/GettyImages-1234228119-f45a816b11d64eee961d19f75f334f5c.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/i/independent_401k.asp",
+          "author": "Julia Kagan",
+          "description": "An Independent 401(k) is a tax-advantaged retirement savings plan available to individual small business owners and their spouses.",
+          "link": "https://www.investopedia.com/terms/i/independent_401k.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-12T19:09:21.000Z",
+          "wordCount": 6646,
+          "title": "Independent 401(k): What It is, How It Works",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/tI9WeqzmQH4Gnu7n9DqftkCYKp8=/380x254/high-school-students-5bfc2b8b46e0fb0083c07b7d.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/tI9WeqzmQH4Gnu7n9DqftkCYKp8=/380x254/high-school-students-5bfc2b8b46e0fb0083c07b7d.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/102714/what-are-main-differences-between-simplified-employee-pension-sep-ira-and-simple-ira.asp",
+          "author": "The Investopedia Team",
+          "description": "SEP IRAs and SIMPLE IRAs have key differences, such as who can contribute and how much.",
+          "link": "https://www.investopedia.com/ask/answers/102714/what-are-main-differences-between-simplified-employee-pension-sep-ira-and-simple-ira.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-12T18:52:56.000Z",
+          "wordCount": 6276,
+          "title": "How Do a Simplified Employee Pension (SEP) IRA and SIMPLE IRA Differ?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/KyLlkEDK4hk5pKxCsT5Qe0d9P74=/3092x3223/GettyImages-450750965-56a067e83df78cafdaa1703b.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/KyLlkEDK4hk5pKxCsT5Qe0d9P74=/3092x3223/GettyImages-450750965-56a067e83df78cafdaa1703b.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/financial-advisors/122815/how-much-millennials-should-save-retire-comfortably.asp",
+          "author": "Andrea Travillian",
+          "description": "Millennials may not be worrying about retirement just yet, but they should be thinking about how much they’ll need to save.",
+          "link": "https://www.investopedia.com/articles/financial-advisors/122815/how-much-millennials-should-save-retire-comfortably.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-12T18:51:58.000Z",
+          "wordCount": 7438,
+          "title": "How Much Do Millennials Need to Save for Retirement?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Z18tr4vcR4qASHp0oL5x7GsZqjI=/2120x1414/GettyImages-1313131469-ed9bc5f77292428dbaa222e69be243cf.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Z18tr4vcR4qASHp0oL5x7GsZqjI=/2120x1414/GettyImages-1313131469-ed9bc5f77292428dbaa222e69be243cf.jpg"
+        },
         {
           "id": "https://www.investopedia.com/ask/answers/102714/thrift-savings-plan-tsp-qualified-retirement-plan.asp",
           "author": "Brian Beers",
@@ -28112,6 +28172,16 @@
           "imageUrl": "https://media.zenfs.com/en/smartasset_475/b0b1605d6d105d0d599b81b55fc8bd3e"
         },
         {
+          "id": "keep-money-family-inheritance-trust-122811336.html",
+          "author": null,
+          "description": "Inheritance trusts take on critical importance in wealth management, particularly for multi-generational families. The term might come across as complex but in essence, inheritance trusts involve safeguarding assets while managing their distribution efficiently. Moreover, they provide potential tax benefits that can contribute significantly towards your family’s financial security. A financial advisor well-versed in this field […] The post How to Keep Money in the Family With an Inheritance Trus",
+          "link": "https://finance.yahoo.com/news/keep-money-family-inheritance-trust-122811336.html",
+          "publishedOn": "2023-11-12T15:55:02.000Z",
+          "wordCount": 10881,
+          "title": "How to Keep Money in the Family With an Inheritance Trust",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/e42e4d6142fe370463008b9694c0815a"
+        },
+        {
           "id": "tell-im-actually-part-american-140046604.html",
           "author": null,
           "description": "Unless you're extremely rich or poor, you probably think of yourself as being part of the \"middle class.\" As you're probably aware, \"middle class\" is an income level that describes people whose annual income is directly in the middle 50% … Continue reading → The post What Is Middle Class Income in the U.S.? appeared first on SmartAsset Blog.",
@@ -28190,6 +28260,16 @@
           "wordCount": 10983,
           "title": "Cyber ‘Catastrophe Bonds’ Move Step Closer to Hitting Public Debt Markets",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/4ec515c27bf75e4c9178a73cf676587d"
+        },
+        {
+          "id": "copart-relentless-inflows-send-shares-132125395.html",
+          "author": null,
+          "description": "Copart, Inc. (CPRT) shares are surging, up 60% in 2023. Following the stock’s money flows reveals why.",
+          "link": "https://finance.yahoo.com/news/copart-relentless-inflows-send-shares-132125395.html",
+          "publishedOn": "2023-11-12T13:21:25.000Z",
+          "wordCount": 10271,
+          "title": "Copart: Relentless Inflows Send Shares to New Highs",
+          "imageUrl": "https://media.zenfs.com/en/fx_empire_176/ceb6c9983a063d74f2e07cedb9e74ac6"
         },
         {
           "id": "tax-strategy-money-saving-tips-130159745.html",
