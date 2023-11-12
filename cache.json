@@ -8390,6 +8390,21 @@
       "siteUrl": "https://www.investopedia.com",
       "articles": [
         {
+          "id": "https://www.investopedia.com/ask/answers/121515/bitcoin-legal-us.asp",
+          "author": "Mara Lesemann",
+          "description": "Learn about the legality of Bitcoin in the U.S. and around the world.",
+          "link": "https://www.investopedia.com/ask/answers/121515/bitcoin-legal-us.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-12T15:17:20.000Z",
+          "wordCount": 6671,
+          "title": "Is Bitcoin Legal?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/NDCkeHW6bU-UXC41MUVKsx2rd6E=/680x440/business_building_153697270-5bfc2b9846e0fb0083c07d69.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/NDCkeHW6bU-UXC41MUVKsx2rd6E=/680x440/business_building_153697270-5bfc2b9846e0fb0083c07d69.jpg"
+        },
+        {
           "id": "https://www.investopedia.com/why-moodys-cut-its-outlook-for-the-us-economy-8400759",
           "author": "Kevin George",
           "description": "Moody's rating agency downgraded the U.S. economy outlook to \"negative.\" These are the reasons why.",
@@ -28076,6 +28091,46 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "rising-delinquencies-offer-economic-warning-signs-153350355.html",
+          "author": null,
+          "description": "While the overall data indicate continued economic growth, there are signs of stress developing that bear watching.",
+          "link": "https://finance.yahoo.com/news/rising-delinquencies-offer-economic-warning-signs-153350355.html",
+          "publishedOn": "2023-11-12T15:33:50.000Z",
+          "wordCount": 11562,
+          "title": "Rising delinquencies offer economic warning signs",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/3PVde8TomiCoqYwxjEyI2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/c6fc7c60-8170-11ee-9bff-023aae3122f6"
+        },
+        {
+          "id": "bitcoin-legal-us.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "Learn about the legality of Bitcoin in the U.S. and around the world.",
+          "link": "https://www.investopedia.com/ask/answers/121515/bitcoin-legal-us.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-11-12T15:12:11.000Z",
+          "wordCount": 6671,
+          "title": "Is Bitcoin Legal?",
+          "imageUrl": "https://www.investopedia.com/thmb/X41Ld867vzu92nh9Fnycu9c8N-E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/business_building_153697270-5bfc2b9846e0fb0083c07d69.jpg"
+        },
+        {
+          "id": "inflation-walmart-target-highlight-a-consumer-focused-week-what-to-watch-143030435.html",
+          "author": null,
+          "description": "From an inflation print to retail earnings, the consumer will be in focus in the week ahead as investors gather more data on whether the US economy is markedly slowing down.",
+          "link": "https://finance.yahoo.com/news/inflation-walmart-target-highlight-a-consumer-focused-week-what-to-watch-143030435.html",
+          "publishedOn": "2023-11-12T14:30:30.000Z",
+          "wordCount": 11365,
+          "title": "Inflation, Walmart, Target highlight a consumer-focused week: What to watch",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/rOgdBJOR84Fqv_ypsVN53Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/9c615380-80a4-11ee-afff-7af57e0d7ffc"
+        },
+        {
+          "id": "why-moodys-cut-its-outlook-for-the-us-economy-8400759?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "author": null,
+          "description": "Moody's rating agency downgraded the U.S. economy outlook to \"negative.\" These are the reasons why.",
+          "link": "https://www.investopedia.com/why-moodys-cut-its-outlook-for-the-us-economy-8400759?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
+          "publishedOn": "2023-11-12T14:08:14.000Z",
+          "wordCount": 5654,
+          "title": "Why Moody's Cut Its Outlook for the US Economy",
+          "imageUrl": "https://www.investopedia.com/thmb/jWKoABbAOpQ4q5qxM1bCT5bpWXs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-16017892701-1a140678cba64648805a597919691f06.jpg"
+        },
         {
           "id": "cyber-catastrophe-bonds-move-step-133000976.html",
           "author": null,
@@ -52165,26 +52220,6 @@
           "wordCount": 9946,
           "title": "Ferrari to accept crypto as payment for its cars in the US",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/0956ce79cb2adc830417874d06ef1930"
-        },
-        {
-          "id": "a-soft-landing-in-the-u-s-could-be-hard-for-everyone-else-1db44fca?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Conflict in the Middle East, surging global interest rates and elevated oil prices threaten a fragile recovery.",
-          "link": "https://www.wsj.com/economy/global/a-soft-landing-in-the-u-s-could-be-hard-for-everyone-else-1db44fca?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-10-14T04:07:00.000Z",
-          "wordCount": 8343,
-          "title": "A Soft Landing in the U.S. Could Be Hard for Everyone Else",
-          "imageUrl": "https://images.wsj.net/im-868138/social"
-        },
-        {
-          "id": "darren-woods-exxon-ceo-c35c476a?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Darren Woods didn’t waver in his full-throttled belief in oil. Now his one-time doubters back his $60 billion deal for shale giant Pioneer.",
-          "link": "https://www.wsj.com/business/energy-oil/darren-woods-exxon-ceo-c35c476a?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-10-14T04:05:00.000Z",
-          "wordCount": 7494,
-          "title": "Exxon CEO’s $60 Billion Vindication",
-          "imageUrl": "https://images.wsj.net/im-868309/social"
         }
       ]
     }
