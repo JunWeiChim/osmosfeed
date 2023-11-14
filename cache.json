@@ -2318,6 +2318,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6289614/",
+          "author": "Tom van Gurp",
+          "description": "Nederlanders gaven in september minder uit dan een jaar eerder. We kochten onder andere minder schoenen, kleding, eten en gaven ook minder uit in bijvoorbeeld de horeca of bij de kapper. Wel kochten we meer auto's.",
+          "link": "https://www.nu.nl/economie/6289614/nederlander-hield-in-september-hand-op-de-knip.html",
+          "publishedOn": "2023-11-14T09:54:27.000Z",
+          "wordCount": 2721,
+          "title": "Nederlander hield in september hand op de knip",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/vwmxltuab9xt_sqr256.jpg/nederlander-hield-in-september-hand-op-de-knip.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/vwmxltuab9xt_sqr256.jpg/nederlander-hield-in-september-hand-op-de-knip.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6289588/",
           "author": "Tom van Gurp",
           "description": "De Nederlandse economie is afgelopen kwartaal met 0,2 procent gekrompen. Het is het derde kwartaal op rij dat de economie is geslonken. Vooral de investeringen van bedrijven zijn teruggevallen. Ook hebben ondernemingen minder besteld, omdat ze hun voorraden nog moeten opmaken.",
@@ -28828,51 +28843,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/rDxbQlXHl1D-ec8KuxIB0slu5P0=/1500x1000/custom-basket-exchange-traded-fund-etf-definition-5224219_final_v2-08ae8b7637e74f71ad8100f4c23af926.png"
-        },
-        {
-          "id": "https://www.investopedia.com/investing/benefits-covered-call-etf/",
-          "author": "Nathan Reiff",
-          "description": "ETFs offer more convenient ways to access the many benefits of covered call strategies, such as lower volatility.",
-          "link": "https://www.investopedia.com/investing/benefits-covered-call-etf/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-10-15T21:36:45.000Z",
-          "wordCount": 6628,
-          "title": "Benefits of a Covered Call ETF",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/3NoDC3HUimZsGkc-_XQ1yBee6oM=/680x440/shutterstock_264659969_volatility-5bfc2f5f46e0fb0051be8a53.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/3NoDC3HUimZsGkc-_XQ1yBee6oM=/680x440/shutterstock_264659969_volatility-5bfc2f5f46e0fb0051be8a53.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/101314/what-does-current-cost-living-compare-20-years-ago.asp",
-          "author": "Greg Daugherty",
-          "description": "Learn the relationship among the cost of living, the government’s Consumer Price Index, inflation, and Americans’ household incomes.",
-          "link": "https://www.investopedia.com/ask/answers/101314/what-does-current-cost-living-compare-20-years-ago.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-10-15T21:31:47.000Z",
-          "wordCount": 9228,
-          "title": "History of the Cost of Living",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/3huosnKzDw5ibT8axgBLqLDKbWg=/3000x2000/Investopedia_Historyofcostofliving_colorv1-46383557fcda4f5a8e54f38e3096c4b8.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/3huosnKzDw5ibT8axgBLqLDKbWg=/3000x2000/Investopedia_Historyofcostofliving_colorv1-46383557fcda4f5a8e54f38e3096c4b8.png"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/033015/whats-difference-between-index-fund-and-etf.asp",
-          "author": "The Investopedia Team",
-          "description": "Learn about the difference between an index fund and an exchange-traded fund, or ETF, and how index fund investing compares to value investing.",
-          "link": "https://www.investopedia.com/ask/answers/033015/whats-difference-between-index-fund-and-etf.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-10-15T21:28:13.000Z",
-          "wordCount": 6637,
-          "title": "Index Fund vs. ETF: What&#39;s the Difference?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/5pvsGdTJBymIGe7Vwnk3Wj6b8zU=/680x440/wall_street_179681980-5bfc2b9746e0fb0083c07d29.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/5pvsGdTJBymIGe7Vwnk3Wj6b8zU=/680x440/wall_street_179681980-5bfc2b9746e0fb0083c07d29.jpg"
         }
       ]
     },
@@ -28881,6 +28851,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "vodafone-chief-says-transformation-progressing-081707364.html",
+          "author": null,
+          "description": "The chief executive of Vodafone has said the telecoms company’s transformation is “progressing” as her cost-cutting measures begin to pay off.",
+          "link": "https://finance.yahoo.com/news/vodafone-chief-says-transformation-progressing-081707364.html",
+          "publishedOn": "2023-11-14T08:17:07.000Z",
+          "wordCount": 10384,
+          "title": "Vodafone chief says ‘transformation progressing’ as cost cutting pays off",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/LPH31LsSYCae8HJd_3ANOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTI-/https://media.zenfs.com/en/the_telegraph_258/6e962f716e5d3710dc0d06f4b719cdcb"
+        },
         {
           "id": "glencore-buy-77-teck-coal-072626600.html",
           "author": null,
@@ -28900,6 +28880,36 @@
           "wordCount": 7622,
           "title": "Vodafone Group Posts Lower Pretax Profit on Previous Business Disposals",
           "imageUrl": "https://images.wsj.net/im-886538/social"
+        },
+        {
+          "id": "global-ev-sales-stay-strong-050700481.html",
+          "author": null,
+          "description": "China ended an 11-year subsidy scheme for EV purchases in 2022, but some local authorities have continued to offer aid or tax rebates to attract investments as well as subsidies for consumers.  EV sales in China, the world's largest auto market, increased 29% year-to-date in September.  China is entering the final two months of the year which are seasonally high for vehicle sales, according to Rho Motion.",
+          "link": "https://finance.yahoo.com/news/global-ev-sales-stay-strong-050700481.html",
+          "publishedOn": "2023-11-14T05:07:00.000Z",
+          "wordCount": 10274,
+          "title": "Global EV sales stay strong, China hits record despite end of subsidies",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/0ae58003ec9e26163d18555ac769015b"
+        },
+        {
+          "id": "china-copper-giant-downfall-sealed-043727374.html",
+          "author": null,
+          "description": "(Bloomberg) -- Maike Metals International Co., once one of the most powerful traders in China’s massive copper market, filed for bankruptcy after more than a year of debt struggles.Most Read from BloombergWall Street Divided Over Just How Aggressive Fed Cutting Will BeUBS Strategists See Far Deeper Fed Rate Cuts Than What Markets Are PricingIsrael Latest: Yellen Sees Limited Global Economic Impact So FarChina Weighs Ending Freeze on Boeing With 737 Max Deal in USBiden, Xi to Announce Deal for Ch",
+          "link": "https://finance.yahoo.com/news/china-copper-giant-downfall-sealed-043727374.html",
+          "publishedOn": "2023-11-14T04:37:27.000Z",
+          "wordCount": 10154,
+          "title": "China Copper Giant’s Downfall Sealed as Court Accepts Bankruptcy",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/XfsQZ.tnUYf9fd6FBeZiYQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzM-/https://media.zenfs.com/en/bloomberg_markets_842/7a24eb5be76ba09b628b04c5827ad224"
+        },
+        {
+          "id": "yellen-says-she-disagrees-moodys-031413734.html",
+          "author": null,
+          "description": "U.S. Treasury Secretary Janet Yellen on Monday pushed back on Moody's decision last week to cut its outlook on U.S. debt, saying the U.S. economy is strong and the Treasury market is both safe and liquid.  \"This is a decision I disagree with,\" she said at a news conference at the close of the APEC Finance Ministers' Meeting in San Francisco, California.  The ratings agency on Friday lowered its outlook on the U.S. credit rating to \"negative\" from \"stable,\" citing large fiscal deficits and a decline in debt affordability.",
+          "link": "https://finance.yahoo.com/news/yellen-says-she-disagrees-moodys-031413734.html",
+          "publishedOn": "2023-11-14T03:14:13.000Z",
+          "wordCount": 9953,
+          "title": "Yellen says she disagrees with Moody's outlook on US debt",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/72fe2478018962fee66c4ab84a798490"
         },
         {
           "id": "one-wall-streets-biggest-bears-024002628.html",
