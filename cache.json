@@ -2318,6 +2318,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6289588/",
+          "author": "Tom van Gurp",
+          "description": "De Nederlandse economie is afgelopen kwartaal met 0,2 procent gekrompen. Het is het derde kwartaal op rij dat de economie is geslonken. Vooral de investeringen van bedrijven zijn teruggevallen. Ook hebben ondernemingen minder besteld, omdat ze hun voorraden nog moeten opmaken.",
+          "link": "https://www.nu.nl/economie/6289588/nederland-langer-in-recessie-door-krimp-in-derde-kwartaal.html",
+          "publishedOn": "2023-11-14T09:00:57.000Z",
+          "wordCount": 2885,
+          "title": "Nederland langer in recessie door krimp in derde kwartaal",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/0cfxqjcab4ir_sqr256.jpg/nederland-langer-in-recessie-door-krimp-in-derde-kwartaal.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/0cfxqjcab4ir_sqr256.jpg/nederland-langer-in-recessie-door-krimp-in-derde-kwartaal.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6288849/",
           "author": "José Boon",
           "description": "Vanaf januari wordt de duurzaamheid van je woning belangrijker. Althans, als je een huis wil kopen, verkopen of verduurzamen. Hoeveel je daarvoor kunt lenen, hangt straks namelijk af van het energielabel van de woning. Drie vragen over deze verandering.",
@@ -28858,36 +28873,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/5pvsGdTJBymIGe7Vwnk3Wj6b8zU=/680x440/wall_street_179681980-5bfc2b9746e0fb0083c07d29.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/etfs/062716/hedging-etf-indexes-relevant-strategy-qqq-psq.asp",
-          "author": "Jeff Krohnfeldt",
-          "description": "Discover four viable hedging strategies with index-based ETFs, including the use of inverse and leveraged funds, as well as call writing and buying puts.",
-          "link": "https://www.investopedia.com/articles/etfs/062716/hedging-etf-indexes-relevant-strategy-qqq-psq.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-10-15T21:11:45.000Z",
-          "wordCount": 6828,
-          "title": "Is Hedging With ETF Indexes a Relevant Strategy?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/M12oiNuhdPkJmm_AYSPDK0ex45A=/680x440/stock_17-5bfc2b85c9e77c00587703e2.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/M12oiNuhdPkJmm_AYSPDK0ex45A=/680x440/stock_17-5bfc2b85c9e77c00587703e2.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/medicare-changes-8304171",
-          "author": "Lora Shinn",
-          "description": "Medicare changes for 2024 include big changes for Part D, and higher premiums and deductibles. Learn about changes.",
-          "link": "https://www.investopedia.com/medicare-changes-8304171?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-10-15T20:24:54.000Z",
-          "wordCount": 6462,
-          "title": "Medicare Changes 2024",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/5LMJopNQkCWJsOQQGurwvaxEGCs=/6428x4912/GettyImages-1397814346-213518f54e9347189326c429fc3d9980.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/5LMJopNQkCWJsOQQGurwvaxEGCs=/6428x4912/GettyImages-1397814346-213518f54e9347189326c429fc3d9980.jpg"
         }
       ]
     },
@@ -28896,6 +28881,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "glencore-buy-77-teck-coal-072626600.html",
+          "author": null,
+          "description": "(Bloomberg) -- Glencore Plc agreed to buy a majority stake in Teck Resources Ltd.’s coal business for $6.93 billion, ending a months-long saga and setting the stage for the commodity giant to spin off its own coal unit.Most Read from BloombergWall Street Divided Over Just How Aggressive Fed Cutting Will BeUBS Strategists See Far Deeper Fed Rate Cuts Than What Markets Are PricingBiden, Xi to Announce Deal for China to Crack Down on FentanylIsrael Latest: Biden Urges ‘Less Intrusive Action’ as Tro",
+          "link": "https://finance.yahoo.com/news/glencore-buy-77-teck-coal-072626600.html",
+          "publishedOn": "2023-11-14T07:26:26.000Z",
+          "wordCount": 10436,
+          "title": "Glencore to buy 77% of Teck's coal business for $6.93 billion",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/WNrIkcMGjRqpaUBBAJnE2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/bloomberg_markets_842/95f38db9b36766cbce8562b20bffe866"
+        },
         {
           "id": "vodafone-group-posts-lower-pretax-profit-on-previous-business-disposals-2c6cece4?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -53465,56 +53460,6 @@
           "wordCount": 9582,
           "title": "Oil falls more that $1 a barrel on Venezuela deal hopes",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/73763a0206a1fb59a94fbb26bf1d7cdd"
-        },
-        {
-          "id": "living-paycheck-consumer-economy-bb16b8e8?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "While most low earners spend down their paychecks each month, about half of people making more than $100,000 a year also run out of money.",
-          "link": "https://www.barrons.com/articles/living-paycheck-consumer-economy-bb16b8e8?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-10-15T20:46:00.000Z",
-          "wordCount": 7308,
-          "title": "Living Paycheck to Paycheck Is Common, Even Among Those Who Make More Than $100,000",
-          "imageUrl": "https://images.barrons.com/im-27207784/social"
-        },
-        {
-          "id": "stocks-to-watch-this-week-tesla-goldman-sachs-netflix-tsmc-89396dee?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "More than 50 S&P 500 companies are set to report this week including Tesla, Netflix, TSMC, and Goldman Sachs.",
-          "link": "https://www.barrons.com/articles/stocks-to-watch-this-week-tesla-goldman-sachs-netflix-tsmc-89396dee?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-10-15T20:43:00.000Z",
-          "wordCount": 6869,
-          "title": "Tesla, Goldman, Netflix, Lockheed, TSMC, and More Stocks to Watch This Week",
-          "imageUrl": "https://images.barrons.com/im-822056/social"
-        },
-        {
-          "id": "tesla-netflix-bank-earnings-stocks-9a85945d?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The Magnificent Eight punch well above their fundamental weight, thanks to premium valuation multiples.",
-          "link": "https://www.barrons.com/articles/tesla-netflix-bank-earnings-stocks-9a85945d?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-10-15T20:33:00.000Z",
-          "wordCount": 5889,
-          "title": "Step Aside, Banks. Tesla and Netflix Earnings Are the Real Tests.",
-          "imageUrl": "https://images.barrons.com/im-28574726/social"
-        },
-        {
-          "id": "bank-of-america-stock-price-11855305?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "It wasn’t that long ago that BofA seemed poised to become America’s most lucrative bank. A big bet on bonds changed all that.",
-          "link": "https://www.barrons.com/articles/bank-of-america-stock-price-11855305?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-10-15T20:25:00.000Z",
-          "wordCount": 6800,
-          "title": "Bank of America Is the Problem Child of Big Banks. Here’s How It Can Right the Ship.",
-          "imageUrl": "https://images.barrons.com/im-01274825/social"
-        },
-        {
-          "id": "inflation-tips-treasuries-bonds-f0388275?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Investors will do better in Treasury inflation-protected securities, or TIPS, versus regular Treasury bonds if inflation runs at more than 2.35%, which seems likely.",
-          "link": "https://www.barrons.com/articles/inflation-tips-treasuries-bonds-f0388275?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-10-15T20:16:00.000Z",
-          "wordCount": 6927,
-          "title": "How These Overlooked Bonds Can Help You Beat Inflation",
-          "imageUrl": "https://images.barrons.com/im-77607494/social"
         }
       ]
     }
