@@ -1082,16 +1082,6 @@
           "wordCount": 409,
           "title": "Lululemon, Hubbell Shares Rise Ahead of Joining the S&P 500",
           "imageUrl": null
-        },
-        {
-          "id": "a7c6f601b2529db3e7ea6f9f94b99ec4",
-          "author": "Investopedia",
-          "description": "Charles Schwab reported profit that beat estimates, and said it plans to cut $1 billion in incremental annual expenses.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca856fc6f013a04f749b8d30b4f338608d415ed723c828a39d442250966e8627d89f1b78c6f578b3fbe76defe79828b661fd25429135590d1e19eef7f9947550c5debfadd48189820703971bc681273ddb33777ac6cd",
-          "publishedOn": "2023-10-16T16:15:53.625Z",
-          "wordCount": 409,
-          "title": "Charles Schwab Beats Profit Estimates and Moves to Save $1 Billion Per Year",
-          "imageUrl": null
         }
       ]
     },
@@ -2339,26 +2329,6 @@
           "wordCount": 409,
           "title": "S&P 500 Gains and Losses Today: Index Climbs to Start Week of Key Earnings Reports",
           "imageUrl": null
-        },
-        {
-          "id": "4de64a588dd6539eafd062140b5902ee",
-          "author": "Investopedia",
-          "description": "U.S. equities gained at midday on Monday, Oct. 16, 2023, to start a busy week with key corporate earnings reports.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b66d5e91ab14f74829b35b3bf3b39c24956c7348421fc864d6646de6c9c3d9c93577bc6e33efffae56de9ed9760a623fb3a0090355b0d1e09fce1a6d0795eda9fa4a7cac38b930603d64d91c33d3cdd",
-          "publishedOn": "2023-10-16T17:11:20.287Z",
-          "wordCount": 409,
-          "title": "Markets Jump at Midday to Begin a Week of Key Corporate Earnings Reports",
-          "imageUrl": null
-        },
-        {
-          "id": "c3f425d63f9c8c06932809ba67142129",
-          "author": "Investopedia",
-          "description": "Activist investor Starboard Value reportedly added to its stake in News Corp, and is targeting changes to Rupert Murdoch's media company.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8862d0f152a6532b98c32babf328289c0955d63d9575b094562e5696799023de800e21c2e521bbe3ea33f6a58723b329fa3e009079461b1e00f2fca3d0795e84c6b9efd7cd9282584d861fc9946f76c53e7d7ccdc907d8",
-          "publishedOn": "2023-10-16T16:15:53.539Z",
-          "wordCount": 409,
-          "title": "News Corp Shares Jump After Report Activist Investor Is Looking to Make Changes",
-          "imageUrl": null
         }
       ]
     },
@@ -2367,6 +2337,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6289736/",
+          "author": "onze nieuwsredactie",
+          "description": "Het is de laatste keer dat mensen het STAP-opleidingsbudget kunnen aanvragen, dat maximaal 1.000 euro bedraagt. De regeling kreeg eerder veel kritiek, omdat het budget ook werd gebruikt voor snoepreisjes en cursussen die niets met werk te maken hadden.",
+          "link": "https://www.nu.nl/economie/6289736/nieuwe-en-laatste-aanvraagperiode-voor-omstreden-stap-budget-van-start.html",
+          "publishedOn": "2023-11-15T04:38:41.000Z",
+          "wordCount": 2569,
+          "title": "Nieuwe (en laatste) aanvraagperiode voor omstreden STAP-budget van start",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/f3bxbi5awdkw_sqr256.jpg/nieuwe-en-laatste-aanvraagperiode-voor-omstreden-stap-budget-van-start.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/f3bxbi5awdkw_sqr256.jpg/nieuwe-en-laatste-aanvraagperiode-voor-omstreden-stap-budget-van-start.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6289735/",
+          "author": "onze nieuwsredactie",
+          "description": "TikTok komt met de nieuwe functie Add to Music App. Daarmee kunnen gebruikers nummers die ze via TikTok ontdekken, opslaan bij hun favoriete streamingdienst. De service wordt eerst in de Verenigde Staten en het Verenigd Koninkrijk uitgerold. Later volgen andere landen.",
+          "link": "https://www.nu.nl/tech/6289735/tiktok-gaat-samenwerken-met-spotify-en-amazon-music.html",
+          "publishedOn": "2023-11-15T04:31:14.000Z",
+          "wordCount": 2523,
+          "title": "TikTok gaat samenwerken met Spotify en Amazon Music",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/j5sxkh4a1oq1_sqr256.jpg/tiktok-gaat-samenwerken-met-spotify-en-amazon-music.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/j5sxkh4a1oq1_sqr256.jpg/tiktok-gaat-samenwerken-met-spotify-en-amazon-music.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6289652/",
           "author": "Jeroen Kraan",
@@ -8464,6 +8464,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/personal-finance/051915/what-are-tax-advantages-when-buying-home.asp",
+          "author": "Tim Parker",
+          "description": "Homeowners can use several tax credits and deductions, including the mortgage interest deduction and the SALT deduction, to reduce their tax bills.",
+          "link": "https://www.investopedia.com/articles/personal-finance/051915/what-are-tax-advantages-when-buying-home.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-15T04:30:50.000Z",
+          "wordCount": 8471,
+          "title": "Top Tax Advantages of Buying a Home",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/QwTwTvip2jwxUngsQUCoCHmT3AY=/2000x1500/Tax_Advantages_Buying_Home_Sketch-ffc74833ef7744f2ba7377009ff52274.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/QwTwTvip2jwxUngsQUCoCHmT3AY=/2000x1500/Tax_Advantages_Buying_Home_Sketch-ffc74833ef7744f2ba7377009ff52274.png"
+        },
         {
           "id": "https://www.investopedia.com/u-s-foreclosure-activity-steady-in-october-8401462",
           "author": "Terry Lane",
@@ -28758,66 +28773,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/F0PP3Uv3BJSe4uXZiVcxJavr48c=/4000x2700/taxgainlossharvesting.asp-final-00d62f57a67b4b2aa66d7f90d7e60126.png"
-        },
-        {
-          "id": "https://www.investopedia.com/lululemon-hubbell-shares-rise-ahead-of-joining-the-s-and-p-500-8359338",
-          "author": "Staff Author",
-          "description": "Lululemon and Hubbell will join the S&P 500 on Wednesday, which could can benefit the companies by boosting name recognition and accessibility of the stock.",
-          "link": "https://www.investopedia.com/lululemon-hubbell-shares-rise-ahead-of-joining-the-s-and-p-500-8359338?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-10-16T17:09:14.000Z",
-          "wordCount": 5100,
-          "title": "Lululemon, Hubbell Shares Rise Ahead of Joining the S&amp;P 500",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/OyFf66UfDuKNF51UFuy15-WUZNY=/4802x2875/GettyImages-1418509854-166ed0bbec5341cfbccd126c1ff2476e.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/OyFf66UfDuKNF51UFuy15-WUZNY=/4802x2875/GettyImages-1418509854-166ed0bbec5341cfbccd126c1ff2476e.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/markets-jump-at-midday-to-begin-a-week-of-key-corporate-earnings-reports-8360795",
-          "author": "Staff Author",
-          "description": "U.S. equities gained at midday on Monday, Oct. 16, 2023, to start a busy week with key corporate earnings reports.",
-          "link": "https://www.investopedia.com/markets-jump-at-midday-to-begin-a-week-of-key-corporate-earnings-reports-8360795?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-10-16T16:45:08.000Z",
-          "wordCount": 4917,
-          "title": "Markets Jump at Midday to Begin a Week of Key Corporate Earnings Reports",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/xa0O_THVHF7tiN-Hb__rpLgoaUA=/3000x2000/GettyImages-94942365-9e75a4ec0a384c0680e30baf3a58dac2.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/xa0O_THVHF7tiN-Hb__rpLgoaUA=/3000x2000/GettyImages-94942365-9e75a4ec0a384c0680e30baf3a58dac2.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/investing/090115/7-best-etf-trading-strategies-beginners.asp",
-          "author": "Elvis Picardo",
-          "description": "Exchange-traded funds (ETFs) are ideal instruments for beginning traders and investors. Learn the seven best strategies for trading ETFs.",
-          "link": "https://www.investopedia.com/articles/investing/090115/7-best-etf-trading-strategies-beginners.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-10-16T16:43:53.000Z",
-          "wordCount": 7305,
-          "title": "7 Best ETF Trading Strategies for Beginners",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ceawDG47ETtRCLcoHV-TioaQWY0=/680x440/shutterstock_253590586-5bfc35fbc9e77c005145e06f.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ceawDG47ETtRCLcoHV-TioaQWY0=/680x440/shutterstock_253590586-5bfc35fbc9e77c005145e06f.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/markets-economy/062216/how-underground-economy-affects-gdp.asp",
-          "author": "Andrew Bloomenthal",
-          "description": "Find out how the underground or shadow economy can affect the accuracy of the calculation of a country's gross domestic product (GDP).",
-          "link": "https://www.investopedia.com/articles/markets-economy/062216/how-underground-economy-affects-gdp.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-10-16T16:30:06.000Z",
-          "wordCount": 6256,
-          "title": "How the Underground Economy Affects Gross Domestic Product (GDP)",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/LjPjLLUIuMUWXkcA6HHpyipo7aA=/680x440/shutterstock_6286552-5bfc2b3fc9e77c0026b4ebeb.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/LjPjLLUIuMUWXkcA6HHpyipo7aA=/680x440/shutterstock_6286552-5bfc2b3fc9e77c0026b4ebeb.jpg"
         }
       ]
     },
@@ -28826,6 +28781,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "tencent-alibaba-earnings-hold-key-230000248.html",
+          "author": null,
+          "description": "(Bloomberg) -- Financial results from Tencent Holdings Ltd. and Alibaba Group Holding Ltd. will likely test the strength of a $44 billion rally in China’s technology sector this month.Most Read from BloombergS&P 500 Up 2% as Bets ‘Fed Is Done’ Sink US Yields: Markets WrapRolex, Patek Prices Hit Fresh Two-Year Lows: Subdial IndexThailand Takes $28 Billion Malacca Strait Bypass Plan to USBiden, Xi to Announce China’s Crackdown on Fentanyl TradeTrump Insists on ‘Disclaimer’ Defense Already Tossed i",
+          "link": "https://finance.yahoo.com/news/tencent-alibaba-earnings-hold-key-230000248.html",
+          "publishedOn": "2023-11-15T03:31:28.000Z",
+          "wordCount": 10580,
+          "title": "Tencent, Alibaba Earnings Hold Key to $44 Billion China Tech Run",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_technology_68/68c083ff20484593b304a77f93c1b638"
+        },
         {
           "id": "warren-buffetts-berkshire-hathaway-sheds-investments-in-gm-j-j-and-p-g-5529f8f5?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -28855,6 +28820,16 @@
           "wordCount": 10343,
           "title": "'Big Short' investor Michael Burry reveals a bet against Nvidia and other microchip stocks",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/TLOAIS5E1skNlK2d3aLT_g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/71ce94af96b5b6e26381c733cdbe3157"
+        },
+        {
+          "id": "us-stocks-jump-soft-inflation-223403690.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/us-stocks-jump-soft-inflation-223403690.html",
+          "publishedOn": "2023-11-15T00:35:27.000Z",
+          "wordCount": null,
+          "title": "This is why the stock market is taking off like a rocket today",
+          "imageUrl": null
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -53275,86 +53250,6 @@
           "wordCount": 10510,
           "title": "Real Estate Brokers Pocketing Up to 6% in Fees Draw Antitrust Scrutiny",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/gfKQhOrW7oCJzuGYpH9epw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/7463f400a106457fc39645a64c46870c"
-        },
-        {
-          "id": "yuengling-wants-bud-light-fallout-163752725.html",
-          "author": null,
-          "description": "Only its \"fair share.\"",
-          "link": "https://finance.yahoo.com/news/yuengling-wants-bud-light-fallout-163752725.html",
-          "publishedOn": "2023-10-16T16:37:52.000Z",
-          "wordCount": 9754,
-          "title": "Yuengling Wants in on Bud Light Fallout",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/svGKZA4IF60GiB8bTcQ9dA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ien_820/fb9a461e74869c2b3f97793f85f0ce01"
-        },
-        {
-          "id": "gasoline-margins-dip-negative-us-163730087.html",
-          "author": null,
-          "description": "(Bloomberg) -- Gasoline is so weak in the US that some refiners are losing money making it. Most Read from BloombergIsrael Latest: Army Says Hamas Officials Dead; Over 600,000 in Gaza Flee SouthUS Pushes to Contain Israel-Hamas War, Warns Iran About EscalationIsrael Latest: Biden Weighs Trip, Shekel Drops Past 4 Per DollarXi’s $1 Trillion ‘Project of the Century’ Gets a Reality CheckStocks Rise Amid Efforts to Stifle Israel Conflict: Markets WrapWhile benchmark futures reflect gasoline margins t",
-          "link": "https://finance.yahoo.com/news/gasoline-margins-dip-negative-us-163730087.html",
-          "publishedOn": "2023-10-16T16:37:30.000Z",
-          "wordCount": 10027,
-          "title": "Gasoline Margins Dip Into Negative in US With Fuel Weakness Mounting",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/d1c76faea58a94e72532bbc8ba00ac87"
-        },
-        {
-          "id": "ARGUS_3629_AnalystReport_1697474178000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_3629_AnalystReport_1697474178000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2023-10-16T16:36:18.000Z",
-          "wordCount": null,
-          "title": "Analyst Report: PNC Financial Services Group",
-          "imageUrl": null
-        },
-        {
-          "id": "ARGUS_2802_AnalystReport_1697474178000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_2802_AnalystReport_1697474178000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2023-10-16T16:36:18.000Z",
-          "wordCount": null,
-          "title": "Analyst Report: Citigroup Inc",
-          "imageUrl": null
-        },
-        {
-          "id": "schwab-stock-slips-on-lower-profit-revenue-paSjGbltgfjsnWhF0Glq?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Shares of Charles Schwab rose about 5%, making them the best performers in the S&P 500, after the brokerage giant said bank deposit outflows were slowing.\nThe bank had about $284 billion in deposits at the end of the third quarter, down 7% from the previous quarter.\n\nCompared with a year earlier, S",
-          "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-10-16-2023/card/schwab-stock-slips-on-lower-profit-revenue-paSjGbltgfjsnWhF0Glq?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-10-16T16:35:59.000Z",
-          "wordCount": 6913,
-          "title": "Schwab Stock Rises Despite Profit Drop",
-          "imageUrl": "https://images.wsj.net/im-869150/social"
-        },
-        {
-          "id": "ARGUS_37986_MarketUpdate_1697473278000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_37986_MarketUpdate_1697473278000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2023-10-16T16:21:18.000Z",
-          "wordCount": null,
-          "title": "Market Update: C, PNC",
-          "imageUrl": null
-        },
-        {
-          "id": "ford-executive-chairman-calls-for-end-to-uaw-strike-c6d0b91f?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Bill Ford, the great-grandson of company founder Henry Ford, said the strike and escalating contract battle with the union are threatening the industry’s future.",
-          "link": "https://www.wsj.com/business/autos/ford-executive-chairman-calls-for-end-to-uaw-strike-c6d0b91f?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-10-16T16:21:00.000Z",
-          "wordCount": 8777,
-          "title": "Ford Executive Chairman Calls for End to UAW Strike",
-          "imageUrl": "https://images.wsj.net/im-869291/social"
-        },
-        {
-          "id": "banker-got-double-trouble-claiming-161813537.html",
-          "author": null,
-          "description": "A financial analyst who was fired by Citibank after claiming a two-sandwich lunch on expenses has lost a legal battle for wrongful dismissal.  A British judge has ruled that the bank was entitled to sack Szabolcs Fekete for gross misconduct because he lied when he claimed to have consumed two sandwiches, two coffees and two pasta dishes during a work trip, when he had really shared them with his partner.  When the company queried his expenses for a July 2022 business trip to Amsterdam, Fekete emailed: “I was on the business trip by myself and that I had 2 coffees as they were very small.”",
-          "link": "https://finance.yahoo.com/news/banker-got-double-trouble-claiming-161813537.html",
-          "publishedOn": "2023-10-16T16:18:13.000Z",
-          "wordCount": 9520,
-          "title": "Banker who got into double trouble for claiming 2 meals on expenses loses UK lawsuit over firing",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Ddq.6hEFXMSEy8e3f5XVFQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/3715926b9034d2acedf300beb78886fa"
         }
       ]
     }
