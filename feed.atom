@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-18T19:09:11.557Z</updated>
+    <updated>2023-11-18T20:12:06.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -36,10 +36,29 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[OpenAI boots Altman, Microsoft left holding the bag as co-founder quits in solidarity]]></title>
+        <id>openai-boots-altman-microsoft-left-165252427.html</id>
+        <link href="https://finance.yahoo.com/news/openai-boots-altman-microsoft-left-165252427.html"/>
+        <updated>2023-11-18T16:52:52.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is standing by the OpenAI and its new head executive Mira Murati after the abrupt termination of co-founder and former CEO Sam Altman.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Some (Potential) Bad News: You Could Have to Pay Taxes on Catch-Up Contributions if You Make Over $145K]]></title>
         <id>earn-over-145k-may-pay-100024185.html</id>
         <link href="https://finance.yahoo.com/news/earn-over-145k-may-pay-100024185.html"/>
         <updated>2023-11-18T16:51:19.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bond Yields Are High and Prices Are Falling: What Does It Mean for Your Portfolio?]]></title>
+        <id>bond-yields-high-prices-falling-110000160.html</id>
+        <link href="https://finance.yahoo.com/news/bond-yields-high-prices-falling-110000160.html"/>
+        <updated>2023-11-18T16:41:45.000Z</updated>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -43161,16 +43180,6 @@ Huntington Bancshares: Profit fell 8% from a year e]]></summary>
         <summary type="html"><![CDATA[Nederlanders gooiden in 2022 minder afval weg dan een jaar eerder. Vorig jaar zamelden gemeenten gemiddeld 455 kilo huishoudelijk afval per inwoner in. Dat is 48 kilo minder dan in 2021. Gemeenten haalden in totaal 8 miljard kilo huishoudelijk afval op.]]></summary>
         <author>
             <name>onze nieuwsredactie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC drops all charges against Ripple’s CEO Garlinghouse and co-founder Larsen]]></title>
-        <id>sec-drops-charges-against-ripple-071739265.html</id>
-        <link href="https://finance.yahoo.com/news/sec-drops-charges-against-ripple-071739265.html"/>
-        <updated>2023-10-20T07:17:39.000Z</updated>
-        <summary type="html"><![CDATA[The XRP token rose over 6% on the day after the SEC dismissed the charges against Ripple’s top executives.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
         </author>
     </entry>
 </feed>
