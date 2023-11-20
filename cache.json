@@ -2138,6 +2138,36 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6290474/",
+          "author": "onze economieredactie",
+          "description": "De rechtbank Den Haag buigt zich vandaag over de vraag of de coronasteun eerlijk is verdeeld over werknemers in loondienst en zzp'ers. De Werkvereniging vindt van niet en heeft daarom de Staat gedagvaard.",
+          "link": "https://www.nu.nl/economie/6290474/rechter-bekijkt-of-zzpers-tijdens-pandemie-genoeg-coronasteun-hebben-gekregen.html",
+          "publishedOn": "2023-11-20T08:54:14.000Z",
+          "wordCount": 2616,
+          "title": "Rechter bekijkt of zzp'ers tijdens pandemie genoeg coronasteun hebben gekregen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/hcxx6xiabicy_sqr256.jpg/rechter-bekijkt-of-zzpers-tijdens-pandemie-genoeg-coronasteun-hebben-gekregen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/hcxx6xiabicy_sqr256.jpg/rechter-bekijkt-of-zzpers-tijdens-pandemie-genoeg-coronasteun-hebben-gekregen.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6290471/",
+          "author": "onze techredactie",
+          "description": "Sam Altman, die vrijdag werd ontslagen als directeur bij OpenAI, heeft alweer een nieuwe baan. Hij gaat aan de slag bij Microsoft en krijgt daar de leiding over een team dat zich bezighoudt met kunstmatige intelligentie.",
+          "link": "https://www.nu.nl/tech/6290471/ontslagen-openai-topman-sam-altman-gaat-aan-de-slag-bij-microsoft.html",
+          "publishedOn": "2023-11-20T08:32:48.000Z",
+          "wordCount": 2505,
+          "title": "Ontslagen OpenAI-topman Sam Altman gaat aan de slag bij Microsoft",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/84txqxsaphrl_sqr256.jpg/ontslagen-openai-topman-sam-altman-gaat-aan-de-slag-bij-microsoft.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/84txqxsaphrl_sqr256.jpg/ontslagen-openai-topman-sam-altman-gaat-aan-de-slag-bij-microsoft.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6290462/",
           "author": "José Boon",
           "description": "Eneco heeft plannen om een groenewaterstoffabriek van zo'n twintig voetbalvelden groot te bouwen in het havengebied van Rotterdam. De nieuwe fabriek, waarvoor Eneco samenwerkt met het Japanse moederbedrijf Mitsubishi, moet groene waterstof gaan leveren aan industriële klanten.",
@@ -27553,21 +27583,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/cXBgm609-b_HOR5mmK9ih2_CavE=/380x254/87690247-5bfc389746e0fb005148774f.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/basics/09/compare-investing-gambling.asp",
-          "author": "Stephan A. Abraham",
-          "description": "Investing and gambling both involve risk and choice—specifically, the risk of capital with hopes of future profit. But the odds are against gamblers from the start and usually increase over time, while investors can mitigate risk and usually profit in the long-term.",
-          "link": "https://www.investopedia.com/articles/basics/09/compare-investing-gambling.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-10-21T21:06:55.000Z",
-          "wordCount": 8054,
-          "title": "Going All-In: Investing vs. Gambling",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ckrp48oXUtSloRHRamWP8KuBMUc=/285x260/financial-theory-lrg-2-5bfc2b2346e0fb0051199f32.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ckrp48oXUtSloRHRamWP8KuBMUc=/285x260/financial-theory-lrg-2-5bfc2b2346e0fb0051199f32.jpg"
         }
       ]
     },
@@ -27576,6 +27591,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "openai-board-taps-former-twitch-052042167.html",
+          "author": null,
+          "description": "(Bloomberg) -- OpenAI’s board hired Emmett Shear, formerly of Twitch, as chief executive officer, defying calls from investors to reinstate the ousted Sam Altman, according to people familiar with the matter. Most Read from BloombergOpenAI Leaders' Efforts to Bring Back Altman Reach Impasse Over Board RoleOpenAI Board Urged by Microsoft, Investors to Restore AltmanThe Doomed Mission Behind Sam Altman's Shock Ouster From OpenAIAltman Sought Billions For Chip Venture Before OpenAI OusterArgentina",
+          "link": "https://finance.yahoo.com/news/openai-board-taps-former-twitch-052042167.html",
+          "publishedOn": "2023-11-20T08:20:07.000Z",
+          "wordCount": 9850,
+          "title": "OpenAI Taps ex-Twitch CEO to Lead as Altman Joins Microsoft",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/PrnHztRNh36rLz9Osl0Dug--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/02c6a9a5c899a576e141e64b67e473b1"
+        },
         {
           "id": "citigroup-employees-brace-layoffs-management-070556673.html",
           "author": null,
@@ -27645,6 +27670,16 @@
           "wordCount": 10200,
           "title": "Shares of Foxconn's EV unit slide 9% in market debut",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/649ae98f9e8f43eb575c7db7399958c5"
+        },
+        {
+          "id": "sec-delays-spot-bitcoin-applications-044340321.html",
+          "author": null,
+          "description": "Bitcoin enthusiasts eagerly awaiting the green light for a Bitcoin exchange-traded fund (ETF) will need to be patient.",
+          "link": "https://finance.yahoo.com/news/sec-delays-spot-bitcoin-applications-044340321.html",
+          "publishedOn": "2023-11-20T04:43:40.000Z",
+          "wordCount": 9846,
+          "title": "SEC Delays Spot Bitcoin Applications Again, BTC Retraces",
+          "imageUrl": "https://media.zenfs.com/en/coinmarketcap_783/6a9480324d57840ace9b9cffb4c76271"
         },
         {
           "id": "openai-murati-aims-hire-altman-041601336.html",
@@ -51385,36 +51420,6 @@
           "wordCount": 9556,
           "title": "Google ordered to pay $1 million to female exec who sued over gender discrimination",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/j_NB_kbybG1UoJQszmTPug--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-05/79007110-d78f-11ec-b8f5-41478c5b3682"
-        },
-        {
-          "id": "compare-investing-gambling.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Investing and gambling both involve risk and choice—specifically, the risk of capital with hopes of future profit. But the odds are against gamblers from the start and usually increase over time, while investors can mitigate risk and usually profit in the long-term.",
-          "link": "https://www.investopedia.com/articles/basics/09/compare-investing-gambling.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-10-21T21:06:55.000Z",
-          "wordCount": 8037,
-          "title": "Going All-In: Investing vs. Gambling",
-          "imageUrl": "https://www.investopedia.com/thmb/95dXhJw1rEPQHGJZdBITdPHoTQs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/financial-theory-lrg-2-5bfc2b2346e0fb0051199f32.jpg"
-        },
-        {
-          "id": "warren-buffett-shared-timeless-investment-204501981.html",
-          "author": null,
-          "description": "Warren Buffett was worth $500 million when he sat down with for his first-ever national TV interview with PBS in 1985.",
-          "link": "https://finance.yahoo.com/news/warren-buffett-shared-timeless-investment-204501981.html",
-          "publishedOn": "2023-10-21T20:45:01.000Z",
-          "wordCount": 10225,
-          "title": "Warren Buffett shared timeless investment wisdom in his first-ever national TV interview nearly 40 years ago. Here are the best 9 quotes.",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Pco29A7P0caHRK5TbMcXHQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/d3747b668ea85e552fe7963a75352818"
-        },
-        {
-          "id": "treasury-yields-surging-heres-history-203002620.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/treasury-yields-surging-heres-history-203002620.html",
-          "publishedOn": "2023-10-21T20:30:02.000Z",
-          "wordCount": null,
-          "title": "Treasury yields are surging. Here's what history says might come next for the bond market.",
-          "imageUrl": null
         }
       ]
     }
