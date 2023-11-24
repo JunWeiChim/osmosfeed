@@ -8151,21 +8151,6 @@
             "url": "https://media.nu.nl/m/23rxjy9axeto_sqr256.jpg/hybride-werken-lijkt-volgens-tno-ook-na-corona-een-blijvertje.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/23rxjy9axeto_sqr256.jpg/hybride-werken-lijkt-volgens-tno-ook-na-corona-een-blijvertje.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6286307/",
-          "author": "Nick Augusteijn",
-          "description": "De Turkse economie zit al tijden in zwaar weer. Critici wijzen naar de invloed van president Recep Tayyip Erdogan als belangrijkste oorzaak. Wat is er veranderd sinds zijn verkiezingswinst in mei? Is er licht aan het einde van de tunnel?",
-          "link": "https://www.nu.nl/economie/6286307/turkije-neemt-afscheid-van-erdoganomics-maar-herstel-gaat-moeizaam.html",
-          "publishedOn": "2023-10-26T03:36:25.000Z",
-          "wordCount": 3002,
-          "title": "NU+ | Turkije neemt afscheid van 'Erdoganomics', maar herstel gaat moeizaam",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/pxsxys0a6x4q_sqr256.jpg/turkije-neemt-afscheid-van-erdoganomics-maar-herstel-gaat-moeizaam.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/pxsxys0a6x4q_sqr256.jpg/turkije-neemt-afscheid-van-erdoganomics-maar-herstel-gaat-moeizaam.jpg"
         }
       ]
     },
@@ -8174,6 +8159,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/electric-vehicle-ev-tax-credit-definition-5200911",
+          "author": "Jennifer Cook",
+          "description": "Form 8936: Qualified Plug-in Electric Drive Motor Vehicle Credit is an IRS form for owners and manufacturers of certain new electric motor vehicles.",
+          "link": "https://www.investopedia.com/electric-vehicle-ev-tax-credit-definition-5200911?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-24T16:00:09.000Z",
+          "wordCount": 8240,
+          "title": "What Is Form 8936: Plug-in Electric Drive Motor Vehicle Credit?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/qJb-7Gqvu9RwOFr3hxPlyZLSe4c=/2394x1252/car-charging-at-electric-vehicle-station-1316428504-d9dfb89a0f8a4873b7dc0284646bea41.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/qJb-7Gqvu9RwOFr3hxPlyZLSe4c=/2394x1252/car-charging-at-electric-vehicle-station-1316428504-d9dfb89a0f8a4873b7dc0284646bea41.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/personal-finance/082514/purpose-1099-forms.asp",
           "author": "Amy Fontinelle",
@@ -26437,6 +26437,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/research/ibd-stock-analysis/google-stock-is-alphabet-a-buy-now-ask-google-bard/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-11-24T15:10:55.000Z",
+          "wordCount": null,
+          "title": "Let's Ask Bard: Is Google Stock A Buy Now?",
+          "imageUrl": null
+        },
+        {
+          "id": "warren-buffetts-berkshire-hathaway-exits-143637870.html",
+          "author": null,
+          "description": "Berkshire Hathaway sold its shares in the Paytm-parent firm One97 Communications Friday, booking a loss of about 40% on the investment it made more than five years ago.  The investment giant -- which sold a stake worth $36 million in Paytm in 2021, at a profit -- sold its remainder position on Friday for $121.6 million, according to disclosure by the local Indian stock exchange.  Berkshire secured a return of $157 million on its ~$260 million investment in Paytm.",
+          "link": "https://finance.yahoo.com/news/warren-buffetts-berkshire-hathaway-exits-143637870.html",
+          "publishedOn": "2023-11-24T14:36:37.000Z",
+          "wordCount": 10068,
+          "title": "Warren Buffett's Berkshire Hathaway exits Paytm at a 40% loss",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/3fGryWI.8yUdQ2zbTPWSXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://media.zenfs.com/en/techcrunch_350/273eec066824c84e0ddd911f5317514e"
+        },
+        {
           "id": "stock-market-news-today-us-stocks-tread-water-on-shortened-trading-day-121513185.html",
           "author": null,
           "description": "Stocks teetered on both sides of the lat line amid a holiday-shortened session ahead.",
@@ -26494,6 +26514,16 @@
           "publishedOn": "2023-11-24T13:38:36.000Z",
           "wordCount": null,
           "title": "Technical Assessment: Neutral in the Intermediate-Term",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/cryptocurrency-prices-news/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-11-24T13:35:02.000Z",
+          "wordCount": null,
+          "title": "Cryptocurrency Prices And News: Bitcoin Price Heads For 19-Month High; Binance Settles With DOJ For $4.3 Billion",
           "imageUrl": null
         },
         {
@@ -49995,16 +50025,6 @@
           "wordCount": 7852,
           "title": "Mercedes-Benz 3Q Net Profit, Revenue Drop on Lower Demand, Currency Effects",
           "imageUrl": "https://images.wsj.net/im-875707/social"
-        },
-        {
-          "id": "xi-jinping-is-looking-for-someone-to-blame-for-chinas-property-bust-fca6726f?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "On the prowl for villains, Beijing expands real-estate probe to financial institutions.",
-          "link": "https://www.wsj.com/world/china/xi-jinping-is-looking-for-someone-to-blame-for-chinas-property-bust-fca6726f?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-10-26T04:05:00.000Z",
-          "wordCount": 9069,
-          "title": "Xi Jinping Is Looking for Someone to Blame for China’s Property Bust",
-          "imageUrl": "https://images.wsj.net/im-874514/social"
         }
       ]
     }
