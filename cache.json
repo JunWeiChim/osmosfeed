@@ -7801,36 +7801,6 @@
             "url": "https://media.nu.nl/m/gfoxlfva43o4_sqr256.jpg/mediamarkt-wil-acht-winkels-overnemen-van-failliet-bcc.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/gfoxlfva43o4_sqr256.jpg/mediamarkt-wil-acht-winkels-overnemen-van-failliet-bcc.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6287096/",
-          "author": "onze economieredactie",
-          "description": "De verkoop van nieuwe bestelbusjes is flink aangetrokken. De afgelopen negen maanden zijn er in Nederland bijna 54.000 exemplaren verkocht, ruim 20 procent meer dan een jaar eerder.",
-          "link": "https://www.nu.nl/economie/6287096/bestelbusjes-flink-in-trek-verkoop-met-ruim-20-procent-toegenomen.html",
-          "publishedOn": "2023-10-27T10:03:13.000Z",
-          "wordCount": 2580,
-          "title": "Bestelbusjes flink in trek: verkoop met ruim 20 procent toegenomen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/lpmx99sab5ub_sqr256.jpg/bestelbusjes-flink-in-trek-verkoop-met-ruim-20-procent-toegenomen.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/lpmx99sab5ub_sqr256.jpg/bestelbusjes-flink-in-trek-verkoop-met-ruim-20-procent-toegenomen.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6287093/",
-          "author": "onze economieredactie",
-          "description": "Een Indonesisch passagiersvliegtuig heeft vrijdag voor het eerst op een brandstofmengsel van kerosine en palmolie gevlogen. Indonesië is de grootste palmolieproducent ter wereld en wil fossiele brandstoffen vaker gaan vervangen door biobrandstof.",
-          "link": "https://www.nu.nl/economie/6287093/indonesisch-vliegtuig-maakt-eerste-passagiersvlucht-op-kerosine-met-palmolie.html",
-          "publishedOn": "2023-10-27T09:54:59.000Z",
-          "wordCount": 2439,
-          "title": "Indonesisch vliegtuig maakt eerste passagiersvlucht op kerosine met palmolie",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/r7dx0g6ajowb_sqr256.jpg/indonesisch-vliegtuig-maakt-eerste-passagiersvlucht-op-kerosine-met-palmolie.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/r7dx0g6ajowb_sqr256.jpg/indonesisch-vliegtuig-maakt-eerste-passagiersvlucht-op-kerosine-met-palmolie.jpg"
         }
       ]
     },
@@ -7839,6 +7809,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/f/foreign-tax-credit.asp",
+          "author": "Julia Kagan",
+          "description": "U.S. citizens and resident aliens with foreign income can claim the foreign tax credit to offset income taxes paid abroad and limit double taxation.",
+          "link": "https://www.investopedia.com/terms/f/foreign-tax-credit.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-25T21:55:03.000Z",
+          "wordCount": 8002,
+          "title": "Foreign Tax Credit: Definition, How It Works, Who Can Claim It",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/IloWm5k4LpT4BE5lvFG73V6OgtM=/2057x1457/ForeignTaxCredit-09de1c6f41f14af19ef0117fc9739d61.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/IloWm5k4LpT4BE5lvFG73V6OgtM=/2057x1457/ForeignTaxCredit-09de1c6f41f14af19ef0117fc9739d61.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/f/fulltimestudent.asp",
+          "author": "Julia Kagan",
+          "description": "A full-time student is a legal tax status important for determining exemptions. Learn how your status as a full-time student impacts college financial aid.",
+          "link": "https://www.investopedia.com/terms/f/fulltimestudent.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-25T21:13:07.000Z",
+          "wordCount": 7971,
+          "title": "What Is Considered a Full-Time Student? Hours Defined",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/EE86qLorNuob9t_1vAnKQkh_vWI=/680x440/101405194-5bfc2b8c46e0fb0051bddfc9.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/EE86qLorNuob9t_1vAnKQkh_vWI=/680x440/101405194-5bfc2b8c46e0fb0051bddfc9.jpg"
+        },
         {
           "id": "https://www.investopedia.com/ask/answers/102714/when-are-simplified-employee-pension-sep-ira-contributions-due.asp",
           "author": "The Investopedia Team",
@@ -25945,6 +25945,16 @@
           "wordCount": null,
           "title": "Google Leads Five S&P 500 Stocks Near Buy Points",
           "imageUrl": null
+        },
+        {
+          "id": "buy-not-buy-bofa-reveals-120000798.html",
+          "author": null,
+          "description": "Homebuyers have been suffering the slings and arrows of outrageous fortune of late.",
+          "link": "https://finance.yahoo.com/news/buy-not-buy-bofa-reveals-120000798.html",
+          "publishedOn": "2023-11-25T12:00:00.000Z",
+          "wordCount": 10446,
+          "title": "‘To buy or not to buy, that is the question’: BofA reveals rent is cheaper than mortgages in all but two of 97 major metros",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/SBkpRk8MrM_dMI9ep_Z63w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODY-/https://media.zenfs.com/en/fortune_175/31d1accfd142ff1e8ad1f4c8f9ad66f6"
         },
         {
           "id": "one-investing-most-reliable-highly-120000216.html",
@@ -48945,36 +48955,6 @@
           "wordCount": 9658,
           "title": "Chevron's third-quarter profit slumps, shares fall on earnings miss",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/0a1bbd26a64df198545469121ebaf5e4"
-        },
-        {
-          "id": "sam-bankman-fried-jury-hear-100330755.html",
-          "author": null,
-          "description": "Sam Bankman-Fried is expected to take the stand on Friday at his fraud trial in New York on charges of looting billions of dollars in customer funds from his now-bankrupt FTX cryptocurrency exchange.  Bankman-Fried started testifying on Wednesday at an unusual hearing outside the jury's presence.  U.S. District Judge Lewis Kaplan asked him to preview his testimony about the involvement of lawyers in key decisions at the heart of the case so he could decide whether it was admissible as evidence.",
-          "link": "https://finance.yahoo.com/news/sam-bankman-fried-jury-hear-100330755.html",
-          "publishedOn": "2023-10-27T10:03:30.000Z",
-          "wordCount": 9794,
-          "title": "Sam Bankman-Fried acknowledges 'mistakes' but testifies he did not defraud anyone",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/d997efd98d4d86a18938cbd7be561be4"
-        },
-        {
-          "id": "futures-gain-amazon-intel-boost-093926486.html",
-          "author": null,
-          "description": "Intel gained 7.9% after forecasting fourth-quarter revenue and margins above estimates as the chipmaker was optimistic about a rebound in personal computer sales, improved data center business and demand for manufacturing services.  Megacap tech and tech-adjacent stocks including Microsoft, Meta Platforms, Tesla and Alphabet gained between 0.7% and 2.1% as U.S. Treasury yields dropped after Thursday's weaker-than-expected U.S. inflation and disposable income data.  Investor focus will be on personal consumption expenditure for September, the Federal Reserve's preferred inflation metric, at 8:30 a.m. ET for more clarity on the monetary policy outlook.",
-          "link": "https://finance.yahoo.com/news/futures-gain-amazon-intel-boost-093926486.html",
-          "publishedOn": "2023-10-27T09:39:26.000Z",
-          "wordCount": 10044,
-          "title": "Futures gain on Amazon, Intel boost; key inflation data awaited",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/985fd41822551f20099a87a29167ea1f"
-        },
-        {
-          "id": "never-mind-the-1-mini-millionaires-are-where-wealth-is-growing-fastest-b1dd2ee7?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Many people in the upper middle class are now millionaires thanks to college, savings, bull markets and timing.",
-          "link": "https://www.wsj.com/us-news/never-mind-the-1-mini-millionaires-are-where-wealth-is-growing-fastest-b1dd2ee7?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-10-27T09:30:00.000Z",
-          "wordCount": 8227,
-          "title": "Never Mind the 1%. Mini-Millionaires Are Where Wealth Is Growing Fastest.",
-          "imageUrl": "https://images.wsj.net/im-876220/social"
         }
       ]
     }
