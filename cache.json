@@ -711,6 +711,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "f7ecff09a747379aa893577814dfb788",
+          "author": "Investopedia",
+          "description": "Stock futures fell in premarket trading Monday as bond yields slipped at the start of the last week of what is shaping up to be equities' best month of the year.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c2150e9167d768e3c10f73108b3dc26186",
+          "publishedOn": "2023-11-27T14:12:14.793Z",
+          "wordCount": 409,
+          "title": "Dow Jones Today: Stock Futures, Treasury Yields Dip To Start the Week",
+          "imageUrl": null
+        },
+        {
           "id": "49f864c5eabba8ef0f2732d35cfeae49",
           "author": "Investopedia",
           "description": "Amazon and Walmart prepare for Cyber Monday ahead of projections for record spending on the shopping holiday and Disney shares fell after its film “Wish” fared poorly during the Thanksgiving box office weekend. Here’s what investors need to know today.",
@@ -1787,6 +1797,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6291532/",
+          "author": "Hanna Ozinga",
+          "description": "De Verenigde Naties hebben opheldering gevraagd aan de Nederlandse overheid in het pfas-schandaal rondom Chemours. Afvalwater wordt vanuit de fabriek in Dordrecht naar een Chemours-vestiging in de Amerikaanse staat North Carolina verscheept, waar het de gezondheid van de bevolking zou schaden.",
+          "link": "https://www.nu.nl/economie/6291532/chemours-afval-uit-nederland-bedreigt-gezondheid-in-vs-vn-eist-verklaring.html",
+          "publishedOn": "2023-11-27T13:35:44.000Z",
+          "wordCount": 2827,
+          "title": "Chemours-afval uit Nederland bedreigt gezondheid in VS: VN eist verklaring",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/lkxx78xa9vro_sqr256.jpg/chemours-afval-uit-nederland-bedreigt-gezondheid-in-vs-vn-eist-verklaring.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/lkxx78xa9vro_sqr256.jpg/chemours-afval-uit-nederland-bedreigt-gezondheid-in-vs-vn-eist-verklaring.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6291478/",
           "author": "onze nieuwsredactie",
@@ -25073,21 +25098,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/6pt6VALavABxSsU9sVpBXT5RMpY=/680x440/147323400-5bfc2b8c4cedfd0026c11901.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/can-cds-bypass-probate-5272180",
-          "author": "Matt Ryan Webber",
-          "description": "Naming a beneficiary to your accounts, including any CDs, will allow your heirs to avoid any delays that the probate process can cause.",
-          "link": "https://www.investopedia.com/can-cds-bypass-probate-5272180?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-10-29T01:19:43.000Z",
-          "wordCount": 6604,
-          "title": "Can You Bypass Probate With CDs?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/UwY6Vs4Qw98NB-z5IGvock4B41A=/2124x1412/GettyImages-471722887-b109ce86079b4a6db93483e87bfc935b.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/UwY6Vs4Qw98NB-z5IGvock4B41A=/2124x1412/GettyImages-471722887-b109ce86079b4a6db93483e87bfc935b.jpg"
         }
       ]
     },
@@ -25096,6 +25106,56 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-on-weak-china-data-best-stocks-to-buy-and-watch/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-11-27T13:10:07.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Fall On Weak China Data; 6 Best Stocks To Buy And Watch",
+          "imageUrl": null
+        },
+        {
+          "id": "1-activist-investor-elliott-pushes-130616803.html",
+          "author": null,
+          "description": "Activist investor Elliott Investment Management is seeking new executive and board changes at Crown Castle in a letter released on Monday, after disclosing a $2 billion stake in the real estate investment trust.  Shares of Crown Castle were up more than 5% premarket.  \"Crown Castle suffers from a profound lack of oversight by the Board, which has contributed to its irresponsible stewardship and flawed financial policy,\" Elliott said in the letter.",
+          "link": "https://finance.yahoo.com/news/1-activist-investor-elliott-pushes-130616803.html",
+          "publishedOn": "2023-11-27T13:06:16.000Z",
+          "wordCount": 10091,
+          "title": "UPDATE 1-Activist investor Elliott pushes for changes at Crown Castle",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-heres-who-owns-amazon-com-now-that-jeff-bezos-dumps-his-stock/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-11-27T13:00:54.000Z",
+          "wordCount": null,
+          "title": "Who Owns Amazon.com Now That Jeff Bezos Dumps His Stock?",
+          "imageUrl": null
+        },
+        {
+          "id": "foot-locker-stock-downgrade-sell-9af3eba2?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Citi sees multiple reasons for caution, including the retailer's relationship with Nike, after Foot Locker stock passed analysts' price targets.",
+          "link": "https://www.barrons.com/articles/foot-locker-stock-downgrade-sell-9af3eba2?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-11-27T12:55:00.000Z",
+          "wordCount": 6819,
+          "title": "Foot Locker Stock Tumbles After Citi Downgrades to Sell. Why It Got the Boot.",
+          "imageUrl": "https://images.barrons.com/im-513267/social"
+        },
+        {
+          "id": "tesla-sues-swedish-agency-striking-124735097.html",
+          "author": null,
+          "description": "Tesla has filed a lawsuit against the Swedish Transport Agency as striking workers in the Scandinavian country halted the delivery of license plates of new vehicles manufactured by the Texas-based automaker, reported Sweden’s Dagens Industri on Monday.  Mikael Andersson, a press spokesman for the agency, told local broadcaster SVT that the lawsuit was filed early morning “so we have not seen it yet.”  Leading business paper Dagens Industri reported that Tesla — which is non-unionized globally — was suing the government agency because not accessing the registration plates “constitutes an unlawful discriminatory attack directed at Tesla.”",
+          "link": "https://finance.yahoo.com/news/tesla-sues-swedish-agency-striking-124735097.html",
+          "publishedOn": "2023-11-27T12:47:35.000Z",
+          "wordCount": 10354,
+          "title": "Tesla sues Swedish agency as striking workers halt delivery of license plates of its new vehicles",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/D8BCkTrajlF0z8HyRrQKKA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDk-/https://media.zenfs.com/en/ap_finance_articles_694/4ef1952680376a203f6f2eff0f58bb37"
+        },
         {
           "id": "stock-market-news-today-us-futures-stall-but-stocks-still-head-for-blowout-month-123520781.html",
           "author": null,
@@ -25107,6 +25167,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ezCa71xEtXXs56eVP_ALtQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/e3d3dda0-7a96-11ee-b9a6-69d142aeb22f"
         },
         {
+          "id": "ARGUS_38375_StockPicks_1701087393000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_38375_StockPicks_1701087393000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-11-27T12:16:33.000Z",
+          "wordCount": null,
+          "title": "Weekly Stock List",
+          "imageUrl": null
+        },
+        {
           "id": "ask-advisor-advisor-sold-nvidia-120000769.html",
           "author": null,
           "description": "I’ve had a financial advisor, who is a certified financial planner (CFP), since December of last year. I really find his advice super valuable, but I can't seem to get over the fact that he sold all of my Nvidia stock when he took over as my CFP. I had bought $20,000 worth of Nvidia […] The post Ask an Advisor: My Advisor Sold My Nvidia Stock When I Hired Him, Costing Me $50k in Potential Profits. How Do I Deal With It? appeared first on SmartReads by SmartAsset.",
@@ -25115,6 +25185,46 @@
           "wordCount": 11461,
           "title": "Ask an Advisor: My Advisor Sold My Nvidia Stock When I Hired Him, Costing Me $50k in Potential Profits. How Do I Deal With It?",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/xcgYNn5AaIHaorNYulHTcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05NDA-/https://media.zenfs.com/en/smartasset_475/70989bbebe0ccc6422fecc4e505ae18c"
+        },
+        {
+          "id": "ARGUS_38372_MarketOutlook_1701086121000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_38372_MarketOutlook_1701086121000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-11-27T11:55:21.000Z",
+          "wordCount": null,
+          "title": "Daily Spotlight: ESG Investing Continues to Grow.",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_38371_TechnicalAnalysis_1701086098000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_38371_TechnicalAnalysis_1701086098000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-11-27T11:54:58.000Z",
+          "wordCount": null,
+          "title": "Technical Assessment: Neutral in the Intermediate-Term",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_38369_InsiderActivity_1701085943000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_38369_InsiderActivity_1701085943000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-11-27T11:52:23.000Z",
+          "wordCount": null,
+          "title": "Daily – Vickers Top Insider Picks for 11/27/2023",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_38370_TopBottomInsiderActivity_1701085943000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_38370_TopBottomInsiderActivity_1701085943000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-11-27T11:52:23.000Z",
+          "wordCount": null,
+          "title": "Daily – Vickers Top Buyers & Sellers for 11/27/2023",
+          "imageUrl": null
         },
         {
           "id": "the-worlds-largest-buyer-of-u-s-debt-isnt-going-away-3b70afd3?siteid=yhoof2&yptr=yahoo",
@@ -25175,6 +25285,16 @@
           "wordCount": 10872,
           "title": "Billions Wiped Out as Stock-Safety Trade on Wall Street Misfires",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/YSOyC.J4ipWjKZApl4ja7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODE-/https://media.zenfs.com/en/bloomberg_markets_842/a9a9b25e96d6d4b187213d80d107fab2"
+        },
+        {
+          "id": "openai-board-might-dysfunctional-made-105429320.html",
+          "author": null,
+          "description": "OpenAI employees may not like the board’s retort that allowing the company to be destroyed would be consistent with the mission–but they saw it this way.",
+          "link": "https://finance.yahoo.com/news/openai-board-might-dysfunctional-made-105429320.html",
+          "publishedOn": "2023-11-27T10:54:29.000Z",
+          "wordCount": 11255,
+          "title": "OpenAI’s board might have been dysfunctional–but they made the right choice. Their defeat shows that in the battle between AI profits and ethics, it’s no contest",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/gUBd89ugx_kNJJ7.6IGTVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDA-/https://media.zenfs.com/en/fortune_175/46cb7d7fb18391590823830ca417c64a"
         },
         {
           "id": "stocks-to-watch-monday-crown-castle-nvidia-zscaler-Vhc0L00d4E7w14VvJ9Gg?siteid=yhoof2&yptr=yahoo",
@@ -47925,16 +48045,6 @@
           "wordCount": 6901,
           "title": "‘Buy the Dip’ Investing Mantra Lives On—in the Bond Market at Least",
           "imageUrl": "https://images.wsj.net/im-876485/social"
-        },
-        {
-          "id": "heres-3-reasons-why-wall-203001474.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/heres-3-reasons-why-wall-203001474.html",
-          "publishedOn": "2023-10-29T01:36:05.000Z",
-          "wordCount": null,
-          "title": "3 reasons why Wall Street giants say investors should pay attention to Treasurys as yields soar",
-          "imageUrl": null
         }
       ]
     }
