@@ -1778,6 +1778,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6291478/",
+          "author": "onze nieuwsredactie",
+          "description": "De Amerikaanse president Joe Biden komt niet naar de klimaattop die donderdag begint in Dubai. Klimaatgezant John Kerry zal wel aanwezig zijn op de COP28. Waarom Biden niet gaat, is niet bekend.",
+          "link": "https://www.nu.nl/klimaat/6291478/amerikaanse-president-biden-grote-afwezige-op-belangrijke-klimaattop-dubai.html",
+          "publishedOn": "2023-11-27T11:31:17.000Z",
+          "wordCount": 2487,
+          "title": "Amerikaanse president Biden grote afwezige op belangrijke klimaattop Dubai",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/cb4xzzaast94_sqr256.jpg/amerikaanse-president-biden-grote-afwezige-op-belangrijke-klimaattop-dubai.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/cb4xzzaast94_sqr256.jpg/amerikaanse-president-biden-grote-afwezige-op-belangrijke-klimaattop-dubai.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6291525/",
           "author": "Tom van Gurp",
           "description": "BpfBOUW verhoogt komend jaar de pensioenen niet. Dit komt doordat uit cijfers van statistiekbureau CBS zou blijken dat afgelopen jaar de gemiddelde prijzen niet omhoog zijn gegaan.",
@@ -25048,21 +25063,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/lc854dhgFHMkaWhEIfwfGxAde7o=/680x440/thinkstockphotos-83121909-5bfc348746e0fb0051bf8580.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/investments-an-important-income-source-for-people-with-disabilities-5097365",
-          "author": "Jean Folger",
-          "description": "If you receive Social Security disability benefits, there’s a limit on how much income you can earn from working but none on passive income from investments.",
-          "link": "https://www.investopedia.com/investments-an-important-income-source-for-people-with-disabilities-5097365?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-10-29T00:10:03.000Z",
-          "wordCount": 7953,
-          "title": "Investments: An Important Income Source for People with Disabilities",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/-3P7Tbgl2D8Vu-JE97nbefX_9yw=/2121x1414/GettyImages-1210334143-434e26af7f16413e8495f017dd20f156.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/-3P7Tbgl2D8Vu-JE97nbefX_9yw=/2121x1414/GettyImages-1210334143-434e26af7f16413e8495f017dd20f156.jpg"
         }
       ]
     },
@@ -25071,6 +25071,46 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "wall-st-futures-edge-lower-112342735.html",
+          "author": null,
+          "description": "Wall Street ended the Thanksgiving week on a positive note, with the major indexes notching up their fourth consecutive week of gains on growing optimism that the Federal Reserve was likely done hiking interest rates.  In the US, the investors will look out for the \"Beige Book\", the Fed's compendium of reports about the economy, on Wednesday.  The personal consumption expenditure index data for October - the Fed's preferred inflation gauge - is slated to be released on Thursday.",
+          "link": "https://finance.yahoo.com/news/wall-st-futures-edge-lower-112342735.html",
+          "publishedOn": "2023-11-27T11:23:42.000Z",
+          "wordCount": 10306,
+          "title": "Wall St futures edge lower as investor await data, policy cues",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/f4687f2953775b1ffff8db048a1349af"
+        },
+        {
+          "id": "tesla-sues-sweden-over-blocked-111120447.html",
+          "author": null,
+          "description": "Tesla has filed a lawsuit against the Swedish government's Transport Agency over a workers' strike that has blocked the U.S. auto maker's requests for license plates for new vehicles, business daily Dagens Industri reported on Monday.  IF Metall, Sweden's biggest manufacturing union, is locked in a fight with Tesla to get a collective bargaining agreement for its mechanics in Sweden.  Metall put the mechanics on strike on Oct. 27, refusing to service Tesla's cars.",
+          "link": "https://finance.yahoo.com/news/tesla-sues-sweden-over-blocked-111120447.html",
+          "publishedOn": "2023-11-27T11:11:20.000Z",
+          "wordCount": 10069,
+          "title": "Tesla sues Sweden over blocked license plates, business daily DI reports",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/f069a37b331403acbdde32454a205d10"
+        },
+        {
+          "id": "americans-would-love-to-see-stocks-in-santas-bag-this-year-110025527.html",
+          "author": null,
+          "description": "With markets on a roll in recent months, a new Yahoo Finance/Ipsos poll reveals big appetite for the gift of stocks or other investments.",
+          "link": "https://finance.yahoo.com/news/americans-would-love-to-see-stocks-in-santas-bag-this-year-110025527.html",
+          "publishedOn": "2023-11-27T11:00:25.000Z",
+          "wordCount": 10594,
+          "title": "Americans would love to see stocks in Santa's bag this year",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Wl_6iLWwea26wM2HC7pApQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/3c223a80-8a35-11ee-a7fe-c43577f67058"
+        },
+        {
+          "id": "billions-wiped-stock-safety-trade-110000019.html",
+          "author": null,
+          "description": "(Bloomberg) -- Reeling from a bear market last year, beaten-up investors decided to send more than $60 billion to exchange-traded funds focusing on dividends.Most Read from BloombergRussia Downs Drones Over Moscow in Ukrainian Retaliatory StrikeChina Says Multiple Pathogens Are Behind Spike in Respiratory IllnessesSodium in Batteries: Shift May Herald Another ShakeupIsrael, Hamas Look to Extend Truce After More Hostages Are FreedMusk Tours Massacre Site With Netanyahu Amid Antisemitism FurorElev",
+          "link": "https://finance.yahoo.com/news/billions-wiped-stock-safety-trade-110000019.html",
+          "publishedOn": "2023-11-27T11:00:00.000Z",
+          "wordCount": 10872,
+          "title": "Billions Wiped Out as Stock-Safety Trade on Wall Street Misfires",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/YSOyC.J4ipWjKZApl4ja7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODE-/https://media.zenfs.com/en/bloomberg_markets_842/a9a9b25e96d6d4b187213d80d107fab2"
+        },
         {
           "id": "stocks-to-watch-monday-crown-castle-nvidia-zscaler-Vhc0L00d4E7w14VvJ9Gg?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -25090,6 +25130,26 @@
           "wordCount": 7755,
           "title": "The Biggest Delivery Business in the U.S. Is No Longer UPS or FedEx",
           "imageUrl": "https://images.wsj.net/im-890956/social"
+        },
+        {
+          "id": "stock-market-movers-6bc390fd?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Crown Castle stock rises after a report says the owner of wireless towers is the target of renewed activist attention.",
+          "link": "https://www.barrons.com/articles/stock-market-movers-6bc390fd?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-11-27T10:24:00.000Z",
+          "wordCount": 6759,
+          "title": "These Stocks Are Moving the Most Today: Crown Castle, Dish Network, iRobot, and More",
+          "imageUrl": "https://images.barrons.com/im-839139/social"
+        },
+        {
+          "id": "biden-administration-announces-massive-logistics-100000049.html",
+          "author": null,
+          "description": "The Biden administration has announced a huge plan to tackle issues plaguing the U.S. supply chain that covers several cross-government partnerships. The post Biden administration announces massive logistics plan appeared first on FreightWaves.",
+          "link": "https://finance.yahoo.com/news/biden-administration-announces-massive-logistics-100000049.html",
+          "publishedOn": "2023-11-27T10:00:00.000Z",
+          "wordCount": 10876,
+          "title": "Biden administration announces massive logistics plan",
+          "imageUrl": "https://media.zenfs.com/en/freightwaves_373/9e668d3a1b7799dbc87f4a2a2994da83"
         },
         {
           "id": "oil-price-fall-opec-0b6075dd?siteid=yhoof2&yptr=yahoo",
@@ -47820,16 +47880,6 @@
           "wordCount": 9328,
           "title": "UAW Expands Strike With GM After Reaching Tentative Agreement With Stellantis",
           "imageUrl": "https://images.wsj.net/im-877471/social"
-        },
-        {
-          "id": "world-iron-ore-powerhouse-preparing-000016695.html",
-          "author": null,
-          "description": "(Bloomberg) -- Vast heaps of crushed brown rock hem the Indian Ocean at Western Australia’s Parker Point port — each a stockpile of 200,000 tons of iron ore, ready to be poured into a procession of bulk carriers bound for Asia’s steel mills.Most Read from BloombergCanada Plans College Crackdown Amid Foreign Student TroublesIsrael Warns of ‘Long’ War as Invasion of Gaza Strip BeginsIsrael Enters ‘New Stage’ of War With Gaza Ground FightingGM Hit With More Strikes While Stellantis Reaches Deal Wit",
-          "link": "https://finance.yahoo.com/news/world-iron-ore-powerhouse-preparing-000016695.html",
-          "publishedOn": "2023-10-29T00:00:16.000Z",
-          "wordCount": 11174,
-          "title": "The World’s Iron Ore Powerhouse Is Preparing to Reinvent Itself",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Pw3yHnYiJnGqB3v1cT5DhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njc-/https://media.zenfs.com/en/bloomberg_markets_842/25f4a23b4510b8229749a359169daea8"
         }
       ]
     }
