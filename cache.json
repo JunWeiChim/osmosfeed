@@ -24,6 +24,26 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "effff5ce60e69cebf08ad9f0d3a5fb74",
+          "author": "Investopedia",
+          "description": "Amazon Inc. has unveiled its next-generation AI chip hardware while supporting Nvidia's H200 microchip. A new $20-per-month Amazon Q chatbot was also announced.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca876ac6f810ab113d879b3aaff7772e834d5cc823c831bf864d6645d226823ac59a5762c6f178b1fdea30afe98029e822ff230b8b350218521ee9fdadcb6451c0c2fbfa8e9cced34617",
+          "publishedOn": "2023-11-28T22:11:55.813Z",
+          "wordCount": 409,
+          "title": "Amazon Double-Clicks Into AI With New Chip, Nvidia Partnership",
+          "imageUrl": null
+        },
+        {
+          "id": "24278bc1eda10248107c5e692e38269d",
+          "author": "Investopedia",
+          "description": "SpringWorks Therapeutics received FDA approval for the first and only drug to treat desmoid tumors, and shares skyrocketed.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9577d5eb11a24b369a852beee632289d454fc6259131b2810f384cda7990209c811175d1e936b9f0f76dede6c32ba12da42b1f9226401e5200b0fcae94735cdadfb9abde818d9218419c53c3817f62c53e7a79c2cf04d8",
+          "publishedOn": "2023-11-28T22:11:55.713Z",
+          "wordCount": 409,
+          "title": "SpringWorks Therapeutics Shares Skyrocket on FDA Approval of Desmoid Tumor Drug",
+          "imageUrl": null
+        },
+        {
           "id": "70af94a6ca79b669840c3ff855dcf819",
           "author": "Investopedia",
           "description": "Shares of Micron Technology fell Tuesday despite improved current-quarter revenue and earnings guidance from the chipmaker that has struggled from a slowdown in chip demand in recent quarters.",
@@ -1937,6 +1957,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6291762/",
+          "author": "onze nieuwsredactie",
+          "description": "De prijs voor cacao heeft het hoogste niveau sinds 1977 bereikt. Het belangrijke ingrediënt voor chocolade is duurder geworden doordat slechte weersomstandigheden de oogst in Ivoorkust en Ghana dwarszitten.",
+          "link": "https://www.nu.nl/economie/6291762/prijs-voor-cacao-bereikt-hoogste-niveau-van-afgelopen-46-jaar.html",
+          "publishedOn": "2023-11-28T22:06:15.000Z",
+          "wordCount": 2575,
+          "title": "Prijs voor cacao bereikt hoogste niveau van afgelopen 46 jaar",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/awrxmkzahm9k_sqr256.jpg/prijs-voor-cacao-bereikt-hoogste-niveau-van-afgelopen-46-jaar.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/awrxmkzahm9k_sqr256.jpg/prijs-voor-cacao-bereikt-hoogste-niveau-van-afgelopen-46-jaar.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6291749/",
           "author": "onze nieuwsredactie",
@@ -7921,36 +7956,6 @@
             "url": "https://media.nu.nl/m/1zaxdsdahr0i_sqr256.jpg/ah-moederbedrijf-krijgt-er-met-aankoop-roemeense-keten-ruim-1600-winkels-bij.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/1zaxdsdahr0i_sqr256.jpg/ah-moederbedrijf-krijgt-er-met-aankoop-roemeense-keten-ruim-1600-winkels-bij.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6287490/",
-          "author": "Onze economieredactie",
-          "description": "Ahold Delhaize neemt de Roemeense levensmiddelenketen Profi over voor 1,3 miljard euro. Hiermee verdubbelt het moederbedrijf van onder andere Albert Heijn zijn aanwezigheid in Roemenië ruimschoots. Met het merk Mega Image was Ahold Delhaize al actief in Roemeense steden.",
-          "link": "https://www.nu.nl/economie/6287490/ah-moederbedrijf-koopt-roemeense-supermarktketen-profi.html",
-          "publishedOn": "2023-10-30T10:03:03.000Z",
-          "wordCount": 2389,
-          "title": "AH-moederbedrijf koopt Roemeense supermarktketen Profi",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/1zaxdsdahr0i_sqr256.jpg/ah-moederbedrijf-koopt-roemeense-supermarktketen-profi.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/1zaxdsdahr0i_sqr256.jpg/ah-moederbedrijf-koopt-roemeense-supermarktketen-profi.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6287489/",
-          "author": "onze economieredactie",
-          "description": "Het wankele Chinese vastgoedconcern Evergrande krijgt een allerlaatste kans om met een plan van aanpak te komen voor zijn geldproblemen. Als het plan niet goed genoeg is, geeft de rechter in Hongkong waarschijnlijk het bevel tot ontmanteling van het bedrijf.",
-          "link": "https://www.nu.nl/economie/6287489/laatste-kans-voor-chinese-vastgoedreus-evergrande-om-hachje-te-redden.html",
-          "publishedOn": "2023-10-30T09:54:07.000Z",
-          "wordCount": 2697,
-          "title": "Laatste kans voor Chinese vastgoedreus Evergrande om hachje te redden",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/k7wxukhaurv1_sqr256.jpg/laatste-kans-voor-chinese-vastgoedreus-evergrande-om-hachje-te-redden.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/k7wxukhaurv1_sqr256.jpg/laatste-kans-voor-chinese-vastgoedreus-evergrande-om-hachje-te-redden.jpg"
         }
       ]
     },
@@ -7959,6 +7964,126 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/c/charlie-munger.asp",
+          "author": "James Chen",
+          "description": "Charlie Munger was vice chair and second-in-command to Warren Buffett, the legendary investor who chairs the $355-billion conglomerate Berkshire Hathaway.",
+          "link": "https://www.investopedia.com/terms/c/charlie-munger.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-28T21:53:49.000Z",
+          "wordCount": 8056,
+          "title": "Charlie Munger: Life, Berkshire Hathaway, Investments",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/6oAffO8ziUjfMqfvKRi0lyAdk6s=/3750x2500/charlie-munger-63b2f35eeae849ddba3869067f567c64.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/6oAffO8ziUjfMqfvKRi0lyAdk6s=/3750x2500/charlie-munger-63b2f35eeae849ddba3869067f567c64.png"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/investing/020116/when-right-time-change-mutual-funds-etfs.asp",
+          "author": "Claire Boyte-White",
+          "description": "Find out how to determine when it's the right time for you to switch from mutual funds to ETFs, including the benefits of ETFs and who they are best for.",
+          "link": "https://www.investopedia.com/articles/investing/020116/when-right-time-change-mutual-funds-etfs.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-28T21:47:10.000Z",
+          "wordCount": 7578,
+          "title": "The Right Time to Change From Mutual Funds to ETFs",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/1PJhhFqtGYy-4b63NSCuLquPSBM=/2119x1415/GettyImages-675822910-2f63273a22fd4bf3b0ecb55de542af35.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/1PJhhFqtGYy-4b63NSCuLquPSBM=/2119x1415/GettyImages-675822910-2f63273a22fd4bf3b0ecb55de542af35.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/investing/041615/pros-cons-bond-funds-vs-bond-etfs.asp",
+          "author": "James McWhinney",
+          "description": "Understanding the differences between bond funds and bond ETFs can help investors choose the instrument that is best for building a diversified bond portfolio.",
+          "link": "https://www.investopedia.com/articles/investing/041615/pros-cons-bond-funds-vs-bond-etfs.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-28T21:43:34.000Z",
+          "wordCount": 7728,
+          "title": "Bond Funds vs. Bond ETFs: What&#39;s the Difference?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/AygtTPnz8QmJAbhLK4Kbhgd8Mig=/680x440/thinkstockphotos_493208894-5bfc2b9746e0fb0051bde2b8.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/AygtTPnz8QmJAbhLK4Kbhgd8Mig=/680x440/thinkstockphotos_493208894-5bfc2b9746e0fb0051bde2b8.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/springworks-therapeutics-shares-skyrocket-on-fda-approval-of-desmoid-tumor-drug-8407568",
+          "author": "Staff Author",
+          "description": "SpringWorks Therapeutics received FDA approval for the first and only drug to treat desmoid tumors, and shares skyrocketed.",
+          "link": "https://www.investopedia.com/springworks-therapeutics-shares-skyrocket-on-fda-approval-of-desmoid-tumor-drug-8407568?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-28T21:41:11.000Z",
+          "wordCount": 5159,
+          "title": "SpringWorks Therapeutics Shares Skyrocket on FDA Approval of Desmoid Tumor Drug",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/H6UWs1Q61qscVpm3u4Rse8bSCVI=/5741x3827/GettyImages-1227710766-8747181ba99f44b6a3de31eedc0be525.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/H6UWs1Q61qscVpm3u4Rse8bSCVI=/5741x3827/GettyImages-1227710766-8747181ba99f44b6a3de31eedc0be525.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/amazon-double-clicks-into-ai-with-new-chip-and-nvidia-partnership-8407439",
+          "author": "Kevin George",
+          "description": "Amazon Inc. has unveiled its next-generation AI chip hardware while supporting Nvidia's H200 microchip. A new $20-per-month Amazon Q chatbot was also announced.",
+          "link": "https://www.investopedia.com/amazon-double-clicks-into-ai-with-new-chip-and-nvidia-partnership-8407439?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-28T21:36:23.000Z",
+          "wordCount": 5118,
+          "title": "Amazon Double-Clicks Into AI With New Chip, Nvidia Partnership",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/69QDz_qv-4ywTrVQtn98Z-glVDI=/5274x3516/INV_AmazonBuilding_GettyImages-1630713529-0a6f365312e743e59c9c5b0139eae403.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/69QDz_qv-4ywTrVQtn98Z-glVDI=/5274x3516/INV_AmazonBuilding_GettyImages-1630713529-0a6f365312e743e59c9c5b0139eae403.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/07/taxtiphome.asp",
+          "author": "Denise Appleby",
+          "description": "If the gain is from your primary home, then you may exclude a gain of up to $250,000 for a single filer or $500,000 if you're married filing jointly from income—if you meet certain requirements.",
+          "link": "https://www.investopedia.com/ask/answers/07/taxtiphome.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-28T21:32:32.000Z",
+          "wordCount": 7799,
+          "title": "Can I Exclude the Gain From My Income When I Sell My House?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/nQyuHbYbE5kXZ5FfXJl1D89BDwQ=/285x260/retirement-lrg-2-5bfc2b1e46e0fb00260b1123.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/nQyuHbYbE5kXZ5FfXJl1D89BDwQ=/285x260/retirement-lrg-2-5bfc2b1e46e0fb00260b1123.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/052815/does-etf-pay-out-full-dividend-comes-stocks-held-etf.asp",
+          "author": "Brian Beers",
+          "description": "Learn how exchange-traded funds (ETFs) distribute their dividends and the difference between qualified and non-qualified dividends.",
+          "link": "https://www.investopedia.com/ask/answers/052815/does-etf-pay-out-full-dividend-comes-stocks-held-etf.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-28T21:21:30.000Z",
+          "wordCount": 6996,
+          "title": "How Does an ETF Pay Dividends From Its Stocks?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/AygtTPnz8QmJAbhLK4Kbhgd8Mig=/680x440/thinkstockphotos_493208894-5bfc2b9746e0fb0051bde2b8.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/AygtTPnz8QmJAbhLK4Kbhgd8Mig=/680x440/thinkstockphotos_493208894-5bfc2b9746e0fb0051bde2b8.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/v/virtual-currency.asp",
+          "author": "Jake Frankenfield",
+          "description": "Virtual currency is a digital representation of value in purely electronic form. It can be open or closed and centralized or decentralized.",
+          "link": "https://www.investopedia.com/terms/v/virtual-currency.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-11-28T21:20:13.000Z",
+          "wordCount": 7599,
+          "title": "Virtual Currency: Definition, Types, Advantages & Disadvantages",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/4q4XbRl249BOp0l93TGCqpGhwBU=/2121x1414/digital-money-transection-880947648-5e8d6f1cff774c3f90d911b68a43f3c1.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/4q4XbRl249BOp0l93TGCqpGhwBU=/2121x1414/digital-money-transection-880947648-5e8d6f1cff774c3f90d911b68a43f3c1.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/short-termloss.asp",
           "author": "Adam Hayes",
@@ -26132,6 +26257,46 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "charlie-munger-dies-at-99-311d3a59?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "“Berkshire Hathaway could not have been built to its present status without Charlie’s inspiration, wisdom and participation,” CEO Warren Buffett said of Charlie Munger.",
+          "link": "https://www.barrons.com/articles/charlie-munger-dies-at-99-311d3a59?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-11-28T21:58:00.000Z",
+          "wordCount": 11025,
+          "title": "Warren Buffett’s Right Hand Man Charlie Munger Dies at 99",
+          "imageUrl": "https://images.barrons.com/im-36337276/social"
+        },
+        {
+          "id": "hp-enterprise-stock-earnings-384cce5f?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "HP Enterprises is benefiting from its high-performance-computing and AI segment.",
+          "link": "https://www.barrons.com/articles/hp-enterprise-stock-earnings-384cce5f?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-11-28T21:58:00.000Z",
+          "wordCount": 7244,
+          "title": "HP Enterprise’s Earnings Edge Past Estimates, Driven by AI",
+          "imageUrl": "https://images.barrons.com/im-55201280/social"
+        },
+        {
+          "id": "the-magnificent-7-why-the-big-stock-mania-is-drawing-comparisons-to-the-dot-com-bubble-213948429.html",
+          "author": null,
+          "description": "The \"Magnificent 7\" has been, well, magnificent. But investor beware: as one analyst points out:  “No stock outperforms forever.”",
+          "link": "https://finance.yahoo.com/news/the-magnificent-7-why-the-big-stock-mania-is-drawing-comparisons-to-the-dot-com-bubble-213948429.html",
+          "publishedOn": "2023-11-28T21:39:48.000Z",
+          "wordCount": 11094,
+          "title": "'The Magnificent 7': Why the big stock mania is drawing comparisons to the dot-com bubble",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/79cMMdjWCXEJmkIkwpfzpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/5e588560-0974-11ee-bedb-3b57108bc31f"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/crwd-stock-crowdstrike-earnings-news-q32023/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-11-28T21:31:35.000Z",
+          "wordCount": null,
+          "title": "CrowdStrike Earnings Report Lacks Oomph Amid Big 2023 Gains",
+          "imageUrl": null
+        },
+        {
           "id": "lidar-stocks-tumbling-china-58c91b2c?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "",
@@ -26270,6 +26435,16 @@
           "wordCount": 10792,
           "title": "Warren Buffett's $10,000 Gamble — He Gave His Wife The Choice To Risk It All On A House And Wipe Out Their Capital Or Invest For The Future And Wait To Buy A Home",
           "imageUrl": "https://media.zenfs.com/en/Benzinga/7ff6af33bdbf51d461e37731a2772f6c"
+        },
+        {
+          "id": "warren-buffett-told-students-running-171216863.html",
+          "author": null,
+          "description": "Renowned investor Berkshire Hathaway Inc. CEO Warren Buffett is known for his practical investment advice. Yet, his response to a job inquiry, detailed in a recount by an Inc. reporter, showcases a different side of his wisdom. During a talk at a business school, Buffett, instead of delving into investment strategies, shared an anecdote. A young man, eager for entrepreneurship experience, sought employment at Buffett’s firm in Omaha, Nebraska. The young aspirant believed that working at Berkshir",
+          "link": "https://finance.yahoo.com/news/warren-buffett-told-students-running-171216863.html",
+          "publishedOn": "2023-11-28T17:12:16.000Z",
+          "wordCount": 10559,
+          "title": "Warren Buffett Told Students Running A Business Is Like Understanding Sex — Learn First-Hand And Enjoy The Journey",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/9d69f0ead801a78aa7089058411739b1"
         },
         {
           "id": "may-rethink-where-retirement-income-110000342.html",
@@ -49500,76 +49675,6 @@
           "wordCount": 6591,
           "title": "Bitcoin Prices Are Rising Again. A ‘Golden Cross’ Could Keep the Momentum Going.",
           "imageUrl": "https://images.barrons.com/im-76043616/social"
-        },
-        {
-          "id": "exclusive-trucking-firm-prepares-long-100914555.html",
-          "author": null,
-          "description": "One of the largest U.S. privately owned auto transport companies is quietly mounting a long-shot bid - with increasing help from the Biden administration - to rescue trucking giant Yellow Corp from bankruptcy liquidation and bring back some 30,000 union jobs, according to multiple sources familiar with the discussions.  The previously unreported effort by Jack Cooper Transport, a trucking company that counts General Motors, Ford and Stellantis as its main customers, has gained steam in recent weeks as the powerful International Brotherhood of Teamsters union and a bipartisan group of U.S. senators stepped up their pressure campaign on the Biden administration.  The piecemeal liquidation of Yellow's vast trucking and terminal assets could begin next month, in a deal that is expected to value its real estate at $1.5 billion and its vehicle fleet at hundreds of millions of dollars.",
-          "link": "https://finance.yahoo.com/news/exclusive-trucking-firm-prepares-long-100914555.html",
-          "publishedOn": "2023-10-30T10:09:14.000Z",
-          "wordCount": 10354,
-          "title": "Exclusive-Trucking firm prepares long-shot bid for Yellow, seeks US Treasury support",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/6b2ac3450f048011c04a81306673e9bc"
-        },
-        {
-          "id": "key-moments-sam-bankman-frieds-100708615.html",
-          "author": null,
-          "description": "FTX founder Sam Bankman-Fried is set on Monday to resume testifying at his fraud trial on charges related to the cryptocurrency exchange's collapse last year.  Here are five key moments from Bankman-Fried's testimony so far.  Bankman-Fried testified that \"a lot of people got hurt\" in FTX's November 2022 collapse.",
-          "link": "https://finance.yahoo.com/news/key-moments-sam-bankman-frieds-100708615.html",
-          "publishedOn": "2023-10-30T10:07:08.000Z",
-          "wordCount": 9666,
-          "title": "Key moments from Sam Bankman-Fried's first day on the stand",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/f406afe50369fc9ddde4ae42031812da"
-        },
-        {
-          "id": "the-federal-reserve-is-starting-to-put-a-stranglehold-around-corporate-america-100039147.html",
-          "author": null,
-          "description": "Keep an eye on the long tentacles of the Federal Reserve.",
-          "link": "https://finance.yahoo.com/news/the-federal-reserve-is-starting-to-put-a-stranglehold-around-corporate-america-100039147.html",
-          "publishedOn": "2023-10-30T10:00:39.000Z",
-          "wordCount": 10519,
-          "title": "The Federal Reserve is starting to put a stranglehold around Corporate America",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/3E8fvDVNqr3.8rhK3NTkFQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/4c4f0030-766e-11ee-937f-566e2a27ce66"
-        },
-        {
-          "id": "stock-market-movers-a4102f2b?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The United Auto Workers union announces a strike at another General Motors plant, Nelson Peltz's push for board seats at Disney gets a boost, and results from Apple are a highlight on this week's busy earnings calendar.",
-          "link": "https://www.barrons.com/articles/stock-market-movers-a4102f2b?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-10-30T10:00:00.000Z",
-          "wordCount": 7615,
-          "title": "These Stocks Are Moving the Most Today: GM, Disney, Alphabet, Western Digital, SoFi, Apple, and More",
-          "imageUrl": "https://images.barrons.com/im-788940/social"
-        },
-        {
-          "id": "futures-jump-investors-await-fed-095719126.html",
-          "author": null,
-          "description": "However, the clashes had little impact on U.S. stock markets, with megacap growth names such as Nvidia, Amazon.com and Tesla up between 0.9% and 1.6% in premarket trading.  \"The ground offensive in Gaza will still be causing some concern, but it has been largely expected and that's why I don't think you've seen any kind of particularly adverse reaction on the markets today,\" said Susannah Streeter, head of money and markets at Hargreaves Lansdown.  Adding to bond market worries, the U.S. Treasury is likely to boost the size of auctions for bills, notes, and bonds in the fourth quarter when it announces its financing plans this week to fund a worsening budget deficit.",
-          "link": "https://finance.yahoo.com/news/futures-jump-investors-await-fed-095719126.html",
-          "publishedOn": "2023-10-30T09:57:19.000Z",
-          "wordCount": 10137,
-          "title": "Futures jump as investors await Fed rate verdict; Middle East tensions eyed",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/f155533cb37f790c9d6a56539f4b1144"
-        },
-        {
-          "id": "broadcom-vmware-61-billion-deal-095539703.html",
-          "author": null,
-          "description": "(Bloomberg) -- Broadcom Inc. said its $61 billion agreement to buy software maker VMware Inc. will close before the expiration of their merger agreement, an attempt to reassure investors after concerns that Chinese regulators might delay the deal. Most Read from BloombergIsrael Latest: Biden, Netanyahu Plan to Talk Within HoursRussia Shuts Airport After Mob Encircles Flight From IsraelIsrael Latest: War Intensifies as Netanyahu Faces Calls to QuitHedge Funds Pile Into Uranium Stocks Set for ‘Dra",
-          "link": "https://finance.yahoo.com/news/broadcom-vmware-61-billion-deal-095539703.html",
-          "publishedOn": "2023-10-30T09:55:39.000Z",
-          "wordCount": 10162,
-          "title": "Broadcom and VMWare Say $61 Billion Deal Will Close ‘Soon’",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/yOaGOhfV0iFs6Qu76.Zlnw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/4f2c99422a635aa9848494e86b96d5b2"
-        },
-        {
-          "id": "fed-expected-to-hold-rates-at-22-year-high-but-leave-hikes-on-the-table-094002863.html",
-          "author": null,
-          "description": "The Federal Reserve is set to stand pat on interest rates this week, while economic data continues to leave open the question of what the coming months have in store for the central bank.",
-          "link": "https://finance.yahoo.com/news/fed-expected-to-hold-rates-at-22-year-high-but-leave-hikes-on-the-table-094002863.html",
-          "publishedOn": "2023-10-30T09:40:02.000Z",
-          "wordCount": 10621,
-          "title": "Fed expected to hold rates at 22-year high, but leave hikes on the table",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/iBCUtgzjPRhlaPPGgw.YEg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/906e2510-6ea9-11ee-9dcf-782f0e036cf9"
         }
       ]
     }
