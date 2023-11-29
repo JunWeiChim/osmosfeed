@@ -782,16 +782,6 @@
           "wordCount": 409,
           "title": "Apple Unveils New Mac and MacBook, Powered by its Next Generation M3 Chips",
           "imageUrl": null
-        },
-        {
-          "id": "dcedafa8826537f97e16ba07ecffab23",
-          "author": "Investopedia",
-          "description": "Apple has unveiled an updated line of its Mac and MacBook, driven by its next generation M3 chips.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8777d7ee1ae849379e8b31afe177238a5312ce318675b09c466649da68973cde99577cccf130a0f0e76de0f1c324b13fa4281d8735441c5b1ef2e6afd13a549a9fb5aad3dc8aca4d1dd64a90c43b",
-          "publishedOn": "2023-10-31T01:50:17.529Z",
-          "wordCount": 409,
-          "title": "Apple Unveils New Mac and MacBook, Powered by its Next Generation M3 Chips",
-          "imageUrl": null
         }
       ]
     },
@@ -800,6 +790,16 @@
       "feedUrl": "https://rss.app/feeds/UWnMV6nTNN8mPDUG.xml",
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
+        {
+          "id": "ce4c5c03246ac7e917db89ff0a6d25ee",
+          "author": "Investopedia",
+          "description": "Stock futures jumped in early trading Wednesday as data showed the U.S. economy grew more than expected in the third quarter amid a flurry of consumer spending and business inventory investment.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c2150e9169d768e3c10f73108b3cc26a87",
+          "publishedOn": "2023-11-29T14:11:35.911Z",
+          "wordCount": 409,
+          "title": "Dow Jones Today: Stock Futures Rise, Extending November Rally as Oil Gains",
+          "imageUrl": null
+        },
         {
           "id": "fdbc17f84bf06e3442f7ad93e7ae11ac",
           "author": "Investopedia",
@@ -1897,6 +1897,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6291846/",
+          "author": "Tim Wijkman-van Aalst",
+          "description": "De rechtbank van Rotterdam heeft dinsdag groen licht gegeven voor de geplande veiling van radiofrequenties voor 5G-netwerken. Verschillende partijen waren naar de rechter gestapt omdat ze het niet eens waren met de veilingplannen.",
+          "link": "https://www.nu.nl/tech-wetenschap/6291846/rechter-geeft-groen-licht-voor-5g-frequentieveiling.html",
+          "publishedOn": "2023-11-29T13:22:40.000Z",
+          "wordCount": 2903,
+          "title": "Rechter geeft groen licht voor 5G-frequentieveiling",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/n2gx5tra4emj_sqr256.jpg/rechter-geeft-groen-licht-voor-5g-frequentieveiling.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/n2gx5tra4emj_sqr256.jpg/rechter-geeft-groen-licht-voor-5g-frequentieveiling.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6291842/",
           "author": "Thijs Rösken",
@@ -25423,21 +25438,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/3hz30y1qCKXkuPmjpWpbTW4dcLQ=/5700x3800/GettyImages-1422163290-11b338361fb44631bb59fcca64b4e089.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/apple-unveils-new-mac-and-macbook-powered-by-next-generation-m3-chips-8384771",
-          "author": "Kevin George",
-          "description": "Apple has unveiled an updated line of its Mac and MacBook, driven by its next generation M3 chips.",
-          "link": "https://www.investopedia.com/apple-unveils-new-mac-and-macbook-powered-by-next-generation-m3-chips-8384771?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-10-31T01:44:13.000Z",
-          "wordCount": 5126,
-          "title": "Apple Unveils New Mac and MacBook, Powered by Next Generation M3 Chips",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/xdZW5V3OSr9MLaFFhUoA1ioNjv0=/5307x3323/GettyImages-1740796281-35b5172b6e7d495e9c2754d886685fcd.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/xdZW5V3OSr9MLaFFhUoA1ioNjv0=/5307x3323/GettyImages-1740796281-35b5172b6e7d495e9c2754d886685fcd.jpg"
         }
       ]
     },
@@ -25446,6 +25446,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/okta-stock-okta-earnings-news-q32023/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-11-29T12:55:09.000Z",
+          "wordCount": null,
+          "title": "Okta Earnings Top Estimates; Early Fiscal 2025 Outlook Issued",
+          "imageUrl": null
+        },
         {
           "id": "stock-market-news-today-us-futures-climb-amid-revived-hopes-for-fed-rate-cut-123907079.html",
           "author": null,
@@ -25465,6 +25475,26 @@
           "wordCount": 10780,
           "title": "GM to Hike Dividend, Buy Back $10 Billion of Slumping Stock",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/kC5Y2Q7x6laWJKiuznZgIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/ccec5f57cbf78eaca84d9fd6f7a34b26"
+        },
+        {
+          "id": "exclusive-emirates-tells-rolls-royce-120728086.html",
+          "author": null,
+          "description": "The head of Dubai's Emirates has urged Rolls-Royce to go \"back to basics\" and focus on the performance of its engines, a day after the British firm laid out plans to quadruple profits.  Shares in the British engineering firm rose after CEO Tufan Erginbilgic unveiled a strategy on Tuesday to revive the engine maker's fortunes including a sharp increase in profit margins and \"value-driven pricing,\" suggesting higher servicing bills.  But Emirates Airline President Tim Clark, who criticised  Rolls over engine pricing and the performance of its largest engine at this month's Dubai Airshow, appeared unswayed by the plans which rely heavily on higher engine profit margins.",
+          "link": "https://finance.yahoo.com/news/exclusive-emirates-tells-rolls-royce-120728086.html",
+          "publishedOn": "2023-11-29T12:07:28.000Z",
+          "wordCount": 10433,
+          "title": "Exclusive-Emirates tells Rolls-Royce: Go back to basics, put products first",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/a8d5cc592de63bd4d722338378cf1d9a"
+        },
+        {
+          "id": "ask-advisor-were-56-1-120000397.html",
+          "author": null,
+          "description": "My wife and I are both 56. We have around $1.2 million saved – approximately $450,000 in company 401(k)s, $650,000 in a managed account, and approximately $70,000 in personal stocks. We also have approximately $22,000 in savings. Our home is worth $700,000 or more and we owe $197,000 with a 3.875% interest rate. Our advisor […] The post Ask an Advisor: We’re 56 With $1.2 Million in Investments and Savings. Can We Afford to Withdraw $60k-$80k Per Year in Retirement? appeared first on SmartReads b",
+          "link": "https://finance.yahoo.com/news/ask-advisor-were-56-1-120000397.html",
+          "publishedOn": "2023-11-29T12:00:00.000Z",
+          "wordCount": 10727,
+          "title": "Ask an Advisor: We're 56 With $1.2 Million in Investments and Savings. Can We Afford to Withdraw $60k-$80k Per Year in Retirement?",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/58fa2f15c54bf3640ef094d537a69fe6"
         },
         {
           "id": "2-million-invested-financial-advisor-120000821.html",
@@ -25775,6 +25805,16 @@
           "wordCount": null,
           "title": "Dow Jones Futures: Market Holds Strong, Tesla, Palantir Make Key Moves; Key Earnings Late",
           "imageUrl": null
+        },
+        {
+          "id": "boeing-stock-nyse-ba-flight-225312474.html",
+          "author": null,
+          "description": "Has Boeing (NYSE:BA) stock switched from a toxic asset to a terrific investment? We might be witnessing Boeing’s long-term turnaround in 2023’s final months, and I am bullish on BA stock in light of a Wall Street expert’s upgrade. Boeing is an American aerospace and defense giant, and BA stock was once considered a safe defensive investment. For much of this year, however, the market focused on the “Magnificent Seven” technology stocks and left Boeing behind. Yet, as we’ll see, analysts are most",
+          "link": "https://finance.yahoo.com/news/boeing-stock-nyse-ba-flight-225312474.html",
+          "publishedOn": "2023-11-28T22:53:12.000Z",
+          "wordCount": 10628,
+          "title": "Boeing Stock (NYSE:BA): Take Flight with a Terrific Turnaround Tale",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/c879692f63cfcd845e9325ad7144f909"
         },
         {
           "id": "berkshire-hathaways-charlie-munger-had-a-longtime-special-relationship-with-costco-223417032.html",
