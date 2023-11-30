@@ -831,6 +831,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "ce20256630aaa909df48e7120ef38ffc",
+          "author": "Investopedia",
+          "description": "Stock futures were up in premarket trading as Salesforce shares soared on its quarterly earnings report and investors awaited October's reading of the Fed's preferred inflation gauge.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c2150e9060d768e3c10f73108b33c66b84",
+          "publishedOn": "2023-11-30T14:11:47.253Z",
+          "wordCount": 409,
+          "title": "Dow Jones Today: Stock Futures Up Following Salesforce Earnings, Ahead of Inflation Data",
+          "imageUrl": null
+        },
+        {
           "id": "29cde9ec61cf7b6a366aa874102b0f9b",
           "author": "Investopedia",
           "description": "Salesforce shares surged after it reported better-than-expected earnings and Tesla plans to commemorate the beginning of deliveries of its Cybertruck at an event at its Texas factory. Here’s what investors need to know today.",
@@ -1937,6 +1947,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6292011/",
+          "author": "Thijs Rösken",
+          "description": "Huishoudens gaan volgend jaar 7 euro per maand meer betalen voor energie door hogere kosten voor het gas- en stroomnet. Netbeheerders investeren miljarden in onderhoud en uitbreiding van de netten voor de energietransitie. Die kosten berekenen ze nu door.",
+          "link": "https://www.nu.nl/economie/6292011/energierekening-wordt-7-euro-per-maand-hoger-door-kosten-netbeheer.html",
+          "publishedOn": "2023-11-30T13:25:37.000Z",
+          "wordCount": 2702,
+          "title": "Energierekening wordt 7 euro per maand hoger door kosten netbeheer",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/mi3xo3qaaizl_sqr256.jpg/energierekening-wordt-7-euro-per-maand-hoger-door-kosten-netbeheer.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/mi3xo3qaaizl_sqr256.jpg/energierekening-wordt-7-euro-per-maand-hoger-door-kosten-netbeheer.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6292002/",
           "author": "Jeroen Kraan",
@@ -25547,6 +25572,66 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "walgreens-altria-verizon-dividend-yields-best-payouts-1fb8bf77?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Barron’s screen  came up with a half dozen companies, led by Altria and Walgreens.",
+          "link": "https://www.barrons.com/articles/walgreens-altria-verizon-dividend-yields-best-payouts-1fb8bf77?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-11-30T13:48:00.000Z",
+          "wordCount": 9331,
+          "title": "7% Dividend Yields or Higher: The S&P 500’s 6 Best Payouts",
+          "imageUrl": "https://images.barrons.com/im-124232/social"
+        },
+        {
+          "id": "stock-market-news-today-us-futures-pop-as-feds-favorite-inflation-gauge-cools-134409949.html",
+          "author": null,
+          "description": "A fresh 2023 closing high is in reach for stocks, but the release of key PCE inflation data could put the rally to the test.",
+          "link": "https://finance.yahoo.com/news/stock-market-news-today-us-futures-pop-as-feds-favorite-inflation-gauge-cools-134409949.html",
+          "publishedOn": "2023-11-30T13:44:09.000Z",
+          "wordCount": 10319,
+          "title": "Stock market news today: US futures pop as Fed's favorite inflation gauge cools",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/w90SFvHwsxoV8hHso.WtiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-07/376c1b90-9bf7-11e9-b7dd-70d69455392d"
+        },
+        {
+          "id": "pure-storage-earnings-stock-price-a6b8a6bd?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Pure Storage blamed the miss on a  business model transition and the delayed fulfillment of a large customer order.",
+          "link": "https://www.barrons.com/articles/pure-storage-earnings-stock-price-a6b8a6bd?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-11-30T13:40:00.000Z",
+          "wordCount": 6831,
+          "title": "Pure Storage Stock Tumbles. Its Third-Quarter Earnings Aren’t the Issue.",
+          "imageUrl": "https://images.barrons.com/im-13223724/social"
+        },
+        {
+          "id": "inflation-hits-lowest-level-since-2021-feds-preferred-gauge-shows-133230834.html",
+          "author": null,
+          "description": "The inflation print could help determine whether the Fed might cut interest rates sooner than many think.",
+          "link": "https://finance.yahoo.com/news/inflation-hits-lowest-level-since-2021-feds-preferred-gauge-shows-133230834.html",
+          "publishedOn": "2023-11-30T13:32:30.000Z",
+          "wordCount": 10040,
+          "title": "Inflation hits lowest level since 2021, Fed's preferred gauge shows",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/vN_iVqEcdBtaifswtT6FIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDM-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/7082f480-6e7a-11ee-b7f9-71c4800b1bc4"
+        },
+        {
+          "id": "abbvie-immunogen-10-billion-deal-ff3a6b40?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "AbbVie will acquire ImmunoGen for $31.26 a share.",
+          "link": "https://www.barrons.com/articles/abbvie-immunogen-10-billion-deal-ff3a6b40?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-11-30T13:31:00.000Z",
+          "wordCount": 5762,
+          "title": "ImmunoGen Stock Soars 80% on AbbVie’s $10.1 Billion Takeover",
+          "imageUrl": "https://images.barrons.com/im-252323/social"
+        },
+        {
+          "id": "pharmaceutical-company-abbvie-buying-immunogen-131931173.html",
+          "author": null,
+          "description": "AbbVie is buying ImmunoGen in a deal valued at about $10.1 billion with the goal of speeding the pharmaceutical's entry into the commercial market for ovarian cancer.  ImmunoGen Inc. has the ovarian cancer treatment Elahere.  \"The acquisition of ImmunoGen demonstrates our commitment to deliver on our long-term growth strategy and enables AbbVie to further diversify our oncology pipeline across solid tumors and hematologic malignancies,” AbbVie Chairman and CEO Richard Gonzalez said in a statement on Thursday.",
+          "link": "https://finance.yahoo.com/news/pharmaceutical-company-abbvie-buying-immunogen-131931173.html",
+          "publishedOn": "2023-11-30T13:19:31.000Z",
+          "wordCount": 10010,
+          "title": "Pharmaceutical company AbbVie buying ImmunoGen in $10.1 billion deal",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        },
+        {
           "id": "abbvie-to-buy-immunogen-for-more-than-10-billion-5e942e18?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "AbbVie has agreed to buy ImmunoGen for about $10.1 billion in a deal that speeds the biopharmaceutical company’s entry into the commercial market for ovarian cancer.",
@@ -25557,6 +25642,16 @@
           "imageUrl": "https://images.wsj.net/im-720766/social"
         },
         {
+          "id": "abbvie-buy-immunogen-10-1-124545645.html",
+          "author": null,
+          "description": "AbbVie said on Thursday it will buy drugmaker ImmunoGen for $10.1 billion, boosting its presence in the market for cancer treatments. The drugmaker will pay $31.26 per ImmunoGen share in cash, representing a premium of 94.6% to the last closing price. This transaction is expected to close in the middle of 2024, AbbVie said.",
+          "link": "https://finance.yahoo.com/news/abbvie-buy-immunogen-10-1-124545645.html",
+          "publishedOn": "2023-11-30T12:45:45.000Z",
+          "wordCount": 9998,
+          "title": "AbbVie signs $10 billion deal to buy cancer drugmaker ImmunoGen",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/1640f3a69896bb008641782046384ee1"
+        },
+        {
           "id": "stock-market-news-today-us-futures-pop-ahead-of-key-inflation-data-122756453.html",
           "author": null,
           "description": "A fresh 2023 closing high is in reach for stocks, but the release of key PCE inflation data could put the rally to the test.",
@@ -25565,6 +25660,16 @@
           "wordCount": 10319,
           "title": "Stock market news today: US futures pop ahead of key inflation data",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/w90SFvHwsxoV8hHso.WtiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-07/376c1b90-9bf7-11e9-b7dd-70d69455392d"
+        },
+        {
+          "id": "ford-stock-earnings-guidance-85c7e331?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Ford Motor on Thursday provided 2023 financial guidance. The company now expects to earn an operating profit of between $10 billion and $10.5 billion.",
+          "link": "https://www.barrons.com/articles/ford-stock-earnings-guidance-85c7e331?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-11-30T12:27:00.000Z",
+          "wordCount": 6612,
+          "title": "Ford Issues Guidance and It’s Really Good. The Stock Is Rising.",
+          "imageUrl": "https://images.barrons.com/im-91684087/social"
         },
         {
           "id": "things-to-know-today-a91ba1e2?siteid=yhoof2&yptr=yahoo",
@@ -25965,6 +26070,16 @@
           "wordCount": 6729,
           "title": "Cigna Stock Drops, Humana Moves Lower After Report of Merger Talks",
           "imageUrl": "https://images.wsj.net/im-893308?width=600"
+        },
+        {
+          "id": "eu-commission-lawyers-initially-opposed-174632018.html",
+          "author": null,
+          "description": "European Commission lawyers initially opposed sending a warning to Amazon over its $1.4 billion acquisition of robot vacuum maker iRobot, three people with direct knowledge of the matter said on Wednesday.  The Commission's legal service did not think a statement of objections regarding the deal was warranted, in contrast with antitrust officials handling the case, the people said.  Without such a charge sheet, the deal would have been cleared unconditionally.",
+          "link": "https://finance.yahoo.com/news/eu-commission-lawyers-initially-opposed-174632018.html",
+          "publishedOn": "2023-11-29T17:46:32.000Z",
+          "wordCount": 10271,
+          "title": "EU Commission lawyers initially opposed warning Amazon on iRobot deal - sources",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/cbf42a76bbc91c8aa35f9c795689cc2a"
         },
         {
           "id": "charlie-munger-revealed-left-bucket-173249866.html",
@@ -48305,26 +48420,6 @@
           "wordCount": null,
           "title": "Dow Jones Futures Fall, AMD Battles Late With Fed Due; Tesla Autopilot Scores Big Win",
           "imageUrl": null
-        },
-        {
-          "id": "realtors-must-pay-home-sellers-015435401.html",
-          "author": null,
-          "description": "The National Association of Realtors and other industry players conspired to boost the commissions paid to real estate agents, jury rules.",
-          "link": "https://finance.yahoo.com/news/realtors-must-pay-home-sellers-015435401.html",
-          "publishedOn": "2023-11-01T01:54:35.000Z",
-          "wordCount": 9796,
-          "title": "Realtors must pay home sellers $1.8 billion for inflating commissions",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/AniU3bW0p3zlfa2dkGvhXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/cbsmoneywatch.com/d0aa9b6412b11dbfe7b658cf87affcb1"
-        },
-        {
-          "id": "nuclear-power-future-stocks-leading-013616982.html",
-          "author": null,
-          "description": "The world runs on energy; just think about how much of your life depends on the little outlets in the walls. For now, the bulk of our power generation capacity is supported by fossil fuels, mostly coal and natural gas, that are pulled out of the ground. Long-term, however, the social and political pressures on fossil fuels are reducing their use, and will reduce it further. Despite huge subsidies, wind and solar power simply cannot replace the lost capacity, and we will have to find it somewhere",
-          "link": "https://finance.yahoo.com/news/nuclear-power-future-stocks-leading-013616982.html",
-          "publishedOn": "2023-11-01T01:36:16.000Z",
-          "wordCount": 10960,
-          "title": "Nuclear Power Is the Future — and These Stocks Are Leading the Charge",
-          "imageUrl": "https://media.zenfs.com/en/tipranks_452/ae4a9e3f4f99ecfb84f14e26ec73e419"
         }
       ]
     }
