@@ -1928,6 +1928,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6291944/",
+          "author": "Tom van Gurp",
+          "description": "ASML-topman Peter Wennink stopt in april volgend jaar en wordt opgevolgd door de Fransman Christophe Fouquet. Dat maakt de Eindhovense chipmachinefabrikant donderdag bekend.",
+          "link": "https://www.nu.nl/economie/6291944/peter-wennink-vertrekt-volgend-jaar-als-topman-bij-asml.html",
+          "publishedOn": "2023-11-30T07:07:49.000Z",
+          "wordCount": 2647,
+          "title": "Peter Wennink vertrekt volgend jaar als topman bij ASML",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/1yyxb52ani6o_sqr256.jpg/peter-wennink-vertrekt-volgend-jaar-als-topman-bij-asml.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/1yyxb52ani6o_sqr256.jpg/peter-wennink-vertrekt-volgend-jaar-als-topman-bij-asml.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6291938/",
           "author": "Tom van Gurp",
           "description": "Goederen en diensten zijn in november 1,6 procent duurder dan een jaar eerder. Daarmee komt geen vervolg op de dalende prijzen van vorige maand, toen er nog een min van 0,4 procent was. Dat blijkt uit voorlopige cijfers van statistiekbureau CBS.",
@@ -7851,21 +7866,6 @@
             "url": "https://media.nu.nl/m/8goxxu8awni0_sqr256.jpg/provincie-stond-decennialang-toe-dat-beruchte-tata-fabriek-kankerverwekkende-stoffen-lekte.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/8goxxu8awni0_sqr256.jpg/provincie-stond-decennialang-toe-dat-beruchte-tata-fabriek-kankerverwekkende-stoffen-lekte.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6287734/",
-          "author": "onze nieuwsredactie",
-          "description": "Sjaak van der Tak stopt aan het einde van dit jaar als voorzitter van land- en tuinbouworganisatie LTO Nederland. Zijn termijn loopt dan af. Hij heeft besloten niet door te gaan.",
-          "link": "https://www.nu.nl/stikstof/6287734/sjaak-van-der-tak-stopt-eind-dit-jaar-als-voorzitter-landbouworganisatie-lto.html",
-          "publishedOn": "2023-10-31T19:09:32.000Z",
-          "wordCount": 2605,
-          "title": "Sjaak van der Tak stopt eind dit jaar als voorzitter landbouworganisatie LTO",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/w25xfd9auiof_sqr256.jpg/sjaak-van-der-tak-stopt-eind-dit-jaar-als-voorzitter-landbouworganisatie-lto.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/w25xfd9auiof_sqr256.jpg/sjaak-van-der-tak-stopt-eind-dit-jaar-als-voorzitter-landbouworganisatie-lto.jpg"
         }
       ]
     },
@@ -25513,21 +25513,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/ktwZGiFiJPdbo9yRcv2frkLBMjw=/380x253/e014087-5bfc2b95c9e77c005143f248.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/top-mgm-shareholders-5179106",
-          "author": "Nathan Reiff",
-          "description": "The top MGM shareholders are Corey Ian Sanders, William Joseph Hornbuckle, John M. McManus, IAC/InterActiveCorp., Vanguard Group Inc., and BlackRock Inc.",
-          "link": "https://www.investopedia.com/top-mgm-shareholders-5179106?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-10-31T18:29:18.000Z",
-          "wordCount": 6354,
-          "title": "Top MGM Shareholders",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/UY3ksiE5HDOqEu86cmRMc6FNhAQ=/2880x1600/luxor-hotel-pyramid-exterior-strip-view-9019bebe9b5441c5a9ff1947378f6e44.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/UY3ksiE5HDOqEu86cmRMc6FNhAQ=/2880x1600/luxor-hotel-pyramid-exterior-strip-view-9019bebe9b5441c5a9ff1947378f6e44.jpg"
         }
       ]
     },
@@ -25536,6 +25521,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-salesforce-leads-earnings-winners-tesla-cybertruck-on-tap/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-11-30T02:58:25.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Rise: Salesforce Leads Earnings Winners Late; Tesla Cybertruck On Tap",
+          "imageUrl": null
+        },
         {
           "id": "occidental-petroleum-in-talks-to-buy-permian-producer-crownrock-858cacdb?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -48285,46 +48280,6 @@
           "wordCount": 9984,
           "title": "Zillow Plunges After Verdict on Real Estate Brokerage Commissions",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/RP2j4WiqCUvjivwvBuoHjg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/667962b755d0d7af7529d34576c7e2c5"
-        },
-        {
-          "id": "bud-light-parent-anheuser-busch-185345543.html",
-          "author": null,
-          "description": "Anheuser-Busch InBev reported a 17.1% decline in sales volume in North America in the third quarter as its Bud Light brand continues to struggle after a controversial marketing move.",
-          "link": "https://finance.yahoo.com/news/bud-light-parent-anheuser-busch-185345543.html",
-          "publishedOn": "2023-10-31T18:53:45.000Z",
-          "wordCount": 10162,
-          "title": "Bud Light parent Anheuser-Busch InBev's sales tumble further in US",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/aFEAFVipenwYk_eohMn8hw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_business_text_367/178d8e4692c6346d82dbbda4681ea959"
-        },
-        {
-          "id": "druckenmiller-says-massive-bullish-bets-185036273.html",
-          "author": null,
-          "description": "(Bloomberg) -- Billionaire investor Stan Druckenmiller said he’s bought “massive” bullish positions in two-year notes, as he’s become more worried about the economy.Most Read from BloombergSaudi Forces on Alert After Clash With Iran-Backed HouthisIsrael Latest: Hamas Vows to Free Captives, Refugee Camp HitInnovent, Lilly Obesity Drug Spurs More Weight Loss in TrialIsrael Latest: Netanyahu Vows to Stay On; Targets Hit in LebanonSony’s Bungie Game Unit Cuts Staff Following Delayed TitlesIn recent",
-          "link": "https://finance.yahoo.com/news/druckenmiller-says-massive-bullish-bets-185036273.html",
-          "publishedOn": "2023-10-31T18:50:36.000Z",
-          "wordCount": 10082,
-          "title": "Druckenmiller Says He Has ‘Massive’ Bullish Bets on 2-Year Notes",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/972f88e05cf2a809587794d149101dda"
-        },
-        {
-          "id": "sofi-stock-upgrade-morgan-stanley-41023522?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "On Monday, the fintech posted a third-quarter adjusted loss of 3 cents a share, narrower than the 8-cent loss Wall Street expected.",
-          "link": "https://www.barrons.com/articles/sofi-stock-upgrade-morgan-stanley-41023522?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-10-31T18:45:00.000Z",
-          "wordCount": 6054,
-          "title": "SoFi Lands Upgrade After Strong Earnings Report",
-          "imageUrl": "https://images.barrons.com/im-23491525/social"
-        },
-        {
-          "id": "biden-retirement-junk-fees-ira-rollovers-fiduciary-1b87f859?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/biden-retirement-junk-fees-ira-rollovers-fiduciary-1b87f859?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-10-31T18:28:00.000Z",
-          "wordCount": 6570,
-          "title": "Biden Wants to Make This Big Change to IRA Rollovers",
-          "imageUrl": "https://images.barrons.com/im-12619413/social"
         }
       ]
     }
