@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-30T01:56:55.958Z</updated>
+    <updated>2023-11-30T02:27:55.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GDP Per Capita Defined: Uses and Highest Per Country]]></title>
+        <id>https://www.investopedia.com/terms/p/per-capita-gdp.asp</id>
+        <link href="https://www.investopedia.com/terms/p/per-capita-gdp.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
+        <updated>2023-11-30T02:02:13.000Z</updated>
+        <summary type="html"><![CDATA[GDP per capita is a metric that breaks down a country's GDP per person and is calculated by dividing the GDP of a country by its population.]]></summary>
+        <author>
+            <name>The Investopedia Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is GDP and Why Is It So Important to Economists and Investors?]]></title>
         <id>https://www.investopedia.com/ask/answers/what-is-gdp-why-its-important-to-economists-investors/</id>
@@ -618,6 +628,16 @@ Cigna's shares were recently off some 4%, while Humana's also retreat]]></summar
         <id>ARGUS_3705_AnalystReport_1701278435000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei</id>
         <link href="https://finance.yahoo.com/research/reports/ARGUS_3705_AnalystReport_1701278435000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei"/>
         <updated>2023-11-29T17:20:35.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia CEO Says US Will Take Years to Achieve Chip Independence]]></title>
+        <id>nvidia-ceo-says-us-years-171918892.html</id>
+        <link href="https://finance.yahoo.com/news/nvidia-ceo-says-us-years-171918892.html"/>
+        <updated>2023-11-29T17:19:18.000Z</updated>
+        <summary type="html"><![CDATA[(Bloomberg) -- Nvidia Corp. Chief Executive Officer Jensen Huang, who runs the semiconductor industry’s most valuable company, said the US is as much as 20 years away from breaking its dependence on overseas chipmaking.Most Read from BloombergSaudi Arabia Offers Iran Investment to Blunt Gaza WarCharlie Munger, Who Helped Buffett Build Berkshire, Dies at 99Bill Ackman Bets Fed Will Cut Interest Rates as Soon as First QuarterBond Yields Fall on Signs Fed Is in ‘Sweet Spot’: Markets WrapMusk’s Cybe]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -40275,16 +40295,6 @@ Earlier in the trial, Yedidia told jurors that after fixing an accounting bug in
         <summary type="html"><![CDATA[In the wake of Realty Income Corp.’s (NYSE:O) announcement to acquire Spirit Realty Capital Inc (NYSE:SRC) in a $9.3 billion transaction, market watchers observed a roughly 5.4% decline in Realty Income’s share price. This downward movement has left some investors puzzled considering the news appears to be positive for shareholders. However, it's quite common for the share price of the acquiring company to slide after an acquisition announcement while investors weigh the potential pros and cons]]></summary>
         <author>
             <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Farmaceut Pfizer lijdt fors verlies nadat vraag naar coronaprikken wegvalt]]></title>
-        <id>https://www.nu.nl/-/6287697/</id>
-        <link href="https://www.nu.nl/economie/6287697/farmaceut-pfizer-lijdt-fors-verlies-nadat-vraag-naar-coronaprikken-wegvalt.html"/>
-        <updated>2023-10-31T14:07:12.000Z</updated>
-        <summary type="html"><![CDATA[De Amerikaanse farmaceut Pfizer heeft een miljardenverlies geleden in het derde kwartaal. Dat kwam vooral door een ingestorte vraag naar zijn coronavaccins.]]></summary>
-        <author>
-            <name>onze economieredactie</name>
         </author>
     </entry>
 </feed>
