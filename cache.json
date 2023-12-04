@@ -1908,6 +1908,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6292564/",
+          "author": "onze techredactie",
+          "description": "Als het goed is, ontving je maandag om 12.00 uur een testbericht van NL-Alert. Het alarmsysteem moet iedere Nederlander kunnen waarschuwen bij noodsituaties. Dit moet je erover weten.",
+          "link": "https://www.nu.nl/tech/6292564/piepende-telefoons-door-heel-nederland-nl-alert-testbericht-is-weer-verstuurd.html",
+          "publishedOn": "2023-12-04T11:02:13.000Z",
+          "wordCount": 2765,
+          "title": "Piepende telefoons door heel Nederland: NL-Alert-testbericht is weer verstuurd",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/aapxbn5aquvt_sqr256.jpg/piepende-telefoons-door-heel-nederland-nl-alert-testbericht-is-weer-verstuurd.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/aapxbn5aquvt_sqr256.jpg/piepende-telefoons-door-heel-nederland-nl-alert-testbericht-is-weer-verstuurd.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6292546/",
           "author": "onze economieredactie",
           "description": "Het Chinese vastgoedconcern Evergrande krijgt onverwacht langer de tijd om met een reddingsplan te komen. Eén van de schuldeisers heeft zijn verzoek ingetrokken tot onmiddelijke liquidatie.",
@@ -25652,6 +25667,36 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "johnson-johnson-ceo-taubert-wolk-14b94dc2?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Leading contenders for the helm of one of the world’s biggest healthcare companies are pharmaceuticals chief Jennifer Taubert and CFO Joseph Wolk.",
+          "link": "https://www.wsj.com/health/healthcare/johnson-johnson-ceo-taubert-wolk-14b94dc2?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-12-04T10:30:00.000Z",
+          "wordCount": 8767,
+          "title": "The Executives Who Could Be Johnson & Johnson’s Next CEO",
+          "imageUrl": "https://images.wsj.net/im-894720/social"
+        },
+        {
+          "id": "china-adds-nio-list-approved-100633095.html",
+          "author": null,
+          "description": "Electric vehicle maker Nio has been added to a Chinese industry ministry database permitting companies to produce vehicles in the country, according to the ministry's website.  The website gave no details on whether or when a manufacturing licence was granted to Nio, which has since 2018 partnered with Anhui Jianghuai Automobile Group (JAC) to produce electric vehicles on a contract basis.  Nio said in response to a Reuters query that it currently had no information to share.",
+          "link": "https://finance.yahoo.com/news/china-adds-nio-list-approved-100633095.html",
+          "publishedOn": "2023-12-04T10:06:33.000Z",
+          "wordCount": 10221,
+          "title": "China adds Nio to list of approved vehicle manufactures - website",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/76f6188299616333f5d16e4281bbd720"
+        },
+        {
+          "id": "spotify-stock-jobs-cuts-cc7ace69?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The cuts are equivalent to about 1,500 jobs and is the third round of layoffs this year.",
+          "link": "https://www.barrons.com/articles/spotify-stock-jobs-cuts-cc7ace69?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-12-04T10:05:00.000Z",
+          "wordCount": 6210,
+          "title": "Spotify Lays Off Even More Staff. Why the Music Streamer Is Being Cautious.",
+          "imageUrl": "https://images.barrons.com/im-712564/social"
+        },
+        {
           "id": "oil-futures-rise-in-likely-technical-rebound-c3922cab?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Brent is forecast to rise to an annual average of $85 a barrel in 2024, according to BMI, adding it expected a sharp slowdown in developed economies in the first half which will put prices under heavy pressure; while in the second half, as global growth passes its nadir, sentiment will strengthen, positioning Brent for healthy gains.",
@@ -25700,6 +25745,16 @@
           "wordCount": 10406,
           "title": "Roche to Buy Obesity Drug Maker Carmot for $3.1 Billion",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/512dfcfc9938f2ca96aa229edc3f0b4d"
+        },
+        {
+          "id": "evergrande-winding-hearing-hong-kong-022803199.html",
+          "author": null,
+          "description": "(Bloomberg) -- China Evergrande Group won breathing room to strike a restructuring agreement with creditors after a Hong Kong court again pushed back a decision on whether the world’s most-indebted property developer should be wound up. Most Read from BloombergHow Suspects Laundered Billions in Singapore for YearsBonds Pull Back While Bitcoin Tops $41,000: Markets WrapBitcoin Scales $41,000 to 19-Month High on ETF Hopes, Fed BetsHere’s How to Invest in Gold as It Hits an All-Time HighAlaska Air",
+          "link": "https://finance.yahoo.com/news/evergrande-winding-hearing-hong-kong-022803199.html",
+          "publishedOn": "2023-12-04T08:17:31.000Z",
+          "wordCount": 10850,
+          "title": "Evergrande liquidation ruling postponed in surprise to creditors",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/kVp7NXnLitaVEzsOb678YQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjQ-/https://media.zenfs.com/en/bloomberg_markets_842/42fce16cd93c620a3eae5b091063fc7a"
         },
         {
           "id": "spotify-cut-headcount-17-confront-073003176.html",
@@ -47720,26 +47775,6 @@
           "wordCount": 10611,
           "title": "Pimco, JPMorgan Are Gearing Up for Long Winter in China Markets",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/SZ8bWK1vNOIXQFGL_t1ieA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/330689e712eedccbd281cc21024fd8ef"
-        },
-        {
-          "id": "u-pumping-more-oil-fewer-230000380.html",
-          "author": null,
-          "description": "Despite a decrease in active drilling rigs, U.S. crude oil production reached a record average of 13.05 million barrels per day in August 2023 thanks to significant efficiency gains and advanced drilling techniques.",
-          "link": "https://finance.yahoo.com/news/u-pumping-more-oil-fewer-230000380.html",
-          "publishedOn": "2023-11-04T23:00:00.000Z",
-          "wordCount": 10341,
-          "title": "How The U.S. Is Pumping More Oil With Fewer Rigs",
-          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
-        },
-        {
-          "id": "analysts-offer-hot-takes-q4-225813030.html",
-          "author": null,
-          "description": "Analysts have weighed in on Apple's Q4 2023 financial results, with most taking the view that the quarter is decent-performing, but with caution about a shorter Q1 2024.",
-          "link": "https://finance.yahoo.com/news/analysts-offer-hot-takes-q4-225813030.html",
-          "publishedOn": "2023-11-04T22:58:13.000Z",
-          "wordCount": 10771,
-          "title": "Analysts offer hot takes on Q4 2023 Apple results",
-          "imageUrl": "https://media.zenfs.com/en/appleinsider_865/7af25f19bed5478f7148a10231f6749e"
         }
       ]
     }
