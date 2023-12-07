@@ -981,6 +981,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "7ca20120ff7267655aaad3d9fd185e4f",
+          "author": "Investopedia",
+          "description": "AMD shares rose after revealing its latest AI chip, with Meta, Microsoft and OpenAI all saying they would use it, and GameStop shares fell after the video game retailer reported lower-than-expected revenue. Here’s what investors need to know today.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df4f2a56d06e81209c9d0a69cdab31b7f6e62de0ed9c60f261bb7a5dd179175c025da5a7f8",
+          "publishedOn": "2023-12-07T13:16:00.777Z",
+          "wordCount": 409,
+          "title": "5 Things to Know Before Markets Open",
+          "imageUrl": null
+        },
+        {
           "id": "d9e9dbe0624e8f5feab7083d37603c9f",
           "author": "Investopedia",
           "description": "The S&P 500 lost 0.4% on Wednesday, Dec. 6, 2023, as the markets considered the impact of this week's slew of labor market reports on Fed decision making.",
@@ -8299,6 +8309,66 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/investing/081514/socialist-economies-how-china-cuba-and-north-korea-work.asp",
+          "author": "Shobhit Seth",
+          "description": "What is socialist economics in the context of Cuba, China, and North Korea?",
+          "link": "https://www.investopedia.com/articles/investing/081514/socialist-economies-how-china-cuba-and-north-korea-work.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-07T13:00:40.000Z",
+          "wordCount": 8337,
+          "title": "Socialist Economies: How China, Cuba, and North Korea Work",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/2bKQRDWj2f0tZt1sHcO4sccUeo4=/3072x2048/GettyImages-108129563-48240cc0c5aa4939b178b4ab5e042db1.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/2bKQRDWj2f0tZt1sHcO4sccUeo4=/3072x2048/GettyImages-108129563-48240cc0c5aa4939b178b4ab5e042db1.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/d/debt-avalanche.asp",
+          "author": "Carla Tardi",
+          "description": "A debt avalanche is an accelerated system of paying down debt that is based on paying the loan with the highest interest rate first. Learn how to use the debt avalanche.",
+          "link": "https://www.investopedia.com/terms/d/debt-avalanche.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-07T12:50:59.000Z",
+          "wordCount": 7776,
+          "title": "Debt Avalanche: Meaning, Pros and Cons, Example",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/2y6DoK3LUu9tq0B9YxP7zvgAy50=/5500x3667/DebtCalculations-d0c871814df7414b82809247b020520f.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/2y6DoK3LUu9tq0B9YxP7zvgAy50=/5500x3667/DebtCalculations-d0c871814df7414b82809247b020520f.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/5-things-to-know-before-markets-open-december-7-2023-8411840",
+          "author": "Terry Lane",
+          "description": "AMD shares rose after revealing its latest AI chip, with Meta, Microsoft and OpenAI all saying they would use it, and GameStop shares fell after the video game retailer reported lower-than-expected revenue. Here’s what investors need to know today.",
+          "link": "https://www.investopedia.com/5-things-to-know-before-markets-open-december-7-2023-8411840?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-07T12:49:10.000Z",
+          "wordCount": 5860,
+          "title": "5 Things to Know Before Markets Open",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/IOjNZSRHOs53haHPh2W98ZgFqDk=/4000x2662/GettyImages-1828906158-c9b4c074144c4346bcb210ccdff1b7fc.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/IOjNZSRHOs53haHPh2W98ZgFqDk=/4000x2662/GettyImages-1828906158-c9b4c074144c4346bcb210ccdff1b7fc.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/r/revokedira.asp",
+          "author": "Julia Kagan",
+          "description": "A revoked IRA is a retirement savings account that is canceled by the account holder seven days or less after it was established.",
+          "link": "https://www.investopedia.com/terms/r/revokedira.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-07T12:38:47.000Z",
+          "wordCount": 7536,
+          "title": "Revoked Individual Retirement Account (IRA): Overview",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/kWocNXBDWaUIoXKegDs4pVkYtcY=/4000x2667/Revokedira-4189995-FINAL-daafacef3926417d9a05b79bb23686a1.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/kWocNXBDWaUIoXKegDs4pVkYtcY=/4000x2667/Revokedira-4189995-FINAL-daafacef3926417d9a05b79bb23686a1.png"
+        },
         {
           "id": "https://www.investopedia.com/articles/personal-finance/012116/how-makeearly-retirement-reality.asp",
           "author": "Rebecca Lake",
@@ -26343,21 +26413,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/d90RAv33XA8_1__VOWDv8shOc5M=/2121x1414/Maturewomanusingsmartphone-4a180053c97047138a62bfab338e2f7a.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/b/backdoor-roth-ira.asp",
-          "author": "Julia Kagan",
-          "description": "The backdoor Roth IRA strategy allows taxpayers to set up a Roth IRA even if their income exceeds the IRS earnings ceiling for Roth ownership.",
-          "link": "https://www.investopedia.com/terms/b/backdoor-roth-ira.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-08T01:02:50.000Z",
-          "wordCount": 7937,
-          "title": "Backdoor Roth IRA: Advantages and Tax Implications Explained",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/X2KqDzi-7-ATFdeyO1jD1G9D-IY=/1500x1000/Term-Definitions_backdoor-roth-ira-ef8e60bcd8a84c80ae9bc8d4f05bd04d.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/X2KqDzi-7-ATFdeyO1jD1G9D-IY=/1500x1000/Term-Definitions_backdoor-roth-ira-ef8e60bcd8a84c80ae9bc8d4f05bd04d.png"
         }
       ]
     },
@@ -26367,6 +26422,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "c3-ai-stock-analysts-guidance-3c7098be?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Analysts continue to point to the long-term potential of the enterprise AI software developer.",
+          "link": "https://www.barrons.com/articles/c3-ai-stock-analysts-guidance-3c7098be?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-12-07T12:41:00.000Z",
+          "wordCount": 7167,
+          "title": "C3.ai Stock Is Plunging After Guidance Underwhelms. What Analysts Are Saying.",
+          "imageUrl": "https://images.barrons.com/im-63708028/social"
+        },
+        {
+          "id": "stock-market-news-today-us-futures-mixed-as-focus-fixes-on-jobs-data-122633979.html",
+          "author": null,
+          "description": "Fresh labor market data is again the focus for investors, though hints the BOJ could exit its ultraloose rates policy was rattling nerves.",
+          "link": "https://finance.yahoo.com/news/stock-market-news-today-us-futures-mixed-as-focus-fixes-on-jobs-data-122633979.html",
+          "publishedOn": "2023-12-07T12:26:33.000Z",
+          "wordCount": 10732,
+          "title": "Stock market news today: US futures mixed as focus fixes on jobs data",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/STP3hnwYUhSlZ_9wlAsG3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/ff087150-6e4b-11ee-9cde-e80cc04318aa"
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -26375,6 +26450,16 @@
           "wordCount": null,
           "title": "Dow Jones Futures Fall; Techs Rise As AMD, Google Bounce In Day 2 Reaction To AI News",
           "imageUrl": null
+        },
+        {
+          "id": "c3-ai-falls-prediction-loss-120028740.html",
+          "author": null,
+          "description": "Weaker spending by enterprises grappling with high interest rates has hurt the broader software industry but AI has remained a bright spot.  The AI application software firm said on Wednesday it was seeing sales cycles prolonging as customers created new governance functions to approve AI applications before use, effectively delaying clients' decision making process.  The average rating of 14 analysts covering the stock is \"hold\", and their median price target is $28, according to LSEG.",
+          "link": "https://finance.yahoo.com/news/c3-ai-falls-prediction-loss-120028740.html",
+          "publishedOn": "2023-12-07T12:00:28.000Z",
+          "wordCount": 10202,
+          "title": "C3.ai falls on prediction loss will widen in fiscal 2024",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
         },
         {
           "id": "stock-market-movers-today-f56b7881?siteid=yhoof2&yptr=yahoo",
@@ -26387,6 +26472,16 @@
           "imageUrl": "https://images.barrons.com/im-62395554/social"
         },
         {
+          "id": "ARGUS_38480_MarketOutlook_1701949343000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_38480_MarketOutlook_1701949343000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-12-07T11:42:23.000Z",
+          "wordCount": null,
+          "title": "Daily Spotlight: Argus's Favored Classes, Segments",
+          "imageUrl": null
+        },
+        {
           "id": "ARGUS_38479_TechnicalAnalysis_1701949322000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "author": null,
           "description": "",
@@ -26394,6 +26489,36 @@
           "publishedOn": "2023-12-07T11:42:02.000Z",
           "wordCount": null,
           "title": "Technical Assessment: Neutral in the Intermediate-Term",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_38478_TopBottomInsiderActivity_1701948810000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_38478_TopBottomInsiderActivity_1701948810000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-12-07T11:33:30.000Z",
+          "wordCount": null,
+          "title": "Daily – Vickers Top Buyers & Sellers for 12/07/2023",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_38477_InsiderActivity_1701948810000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_38477_InsiderActivity_1701948810000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-12-07T11:33:30.000Z",
+          "wordCount": null,
+          "title": "Daily – Vickers Top Insider Picks for 12/07/2023",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_38472_MarketSummary_1701947331000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_38472_MarketSummary_1701947331000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-12-07T11:08:51.000Z",
+          "wordCount": null,
+          "title": "Market Digest: AZO, DKS, MDB",
           "imageUrl": null
         },
         {
@@ -48745,16 +48870,6 @@
           "wordCount": 10784,
           "title": "China's Biggest Winner in Singles Day Bonanza May Be PDD, Say Market Experts",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/2d95d42191abd6b37ba3e292b04c51d7"
-        },
-        {
-          "id": "chart-day-tech-stocks-record-010221676.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/chart-day-tech-stocks-record-010221676.html",
-          "publishedOn": "2023-11-08T01:02:21.000Z",
-          "wordCount": null,
-          "title": "CHART OF THE DAY: Tech stocks are at record highs versus the S&P 500, eclipsing the dot-com bubble's peak",
-          "imageUrl": null
         }
       ]
     }
