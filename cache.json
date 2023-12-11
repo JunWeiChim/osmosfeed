@@ -2078,6 +2078,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6293492/",
+          "author": "onze nieuwsredactie",
+          "description": "Nederlanders hebben dit jaar veel gegoogeld op woorden die met verkiezingen te maken hebben. StemWijzer staat bovenaan de lijst met trending zoektermen. Ook 'verkiezingen', BBB, NSC en 'kabinet gevallen' staan in de top tien.",
+          "link": "https://www.nu.nl/tech/6293492/stemwijzer-de-bbb-en-kabinet-gevallen-meest-gegoogeld.html",
+          "publishedOn": "2023-12-11T10:57:41.000Z",
+          "wordCount": 2658,
+          "title": "StemWijzer, de BBB en 'kabinet gevallen' meest gegoogeld",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/zulxwziarrye_sqr256.jpg/stemwijzer-de-bbb-en-kabinet-gevallen-meest-gegoogeld.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/zulxwziarrye_sqr256.jpg/stemwijzer-de-bbb-en-kabinet-gevallen-meest-gegoogeld.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6293508/",
           "author": "onze nieuwsredactie",
           "description": "ProRail kan niet met zekerheid zeggen of alle spoordijken in Nederland stevig genoeg zijn om de verwachte groei van het treinverkeer aan te kunnen. Dat blijkt uit tussentijdse resultaten van een lopend onderzoek. De spoorbeheerder zegt dat er meer onderzoek nodig is.",
@@ -27208,21 +27223,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/SVqAI082CihKWB1QBTnrZzLiUOA=/7360x4912/GettyImages-1162987349-9de15f75a54a4e6bbd7b4e0117afabde.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/financial-advisors/121615/how-become-401k-millionaire-trow.asp",
-          "author": "Roger Wohlner",
-          "description": "Want to be a 401(k) millionaire? Here are some tips to get you on the right path.",
-          "link": "https://www.investopedia.com/articles/financial-advisors/121615/how-become-401k-millionaire-trow.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-11T22:44:25.000Z",
-          "wordCount": 7730,
-          "title": "How to Become a 401(k) Millionaire",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/cUjeKxDu7y4590Nj40jvwFsFKNM=/680x440/thinkstockphotos-516038057-5bfc34adc9e77c0051817a11.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/cUjeKxDu7y4590Nj40jvwFsFKNM=/680x440/thinkstockphotos-516038057-5bfc34adc9e77c0051817a11.jpg"
         }
       ]
     },
@@ -27231,6 +27231,56 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "your-cash-is-earning-5-interest-is-now-the-time-to-move-it-4310b111?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Investors are considering taking on more risk ahead of possible interest-rate cuts.",
+          "link": "https://www.wsj.com/finance/investing/your-cash-is-earning-5-interest-is-now-the-time-to-move-it-4310b111?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-12-11T10:30:00.000Z",
+          "wordCount": 8495,
+          "title": "Your Cash Is Earning 5% Interest. Is Now the Time to Move It?",
+          "imageUrl": "https://images.wsj.net/im-895580/social"
+        },
+        {
+          "id": "apple-stock-buy-sell-record-high-f74463f4?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Apple shares are nearing a record closing high. Surprisingly strong iPhone sales could be the key to it pushing through that barrier, according to Wedbush analyst Dan Ives.",
+          "link": "https://www.barrons.com/articles/apple-stock-buy-sell-record-high-f74463f4?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-12-11T10:20:00.000Z",
+          "wordCount": 6508,
+          "title": "Apple Stock May Break Through Its All-Time Closing High. Why This Analyst Sees a ‘Golden Opportunity.’",
+          "imageUrl": "https://images.barrons.com/im-619300/social"
+        },
+        {
+          "id": "bernie-madoff-long-gone-lawyers-100316010.html",
+          "author": null,
+          "description": "Long before cryptocurrency and Sam Bankman-Fried, the biggest name in corporate fraud was Bernie Madoff.  Fifteen years after the FBI arrested Madoff on Dec. 11, 2008 for running a massive Ponzi scheme — and two years after his death in a federal prison — lawyers are still sifting through the fallout of his nearly $65 billion fraud.  More than $14.6 billion has been recovered for Madoff's victims so far by Irving Picard, the court-appointed trustee overseeing the liquidation of Madoff's firm, and his legal team.",
+          "link": "https://finance.yahoo.com/news/bernie-madoff-long-gone-lawyers-100316010.html",
+          "publishedOn": "2023-12-11T10:03:16.000Z",
+          "wordCount": 10406,
+          "title": "Bernie Madoff is long gone. The lawyers are going strong",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/9167a2f637c321782f64ea5954e1d55f"
+        },
+        {
+          "id": "macys-stock-kohls-nordstrom-buyout-bid-4560618d?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "A group of investors has offered $5.8 billion to buy Macy's and take it private, The Wall Street Journal reported Sunday.",
+          "link": "https://www.barrons.com/articles/macys-stock-kohls-nordstrom-buyout-bid-4560618d?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-12-11T09:56:00.000Z",
+          "wordCount": 5760,
+          "title": "Macy’s Stock Is Soaring. Investors Made a $5.8 Billion Buyout Bid.",
+          "imageUrl": "https://images.barrons.com/im-431658/social"
+        },
+        {
+          "id": "morgan-stanley-wilson-sees-big-094542940.html",
+          "author": null,
+          "description": "(Bloomberg) -- US company earnings are likely to weaken in the fourth quarter before a rebound in 2024 as margins are under pressure, according to Morgan Stanley’s Michael Wilson.Most Read from BloombergBitcoin’s 2023 Rally Frays During Brief 7.5% Drop Toward $40,000Stocks Make Cautious Start to Event-Packed Week: Markets WrapHarvard Under Heightened Pressure After Penn Leaders OustedBiden’s Support of Israel Alienates More Democrats in New PollThe strategist highlights a “steep downward revisio",
+          "link": "https://finance.yahoo.com/news/morgan-stanley-wilson-sees-big-094542940.html",
+          "publishedOn": "2023-12-11T09:45:42.000Z",
+          "wordCount": 10561,
+          "title": "Morgan Stanley’s Wilson Sees Big Drop in Near-Term Profit Views",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/b9fa1a0fb688162303c2b030d9eaa7e6"
+        },
         {
           "id": "stock-market-movers-562625b3?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -49250,26 +49300,6 @@
           "wordCount": 10262,
           "title": "Investors pull record sums from Saudi in Middle East fund flight",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/b5790b7068eb1d63fefb4f977f13cb2d"
-        },
-        {
-          "id": "nvidia-ceo-jensen-huang-says-225059737.html",
-          "author": null,
-          "description": "“We don’t have to pretend the company is always in peril,\" said Huang. \"The company is always in peril, and we feel it.”",
-          "link": "https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-says-225059737.html",
-          "publishedOn": "2023-11-11T22:50:59.000Z",
-          "wordCount": 10470,
-          "title": "Nvidia CEO Jensen Huang says his AI powerhouse is ‘always in peril’ despite a $1.1 trillion market cap: ‘We feel it’",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_6VwIbxgLvKDDNjZIzrTtw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/56bb991c3dbd3297b193f4fd528d62a6"
-        },
-        {
-          "id": "how-become-401k-millionaire-trow.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Want to be a 401(k) millionaire? Here are some tips to get you on the right path.",
-          "link": "https://www.investopedia.com/articles/financial-advisors/121615/how-become-401k-millionaire-trow.asp?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-11-11T22:44:25.000Z",
-          "wordCount": 7747,
-          "title": "How to Become a 401(k) Millionaire",
-          "imageUrl": "https://www.investopedia.com/thmb/CbS_ka7fEhAetDmAgEKn9QqNx_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/thinkstockphotos-516038057-5bfc34adc9e77c0051817a11.jpg"
         }
       ]
     }
