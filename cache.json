@@ -1161,6 +1161,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "89569d3b80c77c73b2f78f7b47e7d927",
+          "author": "Investopedia",
+          "description": "The landmark COP28 climate agreement, in pledging to move away from fossil fuels, boosted renewable energy stocks—but experts say persistent realities mean fossil fuels aren't going away soon.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9462c9e708a45e358dc32bb7fd39269c0958c624c839fc904d2457cf269321de9f576fccf667eab8e135f6a58a22ab38a42900973a5b455c19e9beaed6644ac0defba4cfc995945816da4f91cb3331",
+          "publishedOn": "2023-12-16T21:10:10.057Z",
+          "wordCount": 409,
+          "title": "Renewable Stocks Get a Boost From COP28, But Don't Count Out Fossil Fuels",
+          "imageUrl": null
+        },
+        {
           "id": "4982685b5693643978db4b1901c9c237",
           "author": "Investopedia",
           "description": "The Fed-fueled rally for the S&P 500 stalled with the index falling less than 0.1% on Friday, Dec. 15, 2023, but the Dow was up slightly, adding to its all-time high.",
@@ -8876,21 +8886,6 @@
             "url": "https://media.nu.nl/m/1g3xs8na53jf_sqr256.jpg/apple-is-overstag-en-gaat-op-iphones-de-opvolger-van-sms-ondersteunen.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/1g3xs8na53jf_sqr256.jpg/apple-is-overstag-en-gaat-op-iphones-de-opvolger-van-sms-ondersteunen.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6289986/",
-          "author": "Tom van Gurp",
-          "description": "De omslag naar schonere energie gaat niet zonder slag of stoot. Dat merken ook verkopers van zonnepanelen, die de markt de laatste maanden zien instorten. Tegelijkertijd is de bouw van enkele grote windparken stilgelegd, door tegenvallende kosten.",
-          "link": "https://www.nu.nl/economie/6289986/vergroening-onder-druk-minder-rendabele-zonnepanelen-en-windmolens.html",
-          "publishedOn": "2023-11-17T08:40:44.000Z",
-          "wordCount": 3210,
-          "title": "NU+ | Vergroening onder druk: minder rendabele zonnepanelen en windmolens",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/95xxt8ea5hdt_sqr256.jpg/vergroening-onder-druk-minder-rendabele-zonnepanelen-en-windmolens.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/95xxt8ea5hdt_sqr256.jpg/vergroening-onder-druk-minder-rendabele-zonnepanelen-en-windmolens.jpg"
         }
       ]
     },
@@ -8899,6 +8894,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/ask/answers/122314/what-difference-between-market-capitalization-and-market-value.asp",
+          "author": "Claire Boyte-White",
+          "description": "Both market capitalization and market value provide a measure of corporate assets but the two are vastly different in their calculation and precision.",
+          "link": "https://www.investopedia.com/ask/answers/122314/what-difference-between-market-capitalization-and-market-value.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-16T20:56:42.000Z",
+          "wordCount": 6952,
+          "title": "Market Capitalization vs. Market Value: What&#39;s the Difference?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/t7ZK9XKvPXFJ3kNufxAVwnDqXsU=/2122x1415/foreign-currency-money-with-wrench-56a9a7f45f9b58b7d0fdb638.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/t7ZK9XKvPXFJ3kNufxAVwnDqXsU=/2122x1415/foreign-currency-money-with-wrench-56a9a7f45f9b58b7d0fdb638.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/renewable-stocks-get-a-boost-from-cop28-but-dont-count-out-fossil-fuels-8416894",
+          "author": "Lyle Niedens",
+          "description": "The landmark COP28 climate agreement, in pledging to move away from fossil fuels, boosted renewable energy stocks—but experts say persistent realities mean fossil fuels aren't going away soon.",
+          "link": "https://www.investopedia.com/renewable-stocks-get-a-boost-from-cop28-but-dont-count-out-fossil-fuels-8416894?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-16T20:25:14.000Z",
+          "wordCount": 6265,
+          "title": "Renewable Stocks Get a Boost From COP28, But Don&#39;t Count Out Fossil Fuels",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/NcuWl003TTlExuAxVvXWUUlLerg=/5958x3972/INV_COP28_GettyImages-1843048329-4ef627c4be0645bc9650bd9622eafe9e.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/NcuWl003TTlExuAxVvXWUUlLerg=/5958x3972/INV_COP28_GettyImages-1843048329-4ef627c4be0645bc9650bd9622eafe9e.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/insurance/120816/coinsurance-vs-copay-why-you-need-know-difference.asp",
+          "author": "Allison Martin",
+          "description": "Copays and coinsurance are two types of out-of-pocket costs, but they vary depending on the health insurance plan you choose.",
+          "link": "https://www.investopedia.com/articles/insurance/120816/coinsurance-vs-copay-why-you-need-know-difference.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-16T20:23:58.000Z",
+          "wordCount": 7944,
+          "title": "What&#39;s the Difference Between Coinsurance and a Copay?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/OtkWIwh2gvVoMIsB5lW-vfJ3Trs=/2121x1414/doctorvisit-409ecfad991e45cf949f9cbe27cde72e.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/OtkWIwh2gvVoMIsB5lW-vfJ3Trs=/2121x1414/doctorvisit-409ecfad991e45cf949f9cbe27cde72e.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/c/coinsurance.asp",
           "author": "Julia Kagan",
@@ -30081,6 +30121,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "1-growth-stock-down-91-191540710.html",
+          "author": null,
+          "description": "The Central Bank in the U.S. has indicated interest rates could be lowered in 2024, and growth stocks could have an excellent year in that scenario.",
+          "link": "https://finance.yahoo.com/news/1-growth-stock-down-91-191540710.html",
+          "publishedOn": "2023-12-16T19:15:40.000Z",
+          "wordCount": 10357,
+          "title": "1 Growth Stock Down 91% to Buy Hand Over Fist for 2024",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/4c178da090e5162772fbc25514fe2b8a"
+        },
         {
           "id": "nvidia-stock-hit-1-000-160000829.html",
           "author": null,
@@ -52760,16 +52810,6 @@
           "wordCount": 10252,
           "title": "Jack Ma Loses $683 Million on Alibaba Days Before Big Stake Sale",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/7MVk9XFINCcHSDT3psHBWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/f206a085d3823d8895bfe4550e2eb0f0"
-        },
-        {
-          "id": "volvo-cars-shares-plunge-record-084708846.html",
-          "author": null,
-          "description": "Shares of Swedish auto maker Volvo Cars fell 14% on Friday as its top owner, China's Geely, sold parts of its holdings at a deep discount to the previous day's closing price.  Geely on Thursday launched a placing of some 100 million Volvo Cars shares, which the deal's bookrunner later said was sold at a price of around 37 Swedish crowns each, or around $350 million in total.  Volvo Cars' share price fell to a low of 35.25 Swedish crowns, an all-time low, before recovering slightly.",
-          "link": "https://finance.yahoo.com/news/volvo-cars-shares-plunge-record-084708846.html",
-          "publishedOn": "2023-11-17T08:47:08.000Z",
-          "wordCount": 10107,
-          "title": "Volvo Cars shares drop to record low as Geely trims stake",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/d84b57ec5b78a6b20305c5ae8f3fd893"
         }
       ]
     }
