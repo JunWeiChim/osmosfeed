@@ -1101,6 +1101,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "4fbb03df525e62fa9859cf593d63acf5",
+          "author": "Investopedia",
+          "description": "Stock futures were up in premarket trading at the outset of the last full trading week of the year, while oil gained following shipping disruptions in the Red Sea.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c2150d9268d768e3c10f73108a3cc76b84",
+          "publishedOn": "2023-12-18T14:11:59.608Z",
+          "wordCount": 409,
+          "title": "Dow Jones Today: Futures Point to Gains for Stocks; Oil Rises as BP Pauses Red Sea Shipping",
+          "imageUrl": null
+        },
+        {
           "id": "a8473437ea8a263568f3780b98c37543",
           "author": "Investopedia",
           "description": "U.S. Steel shares surged after it announced it would be purchased by Japan’s Nippon Steel in a $14.9 billion deal and shares of Chinese EV maker NIO jumped after it announced a $2.2 billion investment. Here’s what investors need to know today.",
@@ -8699,6 +8709,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/d/dfl.asp",
+          "author": "Adam Hayes",
+          "description": "The degree of financial leverage (DFL) is a ratio that measures the sensitivity of a company’s earnings per share to fluctuations in its operating income, as a result of changes in its capital structure.",
+          "link": "https://www.investopedia.com/terms/d/dfl.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-18T13:47:01.000Z",
+          "wordCount": 6862,
+          "title": "Degree of Financial Leverage (DFL): Definition and Formula",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/-nyHgK4zGS6bI8jcFm8URrxaebg=/380x253/aa010876-5bfc2b9cc9e77c005143f33c.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/-nyHgK4zGS6bI8jcFm8URrxaebg=/380x253/aa010876-5bfc2b9cc9e77c005143f33c.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/investing/082213/how-calculate-bidask-spread.asp",
+          "author": "The Investopedia Team",
+          "description": "It is very important for every investor to learn how to calculate the bid-ask spread and consider this figure when making investment decisions.",
+          "link": "https://www.investopedia.com/articles/investing/082213/how-calculate-bidask-spread.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-18T13:15:10.000Z",
+          "wordCount": 6930,
+          "title": "How to Calculate the Bid-Ask Spread",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ykpNTMLrW4M_gOizXM8xFT6eh4M=/2120x1414/GettyImages-525348438-0cdffe67f1574eb39c2c3b3a949b058e.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ykpNTMLrW4M_gOizXM8xFT6eh4M=/2120x1414/GettyImages-525348438-0cdffe67f1574eb39c2c3b3a949b058e.jpg"
+        },
         {
           "id": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-december-18-2023-8417274",
           "author": "Terry Lane",
@@ -30451,6 +30491,76 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "adobe-stock-terminates-figma-acquisition-e0fee687?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Adobe and Figma terminate their merger agreement amid pushback from regulators.",
+          "link": "https://www.barrons.com/articles/adobe-stock-terminates-figma-acquisition-e0fee687?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-12-18T13:55:00.000Z",
+          "wordCount": 5870,
+          "title": "Adobe to Terminate Figma Purchase. Regulators Weren’t Getting on Board.",
+          "imageUrl": "https://images.barrons.com/im-60191/social"
+        },
+        {
+          "id": "oil-prices-red-sea-attacks-bp-ed045e60?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Separately, Russia said it may reduce crude output further.",
+          "link": "https://www.barrons.com/articles/oil-prices-red-sea-attacks-bp-ed045e60?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-12-18T13:28:00.000Z",
+          "wordCount": 5727,
+          "title": "Oil Prices Climb as Red Sea Attacks Disrupt Shipments by BP and Others",
+          "imageUrl": "https://images.barrons.com/im-64182020/social"
+        },
+        {
+          "id": "vf-stock-security-breach-df323ce2?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "VF Corp, the parent company of Vans and The North Face, says a breach detected last week has disrupted business operations.",
+          "link": "https://www.barrons.com/articles/vf-stock-security-breach-df323ce2?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-12-18T13:22:00.000Z",
+          "wordCount": 5807,
+          "title": "VF Corp Stock Sinks as Security Breach Likely to Have ‘Material Impact’",
+          "imageUrl": "https://images.barrons.com/im-51510741/social"
+        },
+        {
+          "id": "fuelcell-stock-exxon-mobil-523d5cd3?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Exxon Mobil’s affiliate, Esso Nederland BV, plans to develop a pilot plant with FuelCell to test a type of technology that could reduce CO2 emissions.",
+          "link": "https://www.barrons.com/articles/fuelcell-stock-exxon-mobil-523d5cd3?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-12-18T13:11:00.000Z",
+          "wordCount": 5809,
+          "title": "FuelCell Stock Soars After Exxon Mobil Tie-Up. How They Plan to Cut Carbon.",
+          "imageUrl": "https://images.barrons.com/im-267047/social"
+        },
+        {
+          "id": "fords-big-move-red-flag-130700346.html",
+          "author": null,
+          "description": "It's a potential problem for Rivian when a key rival cuts production of its electric truck in half. Or is it?",
+          "link": "https://finance.yahoo.com/news/fords-big-move-red-flag-130700346.html",
+          "publishedOn": "2023-12-18T13:07:00.000Z",
+          "wordCount": 10845,
+          "title": "Is Ford's Big Move a Red Flag for Rivian in 2024?",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/06dc412c0c41107aeb10f3c0e34d48c9"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/how-to-invest/investors-corner/high-volume-key-open-sesame-moment-for-stock-move/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-12-18T13:00:18.000Z",
+          "wordCount": null,
+          "title": "The Importance Of Volume: How Heavy Trade Sparked An 'Open Sesame' Moment For Alibaba",
+          "imageUrl": null
+        },
+        {
+          "id": "ready-next-bull-market-discover-125700533.html",
+          "author": null,
+          "description": "Ready to seize the upcoming bull market's opportunities? These top-notch tech stocks are more than meets the eye.",
+          "link": "https://finance.yahoo.com/news/ready-next-bull-market-discover-125700533.html",
+          "publishedOn": "2023-12-18T12:57:00.000Z",
+          "wordCount": 11802,
+          "title": "Ready for the Next Bull Market? Discover 3 Undervalued Tech Stocks Set to Soar in the Economic Upswing",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/73576b4c3859b4713849b2e8d250b721"
+        },
         {
           "id": "5-things-to-know-before-the-stock-market-opens-december-18-2023-8417274?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
           "author": null,
@@ -53020,46 +53130,6 @@
           "wordCount": 9737,
           "title": "Exclusive-GM's Cruise CEO offers apology, will allow share sales",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/d59ebdc8cbc0af078efdbfbdb95cf8f6"
-        },
-        {
-          "id": "wall-street-has-a-plan-for-a-soft-landing-buy-more-stocks-cecd4518?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Investors pile in, but some say it is too soon to declare victory.",
-          "link": "https://www.wsj.com/finance/stocks/wall-street-has-a-plan-for-a-soft-landing-buy-more-stocks-cecd4518?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-11-19T02:00:00.000Z",
-          "wordCount": 8748,
-          "title": "Wall Street Has a Plan for a Soft Landing: Buy More Stocks",
-          "imageUrl": "https://images.wsj.net/im-888287/social"
-        },
-        {
-          "id": "the-estate-taxes-catching-americans-by-surprise-488e08a9?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Seventeen states and the District of Columbia have estate or inheritance taxes or both. The rules can change from year to year.",
-          "link": "https://www.wsj.com/personal-finance/the-estate-taxes-catching-americans-by-surprise-488e08a9?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-11-19T02:00:00.000Z",
-          "wordCount": 6869,
-          "title": "The Estate Taxes Catching Americans by Surprise",
-          "imageUrl": "https://images.wsj.net/im-888773/social"
-        },
-        {
-          "id": "lmi-showing-transportation-market-flip-013000045.html",
-          "author": null,
-          "description": "The Logistics Managers’ Index has done a great job of explaining freight market capacity shifts over the past several years. The last few months are painting a picture of a market that is racing toward a correction. The post LMI showing transportation market flip is coming appeared first on FreightWaves.",
-          "link": "https://finance.yahoo.com/news/lmi-showing-transportation-market-flip-013000045.html",
-          "publishedOn": "2023-11-19T01:30:00.000Z",
-          "wordCount": 10472,
-          "title": "LMI showing transportation market flip is coming",
-          "imageUrl": "https://media.zenfs.com/en/freightwaves_373/cffa56ede51be22973e869dffde45962"
-        },
-        {
-          "id": "sam-altman-ousting-possible-return-012746058.html",
-          "author": null,
-          "description": "(Bloomberg) -- OpenAI stunned employees, investors and much of Silicon Valley on Friday by ousting Chief Executive Officer Sam Altman, who more than any other figure had emerged as the face of artificial intelligence following the viral success of his company’s chatbot, ChatGPT. Almost instantly, the world’s best-known AI startup, which has been in talks to sell employee shares to investors at an $86 billion valuation, was thrown into disarray. Several people, including OpenAI President Greg Bro",
-          "link": "https://finance.yahoo.com/news/sam-altman-ousting-possible-return-012746058.html",
-          "publishedOn": "2023-11-19T01:27:46.000Z",
-          "wordCount": 10860,
-          "title": "Sam Altman’s Ousting and Possible Return to OpenAI: What We Know",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/588WJitKKFrJJX8u_bGPuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_markets_842/2bedcf915215bd37824f48663f001b16"
         }
       ]
     }
