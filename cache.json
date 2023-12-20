@@ -24,6 +24,26 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "a9be2a0fa37186df91999e3f67c9cd17",
+          "author": "Investopedia",
+          "description": "Management consultant Aon said it would buy middle-market insurance firm NFP in a cash and stock deal worth $13.4 billion.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8768c9af0baa11388b9f2daae03f60864a4cd6228436b2970f2956d46090219c9c1c7c8ebe61e3adb778b7",
+          "publishedOn": "2023-12-20T18:15:26.106Z",
+          "wordCount": 409,
+          "title": "Aon to Acquire Insurance Broker NFP for $13.4 Billion",
+          "imageUrl": null
+        },
+        {
+          "id": "e61abb92739db5dc5d087b8e27e43fe4",
+          "author": "Investopedia",
+          "description": "FedEx shares tumbled after the delivery firm posted worse-than-expected results and cut its guidance on weaker demand.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8062c3e707e84c359d803fa6e1772c89505ad17d8c2ca2df4e2a50de78817ed4930862cae832a1b8f125f2e79c39e824ec380acf3d5c454404e4bef08d26019c82ee",
+          "publishedOn": "2023-12-20T18:15:26.082Z",
+          "wordCount": 409,
+          "title": "FedEx Plunges After Its Latest Earnings Report—Here’s Why",
+          "imageUrl": null
+        },
+        {
           "id": "1be4926367893f509d4175f2995f99a3",
           "author": "Investopedia",
           "description": "Boeing said Lufthansa would buy single-aisle aircraft from the plane maker for the first time since 1995, when it moved to an all-Airbus single-aisle fleet, although it continued to buy Boeing’s wide-body planes.",
@@ -1181,6 +1201,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "4e10ad697ff912f2ebac67a7e7647f29",
+          "author": "Investopedia",
+          "description": "U.S. equities continued their recent rally at midday Wednesday, Dec. 20, 2023, boosted by tech stocks.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b6ec3e61ebc113487983db1e1772c835457c232802cfc98572654c8269336d5970221c2e831fff2e62ee7fa8f21e821e0260391795c045a1cb0abfc882f0f998b",
+          "publishedOn": "2023-12-20T18:15:26.091Z",
+          "wordCount": 409,
+          "title": "Midday Movers: Alphabet Jumps, FedEx and General Mills Slip",
+          "imageUrl": null
+        },
+        {
           "id": "1e239ae39ecc8a433b9a1cda669503db",
           "author": "Investopedia",
           "description": "These three stocks are worth monitoring today. We look at the reasons why and identify important chart levels to watch.",
@@ -2307,6 +2337,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6294961/",
+          "author": "onze nieuwsredactie",
+          "description": "De ministers van Financiën van EU-landen hebben een akkoord gesloten over nieuwe begrotingsregels. Landen met een hoge staatsschuld krijgen meer tijd om hun schuld te verlagen. In ruil voor de versoepeling worden de nieuwe regels beter nageleefd.",
+          "link": "https://www.nu.nl/economie/6294961/eu-ministers-bereiken-akkoord-over-versoepeling-staatsschuldregels.html",
+          "publishedOn": "2023-12-20T18:07:54.000Z",
+          "wordCount": 3001,
+          "title": "EU-ministers bereiken akkoord over versoepeling staatsschuldregels",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/4cxxul3alslh_sqr256.jpg/eu-ministers-bereiken-akkoord-over-versoepeling-staatsschuldregels.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/4cxxul3alslh_sqr256.jpg/eu-ministers-bereiken-akkoord-over-versoepeling-staatsschuldregels.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6294951/",
+          "author": "onze economieredactie",
+          "description": "De ECB hoeft haar rentetarieven niet snel te verlagen nu de inflatie daalt, vindt DNB-president Klaas Knot. Hij denkt namelijk dat de inflatie komend jaar weer kan oplopen omdat lonen van Europeanen komend jaar zullen stijgen.",
+          "link": "https://www.nu.nl/economie/6294951/ecb-rente-hoeft-van-dnb-president-klaas-knot-niet-snel-omlaag.html",
+          "publishedOn": "2023-12-20T17:12:18.000Z",
+          "wordCount": 2762,
+          "title": "ECB-rente hoeft van DNB-president Klaas Knot niet snel omlaag",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/sdgxituajvdc_sqr256.jpg/ecb-rente-hoeft-van-dnb-president-klaas-knot-niet-snel-omlaag.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/sdgxituajvdc_sqr256.jpg/ecb-rente-hoeft-van-dnb-president-klaas-knot-niet-snel-omlaag.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6294951/",
           "author": "onze economieredactie",
@@ -8966,21 +9026,6 @@
             "url": "https://media.nu.nl/m/zvkx36vanjgq_sqr256.jpg/vakbonden-akkoord-over-loonsverhoging-en-verlaging-werkdruk-in-jeugdzorg.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/zvkx36vanjgq_sqr256.jpg/vakbonden-akkoord-over-loonsverhoging-en-verlaging-werkdruk-in-jeugdzorg.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6290600/",
-          "author": "onze nieuwsredactie",
-          "description": "Brancheorganisatie Jeugdzorg Nederland en vakbonden FNV, CNV en FBZ hebben een onderhandelaarsakkoord over een nieuwe cao bereikt. Medewerkers krijgen in 2024 9,25 procent meer loon. Ook stijgen de lonen in 2025 met 3 procent en wordt er inflatiecompensatie toegepast.",
-          "link": "https://www.nu.nl/economie/6290600/vakbonden-bereiken-akkoord-over-nieuwe-cao-jeugdzorg.html",
-          "publishedOn": "2023-11-21T06:11:52.000Z",
-          "wordCount": 2534,
-          "title": "Vakbonden bereiken akkoord over nieuwe cao jeugdzorg",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/zvkx36vanjgq_sqr256.jpg/vakbonden-bereiken-akkoord-over-nieuwe-cao-jeugdzorg.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/zvkx36vanjgq_sqr256.jpg/vakbonden-bereiken-akkoord-over-nieuwe-cao-jeugdzorg.jpg"
         }
       ]
     },
@@ -8989,6 +9034,246 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/l/ledgerx.asp",
+          "author": "Jake Frankenfield",
+          "description": "FTX U.S. Derivatives was an exchange and clearinghouse specializing in cryptocurrency derivatives.",
+          "link": "https://www.investopedia.com/terms/l/ledgerx.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-20T18:04:02.000Z",
+          "wordCount": 6526,
+          "title": "What Was FTX US Derivatives?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/S89ZOeCRPQJ1ZQXwjEs6h4GGiMM=/1024x645/bitcoinondollarbill-ca582846c4c94e5da27573e328ace89c.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/S89ZOeCRPQJ1ZQXwjEs6h4GGiMM=/1024x645/bitcoinondollarbill-ca582846c4c94e5da27573e328ace89c.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/aon-to-acquire-insurance-broker-nfp-8418485",
+          "author": "Kevin George",
+          "description": "Management consultant Aon said it would buy middle-market insurance firm NFP in a cash and stock deal worth $13.4 billion.",
+          "link": "https://www.investopedia.com/aon-to-acquire-insurance-broker-nfp-8418485?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-20T17:49:41.000Z",
+          "wordCount": 5475,
+          "title": "Aon to Acquire Insurance Broker NFP for $13.4 Billion",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/QbCE0l7CmUl9M-k1DcAfFoY8aCU=/3500x2333/GettyImages-1188709627-7c6fec8ca37d48e796e5cdbb640cbf1a.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/QbCE0l7CmUl9M-k1DcAfFoY8aCU=/3500x2333/GettyImages-1188709627-7c6fec8ca37d48e796e5cdbb640cbf1a.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/s/sparkspread.asp",
+          "author": "The Investopedia Team",
+          "description": "The spark spread is the difference between the wholesale market price of electricity and its cost of production using natural gas.",
+          "link": "https://www.investopedia.com/terms/s/sparkspread.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-20T17:39:10.000Z",
+          "wordCount": 6688,
+          "title": "Spark Spread: What It Is and How It's Used",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/wcP6t87P7ytH7E6sA9FoSLoDbfs=/1500x844/GettyImages-1055247044-55a519dab1e84bdc8e0855fd5c61bade.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/wcP6t87P7ytH7E6sA9FoSLoDbfs=/1500x844/GettyImages-1055247044-55a519dab1e84bdc8e0855fd5c61bade.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/midday-movers-alphabet-jumps-fedex-and-general-mills-slip-8418609",
+          "author": "Staff Author",
+          "description": "U.S. equities continued their recent rally at midday Wednesday, Dec. 20, 2023, boosted by tech stocks.",
+          "link": "https://www.investopedia.com/midday-movers-alphabet-jumps-fedex-and-general-mills-slip-8418609?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-20T17:26:51.000Z",
+          "wordCount": 5353,
+          "title": "Midday Movers: Alphabet Jumps, FedEx and General Mills Slip",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/zAzkRCbD51wZU1YCsWUcXKfW-0I=/5472x3648/GettyImages-14984430991-d94afda626284c1e9255c853f95e8caa.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/zAzkRCbD51wZU1YCsWUcXKfW-0I=/5472x3648/GettyImages-14984430991-d94afda626284c1e9255c853f95e8caa.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/fedex-plunges-after-its-latest-earnings-report-here-is-why-8418508",
+          "author": "Staff Author",
+          "description": "FedEx shares tumbled after the delivery firm posted worse-than-expected results and cut its guidance on weaker demand.",
+          "link": "https://www.investopedia.com/fedex-plunges-after-its-latest-earnings-report-here-is-why-8418508?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-20T17:14:05.000Z",
+          "wordCount": 5524,
+          "title": "FedEx Plunges After Its Latest Earnings Report—Here’s Why",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/dFf_sJyY2udLS8fCOka7DpKwHhw=/6000x4000/GettyImages-1259099026-9c8e1f70377945529dd84d9afb8ee22d.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/dFf_sJyY2udLS8fCOka7DpKwHhw=/6000x4000/GettyImages-1259099026-9c8e1f70377945529dd84d9afb8ee22d.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/fundamental-analysis/09/value-investing.asp",
+          "author": "Andrew Beattie",
+          "description": "In this article, we'll look at value investing techniques that legendary investors like Warren Buffett have used to identify undervalued companies.",
+          "link": "https://www.investopedia.com/articles/fundamental-analysis/09/value-investing.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-20T17:12:56.000Z",
+          "wordCount": 8006,
+          "title": "Strategies of Legendary Value Investors",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/OhFTWSwlCG6hBqvYqFT6-odedRY=/285x260/fundamental-analysis-lrg-2-5bfc2b21c9e77c0026b4e5bc.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/OhFTWSwlCG6hBqvYqFT6-odedRY=/285x260/fundamental-analysis-lrg-2-5bfc2b21c9e77c0026b4e5bc.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/investing/041013/differences-between-forward-pe-and-trailing-pe.asp",
+          "author": "Tim Parker",
+          "description": "The most common types of price to earnings ratios are forward P/E and trailing P/E. Find out how they differ and the advantages and drawbacks of each.",
+          "link": "https://www.investopedia.com/articles/investing/041013/differences-between-forward-pe-and-trailing-pe.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-20T17:12:28.000Z",
+          "wordCount": 6507,
+          "title": "Forward P/E vs. Trailing P/E: What&#39;s the Difference?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ki7A3YMKT613BZRGN9L3_Fh16YI=/380x254/71080438-5bfc38c24cedfd0026c4b40c.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ki7A3YMKT613BZRGN9L3_Fh16YI=/380x254/71080438-5bfc38c24cedfd0026c4b40c.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/investing/080113/understanding-leverage-ratios.asp",
+          "author": "Daniel Kurt",
+          "description": "Investors use a variety of leverage ratios—including the debt-to-equity and interest coverage ratios—to identify firms with unhealthy debt levels.",
+          "link": "https://www.investopedia.com/articles/investing/080113/understanding-leverage-ratios.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-20T17:11:36.000Z",
+          "wordCount": 7368,
+          "title": "How Investors Use Leverage Ratios to Gauge Financial Health",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/wFNIiNr7fQedJooa1gtKh6-b9RQ=/1500x1000/GettyImages-175599141-945d5edd9a33454cb4a100e9e4bd8c74.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/wFNIiNr7fQedJooa1gtKh6-b9RQ=/1500x1000/GettyImages-175599141-945d5edd9a33454cb4a100e9e4bd8c74.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/investing/100313/reviewing-liabilities-balance-sheet.asp",
+          "author": "Michael Schmidt",
+          "description": "As an experienced or new analyst, liabilities tell a deep story of how a company finances, plans and accounts for money it will need to pay at a future date.",
+          "link": "https://www.investopedia.com/articles/investing/100313/reviewing-liabilities-balance-sheet.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-20T17:11:04.000Z",
+          "wordCount": 7692,
+          "title": "Reviewing Liabilities on the Balance Sheet",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/W2tXIr8NknoFQPeuGNB3BV-G4W8=/680x442/liabilities_-_resized-5bfc371146e0fb0051c0a014.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/W2tXIr8NknoFQPeuGNB3BV-G4W8=/680x442/liabilities_-_resized-5bfc371146e0fb0051c0a014.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/the-laws-of-economics-broke-before-the-labor-market-did-8418302",
+          "author": "Staff Author",
+          "description": "In 2023, the well-known rules of economics dictated that hundreds of thousands of people should lose their jobs. But instead of cracking, the labor market continued to chug along.",
+          "link": "https://www.investopedia.com/the-laws-of-economics-broke-before-the-labor-market-did-8418302?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-20T17:10:24.000Z",
+          "wordCount": 6048,
+          "title": "The Laws of Economics Broke Before The Labor Market Did",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Og5StnzmuqIXTU3128xjRwxOrHo=/4483x2989/GettyImages-1831279450-4d4fef8e896649b49a09a72358766ee6.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Og5StnzmuqIXTU3128xjRwxOrHo=/4483x2989/GettyImages-1831279450-4d4fef8e896649b49a09a72358766ee6.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/investing/032113/basics-financial-analysis-report.asp",
+          "author": "Ryan Furhmann",
+          "description": "Financial analysis reports contain a wealth of valuable information about a company. Here are major sections to consider when writing and reading one.",
+          "link": "https://www.investopedia.com/articles/investing/032113/basics-financial-analysis-report.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-20T17:09:58.000Z",
+          "wordCount": 6820,
+          "title": "How to Read a Financial Analysis Report",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/vmnGRXxUxp2YhfwUtxaVTVROrf0=/6000x4000/midsection-businessmen-analyzing-charts-on-laptop-in-office-1128046391-d93388c66f414425aaa6270159de207b.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/vmnGRXxUxp2YhfwUtxaVTVROrf0=/6000x4000/midsection-businessmen-analyzing-charts-on-laptop-in-office-1128046391-d93388c66f414425aaa6270159de207b.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/07/microfinance.asp",
+          "author": "The Investopedia Team",
+          "description": "This growing industry is full of opportunities for the socially conscious investor.",
+          "link": "https://www.investopedia.com/articles/07/microfinance.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-20T17:09:26.000Z",
+          "wordCount": 7235,
+          "title": "Microfinance: What It Is And How to Get Involved",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/GckTXFL78V2SkEGm6XND5cvFGMg=/285x260/financial-theory-lrg-4-5bfc2b22c9e77c002630523a.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/GckTXFL78V2SkEGm6XND5cvFGMg=/285x260/financial-theory-lrg-4-5bfc2b22c9e77c002630523a.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/investing/062113/understanding-profit-metrics-gross-operating-and-net-profits.asp",
+          "author": "Daniel Kurt",
+          "description": "Learn how the three profit metrics (gross profit, operating profit, and net profit) help investors see how a company is performing.",
+          "link": "https://www.investopedia.com/articles/investing/062113/understanding-profit-metrics-gross-operating-and-net-profits.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-20T17:08:56.000Z",
+          "wordCount": 7554,
+          "title": "3 Profit Metrics Every Investors Should Understand",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/YznLJpO9Dki934KK1OxbtrGPUlE=/5717x3813/business-team-planning-meeting-businessmen-analyze-the-market-1133023487-8b5ff385d2ac44018f62a12d041a0bd4.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/YznLJpO9Dki934KK1OxbtrGPUlE=/5717x3813/business-team-planning-meeting-businessmen-analyze-the-market-1133023487-8b5ff385d2ac44018f62a12d041a0bd4.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/forex/09/corporate-currency-risks.asp",
+          "author": "Permjit Singh",
+          "description": "Corporate currency risks include transaction, translation, and economic risks.",
+          "link": "https://www.investopedia.com/articles/forex/09/corporate-currency-risks.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-20T17:08:28.000Z",
+          "wordCount": 7271,
+          "title": "What Are the Risks of Corporate Currency?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/QHbGy8vNZHi4q3630JomXGrtjxw=/285x260/forex-lrg-3-5bfc2b2246e0fb0051199ef0.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/QHbGy8vNZHi4q3630JomXGrtjxw=/285x260/forex-lrg-3-5bfc2b2246e0fb0051199ef0.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/stock-analysis/2012/7-of-the-highest-stock-prices-in-history-brk-b-aapl-seb-nvr1114.aspx",
+          "author": "Tim Parker",
+          "description": "Understanding the reasons behind high stock prices can lead to better investing. Here are the stories of some of the highest stock prices in history.",
+          "link": "https://www.investopedia.com/stock-analysis/2012/7-of-the-highest-stock-prices-in-history-brk-b-aapl-seb-nvr1114.aspx?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-20T17:06:00.000Z",
+          "wordCount": 7651,
+          "title": "10 of the Highest Stock Prices in History",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ywuAjQpWYlFcslZHivhvSu67vjk=/2125x1411/prices-shown-on-stock-ticker-represent-last-price-the-stock-traded-at-57a0dd0d5f9b589aa9e1fa8d.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ywuAjQpWYlFcslZHivhvSu67vjk=/2125x1411/prices-shown-on-stock-ticker-represent-last-price-the-stock-traded-at-57a0dd0d5f9b589aa9e1fa8d.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/higher-stocks-lower-gas-and-more-jobs-lifted-consumer-spirits-in-december-8418629",
+          "author": "Staff Author",
+          "description": "Consumers are feeling better about the economy and their finances these days, likely because of surging stock prices, cheaper gas, and falling unemployment.",
+          "link": "https://www.investopedia.com/higher-stocks-lower-gas-and-more-jobs-lifted-consumer-spirits-in-december-8418629?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-20T17:05:45.000Z",
+          "wordCount": 5681,
+          "title": "Higher Stocks, Lower Gas, And More Jobs Lifted Consumer Spirits in December",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/jU-f7qc1j0wVOpqeIqksGKBrflc=/7930x5287/GettyImages-1847835630-035ba3999756468d854cd888f1e15ded.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/jU-f7qc1j0wVOpqeIqksGKBrflc=/7930x5287/GettyImages-1847835630-035ba3999756468d854cd888f1e15ded.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/investing/052715/understanding-lululemons-business-model.asp",
           "author": "Poonkulali Thangavelu",
@@ -31862,6 +32147,26 @@
           "imageUrl": null
         },
         {
+          "id": "4-million-enough-retire-55-140032539.html",
+          "author": null,
+          "description": "A $4 million nest egg will likely allow you to retire comfortably at age 55. The major challenge will be accumulating that much capital by 55 – about a decade before most people stop working. Other issues include the need to … Continue reading → The post Is $4 Million Enough to Retire on at 55? appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/4-million-enough-retire-55-140032539.html",
+          "publishedOn": "2023-12-20T15:52:03.000Z",
+          "wordCount": 10571,
+          "title": "$4 Million Bucks Will Buy You This Type of Retirement If You Stop Working at 55",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/92bf3662a3af0b9ae1a93c13e9e7a020"
+        },
+        {
+          "id": "rich-avoid-paying-taxes-savings-150055760.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/rich-avoid-paying-taxes-savings-150055760.html",
+          "publishedOn": "2023-12-20T15:51:06.000Z",
+          "wordCount": null,
+          "title": "How The Rich (Legally) Avoid Paying Savings Account Taxes",
+          "imageUrl": null
+        },
+        {
           "id": "charif-souki-godfather-of-american-lng-industry-is-ousted-from-tellurian-2f5aae9b?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "",
@@ -32120,6 +32425,16 @@
           "wordCount": null,
           "title": "Technical Assessment: Neutral in the Intermediate-Term",
           "imageUrl": null
+        },
+        {
+          "id": "figma-called-employees-company-wide-120000912.html",
+          "author": null,
+          "description": "Some employees were expecting payouts that would allow them to become homeowners.",
+          "link": "https://finance.yahoo.com/news/figma-called-employees-company-wide-120000912.html",
+          "publishedOn": "2023-12-20T12:00:00.000Z",
+          "wordCount": 10740,
+          "title": "Figma called employees from companywide PTO to town hall to inform them Adobe deal was dead",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/JvW2FaWP7Ge6H5t4hoM2vA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/fortune_175/31c55d1c3918c73ba11e22f36837063e"
         },
         {
           "id": "want-1-500-dividend-income-113800397.html",
@@ -54930,36 +55245,6 @@
           "wordCount": 10592,
           "title": "Baidu’s revenue beats as ChatGPT-style AI starts monetization",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_technology_68/6eb9d5dac38d820274fe9f19e7c5f540"
-        },
-        {
-          "id": "chinese-property-bonds-shares-jump-021525860.html",
-          "author": null,
-          "description": "(Bloomberg) -- Chinese developers’ bonds and shares gained after authorities began drafting a list of 50 real estate firms that would be eligible for financing, the latest move by Beijing to support the embattled property sector.Most Read from BloombergCitigroup Cuts Over 300 Senior Manager Roles in Latest RestructuringNearly All of OpenAI Staff Threaten to Go to Microsoft If Board Doesn’t QuitThe Doomed Mission Behind Sam Altman’s Shock Ouster From OpenAIMicrosoft Ends Weekend of OpenAI Drama W",
-          "link": "https://finance.yahoo.com/news/chinese-property-bonds-shares-jump-021525860.html",
-          "publishedOn": "2023-11-21T06:10:43.000Z",
-          "wordCount": 10441,
-          "title": "China Property Stocks Surge, With Sunac Rallying 27%, After Beijing Picks 50 Firms to Fund",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/5OEGALIPj6Wn3NQ19d3X4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/3c2f9eba9822bdf3f35f1b5c667b3fdc"
-        },
-        {
-          "id": "blackstone-close-multi-strategy-fund-055307473.html",
-          "author": null,
-          "description": "The US.-based asset manager told investors that Blackstone Diversified Multi-Strategy fund will close at the end of the year, the newspaper reported, citing Blackstone.  Blackstone did not immediately respond to a Reuters request for comment.",
-          "link": "https://finance.yahoo.com/news/blackstone-close-multi-strategy-fund-055307473.html",
-          "publishedOn": "2023-11-21T05:53:07.000Z",
-          "wordCount": 10059,
-          "title": "Blackstone to close multi-strategy fund after assets drop nearly 90%",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/e55d38cb089ae8fdacee87f7e350adf2"
-        },
-        {
-          "id": "nvidia-earnings-stock-price-6041a02c?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The big question is what management will say about Nvidia's progress in alleviating supply constraints.",
-          "link": "https://www.barrons.com/articles/nvidia-earnings-stock-price-6041a02c?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-11-21T05:30:00.000Z",
-          "wordCount": 6408,
-          "title": "Nvidia AI Chip Demand Is Strong. Supply Is What Matters for Earnings.",
-          "imageUrl": "https://images.barrons.com/im-80227615/social"
         }
       ]
     }
