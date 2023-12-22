@@ -9281,21 +9281,6 @@
             "url": "https://media.nu.nl/m/ym8x0o4ahqnl_sqr256.jpg/stijgende-olijfolieprijs-blijft-een-probleem-in-de-spaanse-en-italiaanse-keuken.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/ym8x0o4ahqnl_sqr256.jpg/stijgende-olijfolieprijs-blijft-een-probleem-in-de-spaanse-en-italiaanse-keuken.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6290830/",
-          "author": "onze economieredactie",
-          "description": "De Britse regering stelt strengere eisen aan uitkeringen. Werklozen die na anderhalf jaar nog steeds geen baan hebben gevonden, moeten aan de slag.",
-          "link": "https://www.nu.nl/economie/6290830/britse-werklozen-moeten-na-anderhalf-jaar-aan-de-slag.html",
-          "publishedOn": "2023-11-23T10:13:42.000Z",
-          "wordCount": 2732,
-          "title": "Britse werklozen moeten na anderhalf jaar aan de slag",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/406x2d4a2417_sqr256.jpg/britse-werklozen-moeten-na-anderhalf-jaar-aan-de-slag.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/406x2d4a2417_sqr256.jpg/britse-werklozen-moeten-na-anderhalf-jaar-aan-de-slag.jpg"
         }
       ]
     },
@@ -9304,6 +9289,66 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/tech/comparison-cryptocurrency-price-trackers/",
+          "author": "Nathan Reiff",
+          "description": "The price tracker you choose can have a major impact on your cryptocurrency investments.",
+          "link": "https://www.investopedia.com/tech/comparison-cryptocurrency-price-trackers/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-22T22:41:09.000Z",
+          "wordCount": 7432,
+          "title": "A Comparison of Cryptocurrency Price Trackers",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/KRRrTd1DDZ6r-MFm8Z1mMgnzzXc=/1500x1125/GettyImages-926672178-dd500add197643c1a784327fda0e0687.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/KRRrTd1DDZ6r-MFm8Z1mMgnzzXc=/1500x1125/GettyImages-926672178-dd500add197643c1a784327fda0e0687.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/retirement/03/011603.asp",
+          "author": "Katelyn Peters",
+          "description": "Find out whether you can take a tax deduction on the contributions you make.",
+          "link": "https://www.investopedia.com/articles/retirement/03/011603.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-22T22:37:36.000Z",
+          "wordCount": 7808,
+          "title": "Traditional IRA Deductibility Limits",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/VwTsITVMJM9HiJ6Wrj-sx7HSgbg=/2121x1414/Makingfinancialchoicesinretirementplanning-5bfcb8d346e0fb00262763ae.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/VwTsITVMJM9HiJ6Wrj-sx7HSgbg=/2121x1414/Makingfinancialchoicesinretirementplanning-5bfcb8d346e0fb00262763ae.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/top-cd-rates-today-leading-5-79-offer-takes-us-to-the-holiday-8419875",
+          "author": "Staff Author",
+          "description": "Today's best CD rates are 5.79% from Climate First Bank for 8 months, 5.75% from INOVA Federal Credit Union for 8 months, and three 5.70% offers ranging from 7 to 14 months.",
+          "link": "https://www.investopedia.com/top-cd-rates-today-leading-5-79-offer-takes-us-to-the-holiday-8419875?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-22T22:31:53.000Z",
+          "wordCount": 5982,
+          "title": "Top CD Rates Today: Leading 5.79% Offer Takes Us to the Holiday",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/d7iQ3pQ3Gj6euUtZiplJyY5uYSM=/2480x1880/12-22-43e8f4ca4c724fad96015654f70bb573.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/d7iQ3pQ3Gj6euUtZiplJyY5uYSM=/2480x1880/12-22-43e8f4ca4c724fad96015654f70bb573.png"
+        },
+        {
+          "id": "https://www.investopedia.com/best-robo-advisors-4693125",
+          "author": "Mark L. Sette",
+          "description": "Compare the best robo advisors. We evaluated portfolio management, usability, fees, and more. Expert rated picks include Wealthfront, Betterment, and M1.",
+          "link": "https://www.investopedia.com/best-robo-advisors-4693125?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-22T22:03:40.000Z",
+          "wordCount": 13130,
+          "title": "Best Robo-Advisors of 2024",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/_uS8ZqKfjT5VDfz-K1cFGy9vXCs=/6250x4167/bestrobo-advisors2023-d4ee175ac1424b16bdfb705fca216046.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/_uS8ZqKfjT5VDfz-K1cFGy9vXCs=/6250x4167/bestrobo-advisors2023-d4ee175ac1424b16bdfb705fca216046.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/i/implementation-shortfall.asp",
           "author": "Adam Hayes",
@@ -33087,6 +33132,36 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "wont-believe-apple-stock-prediction-220053887.html",
+          "author": null,
+          "description": "Apple's stock price rose in 2023 while its performance suffered.",
+          "link": "https://finance.yahoo.com/news/wont-believe-apple-stock-prediction-220053887.html",
+          "publishedOn": "2023-12-22T22:00:53.000Z",
+          "wordCount": 10327,
+          "title": "You Won't Believe My Apple Stock Prediction for 2024",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/c8a7c379caa89b501a85fbc390fb1bce"
+        },
+        {
+          "id": "trump-now-complaining-soaring-stocks-214539045.html",
+          "author": null,
+          "description": "Trump dismissed the stock-market's breathless rally this year as a boon for the wealthy after President Biden boasted about its performance under him.",
+          "link": "https://finance.yahoo.com/news/trump-now-complaining-soaring-stocks-214539045.html",
+          "publishedOn": "2023-12-22T21:45:39.000Z",
+          "wordCount": 10252,
+          "title": "Trump is now complaining that soaring stocks are 'making rich people richer' after bragging about the market's gains while president",
+          "imageUrl": "https://media.zenfs.com/en/business_insider_articles_888/046e8b5ebbbfec3412d0d9535527eae2"
+        },
+        {
+          "id": "irs-covid-related-tax-relief-programs-1030332c?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The timing may be coincidental, but the IRS says two Covid-related tax programs will save millions of taxpayers more than $1 billion.",
+          "link": "https://www.barrons.com/advisor/articles/irs-covid-related-tax-relief-programs-1030332c?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2023-12-22T20:33:00.000Z",
+          "wordCount": 6595,
+          "title": "Just in Time for Christmas, the IRS Unwraps 2 Covid-Related Tax Relief Programs",
+          "imageUrl": "https://images.barrons.com/im-24646022/social"
+        },
+        {
           "id": "ansys-stock-rises-after-report-of-synopsys-deal-taks-uhT0rjoltkqgwK0sKCS7?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Shares of Ansys climbed late Friday following the report that Synopsys was in talks to acquire the engineering-software company.\nAnsys' shares were recently up about 12%, while those of Synopsys fell. Ansys had earlier risen after Bloomberg on Thursday reported that the company was weighing a sale",
@@ -33125,6 +33200,16 @@
           "wordCount": 10993,
           "title": "Bill Ackman Forecasts Rate Cuts — These Stocks Could Benefit",
           "imageUrl": "https://media.zenfs.com/en/Benzinga/85bdb05f5ba997fc96d3720e07fc45d7"
+        },
+        {
+          "id": "3-lower-priced-reits-higher-182305602.html",
+          "author": null,
+          "description": "On Dec. 13, a major change in investor sentiment toward real estate investment trusts (REITs) took place as the Federal Reserve announced another pause in interest rate hikes and suggested there would be three rate cuts in 2024. The REIT sector, which has performed well since early November, took off for several days, before pulling back after Dec. 14. Many low-priced REITs that have been laggards throughout the first 10 months of 2023 are now seeing renewed buying. It seems like investors are b",
+          "link": "https://finance.yahoo.com/news/3-lower-priced-reits-higher-182305602.html",
+          "publishedOn": "2023-12-22T18:23:05.000Z",
+          "wordCount": 11264,
+          "title": "3 Lower-Priced REITs With Higher Yields Seeing Renewed Buying",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/869cc7913d3143ea14b1c27f4f230997"
         },
         {
           "id": "show-money-inside-ken-griffins-181429241.html",
@@ -33435,6 +33520,16 @@
           "wordCount": 11203,
           "title": "3 Dividend Stocks to Double Up On Right Now",
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/c3cb81c60e6b8967820e42c679054950"
+        },
+        {
+          "id": "inflation-doing-something-hasnt-done-112900835.html",
+          "author": null,
+          "description": "A multiyear move in the S&P 500 could be right around the corner.",
+          "link": "https://finance.yahoo.com/news/inflation-doing-something-hasnt-done-112900835.html",
+          "publishedOn": "2023-12-22T11:29:00.000Z",
+          "wordCount": 11143,
+          "title": "Inflation Is Doing Something It Hasn't Done Since 2009, and It Could Trigger a Big Move in the Stock Market in 2024",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/e4lpOnbf09PUXQXFEFWYeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDg-/https://media.zenfs.com/en/motleyfool.com/4460d52c401686eb3de827a0f4721cc8"
         },
         {
           "id": "ARGUS_38624_TopBottomInsiderActivity_1703244274000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -56205,26 +56300,6 @@
           "wordCount": 10276,
           "title": "Bearish Oil Options Hit Record Volumes as OPEC+ Delays Meeting",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/5f1af0c596e303fc9c11f1681d499895"
-        },
-        {
-          "id": "thanksgiving-week-stock-market-110057377.html",
-          "author": null,
-          "description": "The Thanksgiving holiday creates some changes in trading days and hours for both the stock and bond markets heading into the start of the 2024 holiday season.",
-          "link": "https://finance.yahoo.com/news/thanksgiving-week-stock-market-110057377.html",
-          "publishedOn": "2023-11-23T11:00:57.000Z",
-          "wordCount": 10291,
-          "title": "Thanksgiving week and stock market",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Vvd26jzIzOpRVb7pFgArrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_business_text_367/cab5132624fccb91ed10695103bbb8c3"
-        },
-        {
-          "id": "openai-got-its-ceo-back-what-happens-next-6d22f6f6?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Sam Altman has returned and the company is to expand its board and explore governance changes, but who won and who lost in its new power structure?",
-          "link": "https://www.wsj.com/tech/ai/openai-got-its-ceo-back-what-happens-next-6d22f6f6?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-11-23T10:31:00.000Z",
-          "wordCount": 9131,
-          "title": "OpenAI Got Its CEO Back. What Happens Next?",
-          "imageUrl": "https://images.wsj.net/im-891170/social"
         }
       ]
     }
