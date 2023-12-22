@@ -2409,16 +2409,6 @@
           "wordCount": 409,
           "title": "Midday Movers: Airline Stocks Soar, Nvidia and Tesla Slump",
           "imageUrl": null
-        },
-        {
-          "id": "329e0bcc3cdc2b365c5f6be4dd2b00d0",
-          "author": "Investopedia",
-          "description": "Oil prices sank 5% Wednesday morning after OPEC+ delayed a meeting scheduled for this weekend to Nov. 30.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca896ecbaf0fb7553a8d9d75b0fe2f209f095ed07d8a28b4910f2f41d76a8c209c9f1f69d7ef3bb5b8e22debecc33db723ed3f0c963d40061e0fe8e7e5d7725ec6c6bfa3cec596890603d64a97c6333cdf",
-          "publishedOn": "2023-11-22T18:15:48.092Z",
-          "wordCount": 409,
-          "title": "Oil Prices Slump as OPEC+ Delays Meeting Amid Production Cut Negotiations",
-          "imageUrl": null
         }
       ]
     },
@@ -2427,6 +2417,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6295180/",
+          "author": "onze nieuwsredactie",
+          "description": "Bij vakbond FNV hebben zich afgelopen week nog meer medewerkers van het ministerie van Volksgezondheid, Welzijn en Sport (VWS) gemeld met ervaringen van grensoverschrijdend gedrag. Dinsdag publiceerde de vakbond ook al alarmerende uitkomsten van een peiling over het onderwerp.",
+          "link": "https://www.nu.nl/economie/6295180/nog-meer-meldingen-over-grensoverschrijdend-gedrag-bij-ministerie-vws.html",
+          "publishedOn": "2023-12-22T06:00:37.000Z",
+          "wordCount": 2711,
+          "title": "Nog meer meldingen over grensoverschrijdend gedrag bij ministerie VWS",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/ss9x3o1aoi82_sqr256.jpg/nog-meer-meldingen-over-grensoverschrijdend-gedrag-bij-ministerie-vws.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/ss9x3o1aoi82_sqr256.jpg/nog-meer-meldingen-over-grensoverschrijdend-gedrag-bij-ministerie-vws.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6295114/",
+          "author": "Tom van Gurp",
+          "description": "Koophuizen zijn in november opnieuw duurder geworden. Het is al de zesde maand op rij dat de gemiddelde prijs van een koopwoning hoger is dan de maand ervoor. Dat blijkt uit cijfers van statistiekbureau CBS en het Kadaster.",
+          "link": "https://www.nu.nl/economie/6295114/huizenprijzen-stijgen-voor-zesde-maand-op-rij.html",
+          "publishedOn": "2023-12-22T05:21:03.000Z",
+          "wordCount": 2490,
+          "title": "Huizenprijzen stijgen voor zesde maand op rij",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/u6vx25qabhxt_sqr256.jpg/huizenprijzen-stijgen-voor-zesde-maand-op-rij.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/u6vx25qabhxt_sqr256.jpg/huizenprijzen-stijgen-voor-zesde-maand-op-rij.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6294861/",
           "author": "José Boon",
@@ -9064,6 +9084,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/ask/answers/060716/why-switzerland-considered-tax-haven.asp",
+          "author": "Lisa Goetz",
+          "description": "Although Switzerland is no longer a place to \"hide\" money, it still offers the wealthy some benefits for living and keeping their money there.",
+          "link": "https://www.investopedia.com/ask/answers/060716/why-switzerland-considered-tax-haven.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-22T05:00:50.000Z",
+          "wordCount": 7558,
+          "title": "Why Is Switzerland Considered a Tax Haven?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/vrYNvqpZY8sJAgSmv9P6z2Ho2UM=/680x440/shutterstock_112522391-5bfc2b9846e0fb0051bde2d3.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/vrYNvqpZY8sJAgSmv9P6z2Ho2UM=/680x440/shutterstock_112522391-5bfc2b9846e0fb0051bde2d3.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/f/forex-spread-betting.asp",
           "author": "James Chen",
@@ -32493,126 +32528,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/rM4zhAmV6gFUWxB-exE5znYDeIQ=/2121x1414/GettyImages-537252508-c70fba94bdc4466196b9323bfef50123.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/midday-movers-airline-stocks-soar-nvidia-and-tesla-slump-8406027",
-          "author": "Staff Author",
-          "description": "U.S. equities rallied back from Tuesday's declines at midday on Wednesday, Nov. 22, 2023 ahead of the Thanksgiving holiday.",
-          "link": "https://www.investopedia.com/midday-movers-airline-stocks-soar-nvidia-and-tesla-slump-8406027?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-22T18:14:34.000Z",
-          "wordCount": 4961,
-          "title": "Midday Movers: Airline Stocks Soar, Nvidia and Tesla Slump",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/z5jjxlDULLF1vdw-ys7Y2F1P948=/4000x2667/GettyImages-965270314-f1ef6cb223424f03b957990773228f3e.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/z5jjxlDULLF1vdw-ys7Y2F1P948=/4000x2667/GettyImages-965270314-f1ef6cb223424f03b957990773228f3e.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/deere-shares-tumble-after-its-2024-guidance-misses-estimates-8405969",
-          "author": "Staff Author",
-          "description": "Shares of Deere sank after its 2024 guidance fell short of estimates as high inflation and interest rates cut into demand.",
-          "link": "https://www.investopedia.com/deere-shares-tumble-after-its-2024-guidance-misses-estimates-8405969?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-22T17:53:30.000Z",
-          "wordCount": 5156,
-          "title": "Deere Shares Tumble After the Farm Equipment Maker&#39;s 2024 Guidance Misses Estimates",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/lVItZlL4WhriYB5h2VcK-QEz3Xo=/6000x3893/GettyImages-1778529254-433b914a189343a4a0ed10559b67e8fe.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/lVItZlL4WhriYB5h2VcK-QEz3Xo=/6000x3893/GettyImages-1778529254-433b914a189343a4a0ed10559b67e8fe.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/e/ebiat.asp",
-          "author": "Julia Kagan",
-          "description": "Earnings before interest after taxes (EBIAT) is one of a number of financial measures used to evaluate a company's financial performance.",
-          "link": "https://www.investopedia.com/terms/e/ebiat.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-22T17:53:05.000Z",
-          "wordCount": 6725,
-          "title": "Earnings Before Interest After Taxes (EBIAT): Earnings and How to Calculate",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/5LhBOuMSvpsRXqtiyWPFYw2On2A=/4000x2700/Earnings_Before_Interest_After_Taxes-APS_V2-fbf0fb40f7884289976d0e1c13d731f0.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/5LhBOuMSvpsRXqtiyWPFYw2On2A=/4000x2700/Earnings_Before_Interest_After_Taxes-APS_V2-fbf0fb40f7884289976d0e1c13d731f0.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/oil-prices-slump-as-opec-delays-meeting-amid-production-cut-negotiations-8405997",
-          "author": "Staff Author",
-          "description": "Oil prices sank 5% Wednesday morning after OPEC+ delayed a meeting scheduled for this weekend to Nov. 30.",
-          "link": "https://www.investopedia.com/oil-prices-slump-as-opec-delays-meeting-amid-production-cut-negotiations-8405997?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-22T17:45:27.000Z",
-          "wordCount": 5316,
-          "title": "Oil Prices Slump as OPEC&#43; Delays Meeting Amid Production Cut Negotiations",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/lCr9R-k4y6KEO9xkThOiafpNTME=/4500x2994/GettyImages-1790165967-d8e30bb3dbed4beb81f5be5debb59402.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/lCr9R-k4y6KEO9xkThOiafpNTME=/4500x2994/GettyImages-1790165967-d8e30bb3dbed4beb81f5be5debb59402.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/top-native-american-investment-professionals-6746277",
-          "author": "Daniel Thomas Mollenkamp",
-          "description": "Native Americans have been underrepresented in finance. Here are five people who have made an impact on investing for Native Americans.",
-          "link": "https://www.investopedia.com/top-native-american-investment-professionals-6746277?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-22T17:45:03.000Z",
-          "wordCount": 7701,
-          "title": "Top Native American Investment Professionals",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Phx9aizQhkRO447H9lpPg8U0xx4=/3363x2349/GettyImages-531456017-7416fc67efbf4003b9efd58a7aee08a9.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Phx9aizQhkRO447H9lpPg8U0xx4=/3363x2349/GettyImages-531456017-7416fc67efbf4003b9efd58a7aee08a9.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/native-american-entrepreneurs-5205052",
-          "author": "Daniel Kurt",
-          "description": "Native-Americans are responsible for a long list of business successes, from well-known restaurant and retail chains to innovative startups.",
-          "link": "https://www.investopedia.com/native-american-entrepreneurs-5205052?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-22T17:40:15.000Z",
-          "wordCount": 7476,
-          "title": "7 Native-American Entrepreneurs You Should Know",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/9j8TE7KMgwwMWm0YaIQn1IzE-gw=/3800x2533/GettyImages-1379428846-8c8044f87b1b47aeabeac91e6a1bdde8.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/9j8TE7KMgwwMWm0YaIQn1IzE-gw=/3800x2533/GettyImages-1379428846-8c8044f87b1b47aeabeac91e6a1bdde8.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/nvidia-falls-amid-china-sales-worries-but-analysts-say-investors-underestimate-ai-gains-8405972",
-          "author": "Staff Author",
-          "description": "Nvidia shares dropped after the chipmaker's earnings beat estimates amid concerns about the impact of restrictions on chip exports to China, but analysts say investors may be underestimating Nvidia's position in the artificial intelligence boom.",
-          "link": "https://www.investopedia.com/nvidia-falls-amid-china-sales-worries-but-analysts-say-investors-underestimate-ai-gains-8405972?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-22T17:38:47.000Z",
-          "wordCount": 5412,
-          "title": "Nvidia Falls Amid China Sales Worries, But Analysts Say Investors Underestimate AI Gains",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/WLkgBCmrSIoGEqGPB0uxLKhEcr8=/3000x2000/GettyImages-957037018-6c580dff89fd4ef4a918a06e18170ca6.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/WLkgBCmrSIoGEqGPB0uxLKhEcr8=/3000x2000/GettyImages-957037018-6c580dff89fd4ef4a918a06e18170ca6.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/top-native-american-ceos-6746279",
-          "author": "Daniel Thomas Mollenkamp",
-          "description": "Here are five Native American chief executive officers (CEOs) who have had an impact on the world of business.",
-          "link": "https://www.investopedia.com/top-native-american-ceos-6746279?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-22T17:22:19.000Z",
-          "wordCount": 7493,
-          "title": "Top Native American CEOs",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/kAdvc8dRjuBGoTYuDPYwqzMAW1s=/2214x1656/GettyImages-1154242528-749082084aa04af99a8a8830d2acfec2.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/kAdvc8dRjuBGoTYuDPYwqzMAW1s=/2214x1656/GettyImages-1154242528-749082084aa04af99a8a8830d2acfec2.jpg"
         }
       ]
     },
@@ -32621,6 +32536,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "tencent-plunges-china-unveils-latest-035725526.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/tencent-plunges-china-unveils-latest-035725526.html",
+          "publishedOn": "2023-12-22T05:11:16.000Z",
+          "wordCount": null,
+          "title": "Tencent Sheds $54 Billion As China Unveils Latest Gaming Curbs",
+          "imageUrl": null
+        },
         {
           "id": "santa-claus-rally-real-why-024420603.html",
           "author": null,
@@ -55380,86 +55305,6 @@
           "wordCount": 10345,
           "title": "OpenAI Engineers Earning $800,000 a Year Turn Rare Skillset Into Leverage",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/i0z40NVrTvZBWxWw6t_wOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDc-/https://media.zenfs.com/en/bloomberg_technology_68/41e925cb97d6292c608ea3181c5785a0"
-        },
-        {
-          "id": "retirees-have-to-pay-taxes-too-6-smart-ways-to-reduce-them-8dd16d33?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "From a dynamic withdrawal strategy to “geographic arbitrage,” there are plenty of strategies to reduce your tax bill in retirement.",
-          "link": "https://www.barrons.com/advisor/articles/retirees-have-to-pay-taxes-too-6-smart-ways-to-reduce-them-8dd16d33?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-11-22T18:14:00.000Z",
-          "wordCount": 6704,
-          "title": "Retirees Have to Pay Taxes, Too. 6 Smart Ways to Reduce Them.",
-          "imageUrl": "https://images.barrons.com/im-41509647/social"
-        },
-        {
-          "id": "ARGUS_38354_MarketUpdate_1700676369000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_38354_MarketUpdate_1700676369000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2023-11-22T18:06:09.000Z",
-          "wordCount": null,
-          "title": "Market Update: AES, COP, J, KHC",
-          "imageUrl": null
-        },
-        {
-          "id": "ARGUS_2686_AnalystReport_1700676369000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_2686_AnalystReport_1700676369000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2023-11-22T18:06:09.000Z",
-          "wordCount": null,
-          "title": "Analyst Report: AES Corp.",
-          "imageUrl": null
-        },
-        {
-          "id": "ARGUS_2858_AnalystReport_1700676369000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_2858_AnalystReport_1700676369000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2023-11-22T18:06:09.000Z",
-          "wordCount": null,
-          "title": "Analyst Report: Conoco Phillips",
-          "imageUrl": null
-        },
-        {
-          "id": "worried-market-volatility-invest-high-180118104.html",
-          "author": null,
-          "description": "While the stock market has been recovering since the pullback last year, market volatility remains high as geopolitical tensions persist. The recent crisis in the Middle East has sparked concerns regarding broader regional instability. The weakening economy has caused investors to cause the November rally to halt, with the Dow Jones Industrial Average index declining marginally intraday on Tuesday. The National Retail Federation expects retail sales to grow at the slowest pace in the last five y",
-          "link": "https://finance.yahoo.com/news/worried-market-volatility-invest-high-180118104.html",
-          "publishedOn": "2023-11-22T18:01:18.000Z",
-          "wordCount": 10831,
-          "title": "Worried About Market Volatility? Invest In These High-Yield Dividend Stocks For Consistent Passive Income",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/ee9ebb9aad804ce5dc4017718f4d7bd9"
-        },
-        {
-          "id": "housing-market-price-drop-only-174852778.html",
-          "author": null,
-          "description": "Morgan Stanley analysts anticipate that home prices will fall 3% next year as mortgage rates continue to fall, helping to improve the supply constraints.",
-          "link": "https://finance.yahoo.com/news/housing-market-price-drop-only-174852778.html",
-          "publishedOn": "2023-11-22T17:48:52.000Z",
-          "wordCount": 10418,
-          "title": "A housing market price drop 'only seen a handful of times' is coming in 2024, Morgan Stanley says",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/D_ZXvuKsmwBAGgxYelwdQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_business_text_367/e07fdfca12d3282c44f4cb96f156fcd2"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/technology/nvidia-stock-drops-despite-ai-chipmaker-monster-beat/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-11-22T17:48:24.000Z",
-          "wordCount": null,
-          "title": "Nvidia Stock Drops Despite AI Chipmaker's Big Beat-And-Raise Report. What Gives?",
-          "imageUrl": null
-        },
-        {
-          "id": "paris-hiltons-media-company-joins-172000838.html",
-          "author": null,
-          "description": "Paris Hilton's 11:11 Media is pausing an exclusive ad campaign on X following Elon Musk's tweet endorsing an antisemitic conspiracy theory.",
-          "link": "https://finance.yahoo.com/news/paris-hiltons-media-company-joins-172000838.html",
-          "publishedOn": "2023-11-22T17:20:00.000Z",
-          "wordCount": 10034,
-          "title": "Paris Hilton's media company joins brands pulling ads from X",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/McCA8T9GMWU.vG1mj2hQDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/cbsmoneywatch.com/15cdf2a60e1b76f9931b78216754c473"
         }
       ]
     }
