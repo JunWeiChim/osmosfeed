@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-23T21:09:58.224Z</updated>
+    <updated>2023-12-23T22:11:03.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using Benchmarks in Investing]]></title>
+        <id>https://www.investopedia.com/articles/investing/032516/how-use-benchmark-evaluate-portfolio.asp</id>
+        <link href="https://www.investopedia.com/articles/investing/032516/how-use-benchmark-evaluate-portfolio.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
+        <updated>2023-12-23T21:37:43.000Z</updated>
+        <summary type="html"><![CDATA[Investment benchmarks are used to evaluate investment funds and portfolios. Funds and investment portfolios generally have established benchmarks for standard analysis.]]></summary>
+        <author>
+            <name>Richard Rosen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overshooting: Definition in Economics, How It Works, and History]]></title>
+        <id>https://www.investopedia.com/terms/o/overshooting.asp</id>
+        <link href="https://www.investopedia.com/terms/o/overshooting.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
+        <updated>2023-12-23T21:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Overshooting is a model or hypothesis in economics used to explain why exchange rates are more volatile than we would expect.]]></summary>
+        <author>
+            <name>Adam Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Invest in Private Companies]]></title>
         <id>https://www.investopedia.com/articles/basics/11/investing-in-private-companies.asp</id>
@@ -45532,26 +45552,6 @@ At the end of 2020, Vanguard lowered the minimum investment in the institutional
         <summary type="html"><![CDATA[A gap is an area on a technical chart where an asset's price jumps higher or lower from the previous day’s close.]]></summary>
         <author>
             <name>James Chen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These Stocks Are Moving the Most Today: Walmart, Nvidia, Vista Outdoor, GM, and More]]></title>
-        <id>stock-market-movers-0be626fa?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/articles/stock-market-movers-0be626fa?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2023-11-24T09:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Walmart is well-positioned for the holiday season, according to an analyst, as Black Friday kicks off, and a report says Nvidia is delaying the launch of a new artificial-intelligence chip.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swisscom’s Fastweb Is Said to Weigh Deal for Vodafone Italy]]></title>
-        <id>swisscom-fastweb-said-explore-deal-182206879.html</id>
-        <link href="https://finance.yahoo.com/news/swisscom-fastweb-said-explore-deal-182206879.html"/>
-        <updated>2023-11-24T09:27:07.000Z</updated>
-        <summary type="html"><![CDATA[(Bloomberg) -- Italian telecom operator Fastweb is exploring a potential deal for Vodafone Group Plc’s Italian operations, according to people with knowledge of the matter. Most Read from BloombergOpenAI Engineers Earning $800,000 a Year Turn Rare Skillset Into LeverageHulu for $1, Max for $3: Streaming Services Slash Prices This Black FridayAltman Returns as OpenAI CEO in Chaotic Win for MicrosoftMcKinsey and Its Peers Are Facing the Wildest Headwinds in YearsIsrael-Hamas War Truce to Begin Fri]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
         </author>
     </entry>
 </feed>
