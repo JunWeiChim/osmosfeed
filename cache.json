@@ -2468,6 +2468,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6295392/",
+          "author": "onze nieuwsredactie",
+          "description": "Nederlandse supermarkten ervaren vlak voor de Kerst de drukste dagen van het jaar. Albert Heijn verwacht in drie dagen tijd meer dan 17,5 miljoen dozen en kratjes met producten naar winkels te moeten sturen. \"Iedereen die kan werken, werkt.\"",
+          "link": "https://www.nu.nl/economie/6295392/supermarkten-klaar-voor-drukste-dagen-van-jaar-iedereen-die-kan-werken-werkt.html",
+          "publishedOn": "2023-12-23T22:44:01.000Z",
+          "wordCount": 2714,
+          "title": "Supermarkten klaar voor drukste dagen van jaar: 'Iedereen die kan werken, werkt'",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/pnrx49vamwoq_sqr256.jpg/supermarkten-klaar-voor-drukste-dagen-van-jaar-iedereen-die-kan-werken-werkt.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/pnrx49vamwoq_sqr256.jpg/supermarkten-klaar-voor-drukste-dagen-van-jaar-iedereen-die-kan-werken-werkt.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6295422/",
           "author": "onze nieuwsredactie",
           "description": "Het Duitse Bayer heeft een rechtszaak gewonnen die was aangespannen door een man in Californië die zei kanker te hebben gekregen van het onkruidbestrijdingsmiddel Roundup.",
@@ -9254,6 +9269,66 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/i/interbankmarket.asp",
+          "author": "Adam Hayes",
+          "description": "The interbank market is a global network used by financial institutions to trade currencies among themselves. They use it to manage their interest rate risks.",
+          "link": "https://www.investopedia.com/terms/i/interbankmarket.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-23T22:54:12.000Z",
+          "wordCount": 7116,
+          "title": "The Interbank Market: What It Is and How It Works",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/QaSUe1bJWW2TkHUmUlOfuPlbp94=/680x440/bank_176952073-94e9cbcd1f074706bc18df88cfaf7365.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/QaSUe1bJWW2TkHUmUlOfuPlbp94=/680x440/bank_176952073-94e9cbcd1f074706bc18df88cfaf7365.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/b/bullspread.asp",
+          "author": "James Chen",
+          "description": "A bull spread is a bullish options strategy using either two puts, or two calls with the same underlying asset and expiration.",
+          "link": "https://www.investopedia.com/terms/b/bullspread.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-23T22:21:30.000Z",
+          "wordCount": 7556,
+          "title": "What Is Bull Spread? How It Works as Trading Strategy and Example",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/6ka_s7rA5MyANoeUvbj93ytGmgk=/680x440/122582497-5bfc2b8d46e0fb005119b24b.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/6ka_s7rA5MyANoeUvbj93ytGmgk=/680x440/122582497-5bfc2b8d46e0fb005119b24b.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/b/bullettrade.asp",
+          "author": "James Chen",
+          "description": "A bullet trade allows an investor to participate in a stock's bearish move without actually selling the stock. They can buy that stock's ITM put option.",
+          "link": "https://www.investopedia.com/terms/b/bullettrade.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-23T22:19:26.000Z",
+          "wordCount": 7109,
+          "title": "Bullet Trade: What It Is, How It Works, Options",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/HomE-JFEbxCXO_rud-e84fAXSMs=/680x440/77005273-5bfc2b8d4cedfd0026c11921.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/HomE-JFEbxCXO_rud-e84fAXSMs=/680x440/77005273-5bfc2b8d4cedfd0026c11921.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/insurance/hsa-vs-fsa/",
+          "author": "Tim Parker",
+          "description": "Here's what you need to know to choose between a health savings account (HSA) and a flexible savings account (FSA) to help with medical expenses.",
+          "link": "https://www.investopedia.com/insurance/hsa-vs-fsa/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-23T22:18:41.000Z",
+          "wordCount": 7832,
+          "title": "Health Savings vs. Flexible Spending Account: What&#39;s the Difference?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/4Cq2ghP65LxnEntL6-3rlfUXtyo=/2496x738/GettyImages-11601771172-f8801ab057e4419fbe9d8c9e88234cfb.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/4Cq2ghP65LxnEntL6-3rlfUXtyo=/2496x738/GettyImages-11601771172-f8801ab057e4419fbe9d8c9e88234cfb.png"
+        },
         {
           "id": "https://www.investopedia.com/articles/investing/032516/how-use-benchmark-evaluate-portfolio.asp",
           "author": "Richard Rosen",
@@ -33148,21 +33223,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/swDn9PDL98WfUwHvzRm0pMpk9wQ=/1500x844/GettyImages-1055247044-aa607f47989a4bcf9a8976eb457edde7.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/g/gap.asp",
-          "author": "James Chen",
-          "description": "A gap is an area on a technical chart where an asset's price jumps higher or lower from the previous day’s close.",
-          "link": "https://www.investopedia.com/terms/g/gap.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-24T10:19:08.000Z",
-          "wordCount": 7850,
-          "title": "What Is a Stock Gap? 4 Main Types of Gaps, Example, and Analysis",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/PIckKC1ByBCC9CMM5UvbWYCSOjg=/5818x3829/GettyImages-1160268691-c2fc8d4461544353a80829453e6924b2.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/PIckKC1ByBCC9CMM5UvbWYCSOjg=/5818x3829/GettyImages-1160268691-c2fc8d4461544353a80829453e6924b2.jpg"
         }
       ]
     },
@@ -33180,6 +33240,16 @@
           "wordCount": 10926,
           "title": "This Dividend King Is Set for a Big Rebound in 2024",
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/5a5d9273d008164a1074bef1c7b07453"
+        },
+        {
+          "id": "3-office-reits-yields-27-190012582.html",
+          "author": null,
+          "description": "Office real estate investment trusts (REITs) are companies that own, operate and/or finance income-generating office properties. Just the same as other REITs, they provide an opportunity to invest in real estate without directly buying and subsequently managing the property. Office REITs generate income primarily through leasing office space and collecting rents from tenants. There's no shortage of office REITs to invest in, so it's important to have criteria to guide your decision. For many inv",
+          "link": "https://finance.yahoo.com/news/3-office-reits-yields-27-190012582.html",
+          "publishedOn": "2023-12-23T19:00:12.000Z",
+          "wordCount": 10419,
+          "title": "3 Office REITs With Yields Up To 27.35%",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/7398b4ebe47ea2b2ebb13c026f161ed1"
         },
         {
           "id": "best-performing-magnificent-seven-stock-163000472.html",
@@ -33210,6 +33280,16 @@
           "wordCount": 10811,
           "title": "Where Will Palantir Stock Be in 10 Years?",
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/9d0cbfa8e46275630c31d45adb3cdae7"
+        },
+        {
+          "id": "2-stocks-under-100-buy-144500610.html",
+          "author": null,
+          "description": "These companies have bright futures and don't take a ton of cash to buy.",
+          "link": "https://finance.yahoo.com/news/2-stocks-under-100-buy-144500610.html",
+          "publishedOn": "2023-12-23T14:45:00.000Z",
+          "wordCount": 10921,
+          "title": "2 Stocks Under $100 You Can Buy and Hold Forever",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/e505aa6ee7dd6166c285d3bea4f12277"
         },
         {
           "id": "heres-why-nvidia-stock-could-143000209.html",
@@ -56270,46 +56350,6 @@
           "wordCount": 10302,
           "title": "Futures drift in shortened trading session",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/c908f3ef48647bc14f430afb9d4c4a77"
-        },
-        {
-          "id": "broadening-u-stock-rally-feeds-110424040.html",
-          "author": null,
-          "description": "The S&P 500's gains may no longer just be down to the Magnificent Seven megacaps, bolstering hopes for a rally through year-end.",
-          "link": "https://finance.yahoo.com/news/broadening-u-stock-rally-feeds-110424040.html",
-          "publishedOn": "2023-11-24T11:04:24.000Z",
-          "wordCount": 10712,
-          "title": "Signs the S&P 500 rally is broadening beyond megacaps feed investor hopes",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/9DzUyigaTaE.HUBwT9TY5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTk-/https://s.yimg.com/os/creatr-uploaded-images/2021-11/86be1030-411e-11ec-abee-c14ddb8b641a"
-        },
-        {
-          "id": "who-cares-whether-black-friday-is-a-bust-heres-the-real-deal-on-retail-stocks-this-holiday-110038841.html",
-          "author": null,
-          "description": "When it comes to picking potential retail winners this holiday season, you must get a sense of a couple key metrics.",
-          "link": "https://finance.yahoo.com/news/who-cares-whether-black-friday-is-a-bust-heres-the-real-deal-on-retail-stocks-this-holiday-110038841.html",
-          "publishedOn": "2023-11-24T11:00:38.000Z",
-          "wordCount": 11135,
-          "title": "Who cares whether Black Friday is a bust! Here's the real deal on retail stocks this holiday.",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/o_kJJ8zp6VrdXoScHN1.PA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/e6150a20-8933-11ee-bfe1-3ed629ab4c0b"
-        },
-        {
-          "id": "auto-dealers-find-savings-by-buying-cars-off-the-street-fd1e5e64?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Buying vehicles directly from consumers improves profit margins and allows dealers to reduce prices, finance chiefs say.",
-          "link": "https://www.wsj.com/articles/auto-dealers-find-savings-by-buying-cars-off-the-street-fd1e5e64?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-11-24T11:00:00.000Z",
-          "wordCount": 8233,
-          "title": "Auto Dealers Find Savings by Buying Cars Off the Street",
-          "imageUrl": "https://images.wsj.net/im-890224/social"
-        },
-        {
-          "id": "black-friday-here-s-what-retailers-are-saying-about-the-holiday-season-ROj7E1gBnv8llbCSXHWd?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "After a summer of spending on experiences, Americans are on the hunt for deals. This year’s Black Friday features cheaper prices than a year ago, with many retailers expecting a cautious-but-strong consumer this holiday s",
-          "link": "https://www.wsj.com/livecoverage/stock-market-today-black-friday-11-24-2023/card/black-friday-here-s-what-retailers-are-saying-about-the-holiday-season-ROj7E1gBnv8llbCSXHWd?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-11-24T10:30:01.000Z",
-          "wordCount": 7438,
-          "title": "Black Friday: Here’s What Retailers Are Saying About the Holiday Season",
-          "imageUrl": "https://images.wsj.net/im-891061/social"
         }
       ]
     }
