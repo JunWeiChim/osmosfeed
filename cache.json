@@ -1282,16 +1282,6 @@
           "wordCount": 409,
           "title": "The Amazon-iRobot Deal Reportedly Set For An EU Nod, Roomba Maker’s Shares Soar",
           "imageUrl": null
-        },
-        {
-          "id": "ac3f57ce3615a43ad31c42b826460993",
-          "author": "Investopedia",
-          "description": "Nvidia shares slipped on word the chipmaker delayed the launch of a new AI semiconductor designed to comply with new U.S. export rules.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8871cee616a4112a808f2aa6e177299d4b4f8e3f8b75a69d502f09d46dd8329c961f60c2ff78bbfbae34eaedc33fa020ec2b1c8779400e1e0db0fdadce3a58c09fb5aad3dcd4811a5cc31dcf9a6464c53e7a79c3ce04d6",
-          "publishedOn": "2023-11-24T17:10:43.568Z",
-          "wordCount": 409,
-          "title": "Nvidia Shares Drop on Word of a Delay in the Release of a New AI Chip for China",
-          "imageUrl": null
         }
       ]
     },
@@ -2447,6 +2437,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6295380/",
+          "author": "Tim Wijkman-van Aalst",
+          "description": "Wie gaat tijdens het kerstdiner uitgebreid een stapel post openen en lezen? Waarschijnlijk niemand. Maar als je tijdens een etentje met een smartphone bezig bent, doe je eigenlijk hetzelfde. De telefoon hoort daarom niet op tafel, zeggen etiquettedeskundigen.",
+          "link": "https://www.nu.nl/tech/6295380/expert-leg-plebsbestek-zoals-smartphone-niet-op-tafel-tijdens-kerstdiner.html",
+          "publishedOn": "2023-12-24T04:20:52.000Z",
+          "wordCount": 3190,
+          "title": "NU+ | Expert: leg 'plebsbestek' zoals smartphone niet op tafel tijdens kerstdiner",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/kqkxuy0aadml_sqr256.jpg/expert-leg-plebsbestek-zoals-smartphone-niet-op-tafel-tijdens-kerstdiner.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/kqkxuy0aadml_sqr256.jpg/expert-leg-plebsbestek-zoals-smartphone-niet-op-tafel-tijdens-kerstdiner.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6295380/",
           "author": "Tim Wijkman-van Aalst",
@@ -9181,36 +9186,6 @@
             "url": "https://media.nu.nl/m/kvbxu07aer5c_sqr256.jpg/de-duurste-smartphones-zijn-nog-duurder-en-dalen-minder-snel-in-prijs.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/kvbxu07aer5c_sqr256.jpg/de-duurste-smartphones-zijn-nog-duurder-en-dalen-minder-snel-in-prijs.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6291207/",
-          "author": "Tom van Gurp",
-          "description": "Het leven wordt volgend jaar weer wat duurder. Zo zijn klanten van ING vanaf maart meer geld kwijt voor hun betaalrekening en schroeft waterbedrijf Vitens begin volgend jaar zijn tarieven op. Dat hebben beide bedrijven vrijdag bekendgemaakt.",
-          "link": "https://www.nu.nl/economie/6291207/bankieren-en-watergebruik-worden-volgend-jaar-duurder.html",
-          "publishedOn": "2023-11-24T17:01:49.000Z",
-          "wordCount": 2675,
-          "title": "Bankieren en watergebruik worden volgend jaar duurder",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/ujxxmhsa9vdl_sqr256.jpg/bankieren-en-watergebruik-worden-volgend-jaar-duurder.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/ujxxmhsa9vdl_sqr256.jpg/bankieren-en-watergebruik-worden-volgend-jaar-duurder.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6291198/",
-          "author": "onze nieuwsredactie",
-          "description": "Het UWV gaat alle boetes terugdraaien die het had uitgedeeld na een scan die controleerde of werklozen in Nederland bleven. De uitkeringsinstantie had daar geen toestemming voor en draait daarom 703 straffen terug. Het UWV gaat deze zaken opnieuw bekijken.",
-          "link": "https://www.nu.nl/economie/6291198/uwv-draait-700-boetes-terug-vanwege-onrechtmatig-verkregen-gegevens.html",
-          "publishedOn": "2023-11-24T16:26:19.000Z",
-          "wordCount": 2546,
-          "title": "UWV draait 700 boetes terug vanwege onrechtmatig verkregen gegevens",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/fwqx5f4a2vun_sqr256.jpg/uwv-draait-700-boetes-terug-vanwege-onrechtmatig-verkregen-gegevens.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/fwqx5f4a2vun_sqr256.jpg/uwv-draait-700-boetes-terug-vanwege-onrechtmatig-verkregen-gegevens.jpg"
         }
       ]
     },
@@ -9219,6 +9194,81 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/forex/h/historical-currency-exchange-rates.asp",
+          "author": "Lucas Downey",
+          "description": "Historical currency exchange rates are foreign exchange rates which give traders a historical reference of how a currency pair has traded.",
+          "link": "https://www.investopedia.com/terms/forex/h/historical-currency-exchange-rates.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-24T04:37:13.000Z",
+          "wordCount": 5971,
+          "title": "Historical Currency Exchange Rates Overview",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/r74sqPvGlW3DlanGaOsDFC5bueo=/1024x683/2120386483_085bdb1b18_b-0f77c5bcc0914589a04ba2f10caaec32.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/r74sqPvGlW3DlanGaOsDFC5bueo=/1024x683/2120386483_085bdb1b18_b-0f77c5bcc0914589a04ba2f10caaec32.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/060316/why-monaco-considered-tax-haven.asp",
+          "author": "Craig Anthony",
+          "description": "Discover why the principality of Monaco is considered a tax haven, and learn about some of the sovereign city-state’s more favorable tax policies.",
+          "link": "https://www.investopedia.com/ask/answers/060316/why-monaco-considered-tax-haven.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-24T04:37:01.000Z",
+          "wordCount": 7739,
+          "title": "Why Is Monaco Considered a Tax Haven?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/emK6B1k67OuI-UVk5xGIvrlyuRs=/1600x1200/yachts_6536-59e939fcc4124400112a61eb.JPG",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/emK6B1k67OuI-UVk5xGIvrlyuRs=/1600x1200/yachts_6536-59e939fcc4124400112a61eb.JPG"
+        },
+        {
+          "id": "https://www.investopedia.com/trading/channeling-charting-path-to-success/",
+          "author": "Justin Kuepper",
+          "description": "Learn how to trade channels, a chart pattern that tells you where to enter, where to exit and even how long the trade may take.",
+          "link": "https://www.investopedia.com/trading/channeling-charting-path-to-success/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-24T04:09:26.000Z",
+          "wordCount": 8586,
+          "title": "Channeling: Charting a Path to Success",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/gqKRZxvHnVmLCP_YRsdoRVFjCX4=/680x440/chart_up_down_shutterstock_188832545-5bfc307446e0fb00260257ea.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/gqKRZxvHnVmLCP_YRsdoRVFjCX4=/680x440/chart_up_down_shutterstock_188832545-5bfc307446e0fb00260257ea.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/personal-finance/091515/4-best-alternatives-craigslist.asp",
+          "author": "Greg DePersio",
+          "description": "Our guide to Craigslist alternatives includes sites for buying, selling, real estate, jobs, and personals. Check out the top sites like Craigslist.",
+          "link": "https://www.investopedia.com/articles/personal-finance/091515/4-best-alternatives-craigslist.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-24T04:08:00.000Z",
+          "wordCount": 8559,
+          "title": "Top 10 Best Alternatives to Craigslist",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/NG4xVOhSbM_snHF6wvCIxmrzMr4=/1500x1000/GettyImages-1149286160-c535034599b84a5599f1e4157a10647e.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/NG4xVOhSbM_snHF6wvCIxmrzMr4=/1500x1000/GettyImages-1149286160-c535034599b84a5599f1e4157a10647e.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/pf/08/avoid-atm-scams-atm-fraud.asp",
+          "author": "Lenny Lubitz",
+          "description": "Don't get scorched by ATM thieves who want to burn a hole in your wallet. Be aware of ATM scams.",
+          "link": "https://www.investopedia.com/articles/pf/08/avoid-atm-scams-atm-fraud.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-24T04:05:04.000Z",
+          "wordCount": 8295,
+          "title": "5 ATM Scams That Can Break the Bank",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/eDRX6EyIdQSkqV49CgsrqHd3caE=/285x260/personal-finance-lrg-2-5bfc2b1fc9e77c00517fbebb.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/eDRX6EyIdQSkqV49CgsrqHd3caE=/285x260/personal-finance-lrg-2-5bfc2b1fc9e77c00517fbebb.jpg"
+        },
         {
           "id": "https://www.investopedia.com/ask/answers/102815/are-etfs-considered-derivatives.asp",
           "author": "Jason Morris",
@@ -33188,51 +33238,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/eXEd1c5A4C-zFy8tTsjOQaHp7jU=/2121x1414/GettyImages-1017224516-ef0a6e46e93d4073b119d933a9b3f11c.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/financialcareers/11/accredited-financial-counselor.asp",
-          "author": "Mark P. Cussen",
-          "description": "This designation is highly relevant as it allows you to help the middle and lower-income population in America.",
-          "link": "https://www.investopedia.com/articles/financialcareers/11/accredited-financial-counselor.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-24T16:51:31.000Z",
-          "wordCount": 6493,
-          "title": "Accredited Financial Counselor: An Introduction",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/o6kh83R6n4gpJB-GLxBfW-b0L4w=/380x253/83252658-5bfc2b89c9e77c005877045d.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/o6kh83R6n4gpJB-GLxBfW-b0L4w=/380x253/83252658-5bfc2b89c9e77c005877045d.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/f/form-4797.asp",
-          "author": "Adam Barone",
-          "description": "Form 4797 is used to report gains made from the sale or exchange of business property, including but not limited to property used to generate rental income.",
-          "link": "https://www.investopedia.com/terms/f/form-4797.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-24T16:37:07.000Z",
-          "wordCount": 7082,
-          "title": "Form 4797: Sales of Business Property Definition, How to File",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ux3EGcTXTIMBwsZv8ly9KzwNu4I=/2121x1414/GettyImages-1309123898-a631a4eacecb4e1abaac9c705a8ba4b0.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ux3EGcTXTIMBwsZv8ly9KzwNu4I=/2121x1414/GettyImages-1309123898-a631a4eacecb4e1abaac9c705a8ba4b0.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/nvidia-shares-drop-on-word-of-a-delay-in-the-release-of-a-new-ai-chip-for-china-8406466",
-          "author": "Staff Author",
-          "description": "Nvidia shares slipped on word the chipmaker delayed the launch of a new AI semiconductor designed to comply with new U.S. export rules.",
-          "link": "https://www.investopedia.com/nvidia-shares-drop-on-word-of-a-delay-in-the-release-of-a-new-ai-chip-for-china-8406466?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-24T16:29:48.000Z",
-          "wordCount": 5208,
-          "title": "Nvidia Shares Drop on Word of a Delay in the Release of a New AI Chip for China",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/8OsZ0TqxIGXVi_ZL4l0gxy8lAIw=/5760x3840/GettyImages-524127524-f2551fc224bb487483b8ce7b2816436e.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/8OsZ0TqxIGXVi_ZL4l0gxy8lAIw=/5760x3840/GettyImages-524127524-f2551fc224bb487483b8ce7b2816436e.jpg"
         }
       ]
     },
@@ -33241,6 +33246,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "elon-musk-says-spacex-never-005018071.html",
+          "author": null,
+          "description": "Musk highlighted the upside of SpaceX being private versus Tesla being public, which he said \"drives me crazy\" at times.",
+          "link": "https://finance.yahoo.com/news/elon-musk-says-spacex-never-005018071.html",
+          "publishedOn": "2023-12-24T00:50:18.000Z",
+          "wordCount": 10920,
+          "title": "Elon Musk says at SpaceX ‘we never think about the quarter’—and he’s in no rush to spin off Starlink given the ‘tremendous distraction’ of being public like Tesla",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/xQuU8MtsRJf_sgVQvHUb4g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/fortune_175/65579e13c4d72e3b639ce7c787aa2ced"
+        },
         {
           "id": "small-cap-stocks-got-trounced-205401837.html",
           "author": null,
@@ -56110,116 +56125,6 @@
           "wordCount": 10279,
           "title": "USD/JPY Weekly Forecast – US Dollar Dips Only to Find Buyers",
           "imageUrl": "https://media.zenfs.com/en/fx_empire_176/4bfb5fcae716e19c69fc5c8372174a2f"
-        },
-        {
-          "id": "analysts-expect-retail-stocks-outperform-170019591.html",
-          "author": null,
-          "description": "As the holiday season begins, people are ramping up their shopping lists ahead of Christmas. With the Federal Reserve holding the benchmark interest rates steady, overall spending levels are expected to remain robust in the upcoming months as people gear up for major sale days such as Black Friday or Boxing Day. The National Retail Federation (NRF) expects total sales in November and December to rise by 3% to 4% year over year, in line with the average holiday spending growth rate of 3.6% betwee",
-          "link": "https://finance.yahoo.com/news/analysts-expect-retail-stocks-outperform-170019591.html",
-          "publishedOn": "2023-11-24T17:00:19.000Z",
-          "wordCount": 10810,
-          "title": "Analysts Expect These Retail Stocks To Outperform This Holiday Season",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/6f74aa1baff88738f9205613597bec3d"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/technology/nvidia-delays-rollout-of-china-focused-ai-chip-report/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-11-24T16:52:50.000Z",
-          "wordCount": null,
-          "title": "Nvidia Delays Rollout Of China-Focused AI Chip: Report",
-          "imageUrl": null
-        },
-        {
-          "id": "stock-market-news-today-us-stocks-tread-water-on-shortened-trading-day-bitcoin-soars-164919679.html",
-          "author": null,
-          "description": "Stocks teetered on both sides of the lat line amid a holiday-shortened session ahead.",
-          "link": "https://finance.yahoo.com/news/stock-market-news-today-us-stocks-tread-water-on-shortened-trading-day-bitcoin-soars-164919679.html",
-          "publishedOn": "2023-11-24T16:49:19.000Z",
-          "wordCount": 10421,
-          "title": "Stock market news today: US stocks tread water on shortened trading day, Bitcoin soars",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/wowiTXI4_AssTDUCbJ3CPg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-12/9a1f35b0-2bd0-11ea-bffd-c0754e8f87f4"
-        },
-        {
-          "id": "trusts-help-avoid-estate-taxes-130036171.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/trusts-help-avoid-estate-taxes-130036171.html",
-          "publishedOn": "2023-11-24T16:42:00.000Z",
-          "wordCount": null,
-          "title": "These Trusts Can Help You Avoid Estate Taxes",
-          "imageUrl": null
-        },
-        {
-          "id": "schwab-says-lower-tax-bill-130001921.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/schwab-says-lower-tax-bill-130001921.html",
-          "publishedOn": "2023-11-24T16:41:35.000Z",
-          "wordCount": null,
-          "title": "Schwab: Lower Your Tax Bill By ‘Bunching' Your Charitable Deductions",
-          "imageUrl": null
-        },
-        {
-          "id": "ask-advisor-im-65-earning-192928957.html",
-          "author": null,
-          "description": "I am 65 and at the absolute peak of my earnings. I'm also in the 35% tax bracket and am not looking to retire soon. I need $30,000 for a home project. I have enough to take it out of … Continue reading → The post Ask An Advisor: I'm 65, Earning at My ‘Absolute Peak' and Won't Retire Soon. Should I Use My Roth IRA for a $30K Home Improvement Project? appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/ask-advisor-im-65-earning-192928957.html",
-          "publishedOn": "2023-11-24T16:39:45.000Z",
-          "wordCount": 10975,
-          "title": "Ask An Advisor: I'm 65, Earning at My ‘Absolute Peak' and Won't Retire Soon. Should I Use My Roth IRA for a $30K Home Improvement Project?",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/9ca022b578f2224531a0979465a7809d"
-        },
-        {
-          "id": "ask-advisor-am-getting-fleeced-162130537.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/ask-advisor-am-getting-fleeced-162130537.html",
-          "publishedOn": "2023-11-24T16:39:20.000Z",
-          "wordCount": null,
-          "title": "Ask an Advisor: ‘Am I Getting Fleeced?' I'm 66, Contributing $272 Per Month to an IRA and Paying $136 Monthly in Fees. That's 50% of My Contribution",
-          "imageUrl": null
-        },
-        {
-          "id": "bill-gates-could-trillionaire-today-163852659.html",
-          "author": null,
-          "description": "Microsoft Corp. Co-Founder Bill Gates is celebrated for his monumental role in the tech world and is known as one of the planet's wealthiest people. Yet, an intriguing “what-if” scenario arises: Had he “diamond-handed” his Microsoft shares — a term in finance meaning to hold onto assets through market ups and downs — his wealth might have soared to unmatched levels. A resurfaced article from 2021 amplifies this speculation: What if Gates had kept his initial Microsoft stakes? Could he have outpa",
-          "link": "https://finance.yahoo.com/news/bill-gates-could-trillionaire-today-163852659.html",
-          "publishedOn": "2023-11-24T16:38:52.000Z",
-          "wordCount": 10670,
-          "title": "Bill Gates Could Be A Trillionaire Today If He Had 'Diamond-Handed' His Original Microsoft Shares",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/67e626e1f9bcb4667a8b605b2661d065"
-        },
-        {
-          "id": "im-65-years-old-500k-111000427.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/im-65-years-old-500k-111000427.html",
-          "publishedOn": "2023-11-24T16:37:14.000Z",
-          "wordCount": null,
-          "title": "I'm 65 Years Old, Have $500k in Cash, $1 Million in an IRA and Social Security. Should I Retire Now?",
-          "imageUrl": null
-        },
-        {
-          "id": "nvidia-shares-drop-on-word-of-a-delay-in-the-release-of-a-new-ai-chip-for-china-8406466?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Nvidia shares slipped on word the chipmaker delayed the launch of a new AI semiconductor designed to comply with new U.S. export rules.",
-          "link": "https://www.investopedia.com/nvidia-shares-drop-on-word-of-a-delay-in-the-release-of-a-new-ai-chip-for-china-8406466?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-11-24T16:24:34.000Z",
-          "wordCount": 5643,
-          "title": "Nvidia Shares Drop on Word of a Delay in the Release of a New AI Chip for China",
-          "imageUrl": "https://www.investopedia.com/thmb/XSpJbleIi_LwQBXY6Sz-fyihfns=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-524127524-f2551fc224bb487483b8ce7b2816436e.jpg"
-        },
-        {
-          "id": "wall-street-cheers-milei-swaps-145315547.html",
-          "author": null,
-          "description": "(Bloomberg) -- In the blink of an eye, Argentine President-elect Javier Milei pivoted away from advisers advocating for his most dramatic campaign promises, choosing Wall Street veterans closer to former leader Mauricio Macri.Most Read from BloombergOpenAI Engineers Earning $800,000 a Year Turn Rare Skillset Into LeverageXi Tolerance for Property Pain Nears Limit as Rescue EmergesBond Rally Shows Signs of Stalling as Stocks Waver: Markets WrapDublin Night of Riots Leaves City With Trail of Destr",
-          "link": "https://finance.yahoo.com/news/wall-street-cheers-milei-swaps-145315547.html",
-          "publishedOn": "2023-11-24T16:17:53.000Z",
-          "wordCount": 10547,
-          "title": "Markets Cheer as Milei Drops Dollarization for Macri Brass",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/ed71676793bd92cf15394f44772d4d1e"
         }
       ]
     }
