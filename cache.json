@@ -9221,21 +9221,6 @@
             "url": "https://media.nu.nl/m/t80xkqoa20p8_sqr256.jpg/sam-altman-geeft-weer-leiding-aan-openai-maar-veel-blijft-onduidelijk.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/t80xkqoa20p8_sqr256.jpg/sam-altman-geeft-weer-leiding-aan-openai-maar-veel-blijft-onduidelijk.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6291278/",
-          "author": "onze nieuwsredactie",
-          "description": "In de Britse bankensector is een nieuwe ontslaggolf aanstaande. Verschillende media melden dat bij Lloyds Banking 2.500 banen dreigen te verdwijnen, terwijl bij Barclays mogelijk 2.000 banen worden geschrapt.",
-          "link": "https://www.nu.nl/economie/6291278/nieuwe-grote-ontslaggolf-aanstaande-bij-britse-banken.html",
-          "publishedOn": "2023-11-25T10:09:24.000Z",
-          "wordCount": 2594,
-          "title": "Nieuwe grote ontslaggolf aanstaande bij Britse banken",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/m1nxjf2ag8fg_sqr256.jpg/nieuwe-grote-ontslaggolf-aanstaande-bij-britse-banken.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/m1nxjf2ag8fg_sqr256.jpg/nieuwe-grote-ontslaggolf-aanstaande-bij-britse-banken.jpg"
         }
       ]
     },
@@ -9244,6 +9229,66 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/p/pit.asp",
+          "author": "Will Kenton",
+          "description": "A pit is an area of a securities exchange trading floor that is designated for buying and selling through the open outcry system, which involves shouting and hand signaling.",
+          "link": "https://www.investopedia.com/terms/p/pit.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-24T21:41:22.000Z",
+          "wordCount": 7019,
+          "title": "Pit: What it Means, How it Works, Electronic Training",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/HhwFW3tnYDjiANs-xr8xYn11XqA=/4250x2823/wall-street-sign-with-american-flags-183834979-54b7739707504eb28afab8ec18bd55e9.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/HhwFW3tnYDjiANs-xr8xYn11XqA=/4250x2823/wall-street-sign-with-american-flags-183834979-54b7739707504eb28afab8ec18bd55e9.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/financialcareers/07/broker_trader.asp",
+          "author": "Barclay Palmer",
+          "description": "A day in the life of a broker or Wall Street trader can be an exciting and varied one. Learn more about these two financial professions and their job differences.",
+          "link": "https://www.investopedia.com/articles/financialcareers/07/broker_trader.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-24T21:39:47.000Z",
+          "wordCount": 8117,
+          "title": "Broker or Trader: Which Career Is Right for You?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/KXFIU1W0A2VYHW_b98aoZbteuN8=/2309x1299/collaboration-d8b90cfd1c6b429ea27a77bbca1c6233.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/KXFIU1W0A2VYHW_b98aoZbteuN8=/2309x1299/collaboration-d8b90cfd1c6b429ea27a77bbca1c6233.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/tech/difference-between-monero-and-monerov/",
+          "author": "Katelyn Peters",
+          "description": "MoneroV (XMV) was a fork from the Monero (XMR) blockchain after developers became convinced there were flaws in the way the Monero was designed.",
+          "link": "https://www.investopedia.com/tech/difference-between-monero-and-monerov/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-24T21:28:30.000Z",
+          "wordCount": 7106,
+          "title": "MoneroV (XMV): What It Meant, How It Worked",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Rac0iBsX8IGSU59dJvylrbmsUmQ=/680x440/shutterstock_728156689-5bfc319146e0fb00511ac662.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Rac0iBsX8IGSU59dJvylrbmsUmQ=/680x440/shutterstock_728156689-5bfc319146e0fb00511ac662.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/032515/what-difference-between-right-and-obligation-call-option.asp",
+          "author": "Steven Nickolas",
+          "description": "Learn what a call option is, how buyers and sellers are determined, and what the difference between a right and an obligation is for options investors.",
+          "link": "https://www.investopedia.com/ask/answers/032515/what-difference-between-right-and-obligation-call-option.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-24T21:14:10.000Z",
+          "wordCount": 6375,
+          "title": "Call Options: Right to Buy vs. Obligation",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/IKxUfN6UziyV3NyN3XXjr6I2d8k=/5500x4125/investor-viewing-company-share-price-market-data-on-a-laptop-computer-713768437-c4eda9ee28224ad6be4f6912822227af.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/IKxUfN6UziyV3NyN3XXjr6I2d8k=/5500x4125/investor-viewing-company-share-price-market-data-on-a-laptop-computer-713768437-c4eda9ee28224ad6be4f6912822227af.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/k/kimchi-premium.asp",
           "author": "Jake Frankenfield",
@@ -56390,26 +56435,6 @@
           "wordCount": 8371,
           "title": "American Borrowers Are Getting Closer to Maxing Out",
           "imageUrl": "https://images.wsj.net/im-891529/social"
-        },
-        {
-          "id": "charting-global-economy-euro-area-100000205.html",
-          "author": null,
-          "description": "(Bloomberg) -- A recession in the euro area is looking increasingly likely as the economic downturn persists in the final quarter of the year, private-sector activity surveys showed.Most Read from BloombergMarkets Cheer as Milei Drops Dollarization for Macri BrassEverything You Need to Know About China’s Child Pneumonia OutbreakHamas Says Next Hostage Release to Israel Is Back On After DelayHamas Frees 24 Hostages From Gaza as Israel Truce HoldsModi’s Nation-Building Push Sparks $125 Billion Ral",
-          "link": "https://finance.yahoo.com/news/charting-global-economy-euro-area-100000205.html",
-          "publishedOn": "2023-11-25T10:00:00.000Z",
-          "wordCount": 10398,
-          "title": "Charting the Global Economy: Euro-Area Recession Looks Likely",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/OeK4uOUciBAXX8ecJVcyew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDQ-/https://media.zenfs.com/en/bloomberg_markets_842/2938d5d0d8ef11a2dd6693d06340ed1d"
-        },
-        {
-          "id": "fate-us-venture-capital-china-093247310.html",
-          "author": null,
-          "description": "On a weekday afternoon at Red Rock Coffee, the cafe known for spotting venture capitalists in Silicon Valley, one is likely to overhear a few conversations in Mandarin.  Since China reopened its border this spring after three years of COVID-19 restrictions, managers of U.S. funds in the country have been flocking to the Bay Area.  USD-denominated funds in China have long been drawing inspiration from Silicon Valley startups, using them as benchmarks for investment targets back home.",
-          "link": "https://finance.yahoo.com/news/fate-us-venture-capital-china-093247310.html",
-          "publishedOn": "2023-11-25T09:32:47.000Z",
-          "wordCount": 11377,
-          "title": "Fate of US venture capital in China teeters on uncertainty",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/dPDoGwJ1Dua6WvveOePgJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjY-/https://media.zenfs.com/en/techcrunch_350/86238ac74534e242f95dd5487fb402aa"
         }
       ]
     }
