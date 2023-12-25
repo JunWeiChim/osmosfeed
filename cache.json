@@ -2428,6 +2428,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6295550/",
+          "author": "onze nieuwsredactie",
+          "description": "Wetenschappers van de Technische Universiteit Eindhoven hebben een digitaal bestand verstuurd met de hoogste snelheid ooit. Het 'pakket' bereikte een snelheid van 22,9 petabytes per seconde. Nog nooit kwamen data zo snel aan op de bestemming.",
+          "link": "https://www.nu.nl/tech/6295550/eindhovense-onderzoekers-versturen-het-snelste-digitale-bericht-ooit.html",
+          "publishedOn": "2023-12-25T10:08:15.000Z",
+          "wordCount": 2540,
+          "title": "Eindhovense onderzoekers versturen het snelste digitale bericht ooit",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/8qoxlr7auz0f_sqr256.jpg/eindhovense-onderzoekers-versturen-het-snelste-digitale-bericht-ooit.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/8qoxlr7auz0f_sqr256.jpg/eindhovense-onderzoekers-versturen-het-snelste-digitale-bericht-ooit.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6295109/",
           "author": "Thijs Rösken",
           "description": "Met Kerst trekken velen het keukenschort aan om familieleden culinaire creaties voor te schotelen. Anderen gaan naar restaurants. Op tafel voert vlees nog altijd de boventoon: van gevulde kalkoen en ossenhaas tot gourmetschotels. Het drankgebruik verandert wel.",
@@ -9154,6 +9169,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/financial-edge/0609/what-the-unemployment-rate-doesnt-tell-us.aspx",
+          "author": "Amy Fontinelle",
+          "description": "Low unemployment is nice, but it's not the whole story.",
+          "link": "https://www.investopedia.com/financial-edge/0609/what-the-unemployment-rate-doesnt-tell-us.aspx?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-25T09:57:52.000Z",
+          "wordCount": 8195,
+          "title": "What the Unemployment Rate Doesn&#39;t Tell Us",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/FTL6PwwbhLeOZ8XOYJGwWXpC5Kw=/1000x667/shutterstock_160644944-5bfc2eaec9e77c0058779dfe.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/FTL6PwwbhLeOZ8XOYJGwWXpC5Kw=/1000x667/shutterstock_160644944-5bfc2eaec9e77c0058779dfe.jpg"
+        },
         {
           "id": "https://www.investopedia.com/ask/answers/difference-between-microeconomics-and-macroeconomics/",
           "author": "The Investopedia Team",
@@ -33603,36 +33633,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/33GJ9O54D1gJOG9LtPleGm_5IAc=/680x440/thinkstockphotos-128944311-5bfc354d46e0fb00517dbe8c.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/f/foreign-tax-credit.asp",
-          "author": "Julia Kagan",
-          "description": "U.S. citizens and resident aliens with foreign income can claim the foreign tax credit to offset income taxes paid abroad and limit double taxation.",
-          "link": "https://www.investopedia.com/terms/f/foreign-tax-credit.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-25T21:55:03.000Z",
-          "wordCount": 8002,
-          "title": "Foreign Tax Credit: Definition, How It Works, Who Can Claim It",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/IloWm5k4LpT4BE5lvFG73V6OgtM=/2057x1457/ForeignTaxCredit-09de1c6f41f14af19ef0117fc9739d61.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/IloWm5k4LpT4BE5lvFG73V6OgtM=/2057x1457/ForeignTaxCredit-09de1c6f41f14af19ef0117fc9739d61.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/f/fulltimestudent.asp",
-          "author": "Julia Kagan",
-          "description": "A full-time student is a legal tax status important for determining exemptions. Learn how your status as a full-time student impacts college financial aid.",
-          "link": "https://www.investopedia.com/terms/f/fulltimestudent.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-25T21:13:07.000Z",
-          "wordCount": 7971,
-          "title": "What Is Considered a Full-Time Student? Hours Defined",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/EE86qLorNuob9t_1vAnKQkh_vWI=/680x440/101405194-5bfc2b8c46e0fb0051bddfc9.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/EE86qLorNuob9t_1vAnKQkh_vWI=/680x440/101405194-5bfc2b8c46e0fb0051bddfc9.jpg"
         }
       ]
     },
@@ -56600,36 +56600,6 @@
           "wordCount": 10214,
           "title": "Is China really dumping Treasury bonds and sending yields higher? A former US official explains the mystery",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/0I3YPD7ViUOf99PSlb9zPg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/b3709572abfc7ccaf5f4a74b8aa868e9"
-        },
-        {
-          "id": "warren-buffett-shared-timeless-investment-204501981.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/warren-buffett-shared-timeless-investment-204501981.html",
-          "publishedOn": "2023-11-25T22:00:01.000Z",
-          "wordCount": null,
-          "title": "Warren Buffett shared timeless investment wisdom in his first-ever national TV interview nearly 40 years ago. Here are the best 9 quotes.",
-          "imageUrl": null
-        },
-        {
-          "id": "p-500-jump-record-high-213001852.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/p-500-jump-record-high-213001852.html",
-          "publishedOn": "2023-11-25T21:30:01.000Z",
-          "wordCount": null,
-          "title": "The S&P 500 will jump to a new record high of 5,000 next year, RBC says, joining bullish outlooks on 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "housing-market-affordability-improve-2024-211501347.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/housing-market-affordability-improve-2024-211501347.html",
-          "publishedOn": "2023-11-25T21:15:01.000Z",
-          "wordCount": null,
-          "title": "Housing market affordability will improve in 2024 as home prices fall amid more inventory, Morgan Stanley's chief US economist says",
-          "imageUrl": null
         }
       ]
     }
