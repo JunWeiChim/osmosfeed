@@ -2458,6 +2458,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6295648/",
+          "author": "onze nieuwsredactie",
+          "description": "Nederland blijft kwetsbaar als het gaat om de levering van gas. Daarvoor waarschuwt Gasunie-bestuurder Hans Coenen dinsdag in een interview met De Telegraaf. De gasprijzen zijn veel lager dan eerder, maar volgens Coenen blijven \"waakzaamheid en continu energie besparen\" nodig.",
+          "link": "https://www.nu.nl/economie/6295648/waakzaamheid-en-energiebesparing-blijven-volgens-gasunie-bestuurder-nodig.html",
+          "publishedOn": "2023-12-26T13:47:26.000Z",
+          "wordCount": 2702,
+          "title": "Waakzaamheid en energiebesparing blijven volgens Gasunie-bestuurder nodig",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/utoxjw3a1imq_sqr256.jpg/waakzaamheid-en-energiebesparing-blijven-volgens-gasunie-bestuurder-nodig.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/utoxjw3a1imq_sqr256.jpg/waakzaamheid-en-energiebesparing-blijven-volgens-gasunie-bestuurder-nodig.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6294777/",
           "author": "José Boon",
           "description": "Het inkomen van huishoudens is geen goede graadmeter meer voor armoede. Salarissen en toeslagen stegen afgelopen jaar voor veel huishoudens. Toch zagen hulporganisaties steeds meer mensen die aanklopten omdat ze niet meer rondkwamen.",
@@ -9184,6 +9199,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/fundamental-analysis/10/indicators-that-move-the-market.asp",
+          "author": "Brian Perry",
+          "description": "Investors keep an eye on the big picture by watching the key economic indicators. Here are the numbers that the pros watch from month to month.",
+          "link": "https://www.investopedia.com/articles/fundamental-analysis/10/indicators-that-move-the-market.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-26T13:59:39.000Z",
+          "wordCount": 7003,
+          "title": "4 Key Indicators That Move The Markets",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Cm1SSr6HJMo1KotOE3CR-Gv2q6s=/380x254/200270955-001-5bfc2b8bc9e77c00517fd20f.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Cm1SSr6HJMo1KotOE3CR-Gv2q6s=/380x254/200270955-001-5bfc2b8bc9e77c00517fd20f.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/the-costs-of-climate-change-are-already-here-in-your-insurance-bill-8414294",
+          "author": "Staff Author",
+          "description": "If you’re one of many people reeling at how quickly your insurance bills are rising, don’t just blame inflation—blame climate change.",
+          "link": "https://www.investopedia.com/the-costs-of-climate-change-are-already-here-in-your-insurance-bill-8414294?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-26T13:20:01.000Z",
+          "wordCount": 6060,
+          "title": "The Costs Of Climate Change Are Already Here: In Your Insurance Bill",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/tH9XFlHcsSqJc3LKxZnKmnxuyv8=/3900x2600/GettyImages-1635280917-9321e79089da4a49b054c6e80b6597e2.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/tH9XFlHcsSqJc3LKxZnKmnxuyv8=/3900x2600/GettyImages-1635280917-9321e79089da4a49b054c6e80b6597e2.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/3-charts-for-investors-to-watch-tuesday-bitcoin-oil-xbi-etf-8420081",
+          "author": "Timothy Smith",
+          "description": "These 3 charts are worth watching on Tuesday. We look at the reasons why and identify important technical levels to watch.",
+          "link": "https://www.investopedia.com/3-charts-for-investors-to-watch-tuesday-bitcoin-oil-xbi-etf-8420081?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-26T12:56:32.000Z",
+          "wordCount": 6544,
+          "title": "3 Charts For Investors to Watch Tuesday: Bitcoin, Oil, XBI ETF",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/PrM9_34ufMo9G2qmsDX2RIhdo9s=/1024x684/GettyImages-1871653236-5b4be17502c1431e970b9b35dd00069a.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/PrM9_34ufMo9G2qmsDX2RIhdo9s=/1024x684/GettyImages-1871653236-5b4be17502c1431e970b9b35dd00069a.jpg"
+        },
         {
           "id": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-december-26-2023-8420083",
           "author": "Terry Lane",
@@ -33663,21 +33723,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/CJU0EHw3T1vZnMKZRQceE-wKjMo=/725x482/GettyImages-138717344-5a0a2af3b39d030037622a1b.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/financial-advisors/092815/how-launch-wealth-management-firm.asp",
-          "author": "Justin Kuepper",
-          "description": "Opening a wealth management firm is a complex process. By keeping these rules in mind, financial advisors can increase the odds of success.",
-          "link": "https://www.investopedia.com/articles/financial-advisors/092815/how-launch-wealth-management-firm.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-27T02:08:24.000Z",
-          "wordCount": 6613,
-          "title": "How to Launch a Wealth Management Firm",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/CwqkSIBX5gceJYRVzxYeYQdxdkk=/680x440/thinkstockphotos-467176709-5bfc34f2c9e77c005181895a.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/CwqkSIBX5gceJYRVzxYeYQdxdkk=/680x440/thinkstockphotos-467176709-5bfc34f2c9e77c005181895a.jpg"
         }
       ]
     },
@@ -33687,6 +33732,36 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/tesla-stock-tsla-trends-towards-record-quarter-in-china-after-latest-registration-data/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-12-26T13:37:26.000Z",
+          "wordCount": null,
+          "title": "Tesla Trends Towards Record Quarter In China After Latest Registration Data",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/intel-stock-rises-on-plans-for-chip-factory-expansion-in-israel/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-12-26T13:13:10.000Z",
+          "wordCount": null,
+          "title": "Intel Stock Rises On Plans For Chip Factory Expansion In Israel",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-investors-lose-billions-on-these-giant-losers-this-year-2023/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-12-26T13:00:47.000Z",
+          "wordCount": null,
+          "title": "Investors Lose $426 Billion On These 8 Giant Losers This Year",
+          "imageUrl": null
+        },
+        {
           "id": "3-magnificent-growth-stocks-buy-124500924.html",
           "author": null,
           "description": "You can build long-term wealth on Wall Street with these three magnificent stocks.",
@@ -33695,6 +33770,26 @@
           "wordCount": 11163,
           "title": "3 Magnificent Growth Stocks to Buy Right Now and Hold in 2024 and Beyond",
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/a2fd302b730e53147a5461dce2eecd5b"
+        },
+        {
+          "id": "ARGUS_38639_TopBottomInsiderActivity_1703594552000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_38639_TopBottomInsiderActivity_1703594552000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-12-26T12:42:32.000Z",
+          "wordCount": null,
+          "title": "Daily – Vickers Top Buyers & Sellers for 12/26/2023",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_38638_InsiderActivity_1703594552000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_38638_InsiderActivity_1703594552000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-12-26T12:42:32.000Z",
+          "wordCount": null,
+          "title": "Daily – Vickers Top Insider Picks for 12/26/2023",
+          "imageUrl": null
         },
         {
           "id": "bristol-myers-rayzebio-acquisition-358de5bf?siteid=yhoof2&yptr=yahoo",
@@ -33707,6 +33802,26 @@
           "imageUrl": "https://images.barrons.com/im-376465/social"
         },
         {
+          "id": "palantir-170-rally-continue-2024-123000511.html",
+          "author": null,
+          "description": "Palantir's recent financial metrics may not reflect how it will perform in 2024.",
+          "link": "https://finance.yahoo.com/news/palantir-170-rally-continue-2024-123000511.html",
+          "publishedOn": "2023-12-26T12:30:00.000Z",
+          "wordCount": 10851,
+          "title": "Palantir Is Up 170% This Year. Can the Rally Continue in 2024?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_o6NRSUcE_tst5jGgwzaEQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/d58e5589fc84afe1fa0d2b2c168c30e3"
+        },
+        {
+          "id": "3-stocks-avoid-week-123000257.html",
+          "author": null,
+          "description": "These investments seem pretty vulnerable right now.",
+          "link": "https://finance.yahoo.com/news/3-stocks-avoid-week-123000257.html",
+          "publishedOn": "2023-12-26T12:30:00.000Z",
+          "wordCount": 10900,
+          "title": "3 Stocks to Avoid This Week",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/8vakdwVyZFHupjq7hrjb_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzM-/https://media.zenfs.com/en/motleyfool.com/f5f6906bcabd0ce728c889ada8adbb47"
+        },
+        {
           "id": "want-1-million-retirement-invest-123000785.html",
           "author": null,
           "description": "This trio of stocks will accelerate your path to retiring comfortably.",
@@ -33715,6 +33830,16 @@
           "wordCount": 11038,
           "title": "Want $1 Million in Retirement? Invest $300,000 in These 3 Stocks and Wait a Decade",
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/6964ebc3fc31c20805d360c1db585447"
+        },
+        {
+          "id": "ARGUS_38634_StockPicks_1703593430000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_38634_StockPicks_1703593430000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-12-26T12:23:50.000Z",
+          "wordCount": null,
+          "title": "Weekly Stock List",
+          "imageUrl": null
         },
         {
           "id": "bristol-myers-squibb-to-buy-rayzebio-for-4-1-billion-ad509029?siteid=yhoof2&yptr=yahoo",
@@ -33735,6 +33860,16 @@
           "wordCount": 10792,
           "title": "Should You Buy the Dip on Plug Power Stock for 2024?",
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/58b9d7be7c8abede23a39dd35deaa412"
+        },
+        {
+          "id": "ARGUS_38633_MarketOutlook_1703592707000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_38633_MarketOutlook_1703592707000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-12-26T12:11:47.000Z",
+          "wordCount": null,
+          "title": "Daily Spotlight: Opportunities in Capital Markets",
+          "imageUrl": null
         },
         {
           "id": "ARGUS_38632_TechnicalAnalysis_1703592700000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -33775,6 +33910,16 @@
           "wordCount": 8527,
           "title": "Investors Sour on EV Charging Companies",
           "imageUrl": "https://images.wsj.net/im-902885/social"
+        },
+        {
+          "id": "ARGUS_38630_MarketSummary_1703591856000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_38630_MarketSummary_1703591856000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2023-12-26T11:57:36.000Z",
+          "wordCount": null,
+          "title": "Market Digest: BSX, CCL, ES",
+          "imageUrl": null
         },
         {
           "id": "better-artificial-intelligence-ai-stock-114500675.html",
@@ -56825,16 +56970,6 @@
           "wordCount": 9979,
           "title": "Roth TSP vs. Roth IRA: What's the Difference?",
           "imageUrl": "https://www.investopedia.com/thmb/VLvDpSEUjHq6lokqLcbtWkjYoIg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-138717344-5a0a2af3b39d030037622a1b.jpg"
-        },
-        {
-          "id": "workers-morale-pay-benefits-remote-52c4ab10?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "U.S. employees are more dissatisfied than they were in the thick of the pandemic",
-          "link": "https://www.wsj.com/lifestyle/careers/workers-morale-pay-benefits-remote-52c4ab10?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-11-27T02:00:00.000Z",
-          "wordCount": 6949,
-          "title": "Why Is Everyone So Unhappy at Work Right Now?",
-          "imageUrl": "https://images.wsj.net/im-891010/social"
         }
       ]
     }
