@@ -1271,6 +1271,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "99f9d1e099d12c69b8430137f31c76e1",
+          "author": "Investopedia",
+          "description": "Stock futures moved slightly higher Tuesday as the holiday-shortened trading week got underway, as investors hope that U.S. stocks can extend an eight-session winning streak.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c2150d9166d768e3c10f7310893bc56b87",
+          "publishedOn": "2023-12-26T15:11:52.020Z",
+          "wordCount": 409,
+          "title": "Dow Jones Today: Stock Futures Pointing Higher To Start Final Week of the Year",
+          "imageUrl": null
+        },
+        {
           "id": "7911969867ca456705fe9dd6919fbc55",
           "author": "Investopedia",
           "description": "The tepid U.S. market for IPOs, which has been battered by rising interest rates and other challenges, shows little sign of strengthening heading into 2024—despite intense interest in AI companies.",
@@ -2457,6 +2467,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6295656/",
+          "author": "onze nieuwsredactie",
+          "description": "De luchthaven Sabiha Gökçen in Istanboel heeft er een nieuwe startbaan bij. Maandag verrichte de Turkse president Recep Tayyip Erdogan de openingsceremonie. De aanleg van de nieuwe baan heeft 970 miljoen euro gekost.",
+          "link": "https://www.nu.nl/economie/6295656/door-vertragingen-geplaagd-vliegveld-bij-istanboel-krijgt-tweede-startbaan.html",
+          "publishedOn": "2023-12-26T15:09:34.000Z",
+          "wordCount": 2512,
+          "title": "Door vertragingen geplaagd vliegveld bij Istanboel krijgt tweede startbaan",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/7yhxroqa94m2_sqr256.jpg/door-vertragingen-geplaagd-vliegveld-bij-istanboel-krijgt-tweede-startbaan.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/7yhxroqa94m2_sqr256.jpg/door-vertragingen-geplaagd-vliegveld-bij-istanboel-krijgt-tweede-startbaan.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6295659/",
+          "author": "onze nieuwsredactie",
+          "description": "De benzineprijs aan de Nederlandse pomp valt dit jaar waarschijnlijk zo'n 6 procent hoger uit ten opzichte van Oudjaarsdag 2022. Met nog een paar dagen te gaan tot aan de jaarwisseling staat de landelijke adviesprijs dinsdag op 2,054 euro.",
+          "link": "https://www.nu.nl/economie/6295659/landelijke-adviesprijs-benzineprijs-valt-6-procent-hoger-uit-dan-vorig-jaar.html",
+          "publishedOn": "2023-12-26T15:02:04.000Z",
+          "wordCount": 2528,
+          "title": "Landelijke adviesprijs benzineprijs valt 6 procent hoger uit dan vorig jaar",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/l9sx6hka9pxd_sqr256.jpg/landelijke-adviesprijs-benzineprijs-valt-6-procent-hoger-uit-dan-vorig-jaar.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/l9sx6hka9pxd_sqr256.jpg/landelijke-adviesprijs-benzineprijs-valt-6-procent-hoger-uit-dan-vorig-jaar.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6295648/",
           "author": "onze nieuwsredactie",
@@ -9199,6 +9239,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/b/batchtrading.asp",
+          "author": "Gordon Scott",
+          "description": "Batch trading refers to an accumulation of orders that are executed simultaneously.",
+          "link": "https://www.investopedia.com/terms/b/batchtrading.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-26T14:29:39.000Z",
+          "wordCount": 6234,
+          "title": "Batch Trading: What it is, How it Works, Continuous Trading",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/UWG0khn64HlNL5OPxFsC8IAfozE=/680x440/investing1-5bfc2b9046e0fb005119b292.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/UWG0khn64HlNL5OPxFsC8IAfozE=/680x440/investing1-5bfc2b9046e0fb005119b292.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/fundamental-analysis/10/indicators-that-move-the-market.asp",
           "author": "Brian Perry",
@@ -33648,81 +33703,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/hgMzB_YEUqUw4tq0KNlNFA0Vlvc=/680x440/thinkstockphotos78747101-5bfc3b4ac9e77c0051480b07.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/t/taxshelter.asp",
-          "author": "Julia Kagan",
-          "description": "A tax shelter is a vehicle used by taxpayers to minimize or decrease their taxable incomes and, therefore, tax liabilities.",
-          "link": "https://www.investopedia.com/terms/t/taxshelter.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-27T02:59:50.000Z",
-          "wordCount": 8032,
-          "title": "Tax Shelter: Definition, Examples, and Legal Issues",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/83GSocTiDJ5bVNGjziQBRgoNH3k=/380x254/dv740090-5bfc2b8b46e0fb00265bea71.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/83GSocTiDJ5bVNGjziQBRgoNH3k=/380x254/dv740090-5bfc2b8b46e0fb00265bea71.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/personal-finance/060315/taxation-nonqualified-deferred-compensation-plans.asp",
-          "author": "Barbara Weltman",
-          "description": "The tax savings of non-qualified deferred compensation plans are not the only tax-related fact you need to know before signing up for one.",
-          "link": "https://www.investopedia.com/articles/personal-finance/060315/taxation-nonqualified-deferred-compensation-plans.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-27T02:58:27.000Z",
-          "wordCount": 7744,
-          "title": "Taxation on Non-Qualified Deferred Compensation Plans",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/orzmEoG9S2PSZoq-ccob-KomhXE=/2122x1415/thinkstockphotos-479134597-5bfc34d146e0fb00517da710.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/orzmEoG9S2PSZoq-ccob-KomhXE=/2122x1415/thinkstockphotos-479134597-5bfc34d146e0fb00517da710.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/042815/progressive-tax-more-fair-flat-tax.asp",
-          "author": "The Investopedia Team",
-          "description": "Find out which is more fair: flat tax or progressive tax. Learn about both sides of the debate and the challenges of defining \"fair.\"",
-          "link": "https://www.investopedia.com/ask/answers/042815/progressive-tax-more-fair-flat-tax.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-27T02:56:59.000Z",
-          "wordCount": 7630,
-          "title": "Is a Progressive Tax More Fair Than a Flat Tax?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/LjPjLLUIuMUWXkcA6HHpyipo7aA=/680x440/shutterstock_6286552-5bfc2b3fc9e77c0026b4ebeb.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/LjPjLLUIuMUWXkcA6HHpyipo7aA=/680x440/shutterstock_6286552-5bfc2b3fc9e77c0026b4ebeb.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/d/deadweight-loss-of-taxation.asp",
-          "author": "Julia Kagan",
-          "description": "Deadweight loss of taxation is a measurement of the economic loss that can be caused by a tax due to its damaging effects on supply and demand.",
-          "link": "https://www.investopedia.com/terms/d/deadweight-loss-of-taxation.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-27T02:54:01.000Z",
-          "wordCount": 7894,
-          "title": "Deadweight Loss Of Taxation: Definition, How It Works and Example",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/R5BjWk2tJnU-E4pB5UCszcVjQPc=/1600x1066/13368794123_7a15a37820_o-7d33ce5a488d4b0cb80e6230e6d98615.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/R5BjWk2tJnU-E4pB5UCszcVjQPc=/1600x1066/13368794123_7a15a37820_o-7d33ce5a488d4b0cb80e6230e6d98615.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/roth-tsp-vs-roth-ira-how-do-they-compare-4770656",
-          "author": "Jean Folger",
-          "description": "Federal employees and military personnel can choose to save for retirement through a Roth TSP or a Roth IRA. Here's how they differ.",
-          "link": "https://www.investopedia.com/roth-tsp-vs-roth-ira-how-do-they-compare-4770656?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-27T02:18:00.000Z",
-          "wordCount": 9998,
-          "title": "Roth TSP vs. Roth IRA: What&#39;s the Difference?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/CJU0EHw3T1vZnMKZRQceE-wKjMo=/725x482/GettyImages-138717344-5a0a2af3b39d030037622a1b.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/CJU0EHw3T1vZnMKZRQceE-wKjMo=/725x482/GettyImages-138717344-5a0a2af3b39d030037622a1b.jpg"
         }
       ]
     },
@@ -33735,11 +33715,71 @@
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-ahead-of-economic-data-google-stock-leads-eight-stocks-to-buy-and-watch/?src=A00220&yptr=yahoo",
+          "publishedOn": "2023-12-26T14:46:14.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Comes Out Ahead After Holiday; Google Leads 8 Stocks To Buy And Watch",
+          "imageUrl": null
+        },
+        {
+          "id": "exciting-news-intel-stock-investors-141111982.html",
+          "author": null,
+          "description": "Intel's manufacturing endeavors just got a massive boost of confidence.",
+          "link": "https://finance.yahoo.com/news/exciting-news-intel-stock-investors-141111982.html",
+          "publishedOn": "2023-12-26T14:11:11.000Z",
+          "wordCount": 10342,
+          "title": "Exciting News for Intel Stock Investors",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/79ca08072108bd5c92321582492fa5d5"
+        },
+        {
+          "id": "5-stocks-confidently-invest-500-140000879.html",
+          "author": null,
+          "description": "These companies can provide investors with long-term stability and reliability.",
+          "link": "https://finance.yahoo.com/news/5-stocks-confidently-invest-500-140000879.html",
+          "publishedOn": "2023-12-26T14:00:00.000Z",
+          "wordCount": 11125,
+          "title": "5 Stocks You Can Confidently Invest $500 in Right Now",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/9c38d9237d20ca8ccee21adb590f9e42"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
           "link": "https://www.investors.com/news/tesla-stock-tsla-trends-towards-record-quarter-in-china-after-latest-registration-data/?src=A00220&yptr=yahoo",
           "publishedOn": "2023-12-26T13:37:26.000Z",
           "wordCount": null,
           "title": "Tesla Trends Towards Record Quarter In China After Latest Registration Data",
           "imageUrl": null
+        },
+        {
+          "id": "why-3d-printing-solutions-provider-133546774.html",
+          "author": null,
+          "description": "Stratasys Ltd (NASDAQ: SSYS) shares are trading higher after it disclosed receiving a preliminary acquisition proposal from Nano Dimension Ltd (NASDAQ: NNDM) last week. NNDM intends to buy all the remaining outstanding shares that it currently doesn't own for $16.50 per share in cash. In September, SSYS' Board of directors disclosed that they had initiated a process to explore strategic alternatives for the company. SSYS' Board will review and consider Nano's unsolicited preliminary proposal, re",
+          "link": "https://finance.yahoo.com/news/why-3d-printing-solutions-provider-133546774.html",
+          "publishedOn": "2023-12-26T13:35:46.000Z",
+          "wordCount": 10296,
+          "title": "Why Is 3D Printing Solutions Provider Stratasys Stock Soaring Today?",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/003e393d7fa103f97cc849dbea130c3a"
+        },
+        {
+          "id": "abbvies-recent-immunogen-acquisition-looks-133000015.html",
+          "author": null,
+          "description": "The acquisition fills an immediate need with some extras to boot.",
+          "link": "https://finance.yahoo.com/news/abbvies-recent-immunogen-acquisition-looks-133000015.html",
+          "publishedOn": "2023-12-26T13:30:00.000Z",
+          "wordCount": 11028,
+          "title": "AbbVie's Recent ImmunoGen Acquisition Looks Brilliant: Here's Why",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/8c8cebfcfe8e1419d580ff58ecb231c8"
+        },
+        {
+          "id": "whats-going-alibaba-stock-tuesday-132619577.html",
+          "author": null,
+          "description": "Alibaba Group Holding Limited (NYSE: BABA) stock is trading higher Tuesday amid reports of China approving 105 domestic games following recent industry restrictions that caused an $80 billion market downturn. The approved titles included games from top publishers Tencent Holdings Ltd (OTC: TCEHY) and NetEase Inc (NASDAQ: NTES), indicating a potential easing pressure on these companies, Bloomberg reports. However, concerns intensified last Friday when the National Press and Publication Administra",
+          "link": "https://finance.yahoo.com/news/whats-going-alibaba-stock-tuesday-132619577.html",
+          "publishedOn": "2023-12-26T13:26:19.000Z",
+          "wordCount": 10481,
+          "title": "What's Going On With Alibaba Stock Tuesday?",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/ead6e82ee5d32972cbc36074d1d03360"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -56940,36 +56980,6 @@
           "wordCount": 9911,
           "title": "Oil Declines for Fourth Day on OPEC+ Intrigue and Risk-Off Tone",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/6ab803a95b756eb42f385583e3e133ea"
-        },
-        {
-          "id": "sumitomo-mitsui-ceo-ohta-pushed-001504403.html",
-          "author": null,
-          "description": "(Bloomberg) -- Sumitomo Mitsui Financial Group Inc.’s Chief Executive Officer Jun Ohta, who pursued an aggressive expansion abroad during his four years at the helm of Japan’s second-largest bank, has died. He was 65. Most Read from BloombergRussia Downs Drones Over Moscow in Ukrainian Retaliatory StrikeChina Says Multiple Pathogens Are Behind Spike in Respiratory IllnessesSodium in Batteries: Shift May Herald Another ShakeupMarkets Cheer as Milei Drops Dollarization for Macri BrassIsrael, Hamas",
-          "link": "https://finance.yahoo.com/news/sumitomo-mitsui-ceo-ohta-pushed-001504403.html",
-          "publishedOn": "2023-11-27T02:34:45.000Z",
-          "wordCount": 10320,
-          "title": "Sumitomo Mitsui CEO Ohta, Who Pushed Asia Growth, Dies at 65",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/zKT49oV7iKyx6AkCeV38aA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/b50ae3ea7d708adcd70f650faf950528"
-        },
-        {
-          "id": "asian-stocks-rise-fear-gauge-220700604.html",
-          "author": null,
-          "description": "(Bloomberg) -- Asian stocks are poised to start a fresh week higher after US shares held last week’s gain in a holiday-shortened session on Wall Street. Most Read from BloombergRussia Downs Drones Over Moscow in Ukrainian Retaliatory StrikeChina Says Multiple Pathogens Are Behind Spike in Respiratory IllnessesSodium in Batteries: Shift May Herald Another ShakeupMarkets Cheer as Milei Drops Dollarization for Macri BrassEverything You Need to Know About China’s Child Pneumonia OutbreakFutures cont",
-          "link": "https://finance.yahoo.com/news/asian-stocks-rise-fear-gauge-220700604.html",
-          "publishedOn": "2023-11-27T02:23:40.000Z",
-          "wordCount": 10720,
-          "title": "Asian Stocks Erase Gains as Further Data Awaited: Markets Wrap",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/f16c2a7648b8a64c84cc98273a02bddb"
-        },
-        {
-          "id": "roth-tsp-vs-roth-ira-how-do-they-compare-4770656?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "Federal employees and military personnel can choose to save for retirement through a Roth TSP or a Roth IRA. Here's how they differ.",
-          "link": "https://www.investopedia.com/roth-tsp-vs-roth-ira-how-do-they-compare-4770656?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-11-27T02:18:00.000Z",
-          "wordCount": 9979,
-          "title": "Roth TSP vs. Roth IRA: What's the Difference?",
-          "imageUrl": "https://www.investopedia.com/thmb/VLvDpSEUjHq6lokqLcbtWkjYoIg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-138717344-5a0a2af3b39d030037622a1b.jpg"
         }
       ]
     }
