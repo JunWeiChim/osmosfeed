@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "f7310ce92b2aee66c965c1af8494a429",
+          "author": "Investopedia",
+          "description": "The Israeli government has given Intel $3.2 billion in incentives to expand its chip manufacturing in the country.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8f69d3e713e85b3c9c9d75b6e13e7ec21612c1398934b89d4c664dd5269c3dd2971478caf030a1b8f72fafea9b24a928a42b42813c46181e1cf1f2a6cd3a50c79fbfb1c8cd9c8b5816da4c97c23831",
+          "publishedOn": "2023-12-26T17:10:49.852Z",
+          "wordCount": 409,
+          "title": "Israeli Government Gives Intel $3.2 Billion in Incentives to Build a Chip Plant",
+          "imageUrl": null
+        },
+        {
           "id": "4de2ea4a0ad9c3467d005d339101e784",
           "author": "Investopedia",
           "description": "Rocket Lab USA shares skyrocketed after it received a U.S. government contract worth as much as $515 million.",
@@ -1270,6 +1280,16 @@
       "feedUrl": "https://rss.app/feeds/UWnMV6nTNN8mPDUG.xml",
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
+        {
+          "id": "a6d91fe04fc395b02363c1f3d397682c",
+          "author": "Investopedia",
+          "description": "U.S. equities continued their pre-Christmas rally into the last week of 2023, with the Dow, S&P 500, and Nasdaq all up.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b6ec3e61ebc113487983db1e1772481505acf7d9675b881502a41d7269136d09e576ed1ef26a6faef6deff18b3fb661fa3b1a8b364d455119e4e0e5cb7640d3d7b4abd581c1d3471edf4a97",
+          "publishedOn": "2023-12-26T17:10:49.833Z",
+          "wordCount": 409,
+          "title": "Midday Movers: Intel's Israel Deal, Bristol-Myers Squibb Buys RayzeBio",
+          "imageUrl": null
+        },
         {
           "id": "99f9d1e099d12c69b8430137f31c76e1",
           "author": "Investopedia",
@@ -9239,6 +9259,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/midday-movers-intel-s-israel-deal-bristol-myers-squibb-buys-rayzebio-8420140",
+          "author": "Staff Author",
+          "description": "U.S. equities continued their pre-Christmas rally into the last week of 2023, with the Dow, S&P 500, and Nasdaq all up.",
+          "link": "https://www.investopedia.com/midday-movers-intel-s-israel-deal-bristol-myers-squibb-buys-rayzebio-8420140?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-26T16:47:29.000Z",
+          "wordCount": 5385,
+          "title": "Midday Movers: Intel&#39;s Israel Deal, Bristol-Myers Squibb Buys RayzeBio",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/LJaVNV5gU_jYJFzJSudNrXk4GTo=/3000x2001/GettyImages-463023679-71a3e970fa1e4e92853eb5315139b30d.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/LJaVNV5gU_jYJFzJSudNrXk4GTo=/3000x2001/GettyImages-463023679-71a3e970fa1e4e92853eb5315139b30d.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/wealth-management/021816/portfolio-manager-job-description-average-salary.asp",
+          "author": "Melissa Horton",
+          "description": "Discover the duties and responsibilities of a portfolio manager, along with education, training and skills requirements, and salary expectations.",
+          "link": "https://www.investopedia.com/articles/wealth-management/021816/portfolio-manager-job-description-average-salary.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-26T16:46:05.000Z",
+          "wordCount": 7234,
+          "title": "What a Portfolio Manager Does and Earns",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/pP23ddAs4SJ8sy7y_WtpAMONUMI=/2121x1414/businessexecutives-daf25469d19448dd82a5959c3e905127.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/pP23ddAs4SJ8sy7y_WtpAMONUMI=/2121x1414/businessexecutives-daf25469d19448dd82a5959c3e905127.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/intel-gets-usd3-2-billion-in-incentives-to-build-a-chip-plant-in-israel-8420124",
+          "author": "Staff Author",
+          "description": "The Israeli government has given Intel $3.2 billion in incentives to expand its chip manufacturing in the country.",
+          "link": "https://www.investopedia.com/intel-gets-usd3-2-billion-in-incentives-to-build-a-chip-plant-in-israel-8420124?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-26T16:39:46.000Z",
+          "wordCount": 5515,
+          "title": "Israeli Government Gives Intel $3.2 Billion in Incentives to Build a Chip Plant",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/McFjAN2H1xTF21UDp5HssZIpf3k=/4000x2662/GettyImages-1246677564-fdbd743b786142589c642fe417a93392.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/McFjAN2H1xTF21UDp5HssZIpf3k=/4000x2662/GettyImages-1246677564-fdbd743b786142589c642fe417a93392.jpg"
+        },
         {
           "id": "https://www.investopedia.com/ask/answers/12/401k.asp",
           "author": "Yolander Prinzel",
@@ -33757,6 +33822,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "nio-stock-analysis-buy-sell-160443549.html",
+          "author": null,
+          "description": "The Chinese carmaker could have a promising 2024 if it can deliver.",
+          "link": "https://finance.yahoo.com/news/nio-stock-analysis-buy-sell-160443549.html",
+          "publishedOn": "2023-12-26T16:04:43.000Z",
+          "wordCount": 10340,
+          "title": "Nio Stock Analysis: Is It a Buy or Sell in 2024?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/I9WGcuH63cBebE0DpeK6sQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/4edc89fef8c4c87f3b4d00bce411b09c"
+        },
+        {
+          "id": "worlds-largest-ree-lithium-discovered-160012987.html",
+          "author": null,
+          "description": "When it comes to rare-earth elements (REEs), lithium stands out because of its usefulness and potential value. That's why the Department of Energy (DOE) was jumping for joy when it discovered what is believed to be the world's largest supply of lithium beneath California's Salton Sea. The estimated 18 million-ton motherlode could be worth up to $540 billion and meet America's demand for decades to come. In the 1990s, lithium was perhaps most famous for being the title of a hit song by the band N",
+          "link": "https://finance.yahoo.com/news/worlds-largest-ree-lithium-discovered-160012987.html",
+          "publishedOn": "2023-12-26T16:00:12.000Z",
+          "wordCount": 10827,
+          "title": "World's Largest Reserve Of REE Lithium Discovered Beneath California's Salton Sea: $540 Billion Motherlode Could Meet America's Supply Demands For Decades",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/a06e23340ecac63d343b6738df71f575"
+        },
+        {
           "id": "tesla-bull-raises-price-target-153000209.html",
           "author": null,
           "description": "Here's everything you need to know about the electric vehicle maker's week.",
@@ -33815,6 +33900,16 @@
           "wordCount": 10342,
           "title": "Exciting News for Intel Stock Investors",
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/79ca08072108bd5c92321582492fa5d5"
+        },
+        {
+          "id": "why-paypal-stock-could-set-140840791.html",
+          "author": null,
+          "description": "Fintech giant PayPal has had a significant shift in management.",
+          "link": "https://finance.yahoo.com/news/why-paypal-stock-could-set-140840791.html",
+          "publishedOn": "2023-12-26T14:08:40.000Z",
+          "wordCount": 10348,
+          "title": "Why PayPal Stock Could Be Set to Have an Amazing 2024",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/962e9e786fad5750ced5ca9855a9b0cb"
         },
         {
           "id": "5-stocks-confidently-invest-500-140000879.html",
@@ -57025,26 +57120,6 @@
           "wordCount": 10112,
           "title": "Michael Saylor’s Microstrategy Stock Price Reaches Two-Year-High, Boosted by Bitcoin Holdings",
           "imageUrl": "https://media.zenfs.com/en/coinmarketcap_783/c6a8104c13446a55cd0e827d23ead6fa"
-        },
-        {
-          "id": "exclusive-beijing-stock-exchange-tells-050154607.html",
-          "author": null,
-          "description": "SHANGHAI/BEIJING (Reuters) -The Beijing Stock Exchange has de facto implemented a new policy that prevents major shareholders of companies listed on its bourse from selling stock, worried that such sales could douse a market rally, three people familiar with the matter said.  A \"major shareholder\" is one with a stake of 5% or more, and to sell shares in a company they own, they need to make a public filing with the relevant stock exchange, according to rules for the country's bourses.  The Beijing exchange has been rejecting those filings, said the people who were not authorised to speak to media and declined to be identified.",
-          "link": "https://finance.yahoo.com/news/exclusive-beijing-stock-exchange-tells-050154607.html",
-          "publishedOn": "2023-11-27T05:01:54.000Z",
-          "wordCount": 9824,
-          "title": "Exclusive-Beijing bourse tells 'major shareholders' to refrain from selling, sources say",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/09dc04edb7d16feb1f6d31f99da66406"
-        },
-        {
-          "id": "gold-atop-6-month-peak-043418191.html",
-          "author": null,
-          "description": "Gold prices climbed a six-month peak on Monday, supported by a weaker U.S. dollar and on bets that the U.S. Federal Reserve is done with its interest rate hike cycle, while the focus shifted to U.S. inflation data due later this week.  Spot gold was up 0.4% at $2,009.69 per ounce by 0404 GMT.  \"What's moving gold at the moment is the lower U.S. dollar because of the recent soft data,\" said Kyle Rodda, a financial market analyst at Capital.com.",
-          "link": "https://finance.yahoo.com/news/gold-atop-6-month-peak-043418191.html",
-          "publishedOn": "2023-11-27T04:34:18.000Z",
-          "wordCount": 10300,
-          "title": "Gold atop 6-month peak on softer US dollar, bets on Fed pause",
-          "imageUrl": "https://media.zenfs.com/en/reuters.com/75f831a5551efedbb9a5fdd2c667aad8"
         }
       ]
     }
