@@ -2509,16 +2509,6 @@
           "wordCount": 409,
           "title": "Dow Jones Today: Stock Futures, Treasury Yields Dip To Start the Week",
           "imageUrl": null
-        },
-        {
-          "id": "49f864c5eabba8ef0f2732d35cfeae49",
-          "author": "Investopedia",
-          "description": "Amazon and Walmart prepare for Cyber Monday ahead of projections for record spending on the shopping holiday and Disney shares fell after its film “Wish” fared poorly during the Thanksgiving box office weekend. Here’s what investors need to know today.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df4f2a56d06e81209c9d0a69cdab3bbde3e62de0ed9c60f77ba4785fd0670250075caba4f981",
-          "publishedOn": "2023-11-27T13:16:07.009Z",
-          "wordCount": 409,
-          "title": "5 Things to Know Before Markets Open",
-          "imageUrl": null
         }
       ]
     },
@@ -9186,21 +9176,6 @@
             "url": "https://media.nu.nl/m/l5ux8flahh3s_sqr256.jpg/gemeenten-vragen-massaal-subsidie-aan-om-huizen-van-kwetsbaren-te-isoleren.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/l5ux8flahh3s_sqr256.jpg/gemeenten-vragen-massaal-subsidie-aan-om-huizen-van-kwetsbaren-te-isoleren.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6291532/",
-          "author": "Hanna Ozinga",
-          "description": "De Verenigde Naties hebben opheldering gevraagd aan de Nederlandse overheid in het pfas-schandaal rondom Chemours. Afvalwater wordt vanuit de fabriek in Dordrecht naar een Chemours-vestiging in de Amerikaanse staat North Carolina verscheept, waar het de gezondheid van de bevolking zou schaden.",
-          "link": "https://www.nu.nl/economie/6291532/chemours-afval-uit-nederland-bedreigt-gezondheid-in-vs-vn-eist-verklaring.html",
-          "publishedOn": "2023-11-27T13:35:44.000Z",
-          "wordCount": 2827,
-          "title": "Chemours-afval uit Nederland bedreigt gezondheid in VS: VN eist verklaring",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/lkxx78xa9vro_sqr256.jpg/chemours-afval-uit-nederland-bedreigt-gezondheid-in-vs-vn-eist-verklaring.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/lkxx78xa9vro_sqr256.jpg/chemours-afval-uit-nederland-bedreigt-gezondheid-in-vs-vn-eist-verklaring.jpg"
         }
       ]
     },
@@ -9209,6 +9184,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/investing/043015/fundamentals-how-india-makes-its-money.asp",
+          "author": "Vanessa Page",
+          "description": "As of 2021, India has the sixth-largest nominal GDP and the third-largest purchasing power parity (PPP) in the world.",
+          "link": "https://www.investopedia.com/articles/investing/043015/fundamentals-how-india-makes-its-money.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-27T01:40:32.000Z",
+          "wordCount": 8238,
+          "title": "The Fundamentals of How India Makes Its Money",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/JOUPHtVMa_LYTkOQPSdZf6yI18Y=/1500x1014/GettyImages-617096880-68830925d7e842c2beeaee773c9b4807.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/JOUPHtVMa_LYTkOQPSdZf6yI18Y=/1500x1014/GettyImages-617096880-68830925d7e842c2beeaee773c9b4807.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/active-trading/110714/contract-difference-cfd-risks.asp",
           "author": "Trevir I Nath",
@@ -34147,6 +34137,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/o3xruPje8BFVHcnW1xmcyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/0bb62ea6fb128b8ab3d802386c20416b"
         },
         {
+          "id": "why-rivian-lucid-quantumscape-stocks-230500021.html",
+          "author": null,
+          "description": "EV sales grew 50% in 2023. Hurray?",
+          "link": "https://finance.yahoo.com/news/why-rivian-lucid-quantumscape-stocks-230500021.html",
+          "publishedOn": "2023-12-26T23:05:00.000Z",
+          "wordCount": 10815,
+          "title": "Why Rivian, Lucid, and QuantumScape Stocks all Popped Today",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/o15mGFCeMOYWcvvVR5.9mA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODY-/https://media.zenfs.com/en/motleyfool.com/c47b0ad100f2091f70f0eae61b206b59"
+        },
+        {
           "id": "where-nvidia-stock-2-years-222105126.html",
           "author": null,
           "description": "Many investors wonder if Nvidia could continue riding the AI wave for several years more.",
@@ -34205,6 +34205,16 @@
           "wordCount": null,
           "title": "Dow Jones Gains Amid Santa Claus Rally; Cathie Wood Piles Into This Stock Despite 21% Plunge",
           "imageUrl": null
+        },
+        {
+          "id": "earn-500-per-month-ibm-200217814.html",
+          "author": null,
+          "description": "International Business Machines Corp. (NYSE:IBM) closed at $162.23 at the end of the trading session on Dec. 15. The New York-headquartered technology corporation filed its Form 10-Q for the quarter ending Sept. 30 in the last week of October. According to the filing, IBM's cash dividends for the nine months ended Sept. 30 were $4.5 billion. Cash dividends for the quarter were $1.66 per share and a cumulative $4.97 per share for the first three quarters of the year. Using $4.97 per share for thr",
+          "link": "https://finance.yahoo.com/news/earn-500-per-month-ibm-200217814.html",
+          "publishedOn": "2023-12-26T20:02:17.000Z",
+          "wordCount": 10663,
+          "title": "How To Earn $500 Per Month From IBM Stock",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/bf090a4c66d75b690049bcab0f32b845"
         },
         {
           "id": "exclusive-nikola-ceo-girsky-upbeat-195841137.html",
@@ -34275,6 +34285,16 @@
           "wordCount": 10405,
           "title": "Average Retirement Income In America Revealed — Will You Make Enough Each Month?",
           "imageUrl": "https://media.zenfs.com/en/Benzinga/69f03f2e1304da42248eca2a8b704bd6"
+        },
+        {
+          "id": "wall-street-analysts-trim-chevron-164620031.html",
+          "author": null,
+          "description": "Wall Street analysts are trimming their earnings estimates for Chevron Corp and employees are preparing for potential job cuts as a series of operational setbacks are poised to bleed into 2024.  Chevron in 2023 was hit by reversals at two key oil producing regions - the U.S. Permian and Kazakhstan - and its hopes for a quick approval of a $53 billion acquisition of rival Hess Corp have dimmed.  The company's shares year to date are down 15%, lagging the stock performance at its four big rivals - BP, Exxon Mobil, Shell and TotalEnergies.",
+          "link": "https://finance.yahoo.com/news/wall-street-analysts-trim-chevron-164620031.html",
+          "publishedOn": "2023-12-26T16:46:20.000Z",
+          "wordCount": 10716,
+          "title": "Wall Street analysts trim Chevron views as setbacks mount",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/11a30660ada39cdeaa85d6eaa5b1b671"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -34405,6 +34425,16 @@
           "wordCount": 11125,
           "title": "5 Stocks You Can Confidently Invest $500 in Right Now",
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/9c38d9237d20ca8ccee21adb590f9e42"
+        },
+        {
+          "id": "2-retirement-stocks-buy-2024-134500031.html",
+          "author": null,
+          "description": "A unique combination of rising dividends and increasing stock prices could enrich retirees and those saving for retirement.",
+          "link": "https://finance.yahoo.com/news/2-retirement-stocks-buy-2024-134500031.html",
+          "publishedOn": "2023-12-26T13:45:00.000Z",
+          "wordCount": 10968,
+          "title": "2 Retirement Stocks to Buy for 2024",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/933fde197091a4812d82e668369b638a"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -57175,86 +57205,6 @@
           "wordCount": 10137,
           "title": "Economists See Stubborn US Core Inflation Keeping Rates Higher",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/YQfzMAFEsmzJDcNB_6Vupg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/2d8312abf4712c8ef8955fb396df7e04"
-        },
-        {
-          "id": "ARGUS_3210_AnalystReport_1701091414000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_3210_AnalystReport_1701091414000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2023-11-27T13:23:34.000Z",
-          "wordCount": null,
-          "title": "Analyst Report: Marathon Oil Corporation",
-          "imageUrl": null
-        },
-        {
-          "id": "ARGUS_4179_AnalystReport_1701091414000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_4179_AnalystReport_1701091414000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2023-11-27T13:23:34.000Z",
-          "wordCount": null,
-          "title": "Analyst Report: Oshkosh Corp",
-          "imageUrl": null
-        },
-        {
-          "id": "ARGUS_3530_AnalystReport_1701091414000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_3530_AnalystReport_1701091414000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2023-11-27T13:23:34.000Z",
-          "wordCount": null,
-          "title": "Analyst Report: Walmart Inc",
-          "imageUrl": null
-        },
-        {
-          "id": "ARGUS_3715_AnalystReport_1701091414000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_3715_AnalystReport_1701091414000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2023-11-27T13:23:34.000Z",
-          "wordCount": null,
-          "title": "Analyst Report: Brighthouse Financial Inc",
-          "imageUrl": null
-        },
-        {
-          "id": "ARGUS_5979_AnalystReport_1701091414000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_5979_AnalystReport_1701091414000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2023-11-27T13:23:34.000Z",
-          "wordCount": null,
-          "title": "Analyst Report: Rocket Companies Inc",
-          "imageUrl": null
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-on-weak-china-data-best-stocks-to-buy-and-watch/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-11-27T13:10:07.000Z",
-          "wordCount": null,
-          "title": "Dow Jones Futures Fall On Weak China Data; 6 Best Stocks To Buy And Watch",
-          "imageUrl": null
-        },
-        {
-          "id": "1-activist-investor-elliott-pushes-130616803.html",
-          "author": null,
-          "description": "Activist investor Elliott Investment Management is seeking new executive and board changes at Crown Castle in a letter released on Monday, after disclosing a $2 billion stake in the real estate investment trust.  Shares of Crown Castle were up more than 5% premarket.  \"Crown Castle suffers from a profound lack of oversight by the Board, which has contributed to its irresponsible stewardship and flawed financial policy,\" Elliott said in the letter.",
-          "link": "https://finance.yahoo.com/news/1-activist-investor-elliott-pushes-130616803.html",
-          "publishedOn": "2023-11-27T13:06:16.000Z",
-          "wordCount": 10091,
-          "title": "UPDATE 1-Activist investor Elliott pushes for changes at Crown Castle",
-          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-heres-who-owns-amazon-com-now-that-jeff-bezos-dumps-his-stock/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-11-27T13:00:54.000Z",
-          "wordCount": null,
-          "title": "Who Owns Amazon.com Now That Jeff Bezos Dumps His Stock?",
-          "imageUrl": null
         }
       ]
     }
