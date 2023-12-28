@@ -2509,16 +2509,6 @@
           "wordCount": 409,
           "title": "Dow Jones Today: Stock Futures Fall Ahead of Fed Speakers",
           "imageUrl": null
-        },
-        {
-          "id": "1c0747e086ec45eddf0e37882520bf87",
-          "author": "Investopedia",
-          "description": "An appeals court handed a victory to DuPont spinoff Corteva and 3M in a class action lawsuit and Zscaler shares fell after the cloud cybersecurity provider reported rising costs. Here’s what investors need to know today.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df4f2a56d06e81209c9d0a69cdab3bbde3e62de0ed9c60f774a4785fd0670250075caaa1fe89",
-          "publishedOn": "2023-11-28T13:15:40.161Z",
-          "wordCount": 409,
-          "title": "5 Things to Know Before Markets Open",
-          "imageUrl": null
         }
       ]
     },
@@ -9149,6 +9139,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/f/firm-order.asp",
+          "author": "Cory Mitchell",
+          "description": "A firm order is an investor's buy or sell order that remains open indefinitely. Firm order also refers to orders placed by proprietary trading desks.",
+          "link": "https://www.investopedia.com/terms/f/firm-order.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-28T00:50:07.000Z",
+          "wordCount": 6742,
+          "title": "Firm Order: What it Means, How it Works, Example",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/7EJDVIGA0tQEBPMdyZ4wbltfluM=/205x136/activetrading19-5bfc2b9ac9e77c005143f303.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/7EJDVIGA0tQEBPMdyZ4wbltfluM=/205x136/activetrading19-5bfc2b9ac9e77c005143f303.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/professionals/090815/career-advice-financial-analyst-vs-accountant.asp",
+          "author": "Sean Ross",
+          "description": "If you're thinking of becoming a financial analyst or an accountant, make sure you understand the differences between these two careers. Learn more about these jobs.",
+          "link": "https://www.investopedia.com/articles/professionals/090815/career-advice-financial-analyst-vs-accountant.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-28T00:40:37.000Z",
+          "wordCount": 7682,
+          "title": "Financial Analyst vs. Accountant: What&#39;s the Difference?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/GolrEBek-WFJzodlXDFpnhOUUR0=/2121x1414/businessmeeting-d45b5cb6ec1948cf82ee179939c1c105.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/GolrEBek-WFJzodlXDFpnhOUUR0=/2121x1414/businessmeeting-d45b5cb6ec1948cf82ee179939c1c105.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/investing/041515/why-federal-reserve-independent.asp",
           "author": "Dan Blystone",
@@ -33853,21 +33873,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/PrtOzfJkGhbQwj49oLn19qBw2OE=/2121x1414/skyscrapers-at-new-york-stock-exchange--view-from-below-944864660-30759ac5b1ec48709797ee6152d096d5.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/financial-edge/0411/5-groups-that-dont-pay-taxes.aspx",
-          "author": "Mark P. Cussen",
-          "description": "Five main categories of taxpayers are exempt from payment under our tax code.",
-          "link": "https://www.investopedia.com/financial-edge/0411/5-groups-that-dont-pay-taxes.aspx?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-11-28T13:29:47.000Z",
-          "wordCount": 7072,
-          "title": "5 Groups Exempt From Taxes",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/pELut5hINlLrOVgEtmT4Z-beQaE=/2121x1414/GettyImages-1163989938-32a46d2f678f4019995e45b5f07e650e.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/pELut5hINlLrOVgEtmT4Z-beQaE=/2121x1414/GettyImages-1163989938-32a46d2f678f4019995e45b5f07e650e.jpg"
         }
       ]
     },
@@ -33915,6 +33920,16 @@
           "wordCount": 10350,
           "title": "Best Artificial Intelligence (AI) Stock 2024: Palantir Stock vs. C3.ai Stock",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/UNNny9jGgo3t6Cxt5XiLgg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/2fe88ef28fd78419fdcbe38ea2bfac5e"
+        },
+        {
+          "id": "social-security-beneficiaries-could-see-205851938.html",
+          "author": null,
+          "description": "Some big changes are in store for Social Security in 2024, including a top benefit approaching $5,000 a month, and higher taxes for some.",
+          "link": "https://finance.yahoo.com/news/social-security-beneficiaries-could-see-205851938.html",
+          "publishedOn": "2023-12-27T20:58:51.000Z",
+          "wordCount": 10617,
+          "title": "Social Security beneficiaries could see these big changes in 2024",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/MiLTc_MuXUy1WL87AnBKuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/cbsmoneywatch.com/770d302d0d4565d0b8e5bd5001827663"
         },
         {
           "id": "wizard-wharton-says-stocks-jump-205809084.html",
@@ -56875,46 +56890,6 @@
           "wordCount": 7941,
           "title": "Hess and 4 Other Oil & Gas Companies on the Brink of Big Earnings Growth",
           "imageUrl": "https://images.barrons.com/im-90906564/social"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-key-housing-data-boeing-jumps-on-upgrade/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-11-28T13:35:56.000Z",
-          "wordCount": null,
-          "title": "Dow Jones Futures Fall Ahead Of Key Housing Data; Boeing Jumps On Upgrade",
-          "imageUrl": null
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/boeing-stock-aces-a-third-november-upgrade-as-analysts-see-a-buying-opportunity/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-11-28T13:25:19.000Z",
-          "wordCount": null,
-          "title": "Boeing Stock Aces A Third November Upgrade As Analysts See A Buying Opportunity",
-          "imageUrl": null
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/tesla-stock-tesla-china-sales-step-up-ev-giant-hikes-prices-offers-discounts/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-11-28T13:23:03.000Z",
-          "wordCount": null,
-          "title": "Tesla China Sales Step Up As EV Giant Hikes Prices, Offers Discounts",
-          "imageUrl": null
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-companies-already-aim-to-propel-profit-at-least-100-percent-next-year/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-11-28T13:00:35.000Z",
-          "wordCount": null,
-          "title": "7 Companies Will Propel Profit More Than 100% Next Year: Analysts",
-          "imageUrl": null
         }
       ]
     }
