@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-28T01:51:32.310Z</updated>
+    <updated>2023-12-28T02:21:58.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linearly Weighted Moving Average (LWMA): What it is, How it Works]]></title>
+        <id>https://www.investopedia.com/terms/l/linearlyweightedmovingaverage.asp</id>
+        <link href="https://www.investopedia.com/terms/l/linearlyweightedmovingaverage.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
+        <updated>2023-12-28T02:10:32.000Z</updated>
+        <summary type="html"><![CDATA[A linearly weighted moving average is a type of moving average where more recent prices are given greater weight in the calculation, and prior prices are given less weight.]]></summary>
+        <author>
+            <name>Cory Mitchell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Firm Order: What it Means, How it Works, Example]]></title>
         <id>https://www.investopedia.com/terms/f/firm-order.asp</id>
@@ -382,6 +392,16 @@
         <summary type="html"><![CDATA[If you're trying to decide between a a career as an investment banker or a trader, you'll want to learn about the key differences between the two career paths.]]></summary>
         <author>
             <name>Laura Green</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Treasuries Jump as Another Smooth Auction Boosts Confidence]]></title>
+        <id>us-treasuries-jump-another-smooth-182908459.html</id>
+        <link href="https://finance.yahoo.com/news/us-treasuries-jump-another-smooth-182908459.html"/>
+        <updated>2023-12-27T19:48:01.000Z</updated>
+        <summary type="html"><![CDATA[(Bloomberg) -- US bonds rallied, with yields on benchmark debt falling more than 10 basis points on the day, after strong demand for a sale of five-year securities boosted investor confidence.Most Read from BloombergThe Late-Night Email to Tim Cook That Set the Apple Watch Saga in MotionChinese Carmaker Overtakes Tesla as World’s Most Popular EV MakerTesla Plans Revamp of Smash Hit Model Y From China PlantApple’s iPhone Design Chief Enlisted by Jony Ive, Sam Altman to Work on AI DevicesGhost Shi]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
         </author>
     </entry>
     <entry>
@@ -45910,46 +45930,6 @@ PDD Holdings, the parent company of hugely popular online retailer Temu, is now 
         <link href="https://www.barrons.com/articles/pdd-temu-pinduoduo-stock-price-earnings-1bcb40a1?siteid=yhoof2&amp;yptr=yahoo"/>
         <updated>2023-11-28T14:23:00.000Z</updated>
         <summary type="html"><![CDATA[Discount-focused online retailer PDD may be a beneficiary of China's economic slowdown.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Influential Bankers in History]]></title>
-        <id>https://www.investopedia.com/articles/financialcareers/09/most-influential-bankers.asp</id>
-        <link href="https://www.investopedia.com/articles/financialcareers/09/most-influential-bankers.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2023-11-28T14:21:06.000Z</updated>
-        <summary type="html"><![CDATA[These bankers shaped the current financial system; though some didn't live to see the fruits of their labor.]]></summary>
-        <author>
-            <name>Andrew Beattie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dow Jones Today: Stock Futures Fall Ahead of Fed Speakers]]></title>
-        <id>98225bb5aaf6ff4a82307efeccc6c700</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c2150e9168d768e3c10f73108b3cc76481"/>
-        <updated>2023-11-28T14:11:57.471Z</updated>
-        <summary type="html"><![CDATA[Stock futures retreated in premarket trading Tuesday as markets hit pause on the rally that's made November the best month for stocks all year.]]></summary>
-        <author>
-            <name>Investopedia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple and 6 More Powerhouse Stocks Investors Keep Buying on Dips]]></title>
-        <id>apple-monster-darden-stocks-buying-dip-gains-winners-e4855777?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/articles/apple-monster-darden-stocks-buying-dip-gains-winners-e4855777?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2023-11-28T14:04:00.000Z</updated>
-        <summary type="html"><![CDATA[While many stocks have struggled in the past couple of years, shares of some of the U.S.’s best businesses have kept chugging higher.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hess and 4 Other Oil & Gas Companies on the Brink of Big Earnings Growth]]></title>
-        <id>hess-oil-gas-energy-stocks-to-buy-053730e5?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/articles/hess-oil-gas-energy-stocks-to-buy-053730e5?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2023-11-28T14:01:00.000Z</updated>
-        <summary type="html"><![CDATA[A few energy names could see stellar growth next year, assuming commodity prices stay strong.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
