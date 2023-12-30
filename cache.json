@@ -2368,6 +2368,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6296167/",
+          "author": "onze nieuwsredactie",
+          "description": "Nederlanders hebben dit jaar voor zo'n 105 miljoen euro aan vuurwerk gekocht, schat de Belangenvereniging Pyrotechniek Nederland (BPN). Dat is 5 miljoen minder dan vorig jaar, toen voor een recordbedrag van 110 miljoen euro aan vuurwerk werd verkocht.",
+          "link": "https://www.nu.nl/economie/6296167/dit-jaar-geen-record-voor-105-miljoen-euro-aan-vuurwerk-verkocht.html",
+          "publishedOn": "2023-12-30T19:03:33.000Z",
+          "wordCount": 2605,
+          "title": "Dit jaar geen record: voor 105 miljoen euro aan vuurwerk verkocht",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/g1cxnkwaiq9o_sqr256.jpg/dit-jaar-geen-record-voor-105-miljoen-euro-aan-vuurwerk-verkocht.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/g1cxnkwaiq9o_sqr256.jpg/dit-jaar-geen-record-voor-105-miljoen-euro-aan-vuurwerk-verkocht.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6296143/",
           "author": "onze nieuwsredactie",
           "description": "Eurostar annuleert zaterdag alle hogesnelheidstreinen vanuit Londen naar Parijs, Amsterdam en Brussel en omgekeerd vanwege een overstroming. In totaal gaat het om 41 treinen. Daardoor zijn duizenden reizigers gestrand.",
@@ -8951,36 +8966,6 @@
             "url": "https://media.nu.nl/m/rq9xz7oamz7b_sqr256.jpg/pensioenfonds-pmt-stopt-met-beleggen-in-veertig-fossiele-bedrijven.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/rq9xz7oamz7b_sqr256.jpg/pensioenfonds-pmt-stopt-met-beleggen-in-veertig-fossiele-bedrijven.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6292116/",
-          "author": "Tom van Gurp",
-          "description": "Veertig olie- en gasbedrijven zijn niet duurzaam genoeg en daarom niet meer geschikt om in te beleggen, vindt Pensioenfonds Metaal en Techniek (PMT). Het gaat wel door met investeren in negen andere fossiele bedrijven, waaronder Shell en BP.",
-          "link": "https://www.nu.nl/economie/6292116/pensioenfonds-pmt-stopt-met-beleggen-in-40-fossiele-bedrijven.html",
-          "publishedOn": "2023-12-01T07:01:10.000Z",
-          "wordCount": 2872,
-          "title": "Pensioenfonds PMT stopt met beleggen in 40 fossiele bedrijven",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/rq9xz7oamz7b_sqr256.jpg/pensioenfonds-pmt-stopt-met-beleggen-in-40-fossiele-bedrijven.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/rq9xz7oamz7b_sqr256.jpg/pensioenfonds-pmt-stopt-met-beleggen-in-40-fossiele-bedrijven.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6292033/",
-          "author": "Ertan Basekin",
-          "description": "De lonen in nieuwe cao's zijn in november met 6,9 procent gestegen. Dat is historisch gezien nog steeds erg hoog, maar bedrijven zijn wel iets voorzichtiger vanwege de economische onzekerheid in ons land.",
-          "link": "https://www.nu.nl/economie/6292033/bedrijven-voorzichtiger-met-hogere-lonen-koopkracht-nog-steeds-onder-druk.html",
-          "publishedOn": "2023-12-01T06:57:26.000Z",
-          "wordCount": 2956,
-          "title": "Bedrijven voorzichtiger met hogere lonen, koopkracht nog steeds onder druk",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/ov1xkrma7qmp_sqr256.jpg/bedrijven-voorzichtiger-met-hogere-lonen-koopkracht-nog-steeds-onder-druk.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/ov1xkrma7qmp_sqr256.jpg/bedrijven-voorzichtiger-met-hogere-lonen-koopkracht-nog-steeds-onder-druk.jpg"
         }
       ]
     },
@@ -8989,6 +8974,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/stocks/07/green-industries.asp",
+          "author": "James McWhinney",
+          "description": "Many people are trying to create a smaller carbon footprint and these green investment ideas may help. Put a little green in your wallet by investing in these areas.",
+          "link": "https://www.investopedia.com/articles/stocks/07/green-industries.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-30T18:48:15.000Z",
+          "wordCount": 8577,
+          "title": "Top Green Investing Opportunities",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/SjYlH01vaQjpqUtEu-e0-C4HVjs=/3200x2500/119478243-5c2cdbbd46e0fb0001843ea9.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/SjYlH01vaQjpqUtEu-e0-C4HVjs=/3200x2500/119478243-5c2cdbbd46e0fb0001843ea9.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/basics/07/trading_investing.asp",
           "author": "Justin Kuepper",
@@ -32832,6 +32832,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "2-unstoppable-artificial-intelligence-ai-181500685.html",
+          "author": null,
+          "description": "Giants like Microsoft and Amazon aren't the only AI stocks that logged big gains in 2023.",
+          "link": "https://finance.yahoo.com/news/2-unstoppable-artificial-intelligence-ai-181500685.html",
+          "publishedOn": "2023-12-30T18:15:00.000Z",
+          "wordCount": 11170,
+          "title": "2 Unstoppable Artificial Intelligence (AI) Stocks Up 159% and 217% in 2023 to Buy in 2024",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/6splEn11zmCZu9BcS5OwEQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/motleyfool.com/0066a5d11b96be30ea4ccd6991db6288"
+        },
+        {
           "id": "fidelitys-45-rule-really-guide-130031874.html",
           "author": null,
           "description": "",
@@ -32880,6 +32890,16 @@
           "wordCount": 10764,
           "title": "Ignore Shopify: Here Are 2 Growth Stocks to Buy for 2024",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/cYIw4763MWghAgwGakRQUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/b6625c47fb46c1dc335768f69792fc04"
+        },
+        {
+          "id": "t-mobile-just-eliminated-biggest-143000407.html",
+          "author": null,
+          "description": "Now that the cap on its stock price is lifted, it can move higher from here.",
+          "link": "https://finance.yahoo.com/news/t-mobile-just-eliminated-biggest-143000407.html",
+          "publishedOn": "2023-12-30T14:30:00.000Z",
+          "wordCount": 11005,
+          "title": "T-Mobile Just Eliminated the Biggest Factor Holding Its Stock Price Down. It Could Skyrocket in 2024.",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/qHR2FXqHyvIIoX6XvkzVoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/bdf204e265ca952aa746afe30879e4cb"
         },
         {
           "id": "where-nio-stock-1-142900071.html",
