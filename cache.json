@@ -1061,6 +1061,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "3a2d46f3d0eb6c0b1bc931bffae269de",
+          "author": "Investopedia",
+          "description": "Coming up this week: Latest jobs data and unemployment rate, minutes from the most recent Fed meeting, updated U.S. GDP estimates, and earnings from Walgreens.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca916fc6f652b153748d9628a6f12e60864a12d7388075bc93502041cf78d827d99b0921d4e330b9b8bb74b0b8d978f0",
+          "publishedOn": "2023-12-31T17:10:07.182Z",
+          "wordCount": 409,
+          "title": "What To Expect in the Markets This Week",
+          "imageUrl": null
+        },
+        {
           "id": "9805f42b7a76f5cb4d15340b47b08212",
           "author": "Investopedia",
           "description": "Many investors say they worry about the 2024 presidential election in the U.S. affecting their portfolios, but experts suggest those fears could be overblown.",
@@ -8716,21 +8726,6 @@
             "url": "https://media.nu.nl/m/mroxif9a4bbq_sqr256.jpg/verenigd-koninkrijk-mogelijk-op-aardappelrantsoen-na-extreem-natte-herfst.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/mroxif9a4bbq_sqr256.jpg/verenigd-koninkrijk-mogelijk-op-aardappelrantsoen-na-extreem-natte-herfst.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6291857/",
-          "author": "Thijs Rösken en José Boon",
-          "description": "Uurtarieven voor de kinderopvang stijgen vanaf volgend jaar gemiddeld met zo'n 9,5 procent. Dat komt vooral door hogere salarissen voor personeel. De meeste ouders hoeven er niet van wakker te liggen, aangezien de kinderopvangtoeslag ook stijgt.",
-          "link": "https://www.nu.nl/economie/6291857/kinderopvang-wordt-duurder-maar-overheid-komt-ouders-tegemoet.html",
-          "publishedOn": "2023-12-02T04:24:03.000Z",
-          "wordCount": 3110,
-          "title": "Kinderopvang wordt duurder maar overheid komt ouders tegemoet",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/e8mxhwjafj9m_sqr256.jpg/kinderopvang-wordt-duurder-maar-overheid-komt-ouders-tegemoet.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/e8mxhwjafj9m_sqr256.jpg/kinderopvang-wordt-duurder-maar-overheid-komt-ouders-tegemoet.jpg"
         }
       ]
     },
@@ -8739,6 +8734,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/o/onchain-governance.asp",
+          "author": "Jake Frankenfield",
+          "description": "On-chain governance is a blockchain management system where decentralized stakeholders decide on proposed changes instead of a centralized group of developers.",
+          "link": "https://www.investopedia.com/terms/o/onchain-governance.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-31T16:56:40.000Z",
+          "wordCount": 6987,
+          "title": "On-Chain Governance: Definition, Types, vs. Off-Chain",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/PthNK8m261_mYoYy1jO1jmaCVtI=/680x440/bitcoins__crypto_currency_shutterstock_461381278-5bfc315a46e0fb00517cfd28.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/PthNK8m261_mYoYy1jO1jmaCVtI=/680x440/bitcoins__crypto_currency_shutterstock_461381278-5bfc315a46e0fb00517cfd28.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/071816/how-are-etf-fees-deducted.asp",
+          "author": "Craig Anthony",
+          "description": "Learn about exchange traded funds and how their annual investment-management fees are deducted from the securities you own.",
+          "link": "https://www.investopedia.com/ask/answers/071816/how-are-etf-fees-deducted.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-31T16:28:48.000Z",
+          "wordCount": 6936,
+          "title": "How Are ETF Fees Deducted?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/S-6dkUNSFsl8v7Gd4vUz9FgJvoM=/2121x1414/Fees-d61b8b3c9cf24f2a9687a05865efd607.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/S-6dkUNSFsl8v7Gd4vUz9FgJvoM=/2121x1414/Fees-d61b8b3c9cf24f2a9687a05865efd607.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/what-to-expect-in-the-markets-this-week-8420755",
+          "author": "Terry Lane",
+          "description": "Coming up this week: Latest jobs data and unemployment rate, minutes from the most recent Fed meeting, updated U.S. GDP estimates, and earnings from Walgreens.",
+          "link": "https://www.investopedia.com/what-to-expect-in-the-markets-this-week-8420755?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2023-12-31T16:14:40.000Z",
+          "wordCount": 5788,
+          "title": "What To Expect in the Markets This Week",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/gkAVowT79HYwWoMzUIXdD5w-zLs=/4500x3001/INV_Powell_Fed_1223_GettyImages-1845879549-008a21f6f0714d7bafa4319cdcd182f7.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/gkAVowT79HYwWoMzUIXdD5w-zLs=/4500x3001/INV_Powell_Fed_1223_GettyImages-1845879549-008a21f6f0714d7bafa4319cdcd182f7.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/pf/09/financial-responsibility.asp",
           "author": "Lisa Smith",
@@ -31913,21 +31953,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/PJVmnpQlkLVZ3-pSPp1tLQQfBFg=/2125x1414/GettyImages-565974871-56bff44a3df78c0b138e79a5.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/what-happens-to-your-debt-when-you-die-5113710",
-          "author": "Kat Tretina",
-          "description": "Depending on the type of debts you have, your loved ones may have to repay money you owe after you die. Here’s how to protect them financially.",
-          "link": "https://www.investopedia.com/what-happens-to-your-debt-when-you-die-5113710?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-02T04:35:11.000Z",
-          "wordCount": 7623,
-          "title": "What Happens to Your Debt When You Die?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/dTkGBnp_NaEsG4pHRMia2q9zqMM=/6966x4649/olderpersondocuments-f11f2f5bea604a3c99215558c57db4f9.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/dTkGBnp_NaEsG4pHRMia2q9zqMM=/6966x4649/olderpersondocuments-f11f2f5bea604a3c99215558c57db4f9.jpg"
         }
       ]
     },
@@ -31936,6 +31961,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "the-year-americas-ev-dreams-met-reality-160059248.html",
+          "author": null,
+          "description": "2023 was supposed to be a big year for EV transformation in the US, but the process of converting the nation’s vehicles to electric power proved to be a much longer one.",
+          "link": "https://finance.yahoo.com/news/the-year-americas-ev-dreams-met-reality-160059248.html",
+          "publishedOn": "2023-12-31T16:00:59.000Z",
+          "wordCount": 11631,
+          "title": "The year America's EV dreams met reality",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/KRVJ82eEV5KVRsx1Onkp.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/baa13370-a682-11ee-b457-6a28fd10a348"
+        },
+        {
+          "id": "1-cathie-wood-stock-worth-153000614.html",
+          "author": null,
+          "description": "Ark Invest holds a hefty position in this gene-editing stock. Risk-tolerant investors may want to take a page from the fund's playbook on this name.",
+          "link": "https://finance.yahoo.com/news/1-cathie-wood-stock-worth-153000614.html",
+          "publishedOn": "2023-12-31T15:30:00.000Z",
+          "wordCount": 10758,
+          "title": "1 Cathie Wood Stock Worth Buying Hand Over Fist in 2024",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/mzN7uZwjy8LrE_ztMqSANw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/5883a7e19d0c6c880830b7f7ac5ac195"
+        },
         {
           "id": "2-stocks-buy-hand-over-151500568.html",
           "author": null,
@@ -31955,6 +32000,16 @@
           "wordCount": 11277,
           "title": "3 Warren Buffett Dividend Growth Stocks to Buy Now and Hold Forever",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ERw8q8E2_gdeYSN_6K1VQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/5a157d69eda401241983f66c00672d43"
+        },
+        {
+          "id": "many-ultra-high-net-worth-145739642.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/many-ultra-high-net-worth-145739642.html",
+          "publishedOn": "2023-12-31T14:57:39.000Z",
+          "wordCount": null,
+          "title": "How Many Ultra High Net Worth Individuals Are There in the World?",
+          "imageUrl": null
         },
         {
           "id": "3-dividend-stocks-could-raise-144500048.html",
@@ -53565,26 +53620,6 @@
           "wordCount": 8672,
           "title": "A Divorce With Apple, Internal Strife: How Goldman’s Main Street Bet Failed",
           "imageUrl": "https://images.wsj.net/im-894129/social"
-        },
-        {
-          "id": "no-one-wants-dividend-stocks-050957813.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/no-one-wants-dividend-stocks-050957813.html",
-          "publishedOn": "2023-12-02T05:09:57.000Z",
-          "wordCount": null,
-          "title": "No one wants dividend stocks anymore as investors chase the tech rally",
-          "imageUrl": null
-        },
-        {
-          "id": "toyota-says-halts-tianjin-operations-043752247.html",
-          "author": null,
-          "description": "Toyota Motor has halted production on some ageing lines at joint venture in China while operations continue as normal, the Japanese automaker said on Saturday after a media report that it was partially suspending production due to weak sales.  The production halt at the Tianjin venture with China's FAW was a planned move, and Toyota is adjusting production on a daily basis based on changes in vehicle composition, a spokesperson said by email.  The email did not specifically address the Friday report by Japan's Jiji news service that the world's largest automaker by sales was suspending some production as part of a major production adjustment in response to weak sales of gasoline-engine cars.",
-          "link": "https://finance.yahoo.com/news/toyota-says-halts-tianjin-operations-043752247.html",
-          "publishedOn": "2023-12-02T04:37:52.000Z",
-          "wordCount": 10191,
-          "title": "Toyota says it halts some Tianjin operations after report of weak sales",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/d9ee57b1c756e9ca233055d05941245b"
         }
       ]
     }
