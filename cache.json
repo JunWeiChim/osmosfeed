@@ -2268,6 +2268,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6296255/",
+          "author": "onze nieuwsredactie",
+          "description": "De hoofdprijs van de Oudejaarstrekking van de Staatsloterij is gevallen op een heel lot in Woensdrecht. De winnaar krijgt 30 miljoen euro belastingvrij.",
+          "link": "https://www.nu.nl/jaarwisseling/6296255/staatsloterij-hoofdprijs-van-30-miljoen-euro-valt-in-woensdrecht.html",
+          "publishedOn": "2024-01-01T08:02:25.000Z",
+          "wordCount": 764,
+          "title": "Staatsloterij-hoofdprijs van 30 miljoen euro valt in Woensdrecht",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/66ix6vxau1iy_sqr256.jpg/staatsloterij-hoofdprijs-van-30-miljoen-euro-valt-in-woensdrecht.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/66ix6vxau1iy_sqr256.jpg/staatsloterij-hoofdprijs-van-30-miljoen-euro-valt-in-woensdrecht.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6295239/",
           "author": "Thijs Rösken",
           "description": "In anderhalf jaar tijd steeg de rente ECB-rente van het laagste naar het hoogste niveau ooit. Nu de inflatie snel terugzakt en de hoge rente economisch pijn doet, is het wachten op renteverlagingen in 2024. Of hypotheek- en spaarrentes meedalen, valt te bezien.",
@@ -32083,36 +32098,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/YfRKvfuuQO_56YEttJeFrNFzACg=/680x440/bank-5bfc2b5846e0fb00517bd683.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/f/fungibility.asp",
-          "author": "Jake Frankenfield",
-          "description": "Fungibility is the interchangeability of a good or asset with other specific goods/assets of the same type. It simplifies trade and exchange processes.",
-          "link": "https://www.investopedia.com/terms/f/fungibility.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-02T20:12:35.000Z",
-          "wordCount": 7042,
-          "title": "All About Fungibility: What It Means, Why It Matters",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/9Wkkqz8OHTkFat6PM63lXhrOUWo=/3600x1800/Shipping_routes_red_black1-556f8fa6e5d54608a6b7a9a4386396d4.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/9Wkkqz8OHTkFat6PM63lXhrOUWo=/3600x1800/Shipping_routes_red_black1-556f8fa6e5d54608a6b7a9a4386396d4.png"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/investing/111413/commonsize-analysis-financial-statements.asp",
-          "author": "Ryan Furhmann",
-          "description": "Using common size financial statements can help you spot trends that a raw financial statement may not uncover. They compare the percentages between two or more years.",
-          "link": "https://www.investopedia.com/articles/investing/111413/commonsize-analysis-financial-statements.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-02T19:40:44.000Z",
-          "wordCount": 7308,
-          "title": "The Common Size Analysis of Financial Statements",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/hTz5AaoAb7I8G5WHc04gRF0jNnI=/2023x1482/GettyImages-958271424-f3ba20e3eed44d3789d442353cf9b5c9.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/hTz5AaoAb7I8G5WHc04gRF0jNnI=/2023x1482/GettyImages-958271424-f3ba20e3eed44d3789d442353cf9b5c9.jpg"
         }
       ]
     },
@@ -32121,6 +32106,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "bank-koreas-rhee-eyes-warning-062754717.html",
+          "author": null,
+          "description": "Bank of Korea Governor Rhee Chang-yong said on Monday recent market concerns over a financially troubled builder are a \"warning sign\" over the financial risks of prolonged monetary tightening.  While managing inflation remains the top priority, it is important to find the right policy mix as South Korea approaches the end of its long fight to bring consumer prices under control, Rhee said in a New Year message.  He cited doubts about the integrity of commercial real estate loans in major countries and a mid-sized local developer that was forced to restructure its heavy debt load as some of the warning signs for the economy.",
+          "link": "https://finance.yahoo.com/news/bank-koreas-rhee-eyes-warning-062754717.html",
+          "publishedOn": "2024-01-01T06:27:54.000Z",
+          "wordCount": 10136,
+          "title": "Bank of Korea's Rhee eyes warning signs of prolonged monetary tightening",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/ae015065a0ec8c77064c84d31d46714d"
+        },
         {
           "id": "2-faang-stocks-buy-2024-062100119.html",
           "author": null,
@@ -32140,6 +32135,16 @@
           "wordCount": 8826,
           "title": "Shale Is Keeping the World Awash With Oil as Conflicts Abound",
           "imageUrl": "https://images.wsj.net/im-906533/social"
+        },
+        {
+          "id": "saudi-sovereign-wealth-fund-splashes-050428564.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/saudi-sovereign-wealth-fund-splashes-050428564.html",
+          "publishedOn": "2024-01-01T05:04:28.000Z",
+          "wordCount": null,
+          "title": "Saudi sovereign wealth fund splashes cash in 2023 - report shows",
+          "imageUrl": null
         },
         {
           "id": "stock-market-open-closed-today-new-years-day-hours-post-office-banks-a186c790?siteid=yhoof2&yptr=yahoo",
@@ -53749,16 +53754,6 @@
           "publishedOn": "2023-12-02T21:15:01.000Z",
           "wordCount": null,
           "title": "Housing market outlook for 2024: Here's the good news — and the bad news",
-          "imageUrl": null
-        },
-        {
-          "id": "charlie-munger-warned-mega-mansion-193123266.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/charlie-munger-warned-mega-mansion-193123266.html",
-          "publishedOn": "2023-12-02T19:31:23.000Z",
-          "wordCount": null,
-          "title": "Charlie Munger warned that a mega-mansion can make you ‘less happy.’ He lived in the same modest house for seven decades",
           "imageUrl": null
         }
       ]
