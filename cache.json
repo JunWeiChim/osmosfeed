@@ -1101,6 +1101,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "44d2bac1c6ed7272a6112db85034d639",
+          "author": "Investopedia",
+          "description": "The S&P 500 fell 0.3% on Thursday, Jan. 4, 2024, marking its third straight day of declines as U.S. equities struggle to find their footing to start the year.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca952ac6ec1be84c74ddde68eef53b24815712c23e8175bd9d513841c826813cd5930321d7f434a4f0ef6df1fc812eae3fa42d0e8b3a02094041f2faa494674bc0d1b3b197de9c84104a8b539fc73837db307c",
+          "publishedOn": "2024-01-04T23:13:07.279Z",
+          "wordCount": 409,
+          "title": "S&P 500 Gains and Losses Today: Travel Stocks Gain as Oil Prices Recede",
+          "imageUrl": null
+        },
+        {
           "id": "b3c6200cef249e833aef27b32e7a4204",
           "author": "Investopedia",
           "description": "U.S. equities were up at midday on Thursday, Jan. 4, 2024 following reports of record online spending during the holidays and a rise in private sector job creation.",
@@ -8704,6 +8714,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/ask/answers/112315/does-flexible-spending-account-fsa-cover-lasik.asp",
+          "author": "Nathan Buehler",
+          "description": "Discover how LASIK can be covered under your flexible spending account as a qualifying medical procedure if it is deemed necessary by an ophthalmologist.",
+          "link": "https://www.investopedia.com/ask/answers/112315/does-flexible-spending-account-fsa-cover-lasik.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-04T22:39:37.000Z",
+          "wordCount": 6667,
+          "title": "Does a Flexible Spending Account (FSA) Cover Lasik?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/R-dpGLjebril84GVd4F0t8V7X4w=/680x440/thinkstockphotos_80410231-5bfc2b97c9e77c0026b4fb20.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/R-dpGLjebril84GVd4F0t8V7X4w=/680x440/thinkstockphotos_80410231-5bfc2b97c9e77c0026b4fb20.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/fundamental-analysis/09/net-present-value.asp",
+          "author": "Daniel Myers",
+          "description": "Determining monthly contributions to college funds, retirement plans, or savings is easy with this calculation.",
+          "link": "https://www.investopedia.com/articles/fundamental-analysis/09/net-present-value.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-04T22:31:51.000Z",
+          "wordCount": 6971,
+          "title": "Time Value Of Money: Determining Your Future Worth",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/0at_tpvrdVPn_GfnkU3rGfftNPc=/285x260/fundamental-analysis-lrg-5bfc2b21c9e77c005876f32c.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/0at_tpvrdVPn_GfnkU3rGfftNPc=/285x260/fundamental-analysis-lrg-5bfc2b21c9e77c005876f32c.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/r/restrictedstock.asp",
+          "author": "James Chen",
+          "description": "Restricted stocks are insider holdings that are under some kind of sales restriction and must be traded according to specific rules.",
+          "link": "https://www.investopedia.com/terms/r/restrictedstock.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-04T22:06:51.000Z",
+          "wordCount": 8516,
+          "title": "Restricted Stock: What It Is, How It Works, Selling & Taxation",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/HSIPH71tLj4eMkX9NJ9oZf3r1L0=/6950x4186/GettyImages-1477063453-d6a87d372ea9490b9ebc683abd2446bf.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/HSIPH71tLj4eMkX9NJ9oZf3r1L0=/6950x4186/GettyImages-1477063453-d6a87d372ea9490b9ebc683abd2446bf.jpg"
+        },
         {
           "id": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-travel-stocks-gain-as-oil-prices-recede-8422362",
           "author": "Staff Author",
@@ -32598,21 +32653,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/sVFdbCSm7ucCmH694qKrZqAUZV0=/1500x1002/GettyImages-950722746-f34efb48665948babecdd411dc991e43.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/personal-finance/081715/yes-you-can-manage-your-own-retirement.asp",
-          "author": "Sean Ross",
-          "description": "If you don't want to pay a financial pro to help you plan for retirement, consider mapping out a plan with these simple, do-it-yourself strategies.",
-          "link": "https://www.investopedia.com/articles/personal-finance/081715/yes-you-can-manage-your-own-retirement.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-06T11:09:26.000Z",
-          "wordCount": 8617,
-          "title": "Yes, You Can Manage Your Own Retirement!",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ijgTqlc1NSZ7sWkEMjqSGFJa3bk=/2121x1414/GettyImages-529341269-6231468bb7ce4793a38e016d18e932d1.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ijgTqlc1NSZ7sWkEMjqSGFJa3bk=/2121x1414/GettyImages-529341269-6231468bb7ce4793a38e016d18e932d1.jpg"
         }
       ]
     },
@@ -32621,6 +32661,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "great-news-quantumscape-stock-investors-214843513.html",
+          "author": null,
+          "description": "QuantumScape achieved a significant milestone that sent the stock price soaring.",
+          "link": "https://finance.yahoo.com/news/great-news-quantumscape-stock-investors-214843513.html",
+          "publishedOn": "2024-01-04T21:48:43.000Z",
+          "wordCount": 10299,
+          "title": "Great News for QuantumScape Stock Investors!",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/VBzkI0e9Pj3DXRy1D7h1EQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/98ffa5f60edd32de0e5c74772d7e22ae"
+        },
         {
           "id": "vw-just-confirmed-1-huge-205159993.html",
           "author": null,
@@ -54720,36 +54770,6 @@
           "wordCount": null,
           "title": "Daily – Vickers Top Buyers & Sellers for 12/06/2023",
           "imageUrl": null
-        },
-        {
-          "id": "ARGUS_38457_MarketSummary_1701861184000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_38457_MarketSummary_1701861184000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2023-12-06T11:13:04.000Z",
-          "wordCount": null,
-          "title": "Market Digest: NEM, ULTA, NOW, ALC",
-          "imageUrl": null
-        },
-        {
-          "id": "bitcoin-is-up--and-the-zealots-are-back-110015156.html",
-          "author": null,
-          "description": "Bitcoin's reemergence from its \"winter\" has brought all of the familiar voices out of the woodwork. A big factor? A real ETF possibility.",
-          "link": "https://finance.yahoo.com/news/bitcoin-is-up--and-the-zealots-are-back-110015156.html",
-          "publishedOn": "2023-12-06T11:00:15.000Z",
-          "wordCount": 10727,
-          "title": "Bitcoin is up — and the zealots are back",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/suAqG0LNDWbVHHSLBLdc2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/92c9aa60-93ce-11ee-92f1-c94b6af9e212"
-        },
-        {
-          "id": "3-favorite-stock-ideas-deutsche-102351724.html",
-          "author": null,
-          "description": "Heading into the New Year, the markets are facing a confusing mix of currents. The pace of inflation is dropping, but prices remain high. Interest rates remain high, but there’s hope that the Fed will start cutting back sooner rather than later. Unemployment is low and corporate profits are up, but sales numbers show that the profits are coming from higher prices rather than higher demand. Which way things will go is still up in the air. There is still a chance of recession – or of a strong rebo",
-          "link": "https://finance.yahoo.com/news/3-favorite-stock-ideas-deutsche-102351724.html",
-          "publishedOn": "2023-12-06T10:23:51.000Z",
-          "wordCount": 11703,
-          "title": "Here Are 3 Favorite Stock Ideas From Deutsche Bank — Including One With 60% Upside Potential",
-          "imageUrl": "https://media.zenfs.com/en/tipranks_452/1f2307fca401035541cd9abbe344628c"
         }
       ]
     }
