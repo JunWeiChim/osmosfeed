@@ -1051,6 +1051,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "78d59374b25871bf8603a21d741a45f0",
+          "author": "Investopedia",
+          "description": "Stock futures were up in premarket trading Thursday, putting stocks on track to extend yesterday's rally ahead of the release of December inflation data.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c2140e9261d768e3c60f7310893ec56581",
+          "publishedOn": "2024-01-11T14:11:59.846Z",
+          "wordCount": 409,
+          "title": "Dow Jones Today: Stock Futures Rise Ahead of December CPI; Crypto Surges as ETFs Prepare to Launch",
+          "imageUrl": null
+        },
+        {
           "id": "a828319e4eca1a015b762b1b725bd271",
           "author": "Investopedia",
           "description": "The Labor Department's latest inflation reading is expected to show prices moved slightly higher in December, while cryptocurrency stocks jumped after the SEC approved several spot Bitcoin ETFs. Here’s what investors need to know today.",
@@ -2187,6 +2197,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6297470/",
+          "author": "onze economieredactie",
+          "description": "Bijna 200.000 werknemers in de winkelstraat en distributiecentra krijgen een loonsverhoging van minimaal 3,75 procent. Daar komt bij dat de lonen in juli opnieuw omhooggaan als het minimumloon wordt aangepast. Ook in 2025 gebeurt dat nog twee keer.",
+          "link": "https://www.nu.nl/economie/6297470/werknemers-in-winkelstraat-krijgen-minimaal-375-procent-meer-loon.html",
+          "publishedOn": "2024-01-11T13:17:24.000Z",
+          "wordCount": 2572,
+          "title": "Werknemers in winkelstraat krijgen minimaal 3,75 procent meer loon",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/a5fxg03a5yjo_sqr256.jpg/werknemers-in-winkelstraat-krijgen-minimaal-375-procent-meer-loon.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/a5fxg03a5yjo_sqr256.jpg/werknemers-in-winkelstraat-krijgen-minimaal-375-procent-meer-loon.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6297466/",
           "author": "Tim Wijkman-van Aalst",
@@ -8659,6 +8684,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/inflation-accelerated-in-december-dimming-hopes-for-imminent-fed-rate-cut-8425061",
+          "author": "Staff Author",
+          "description": "The battle against inflation took a wrong turn in December, when consumer price increases accelerated for the first time in three months.",
+          "link": "https://www.investopedia.com/inflation-accelerated-in-december-dimming-hopes-for-imminent-fed-rate-cut-8425061?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-11T13:54:53.000Z",
+          "wordCount": 5377,
+          "title": "Inflation Accelerated in December, Dimming Hopes For Imminent Fed Rate Cut",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/9T4HSBjVEHKZX_9Wc4t8BUpVwPQ=/8256x5504/GettyImages-1922784155-6adce955f3964636bcfef54cab62588d.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/9T4HSBjVEHKZX_9Wc4t8BUpVwPQ=/8256x5504/GettyImages-1922784155-6adce955f3964636bcfef54cab62588d.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/b/brokersopenhouse.asp",
+          "author": "James Chen",
+          "description": "A broker’s open house is a showing of a property for sale targeted to other real estate agents and not",
+          "link": "https://www.investopedia.com/terms/b/brokersopenhouse.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-11T13:17:45.000Z",
+          "wordCount": 5991,
+          "title": "Broker's Open House: Meaning, Overview, Benefits",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/n0qfScaEs1g6yycarnpU9Q9LSaE=/680x440/investing6-5bfc2b8ec9e77c005143f13b.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/n0qfScaEs1g6yycarnpU9Q9LSaE=/680x440/investing6-5bfc2b8ec9e77c005143f13b.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/f/federal-unemployment-tax-act-futa.asp",
+          "author": "Julia Kagan",
+          "description": "The Federal Unemployment Tax Act (FUTA) imposes a payroll tax on businesses with employees, collecting revenue that funds unemployment benefits.",
+          "link": "https://www.investopedia.com/terms/f/federal-unemployment-tax-act-futa.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-11T13:13:27.000Z",
+          "wordCount": 8359,
+          "title": "What Is FUTA? Definition and How to Calculate FUTA Liability",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Rxj1MFoG1y_yHMpMcxMLAiFuoCQ=/1500x1000/GettyImages-1058294748-e446b1a3425c4300b80b857b6f763b0e.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Rxj1MFoG1y_yHMpMcxMLAiFuoCQ=/1500x1000/GettyImages-1058294748-e446b1a3425c4300b80b857b6f763b0e.jpg"
+        },
         {
           "id": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-january-11-2024-8425054",
           "author": "Terry Lane",
@@ -30822,6 +30892,76 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cpi-inflation-report-nvidia-stock-set-to-hit-record-high/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-01-11T13:59:09.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Fall On Hot Inflation Report; Nvidia Set To Hit Record High",
+          "imageUrl": null
+        },
+        {
+          "id": "stock-market-news-today-us-futures-seesaw-as-inflation-jumps-more-than-expected-134334691.html",
+          "author": null,
+          "description": "The CPI print will be critical for investors weighing whether bets on early interest rate cuts are well-placed.",
+          "link": "https://finance.yahoo.com/news/stock-market-news-today-us-futures-seesaw-as-inflation-jumps-more-than-expected-134334691.html",
+          "publishedOn": "2024-01-11T13:43:34.000Z",
+          "wordCount": 10545,
+          "title": "Stock market news today: US futures seesaw as inflation jumps more than expected",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/0z6v4bx4_TRDwMa7qZuNvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/63f06e80-521b-11ee-9e3f-d70e287d3056"
+        },
+        {
+          "id": "funds-investing-bitcoin-easier-know-133024741.html",
+          "author": null,
+          "description": "The new exchange-traded funds, or ETFs, will give investors an asset that closely tracks the price of bitcoin, providing those hesitant to buy actual bitcoins a lower bar to entry.  The wave of approvals may work in your favor as fund managers seek to attract investors by competing on fees.  The SEC's approval, however, was lukewarm at best.",
+          "link": "https://finance.yahoo.com/news/funds-investing-bitcoin-easier-know-133024741.html",
+          "publishedOn": "2024-01-11T13:30:24.000Z",
+          "wordCount": 10779,
+          "title": "New funds will make investing in bitcoin easier. Here’s what you need to know",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/yLBTuYm5TzD_Ge8VrrSwjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/29a0b1390d48138deb1f8b775e3c9224"
+        },
+        {
+          "id": "bitcoin-etfs-here-are-the-tickers-to-watch-kjlkjI4pKrQfrbOo5co9?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "The first exchange-traded funds in the U.S. holding spot bitcoin are expected to start trading Thursday after getting the greenlight from the Securities and Exchange Commission.\nTen registration stat",
+          "link": "https://www.wsj.com/livecoverage/stock-market-today-cpi-report-inflation-01-11-2024/card/bitcoin-etfs-here-are-the-tickers-to-watch-kjlkjI4pKrQfrbOo5co9?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-01-11T13:11:24.000Z",
+          "wordCount": 6682,
+          "title": "Bitcoin ETFs: Here Are the Tickers to Watch",
+          "imageUrl": "https://images.wsj.net/im-841604/social"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "Palantir stock stumbled to close out 2023 and kick off 2024, but AI and software peer Parsons is taking aim at a fresh breakout.",
+          "link": "https://www.investors.com/research/ibd-stock-analysis/parsons-stock-gets-ready-to-rocket-as-ai-peer-tumbles/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-01-11T13:05:22.000Z",
+          "wordCount": 4308,
+          "title": "Buckle Up! As Palantir Flails, This AI Peer Gets Ready To Rocket",
+          "imageUrl": "https://www.investors.com/wp-content/uploads/2024/01/Stock-cyberattacksoldier-generatedai-adobe.jpg"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/chesapeake-energy-the-energy-industry-consolidation-wave-hits-the-gas-sector/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-01-11T13:00:29.000Z",
+          "wordCount": null,
+          "title": "The Energy Industry Consolidation Wave Hits The Gas Sector With $7 Billion Merger",
+          "imageUrl": null
+        },
+        {
+          "id": "1-hertz-sell-20-000-124046911.html",
+          "author": null,
+          "description": "Hertz Global Holdings said on Thursday it would sell about 20,000 of its electric vehicles (EVs) from its U.S. fleet, or about one-third of the global EV fleet.  Hertz said it expects to reinvest a portion of the proceeds from the sale of the EVs to buy gas-powered vehicles to meet customer demand.",
+          "link": "https://finance.yahoo.com/news/1-hertz-sell-20-000-124046911.html",
+          "publishedOn": "2024-01-11T12:40:46.000Z",
+          "wordCount": 10097,
+          "title": "UPDATE 2-Car rental firm Hertz to sell 20,000 EVs for gas-powered vehicles",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        },
+        {
           "id": "stock-market-news-today-us-futures-edge-higher-as-inflation-day-arrives-121934663.html",
           "author": null,
           "description": "The CPI print will be critical for investors weighing whether bets on early interest rate cuts are well-placed.",
@@ -30830,6 +30970,16 @@
           "wordCount": 10527,
           "title": "Stock market news today: US futures edge higher as inflation day arrives",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/p1cZ5VmoI4Rw.ria23RRwg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/19743a40-aec2-11ee-96fb-34e97fc53fab"
+        },
+        {
+          "id": "oil-price-tanker-seized-middle-east-0cff2e22?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Details are still unclear about who seized the vessel in the Gulf of Oman or why.",
+          "link": "https://www.barrons.com/articles/oil-price-tanker-seized-middle-east-0cff2e22?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-01-11T12:15:00.000Z",
+          "wordCount": 6249,
+          "title": "Oil Tanker Seized by Mystery Militants in Middle East. Crude Prices Are Rising.",
+          "imageUrl": "https://images.barrons.com/im-64182020/social"
         },
         {
           "id": "2-phenomenal-artificial-intelligence-ai-121500784.html",
