@@ -932,26 +932,6 @@
           "wordCount": 409,
           "title": "Vans and North Face Owner VF Corp. Tumbled Over 7%—Here's Why",
           "imageUrl": null
-        },
-        {
-          "id": "6957cb07cfcb70d763cc6d13bb25a747",
-          "author": "Investopedia",
-          "description": "Nio Inc.'s shares rose Monday after the Chinese carmaker said it would receive a $2.2 billion cash infusion from investment firm CYVN, which is majority-owned by the Abu Dhabi government.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca886ec8af0cad5d2b8d9d75b0e7282a8a095ec524802afc87512f169639977ed29309648eef3bb4e0f029ede6c32bb723e4670e8021020c5b0dfffae5d0794fccc1a2afdfc28dca13479c138acb3e34df357b7c",
-          "publishedOn": "2023-12-18T22:11:28.264Z",
-          "wordCount": 409,
-          "title": "Nio Stock Surges After $2.2B Cash Infusion From Abu Dhabi Investment Firm",
-          "imageUrl": null
-        },
-        {
-          "id": "54efb07424766ca94a9873900a33984a",
-          "author": "Investopedia",
-          "description": "SunPower Corp. shares plummeted more than 30% Monday after the solar company warned that it could go out of business if creditors decide to demand immediate payment of its debt.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9572c9f210b2592bc59d30a2e03f3ec25453d63e823dfc9351664dcf268232c39c0921d7ee34a6b8e725e0fcc32eaa39e52e42963c5d0d5218f8fde5db624ac0dcb3b1c981c1d34419d84f96",
-          "publishedOn": "2023-12-18T22:11:28.238Z",
-          "wordCount": 409,
-          "title": "SunPower Stock Plunges as It Warns That Debt Could Threaten Business",
-          "imageUrl": null
         }
       ]
     },
@@ -2039,16 +2019,6 @@
           "wordCount": 409,
           "title": "S&P 500 Gains and Losses Today: Amazon Reportedly Aims To Expand Reach Into Sports",
           "imageUrl": null
-        },
-        {
-          "id": "b1224cc421f9d8bfe9833ac852ff1bbc",
-          "author": "Investopedia",
-          "description": "As the homebuilder sentiment index moved higher for the first time in four months, mortgage lenders forecast improved sales for existing and new homes in 2024.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8e68cae752a74930848a3db1bf37229d5058c2378075b3804d2041c9269a23c59b1765d0eb78bffaf525afe0872aad29fb6757d665185e0054",
-          "publishedOn": "2023-12-18T22:11:28.278Z",
-          "wordCount": 409,
-          "title": "Homebuilder, Mortgage Broker Optimism Points to Improved Market in 2024",
-          "imageUrl": null
         }
       ]
     },
@@ -2057,6 +2027,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6298126/",
+          "author": "onze techredactie",
+          "description": "Google schrapt honderden banen op zijn advertentieverkoopafdeling. De ontslagronde komt boven op de reorganisatie die het bedrijf vorige week aankondigde. Die ontslagen vallen op de afdelingen die zich bezighouden met Google Assistent, smartphones, slimme horloges en thermostaten.",
+          "link": "https://www.nu.nl/tech/6298126/google-stuurt-honderden-advertentieverkopers-de-laan-uit.html",
+          "publishedOn": "2024-01-17T10:11:21.000Z",
+          "wordCount": 2519,
+          "title": "Google stuurt honderden advertentieverkopers de laan uit",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/fx3xwtiajwnw_sqr256.jpg/google-stuurt-honderden-advertentieverkopers-de-laan-uit.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/fx3xwtiajwnw_sqr256.jpg/google-stuurt-honderden-advertentieverkopers-de-laan-uit.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6298103/",
+          "author": "onze economieredactie",
+          "description": "De Chinese economie is in 2023 met 5,2 procent gegroeid. Daarmee haalt de tweede economie ter wereld weliswaar haar eigen doel van 5 procent, maar het land groeide sinds 1990 niet zo traag, met uitzondering van de coronajaren.",
+          "link": "https://www.nu.nl/economie/6298103/chinese-economie-groeide-sinds-1990-niet-zo-traag-als-in-2023.html",
+          "publishedOn": "2024-01-17T09:17:29.000Z",
+          "wordCount": 2609,
+          "title": "Chinese economie groeide sinds 1990 niet zo traag als in 2023",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/jgzxo1laz9fr_sqr256.jpg/chinese-economie-groeide-sinds-1990-niet-zo-traag-als-in-2023.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/jgzxo1laz9fr_sqr256.jpg/chinese-economie-groeide-sinds-1990-niet-zo-traag-als-in-2023.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6298100/",
           "author": "Tim Wijkman-van Aalst",
@@ -8229,6 +8229,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/federal-financial-watchdog-wants-to-cut-overdraft-fees-to-as-little-as-usd3-8430578",
+          "author": "Staff Author",
+          "description": "The all-too-common experience of overdrawing your bank account by a few dollars only to be hit with a $35 overdraft fee may become a thing of the past if a government banking regulator goes through with a proposed rule.",
+          "link": "https://www.investopedia.com/federal-financial-watchdog-wants-to-cut-overdraft-fees-to-as-little-as-usd3-8430578?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-17T10:00:00.000Z",
+          "wordCount": 6493,
+          "title": "Federal Financial Watchdog Wants To Cut Overdraft Fees To As Little As $3",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/FnNtBGSN8OX5n1ygDwjBAhaUOGU=/7292x5599/GettyImages-1670366706-4c5bd64896d241628b328d48e7784da4.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/FnNtBGSN8OX5n1ygDwjBAhaUOGU=/7292x5599/GettyImages-1670366706-4c5bd64896d241628b328d48e7784da4.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/exchangetradedfunds/11/benefits-etfs-hedging.asp",
           "author": "Michael Schmidt",
@@ -29883,126 +29898,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/P2Mdb9AIlKz1D3nfu3sNfChDzNU=/2480x1328/12.18-cdd9e57196ed4312909a436be9e347b4.png"
-        },
-        {
-          "id": "https://www.investopedia.com/productivity-gains-from-ai-to-boost-economic-growth-in-2024-and-beyond-8403942",
-          "author": "Staff Author",
-          "description": "After a breakout year for artificial intelligence (AI) in 2023, experts say AI-fueled productivity increases could boost economic growth in 2024 and beyond.",
-          "link": "https://www.investopedia.com/productivity-gains-from-ai-to-boost-economic-growth-in-2024-and-beyond-8403942?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-18T22:06:52.000Z",
-          "wordCount": 6267,
-          "title": "Productivity Gains From AI To Boost Economic Growth in 2024 and Beyond",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/hc3DAwIbLzgxUjVnX40JAsxQAdI=/3433x2284/GettyImages-1541246944-827c62fa7ccc4cbca223d556599b43b1.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/hc3DAwIbLzgxUjVnX40JAsxQAdI=/3433x2284/GettyImages-1541246944-827c62fa7ccc4cbca223d556599b43b1.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/vans-and-north-face-owner-vf-corp-tumbled-here-is-why-8417563",
-          "author": "Staff Author",
-          "description": "Shares of Vans and North Face owner VF Corp. fell more than 7% Monday—here's why.",
-          "link": "https://www.investopedia.com/vans-and-north-face-owner-vf-corp-tumbled-here-is-why-8417563?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-18T22:02:18.000Z",
-          "wordCount": 5494,
-          "title": "Vans and North Face Owner VF Corp. Tumbled Over 7%—Here&#39;s Why",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/_En3RXRz6NhUL8mj5WqX6JZQnMw=/5140x3200/INV_NorthFace_VPCorp_GettyImages-1029498030-4a34d932758142119c35ff1e7c0d4d52.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/_En3RXRz6NhUL8mj5WqX6JZQnMw=/5140x3200/INV_NorthFace_VPCorp_GettyImages-1029498030-4a34d932758142119c35ff1e7c0d4d52.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-amazon-reportedly-aims-to-expand-reach-into-sports-8417651",
-          "author": "Staff Author",
-          "description": "The S&P 500 advanced 0.5% on Monday, Dec. 18, 2023, carrying over good feelings about the economy and talk of interest rate cuts from last week.",
-          "link": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-amazon-reportedly-aims-to-expand-reach-into-sports-8417651?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-18T22:00:32.000Z",
-          "wordCount": 5378,
-          "title": "S&amp;P 500 Gains and Losses Today: Amazon Reportedly Aims To Expand Reach Into Sports",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/SkvaGajGaWWZzrgBGdIDRvJ7xJU=/640x577/latestGainersLosers3-8da61b064b1b4dd0b34c39bc0c4d1914.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/SkvaGajGaWWZzrgBGdIDRvJ7xJU=/640x577/latestGainersLosers3-8da61b064b1b4dd0b34c39bc0c4d1914.png"
-        },
-        {
-          "id": "https://www.investopedia.com/bucking-the-trend-instead-of-lowering-cd-rates-3-big-banks-are-now-paying-more-8417580",
-          "author": "Staff Author",
-          "description": "CD rates have been edging lower now that the Fed's rate hikes are likely over. Yet five CDs from Wells Fargo, Marcus by Goldman Sachs, and Ally Bank have actually improved.",
-          "link": "https://www.investopedia.com/bucking-the-trend-instead-of-lowering-cd-rates-3-big-banks-are-now-paying-more-8417580?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-18T21:58:34.000Z",
-          "wordCount": 5458,
-          "title": "Bucking the Trend: Instead of Lowering CD Rates, 3 Big Banks Are Now Paying More",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/XN-REgDbT-p08oSLN5DLCrstZ-w=/8012x5344/fizkes2-f74f08448ef042209e4860eb64c13af7.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/XN-REgDbT-p08oSLN5DLCrstZ-w=/8012x5344/fizkes2-f74f08448ef042209e4860eb64c13af7.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/sunpower-shares-plunge-as-it-warns-that-debt-could-threaten-business-8417611",
-          "author": "Staff Author",
-          "description": "SunPower Corp. shares plummeted more than 30% Monday after the solar company warned that it could go out of business if creditors decide to demand immediate payment of its debt.",
-          "link": "https://www.investopedia.com/sunpower-shares-plunge-as-it-warns-that-debt-could-threaten-business-8417611?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-18T21:31:02.000Z",
-          "wordCount": 5569,
-          "title": "SunPower Stock Plunges as It Warns That Debt Could Threaten Business",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/UuphHGW6-DFDZ-u40RbyF6SSSKw=/4991x3327/engineers-installing-solar-panel-on-rooftop-152830526-5730abdd3df78c038e421963.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/UuphHGW6-DFDZ-u40RbyF6SSSKw=/4991x3327/engineers-installing-solar-panel-on-rooftop-152830526-5730abdd3df78c038e421963.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/t/tax-code.asp",
-          "author": "Julia Kagan",
-          "description": "A tax code is a law imposing various taxes on real property, goods and services, transactions, or—most importantly in the United States—on annual income.",
-          "link": "https://www.investopedia.com/terms/t/tax-code.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-18T21:26:04.000Z",
-          "wordCount": 8020,
-          "title": "How the U.S. Tax Code Works and Its Sections",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/AVowEQQxxaiLw4qNHVwWsA3Iq4o=/380x253/156416606-5bfc2b8b46e0fb00517bdff7.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/AVowEQQxxaiLw4qNHVwWsA3Iq4o=/380x253/156416606-5bfc2b8b46e0fb00517bdff7.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/r/risk-on-risk-off.asp",
-          "author": "Adam Hayes",
-          "description": "Risk-on risk-off is an investment setting in which price behavior responds to and is driven by changes in investor risk tolerance.",
-          "link": "https://www.investopedia.com/terms/r/risk-on-risk-off.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-18T21:18:30.000Z",
-          "wordCount": 6660,
-          "title": "Risk-On Risk-Off: What It Means for Investing",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/r8N4FT3n3GjUe82V7ICdhowbOS0=/4000x2700/risk-on-risk-off.asp-final-58f658fd0ede46a0842457cb91b06ec7.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/r8N4FT3n3GjUe82V7ICdhowbOS0=/4000x2700/risk-on-risk-off.asp-final-58f658fd0ede46a0842457cb91b06ec7.png"
-        },
-        {
-          "id": "https://www.investopedia.com/home-builder-mortgage-broker-optimism-move-higher-8417638",
-          "author": "Terry Lane",
-          "description": "As the homebuilder sentiment index moved higher for the first time in four months, mortgage lenders forecast improved sales for existing and new homes in 2024.",
-          "link": "https://www.investopedia.com/home-builder-mortgage-broker-optimism-move-higher-8417638?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-18T21:17:04.000Z",
-          "wordCount": 5634,
-          "title": "Homebuilder, Mortgage Broker Optimism Points to Improved Market in 2024",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/7EmdtX_BDWAzNiSzldX8h7r4VpQ=/6000x4000/GettyImages-1244095773-edd570a383e64b5d8071f53fa27b04d1.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/7EmdtX_BDWAzNiSzldX8h7r4VpQ=/6000x4000/GettyImages-1244095773-edd570a383e64b5d8071f53fa27b04d1.jpg"
         }
       ]
     },
@@ -30011,6 +29906,46 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "asian-currencies-consolidate-may-weaken-as-fed-rate-cut-prospects-wane-3776969d?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-weaken-as-fed-rate-cut-prospects-wane-3776969d?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-01-17T08:51:00.000Z",
+          "wordCount": null,
+          "title": "Euro Has Long-Term Potential Versus Dollar, Says BNP Paribas Markets 360",
+          "imageUrl": null
+        },
+        {
+          "id": "china-stock-rout-deepens-data-070850568.html",
+          "author": null,
+          "description": "(Bloomberg) -- A rout in Chinese stocks deepened Wednesday as a slew of disappointing economic data reinforced bearish sentiment toward the market. Most Read from BloombergMusk Pressures Tesla’s Board for Another Massive Stock AwardApple to Allow Outside Payments for Apps After US DecisionA Wary World Braces for Trump’s Return to the White HouseBonds Slide as Fed’s Waller Downplays Need to Rush: Markets WrapWhat Is Disease X? How Scientists Are Preparing for the Next PandemicThe Hang Seng China",
+          "link": "https://finance.yahoo.com/news/china-stock-rout-deepens-data-070850568.html",
+          "publishedOn": "2024-01-17T08:35:28.000Z",
+          "wordCount": 10294,
+          "title": "China Stock Rout Deepens as Data Stoke Recovery Concerns",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/DsuMxQDR40k5J6asycaYOw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/7ed31b81d2db37d5790d95e27e2a92f1"
+        },
+        {
+          "id": "2-artificial-intelligence-ai-stocks-082000481.html",
+          "author": null,
+          "description": "These companies are heavily investing in AI, and you won't want to miss out on their growth potential.",
+          "link": "https://finance.yahoo.com/news/2-artificial-intelligence-ai-stocks-082000481.html",
+          "publishedOn": "2024-01-17T08:20:00.000Z",
+          "wordCount": 11006,
+          "title": "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/a38471cf548af722bf08b5c8fd0488a0"
+        },
+        {
+          "id": "nvidia-stock-buy-081700490.html",
+          "author": null,
+          "description": "The company's dominance is unlikely to dissolve even though competition is heating up in the AI chip market.",
+          "link": "https://finance.yahoo.com/news/nvidia-stock-buy-081700490.html",
+          "publishedOn": "2024-01-17T08:17:00.000Z",
+          "wordCount": 11067,
+          "title": "Is Nvidia Stock a Buy?",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/589edb2361ec52ad71553cc4ac74da64"
+        },
         {
           "id": "stocks-bonds-fall-traders-tweak-224523839.html",
           "author": null,
@@ -51740,56 +51675,6 @@
           "wordCount": 10526,
           "title": "World’s Biggest ETF Sees Record $21 Billion Flow on Stock Rally",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/21a42b5fbed12055e679cbfd8bec2a2a"
-        },
-        {
-          "id": "bucking-the-trend-instead-of-lowering-cd-rates-3-big-banks-are-now-paying-more-8417580?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "CD rates have been edging lower now that the Fed's rate hikes are likely over. Yet five CDs from Wells Fargo, Marcus by Goldman Sachs, and Ally Bank have actually improved.",
-          "link": "https://www.investopedia.com/bucking-the-trend-instead-of-lowering-cd-rates-3-big-banks-are-now-paying-more-8417580?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-12-18T21:58:34.000Z",
-          "wordCount": 6037,
-          "title": "Bucking the Trend: Instead of Lowering CD Rates, 3 Big Banks Are Now Paying More",
-          "imageUrl": "https://www.investopedia.com/thmb/7FzBZ1vN_CKYee00kWq08GYhHcA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/fizkes2-f74f08448ef042209e4860eb64c13af7.jpg"
-        },
-        {
-          "id": "bank-of-america-bond-losses-335cd3c4?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "By contrast, JPMorgan Chase’s unrealized bond losses may be in the $30 billion to $35 billion range now.",
-          "link": "https://www.barrons.com/articles/bank-of-america-bond-losses-335cd3c4?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-12-18T21:49:00.000Z",
-          "wordCount": 7642,
-          "title": "Bank of America Bond Losses Narrowed From Rally to Estimated $100 Billion",
-          "imageUrl": "https://images.barrons.com/im-01819074/social"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-up-as-adobe-stock-pops-cathie-wood-snaps-up-this-stock-on-66-run-sells-bitcoin-plays/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-12-18T21:48:23.000Z",
-          "wordCount": null,
-          "title": "Dow Jones Up As Adobe Pops; Cathie Wood Snaps Up Stock On 65% Run Despite This Red Flag",
-          "imageUrl": null
-        },
-        {
-          "id": "great-disinflation-set-stage-5-213355586.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/great-disinflation-set-stage-5-213355586.html",
-          "publishedOn": "2023-12-18T21:33:55.000Z",
-          "wordCount": null,
-          "title": "'The great disinflation' will set the stage for 5 Fed rate cuts in 2024, Goldman Sachs says",
-          "imageUrl": null
-        },
-        {
-          "id": "sunpower-shares-plunge-as-it-warns-that-debt-could-threaten-business-8417611?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "author": null,
-          "description": "SunPower Corp. shares plummeted more than 30% Monday after the solar company warned that it could go out of business if creditors decide to demand immediate payment of its debt.",
-          "link": "https://www.investopedia.com/sunpower-shares-plunge-as-it-warns-that-debt-could-threaten-business-8417611?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral&yptr=yahoo",
-          "publishedOn": "2023-12-18T21:31:02.000Z",
-          "wordCount": 5979,
-          "title": "SunPower Stock Plunges as It Warns That Debt Could Threaten Business",
-          "imageUrl": "https://www.investopedia.com/thmb/zT-DaBLAuO6Bl7YbZKk4_4o7dOE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/engineers-installing-solar-panel-on-rooftop-152830526-5730abdd3df78c038e421963.jpg"
         }
       ]
     }
