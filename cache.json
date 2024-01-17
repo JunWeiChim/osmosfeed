@@ -912,16 +912,6 @@
           "wordCount": 409,
           "title": "Alphabet's Google Agrees to Pay $700 Million in Settlement Over Play App Store",
           "imageUrl": null
-        },
-        {
-          "id": "d6ff69b215cc35090d3e9ad98cffda50",
-          "author": "Investopedia",
-          "description": "U.S. Steel is set to be owned by a Japanese company, joining a list of iconic American companies that have been acquired by foreign companies.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca926fc2f11ae8553a878031a0bf3b208a5656c0318b75b29d4f3b45d56290209c9a1b7ac6ab33bde7e629e5e6c322b222ec381c8a3d5f450b58aca4fc8020",
-          "publishedOn": "2023-12-19T00:57:43.547Z",
-          "wordCount": 409,
-          "title": "These Iconic American Companies Have Foreign Ownership",
-          "imageUrl": null
         }
       ]
     },
@@ -930,6 +920,16 @@
       "feedUrl": "https://rss.app/feeds/UWnMV6nTNN8mPDUG.xml",
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
+        {
+          "id": "d62f91e7494638717b27fd3ff90edd05",
+          "author": "Investopedia",
+          "description": "Tesla shares dropped after cutting prices on some models in European markets and Spirit Airlines shares extended losses following a court ruling blocking its proposed merger with JetBlue. Here’s what investors need to know today.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df4f2a56d06e81209c9d0a69cdab3fb3fbf621f0f1c37cf261bb7a5dd679175c005caba6fb",
+          "publishedOn": "2024-01-17T13:15:51.180Z",
+          "wordCount": 409,
+          "title": "5 Things to Know Before Markets Open",
+          "imageUrl": null
+        },
         {
           "id": "0eb3788d51d5f7efc8e0fbf9bdcda5d4",
           "author": "Investopedia",
@@ -8224,6 +8224,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/gold-price-history-highs-and-lows-7375273",
+          "author": "Adam Hayes",
+          "description": "Gold prices have fluctuated over the past century, reaching lows in the 1970s and inflation-adjusted highs in the early ’80s. In recent years, they have been on an uptrend.",
+          "link": "https://www.investopedia.com/gold-price-history-highs-and-lows-7375273?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-17T12:43:22.000Z",
+          "wordCount": 9592,
+          "title": "Gold Price History: Highs and Lows",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/NospuoV8nYk3J5zVKcnZpu97YbI=/6000x4000/stack-close-up-gold-bars--weight-of-gold-bars-1000-grams-concept-of-wealth-and-reserve--concept-of-success-in-business-and-finance--3d-rendering-870562900-e8b9ea2c80af44faa54841730d958c15.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/NospuoV8nYk3J5zVKcnZpu97YbI=/6000x4000/stack-close-up-gold-bars--weight-of-gold-bars-1000-grams-concept-of-wealth-and-reserve--concept-of-success-in-business-and-finance--3d-rendering-870562900-e8b9ea2c80af44faa54841730d958c15.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/5-things-to-know-before-markets-open-january-17-2024-8430653",
+          "author": "Terry Lane",
+          "description": "Tesla shares dropped after cutting prices on some models in European markets and Spirit Airlines shares extended losses following a court ruling blocking its proposed merger with JetBlue. Here’s what investors need to know today.",
+          "link": "https://www.investopedia.com/5-things-to-know-before-markets-open-january-17-2024-8430653?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-17T12:31:35.000Z",
+          "wordCount": 5675,
+          "title": "5 Things to Know Before Markets Open",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/XirraPVFajJUm3L-df9xvHTkPTI=/6871x4383/GettyImages-1918866059-5e41fd445bd84de6afb514a936befe62.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/XirraPVFajJUm3L-df9xvHTkPTI=/6871x4383/GettyImages-1918866059-5e41fd445bd84de6afb514a936befe62.jpg"
+        },
         {
           "id": "https://www.investopedia.com/ask/answers/050415/what-companies-are-major-players-airline-supply-business.asp",
           "author": "Brian Beers",
@@ -29917,6 +29947,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "charles-schwab-earnings-stock-price-36b013d0?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "Charles Schwab closed the books on a challenging 2023.",
+          "link": "https://www.barrons.com/articles/charles-schwab-earnings-stock-price-36b013d0?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-01-17T12:46:00.000Z",
+          "wordCount": 8991,
+          "title": "Schwab Reports Lower Profits, But Beats Earnings Estimates",
+          "imageUrl": "https://images.barrons.com/im-24586842/social"
+        },
+        {
+          "id": "want-1-million-retirement-3-121500979.html",
+          "author": null,
+          "description": "Everyone's investing strategy is different and there are many roads to retiring a millionaire.",
+          "link": "https://finance.yahoo.com/news/want-1-million-retirement-3-121500979.html",
+          "publishedOn": "2024-01-17T12:15:00.000Z",
+          "wordCount": 11177,
+          "title": "Want $1 Million in Retirement? 3 Stocks to Buy Now and Hold for Decades",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/c6e4935f5447557c840ba27ea77d73c7"
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -29924,6 +29974,26 @@
           "publishedOn": "2024-01-17T12:12:52.000Z",
           "wordCount": null,
           "title": "Dow Jones Futures Fall On China Economic Data; Tesla Cuts Prices Again",
+          "imageUrl": null
+        },
+        {
+          "id": "spirit-airlines-finds-itself-few-235640080.html",
+          "author": null,
+          "description": "Spirit Airlines faces tough choices about its future including looking for another buyer and finding other ways to shore up its finances after a federal judge on Tuesday blocked its $3.8 billion merger deal with JetBlue Airways, industry experts said.  The airline this month completed a series of sale and leaseback transactions covering dozens of planes in a bid to repay about $465 million of debt on those jets.  But with a recovery in earnings not in sight, some analysts said the company might consider a bankruptcy filing to clean up its balance sheet and reorganize into a financially stronger airline.",
+          "link": "https://finance.yahoo.com/news/spirit-airlines-finds-itself-few-235640080.html",
+          "publishedOn": "2024-01-17T12:06:47.000Z",
+          "wordCount": 11028,
+          "title": "Spirit Airlines finds itself with few options after judge blocks deal with JetBlue",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/8b05ea579cd5c5ef56ac8186503e0aba"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/amd-stock-buy-now/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-01-17T12:00:11.000Z",
+          "wordCount": null,
+          "title": "Is AMD Stock A Buy After Chipmaker's AI Product Launch?",
           "imageUrl": null
         },
         {
@@ -29935,6 +30005,66 @@
           "wordCount": 10577,
           "title": "Stock market today: US futures fall as rate-cut bets get a reality check",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/eQwlA9epGFVrdUSQCZnsCQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/7580fc10-9f0e-11ee-b7f7-665457a1a196"
+        },
+        {
+          "id": "ARGUS_3629_AnalystReport_1705492447000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_3629_AnalystReport_1705492447000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-01-17T11:54:07.000Z",
+          "wordCount": null,
+          "title": "Analyst Report: PNC Financial Services Group",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_3017_AnalystReport_1705492447000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_3017_AnalystReport_1705492447000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-01-17T11:54:07.000Z",
+          "wordCount": null,
+          "title": "Analyst Report: Goldman Sachs Group, Inc.",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_38829_InsiderActivity_1705491878000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_38829_InsiderActivity_1705491878000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-01-17T11:44:38.000Z",
+          "wordCount": null,
+          "title": "Daily – Vickers Top Insider Picks for 01/17/2024",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_38830_TopBottomInsiderActivity_1705491878000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_38830_TopBottomInsiderActivity_1705491878000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-01-17T11:44:38.000Z",
+          "wordCount": null,
+          "title": "Daily – Vickers Top Buyers & Sellers for 01/17/2024",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_38826_TechnicalAnalysis_1705491569000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_38826_TechnicalAnalysis_1705491569000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-01-17T11:39:29.000Z",
+          "wordCount": null,
+          "title": "Technical Assessment: Neutral in the Intermediate-Term",
+          "imageUrl": null
+        },
+        {
+          "id": "could-investing-20-000-nvidia-113700970.html",
+          "author": null,
+          "description": "The semiconductor designer has made plenty of millionaires in recent years. Will a $20,000 starting commitment be enough to let you join the millionaire club quickly?",
+          "link": "https://finance.yahoo.com/news/could-investing-20-000-nvidia-113700970.html",
+          "publishedOn": "2024-01-17T11:37:00.000Z",
+          "wordCount": 11317,
+          "title": "Could Investing $20,000 in Nvidia Make You a Millionaire?",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/946ec59f04d769f027040c646f75b779"
         },
         {
           "id": "3-billionaire-fund-managers-betting-112800068.html",
@@ -51745,16 +51875,6 @@
           "wordCount": 10670,
           "title": "Alphabet Jumped Again Today Thanks to AI -- Is the Stock a Buy?",
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/72e4f14a0dd35a71100281dfb8c941bd"
-        },
-        {
-          "id": "aboard-jefferies-says-solar-stocks-004001461.html",
-          "author": null,
-          "description": "The pace of inflation is slowing down, and investors are starting to price in higher odds of interest rate cuts next year – but the ripples of the high inflation/high rates regime still linger. Consumer costs are up, and credit is harder to come by; financing for large projects is both harder to get and more expensive to pay for. Plenty of sectors are feeling the pressure. And this brings us to the residential solar market. Solar stocks depend on both homeowners and the availability of financing",
-          "link": "https://finance.yahoo.com/news/aboard-jefferies-says-solar-stocks-004001461.html",
-          "publishedOn": "2023-12-19T00:40:01.000Z",
-          "wordCount": 11734,
-          "title": "‘All Aboard’: Jefferies Says Solar Stocks Offer a Positive Risk-Reward — Here Are 2 Names to Take Advantage",
-          "imageUrl": "https://media.zenfs.com/en/tipranks_452/0fcd7a467e84daec1cddac9aadbcc15c"
         }
       ]
     }
