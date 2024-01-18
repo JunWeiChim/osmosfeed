@@ -921,6 +921,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "65f22971670491625a59f265d6ce3bb1",
+          "author": "Investopedia",
+          "description": "Stock futures rose in premarket trading on Thursday as a better-than-expected earnings report from chipmaker TSMC buoyed tech stocks.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c2140e9268d768e3c60f7310883ac76288",
+          "publishedOn": "2024-01-18T14:12:05.549Z",
+          "wordCount": 409,
+          "title": "Dow Jones Today: Stock Futures Rise as TSMC Earnings Brighten the Tech Outlook",
+          "imageUrl": null
+        },
+        {
           "id": "7e08e99f55c1a416603735bcd9acb638",
           "author": "Investopedia",
           "description": "Shares in Google parent Alphabet will be in focus this morning after CEO Sundar Pichai reportedly told employees in a Wednesday internal memo that the company plans to cut more jobs in 2024 as it ramps up its investments in high priority areas, such as AI.",
@@ -2027,6 +2037,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6298274/",
+          "author": "Ertan Basekin",
+          "description": "Hevige sneeuwval, ijzel of een storm kan ervoor zorgen dat we niet op het werk kunnen komen. Maar dat betekent niet dat een werknemer kan afdwingen dat hij die dag thuiswerkt.",
+          "link": "https://www.nu.nl/economie/6298274/sneeuw-storm-of-ijzel-thuiswerken-is-geen-absoluut-recht.html",
+          "publishedOn": "2024-01-18T14:04:08.000Z",
+          "wordCount": 2955,
+          "title": "Sneeuw, storm of ijzel: thuiswerken is geen absoluut recht",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/uinxlxvaxox2_sqr256.jpg/sneeuw-storm-of-ijzel-thuiswerken-is-geen-absoluut-recht.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/uinxlxvaxox2_sqr256.jpg/sneeuw-storm-of-ijzel-thuiswerken-is-geen-absoluut-recht.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6298269/",
           "author": "onze economieredactie",
@@ -8379,6 +8404,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/google-stock-in-focus-as-ceo-announces-additional-job-cuts-key-technical-levels-to-monitor-8431204",
+          "author": "Staff Author",
+          "description": "Shares in Google parent Alphabet will be in focus this morning after CEO Sundar Pichai reportedly told employees in a Wednesday internal memo that the company plans to cut more jobs in 2024 as it ramps up its investments in high priority areas, such as AI.",
+          "link": "https://www.investopedia.com/google-stock-in-focus-as-ceo-announces-additional-job-cuts-key-technical-levels-to-monitor-8431204?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-18T13:31:09.000Z",
+          "wordCount": 5823,
+          "title": "Google Stock in Focus as CEO Announces Additional Job Cuts—Key Technical Levels to Monitor",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ps-zd0j3xSpm1_nuEJIhB2BSFNU=/5110x3518/GettyImages-1797446916-24937e9e1fb441f0a5239f1ee9b3d692.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ps-zd0j3xSpm1_nuEJIhB2BSFNU=/5110x3518/GettyImages-1797446916-24937e9e1fb441f0a5239f1ee9b3d692.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/what-is-a-deductible-in-car-insurance-7486896",
+          "author": "Staff Author",
+          "description": "A deductible is what you pay before a car insurance company provides coverage for damage or loss. Learn how deductibles in car insurance work.",
+          "link": "https://www.investopedia.com/what-is-a-deductible-in-car-insurance-7486896?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-18T13:02:38.000Z",
+          "wordCount": 8030,
+          "title": "What Is a Deductible in Car Insurance?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/uyi41l_BPE_Ojs-zQIpuyblklVg=/5400x3600/twoincar-acc2c5e3e8734c6389d311c4444d4a02.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/uyi41l_BPE_Ojs-zQIpuyblklVg=/5400x3600/twoincar-acc2c5e3e8734c6389d311c4444d4a02.jpg"
+        },
         {
           "id": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-january-18-2024-8431203",
           "author": "Terry Lane",
@@ -29855,11 +29910,61 @@
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-jobless-claims-nvidia-stock-set-to-hit-more-record-highs/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-01-18T13:59:04.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Fall After Economic Data; Taiwan Semi Surges On Earnings",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/humana-stock-falls-ill-on-this-warning-unh-cvs-catch-virus/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-01-18T13:44:24.000Z",
+          "wordCount": null,
+          "title": "Humana Stock Falls Ill On This Warning; UNH, CVS Catch Virus",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
           "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-techs-lead-on-taiwan-semiconductor-forecast/?src=A00220&yptr=yahoo",
           "publishedOn": "2024-01-18T13:02:14.000Z",
           "wordCount": null,
           "title": "Dow Jones Futures Fall But Techs Rebound On Taiwan Semiconductor Forecast",
           "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/vz-stock-what-matters-most-when-telecom-stocks-report-earnings/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-01-18T13:00:10.000Z",
+          "wordCount": null,
+          "title": "What Matters Most When AT&T, Verizon, T-Mobile Report Earnings",
+          "imageUrl": null
+        },
+        {
+          "id": "yielding-17-5-dividend-stock-130000966.html",
+          "author": null,
+          "description": "Passive income investors are attracted to the massive dividend yield this stock offers.",
+          "link": "https://finance.yahoo.com/news/yielding-17-5-dividend-stock-130000966.html",
+          "publishedOn": "2024-01-18T13:00:00.000Z",
+          "wordCount": 10358,
+          "title": "Yielding 17.5%, Is This Dividend Stock Safe for Passive Income Investors?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/3Jh9qG6ACvxvsQpBTQ2Vtg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/65232c1aba7df83694c1b669ce5cc6a0"
+        },
+        {
+          "id": "forget-plug-power-3-no-130000913.html",
+          "author": null,
+          "description": "Investing in hydrogen no longer requires a sky-high tolerance for risk.",
+          "link": "https://finance.yahoo.com/news/forget-plug-power-3-no-130000913.html",
+          "publishedOn": "2024-01-18T13:00:00.000Z",
+          "wordCount": 11065,
+          "title": "Forget Plug Power: Here Are 3 No-Brainer Hydrogen Stocks to Buy in 2024",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/2d2bde6b7abc2b844195d4caa5f6fcb8"
         },
         {
           "id": "stock-market-today-us-futures-point-to-rebound-as-chipmakers-shine-124827902.html",
@@ -29880,6 +29985,16 @@
           "wordCount": 6019,
           "title": "Humana Stock Crumbles as Forecast Cut on Higher Medical Costs",
           "imageUrl": "https://images.barrons.com/im-08225947/social"
+        },
+        {
+          "id": "2-ultra-high-yield-dividend-124500146.html",
+          "author": null,
+          "description": "These two blue chip dividend stocks are poised for a turnaround.",
+          "link": "https://finance.yahoo.com/news/2-ultra-high-yield-dividend-124500146.html",
+          "publishedOn": "2024-01-18T12:45:00.000Z",
+          "wordCount": 10784,
+          "title": "2 Ultra-High Yield Dividend Stocks Worth Owning in 2024",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ZqyiRfholqfwGpiT9KmkVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/0992228ccd36424e1c4e4fbff35d578e"
         },
         {
           "id": "could-amd-stock-mirror-nvidias-123100134.html",
@@ -29982,6 +30097,16 @@
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73"
         },
         {
+          "id": "bitcoin-100-000-shiba-inu-114000654.html",
+          "author": null,
+          "description": "Bitcoin hasn't taken off in the wake of regulatory approval of spot Bitcoin ETFs -- yet.",
+          "link": "https://finance.yahoo.com/news/bitcoin-100-000-shiba-inu-114000654.html",
+          "publishedOn": "2024-01-18T11:40:00.000Z",
+          "wordCount": 10700,
+          "title": "Bitcoin to $100,000 or Shiba Inu to $0.01: What's More Likely to Happen in 2024?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/fFIqf60xSaBjfzj719eEoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTI-/https://media.zenfs.com/en/motleyfool.com/5e1194fdaa17f329571ca0b4744e34d8"
+        },
+        {
           "id": "what-to-know-today-d4e2953a?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Apple Watch ban reinstated, retail sales top expectations as consumers remain resilient, and other news to start your day.",
@@ -30080,6 +30205,16 @@
           "wordCount": 6364,
           "title": "Discover Stock Tumbles After Earnings. Bad Debt Is a Problem.",
           "imageUrl": "https://images.barrons.com/im-36096186/social"
+        },
+        {
+          "id": "3-pot-stocks-avoid-plague-102100545.html",
+          "author": null,
+          "description": "These cannabis stocks were once the buzz of Wall Street. In the new year, they're liable to be nothing short of buzzkills for investors.",
+          "link": "https://finance.yahoo.com/news/3-pot-stocks-avoid-plague-102100545.html",
+          "publishedOn": "2024-01-18T10:21:00.000Z",
+          "wordCount": 11391,
+          "title": "3 Pot Stocks to Avoid Like the Plague in 2024",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/hrDpWrqAlF9_KNtF1lYxIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/71a87210bc08a5aaf8a2b3c2c7374b87"
         },
         {
           "id": "want-300-super-safe-dividend-100600117.html",
@@ -51990,16 +52125,6 @@
           "wordCount": 10883,
           "title": "Alibaba Ousts Commerce Chief, Splits Assets in New Shakeup",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/0_Rk8.41.4qpkVjUhiNbww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/bloomberg_markets_842/e932f6c5d798dda3ee4237db8f46c56a"
-        },
-        {
-          "id": "no-matter-much-opec-cuts-011617431.html",
-          "author": null,
-          "description": "\"We're looking at 2024 and we're concerned that the market is actually going to end up being oversupplied.\"",
-          "link": "https://finance.yahoo.com/news/no-matter-much-opec-cuts-011617431.html",
-          "publishedOn": "2023-12-20T01:16:17.000Z",
-          "wordCount": 10458,
-          "title": "No matter how much OPEC cuts oil production, other countries will 'fill the hole,' trader says",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ED3O_mPbXmStto9mNofiJw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/5f9a8d3c6cbb3e9a95095ccc74831214"
         }
       ]
     }
