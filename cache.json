@@ -882,16 +882,6 @@
           "wordCount": 409,
           "title": "Warner Bros. Discovery, Paramount Reportedly in Merger Talks",
           "imageUrl": null
-        },
-        {
-          "id": "7f0c44b5fab2131118c0114cc2a000e0",
-          "author": "Investopedia",
-          "description": "Winnebago's profit and sales slumped on falling demand and discounted prices for its RVs.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca916ec9ec1aa75d3e87c33da2e0342481434c8e23892dbc820f244a966d943fdd9b146b8ee230bff4ed24afec873ea623fc241b873002184105fef6bb947156db9fbfb6c9818b910603d64a96cb3d3cdc",
-          "publishedOn": "2023-12-21T00:56:47.266Z",
-          "wordCount": 409,
-          "title": "Winnebago Earnings Slump on Falling Demand, Discounted Prices for Its RVs",
-          "imageUrl": null
         }
       ]
     },
@@ -900,6 +890,16 @@
       "feedUrl": "https://rss.app/feeds/UWnMV6nTNN8mPDUG.xml",
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
+        {
+          "id": "50e7439c550f59b30ab200806ee9cb6f",
+          "author": "Investopedia",
+          "description": "Macy's plans to cut roughly 2,350 jobs and close five stores to streamline costs and stem slowing sales. Company shares broke above a multi-month downtrend line in mid-November, indicating many of the challenges facing the retailer could be already baked into the price.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b66c4fb52b6112a9c813ba8bf3323c2574fcc248931b69a566645dd7f90219c9c1f7bd0ab3ab4b8e92fe0a58d38b13fa4391b8d264a455000f2e0a1d7704a84d9b3bb97c09c9110429d53d39c27688768273d9a881fd8c555bf982778",
+          "publishedOn": "2024-01-19T13:15:41.977Z",
+          "wordCount": 409,
+          "title": "Macy's Stock in Spotlight After News of Job Cuts, Store Closings—Key Levels to Monitor",
+          "imageUrl": null
+        },
         {
           "id": "0eeccee3d9a140afc5b67b14d02c115e",
           "author": "Investopedia",
@@ -2007,6 +2007,51 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6298406/",
+          "author": "Tom van Gurp",
+          "description": "Het demissionaire kabinet beperkt de huurverhogingen in de vrije sector tot zeker mei 2027. Dat heeft de ministerraad vrijdag besloten. Dit moet helpen duurdere huurwoningen betaalbaarder te houden.",
+          "link": "https://www.nu.nl/economie/6298406/huurverhoging-in-de-vrije-sector-tot-2027-aan-banden-gelegd.html",
+          "publishedOn": "2024-01-19T13:08:15.000Z",
+          "wordCount": 2543,
+          "title": "Huurverhoging in de vrije sector tot 2027 aan banden gelegd",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/l8zxmh4auo0k_sqr256.jpg/huurverhoging-in-de-vrije-sector-tot-2027-aan-banden-gelegd.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/l8zxmh4auo0k_sqr256.jpg/huurverhoging-in-de-vrije-sector-tot-2027-aan-banden-gelegd.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6298388/",
+          "author": "Rutger Otto",
+          "description": "Het zou goed zijn als gebruikers van socialemediaplatform Threads snel kunnen praten met mensen op Mastodon en andersom. Dat zegt demissionair staatssecretaris Alexandra van Huffelen (Digitalisering) namens het kabinet tegen NU.nl.",
+          "link": "https://www.nu.nl/tech/6298388/kabinet-wil-dat-twitter-alternatieven-snel-aan-elkaar-worden-gekoppeld.html",
+          "publishedOn": "2024-01-19T13:08:05.000Z",
+          "wordCount": 1206,
+          "title": "Kabinet wil dat Twitter-alternatieven snel aan elkaar worden gekoppeld",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/6j0x48wab9r9_sqr256.jpg/kabinet-wil-dat-twitter-alternatieven-snel-aan-elkaar-worden-gekoppeld.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/6j0x48wab9r9_sqr256.jpg/kabinet-wil-dat-twitter-alternatieven-snel-aan-elkaar-worden-gekoppeld.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6298405/",
+          "author": "onze techredactie",
+          "description": "Voor contactloos betalen met je iPhone ben je binnenkort niet meer afhankelijk van Apple. De iPhone-fabrikant gaat in Europa andere betaalbedrijven toelaten om contactloze betaaldiensten aan te bieden aan iPhone-gebruikers. Zo hoopt Apple een Europese boete te voorkomen.",
+          "link": "https://www.nu.nl/tech/6298405/apple-zwicht-voor-druk-van-brussel-en-laat-concurrerende-betaaldiensten-toe.html",
+          "publishedOn": "2024-01-19T13:04:18.000Z",
+          "wordCount": 2767,
+          "title": "Apple zwicht voor druk van Brussel en laat concurrerende betaaldiensten toe",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/5w6x4q3aku6t_sqr256.jpg/apple-zwicht-voor-druk-van-brussel-en-laat-concurrerende-betaaldiensten-toe.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/5w6x4q3aku6t_sqr256.jpg/apple-zwicht-voor-druk-van-brussel-en-laat-concurrerende-betaaldiensten-toe.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6298393/",
           "author": "Tom van Gurp",
@@ -8389,6 +8434,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/macy-s-stock-in-spotlight-after-news-of-job-cuts-store-closings-key-levels-to-monitor-8536146",
+          "author": "Staff Author",
+          "description": "Macy's plans to cut roughly 2,350 jobs and close five stores to streamline costs and stem slowing sales. Company shares broke above a multi-month downtrend line in mid-November, indicating many of the challenges facing the retailer could be already baked into the price.",
+          "link": "https://www.investopedia.com/macy-s-stock-in-spotlight-after-news-of-job-cuts-store-closings-key-levels-to-monitor-8536146?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-19T12:45:20.000Z",
+          "wordCount": 5701,
+          "title": "Macy&#39;s Stock in Spotlight After News of Job Cuts, Store Closings—Key Levels to Monitor",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/zVxqm7mOrR-KSfgnqwxZj0a8TTs=/8192x5464/GettyImages-1470785203-2fea09c0d616410480578f85d3c1d1ad.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/zVxqm7mOrR-KSfgnqwxZj0a8TTs=/8192x5464/GettyImages-1470785203-2fea09c0d616410480578f85d3c1d1ad.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/b/blotter.asp",
+          "author": "Adam Hayes",
+          "description": "A blotter is a record of trades, including details of those trades, made over a period of time (usually one trading day).",
+          "link": "https://www.investopedia.com/terms/b/blotter.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-19T12:25:22.000Z",
+          "wordCount": 6982,
+          "title": "What Is a Blotter? Definition, How It Works, Uses, and Example",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/thBK2_PRpWXZo4H5Dc_vgsaVxvw=/2121x1414/GettyImages-1131299321-181faadf01a5405790f22422ff8009bf.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/thBK2_PRpWXZo4H5Dc_vgsaVxvw=/2121x1414/GettyImages-1131299321-181faadf01a5405790f22422ff8009bf.jpg"
+        },
         {
           "id": "https://www.investopedia.com/roth-ira-funds-e-trade-5220725",
           "author": "Nathan Reiff",
@@ -29328,21 +29403,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/9dlO9XODl028mc2gCwM677Q0xS8=/5279x3312/conveyor-belt-in-factory-457978597-6dc0d80662994652b10c3e2d0376aaba.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/personal-finance/digging-out-of-debt/",
-          "author": "Andrew Beattie",
-          "description": "Our guide for how to get out of debt in 8 steps will help you pay off your debt quickly to save money. Learn about the top strategies for becoming debt-free.",
-          "link": "https://www.investopedia.com/personal-finance/digging-out-of-debt/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-21T00:31:54.000Z",
-          "wordCount": 7715,
-          "title": "How to Get Out of Debt in 8 Steps",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/pv9Kmgz6H7VH6uuP_VZfodx1Krg=/4000x2700/digging-out-of-debt_final-b14f7e15866443b3a3b87745ea178ef8.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/pv9Kmgz6H7VH6uuP_VZfodx1Krg=/4000x2700/digging-out-of-debt_final-b14f7e15866443b3a3b87745ea178ef8.png"
         }
       ]
     },
@@ -29352,6 +29412,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "eu-antitrust-regulator-intends-block-225941427.html",
+          "author": null,
+          "description": "Shares of the Roomba vacuum maker plunged nearly 40% to $14.3 in trading after the bell.  WSJ reported that Amazon was informed during its meeting with European Commission's officials on Thursday that the deal was likely to be rejected.  Amazon declined to comment on the report.",
+          "link": "https://finance.yahoo.com/news/eu-antitrust-regulator-intends-block-225941427.html",
+          "publishedOn": "2024-01-19T12:24:16.000Z",
+          "wordCount": 10346,
+          "title": "Roomba maker iRobot shares plunge on report Amazon deal faces EU block",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/f6f837b0cddf38cd383c369e8913944d"
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -29359,6 +29429,26 @@
           "publishedOn": "2024-01-19T12:11:01.000Z",
           "wordCount": null,
           "title": "Dow Jones Futures Rise, AI Play Soars After Market Shrugs Off Fed Warning",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_3479_AnalystReport_1705665827000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_3479_AnalystReport_1705665827000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-01-19T12:03:47.000Z",
+          "wordCount": null,
+          "title": "Analyst Report: Unitedhealth Group Inc",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_3759_AnalystReport_1705665827000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_3759_AnalystReport_1705665827000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-01-19T12:03:47.000Z",
+          "wordCount": null,
+          "title": "Analyst Report: KeyCorp",
           "imageUrl": null
         },
         {
@@ -29372,6 +29462,46 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/mY3Z.mhXBkZzgS.TiGBTig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/07ef7e30-7383-11ee-adeb-b3a2dd3a4830"
         },
         {
+          "id": "ARGUS_38859_MarketOutlook_1705664969000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_38859_MarketOutlook_1705664969000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-01-19T11:49:29.000Z",
+          "wordCount": null,
+          "title": "Daily Spotlight: We Forecast a Lower Dollar in 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "solid-2023-high-yield-dividend-114000278.html",
+          "author": null,
+          "description": "Recent investments will give Kinder Morgan the fuel to grow faster in the coming year.",
+          "link": "https://finance.yahoo.com/news/solid-2023-high-yield-dividend-114000278.html",
+          "publishedOn": "2024-01-19T11:40:00.000Z",
+          "wordCount": 10950,
+          "title": "After a Solid 2023, This High-Yield Dividend Stock Expects to Make Even More Money in 2024",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/d2a74e2889ea4c5dd2dccf7814e79b23"
+        },
+        {
+          "id": "ARGUS_38855_TopBottomInsiderActivity_1705664078000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_38855_TopBottomInsiderActivity_1705664078000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-01-19T11:34:38.000Z",
+          "wordCount": null,
+          "title": "Daily – Vickers Top Buyers & Sellers for 01/19/2024",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_38854_InsiderActivity_1705664078000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_38854_InsiderActivity_1705664078000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-01-19T11:34:38.000Z",
+          "wordCount": null,
+          "title": "Daily – Vickers Top Insider Picks for 01/19/2024",
+          "imageUrl": null
+        },
+        {
           "id": "roomba-maker-irobots-shares-plunge-113012369.html",
           "author": null,
           "description": "Amazon was informed during its meeting on Thursday with the European Commission, the EU's executive arm, that the deal was likely to be rejected, the Wall Street Journal reported.  The U.S. tech giant did not offer remedies until a Jan. 10 deadline to address the regulator's concerns the deal could reduce competition and reinforce Amazon's e-commerce platform dominance.  Amazon disclosed plans to buy the robot vacuum company in August 2022 to add to its portfolio of smart devices, which include the Alexa voice assistant, smart thermostats, security devices and wall-mounted smart displays.",
@@ -29380,6 +29510,16 @@
           "wordCount": 10352,
           "title": "Roomba maker iRobot's shares plunge on report Amazon deal faces EU block",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/29758eca417a75e01ed93d699f02edf4"
+        },
+        {
+          "id": "top-ai-start-stock-falling-113000948.html",
+          "author": null,
+          "description": "Data center infrastructure for AI training won't be a monopoly, and this start-up might be showing signs of slowing already.",
+          "link": "https://finance.yahoo.com/news/top-ai-start-stock-falling-113000948.html",
+          "publishedOn": "2024-01-19T11:30:00.000Z",
+          "wordCount": 10930,
+          "title": "This Top AI Start-Up Stock Is Falling Again to Start 2024 -- Why Most Investors Should Steer Clear",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ZoE143jDrY2G9WzBiw3BdA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/5d748ac0d0965c295aaac96042ae6630"
         },
         {
           "id": "exclusive-spirit-airlines-presses-jetblue-110206763.html",
