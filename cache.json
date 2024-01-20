@@ -2059,16 +2059,6 @@
           "wordCount": 409,
           "title": "3 Charts For Investors to Watch Thursday: Warner Bros. Discovery, Micron, MCHI ETF",
           "imageUrl": null
-        },
-        {
-          "id": "7df46463383df058fffb9e89b3bfe650",
-          "author": "Investopedia",
-          "description": "Stock futures were up in early trading Thursday, putting stocks on track to rebound from yesterday afternoon's sell-off that handed the major indexes their worst day in months.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c2150d9161d768e3c10f73108a32c56586",
-          "publishedOn": "2023-12-21T14:11:10.712Z",
-          "wordCount": 409,
-          "title": "Dow Jones Today: Stock Futures Up Ahead of Jobless Claims, GDP Data",
-          "imageUrl": null
         }
       ]
     },
@@ -8429,6 +8419,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/articles/exchangetradedfunds/11/worst-etf-misconceptions.asp",
+          "author": "Adam Hayes",
+          "description": "The rise in these funds' popularity has contributed to misinformation about what they are and how they work.",
+          "link": "https://www.investopedia.com/articles/exchangetradedfunds/11/worst-etf-misconceptions.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-20T01:59:53.000Z",
+          "wordCount": 6849,
+          "title": "Common Misconceptions About ETFs",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/0LhfhpRQeQGTULyw9LbgqDkM5TM=/2024x1480/GettyImages-1131665893-85f9b9cc075f44548f3da97e8aa2ae7e.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/0LhfhpRQeQGTULyw9LbgqDkM5TM=/2024x1480/GettyImages-1131665893-85f9b9cc075f44548f3da97e8aa2ae7e.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/mutualfund/07/etf_downside.asp",
           "author": "Brian Beers",
@@ -29863,21 +29868,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/4hyMUOpxaQpiCwQ709QDysVPiR0=/1248x369/ccdebt.GettyImages-11325630181journeycrop-consumercredit-b57f82b78dda480ebd53c8531af20ad8.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/3-charts-for-investors-to-watch-thursday-warner-bros-discovery-micron-mchi-etf-8419038",
-          "author": "Timothy Smith",
-          "description": "These two stocks and one ETF are worth watching today. We look at the reasons why and identify important chart levels to watch.",
-          "link": "https://www.investopedia.com/3-charts-for-investors-to-watch-thursday-warner-bros-discovery-micron-mchi-etf-8419038?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-21T14:00:45.000Z",
-          "wordCount": 6231,
-          "title": "3 Charts For Investors to Watch Thursday: Warner Bros. Discovery, Micron, MCHI ETF",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/YYpn88m23NM9efRP3BJPFRf0nN4=/8500x5666/GettyImages-1574595073-4072a7ba396245619c9fc7e95d025716.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/YYpn88m23NM9efRP3BJPFRf0nN4=/8500x5666/GettyImages-1574595073-4072a7ba396245619c9fc7e95d025716.jpg"
         }
       ]
     },
@@ -29886,6 +29876,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "why-intel-stock-cruised-3-230001120.html",
+          "author": null,
+          "description": "News about a potential new rival indicates the heavy demand for state-of-the-art processors.",
+          "link": "https://finance.yahoo.com/news/why-intel-stock-cruised-3-230001120.html",
+          "publishedOn": "2024-01-19T23:00:01.000Z",
+          "wordCount": 10557,
+          "title": "Why Intel Stock Cruised to a 3% Gain Today",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/23oxN52sqK7Nu8z1mwqw_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/e7d9e11bf858795c3d9ed836ac1879a8"
+        },
         {
           "id": "why-ibm-stock-soared-higher-222652127.html",
           "author": null,
@@ -52145,36 +52145,6 @@
           "wordCount": 10960,
           "title": "Stock market news today: US stocks bounce back from worst day in months",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/r1KSSocpjqgeMMA3scwEfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/44526ae0-8913-11ee-bf35-14febfe52242"
-        },
-        {
-          "id": "whats-going-alibaba-stock-thursday-142105937.html",
-          "author": null,
-          "description": "Alibaba Group Holding Limited (NYSE: BABA) stock is trading higher Thursday as it replaced Trudy Dai, a founding partner, with CEO Eddie Wu as the head of its core Chinese e-commerce platforms, Tmall and Taobao. The move marked Alibaba's strategy to recover from recent challenges, including intensifying competition from PDD Holdings Inc (NASDAQ: PDD). Alibaba is now focusing on recovering its position in cloud and e-commerce. Li Chengdong, head of the Beijing-based Internet think tank Haitun, co",
-          "link": "https://finance.yahoo.com/news/whats-going-alibaba-stock-thursday-142105937.html",
-          "publishedOn": "2023-12-21T14:21:05.000Z",
-          "wordCount": 10518,
-          "title": "What's Going On With Alibaba Stock Thursday?",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/9e8728806e8b5a689d07d3288d187bb8"
-        },
-        {
-          "id": "t-better-income-vehicle-high-141500422.html",
-          "author": null,
-          "description": "AT&T and this Vanguard fund could serve a similar role in a diversified portfolio.",
-          "link": "https://finance.yahoo.com/news/t-better-income-vehicle-high-141500422.html",
-          "publishedOn": "2023-12-21T14:15:00.000Z",
-          "wordCount": 10779,
-          "title": "Is AT&T a Better Income Vehicle Than This High-Yield Vanguard Dividend ETF?",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/d4a289e3d25d208f9df7691b07bfb0c9"
-        },
-        {
-          "id": "warren-buffett-just-added-589-141500556.html",
-          "author": null,
-          "description": "It's one of the few stocks Warren Buffett is buying in today's market.",
-          "link": "https://finance.yahoo.com/news/warren-buffett-just-added-589-141500556.html",
-          "publishedOn": "2023-12-21T14:15:00.000Z",
-          "wordCount": 11055,
-          "title": "Warren Buffett Just Added $589 Million to 1 of Berkshire Hathaway's Top Holdings",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/1bb88b2fc524cb2920866b0db099b21b"
         }
       ]
     }
