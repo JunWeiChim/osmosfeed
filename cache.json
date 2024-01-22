@@ -1928,6 +1928,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6298751/",
+          "author": "onze economieredactie",
+          "description": "De Van Brienenoordbrug, een van Nederlands drukste bruggen, heeft het einde van zijn levensduur bereikt, maar Rijkswaterstaat kan geen geschikte partij vinden voor de renovatie. De werkzaamheden lopen daardoor jaren vertraging op, terwijl de kans op storing toeneemt.",
+          "link": "https://www.nu.nl/economie/6298751/renovatie-van-drukke-van-brienenoordbrug-vertraagd-door-krapte-op-bouwmarkt.html",
+          "publishedOn": "2024-01-22T16:59:41.000Z",
+          "wordCount": 2780,
+          "title": "Renovatie van drukke Van Brienenoordbrug vertraagd door krapte op bouwmarkt",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/9vrxqddawx0l_sqr256.jpg/renovatie-van-drukke-van-brienenoordbrug-vertraagd-door-krapte-op-bouwmarkt.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/9vrxqddawx0l_sqr256.jpg/renovatie-van-drukke-van-brienenoordbrug-vertraagd-door-krapte-op-bouwmarkt.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6298726/",
           "author": "Tom van Gurp",
           "description": "Tankstations verhogen benzineprijzen sneller bij een stijgende olieprijs dan dat ze hun tarieven verlagen als olie goedkoper wordt. De afgelopen jaren kostte dit autorijders enkele centen per liter, blijkt uit onderzoek van toezichthouder ACM.",
@@ -8421,21 +8436,6 @@
             "url": "https://media.nu.nl/m/efexfwzabgm1_sqr256.jpg/vakbond-fnv-blaast-actie-bij-amac-winkels-af-na-intimidatie-werknemers.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/efexfwzabgm1_sqr256.jpg/vakbond-fnv-blaast-actie-bij-amac-winkels-af-na-intimidatie-werknemers.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6295380/",
-          "author": "Tim Wijkman-van Aalst",
-          "description": "Wie gaat tijdens het kerstdiner uitgebreid een stapel post openen en lezen? Waarschijnlijk niemand. Maar als je tijdens een etentje met een smartphone bezig bent, doe je eigenlijk hetzelfde. De telefoon hoort daarom niet op tafel, zeggen etiquettedeskundigen.",
-          "link": "https://www.nu.nl/tech/6295380/expert-leg-plebsbestek-zoals-smartphone-niet-op-tafel-tijdens-kerstdiner.html",
-          "publishedOn": "2023-12-24T04:20:52.000Z",
-          "wordCount": 3190,
-          "title": "NU+ | Expert: leg 'plebsbestek' zoals smartphone niet op tafel tijdens kerstdiner",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/kqkxuy0aadml_sqr256.jpg/expert-leg-plebsbestek-zoals-smartphone-niet-op-tafel-tijdens-kerstdiner.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/kqkxuy0aadml_sqr256.jpg/expert-leg-plebsbestek-zoals-smartphone-niet-op-tafel-tijdens-kerstdiner.jpg"
         }
       ]
     },
@@ -8444,6 +8444,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/what-you-need-to-know-8404873",
+          "author": "Cedric Thompson",
+          "description": "A general overview of artificial intelligence stocks and the key items for investors",
+          "link": "https://www.investopedia.com/what-you-need-to-know-8404873?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-22T16:46:31.000Z",
+          "wordCount": 9568,
+          "title": "Beginner&#39;s Guide to Artificial Intelligence Stocks",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/HzIYPkY54Z_dj0GJjKq2J_Bzqbk=/8600x5733/GettyImages-1337928487-8028b164d3b94cc5b4a39c15777ffc92.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/HzIYPkY54Z_dj0GJjKq2J_Bzqbk=/8600x5733/GettyImages-1337928487-8028b164d3b94cc5b4a39c15777ffc92.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/donchian-channels-formula-8415235",
+          "author": "Cedric Thompson",
+          "description": "A description of the formula, calculation, and the use of Donchian channels",
+          "link": "https://www.investopedia.com/donchian-channels-formula-8415235?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-22T16:37:37.000Z",
+          "wordCount": 9097,
+          "title": "Donchian Channels: Formula, Calculations and Uses",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/qORplGf-DjPgFW1NEO1RgKmjogw=/6720x4480/GettyImages-1435220822-118909f95ee84975a19304186c67409d.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/qORplGf-DjPgFW1NEO1RgKmjogw=/6720x4480/GettyImages-1435220822-118909f95ee84975a19304186c67409d.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/d/demerger.asp",
           "author": "Will Kenton",
@@ -8638,6 +8668,21 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/yCFtotEr4DDE93zzuroLQ1hRFCQ=/9170x3840/GettyImages-1328728792-b328b3173a1d45f7a67a8fc81f2e026c.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/102815/are-etfs-considered-derivatives.asp",
+          "author": "Jason Morris",
+          "description": "Learn why most exchange-traded funds (ETFs) are not considered derivative securities and the special circumstances when this distinction may not apply.",
+          "link": "https://www.investopedia.com/ask/answers/102815/are-etfs-considered-derivatives.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-22T05:01:32.000Z",
+          "wordCount": 7820,
+          "title": "Are ETFs Considered Derivatives?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/3erLbxOB1XgRGnu7pu56na6n6c8=/4000x2667/Primary-Image-best-resume-writing-services-of-2023-7486636-bcd376185bce4008b2c60800ff9c3c68.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/3erLbxOB1XgRGnu7pu56na6n6c8=/4000x2667/Primary-Image-best-resume-writing-services-of-2023-7486636-bcd376185bce4008b2c60800ff9c3c68.jpg"
         },
         {
           "id": "https://www.investopedia.com/terms/t/turnoverratio.asp",
@@ -9343,6 +9388,21 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/BpTzKmx3pwVHvaE0X5YYaEXEkrs=/2480x1612/1-19-24cdnews-dfbba9c709134a7785f72fec88f11122.png"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/163.asp",
+          "author": "The Investopedia Team",
+          "description": "Exchange-traded funds (ETFs) are treated like stock on exchanges; as such, they are also allowed to be sold short.",
+          "link": "https://www.investopedia.com/ask/answers/163.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-19T21:51:16.000Z",
+          "wordCount": 7967,
+          "title": "Can You Short Sell ETFs?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/tziQlL9ix1dK5chFrKKZMFj9PHo=/2119x1414/hands-phone-texting-5257a24d0eec4022b97b7adcc99262bb.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/tziQlL9ix1dK5chFrKKZMFj9PHo=/2119x1414/hands-phone-texting-5257a24d0eec4022b97b7adcc99262bb.jpg"
         },
         {
           "id": "https://www.investopedia.com/verizon-set-to-report-2024-quarter-earnings-declining-profits-despite-progress-in-adding-subscribers-8536093",
@@ -28438,66 +28498,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/D9yg0rrAeFK2uSEIeavMJo3Qnaw=/3000x1998/GettyImages-1079971870-405b210506ad49b2b41979c1cdb3a088.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/l/liffe.asp",
-          "author": "Gordon Scott",
-          "description": "LIFFE is the former name of the London-based financial marketplace now known as ICE Futures Europe.",
-          "link": "https://www.investopedia.com/terms/l/liffe.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-24T05:00:52.000Z",
-          "wordCount": 6649,
-          "title": "London International Financial Futures and Options Exchange (LIFFE) Definition",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/6ka_s7rA5MyANoeUvbj93ytGmgk=/680x440/122582497-5bfc2b8d46e0fb005119b24b.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/6ka_s7rA5MyANoeUvbj93ytGmgk=/680x440/122582497-5bfc2b8d46e0fb005119b24b.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/financial-edge/0312/how-to-invest-if-youre-broke.aspx",
-          "author": "Tim Parker",
-          "description": "Find investment vehicles appropriate for small amounts of money that can be saved by giving up a few things.",
-          "link": "https://www.investopedia.com/financial-edge/0312/how-to-invest-if-youre-broke.aspx?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-24T04:58:51.000Z",
-          "wordCount": 8022,
-          "title": "How to Invest When You&#39;re Broke",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Ujd713gtZiUseaT9ooR1mXkzqtY=/3864x2577/business-team-present--photo-professional-investor-working-new-startup-business-project--finance-business-meeting--digital-tablet-laptop-computer-smart-phone-using--824778670-59f33cc9d088c0001086dd77.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Ujd713gtZiUseaT9ooR1mXkzqtY=/3864x2577/business-team-present--photo-professional-investor-working-new-startup-business-project--finance-business-meeting--digital-tablet-laptop-computer-smart-phone-using--824778670-59f33cc9d088c0001086dd77.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/forex/h/historical-currency-exchange-rates.asp",
-          "author": "Lucas Downey",
-          "description": "Historical currency exchange rates are foreign exchange rates which give traders a historical reference of how a currency pair has traded.",
-          "link": "https://www.investopedia.com/terms/forex/h/historical-currency-exchange-rates.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-24T04:37:13.000Z",
-          "wordCount": 5971,
-          "title": "Historical Currency Exchange Rates Overview",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/r74sqPvGlW3DlanGaOsDFC5bueo=/1024x683/2120386483_085bdb1b18_b-0f77c5bcc0914589a04ba2f10caaec32.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/r74sqPvGlW3DlanGaOsDFC5bueo=/1024x683/2120386483_085bdb1b18_b-0f77c5bcc0914589a04ba2f10caaec32.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/060316/why-monaco-considered-tax-haven.asp",
-          "author": "Craig Anthony",
-          "description": "Discover why the principality of Monaco is considered a tax haven, and learn about some of the sovereign city-state’s more favorable tax policies.",
-          "link": "https://www.investopedia.com/ask/answers/060316/why-monaco-considered-tax-haven.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-24T04:37:01.000Z",
-          "wordCount": 7739,
-          "title": "Why Is Monaco Considered a Tax Haven?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/emK6B1k67OuI-UVk5xGIvrlyuRs=/1600x1200/yachts_6536-59e939fcc4124400112a61eb.JPG",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/emK6B1k67OuI-UVk5xGIvrlyuRs=/1600x1200/yachts_6536-59e939fcc4124400112a61eb.JPG"
         }
       ]
     },
@@ -28506,6 +28506,56 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "why-fisker-stock-zoomed-40-163715286.html",
+          "author": null,
+          "description": "Fisker's amended agreement with a lender comes at a time when it's struggling to produce and sell more Ocean SUVs.",
+          "link": "https://finance.yahoo.com/news/why-fisker-stock-zoomed-40-163715286.html",
+          "publishedOn": "2024-01-22T16:37:15.000Z",
+          "wordCount": 10715,
+          "title": "Why Fisker Stock Zoomed 40.5% Today",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/TudTPds.fyaNVuN8XmFSQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/9aca6469ddf03780901862c39f54deba"
+        },
+        {
+          "id": "why-archer-daniels-midland-stock-163701045.html",
+          "author": null,
+          "description": "The company's CFO has been put on leave while an investigation plays out.",
+          "link": "https://finance.yahoo.com/news/why-archer-daniels-midland-stock-163701045.html",
+          "publishedOn": "2024-01-22T16:37:01.000Z",
+          "wordCount": 10528,
+          "title": "Why Archer-Daniels-Midland Stock Is Plunging Today",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/QIpQXTOXTPXUfoJp46HoAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjY-/https://media.zenfs.com/en/motleyfool.com/83ef925a59f733ff27697b8064799a0f"
+        },
+        {
+          "id": "nvidia-western-digital-top-chip-stock-price-pick-9cfb0b00?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/nvidia-western-digital-top-chip-stock-price-pick-9cfb0b00?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-01-22T16:08:00.000Z",
+          "wordCount": null,
+          "title": "Why Western Digital Stock—Not Nvidia—Is Morgan Stanley’s Top Chip Pick",
+          "imageUrl": null
+        },
+        {
+          "id": "ford-ceo-jim-farleys-16-160219279.html",
+          "author": null,
+          "description": "After achieving record sales in the electric vehicle (EV) segment, Ford Motor Co. has taken a step back, scaling down its EV plans. Despite the F-150 Lightning becoming America’s top-selling electric truck and the Mustang Mach-E recording impressive sales, Ford is revising its EV strategy. Chief Financial Officer John Lawler announced a reduction in planned investments, including postponing around $12 billion in EV spending. Ford is reducing production at its plant in Marshall, Michigan, cutting",
+          "link": "https://finance.yahoo.com/news/ford-ceo-jim-farleys-16-160219279.html",
+          "publishedOn": "2024-01-22T16:02:19.000Z",
+          "wordCount": 11142,
+          "title": "Ford CEO Jim Farley's $16 Billion EV Bet Is Imploding As Tesla Sees Continued Momentum: What Does This Mean For The Future Of Ford And Legacy Automakers?",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/86f296f5d94436662f669143f0c5108c"
+        },
+        {
+          "id": "why-shares-plug-power-soaring-160017234.html",
+          "author": null,
+          "description": "Forget the cold outside, this fuel cell stock is off to a hot start this morning.",
+          "link": "https://finance.yahoo.com/news/why-shares-plug-power-soaring-160017234.html",
+          "publishedOn": "2024-01-22T16:00:17.000Z",
+          "wordCount": 10524,
+          "title": "Why Shares of Plug Power Are Soaring Today",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/b67c0366a44e012cca3893c9b40a6c31"
+        },
         {
           "id": "drone-attacks-menace-russia-key-133339179.html",
           "author": null,
@@ -51025,16 +51075,6 @@
           "wordCount": 6063,
           "title": "This E-Commerce Giant Is a Buy for 2024. It’s Not Risk-Free.",
           "imageUrl": "https://images.barrons.com/im-25866465/social"
-        },
-        {
-          "id": "the-crypto-queen-pulling-the-strings-at-binance-1e6dfeb5?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "Yi He, a former talk-show host, has sweeping control over the crypto giant’s marketing and investment divisions. She is also founder Changpeng Zhao’s longtime romantic partner.",
-          "link": "https://www.wsj.com/finance/currencies/the-crypto-queen-pulling-the-strings-at-binance-1e6dfeb5?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2023-12-24T05:00:00.000Z",
-          "wordCount": 8187,
-          "title": "The Crypto Queen Pulling the Strings at Binance",
-          "imageUrl": "https://images.wsj.net/im-903457/social"
         }
       ]
     }
