@@ -1958,6 +1958,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6298792/",
+          "author": "José Boon",
+          "description": "Netbeheerder Stedin telt een recordaantal zonnepanelen dat vorig jaar is aangesloten op huizen in de provincies Utrecht, Zuid-Holland en Zeeland. Het gaat om zo'n 1,7 miljoen nieuwe zonnepanelen, bijna een half miljoen meer dan een jaar eerder.",
+          "link": "https://www.nu.nl/economie/6298792/recordaantal-zonnepanelen-geplaatst-op-woningen-in-drie-provincies.html",
+          "publishedOn": "2024-01-23T08:07:17.000Z",
+          "wordCount": 2746,
+          "title": "Recordaantal zonnepanelen geplaatst op woningen in drie provincies",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/e9fxg2ya2o1t_sqr256.jpg/recordaantal-zonnepanelen-geplaatst-op-woningen-in-drie-provincies.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/e9fxg2ya2o1t_sqr256.jpg/recordaantal-zonnepanelen-geplaatst-op-woningen-in-drie-provincies.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6298778/",
           "author": "onze nieuwsredactie",
           "description": "Roompot en Landal GreenParks gaan banen schrappen, omdat de kantoororganisaties worden samengevoegd. Volgens vakbond FNV raakt de reorganisatie bijna driehonderd medewerkers. Daarvan zou ongeveer een derde het bedrijf moeten verlaten.",
@@ -8451,21 +8466,6 @@
             "url": "https://media.nu.nl/m/bymxb9qa2pia_sqr256.jpg/maersk-gaat-routes-via-rode-zee-en-suezkanaal-heropenen.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/bymxb9qa2pia_sqr256.jpg/maersk-gaat-routes-via-rode-zee-en-suezkanaal-heropenen.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6295529/",
-          "author": "onze nieuwsredactie",
-          "description": "Maersk is begonnen met de voorbereidingen om zijn routes door Rode Zee en het Suezkanaal te hervatten, laat het bedrijf zondag weten. Vanwege de aanvallen op vrachtschepen door Jemenitische Houthi-rebellen besloot de containervervoerder eerder deze maand om de Rode Zee te mijden.",
-          "link": "https://www.nu.nl/economie/6295529/maersk-gaat-routes-door-rode-zee-en-suezkanaal-heropenen.html",
-          "publishedOn": "2023-12-24T20:06:06.000Z",
-          "wordCount": 2623,
-          "title": "Maersk gaat routes door Rode Zee en Suezkanaal heropenen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/bymxb9qa2pia_sqr256.jpg/maersk-gaat-routes-door-rode-zee-en-suezkanaal-heropenen.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/bymxb9qa2pia_sqr256.jpg/maersk-gaat-routes-door-rode-zee-en-suezkanaal-heropenen.jpg"
         }
       ]
     },
@@ -28708,51 +28708,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/74T73V45h-XerpSRhkutbe0FUZk=/1500x1000/GettyImages-1025886228-b8d5972058624f4a91d16d6bbddf5ff4.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/08/how-often-to-exchange-rates-fluctuate.asp",
-          "author": "Selwyn M. Gishen",
-          "description": "Exchange rates fluctuate constantly in the international currency markets. Find out more.",
-          "link": "https://www.investopedia.com/ask/answers/08/how-often-to-exchange-rates-fluctuate.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-24T20:06:10.000Z",
-          "wordCount": 6650,
-          "title": "How Often Do Exchange Rates Fluctuate?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/KPKO0_-NkjgtYgF-zEv0T4SGt9k=/285x260/forex-lrg-2-5bfc2b2246e0fb0026015860.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/KPKO0_-NkjgtYgF-zEv0T4SGt9k=/285x260/forex-lrg-2-5bfc2b2246e0fb0026015860.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/fx/11/stages-of-a-forex-trend.asp",
-          "author": "Selwyn M. Gishen",
-          "description": "How to identify the stages of the many types of trends that occur in the forex market.",
-          "link": "https://www.investopedia.com/articles/fx/11/stages-of-a-forex-trend.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-24T19:54:11.000Z",
-          "wordCount": 7276,
-          "title": "The Stages of a Forex Trend",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/z2J1YhaMNk3nRLSmBB6HzfrPnVc=/205x136/forex8-5bfc2b9046e0fb0026016f83.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/z2J1YhaMNk3nRLSmBB6HzfrPnVc=/205x136/forex8-5bfc2b9046e0fb0026016f83.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/l/longhedge.asp",
-          "author": "James Chen",
-          "description": "A long hedge is a situation wherein an investor has to take a long position in futures contracts in order to hedge against future price volatility.",
-          "link": "https://www.investopedia.com/terms/l/longhedge.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-24T19:44:51.000Z",
-          "wordCount": 6072,
-          "title": "Long Hedge: What It Is, How It Works, Example",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Ot5rXRx79q_WIIZpXSpXCS94AJE=/680x440/122574802-5bfc2b8d46e0fb0026016ef5.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Ot5rXRx79q_WIIZpXSpXCS94AJE=/680x440/122574802-5bfc2b8d46e0fb0026016ef5.jpg"
         }
       ]
     },
@@ -28761,6 +28716,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "bitcoin-dropped-20-since-landmark-004521169.html",
+          "author": null,
+          "description": "(Bloomberg) -- Bitcoin has fallen almost 20% since the Jan. 11 launch of the first exchange-traded funds investing directly in the token as speculators become more cautious about the potential impact of the products.Most Read from BloombergChina Weighs Stock Market Rescue Package Backed by $278 BillionFlorida Governor DeSantis Drops Out of 2024 Race, Endorses TrumpHong Kong Stocks at 36% Discount Show True Depth of China GloomIndia Tops Hong Kong as World’s Fourth-Largest Stock MarketMorgan Stan",
+          "link": "https://finance.yahoo.com/news/bitcoin-dropped-20-since-landmark-004521169.html",
+          "publishedOn": "2024-01-23T06:15:01.000Z",
+          "wordCount": 18408,
+          "title": "Bitcoin Has Dropped About 20% Since Landmark US Spot ETFs Began Trading",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/DY6sUjcSp70JOXD_5NW7TA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/86cf6cb6e85e2653b3870309c8aba275"
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
@@ -28840,6 +28805,16 @@
           "wordCount": 10304,
           "title": "1 Beaten-Down Dividend Stock Passive Income Investors Can Buy Now and Hold Forever",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/LcO2ENFyrmFq7GXWe9QwIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NTc-/https://media.zenfs.com/en/motleyfool.com/148682f57ffa0d9f0b771a46d6328087"
+        },
+        {
+          "id": "great-news-fisker-stock-investors-214416269.html",
+          "author": null,
+          "description": "Fisker made an excellent deal with a strategic investor to reduce long-term debt.",
+          "link": "https://finance.yahoo.com/news/great-news-fisker-stock-investors-214416269.html",
+          "publishedOn": "2024-01-22T21:44:16.000Z",
+          "wordCount": 18173,
+          "title": "Great News for Fisker Stock Investors!",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/51hpRxizOKxVwNJlpMXi2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/90885eca2ac9d5cc75903130e76df445"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -29670,6 +29645,16 @@
           "wordCount": null,
           "title": "Macy’s Stock Rises After Rejecting Private Equity Buyout. Why It’s Just the Beginning.",
           "imageUrl": null
+        },
+        {
+          "id": "recession-indicator-ringing-most-severe-095300614.html",
+          "author": null,
+          "description": "The risk of recession remains elevated despite the stock market's tremendous performance in 2023.",
+          "link": "https://finance.yahoo.com/news/recession-indicator-ringing-most-severe-095300614.html",
+          "publishedOn": "2024-01-22T09:53:00.000Z",
+          "wordCount": 11117,
+          "title": "This Recession Indicator Is Ringing Its Most Severe Alarm in 40 Years. Here's What It Could Mean for the Stock Market.",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/iVtn_KNHf3QRZa5CXgQrOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/motleyfool.com/553e8d56d73dcebc11d098d5e5d5db9f"
         },
         {
           "id": "stock-split-watch-3-supercharged-094500423.html",
