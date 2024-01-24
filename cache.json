@@ -851,6 +851,26 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "588d9d9c7ccad07810a432ef5f7ff5a0",
+          "author": "Investopedia",
+          "description": "Tesla is due to post results after the closing bell, Netflix's booming subscriber growth sparked a share price surge, AT&T earnings fell short of expectations, eBay plans staffing cuts and ASML's rise in orders highlights chip industry strength. What investors need to know today.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df5623419678813cd2995761c2f43eb7e1ae2ff2ed803ee826e8241a832656450158b0a1f88b23149187e2fa8e98ca",
+          "publishedOn": "2024-01-24T14:12:31.226Z",
+          "wordCount": 409,
+          "title": "5 Things to Know Before The Stock Market Opens",
+          "imageUrl": null
+        },
+        {
+          "id": "58204d8e4cc703f0dd5a6a672059f13c",
+          "author": "Investopedia",
+          "description": "Stock futures rose in premarket trading Wednesday as solid earnings reports from Netflix and AI chip linchpin ASML Holding brightened the mood on Wall Street.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c2140e9164d768e3c60f73118f33c16588",
+          "publishedOn": "2024-01-24T14:12:31.031Z",
+          "wordCount": 409,
+          "title": "Dow Jones Today: Stock Futures Rise as Netflix, ASML Soar on Earnings",
+          "imageUrl": null
+        },
+        {
           "id": "651f4b685261ec6aebc3d21143ddb6cf",
           "author": "Investopedia",
           "description": "eBay shares gained after the e-commerce giant unveiled plans to slash 9% of its workforce. Here are key chart levels to watch.",
@@ -2077,6 +2097,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6298850/",
+          "author": "Rutger Otto",
+          "description": "Het wordt weer een belangrijk jaar voor AI. In november zijn er Amerikaanse presidentsverkiezingen. Maatregelen moeten manipulatie en beïnvloeding door middel van kunstmatige intelligentie voorkomen. ChatGPT-maker OpenAI blokkeerde deze week al een chatbot die zich voordeed als presidentskandidaat.",
+          "link": "https://www.nu.nl/tech/6298850/in-aanloop-naar-amerikaanse-presidentsverkiezingen-is-ai-strijd-begonnen.html",
+          "publishedOn": "2024-01-24T14:10:23.000Z",
+          "wordCount": 3406,
+          "title": "NU+ | In aanloop naar Amerikaanse presidentsverkiezingen is AI-strijd begonnen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/fnfx5u1ahy1b_sqr256.jpg/in-aanloop-naar-amerikaanse-presidentsverkiezingen-is-ai-strijd-begonnen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/fnfx5u1ahy1b_sqr256.jpg/in-aanloop-naar-amerikaanse-presidentsverkiezingen-is-ai-strijd-begonnen.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6298956/",
           "author": "Thijs Rösken",
@@ -8849,6 +8884,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/m/mortgageexcessservicing.asp",
+          "author": "Julia Kagan",
+          "description": "Mortgage excess servicing is a fee paid to the loan servicers of mortgage backed securities (MBS).",
+          "link": "https://www.investopedia.com/terms/m/mortgageexcessservicing.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-24T13:42:05.000Z",
+          "wordCount": 6227,
+          "title": "Mortgage Excess Servicing: What It Is, How It Works",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/tI9WeqzmQH4Gnu7n9DqftkCYKp8=/380x254/high-school-students-5bfc2b8b46e0fb0083c07b7d.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/tI9WeqzmQH4Gnu7n9DqftkCYKp8=/380x254/high-school-students-5bfc2b8b46e0fb0083c07b7d.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/articles/stocks/08/short-squeeze-profits.asp",
+          "author": "Reyna Gobel",
+          "description": "Trading a short squeeze can be risky but also very rewarding for those who master it.",
+          "link": "https://www.investopedia.com/articles/stocks/08/short-squeeze-profits.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-24T13:18:33.000Z",
+          "wordCount": 6490,
+          "title": "How to Trade a Short Squeeze",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/qp1cUnJ7O37zGNnTzaXOOH7d_bo=/380x254/148985994-5bfc3945c9e77c00587aca9d.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/qp1cUnJ7O37zGNnTzaXOOH7d_bo=/380x254/148985994-5bfc3945c9e77c00587aca9d.jpg"
+        },
         {
           "id": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-january-24-2024-8548443",
           "author": "Staff Author",
@@ -29338,36 +29403,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/IBGRmhRO5ahUgiDd6caG7FD6OUA=/3843x2562/INV_IPOs2023_GettyImages-1269256867-8eef490032224d99ac381a897fdb38f5.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/b/buytoopen.asp",
-          "author": "James Chen",
-          "description": "\"Buy to open\" is a term used by many brokerages to represent the opening of a long call or put position in options transactions.",
-          "link": "https://www.investopedia.com/terms/b/buytoopen.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-26T02:03:26.000Z",
-          "wordCount": 6502,
-          "title": "Buy to Open: Definition, What It Means in Trading, and Example",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/HomE-JFEbxCXO_rud-e84fAXSMs=/680x440/77005273-5bfc2b8d4cedfd0026c11921.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/HomE-JFEbxCXO_rud-e84fAXSMs=/680x440/77005273-5bfc2b8d4cedfd0026c11921.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/d/discrete-distribution.asp",
-          "author": "Julie Young",
-          "description": "A discrete distribution is a statistical distribution that shows the probabilities of outcomes with finite values.",
-          "link": "https://www.investopedia.com/terms/d/discrete-distribution.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-26T01:49:36.000Z",
-          "wordCount": 8006,
-          "title": "Discrete Probability Distribution: Overview and Examples",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/qNyI0n5NNuKfyl7cJdSIBq5wqVE=/4000x2700/discrete-distribution.asp_final-087ae467bd564fb9bd501b06d6742966.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/qNyI0n5NNuKfyl7cJdSIBq5wqVE=/4000x2700/discrete-distribution.asp_final-087ae467bd564fb9bd501b06d6742966.png"
         }
       ]
     },
@@ -29377,6 +29412,56 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "alibaba-stock-price-buy-sell-jack-ma-7e392978?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/alibaba-stock-price-buy-sell-jack-ma-7e392978?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-01-24T13:25:00.000Z",
+          "wordCount": null,
+          "title": "Alibaba Stock Jumps as Jack Ma Buys Shares. Should Investors Do the Same?",
+          "imageUrl": null
+        },
+        {
+          "id": "abbott-earnings-stock-price-70232934?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/abbott-earnings-stock-price-70232934?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-01-24T13:01:00.000Z",
+          "wordCount": null,
+          "title": "Abbott Laboratories Stock Is Down. Earnings, Sales Aren’t the Problem.",
+          "imageUrl": null
+        },
+        {
+          "id": "3-growth-stocks-under-100-130000540.html",
+          "author": null,
+          "description": "These stocks are trading at significantly reduced prices compared to where they were a few years ago.",
+          "link": "https://finance.yahoo.com/news/3-growth-stocks-under-100-130000540.html",
+          "publishedOn": "2024-01-24T13:00:00.000Z",
+          "wordCount": 18828,
+          "title": "3 Growth Stocks Under $100 to Buy and Hold for Years",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/URIoKI1F7dZgIXJcdT06xw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/d6ab37a030ce17b89db062277333154a"
+        },
+        {
+          "id": "chemicals-maker-dupont-tumbles-prelim-125901805.html",
+          "author": null,
+          "description": "The multi-industrial chemical company expects to report a loss from continuing operations in between 220 million and $370 million, compared to a reported profit of $105 million last year.  DuPont and its peers have been hit by destocking, which follows excess inventory built up during the COVID-19 pandemic and weaknesses in key markets such as China and Europe.  DuPont expects destocking to continue to weigh on sales into the first quarter of 2024.",
+          "link": "https://finance.yahoo.com/news/chemicals-maker-dupont-tumbles-prelim-125901805.html",
+          "publishedOn": "2024-01-24T12:59:01.000Z",
+          "wordCount": 18144,
+          "title": "Chemicals-maker DuPont tumbles as prelim quarterly results disappoint",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/27f383106880c66bd85fc76d91359be9"
+        },
+        {
+          "id": "forget-nvidia-stock-poised-potential-124500775.html",
+          "author": null,
+          "description": "This company is gearing up to challenge Nvidia's position in AI this year.",
+          "link": "https://finance.yahoo.com/news/forget-nvidia-stock-poised-potential-124500775.html",
+          "publishedOn": "2024-01-24T12:45:00.000Z",
+          "wordCount": 18902,
+          "title": "Forget Nvidia: This Stock Is Poised for a Potential Bull Run in 2024",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/88eefdc578c69fa89dd7edd5f74ff9c2"
+        },
+        {
           "id": "3-high-growth-stocks-could-124500539.html",
           "author": null,
           "description": "There's every reason to believe these companies' business models will allow them to reach this lauded size within the coming decade.",
@@ -29385,6 +29470,16 @@
           "wordCount": 19307,
           "title": "3 High-Growth Stocks That Could Be Worth $1 Trillion in 10 Years -- or Sooner",
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/b43b79859be36213c0b031d5ffc6752d"
+        },
+        {
+          "id": "abbotts-strong-medical-device-sales-123425202.html",
+          "author": null,
+          "description": "Abbott Laboratories on Wednesday reported a fourth-quarter profit that met Wall Street estimates as strong demand for medical devices offset lower-than-expected sales in its pharmaceuticals unit. Excluding items, Abbott's profit was in line with the average of analysts' estimates of $1.19 per share, according to LSEG data. Abbott also forecast 2024 adjusted profit in the range of $4.50 to $4.70 per share, compared with analysts' estimate of $4.64 per share.",
+          "link": "https://finance.yahoo.com/news/abbotts-strong-medical-device-sales-123425202.html",
+          "publishedOn": "2024-01-24T12:34:25.000Z",
+          "wordCount": 18016,
+          "title": "Abbott forecasts lackluster 2024 earnings, shares down",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/051f6f8e94a95ab2a5fbbbc73ac61411"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -29505,6 +29600,16 @@
           "wordCount": 19046,
           "title": "A New Bull Market Is Here: 2 Super Stocks to Buy in February (and Beyond)",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/mc7O81F8JwqCygTb0bTAEg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/7cb8a8bfd9a9207164f22b91eb82d257"
+        },
+        {
+          "id": "1-unstoppable-cryptocurrency-buy-soars-112800453.html",
+          "author": null,
+          "description": "Fundstrat's Tom Lee has made some incredible calls over the years, and he's out with a fresh prediction for Bitcoin.",
+          "link": "https://finance.yahoo.com/news/1-unstoppable-cryptocurrency-buy-soars-112800453.html",
+          "publishedOn": "2024-01-24T11:28:00.000Z",
+          "wordCount": 18734,
+          "title": "1 Unstoppable Cryptocurrency to Buy Before It Soars 1,120%, According to This Wall Street Analyst",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/BXI3A6jy2DHt7GaCpf3R9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTQ-/https://media.zenfs.com/en/motleyfool.com/525e7c3ef00e665302d1e93d2a972ad1"
         },
         {
           "id": "ARGUS_38895_TopBottomInsiderActivity_1706095440000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
