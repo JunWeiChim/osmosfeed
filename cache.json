@@ -2058,6 +2058,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "https://www.nu.nl/-/6299073/",
+          "author": "Tom van Gurp",
+          "description": "De eerste proeverijen met kweekvlees kunnen mogelijk binnenkort al worden gehouden. De eerste aanvraag hiervoor is onlangs ingediend bij een commissie die hier speciaal voor is opgericht.",
+          "link": "https://www.nu.nl/economie/6299073/binnenkort-kun-je-mogelijk-vlees-uit-een-laboratorium-proeven.html",
+          "publishedOn": "2024-01-25T11:16:11.000Z",
+          "wordCount": 2574,
+          "title": "Binnenkort kun je mogelijk vlees uit een laboratorium proeven",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/sb4xmpgawxx8_sqr256.jpg/binnenkort-kun-je-mogelijk-vlees-uit-een-laboratorium-proeven.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/sb4xmpgawxx8_sqr256.jpg/binnenkort-kun-je-mogelijk-vlees-uit-een-laboratorium-proeven.jpg"
+        },
+        {
           "id": "https://www.nu.nl/-/6299055/",
           "author": "Tom van Gurp",
           "description": "De Amerikaanse Boeings die de afgelopen weken aan de grond moesten blijven vanwege een incident met een wegvliegend onderdeel, mogen na een inspectieronde weer de lucht in. Wel komt er voorlopig een streep door de productie-uitbreiding van 737 MAX-modellen.",
@@ -8971,21 +8986,6 @@
             "url": "https://media.nu.nl/m/dgux80yaasp9_sqr256.jpg/loonsverhoging-zonder-cao-zo-regel-jij-dat.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/dgux80yaasp9_sqr256.jpg/loonsverhoging-zonder-cao-zo-regel-jij-dat.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6295659/",
-          "author": "onze nieuwsredactie",
-          "description": "De benzineprijs aan de Nederlandse pomp valt dit jaar waarschijnlijk zo'n 6 procent hoger uit ten opzichte van Oudjaarsdag 2022. Met nog een paar dagen te gaan tot de jaarwisseling staat de landelijke adviesprijs dinsdag op 2,054 euro.",
-          "link": "https://www.nu.nl/economie/6295659/landelijke-adviesprijs-benzine-valt-6-procent-hoger-uit-dan-vorig-jaar.html",
-          "publishedOn": "2023-12-27T00:01:38.000Z",
-          "wordCount": 2533,
-          "title": "Landelijke adviesprijs benzine valt 6 procent hoger uit dan vorig jaar",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/ig4x9anajksh_sqr256.jpg/landelijke-adviesprijs-benzine-valt-6-procent-hoger-uit-dan-vorig-jaar.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/ig4x9anajksh_sqr256.jpg/landelijke-adviesprijs-benzine-valt-6-procent-hoger-uit-dan-vorig-jaar.jpg"
         }
       ]
     },
@@ -8994,6 +8994,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/ibm-stock-surges-as-ai-demand-boosts-revenue-outlook-key-price-levels-to-monitor-8549546",
+          "author": "Timothy Smith",
+          "description": "IBM's stock price jumped after delivering better-than-expected quarterly earnings and full-year sales guidance. Here are key chart levels to monitor.",
+          "link": "https://www.investopedia.com/ibm-stock-surges-as-ai-demand-boosts-revenue-outlook-key-price-levels-to-monitor-8549546?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-25T12:10:57.000Z",
+          "wordCount": 5432,
+          "title": "IBM Stock Surges as AI Demand Boosts Revenue Outlook—Key Price Levels to Monitor",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/E6a0EI0UBzlpU0lF2ayx3EK8mN4=/4000x2662/GettyImages-1252213663-f631cb2227594218b76e5682d8cfef1c.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/E6a0EI0UBzlpU0lF2ayx3EK8mN4=/4000x2662/GettyImages-1252213663-f631cb2227594218b76e5682d8cfef1c.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/tesla-stock-plunges-as-2024-volume-growth-hits-the-brakes-key-price-levels-to-monitor-8549558",
+          "author": "Timothy Smith",
+          "description": "Tesla shares fell sharply in pre-market trading Thursday after the maker of electric vehicles said it expects lower vehicle volume growth this year. Monitor these key chart levels.",
+          "link": "https://www.investopedia.com/tesla-stock-plunges-as-2024-volume-growth-hits-the-brakes-key-price-levels-to-monitor-8549558?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-25T11:48:27.000Z",
+          "wordCount": 5502,
+          "title": "Tesla Stock Plunges as 2024 Volume Growth Hits the Brakes—Key Price Levels to Monitor",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/eNMxbX4LJuM6-NubCfte6VY_Vf4=/5320x3547/GettyImages-1768359670-982f85174a5542f6b7dcf355997dfd83.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/eNMxbX4LJuM6-NubCfte6VY_Vf4=/5320x3547/GettyImages-1768359670-982f85174a5542f6b7dcf355997dfd83.jpg"
+        },
         {
           "id": "https://www.investopedia.com/articles/stocks/08/investing-in-healthcare.asp",
           "author": "Kristina Zucchi",
@@ -29792,6 +29822,56 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "humana-earnings-stock-price-b206aae5?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/humana-earnings-stock-price-b206aae5?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-01-25T11:50:00.000Z",
+          "wordCount": null,
+          "title": "Humana Stock Falls After Shock Loss and Grim Outlook. Blame Medicare Advantage.",
+          "imageUrl": null
+        },
+        {
+          "id": "1-technology-stock-created-millionaires-111000537.html",
+          "author": null,
+          "description": "The advent of artificial intelligence has forced the world to rethink what's possible and how things get done.",
+          "link": "https://finance.yahoo.com/news/1-technology-stock-created-millionaires-111000537.html",
+          "publishedOn": "2024-01-25T11:10:00.000Z",
+          "wordCount": 18933,
+          "title": "1 Technology Stock That Has Created Millionaires, and Will Continue to Make More",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/IP77jWoVHIVYSkm.W1cbSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/2a207ace2af7ec8dbf5f1a3fd35a3b59"
+        },
+        {
+          "id": "nokia-sales-profit-drop-economic-105022395.html",
+          "author": null,
+          "description": "Nokia on Thursday reported a double-digit decline in sales and a fall in profit in the last three months of 2023, with the wireless and fixed-network equipment maker saying operators are cutting back on investments into 5G and other technology because of economic uncertainty.  Nokia is one of the world’s main suppliers of 5G, the latest generation of broadband technology, along with Sweden’s Ericsson, China’s Huawei and South Korea’s Samsung.  Nokia's net income attributable to shareholders came in at 558 million euros in the fourth quarter, down from 931 million euros the previous year.",
+          "link": "https://finance.yahoo.com/news/nokia-sales-profit-drop-economic-105022395.html",
+          "publishedOn": "2024-01-25T10:50:22.000Z",
+          "wordCount": 18297,
+          "title": "Nokia sales and profit drop as economic challenges lead to cutback on 5G investment",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        },
+        {
+          "id": "could-buying-18-yielding-dividend-105000523.html",
+          "author": null,
+          "description": "This REIT has had nothing but bad news for a while. But could a rebound be on the way?",
+          "link": "https://finance.yahoo.com/news/could-buying-18-yielding-dividend-105000523.html",
+          "publishedOn": "2024-01-25T10:50:00.000Z",
+          "wordCount": 18765,
+          "title": "Could Buying 18%-Yielding Dividend Stock Medical Properties Trust Be a Smart Move Right Now?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/sCvLuXFNXBfDDOEIkGwG9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/3a7e263aa4ff8dbb259a929d9aed4f63"
+        },
+        {
+          "id": "3-stocks-buffett-buying-list-102500008.html",
+          "author": null,
+          "description": "The Oracle of Omaha hasn't done a great deal of buying lately, making Berkshire's recent purchases all the more noteworthy.",
+          "link": "https://finance.yahoo.com/news/3-stocks-buffett-buying-list-102500008.html",
+          "publishedOn": "2024-01-25T10:25:00.000Z",
+          "wordCount": 19045,
+          "title": "3 Stocks Buffett Is Buying That Should Be on Your List, Too",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/4ctSu4ONKERAtyvUr6beqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/f612f3cf9f7c5410d1ec90ac343728e4"
+        },
+        {
           "id": "want-600-super-safe-dividend-100600014.html",
           "author": null,
           "description": "These top-tier income stocks, which sport an average yield of 7.51%, can fatten investors' wallets in the new year (and likely well beyond).",
@@ -29820,6 +29900,16 @@
           "wordCount": 18919,
           "title": "Cathie Wood Has 12% of Ark Invest's Portfolio Invested in 2 Growth Stocks",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/npxFeAZY26O_.TZR4w5G.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/c19d187af3a8922ec83c70daa005f1f8"
+        },
+        {
+          "id": "why-one-giant-regional-bank-no-longer-wants-to-be-a-regional-bank-090015924.html",
+          "author": null,
+          "description": "The boss of the nation's sixth-largest lender is making it clear that his bank needs to get even bigger in the wake of the industry's 2023 crisis.",
+          "link": "https://finance.yahoo.com/news/why-one-giant-regional-bank-no-longer-wants-to-be-a-regional-bank-090015924.html",
+          "publishedOn": "2024-01-25T09:00:15.000Z",
+          "wordCount": 19482,
+          "title": "Why one giant regional bank no longer wants to be a regional bank",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Ni6eFvsJ1vdVlrlBOW9mfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/6dc02260-bad6-11ee-beff-39fb37c1ba3b"
         },
         {
           "id": "nokia-says-network-infrastructure-demand-071501061.html",
@@ -29909,6 +29999,16 @@
           "publishedOn": "2024-01-25T00:39:00.000Z",
           "wordCount": null,
           "title": "Dow Jones Futures: Tesla Tumbles On Earnings, CEO Elon Musk Comments",
+          "imageUrl": null
+        },
+        {
+          "id": "american-airlines-earnings-stock-price-5d0b2980?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/american-airlines-earnings-stock-price-5d0b2980?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-01-25T00:00:00.000Z",
+          "wordCount": null,
+          "title": "American Airlines Earnings Are Due Thursday. The Stock Needs Some Good News.",
           "imageUrl": null
         },
         {
@@ -53100,26 +53200,6 @@
           "wordCount": 10557,
           "title": "OPEC+ can't cut oil production enough to push crude prices higher, energy expert says",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/bfE2WJAQ3plxpwjifIA2Wg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/79d2108049d57339b13f5ce3fc38e4fb"
-        },
-        {
-          "id": "california-pizza-huts-lay-off-234021911.html",
-          "author": null,
-          "description": "Fast-food workers in the state are set to get a pay bump of close to 30% in April as the minimum wages rises from $16 to $20 an hour.",
-          "link": "https://finance.yahoo.com/news/california-pizza-huts-lay-off-234021911.html",
-          "publishedOn": "2023-12-26T23:40:21.000Z",
-          "wordCount": 10373,
-          "title": "California Pizza Huts lay off all delivery drivers ahead of minimum wage increase",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/g.jeQKpbEePDyudKXTsL8Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NzM-/https://media.zenfs.com/en/usa_today_money_325/a1143dd68842524ca1064610abef58e3"
-        },
-        {
-          "id": "1-magnificent-artificial-intelligence-ai-231828801.html",
-          "author": null,
-          "description": "Artificial intelligence (AI) could again be the hottest investing trend in 2024.",
-          "link": "https://finance.yahoo.com/news/1-magnificent-artificial-intelligence-ai-231828801.html",
-          "publishedOn": "2023-12-26T23:18:28.000Z",
-          "wordCount": 10336,
-          "title": "1 Magnificent Artificial Intelligence (AI) Stock to Buy Enthusiastically for 2024",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/R8xFOemM85gMSnt7ywE26w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/motleyfool.com/ccf1570952973f261d1f6092dbb0dae5"
         }
       ]
     }
