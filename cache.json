@@ -2059,16 +2059,6 @@
           "wordCount": 409,
           "title": "5 Things to Know Before The Stock Market Opens",
           "imageUrl": null
-        },
-        {
-          "id": "e621f5cb8301f240eabc88f6eeb06743",
-          "author": "Investopedia",
-          "description": "U.S. equities made small gains, with the S&P 500 up 0.1%, as the market continued to be fueled by optimism about possible Federal Reserve rate cuts in 2024.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca952ac6ec1be84c74ddde68eef53b24815712c23e8175bd9d513841c826943d9c870a68c2f230ffe1ec6df6e08b60a823ed2f03cf2d021b5602f9e0e5cd724ac5d3fbb1d2cd8b8206038617c09b6f77c53e7a7bc5ce05d8",
-          "publishedOn": "2023-12-27T23:12:01.935Z",
-          "wordCount": 409,
-          "title": "S&P 500 Gains and Losses: An Update to the Model Y Sends Tesla Shares Higher",
-          "imageUrl": null
         }
       ]
     },
@@ -2077,6 +2067,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6299188/",
+          "author": "José Boon",
+          "description": "Schiphol moet veel minder CO2 uitstoten om de klimaatdoelen van Parijs voor 2030 te halen. Het is \"essentieel\" dat de vervuiler meer gaat betalen voor de reis, concludeert de luchthaven zelf.",
+          "link": "https://www.nu.nl/klimaat/6299188/schiphol-wil-dat-vervuiler-gaat-betalen-om-co2-uitstoot-terug-te-dringen.html",
+          "publishedOn": "2024-01-26T12:17:23.000Z",
+          "wordCount": 3353,
+          "title": "Schiphol wil dat vervuiler gaat betalen om CO2-uitstoot terug te dringen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/1qfxu7yaa0gf_sqr256.jpg/schiphol-wil-dat-vervuiler-gaat-betalen-om-co2-uitstoot-terug-te-dringen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/1qfxu7yaa0gf_sqr256.jpg/schiphol-wil-dat-vervuiler-gaat-betalen-om-co2-uitstoot-terug-te-dringen.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6299194/",
+          "author": "onze economieredactie",
+          "description": "Hondenbezitters hoeven in steeds minder gemeenten belasting te betalen. Dit jaar heffen 121 van de 342 gemeenten hondenbelasting. Afgelopen jaar waren dat er nog 136. Daar staat tegenover dat de belasting in 92 gemeenten is gestegen.",
+          "link": "https://www.nu.nl/economie/6299194/hondenbelasting-wordt-in-steeds-meer-gemeenten-afgeschaft.html",
+          "publishedOn": "2024-01-26T11:49:41.000Z",
+          "wordCount": 2736,
+          "title": "Hondenbelasting wordt in steeds meer gemeenten afgeschaft",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/hjmxxhuan5z9_sqr256.jpg/hondenbelasting-wordt-in-steeds-meer-gemeenten-afgeschaft.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/hjmxxhuan5z9_sqr256.jpg/hondenbelasting-wordt-in-steeds-meer-gemeenten-afgeschaft.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6299101/",
           "author": "Rianne Lachmeijer",
@@ -9089,6 +9109,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/intel-stock-slides-amid-grim-first-quarter-outlook-key-price-levels-to-watch-8550179",
+          "author": "Timothy Smith",
+          "description": "Intel shares fell sharply after the chipmaker issued a soft first quarter outlook. Here are important chart levels to watch.",
+          "link": "https://www.investopedia.com/intel-stock-slides-amid-grim-first-quarter-outlook-key-price-levels-to-watch-8550179?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-26T11:49:57.000Z",
+          "wordCount": 5563,
+          "title": "Intel Stock Slides Amid Grim First Quarter Outlook—Key Price Levels to Watch",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/dveqBIxF9Cd0wldt2fBbGlnkDUg=/1024x683/GettyImages-81944962-02c9259946eb45cf8d36454d196672ed.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/dveqBIxF9Cd0wldt2fBbGlnkDUg=/1024x683/GettyImages-81944962-02c9259946eb45cf8d36454d196672ed.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/s/sensex.asp",
           "author": "Jason Fernando",
@@ -30193,51 +30228,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/GolrEBek-WFJzodlXDFpnhOUUR0=/2121x1414/businessmeeting-d45b5cb6ec1948cf82ee179939c1c105.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/investing/041515/why-federal-reserve-independent.asp",
-          "author": "Dan Blystone",
-          "description": "An overview of the independent status of the Federal Reserve and arguments for and against it.",
-          "link": "https://www.investopedia.com/articles/investing/041515/why-federal-reserve-independent.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-28T00:14:44.000Z",
-          "wordCount": 7729,
-          "title": "Why Is the Federal Reserve Independent?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ZuQXE90mhddmzlAQSagfmrMc50w=/4735x3158/federal-reserve-building-in-washington-dc-939248364-5334c5971cb845ecb66f7684f3429c71.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ZuQXE90mhddmzlAQSagfmrMc50w=/4735x3158/federal-reserve-building-in-washington-dc-939248364-5334c5971cb845ecb66f7684f3429c71.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/ask/answers/040615/why-productivity-important-concept-economics.asp",
-          "author": "Sean Ross",
-          "description": "See why the concept of productivity is so crucial to understanding economic growth, and why a standard of living directly corresponds to productivity.",
-          "link": "https://www.investopedia.com/ask/answers/040615/why-productivity-important-concept-economics.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-27T23:46:22.000Z",
-          "wordCount": 7193,
-          "title": "Why Is Productivity Important in Economics?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Hp-TNiAaCwVshhCYMWiZ9TxlxOM=/680x440/shutterstock_67023106-5bfc2b9846e0fb005144dd87.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Hp-TNiAaCwVshhCYMWiZ9TxlxOM=/680x440/shutterstock_67023106-5bfc2b9846e0fb005144dd87.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/trading/intro-to-open-interest-in-futures-market/",
-          "author": "Mary Hall",
-          "description": "Learn about open interest, a concept used to confirm trends and trend reversals for futures and options contracts.",
-          "link": "https://www.investopedia.com/trading/intro-to-open-interest-in-futures-market/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2023-12-27T23:34:44.000Z",
-          "wordCount": 7373,
-          "title": "Intro to Open Interest in the Futures Market",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ge82rszMC1DlZAqiGHzvzGROSjQ=/1500x998/GettyImages-175520675-0dad5efc54c141c5b291a69c5d52d554.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ge82rszMC1DlZAqiGHzvzGROSjQ=/1500x998/GettyImages-175520675-0dad5efc54c141c5b291a69c5d52d554.jpg"
         }
       ]
     },
@@ -30247,6 +30237,86 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "eyes-nvidia-artificial-intelligence-ai-112300413.html",
+          "author": null,
+          "description": "Semiconductor stocks performed well in 2023 fueled by demand in AI.",
+          "link": "https://finance.yahoo.com/news/eyes-nvidia-artificial-intelligence-ai-112300413.html",
+          "publishedOn": "2024-01-26T11:23:00.000Z",
+          "wordCount": 18990,
+          "title": "With All Eyes on Nvidia and Artificial Intelligence (AI), This ETF Can Help You Turn $300 Per Month Into $259,000 Without Lifting a Finger",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/daBsy4onwfh8MHN33yYQCA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/motleyfool.com/406fc732489c18f57701d44f391dbd32"
+        },
+        {
+          "id": "1-top-growth-stock-down-111500621.html",
+          "author": null,
+          "description": "A leadership position in its niche, a top-tier margin profile, and strong free-cash-flow creation -- all available at an 80% discount.",
+          "link": "https://finance.yahoo.com/news/1-top-growth-stock-down-111500621.html",
+          "publishedOn": "2024-01-26T11:15:00.000Z",
+          "wordCount": 18911,
+          "title": "1 Top Growth Stock Down 80% to Buy in 2024 and Hold Forever",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/0cf4e006b68b287900dad91d54d6f7a7"
+        },
+        {
+          "id": "futures-fall-intel-forecast-hurts-111015062.html",
+          "author": null,
+          "description": "Intel lost 11.3% in premarket trading after forecasting that its first-quarter revenue could miss estimates by over $2 billion, driving 1.2%-2.5% losses in other chip stocks including Nvidia, Advanced Micro Devices, Qualcomm and Micron Technology.  This, along with Tesla's growth warning on Wednesday, likely deepened worries over rich valuations of heavily weighted megacap companies, also known as the \"Magnificent Seven\".",
+          "link": "https://finance.yahoo.com/news/futures-fall-intel-forecast-hurts-111015062.html",
+          "publishedOn": "2024-01-26T11:10:15.000Z",
+          "wordCount": 18421,
+          "title": "Futures fall as Intel forecast hurts chip stocks; inflation data eyed",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/6241dbc9648371e025657c696af7380b"
+        },
+        {
+          "id": "3-struggling-stocks-rise-between-111000083.html",
+          "author": null,
+          "description": "Are these stocks bargains, or just due for downgrades?",
+          "link": "https://finance.yahoo.com/news/3-struggling-stocks-rise-between-111000083.html",
+          "publishedOn": "2024-01-26T11:10:00.000Z",
+          "wordCount": 18901,
+          "title": "3 Struggling Stocks That Can Rise Between 83% and 264%, According to Wall Street",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/svNzjPTsEonMXzfS9dWRZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/b6cfabae25006ffcf5711e399b3b9da3"
+        },
+        {
+          "id": "55-1-warren-buffetts-370-110000212.html",
+          "author": null,
+          "description": "You won't find Buffett chasing the AI hype, but some companies in Berkshire Hathaway's portfolio are benefiting from the technology.",
+          "link": "https://finance.yahoo.com/news/55-1-warren-buffetts-370-110000212.html",
+          "publishedOn": "2024-01-26T11:00:00.000Z",
+          "wordCount": 19217,
+          "title": "55.1% of Warren Buffett's $370 Billion Stock Portfolio Is Invested in 4 Artificial Intelligence (AI) Stocks",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/hQf7LRATQCMzqiGtTGnguA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/336b7400e7df27662678c4817c7e2fbc"
+        },
+        {
+          "id": "intel-tumbles-dismal-forecast-weak-105425968.html",
+          "author": null,
+          "description": "Intel slumped nearly 12% on Friday reeling from a bleak first-quarter revenue outlook as the chipmaker struggles to navigate uncertain demand in traditional computing markets and attempts to play catch up in the AI race.  Analysts say that while plenty of businesses in the chip sector have been bullish lately, Intel becomes the exception on concerns that the company is late to the competition in data center AI.  Sales have been slowing in the PC and laptop processing chip market, which is Intel's bread and butter, said Russ Mould, investment director at AJ Bell.",
+          "link": "https://finance.yahoo.com/news/intel-tumbles-dismal-forecast-weak-105425968.html",
+          "publishedOn": "2024-01-26T10:54:25.000Z",
+          "wordCount": 18312,
+          "title": "Intel tumbles on dismal forecast, weak PC chip demand",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/f8ad73da1437182cd19fc35359ef2182"
+        },
+        {
+          "id": "tesla-stock-plunged-52-rejoin-105300471.html",
+          "author": null,
+          "description": "Trillion-dollar tech giants like Apple, Microsoft, Nvidia, and Alphabet are trading near record highs, but Tesla stock continues to slide.",
+          "link": "https://finance.yahoo.com/news/tesla-stock-plunged-52-rejoin-105300471.html",
+          "publishedOn": "2024-01-26T10:53:00.000Z",
+          "wordCount": 19326,
+          "title": "Tesla Stock Has Plunged 52%. Can It Rejoin the $1 Trillion Club in 2024?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/56c0M5yUJHYAOxvwrxhVRg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMTk5/https://media.zenfs.com/en/motleyfool.com/69909fd1f835f5737d81ceab797c5d02"
+        },
+        {
+          "id": "buy-3m-while-below-110-102600843.html",
+          "author": null,
+          "description": "Industrial giant 3M's stock remains in the doghouse even after a late 2023 rally. Is it worth buying?",
+          "link": "https://finance.yahoo.com/news/buy-3m-while-below-110-102600843.html",
+          "publishedOn": "2024-01-26T10:26:00.000Z",
+          "wordCount": 18845,
+          "title": "Should You Buy 3M While It's Below $110?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Q16lasMzBLPz3m08YPyyAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/dc28705f2485db135340e7ee26c504ec"
+        },
+        {
           "id": "tesla-just-car-company-time-102100401.html",
           "author": null,
           "description": "Despite being valued like an artificial intelligence (AI) and technology company, Tesla's profitability is heavily dependent on selling vehicles, just like a traditional auto stock.",
@@ -30255,6 +30325,16 @@
           "wordCount": 19400,
           "title": "Tesla Is Just a Car Company, and It's Time Wall Street Valued It as Such",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/OtCAz9Iczhsc3rcrC.5Ttw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/26e74c5408e90f9b8f687853825d2d13"
+        },
+        {
+          "id": "2-no-brainer-utility-stocks-100900670.html",
+          "author": null,
+          "description": "If you are looking for reliable dividend stocks, this pair of utilities are good options for dividend growth and reliability.",
+          "link": "https://finance.yahoo.com/news/2-no-brainer-utility-stocks-100900670.html",
+          "publishedOn": "2024-01-26T10:09:00.000Z",
+          "wordCount": 18798,
+          "title": "2 No-Brainer Utility Stocks to Buy With $1,000 Right Now",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/3o3QnuLiBOsWqSdvyTg81A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/a1c33165b9907a7da087e7585d75f2f6"
         },
         {
           "id": "83-warren-buffetts-365-billion-100600647.html",
@@ -30355,6 +30435,16 @@
           "wordCount": 18115,
           "title": "Western Digital Corp posts wider Q2 loss, sees impact of structural changes",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/fddfd8072698bb92da2e38ed5fed9b44"
+        },
+        {
+          "id": "jpmorgan-shuffles-executives-as-race-to-succeed-ceo-jamie-dimon-heats-up-230605697.html",
+          "author": null,
+          "description": "The nation's largest and most profitable bank is handing new responsibilities to some of its top executives as it gets closer to a time when it is no longer led by Jamie Dimon.",
+          "link": "https://finance.yahoo.com/news/jpmorgan-shuffles-executives-as-race-to-succeed-ceo-jamie-dimon-heats-up-230605697.html",
+          "publishedOn": "2024-01-25T23:06:05.000Z",
+          "wordCount": 19221,
+          "title": "JPMorgan shuffles executives as race to succeed CEO Jamie Dimon heats up",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/0Sq2T2cjk02nRrwBo7cbzg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/6ab59c70-bbd1-11ee-abff-9e0b9024c224"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -53795,46 +53885,6 @@
           "wordCount": null,
           "title": "You've got 'your head in the sand' to be bearish in this market, as investors move to greed from fear, Morgan Stanley portfolio manager says",
           "imageUrl": null
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/research/cheap-stocks-to-buy/?src=A00220&yptr=yahoo",
-          "publishedOn": "2023-12-27T23:30:16.000Z",
-          "wordCount": null,
-          "title": "Cheap Stocks To Buy: Should You Watch These 5 Growth Stocks? This Internet Stock Soars 83% In November",
-          "imageUrl": null
-        },
-        {
-          "id": "gm-sues-san-francisco-seeking-232410416.html",
-          "author": null,
-          "description": "General Motors has sued the city of San Francisco, seeking to recover more than $100 million, alleging that it was charged a higher tax bill than warranted because its Cruise self-driving car unit was improperly used to make the calculations.  In the case filed in California Superior Court in San Francisco, GM is seeking $108 million in back taxes over the course of seven years, as well as $13 million in penalties and interest, according to the complaint.  The Detroit automaker said San Francisco-based Cruise is operated separately from GM, generates only a minimal amount of sales and should not be used to calculate GM’s liabilities in the city where the parent company has a limited presence.",
-          "link": "https://finance.yahoo.com/news/gm-sues-san-francisco-seeking-232410416.html",
-          "publishedOn": "2023-12-27T23:24:10.000Z",
-          "wordCount": 10441,
-          "title": "GM sues San Francisco, seeking $121 million in back taxes, penalties",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/d4bfbc750ecc7d5cb37a091f698c2edf"
-        },
-        {
-          "id": "1-fantastic-dividend-stock-yielding-232346578.html",
-          "author": null,
-          "description": "Investing in this dividend stock could generate significant passive income for dividend stock investors in 2024 and beyond.",
-          "link": "https://finance.yahoo.com/news/1-fantastic-dividend-stock-yielding-232346578.html",
-          "publishedOn": "2023-12-27T23:23:46.000Z",
-          "wordCount": 10365,
-          "title": "1 Fantastic Dividend Stock Yielding Nearly 10% to Buy Hand Over Fist for 2024",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Ke_Txha_8xY0o4VBgdMXew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/4d9142063233ce185bd12e8b57ab37cc"
-        },
-        {
-          "id": "why-sofi-stock-could-amazing-232245047.html",
-          "author": null,
-          "description": "SoFi Technologies has numerous growth opportunities set for 2024.",
-          "link": "https://finance.yahoo.com/news/why-sofi-stock-could-amazing-232245047.html",
-          "publishedOn": "2023-12-27T23:22:45.000Z",
-          "wordCount": 10331,
-          "title": "Why SoFi Stock Could Have an Amazing 2024",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/dSxEzSM8O98KuSZZqh7iBw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/40e50644fcf857925b6a2519585c22a2"
         }
       ]
     }
