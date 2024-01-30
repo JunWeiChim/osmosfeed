@@ -851,6 +851,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "077e6aaa77b876d3127fb97405e03d45",
+          "author": "Investopedia",
+          "description": "Stock futures were lower in premarket trading on Tuesday ahead of fresh jobs data that could factor into discussion at the two-day Federal Reserve policymaking meeting that starts today.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c2140e9060d768e3c60f73118e39c46b89",
+          "publishedOn": "2024-01-30T14:11:09.617Z",
+          "wordCount": 409,
+          "title": "Dow Jones Today: Stock Futures Slip as Two-Day Fed Meeting Begins",
+          "imageUrl": null
+        },
+        {
           "id": "449d22d5f295d3b9b643be3e6d9f7106",
           "author": "Investopedia",
           "description": "Whirlpool shares retreated in pre-market trading Tuesday after the appliances maker announced 2024 sales and earnings forecasts that fell short of Wall street expectations, as higher expenses and competition from rivals weigh on the company's results.",
@@ -2127,6 +2137,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6299651/",
+          "author": "onze economieredactie",
+          "description": "De economische schade als gevolg van natuurrampen heeft in 2023 een recordhoogte van 350 miljard euro bereikt, blijkt uit onderzoek van verzekeringsmakelaar Aon. Slechts een derde hiervan werd gedekt door verzekeraars.",
+          "link": "https://www.nu.nl/economie/6299651/wereldwijde-schade-door-natuurrampen-loopt-op-tot-350-miljard-euro.html",
+          "publishedOn": "2024-01-30T13:41:12.000Z",
+          "wordCount": 2608,
+          "title": "Wereldwijde schade door natuurrampen loopt op tot 350 miljard euro",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/urdx3d4axn38_sqr256.jpg/wereldwijde-schade-door-natuurrampen-loopt-op-tot-350-miljard-euro.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/urdx3d4axn38_sqr256.jpg/wereldwijde-schade-door-natuurrampen-loopt-op-tot-350-miljard-euro.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6299647/",
+          "author": "José Boon",
+          "description": "Sabic Limburg heeft een boete van 10 miljoen euro gekregen vanwege de onveiligheid binnen het petrochemiebedrijf. Ook twee andere chemiebedrijven krijgen een boete. De rechtbank Oost-Brabant heeft de uitbater van het Limburgse Chemelot-terrein dinsdag juist vrijgesproken.",
+          "link": "https://www.nu.nl/economie/6299647/drie-boetes-voor-chemiebedrijven-op-chemelot-terrein-uitbater-vrijgesproken.html",
+          "publishedOn": "2024-01-30T13:34:27.000Z",
+          "wordCount": 2996,
+          "title": "Drie boetes voor chemiebedrijven op Chemelot-terrein, uitbater vrijgesproken",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/uazx70favqm7_sqr256.jpg/drie-boetes-voor-chemiebedrijven-op-chemelot-terrein-uitbater-vrijgesproken.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/uazx70favqm7_sqr256.jpg/drie-boetes-voor-chemiebedrijven-op-chemelot-terrein-uitbater-vrijgesproken.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6299640/",
           "author": "José Boon",
@@ -29878,21 +29918,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/8XxM6X5cmn2k1phFErshtg6fMxc=/1500x1001/GettyImages-588266018-b472d9f51b5046b3ba860215881f5de3.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/m/mic.asp",
-          "author": "Will Kenton",
-          "description": "A market identifier code (MIC) is a unique international indicator that identifies stock markets and exchanges for trading computers.",
-          "link": "https://www.investopedia.com/terms/m/mic.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2024-01-01T01:31:46.000Z",
-          "wordCount": 6779,
-          "title": "Market Identifier Code (MIC): Definition, Purpose, Uses, and Types",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/9oCIhdSTtbtBujpH0DmIQtrMFy4=/640x480/Philippine-stock-market-board-045dfb77bede48a3a286d12e2ffb0413.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/9oCIhdSTtbtBujpH0DmIQtrMFy4=/640x480/Philippine-stock-market-board-045dfb77bede48a3a286d12e2ffb0413.jpg"
         }
       ]
     },
@@ -29901,6 +29926,56 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "ups-stock-down-market-open-133050340.html",
+          "author": null,
+          "description": "UPS slid before the opening bell after a mixed quarter and an outlook for this year that was weaker than expected.  Last year union members at UPS voted to approve a tentative contract agreement, putting a final seal on contentious labor negotiations that threatened to disrupt package deliveries for millions of businesses and households nationwide.  United Parcel Service Inc. anticipates 2024 revenue in a range of approximately $92 billion to $94.5 billion.",
+          "link": "https://finance.yahoo.com/news/ups-stock-down-market-open-133050340.html",
+          "publishedOn": "2024-01-30T13:30:50.000Z",
+          "wordCount": 18309,
+          "title": "UPS stock down before market open as company gives softer-than-expected full-year revenue outlook",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/xLlS3jP5MHSbGTmqemNgTg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/da590844d41c2db13229911609eb6341"
+        },
+        {
+          "id": "jetblue-earnings-stock-price-fb222b08?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/jetblue-earnings-stock-price-fb222b08?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-01-30T13:14:00.000Z",
+          "wordCount": null,
+          "title": "JetBlue Airways Beats Earnings, Revenue Estimates. Why the Stock Is Falling.",
+          "imageUrl": null
+        },
+        {
+          "id": "where-plug-power-stock-2025-130000329.html",
+          "author": null,
+          "description": "Plug Power finally started production in its Georgia facility.",
+          "link": "https://finance.yahoo.com/news/where-plug-power-stock-2025-130000329.html",
+          "publishedOn": "2024-01-30T13:00:00.000Z",
+          "wordCount": 18318,
+          "title": "Where Will Plug Power Stock Be in 2025?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Fkwipj7sKb_bemNTFC67nA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/ec572e1c1f95d3392b2c1cf835a30416"
+        },
+        {
+          "id": "whats-going-tesla-stock-130000768.html",
+          "author": null,
+          "description": "Tesla's fourth-quarter earnings highlighted challenges to the company's profits in the next year.",
+          "link": "https://finance.yahoo.com/news/whats-going-tesla-stock-130000768.html",
+          "publishedOn": "2024-01-30T13:00:00.000Z",
+          "wordCount": 18252,
+          "title": "What's Going on With Tesla Stock?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/X0fCjtz5Zct5YKJZxwwzkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/3186e74af05bf60e050eda28ae7ae3cb"
+        },
+        {
+          "id": "cathie-wood-just-bought-dip-124500967.html",
+          "author": null,
+          "description": "Following an analyst downgrade on Palantir, the Ark Invest boss scooped up another 1 million shares for her exchange-traded funds.",
+          "link": "https://finance.yahoo.com/news/cathie-wood-just-bought-dip-124500967.html",
+          "publishedOn": "2024-01-30T12:45:00.000Z",
+          "wordCount": 19096,
+          "title": "Cathie Wood Just Bought the Dip on This Incredible Artificial Intelligence (AI) Growth Stock. Here's Why I Think That's a Smart Move",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/J9pYzPu0xDpjarHU4jvqVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDU-/https://media.zenfs.com/en/motleyfool.com/eca6e8063bf929219c4622a90d32a523"
+        },
         {
           "id": "stock-market-today-us-futures-take-a-breather-as-earnings-flood-in-123643506.html",
           "author": null,
@@ -30030,6 +30105,16 @@
           "wordCount": 1549,
           "title": "Market Digest: BFH, NEE, TRV",
           "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
+        },
+        {
+          "id": "jpmorgan-quants-warn-dot-com-105503367.html",
+          "author": null,
+          "description": "(Bloomberg) -- The dominance of the 10 biggest stocks in US equity markets is increasingly drawing similarities with the dot-com bubble, raising the risk of a selloff, according to JPMorgan Chase & Co. quantitative strategists.Most Read from BloombergMusk Says First Neuralink Patient Received Implant in BrainTraders Line Up for ‘Once-in-a-Generation’ Emerging Markets BetBlackstone Is Building a $25 Billion Empire of Power-Hungry Data CentersTrump Cash Stockpile at Risk From $450 Million Dual Ver",
+          "link": "https://finance.yahoo.com/news/jpmorgan-quants-warn-dot-com-105503367.html",
+          "publishedOn": "2024-01-30T10:55:03.000Z",
+          "wordCount": 18549,
+          "title": "JPMorgan Quants Warn of Dot-Com Style Concentration in US Stocks",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/b72064b7b4b9b2cb7104bd4b3deb0cc9"
         },
         {
           "id": "amd-is-taking-on-nvidia-in-ai-chips-here-s-the-market-share-it-s-expected-to-take--1jFpSMKQy9lVrF89wvGH?siteid=yhoof2&yptr=yahoo",
