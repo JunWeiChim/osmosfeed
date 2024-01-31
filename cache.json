@@ -921,6 +921,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "3aab25aa902b726f9e3335284c12a712",
+          "author": "Investopedia",
+          "description": "The S&P 500 index declined 1.6% on Wednesday, Jan. 31, 2024, as big tech earnings rolled in and the Federal Reserve held interest rates at their current levels.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca952ac6ec1be84c74ddde68eef53b24815712c23e8175bd9d513841c826813cd5930321cae831b7edae26e3e4823ee82dfa6709873002005c00f9e0e5d0794dccc0b3b1ce818b86014b9d53d4876f648c7f6371c0cf05d1c652",
+          "publishedOn": "2024-01-31T23:12:15.161Z",
+          "wordCount": 409,
+          "title": "S&P 500 Gains and Losses Today: Index Falls as Fed Holds Interest Rates Steady",
+          "imageUrl": null
+        },
+        {
           "id": "d054c4b2f157f0ed7d29545ef580a058",
           "author": "Investopedia",
           "description": "U.S. equities were mixed at midday Wednesday, Jan. 31, 2024, ahead of the Federal Reserve’s decision on interest rates.",
@@ -2277,6 +2287,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "https://www.nu.nl/-/6299746/",
+          "author": "Noémi van de Pol",
+          "description": "Eind vorig jaar werkte 55 procent van de Oekraïense vluchtelingen in Nederland in loondienst. Dat is een stuk meer dan het jaar ervoor: eind 2022 was dat nog 44 procent.",
+          "link": "https://www.nu.nl/economie/6299746/meer-dan-de-helft-van-oekraiense-vluchtelingen-werkt-nu-in-loondienst.html",
+          "publishedOn": "2024-01-31T23:00:40.000Z",
+          "wordCount": 2560,
+          "title": "Meer dan de helft van Oekraïense vluchtelingen werkt nu in loondienst",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/foox4gwazcp7_sqr256.jpg/meer-dan-de-helft-van-oekraiense-vluchtelingen-werkt-nu-in-loondienst.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/foox4gwazcp7_sqr256.jpg/meer-dan-de-helft-van-oekraiense-vluchtelingen-werkt-nu-in-loondienst.jpg"
+        },
+        {
+          "id": "https://www.nu.nl/-/6299836/",
+          "author": "onze nieuwsredactie",
+          "description": "De Duitse brancheorganisatie voor luchthavens ADV verwacht dat er donderdag ongeveer 1.100 vluchten vertraging zullen oplopen of worden geannuleerd. Oorzaak zijn de stakingen van beveiligingspersoneel op elf grote luchthavens in Duitsland. Naar schatting worden 200.000 reizigers daardoor getroffen.",
+          "link": "https://www.nu.nl/economie/6299836/staking-duitse-luchthavens-treft-200000-reizigers-klm-schrapt-44-vluchten.html",
+          "publishedOn": "2024-01-31T22:45:16.000Z",
+          "wordCount": 2468,
+          "title": "Staking Duitse luchthavens treft 200.000 reizigers, KLM schrapt 44 vluchten",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/x75xhp3aer2b_sqr256.jpg/staking-duitse-luchthavens-treft-200000-reizigers-klm-schrapt-44-vluchten.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/x75xhp3aer2b_sqr256.jpg/staking-duitse-luchthavens-treft-200000-reizigers-klm-schrapt-44-vluchten.jpg"
+        },
         {
           "id": "https://www.nu.nl/-/6299829/",
           "author": "onze nieuwsredactie",
@@ -9716,21 +9756,6 @@
             "url": "https://media.nu.nl/m/r9kxy3lan9nx_sqr256.jpg/databedrijven-verhandelen-ongemerkt-gegevens-van-miljoenen-nederlanders.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/r9kxy3lan9nx_sqr256.jpg/databedrijven-verhandelen-ongemerkt-gegevens-van-miljoenen-nederlanders.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6296411/",
-          "author": "onze economieredactie",
-          "description": "China heeft scherp gereageerd op een nieuwe blokkade van de export van ASML-chipmachines naar het land. Nederland moet volgens de Chinezen de wet, het ondernemersklimaat en de markten in beide landen respecteren.",
-          "link": "https://www.nu.nl/economie/6296411/chinese-overheid-reageert-scherp-op-exportblokkade-asml-chipmachines.html",
-          "publishedOn": "2024-01-02T11:02:43.000Z",
-          "wordCount": 2808,
-          "title": "Chinese overheid reageert scherp op exportblokkade ASML-chipmachines",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/lyxx996aoovz_sqr256.jpg/chinese-overheid-reageert-scherp-op-exportblokkade-asml-chipmachines.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/lyxx996aoovz_sqr256.jpg/chinese-overheid-reageert-scherp-op-exportblokkade-asml-chipmachines.jpg"
         }
       ]
     },
@@ -9739,6 +9764,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-index-falls-as-fed-holds-interest-rates-steady-8557164",
+          "author": "Staff Author",
+          "description": "The S&P 500 index declined 1.6% on Wednesday, Jan. 31, 2024, as big tech earnings rolled in and the Federal Reserve held interest rates at their current levels.",
+          "link": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-index-falls-as-fed-holds-interest-rates-steady-8557164?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-31T22:28:36.000Z",
+          "wordCount": 5160,
+          "title": "S&amp;P 500 Gains and Losses Today: Index Falls as Fed Holds Interest Rates Steady",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/576JIktYisxoKOBGRxBg28Tws_I=/640x577/latestGainersLosers2-cf82fb4cf85347f7a3b47dcedef6aa3f.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/576JIktYisxoKOBGRxBg28Tws_I=/640x577/latestGainersLosers2-cf82fb4cf85347f7a3b47dcedef6aa3f.png"
+        },
+        {
+          "id": "https://www.investopedia.com/ask/answers/050615/what-are-fabless-chip-makers-and-why-are-they-important-semiconductor-market.asp",
+          "author": "The Investopedia Team",
+          "description": "Learn about fabless chipmakers and why the biggest names in the semiconductor industry have adopted the fabless business model.",
+          "link": "https://www.investopedia.com/ask/answers/050615/what-are-fabless-chip-makers-and-why-are-they-important-semiconductor-market.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-31T22:05:49.000Z",
+          "wordCount": 7294,
+          "title": "What Are &#34;Fabless&#34; Chipmakers?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/c2YBR9PGZw1mpPVJnXlW-MVLmnM=/8256x5504/GettyImages-1210738055-e46bfebe183f40f0b3d25aa3e243f3cf.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/c2YBR9PGZw1mpPVJnXlW-MVLmnM=/8256x5504/GettyImages-1210738055-e46bfebe183f40f0b3d25aa3e243f3cf.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/how-to-pay-your-property-tax-bill-4783420",
+          "author": "Jean Folger",
+          "description": "Property taxes are based on the assessed value of the property and the local tax rate. Find out how property taxes work and how to pay your property tax bill.",
+          "link": "https://www.investopedia.com/how-to-pay-your-property-tax-bill-4783420?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-01-31T22:05:19.000Z",
+          "wordCount": 8299,
+          "title": "How to Pay Your Property Tax Bill",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/n-he03QNWvE6iu8c3zypyS4PN0k=/724x482/GettyImages-929465592-11e776a2f7894a1896eb08a36c707348.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/n-he03QNWvE6iu8c3zypyS4PN0k=/724x482/GettyImages-929465592-11e776a2f7894a1896eb08a36c707348.jpg"
+        },
         {
           "id": "https://www.investopedia.com/the-racial-wealth-gap-5105010",
           "author": "Daniel Thomas Mollenkamp",
@@ -31311,6 +31381,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stocks-tumble-as-fed-chief-powell-says-march-rate-cut-unlikely/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-01-31T23:01:15.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures: Stocks Tumble As Fed's Powell Says March Rate Cut Unlikely; What To Do Now",
+          "imageUrl": null
+        },
         {
           "id": "qualcomm-1q-revenue-tops-estimates-on-growth-in-handsets-automotive-31f098c4?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -57130,86 +57210,6 @@
           "wordCount": 10636,
           "title": "Should You Buy Shiba Inu While It's Still Below One Cent?",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Vkgs4MZU1wyAKzjmm41zWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/b9a666cdc7108dfcf4d7c0e76ef309f0"
-        },
-        {
-          "id": "oil-rises-iran-warship-enters-000149587.html",
-          "author": null,
-          "description": "(Bloomberg) -- Oil rose after Iran sent a warship to the Red Sea in response to the US Navy’s sinking of three Houthi boats over the weekend, adding to regional tensions as ships continue to avoid the key waterway.Most Read from BloombergIran Sends Warship to Red Sea After US Sinks Houthi BoatsQuake Hits Northwestern Japan, Killing Four, Wrecking HomesIndia’s Crude Oil Imports From Russia Plunge on Payment IssuesUS Pushed Dutch Maker of Chip Equipment to Block Chinese Sales Before DeadlineElectr",
-          "link": "https://finance.yahoo.com/news/oil-rises-iran-warship-enters-000149587.html",
-          "publishedOn": "2024-01-02T11:10:38.000Z",
-          "wordCount": 10490,
-          "title": "Oil Advances as Iran Warship in Red Sea Ratchets Tensions Higher",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/606187b9044d951ce61eab72dcf0b442"
-        },
-        {
-          "id": "got-5-000-2-growth-110500228.html",
-          "author": null,
-          "description": "Both companies are in a position to feel a boost from emerging technologies.",
-          "link": "https://finance.yahoo.com/news/got-5-000-2-growth-110500228.html",
-          "publishedOn": "2024-01-02T11:05:00.000Z",
-          "wordCount": 10916,
-          "title": "Got $5,000? These 2 Growth Stocks Are Smart Buys.",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/efeabac7a2095d4b4ed29028132b74d6"
-        },
-        {
-          "id": "apple-stock-downgraded-barclays-warns-110155435.html",
-          "author": null,
-          "description": "(Bloomberg) -- Apple Inc. got itself a new bear as expectations of soft demand for its latest iPhone prompted analysts at Barclays Plc to downgrade the stock.Most Read from BloombergIran Sends Warship to Red Sea After US Sinks Houthi BoatsQuake Hits Northwestern Japan, Killing Four, Wrecking HomesIndia’s Crude Oil Imports From Russia Plunge on Payment IssuesUS Pressured Netherlands to Block China-Bound Chip MachineryEthiopia Offers Airline Stake to Somaliland for Sea AccessBarclays analysts led",
-          "link": "https://finance.yahoo.com/news/apple-stock-downgraded-barclays-warns-110155435.html",
-          "publishedOn": "2024-01-02T11:01:55.000Z",
-          "wordCount": 10401,
-          "title": "Apple Stock Downgraded as Barclays Warns on Cooling iPhone Demand",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/a2fd112f6a965c15f585e1d194df88eb"
-        },
-        {
-          "id": "2-top-artificial-intelligence-ai-104500734.html",
-          "author": null,
-          "description": "Nvidia and AMD might be the best way to bet on the long-term AI opportunity in the new year and beyond.",
-          "link": "https://finance.yahoo.com/news/2-top-artificial-intelligence-ai-104500734.html",
-          "publishedOn": "2024-01-02T10:45:00.000Z",
-          "wordCount": 10907,
-          "title": "2 Top Artificial Intelligence (AI) Stocks That Could Go Parabolic in 2024",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/LQjpdfwHM2zWl9vmj6CX2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/d2b212739c3491260afebd0e9ff6ccd5"
-        },
-        {
-          "id": "dow-jones-bull-market-2-103600913.html",
-          "author": null,
-          "description": "Find out if they're stocks you want to jump on right now.",
-          "link": "https://finance.yahoo.com/news/dow-jones-bull-market-2-103600913.html",
-          "publishedOn": "2024-01-02T10:36:00.000Z",
-          "wordCount": 11034,
-          "title": "A Dow Jones Bull Market Is Here: 2 Dividend Stocks That Still Look Like Bargains",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/2q6XxwoFH1maQvn.ylLPNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/420a2eeea742edcae9e9e0c2f0e40de0"
-        },
-        {
-          "id": "2-stock-split-stocks-smartest-103000429.html",
-          "author": null,
-          "description": "These companies are doing extremely well in their respective markets and could deliver significant gains in the new year.",
-          "link": "https://finance.yahoo.com/news/2-stock-split-stocks-smartest-103000429.html",
-          "publishedOn": "2024-01-02T10:30:00.000Z",
-          "wordCount": 11004,
-          "title": "2 Stock-Split Stocks the Smartest Investors Are Buying for 2024",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/b364297d86526a45a32f8be0696242f1"
-        },
-        {
-          "id": "3-ultra-high-yield-dividend-102100295.html",
-          "author": null,
-          "description": "Three supercharged income stocks, which sport an average yield of 8.83%, can fatten income investors' pocketbooks in the new year.",
-          "link": "https://finance.yahoo.com/news/3-ultra-high-yield-dividend-102100295.html",
-          "publishedOn": "2024-01-02T10:21:00.000Z",
-          "wordCount": 11627,
-          "title": "3 Ultra-High-Yield Dividend Stocks That Are Screaming Buys in 2024",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/AXIEjMwnQ5ocsdm0qqPzKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Nzk-/https://media.zenfs.com/en/motleyfool.com/11eb7c52ed820af071c8e88bcb2f4e86"
-        },
-        {
-          "id": "3-compelling-reasons-medical-properties-101900401.html",
-          "author": null,
-          "description": "The healthcare REIT has lots of catalysts on the horizon.",
-          "link": "https://finance.yahoo.com/news/3-compelling-reasons-medical-properties-101900401.html",
-          "publishedOn": "2024-01-02T10:19:00.000Z",
-          "wordCount": 10881,
-          "title": "3 Compelling Reasons Medical Properties Trust Could Rocket Higher in 2024",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/XuG6P6cX7vj9DEPa8eJm2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/3cbf657be3a887f171869282e5e00bec"
         }
       ]
     }
