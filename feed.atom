@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-05T01:52:27.605Z</updated>
+    <updated>2024-02-05T02:24:59.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mini Options: A Useful Tool for Trading High-Priced Securities]]></title>
+        <id>https://www.investopedia.com/articles/active-trading/031314/mini-options-useful-tool-trading-highpriced-securities.asp</id>
+        <link href="https://www.investopedia.com/articles/active-trading/031314/mini-options-useful-tool-trading-highpriced-securities.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
+        <updated>2024-02-05T01:58:38.000Z</updated>
+        <summary type="html"><![CDATA[Mini options are option contracts wherein the underlying security is 10 shares of a stock or exchange-traded fund (ETF). This is the main difference between mini options and standard options, which have 100 shares as the underlying security.]]></summary>
+        <author>
+            <name>Adam Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uniform Commercial Code (UCC): Definition, Purpose, and History]]></title>
         <id>https://www.investopedia.com/terms/u/uniform-commercial-code.asp</id>
@@ -459,6 +469,16 @@
         <link href="https://finance.yahoo.com/news/75-artificial-intelligence-ai-chip-121500592.html"/>
         <updated>2024-02-04T12:15:00.000Z</updated>
         <summary type="html"><![CDATA[Favorable end-market conditions should act as a catalyst for this semiconductor stock and help it soar higher.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Things You Need to Know If You Buy SoFi Today]]></title>
+        <id>3-things-know-buy-sofi-121100805.html</id>
+        <link href="https://finance.yahoo.com/news/3-things-know-buy-sofi-121100805.html"/>
+        <updated>2024-02-04T12:11:00.000Z</updated>
+        <summary type="html"><![CDATA[There's a lot for investors to unpack when it comes to this fintech trailblazer.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -45412,26 +45432,6 @@ Dow Jones Industrial Average futures w]]></summary>
         <summary type="html"><![CDATA[Some big events this year could substantially affect the company's share price.]]></summary>
         <author>
             <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Reasons to Buy QuantumScape Stock in 2024]]></title>
-        <id>5-reasons-buy-quantumscape-stock-140000939.html</id>
-        <link href="https://finance.yahoo.com/news/5-reasons-buy-quantumscape-stock-140000939.html"/>
-        <updated>2024-01-06T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[QuantumScape has lost much of the hype surrounding it early on, but it still has the potential to be a game changer.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scheepvaart op IJssel geblokkeerd door vastliggend schip]]></title>
-        <id>https://www.nu.nl/-/6296951/</id>
-        <link href="https://www.nu.nl/economie/6296951/scheepvaart-op-ijssel-geblokkeerd-door-vastliggend-schip.html"/>
-        <updated>2024-01-06T13:56:46.000Z</updated>
-        <summary type="html"><![CDATA[Een groot schip ligt vast op de IJssel bij Westervoort. Andere boten kunnen er niet meer langs, bevestigt een woordvoerder van Rijkswaterstaat na berichtgeving van Omroep Gelderland.]]></summary>
-        <author>
-            <name>onze nieuwsredactie</name>
         </author>
     </entry>
 </feed>
