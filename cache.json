@@ -9761,21 +9761,6 @@
             "url": "https://media.nu.nl/m/3voxwjlaysck_sqr256.jpg/bijna-de-helft-van-de-gestolen-autos-wordt-teruggevonden.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/3voxwjlaysck_sqr256.jpg/bijna-de-helft-van-de-gestolen-autos-wordt-teruggevonden.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6297567/",
-          "author": "Tim Wijkman-van Aalst",
-          "description": "Meer dan honderd particuliere beleggers in cryptovaluta zijn voor duizenden euro's per persoon opgelicht door een cryptohandelaar uit Hengelo. Miljoenen euro's aan inleg zijn verdwenen en van de handelaar ontbreekt op dit moment elk spoor.",
-          "link": "https://www.nu.nl/tech/6297567/cryptohandelaar-uit-hengelo-verduistert-miljoenen-euros-van-honderden-mensen.html",
-          "publishedOn": "2024-01-12T09:52:38.000Z",
-          "wordCount": 2756,
-          "title": "Cryptohandelaar uit Hengelo verduistert miljoenen euro's van honderden mensen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/zlbxnc9a9j2j_sqr256.jpg/cryptohandelaar-uit-hengelo-verduistert-miljoenen-euros-van-honderden-mensen.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/zlbxnc9a9j2j_sqr256.jpg/cryptohandelaar-uit-hengelo-verduistert-miljoenen-euros-van-honderden-mensen.jpg"
         }
       ]
     },
@@ -9784,6 +9769,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/m/median.asp",
+          "author": "Akhilesh Ganti",
+          "description": "The median is the middle number in a sorted, ascending or descending, list of numbers and can be more descriptive of that data set than the average.",
+          "link": "https://www.investopedia.com/terms/m/median.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-02-10T20:56:27.000Z",
+          "wordCount": 7495,
+          "title": "Median: What It Is and How To Calculate It, With Examples",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/neENtP3ex0-js3ZD6Yf7zvGPO9g=/1080x722/median_definition_719-b3be9bdb33244c7fae4f582daa3dbe63.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/neENtP3ex0-js3ZD6Yf7zvGPO9g=/1080x722/median_definition_719-b3be9bdb33244c7fae4f582daa3dbe63.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/e/economic-recovery.asp",
           "author": "The Investopedia Team",
@@ -30447,6 +30447,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "3-stocks-turned-1-000-194500896.html",
+          "author": null,
+          "description": "These industry-leading firms should all be on your investing radar.",
+          "link": "https://finance.yahoo.com/news/3-stocks-turned-1-000-194500896.html",
+          "publishedOn": "2024-02-10T19:45:00.000Z",
+          "wordCount": 19017,
+          "title": "3 Stocks That Turned $1,000 Into 1 Million (or More)",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/7euXuEHCYBIWXDRZmKmL0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/4cedd74e2957e1589bf60469357a7b68"
+        },
+        {
           "id": "billionaire-david-tepper-invested-38-193200477.html",
           "author": null,
           "description": "Dividends are just a bonus with many of these stocks.",
@@ -30455,6 +30465,16 @@
           "wordCount": 19050,
           "title": "Billionaire David Tepper Has Invested 38% of His Portfolio in These 5 Dividend Stocks",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/vIlmuRXFmqO9AMctCfaG3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/1db0b2b514fc4d77ca5dc82cf1ccf439"
+        },
+        {
+          "id": "average-retirement-savings-married-couples-180729139.html",
+          "author": null,
+          "description": "A recent study from the career experts Zety says that 40% of respondents fear retirement more than death. And almost nine in 10 responded that their biggest retirement fear is not having enough income. For married couples, planning retirement for two people can … Continue reading → The post Average Retirement Savings for Married Couples By Age appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/average-retirement-savings-married-couples-180729139.html",
+          "publishedOn": "2024-02-10T18:16:13.000Z",
+          "wordCount": 18844,
+          "title": "Most American Couples Have This Much in Retirement Savings. Where Do You Stack Up?",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/b57fdbf1c1a840f503bac58b7e4d35fb"
         },
         {
           "id": "bear-argument-against-palantir-collapsing-170700009.html",
@@ -56945,36 +56965,6 @@
           "wordCount": 11167,
           "title": "Billionaire Investor Bill Ackman Has 34% of His Portfolio Invested in 2 Brilliant Growth Stocks",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/K1GHH0GGbWMvMOIrJfvutA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/5ffc335bfb66b8200f915a54d9c38682"
-        },
-        {
-          "id": "analyst-dead-wrong-sofi-heres-100900549.html",
-          "author": null,
-          "description": "SoFi fell 16% last week after an analyst downgraded the stock.",
-          "link": "https://finance.yahoo.com/news/analyst-dead-wrong-sofi-heres-100900549.html",
-          "publishedOn": "2024-01-12T10:09:00.000Z",
-          "wordCount": 11214,
-          "title": "This Analyst Is Dead Wrong About SoFi. Here's Why.",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/DZ44V0NkKuczd2I3xY7NUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/motleyfool.com/b9f10b935e89b37a9354af7c9fac5137"
-        },
-        {
-          "id": "71-warren-buffetts-358-billion-100600525.html",
-          "author": null,
-          "description": "A jaw-dropping $254 billion of Berkshire Hathaway's $358 billion investment portfolio can be traced back to four brand-name holdings.",
-          "link": "https://finance.yahoo.com/news/71-warren-buffetts-358-billion-100600525.html",
-          "publishedOn": "2024-01-12T10:06:00.000Z",
-          "wordCount": 11687,
-          "title": "71% of Warren Buffett's $358 Billion Portfolio Is Invested in Only 4 Stocks",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/KyehaYoqUVEiFIj39IJ7LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/88ecf3c1eaee1e896bd4c491a3733aba"
-        },
-        {
-          "id": "1-remarkable-growth-stock-buy-100000822.html",
-          "author": null,
-          "description": "If the fund manager's calculations prove to be accurate, Tesla investors could enjoy more than sevenfold returns in less than four years. Is she right?",
-          "link": "https://finance.yahoo.com/news/1-remarkable-growth-stock-buy-100000822.html",
-          "publishedOn": "2024-01-12T10:00:00.000Z",
-          "wordCount": 11274,
-          "title": "1 Remarkable Growth Stock to Buy Hand Over Fist Before It Soars 742%, According to 1 Wall Street Professional",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/f2X_WY6WNykPmyBTrtuSdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/42eb9ce869e9b8b5dc297daa98ffb2c2"
         }
       ]
     }
