@@ -631,6 +631,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "d9246e746fb3e50db25945dcfba17532",
+          "author": "Investopedia",
+          "description": "Coming up: earnings from Nvidia, Walmart, Home Depot, Palo Alto Networks, and more, along with Fed meeting minutes and federal student loan repayment proposals.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca916fc6f652b153748d9628a6f12e60864a12d7388075bc93502041cf78d827d99b0921d4e330b9b8bb75babcdd75f5",
+          "publishedOn": "2024-02-18T14:10:04.763Z",
+          "wordCount": 409,
+          "title": "What To Expect in the Markets This Week",
+          "imageUrl": null
+        },
+        {
           "id": "5363e7a2c4c8e24a16a932e61ecc4bd2",
           "author": "Investopedia",
           "description": "The S&P 500 fell 0.5% on Friday, Feb. 16, 2024, after a report showed that wholesale prices rose more than expected in January.",
@@ -1967,6 +1977,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "article-6302022",
+          "author": null,
+          "description": "De Duitse vakbond Verdi heeft het grondpersoneel van luchtvaartmaatschappij Lufthansa opgeroepen tot een nieuwe grote staking op dinsdag. Door de actie zullen er waarschijnlijk weer veel vluchten uitvallen of vertragen, net als bij een eerdere staking deze maand.",
+          "link": "https://www.nu.nl/economie/6302022/weer-grote-staking-aangekondigd-bij-luchtvaartmaatschappij-lufthansa.html",
+          "publishedOn": "2024-02-18T14:01:08.000Z",
+          "wordCount": 2698,
+          "title": "Weer grote staking aangekondigd bij luchtvaartmaatschappij Lufthansa",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/7fexf9wa01z7_sqr256.jpg/weer-grote-staking-aangekondigd-bij-luchtvaartmaatschappij-lufthansa.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/7fexf9wa01z7_sqr256.jpg/weer-grote-staking-aangekondigd-bij-luchtvaartmaatschappij-lufthansa.jpg"
+        },
         {
           "id": "article-6301997",
           "author": null,
@@ -9174,6 +9199,66 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/retirement/roth-vs-traditional-ira-which-is-right-for-you/",
+          "author": "Denise Appleby",
+          "description": "Deciding which IRA is better for you, a Roth IRA or a traditional IRA, depends on knowing the timing of their tax breaks, eligibility standards, and the access they offer.",
+          "link": "https://www.investopedia.com/retirement/roth-vs-traditional-ira-which-is-right-for-you/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-02-18T13:58:09.000Z",
+          "wordCount": 8845,
+          "title": "Roth vs. Traditional IRA: Which Is Better for You?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/U3NdiZYa6UfDZLBvnzkB04sGjWI=/8256x5504/GettyImages-1400739345-8445fe25236849aa8e2e83cfcea52fb9.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/U3NdiZYa6UfDZLBvnzkB04sGjWI=/8256x5504/GettyImages-1400739345-8445fe25236849aa8e2e83cfcea52fb9.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/c/core-durable-goods-orders.asp",
+          "author": "The Investopedia Team",
+          "description": "Core durable goods orders refers to new orders for U.S. core durable goods, which are the total durable goods orders excluding transportation equipment.",
+          "link": "https://www.investopedia.com/terms/c/core-durable-goods-orders.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-02-18T13:41:22.000Z",
+          "wordCount": 7197,
+          "title": "Core Durable Goods Orders: What They Are and How They Work",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/iv1dS07dQuznLvFulIPe0FEUG40=/2121x1413/GettyImages-1304027960-4cecddf434a7460fb2539836eefbb482.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/iv1dS07dQuznLvFulIPe0FEUG40=/2121x1413/GettyImages-1304027960-4cecddf434a7460fb2539836eefbb482.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/v/volumetric-production-payment.asp",
+          "author": "James Chen",
+          "description": "A Volumetric Production Payment is a type of investment that involves the owner of an oil and gas interest monetizing a specific volume of production.",
+          "link": "https://www.investopedia.com/terms/v/volumetric-production-payment.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-02-18T13:39:11.000Z",
+          "wordCount": 6307,
+          "title": "Volumetric Production Payment (VPP): Meaning, How it Works",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/4udLYDfGmL9ptQ6ELOLvSk3g24s=/2121x1414/GettyImages-1271906032-eb4afefd14ae469399d4a059f6ff7a48.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/4udLYDfGmL9ptQ6ELOLvSk3g24s=/2121x1414/GettyImages-1271906032-eb4afefd14ae469399d4a059f6ff7a48.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/terms/i/incomebond.asp",
+          "author": "James Chen",
+          "description": "An income bond is a type of debt security where only the face value of the bond is promised to be paid to the investor, while coupons only are paid as income is received.",
+          "link": "https://www.investopedia.com/terms/i/incomebond.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-02-18T13:37:22.000Z",
+          "wordCount": 6397,
+          "title": "Income Bond: What it is, How it Works, Debt Restructuring",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/i-I4ggdPYfrCDzUQo4vfr1oYdqQ=/2120x1414/investor-analyzing-stock-market-investments-with-financial-dashboard--business-intelligence--bi---and-key-performance-indicators--kpi--on-smartphone-and-computer-screens-956752490-5a4e3615b3e44864b4186257a5f5af27.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/i-I4ggdPYfrCDzUQo4vfr1oYdqQ=/2120x1414/investor-analyzing-stock-market-investments-with-financial-dashboard--business-intelligence--bi---and-key-performance-indicators--kpi--on-smartphone-and-computer-screens-956752490-5a4e3615b3e44864b4186257a5f5af27.jpg"
+        },
         {
           "id": "https://www.investopedia.com/what-to-expect-in-the-markets-this-week-8584380",
           "author": "Terry Lane",
@@ -30553,36 +30638,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/jnjTdByKeKW9bFh1cBZokBg-IC8=/680x440/shutterstock_241512037-5bfc3d1c46e0fb0026604cf9.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/exchangetradedfunds/11/worst-etf-misconceptions.asp",
-          "author": "Adam Hayes",
-          "description": "The rise in these funds' popularity has contributed to misinformation about what they are and how they work.",
-          "link": "https://www.investopedia.com/articles/exchangetradedfunds/11/worst-etf-misconceptions.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2024-01-20T01:59:53.000Z",
-          "wordCount": 6849,
-          "title": "Common Misconceptions About ETFs",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/0LhfhpRQeQGTULyw9LbgqDkM5TM=/2024x1480/GettyImages-1131665893-85f9b9cc075f44548f3da97e8aa2ae7e.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/0LhfhpRQeQGTULyw9LbgqDkM5TM=/2024x1480/GettyImages-1131665893-85f9b9cc075f44548f3da97e8aa2ae7e.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/mutualfund/07/etf_downside.asp",
-          "author": "Brian Beers",
-          "description": "Despite their popularity, exchange-traded funds, or ETFs, have some drawbacks that investors should know about.",
-          "link": "https://www.investopedia.com/articles/mutualfund/07/etf_downside.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2024-01-20T01:49:56.000Z",
-          "wordCount": 9492,
-          "title": "ETF Concerns That Investors Shouldn’t Overlook",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/VNQWhVM7b6Ic1bAjqJ-97Xm2qRM=/2200x1500/etf_v1_0712-04c990fafcd642f29020ae8874994ba7.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/VNQWhVM7b6Ic1bAjqJ-97Xm2qRM=/2200x1500/etf_v1_0712-04c990fafcd642f29020ae8874994ba7.png"
         }
       ]
     },
@@ -30591,6 +30646,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "5-questions-investors-should-be-asking-themselves-after-a-major-theme-shift-in-markets-133012555.html",
+          "author": null,
+          "description": "The year started with markets bracing for almost six interest rate cuts this year. So much for that narrative.",
+          "link": "https://finance.yahoo.com/news/5-questions-investors-should-be-asking-themselves-after-a-major-theme-shift-in-markets-133012555.html",
+          "publishedOn": "2024-02-18T13:30:12.000Z",
+          "wordCount": 18803,
+          "title": "5 questions investors should be asking themselves after a major theme shift in markets",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/t9HH_Q3UxUY3loDWSiL88A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/05cc3bd0-cce2-11ee-bbfc-643f6cd78f76"
+        },
+        {
+          "id": "stock-split-watch-3-artificial-130000658.html",
+          "author": null,
+          "description": "These AI stocks have truly hit their stride. Is it time for some much-needed stock splits?",
+          "link": "https://finance.yahoo.com/news/stock-split-watch-3-artificial-130000658.html",
+          "publishedOn": "2024-02-18T13:00:00.000Z",
+          "wordCount": 19010,
+          "title": "Stock-Split Watch: 3 Artificial Intelligence (AI) Stocks Ready for a Stock Split",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/07wsJcrEPiOwypjbmATSkQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/9749c38857f5fc40dbcd8727289b7ccc"
+        },
         {
           "id": "billionaire-investor-chase-coleman-46-124000295.html",
           "author": null,
@@ -30680,6 +30755,16 @@
           "wordCount": 18617,
           "title": "Roku Hits a Roadblock: Is This a Buying Opportunity or a Red Flag?",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/aaokKJQGZKufWqvyjUYWYQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/motleyfool.com/050a6f3dd67d7ffd4a73a291b7d37972"
+        },
+        {
+          "id": "beaten-down-growth-stock-could-110000857.html",
+          "author": null,
+          "description": "Investors may not realize how quickly this story is improving.",
+          "link": "https://finance.yahoo.com/news/beaten-down-growth-stock-could-110000857.html",
+          "publishedOn": "2024-02-18T11:00:00.000Z",
+          "wordCount": 18717,
+          "title": "This Beaten-Down Growth Stock Could Soar in 2024, Thanks to Partnerships With 2 Members of the \"Magnificent Seven\"",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/CDKBLAcMUz9ssd57LVAdwg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/29771dcbc591181ac0b2daa3fee999d3"
         },
         {
           "id": "walmart-stock-jump-upcoming-stock-105100756.html",
@@ -30862,6 +30947,16 @@
           "imageUrl": null
         },
         {
+          "id": "ask-advisor-where-stash-short-152009959.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/ask-advisor-where-stash-short-152009959.html",
+          "publishedOn": "2024-02-17T17:01:28.000Z",
+          "wordCount": null,
+          "title": "Ask An Advisor: Where Should I Stash Short-Term Savings?",
+          "imageUrl": null
+        },
+        {
           "id": "roll-over-roth-401-k-163040382.html",
           "author": null,
           "description": "",
@@ -30869,6 +30964,16 @@
           "publishedOn": "2024-02-17T16:59:08.000Z",
           "wordCount": null,
           "title": "How the 5-Year Rule Affects Roth 401(k)s & Roth IRAs",
+          "imageUrl": null
+        },
+        {
+          "id": "cost-more-money-pensions-401-130010739.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/cost-more-money-pensions-401-130010739.html",
+          "publishedOn": "2024-02-17T16:56:15.000Z",
+          "wordCount": null,
+          "title": "Which Will Cost Me More Money: Pension or 401(k)?",
           "imageUrl": null
         },
         {
@@ -31090,6 +31195,16 @@
           "wordCount": 18577,
           "title": "2 Top AI Stocks to Buy Now, According to Wall Street",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/tSTfCv6Xzwu4iiHKlsgqWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/f0fda268ad849bb4ceb68513a7179ba0"
+        },
+        {
+          "id": "least-1-wall-street-analyst-114500481.html",
+          "author": null,
+          "description": "Here's why Wall Street sees strong upside in Ford stock.",
+          "link": "https://finance.yahoo.com/news/least-1-wall-street-analyst-114500481.html",
+          "publishedOn": "2024-02-17T11:45:00.000Z",
+          "wordCount": 18332,
+          "title": "At Least 1 Wall Street Analyst Thinks Ford Stock Is Going to $16. Is It a Buy?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/cUDSUAzBztLvBtyYm9HxJg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/motleyfool.com/60e93a276249e4f40a2866a1630b33f6"
         },
         {
           "id": "forget-rivian-buy-magnificent-electric-114200270.html",
@@ -56950,26 +57065,6 @@
           "wordCount": 10956,
           "title": "The SEC Goes Back to Court",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Ay_tBV_v20Z1hRoi330VhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MTg-/https://media.zenfs.com/en/coindesk_75/9b437b8dd9fc24027c6a36d24c9f4d99"
-        },
-        {
-          "id": "warren-buffett-tells-citi-ceo-013628216.html",
-          "author": null,
-          "description": "(Bloomberg) -- Citigroup Inc. Chief Executive Officer Jane Fraser said billionaire investor Warren Buffett had urged her to continue with the bank’s reorganization efforts during a recent lunch meeting, Reuters reported.Most Read from BloombergPutin Orders Hunt for Property of Russian Empire, Soviet UnionS&P 500 Hits All-Time High in Historic Bull Run: Markets WrapFord Cuts Workforce Making Electric F-150s on Weak DemandYouTube and Spotify Won’t Launch Apple Vision Pro Apps, Joining NetflixChina",
-          "link": "https://finance.yahoo.com/news/warren-buffett-tells-citi-ceo-013628216.html",
-          "publishedOn": "2024-01-20T01:36:28.000Z",
-          "wordCount": 10336,
-          "title": "Warren Buffett Tells Citi CEO to Continue Overhaul, Reuters Says",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/M3y_JEKdiusk0KZgEwL9Bg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/89704bec07b16a97f8c6bb042a63c9bb"
-        },
-        {
-          "id": "cmbs-loan-behind-fannie-mae-011741109.html",
-          "author": null,
-          "description": "A large Washington, D.C., office property set to lose Fannie Mae (FNMA) as its anchor tenant at the end of the decade is tied to $525 million of commercial mortgage-backed securities (CMBS) debt that now faces long-term risks at the back end of the loan maturity.  Fannie Mae notified Carr Properties this month of plans to exercise an early out clause at the landlord’s 14-story Midtown Center with a 15-year lease signed in 2018 to rent 713,000 square feet for its global headquarters resulting in a May 2029.  A $382 million senior CMBS loan originated in 2019 for Midtown Center was split across three deals including $261 million in DCOT 2019-MTC, $88.475 million in BANK 2019-BNK22 and $32.525 million in COMM 2019-GC44.",
-          "link": "https://finance.yahoo.com/news/cmbs-loan-behind-fannie-mae-011741109.html",
-          "publishedOn": "2024-01-20T01:17:41.000Z",
-          "wordCount": 10662,
-          "title": "CMBS Loan Behind Fannie Mae HQ Exit Faces Future Balloon Payment Risks",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/96PkJN6KCg.KvRt.lvGg7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05NjE-/https://media.zenfs.com/en/commercial_observer_904/d6827fa9fa7b1c01c20f08896d87cea7"
         }
       ]
     }
