@@ -2039,16 +2039,6 @@
           "wordCount": 409,
           "title": "Dow Jones Today: Futures Rise as S&P 500 Approaches Record High",
           "imageUrl": null
-        },
-        {
-          "id": "50e7439c550f59b30ab200806ee9cb6f",
-          "author": "Investopedia",
-          "description": "Macy's plans to cut roughly 2,350 jobs and close five stores to streamline costs and stem slowing sales. Company shares broke above a multi-month downtrend line in mid-November, indicating many of the challenges facing the retailer could be already baked into the price.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b66c4fb52b6112a9c813ba8bf3323c2574fcc248931b69a566645dd7f90219c9c1f7bd0ab3ab4b8e92fe0a58d38b13fa4391b8d264a455000f2e0a1d7704a84d9b3bb97c09c9110429d53d39c27688768273d9a881fd8c555bf982778",
-          "publishedOn": "2024-01-19T13:15:41.977Z",
-          "wordCount": 409,
-          "title": "Macy's Stock in Spotlight After News of Job Cuts, Store Closings—Key Levels to Monitor",
-          "imageUrl": null
         }
       ]
     },
@@ -9361,51 +9351,6 @@
             "url": "https://media.nu.nl/m/3uxxtj9af0tn_sqr256.jpg/verpakkingsvrije-supermarkt-pieter-pot-zamelt-genoeg-geld-in-voor-doorstart.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/3uxxtj9af0tn_sqr256.jpg/verpakkingsvrije-supermarkt-pieter-pot-zamelt-genoeg-geld-in-voor-doorstart.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6298406/",
-          "author": "Tom van Gurp",
-          "description": "Het demissionaire kabinet beperkt de huurverhogingen in de vrije sector tot zeker mei 2027. Dat heeft de ministerraad vrijdag besloten. Dit moet helpen duurdere huurwoningen betaalbaarder te houden.",
-          "link": "https://www.nu.nl/economie/6298406/huurverhoging-in-de-vrije-sector-tot-2027-aan-banden-gelegd.html",
-          "publishedOn": "2024-01-19T13:08:15.000Z",
-          "wordCount": 2543,
-          "title": "Huurverhoging in de vrije sector tot 2027 aan banden gelegd",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/l8zxmh4auo0k_sqr256.jpg/huurverhoging-in-de-vrije-sector-tot-2027-aan-banden-gelegd.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/l8zxmh4auo0k_sqr256.jpg/huurverhoging-in-de-vrije-sector-tot-2027-aan-banden-gelegd.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6298388/",
-          "author": "Rutger Otto",
-          "description": "Het zou goed zijn als gebruikers van socialemediaplatform Threads snel kunnen praten met mensen op Mastodon en andersom. Dat zegt demissionair staatssecretaris Alexandra van Huffelen (Digitalisering) namens het kabinet tegen NU.nl.",
-          "link": "https://www.nu.nl/tech/6298388/kabinet-wil-dat-twitter-alternatieven-snel-aan-elkaar-worden-gekoppeld.html",
-          "publishedOn": "2024-01-19T13:08:05.000Z",
-          "wordCount": 1206,
-          "title": "Kabinet wil dat Twitter-alternatieven snel aan elkaar worden gekoppeld",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/6j0x48wab9r9_sqr256.jpg/kabinet-wil-dat-twitter-alternatieven-snel-aan-elkaar-worden-gekoppeld.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/6j0x48wab9r9_sqr256.jpg/kabinet-wil-dat-twitter-alternatieven-snel-aan-elkaar-worden-gekoppeld.jpg"
-        },
-        {
-          "id": "https://www.nu.nl/-/6298405/",
-          "author": "onze techredactie",
-          "description": "Voor contactloos betalen met je iPhone ben je binnenkort niet meer afhankelijk van Apple. De iPhone-fabrikant gaat in Europa andere betaalbedrijven toelaten om contactloze betaaldiensten aan te bieden aan iPhone-gebruikers. Zo hoopt Apple een Europese boete te voorkomen.",
-          "link": "https://www.nu.nl/tech/6298405/apple-zwicht-voor-druk-van-brussel-en-laat-concurrerende-betaaldiensten-toe.html",
-          "publishedOn": "2024-01-19T13:04:18.000Z",
-          "wordCount": 2767,
-          "title": "Apple zwicht voor druk van Brussel en laat concurrerende betaaldiensten toe",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/5w6x4q3aku6t_sqr256.jpg/apple-zwicht-voor-druk-van-brussel-en-laat-concurrerende-betaaldiensten-toe.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/5w6x4q3aku6t_sqr256.jpg/apple-zwicht-voor-druk-van-brussel-en-laat-concurrerende-betaaldiensten-toe.jpg"
         }
       ]
     },
@@ -9414,6 +9359,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/a/account-executive.asp",
+          "author": "Will Kenton",
+          "description": "An account executive is a manager who is primarily responsible for a corporate account, whether for an individual or a corporate client.",
+          "link": "https://www.investopedia.com/terms/a/account-executive.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-02-18T00:50:55.000Z",
+          "wordCount": 7717,
+          "title": "What Is an Account Executive? Responsibilities, Required Skills",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/8If_8uerUgmBH6D0LHDRUFaqGyM=/4000x2700/account-executive.asp-final-58690c0962d94801afdbd269c519e832.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/8If_8uerUgmBH6D0LHDRUFaqGyM=/4000x2700/account-executive.asp-final-58690c0962d94801afdbd269c519e832.png"
+        },
         {
           "id": "https://www.investopedia.com/terms/c/ceo.asp",
           "author": "Adam Hayes",
@@ -31363,21 +31323,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/R0nCJL9RNxjP0l2ahmDMgiQsPlI=/2633x1767/GettyImages-1693652103-7391304a80564e2c9d489f16d5800eb2.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-january-19-2024-8536143",
-          "author": "Terry Lane",
-          "description": "Spirit Airlines shares rose following reports that it's pressing JetBlue to appeal the ruling that blocked the merger between the two companies, and iRobot shares plunged as European officials look to block the company’s acquisition by Amazon. Here’s what investors need to know today.",
-          "link": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-january-19-2024-8536143?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2024-01-19T13:23:53.000Z",
-          "wordCount": 5988,
-          "title": "5 Things to Know Before The Stock Market Opens",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/1GFGVyuoiBSXgM-0E8E6OW60cmA=/3387x2258/GettyImages-1930877656-10b59ccc27384d6993f27d88f1daf44c.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/1GFGVyuoiBSXgM-0E8E6OW60cmA=/3387x2258/GettyImages-1930877656-10b59ccc27384d6993f27d88f1daf44c.jpg"
         }
       ]
     },
@@ -31755,6 +31700,16 @@
           "wordCount": 18669,
           "title": "Stock Bulls Turn to Europe for Cheap Alternative to Magnificent Riches",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/9ce36de0769e8e78d0fcc78bc8578ff3"
+        },
+        {
+          "id": "hasbro-walgreens-tesla-stock-short-buy-b5ed0193?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/hasbro-walgreens-tesla-stock-short-buy-b5ed0193?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-02-17T08:00:00.000Z",
+          "wordCount": null,
+          "title": "Finding Stocks to Buy Is Getting Harder. 6 Shorts to Consider, From an Analyst.",
+          "imageUrl": null
         },
         {
           "id": "banner-week-billionaire-investor-carl-035416334.html",
@@ -57985,66 +57940,6 @@
           "wordCount": 10129,
           "title": "Blackstone to take Tricon Residential private for $3.5 billion",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/0643d36d6ad3a68a149e4636644857bf"
-        },
-        {
-          "id": "china-reins-electric-car-makers-134938310.html",
-          "author": null,
-          "description": "China has vowed to stall the expansion of its electric vehicle industry just as the West braces for a flood of exports to enter the market.",
-          "link": "https://finance.yahoo.com/news/china-reins-electric-car-makers-134938310.html",
-          "publishedOn": "2024-01-19T13:49:38.000Z",
-          "wordCount": 10124,
-          "title": "China reins in electric car makers amid fears they will flood the West",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/OZCWSGGtWsTQTz0JfnBgqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTM-/https://media.zenfs.com/en/the_telegraph_258/87d1e8b15e538c6ffec0f6303c908656"
-        },
-        {
-          "id": "18-yielding-dividend-verge-getting-131800918.html",
-          "author": null,
-          "description": "A recent update from Medical Properties Trust suggests that its financials could come under pressure in the future.",
-          "link": "https://finance.yahoo.com/news/18-yielding-dividend-verge-getting-131800918.html",
-          "publishedOn": "2024-01-19T13:18:00.000Z",
-          "wordCount": 10852,
-          "title": "Is This 18%-Yielding Dividend on the Verge of Getting Cut?",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/1dGi8_9NxRYXQTt0fo.cGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/e3522c773d68f68dc8567199e529c733"
-        },
-        {
-          "id": "ibm-stock-buy-sell-ai-89090a52?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "International Business Machines stock has had a great rally as the market warms up to its artificial-intelligence potential. It has won a new fan in Evercore analyst Amit Daryanani who thinks a \"messy\" rollout of AI is good news for IBM even as other commentators turn cautious.",
-          "link": "https://www.barrons.com/articles/ibm-stock-buy-sell-ai-89090a52?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-01-19T13:10:00.000Z",
-          "wordCount": 7337,
-          "title": "IBM Stock Is Nearing Its Highest Since 2014. Its AI Rally Is Splitting Wall Street.",
-          "imageUrl": "https://images.barrons.com/im-585451/social"
-        },
-        {
-          "id": "spirit-airlines-surges-carrier-still-120941428.html",
-          "author": null,
-          "description": "(Bloomberg) -- Spirit Airlines Inc. surged after saying it still believes in its plan to merge with JetBlue Airways Corp. despite opposition from US regulators and a court decision blocking the deal. Most Read from BloombergYouTube and Spotify Won’t Launch Apple Vision Pro Apps, Joining NetflixBlinken’s Return From Davos Was Delayed After Plane Broke DownTrump Moves to Quash Hopes of Congress Ukraine, Border DealTrump Asks Supreme Court to Keep Him on Colorado BallotAirstrikes on Yemen Bring New",
-          "link": "https://finance.yahoo.com/news/spirit-airlines-surges-carrier-still-120941428.html",
-          "publishedOn": "2024-01-19T13:08:36.000Z",
-          "wordCount": 10356,
-          "title": "Spirit Air Surges After Reaffirming Support for JetBlue Deal",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/FpRZmTrXcpJTJL780UFpPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/266ccccbe6f416c39903aaeba9a64280"
-        },
-        {
-          "id": "fisker-stock-upgrade-braking-ev-87d28260?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "CFRA analyst Garrett Nelson upgraded shares of Fisker to Hold from Buy. Separately, the company commented on a NHTSA investigation into its electric vehicles' braking systems.",
-          "link": "https://www.barrons.com/articles/fisker-stock-upgrade-braking-ev-87d28260?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-01-19T13:07:00.000Z",
-          "wordCount": 7806,
-          "title": "Fisker Stock Upgraded. But Braking Issue Could Cause Volatility for the EV Start-Up.",
-          "imageUrl": "https://images.barrons.com/im-835754/social"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-companies-including-nvidia-are-growing-like-a-house-of-fire/?src=A00220&yptr=yahoo",
-          "publishedOn": "2024-01-19T13:00:25.000Z",
-          "wordCount": null,
-          "title": "11 Companies Including Nvidia Are Growing Like A House On Fire",
-          "imageUrl": null
         }
       ]
     }
