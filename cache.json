@@ -2008,6 +2008,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6302210",
+          "author": null,
+          "description": "Ter gelegenheid van het Chinese Nieuwjaar heeft Starbucks in China koffie met een varkensvleessmaakje geïntroduceerd. De van origine Amerikaanse koffieketen omschrijft de smaak als \"interessant\".",
+          "link": "https://www.nu.nl/economie/6302210/starbucks-china-introduceert-koffie-met-varkensvleessmaak.html",
+          "publishedOn": "2024-02-20T09:07:58.000Z",
+          "wordCount": 2349,
+          "title": "Starbucks China introduceert koffie met varkensvleessmaak",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/1mmxo4qan29v_sqr256.jpg/starbucks-china-introduceert-koffie-met-varkensvleessmaak.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/1mmxo4qan29v_sqr256.jpg/starbucks-china-introduceert-koffie-met-varkensvleessmaak.jpg"
+        },
+        {
           "id": "article-6302199",
           "author": null,
           "description": "Mensen die geld hebben gestoken in beleggingen, zoals aandelen, hebben die eind vorig jaar massaal omgezet in klinkende munt. Volgens DNB ging het in totaal om 4,7 miljard euro, een recordbedrag.",
@@ -9289,6 +9304,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/terms/e/escrow.asp",
+          "author": "Caroline Banton",
+          "description": "Escrow broadly refers to a third party that holds money or an asset on behalf of the other two parties in a transaction.",
+          "link": "https://www.investopedia.com/terms/e/escrow.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-02-20T08:53:59.000Z",
+          "wordCount": 8141,
+          "title": "How Escrow Protects Parties in Financial Transactions",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/guZrkWLOsEZggoB2wgNPanWRsiU=/1500x1000/Escrow_Final_4196971-1db93ba0a1044cabac14b87c0417e082.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/guZrkWLOsEZggoB2wgNPanWRsiU=/1500x1000/Escrow_Final_4196971-1db93ba0a1044cabac14b87c0417e082.jpg"
+        },
         {
           "id": "https://www.investopedia.com/terms/s/subpoena.asp",
           "author": "Will Kenton",
@@ -31262,6 +31292,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "barclays-outlines-returns-targets-to-2026-e1fd76a2?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/finance/barclays-outlines-returns-targets-to-2026-e1fd76a2?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-02-20T08:12:00.000Z",
+          "wordCount": null,
+          "title": "Barclays to Return $12.6 Billion to Shareholders, Reorganize Divisions",
+          "imageUrl": null
+        },
+        {
+          "id": "1-growth-stock-down-14-074100278.html",
+          "author": null,
+          "description": "Wall Street isn't excited about the short-term growth prospects of this consumer staples giant.",
+          "link": "https://finance.yahoo.com/news/1-growth-stock-down-14-074100278.html",
+          "publishedOn": "2024-02-20T07:41:00.000Z",
+          "wordCount": 18557,
+          "title": "1 Growth Stock Down 14% to Buy Right Now",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/3845d55ee645ae257b28e17c73b7bc9a"
+        },
+        {
           "id": "asia-stocks-set-mixed-open-225837982.html",
           "author": null,
           "description": "(Bloomberg) -- Chinese equities slipped as a reduction in the nation’s mortgage reference rate failed to dispel the gloom surrounding the world’s no. 2 economy. The dollar tracked a rise in US yields.Most Read from BloombergLargest Covid Vaccine Study Yet Finds Links to Health ConditionsCapital One to Buy Discover for $35 Billion in Year's Biggest Deal Amazon Deserves to Be Called Out for Swindling UsersWall Street’s Moelis Bet Big on the Middle East. Now He’s Cashing InStocks Pause Near Record",
@@ -31310,6 +31360,16 @@
           "wordCount": 18677,
           "title": "Capital One to buy Discover Financial in $35.3 billion all-stock deal",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/b038b6f91d440db85fa7e88ff4f9586f"
+        },
+        {
+          "id": "bhp-reports-flat-first-half-213918196.html",
+          "author": null,
+          "description": "BHP's strong revenue growth of 6% was underpinned by higher iron ore and copper prices and contributions from new projects, but was partially offset by lower energy coal realised prices.  \"We expect the lagged impact of global inflation to continue into the second-half, particularly in relation to labour, and as we negotiate long-term supply arrangements,\" the miner said.",
+          "link": "https://finance.yahoo.com/news/bhp-reports-flat-first-half-213918196.html",
+          "publishedOn": "2024-02-19T21:39:18.000Z",
+          "wordCount": 17941,
+          "title": "BHP half-year profit beats expectations, inflation impact recedes",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/430954d1563231f709f8d1c8677ca535"
         },
         {
           "id": "investors-expecting-rate-cuts-happens-211501880.html",
