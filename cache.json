@@ -661,6 +661,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "9e61fe3ea17b08763f2ba49045fb9ae3",
+          "author": "Investopedia",
+          "description": "Stock futures were up in premarket trading on Tuesday as the price of Bitcoin soared to a 2-year high of more than $57,000.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c2140d9167d768e3c60f73128b3bcd6288",
+          "publishedOn": "2024-02-27T14:10:54.216Z",
+          "wordCount": 409,
+          "title": "Dow Jones Today: Stock Futures Tick Up; Bitcoin Soars Above $57K",
+          "imageUrl": null
+        },
+        {
           "id": "78be38211fbd3cd9100666bbe348d45d",
           "author": "Investopedia",
           "description": "Lowe's reported better-than-expected results but projected sluggish sales in 2024, Macy's is closing 150 stores, Chevron warned its $53 billion acquisition of Hess could be in jeopardy and Chinese e-commerce giant Shein is looking into listing in London rather than New York. Here’s what investors need to know today.",
@@ -1907,6 +1917,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "article-6303134",
+          "author": null,
+          "description": "Sony ontslaat 8 procent van zijn wereldwijde personeelsbestand bij PlayStation. Dat komt neer op zo'n negenhonderd werknemers. Topman Jim Ryan spreekt van een extreem lastige beslissing die nodig was om het bedrijf op de lange termijn verder te laten groeien.",
+          "link": "https://www.nu.nl/tech/6303134/sony-ontslaat-negenhonderd-werknemers-van-playstation-tak.html",
+          "publishedOn": "2024-02-27T14:07:36.000Z",
+          "wordCount": 2534,
+          "title": "Sony ontslaat negenhonderd werknemers van PlayStation-tak",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/gqyxdqeaut5g_sqr256.jpg/sony-ontslaat-negenhonderd-werknemers-van-playstation-tak.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/gqyxdqeaut5g_sqr256.jpg/sony-ontslaat-negenhonderd-werknemers-van-playstation-tak.jpg"
+        },
         {
           "id": "article-6303119",
           "author": null,
@@ -8949,6 +8974,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "https://www.investopedia.com/pce-inflation-january-2024-preview-8600630",
+          "author": "Staff Author",
+          "description": "Economists widely expect an inflation report on Thursday to confirm that January was something of a setback in the battle against rapid cost-of-living increases.",
+          "link": "https://www.investopedia.com/pce-inflation-january-2024-preview-8600630?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-02-27T13:55:59.000Z",
+          "wordCount": 5606,
+          "title": "What To Expect From the Fed&#39;s Preferred Measure of Inflation This Week",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Fv54ANetZbsexHhicqo2eOggZCI=/5243x3495/GettyImages-2003724854-2aff2851bdba49d3aa4d53a8323cadf8.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Fv54ANetZbsexHhicqo2eOggZCI=/5243x3495/GettyImages-2003724854-2aff2851bdba49d3aa4d53a8323cadf8.jpg"
+        },
+        {
+          "id": "https://www.investopedia.com/tax-day-definition-5116810",
+          "author": "Kathryn Flynn",
+          "description": "Tax Day is the due date for U.S. federal individual income tax returns and payments—usually April 15.",
+          "link": "https://www.investopedia.com/tax-day-definition-5116810?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-02-27T13:43:11.000Z",
+          "wordCount": 8323,
+          "title": "Tax Day: What It Is, How It Works, Special Considerations",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Iud-4SZiIfXdqjEenD2s_JA7iLA=/5472x3648/GettyImages-1204194811-ac830129b3d64088b4d8c26bc3ffa5b8.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Iud-4SZiIfXdqjEenD2s_JA7iLA=/5472x3648/GettyImages-1204194811-ac830129b3d64088b4d8c26bc3ffa5b8.jpg"
+        },
         {
           "id": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-february-27-2024-8600788",
           "author": "Staff Author",
@@ -31993,21 +32048,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/gVl2qdQwrL_hbnTclLUeEJDbCJ8=/1500x1000/W8-Form-ed4e79f5dd814291afb3a3ea6127f493.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/managing-wealth/042216/medical-vs-financial-power-attorney-reasons-separate-them.asp",
-          "author": "Hanna Rubin",
-          "description": "A medical power of attorney authorizes healthcare decisions to be made for you, while a financial power of attorney allows for financial decisions.",
-          "link": "https://www.investopedia.com/articles/managing-wealth/042216/medical-vs-financial-power-attorney-reasons-separate-them.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2024-01-29T01:59:25.000Z",
-          "wordCount": 10143,
-          "title": "Financial vs. Medical Power of Attorney: What’s the Difference?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/UeUIbWr1dvtCluVXbSH89uadrag=/1999x1500/streamline-power-of-atty-GettyImages-102994469-57e4613b3df78c690fb20eff.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/UeUIbWr1dvtCluVXbSH89uadrag=/1999x1500/streamline-power-of-atty-GettyImages-102994469-57e4613b3df78c690fb20eff.jpg"
         }
       ]
     },
@@ -32017,6 +32057,66 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "tesla-stock-price-today-2f11e8d6?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/tesla-stock-price-today-2f11e8d6?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-02-27T13:36:00.000Z",
+          "wordCount": null,
+          "title": "Tesla Stock Rises. Here’s the Latest EV News.",
+          "imageUrl": null
+        },
+        {
+          "id": "norwegian-cruise-earnings-stock-price-7c4f54b7?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/norwegian-cruise-earnings-stock-price-7c4f54b7?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-02-27T13:22:00.000Z",
+          "wordCount": null,
+          "title": "Norwegian Cruise Stock Is Sailing Higher After Earnings. Demand Is at Record Levels.",
+          "imageUrl": null
+        },
+        {
+          "id": "4-magnificent-stocks-buy-near-130200860.html",
+          "author": null,
+          "description": "Buying high-quality industrials when they face rough patches can be a lucrative investment strategy over the long run.",
+          "link": "https://finance.yahoo.com/news/4-magnificent-stocks-buy-near-130200860.html",
+          "publishedOn": "2024-02-27T13:02:00.000Z",
+          "wordCount": 18653,
+          "title": "4 Magnificent Stocks to Buy That Are Near 52-Week Lows",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/wEVa.Zu8_vHmz8jQHkgvHQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/021f90f01f8830489fd5cb5a6abed92e"
+        },
+        {
+          "id": "intuitive-machines-stock-price-moon-fcba8c61?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/intuitive-machines-stock-price-moon-fcba8c61?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-02-27T13:01:00.000Z",
+          "wordCount": null,
+          "title": "Intuitive Machines Stock Is Falling Again. Now It’s Just ‘Sell the News.’",
+          "imageUrl": null
+        },
+        {
+          "id": "massive-news-rivian-stock-investors-130000385.html",
+          "author": null,
+          "description": "Rivian is looking to slow the pace of growth in 2024, and investors were not happy with the developments.",
+          "link": "https://finance.yahoo.com/news/massive-news-rivian-stock-investors-130000385.html",
+          "publishedOn": "2024-02-27T13:00:00.000Z",
+          "wordCount": 17992,
+          "title": "Massive News for Rivian Stock Investors",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/y3yBDWyNhdyRtz.DKh0zJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/4b23b98f30d86ba25c48b355bd1b157a"
+        },
+        {
+          "id": "could-nvidia-threat-super-micro-130000676.html",
+          "author": null,
+          "description": "Nvidia is designing ways to get new products to market faster.",
+          "link": "https://finance.yahoo.com/news/could-nvidia-threat-super-micro-130000676.html",
+          "publishedOn": "2024-02-27T13:00:00.000Z",
+          "wordCount": 18013,
+          "title": "Could Nvidia Be a Threat to Super Micro Computer?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/t9CRSIJMt_1PEklH.3hlAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/a0580b9df5648fbcef1f13c99301d47f"
+        },
+        {
           "id": "norwegian-cruise-forecasts-upbeat-first-124553391.html",
           "author": null,
           "description": "Cruise operators are experiencing record levels of bookings in 2024 as travelers look to spend on novel experiences and are choosing cruises over land-based alternatives such as hotels or theme parks.  This has given companies including Carnival Corp and Royal Caribbean more room to hike prices on their itineraries and offset still-high labor and fuel costs.  \"We are determined to capitalize on our recent achievements and take advantage of the positive momentum and strong demand for cruise which resulted in turning the year at all-time highs in both our booked position and pricing,\" Norwegian Cruise CEO Harry Sommer said.",
@@ -32025,6 +32125,26 @@
           "wordCount": 18036,
           "title": "Norwegian Cruise forecasts upbeat first-quarter profit on robust demand",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/706dc84618a5a843e34178dc7cdae8c2"
+        },
+        {
+          "id": "unity-software-tumbles-gloomy-forecast-123854991.html",
+          "author": null,
+          "description": "The company, which makes a toolkit used by videogame developers including the maker of the popular \"Pokemon Go\" mobile game, in November announced a \"reset\" after an attempt to impose a new \"runtime fee\" pricing sparked a developer revolt.  The so-called \"company reset\" includes workforce reduction in the first phase while the second phase focuses on reviving revenue growth, expected to accelerate in the second half of 2024.",
+          "link": "https://finance.yahoo.com/news/unity-software-tumbles-gloomy-forecast-123854991.html",
+          "publishedOn": "2024-02-27T12:38:54.000Z",
+          "wordCount": 17983,
+          "title": "Unity Software tumbles as gloomy forecast signals turnaround taking time",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        },
+        {
+          "id": "2-best-magnificent-seven-stocks-123200408.html",
+          "author": null,
+          "description": "Investors will appreciate these high-quality businesses selling at attractive valuations.",
+          "link": "https://finance.yahoo.com/news/2-best-magnificent-seven-stocks-123200408.html",
+          "publishedOn": "2024-02-27T12:32:00.000Z",
+          "wordCount": 18526,
+          "title": "Are These the 2 Best \"Magnificent Seven\" Stocks to Buy Right Now?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ftTEeFDEqBq4lH6AGNr5fA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Mzg-/https://media.zenfs.com/en/motleyfool.com/f5cc02ef2eb7a2f5c74f957e7c0328f1"
         },
         {
           "id": "history-says-nvidias-stock-fall-121500203.html",
@@ -32075,6 +32195,16 @@
           "wordCount": null,
           "title": "Technical Assessment: Neutral in the Intermediate-Term",
           "imageUrl": null
+        },
+        {
+          "id": "want-10-000-passive-income-114500942.html",
+          "author": null,
+          "description": "Business development companies (BDCs) can be lucrative opportunities for investors seeking dividend income.",
+          "link": "https://finance.yahoo.com/news/want-10-000-passive-income-114500942.html",
+          "publishedOn": "2024-02-27T11:45:00.000Z",
+          "wordCount": 18802,
+          "title": "Want to Make $10,000 in Passive Income This Year? Invest $100,000 in These 3 Ultra-High-Yield Dividend Stocks.",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/s6f4GukTdDhn_7nU5xH4Sw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDg-/https://media.zenfs.com/en/motleyfool.com/5c3d7352c9d5fa18a7f92fa3a84cc463"
         },
         {
           "id": "chip-wars-amd-broadcom-stock-114500019.html",
@@ -58545,16 +58675,6 @@
           "wordCount": 18819,
           "title": "Worsening crisis at Evergrande, world's most indebted developer",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/8b07ff33db42ce5d43425fb4cb91f340"
-        },
-        {
-          "id": "should-we-sell-our-home-now-or-wait-until-one-of-us-dies-6a9f09eb?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.wsj.com/personal-finance/taxes/should-we-sell-our-home-now-or-wait-until-one-of-us-dies-6a9f09eb?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-01-29T02:00:00.000Z",
-          "wordCount": null,
-          "title": "Should We Sell Our Home Now or Wait Until One of Us Dies?",
-          "imageUrl": null
         }
       ]
     }
