@@ -8875,6 +8875,21 @@
       "siteUrl": "https://www.investopedia.com",
       "articles": [
         {
+          "id": "https://www.investopedia.com/terms/m/minskymoment.asp",
+          "author": "Akhilesh Ganti",
+          "description": "Minsky Moment refers to the onset of a market collapse brought on by the reckless speculative activity that defines an unsustainable bullish period.",
+          "link": "https://www.investopedia.com/terms/m/minskymoment.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
+          "publishedOn": "2024-02-28T08:50:08.000Z",
+          "wordCount": 8193,
+          "title": "What Is a Minsky Moment? Definition, Causes, History, and Examples",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/y96lwrwK3zwxp57W2R_fn8-BeBI=/1024x785/255854265_6be375b1e5_b-01aec2f90c0b483a8fbff0800a877eb9.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/y96lwrwK3zwxp57W2R_fn8-BeBI=/1024x785/255854265_6be375b1e5_b-01aec2f90c0b483a8fbff0800a877eb9.jpg"
+        },
+        {
           "id": "https://www.investopedia.com/ask/answers/how-do-university-endowments-work/",
           "author": "Albert Phung",
           "description": "Endowments represent money or other financial assets donated to universities that are invested to grow the principal and provide additional income for future expenditures.",
@@ -32413,51 +32428,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/FLQ3PbPdA8zoW7rVQ7txc-FNcP0=/2526x1684/GettyImages-1797017596-921c23b9b1a14a66813b61587416a196.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/tax/08/tax-credit.asp",
-          "author": "Mark P. Cussen",
-          "description": "A few tax credits can greatly increase the amount of money you get back on your return.",
-          "link": "https://www.investopedia.com/articles/tax/08/tax-credit.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2024-01-29T21:10:13.000Z",
-          "wordCount": 6925,
-          "title": "Give Your Taxes Some Credit",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/8RsiIozrjeYt0OUHjStPFKR5BDQ=/285x260/personal-finance-lrg-5bfc2b1f4cedfd0026c1041a.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/8RsiIozrjeYt0OUHjStPFKR5BDQ=/285x260/personal-finance-lrg-5bfc2b1f4cedfd0026c1041a.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/taxes/trumps-tax-reform-plan-explained/",
-          "author": "David Floyd",
-          "description": "President Trump created a sweeping tax overhaul, which rewards the wealthy and corporations the most, has fizzled among voters.",
-          "link": "https://www.investopedia.com/taxes/trumps-tax-reform-plan-explained/?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2024-01-29T21:02:12.000Z",
-          "wordCount": 13559,
-          "title": "Explaining the Trump Tax Reform Plan",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/55WIbLy97EFXi9ooM7pu-sxtFr4=/1500x844/GettyImages-911586914-d4186dafdd8d4c3f94d4b0077f3c5918.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/55WIbLy97EFXi9ooM7pu-sxtFr4=/1500x844/GettyImages-911586914-d4186dafdd8d4c3f94d4b0077f3c5918.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/economics/08/economic-thought.asp",
-          "author": "Andrew Beattie",
-          "description": "Economics is a vital part of everyday life. Discover who created economics and the role it plays in global markets.",
-          "link": "https://www.investopedia.com/articles/economics/08/economic-thought.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2024-01-29T20:28:57.000Z",
-          "wordCount": 9538,
-          "title": "A Brief History of Economics",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/KfRDKpzU40epGzjqmV5fkVuHIp8=/3869x2579/Economies-of-Scale-56a093c45f9b58eba4b1b0b2.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/KfRDKpzU40epGzjqmV5fkVuHIp8=/3869x2579/Economies-of-Scale-56a093c45f9b58eba4b1b0b2.jpg"
         }
       ]
     },
@@ -32466,6 +32436,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "stock-market-today-asian-stocks-075756935.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/stock-market-today-asian-stocks-075756935.html",
+          "publishedOn": "2024-02-28T07:57:56.000Z",
+          "wordCount": null,
+          "title": "Stock market today: Asian stocks lower after Wall Street holds steady near record highs",
+          "imageUrl": null
+        },
         {
           "id": "ai-super-micro-computer-stock-bubble-1e902b8f?siteid=yhoof2&yptr=yahoo",
           "author": null,
@@ -32515,6 +32495,16 @@
           "wordCount": 18253,
           "title": "The Great Cashout—Jeff Bezos, Leon Black, Jamie Dimon, and the Walton family have now sold a combined $11 billion in company stock this month— some for the first time ever",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/0a2YYPvLPUWdQ7ykBKn8Ww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/bb215e557076afe2ac6d6a8f5af82fab"
+        },
+        {
+          "id": "why-bitcoin-ethereum-dogecoin-rallied-012328090.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/why-bitcoin-ethereum-dogecoin-rallied-012328090.html",
+          "publishedOn": "2024-02-28T01:23:28.000Z",
+          "wordCount": null,
+          "title": "Why Bitcoin, Ethereum, and Dogecoin Rallied on Tuesday",
+          "imageUrl": null
         },
         {
           "id": "hard-landing-recession-guaranteed-full-231844035.html",
@@ -32754,6 +32744,16 @@
           "publishedOn": "2024-02-27T17:18:21.000Z",
           "wordCount": null,
           "title": "Jeff Bezos-Backed Real Estate Company Targets Unexpected Markets, Fueling Debate on Investment Impact",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/research/best-stocks-to-buy-now/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-02-27T17:09:04.000Z",
+          "wordCount": null,
+          "title": "These Are The 5 Best Stocks To Buy And Watch Now",
           "imageUrl": null
         },
         {
@@ -58745,16 +58745,6 @@
           "wordCount": null,
           "title": "PDD Stock Slides As Analyst Says Temu's U.S. Momentum Is 'Cresting'",
           "imageUrl": null
-        },
-        {
-          "id": "american-airlines-sued-seizing-cardholders-210731275.html",
-          "author": null,
-          "description": "American Airlines was sued on Monday in a proposed class action by two customers who said the carrier stripped them of 1.1 million frequent flier miles after they doubled up on credit cards offering mileage bonuses.  Ari and Shanna Nachison said American wrongly accused them of fraud for opening multiple AAdvantage accounts, with cards issued under co-branding arrangements with Citibank and Barclays.  The Los Gatos, California residents said that while some card applications prevented multiple mileage bonuses within a 48-month period, theirs did not, and it remained unclear why American closed their accounts in early 2020.",
-          "link": "https://finance.yahoo.com/news/american-airlines-sued-seizing-cardholders-210731275.html",
-          "publishedOn": "2024-01-29T21:07:31.000Z",
-          "wordCount": 18393,
-          "title": "American Airlines is sued for seizing cardholders' frequent flier miles",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/18656b3f852d5bea64f24f5f9c0442b1"
         }
       ]
     }
