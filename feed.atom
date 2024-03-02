@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T06:16:01.723Z</updated>
+    <updated>2024-03-02T07:10:02.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -41,6 +41,16 @@
         <id>?src=A00220&amp;yptr=yahoo</id>
         <link href="https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-taiwan-semi-jumps/?src=A00220&amp;yptr=yahoo"/>
         <updated>2024-03-01T23:46:39.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Novo Nordisk Stock Topped the Market Today]]></title>
+        <id>why-novo-nordisk-stock-topped-231521507.html</id>
+        <link href="https://finance.yahoo.com/news/why-novo-nordisk-stock-topped-231521507.html"/>
+        <updated>2024-03-01T23:15:21.000Z</updated>
+        <summary type="html"><![CDATA[A favorite of both investors and analysts gets a boost from a bullish move by a pundit.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
