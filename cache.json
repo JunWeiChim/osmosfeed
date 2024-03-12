@@ -841,6 +841,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "d3cf9f24f9d2fa67a4ab98016d4d5968",
+          "author": "Investopedia",
+          "description": "Nvidia’s shares are rising, Equitrans Midstream is surging on a report EQT is buying it, Oracle reports earnings after the closing bell, Reddit is seeking $748 million from its IPO, and the Justice Department has opened a criminal probe into Boeing. Here’s what investors need to know today.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df5623419678813cd2995761c2f43eb7e1ae2ff2ed803ee821e8380c8a791e591e5eada1fc942f0f9984eff483",
+          "publishedOn": "2024-03-11T12:00:00.000Z",
+          "wordCount": 409,
+          "title": "5 Things to Know Before the Stock Market Opens",
+          "imageUrl": null
+        },
+        {
           "id": "592046c4172cdde6357b59953a9c25e7",
           "author": "Investopedia",
           "description": "The S&P 500 slipped 0.1% on Monday, March 11, 2024, ahead of inflation data on Tuesday that could affect rate-cut expectations.",
@@ -1877,6 +1887,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "article-6304893",
+          "author": null,
+          "description": "Apple staat iPhone- en iPad-bezitters binnenkort toe apps rechtstreeks vanaf websites te downloaden. Dat hoeven ze dan niet meer per se via een appwinkel te doen. De ontwikkelaars van apps moeten wel aan strenge voorwaarden voldoen.",
+          "link": "https://www.nu.nl/tech/6304893/apps-voor-iphone-binnenkort-ook-te-downloaden-via-websites.html",
+          "publishedOn": "2024-03-12T12:00:58.000Z",
+          "wordCount": 489,
+          "title": "Apps voor iPhone binnenkort ook te downloaden via websites",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/duixjazaqn98_sqr256.jpg/apps-voor-iphone-binnenkort-ook-te-downloaden-via-websites.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/duixjazaqn98_sqr256.jpg/apps-voor-iphone-binnenkort-ook-te-downloaden-via-websites.jpg"
+        },
         {
           "id": "article-6304901",
           "author": null,
@@ -8724,6 +8749,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8607796",
+          "author": "Nisha Gopalan",
+          "description": "News of the day for March 12, 2024",
+          "link": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-march-12-2024-8607796",
+          "publishedOn": "2024-03-12T11:43:03.000Z",
+          "wordCount": 5691,
+          "title": "5 Things to Know Before the Stock Market Opens",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/WWxscBVW_EuaDIzlgoACXQS1YTA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1249272171-a1657e8b0f1e4f5dad867c6d2ee51de2.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/WWxscBVW_EuaDIzlgoACXQS1YTA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1249272171-a1657e8b0f1e4f5dad867c6d2ee51de2.jpg"
+        },
         {
           "id": "8607793",
           "author": "Timothy Smith",
@@ -25048,21 +25088,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/6XXcDCRVW3uTiCt-df88R88YrU8=/1500x1000/Term-Definitions_economicorderquantity-11c47d27b8094534a3c848e9e40fdbbd.png"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/mutualfund/05/mfhistory.asp",
-          "author": "James McWhinney",
-          "description": "This popular investment vehicle saw its share of ups and downs, successes and scandals before being adopted by Americans as a major savings choice.",
-          "link": "https://www.investopedia.com/articles/mutualfund/05/mfhistory.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2024-02-11T23:13:31.000Z",
-          "wordCount": 7535,
-          "title": "A Brief History of the Mutual Fund",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/5Xtt5XnpBA40BzgyczJtRYN3NxQ=/285x260/bonds-lrg-4-5bfc2b234cedfd0026c104ea.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/5Xtt5XnpBA40BzgyczJtRYN3NxQ=/285x260/bonds-lrg-4-5bfc2b234cedfd0026c104ea.jpg"
         }
       ]
     },
@@ -25071,6 +25096,116 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "stock-market-today-sp-500-nasdaq-futures-edge-higher-as-cpi-day-arrives-114322093.html",
+          "author": null,
+          "description": "Investors are bracing against a potential surprise in the crucial CPI inflation print, a key input into the Fed's policy deliberations.",
+          "link": "https://finance.yahoo.com/news/stock-market-today-sp-500-nasdaq-futures-edge-higher-as-cpi-day-arrives-114322093.html",
+          "publishedOn": "2024-03-12T11:43:22.000Z",
+          "wordCount": 18996,
+          "title": "Stock market today: S&P 500, Nasdaq futures edge higher as CPI day arrives",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/hPbqrJhc920HyaWtEoFyAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/ecc100e0-4bcb-11ee-abf7-674c1fd2b5b5"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/on-running-earnings-near-buy-point/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-03-12T11:42:19.000Z",
+          "wordCount": null,
+          "title": "On Running Tumbles From Buy Point After Big Earnings Miss",
+          "imageUrl": null
+        },
+        {
+          "id": "adm-revises-years-internal-sales-111050920.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/adm-revises-years-internal-sales-111050920.html",
+          "publishedOn": "2024-03-12T11:10:50.000Z",
+          "wordCount": null,
+          "title": "ADM Revises Years of Internal Sales After Accounting Probe",
+          "imageUrl": null
+        },
+        {
+          "id": "first-taking-rmds-money-dont-110000947.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/first-taking-rmds-money-dont-110000947.html",
+          "publishedOn": "2024-03-12T11:00:00.000Z",
+          "wordCount": null,
+          "title": "This Is My First Year Taking RMDs. What Should I Do With the Money If I Don't Need It Yet?",
+          "imageUrl": null
+        },
+        {
+          "id": "2-magnificent-artificial-intelligence-ai-105000229.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/2-magnificent-artificial-intelligence-ai-105000229.html",
+          "publishedOn": "2024-03-12T10:50:00.000Z",
+          "wordCount": null,
+          "title": "2 Magnificent Artificial Intelligence (AI) Stocks to Buy Right Now",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_39372_MarketOutlook_1710240594000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_39372_MarketOutlook_1710240594000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-03-12T10:49:54.000Z",
+          "wordCount": null,
+          "title": "Daily Spotlight: India Leads the Way in Global Growth",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_39371_TechnicalAnalysis_1710240585000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_39371_TechnicalAnalysis_1710240585000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-03-12T10:49:45.000Z",
+          "wordCount": null,
+          "title": "Technical Assessment: Neutral in the Intermediate-Term",
+          "imageUrl": null
+        },
+        {
+          "id": "southwest-airlines-cuts-jet-delivery-104600944.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/southwest-airlines-cuts-jet-delivery-104600944.html",
+          "publishedOn": "2024-03-12T10:46:00.000Z",
+          "wordCount": null,
+          "title": "Southwest Airlines again cuts jet delivery forecast from Boeing",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_39369_InsiderActivity_1710239976000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_39369_InsiderActivity_1710239976000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-03-12T10:39:36.000Z",
+          "wordCount": null,
+          "title": "Daily – Vickers Top Insider Picks for 03/12/2024",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_39370_TopBottomInsiderActivity_1710239976000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_39370_TopBottomInsiderActivity_1710239976000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-03-12T10:39:36.000Z",
+          "wordCount": null,
+          "title": "Daily – Vickers Top Buyers & Sellers for 03/12/2024",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_39366_MarketSummary_1710238615000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_39366_MarketSummary_1710238615000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-03-12T10:16:55.000Z",
+          "wordCount": null,
+          "title": "Market Digest: MRVL, PARA, LUV",
+          "imageUrl": null
+        },
         {
           "id": "forget-magnificent-seven-1-artificial-101500075.html",
           "author": null,
@@ -25180,6 +25315,16 @@
           "wordCount": 17762,
           "title": "China Stocks Begin Witnessing Bull Markets in a Gamut of Sectors",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/e88316be5424dba3c99a151b2ab73636"
+        },
+        {
+          "id": "february-inflation-report-expected-show-060041094.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/february-inflation-report-expected-show-060041094.html",
+          "publishedOn": "2024-03-12T06:00:41.000Z",
+          "wordCount": null,
+          "title": "February inflation report expected to show another 'strong' monthly increase",
+          "imageUrl": null
         },
         {
           "id": "bitcoin-mining-daily-revenue-hits-033439212.html",
