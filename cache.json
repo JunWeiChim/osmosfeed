@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "4c933bbe66e4fbc8b421cbef8c395180",
+          "author": "Investopedia",
+          "description": "Walt Disney Co. shares gained ground Wednesday after JPMorgan Chase CEO Jamie Dimon endorsed Disney CEO Bob Iger in his fight with activist investor Nelson Peltz.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca826ed4ec1abc11308f8b2aeef53f39c2465ec03b8c36b6df4d2d09d17b983cc3951b628ef578b6fcee2feca58723e83cfb25179b7949015404e9bebfd0635184c2b3aeced6d4df431ed64b94c1",
+          "publishedOn": "2024-03-13T12:00:00.000Z",
+          "wordCount": 409,
+          "title": "Disney, Iger Get Backing of JPMorgan's Dimon in Proxy Fight With Peltz",
+          "imageUrl": null
+        },
+        {
           "id": "55a4f4db94cdecf7f9c47be7cd94c2e8",
           "author": "Investopedia",
           "description": "Tesla shares fell Wednesday morning as analysts at Wells Fargo said the stock \"ain't looking so 'Magnificent'\" and that it's a \"growth company with no growth.\"",
@@ -1897,6 +1907,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "article-6305104",
+          "author": null,
+          "description": "Air France-KLM gaat in beroep tegen de uitspraak van de Europese rechter die bepaalde dat de Franse coronasteun onterecht was. Volgens de rechter heeft de Europese Commissie niet goed onderzocht of de coronasteun terecht was goedgekeurd.",
+          "link": "https://www.nu.nl/economie/6305104/air-france-klm-in-beroep-tegen-europees-vonnis-over-franse-coronasteun.html",
+          "publishedOn": "2024-03-13T17:56:24.000Z",
+          "wordCount": 489,
+          "title": "Air France-KLM in beroep tegen Europees vonnis over Franse coronasteun",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/d3zx8uyap25r_sqr256.jpg/air-france-klm-in-beroep-tegen-europees-vonnis-over-franse-coronasteun.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/d3zx8uyap25r_sqr256.jpg/air-france-klm-in-beroep-tegen-europees-vonnis-over-franse-coronasteun.jpg"
+        },
         {
           "id": "article-6305085",
           "author": null,
@@ -8984,6 +9009,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8608562",
+          "author": "Bill McColl",
+          "description": "U.S. equities were mixed at midday Wednesday, March 13, 2024, with the Nasdaq dragged down by tech stocks.",
+          "link": "https://www.investopedia.com/top-stock-movers-now-dollar-tree-tesla-mcdonalds-and-more-8608562",
+          "publishedOn": "2024-03-13T18:05:48.000Z",
+          "wordCount": 4932,
+          "title": "Top Stock Movers Now: Dollar Tree, Tesla, McDonald’s, and More",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/9CHwzp0vvnIklMgLtWW7KwY1cD8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1257399012-6bd236957c3148eaafbe65d56cb07683.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/9CHwzp0vvnIklMgLtWW7KwY1cD8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1257399012-6bd236957c3148eaafbe65d56cb07683.jpg"
+        },
+        {
+          "id": "8608469",
+          "author": "Marc Zerbola Challande",
+          "description": "Intel Corp. shares lost 3% Wednesday after the Pentagon reportedly pulled out of a plan to allocate as much as $2.5 billion in a chip grant to the company. According to Bloomberg, the Pentagon's move might decrease Intel's anticipated $10 billion in federal funding from the CHIPS and Science Act.",
+          "link": "https://www.investopedia.com/intel-shares-fall-after-the-pentagon-withdraws-a-usd2-5b-chip-grant-8608469",
+          "publishedOn": "2024-03-13T17:25:44.000Z",
+          "wordCount": 5096,
+          "title": "Intel Shares Fall on Report That Pentagon Withdrew $2.5B Chip Grant",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/st99FpGsYdPe8PvG3hdsqAQJH08=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/INV_IntelLogo_GettyImages-1246677564-8d57e801a11949bc8223a08114ada70c.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/st99FpGsYdPe8PvG3hdsqAQJH08=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/INV_IntelLogo_GettyImages-1246677564-8d57e801a11949bc8223a08114ada70c.jpg"
+        },
+        {
+          "id": "8608532",
+          "author": "Colin Laidley",
+          "description": "Walt Disney Co. shares gained ground Wednesday after JPMorgan Chase CEO Jamie Dimon endorsed Disney CEO Bob Iger in his fight with activist investor Nelson Peltz.",
+          "link": "https://www.investopedia.com/disney-iger-get-backing-of-jpmorgan-s-dimon-in-proxy-fight-with-peltz-8608532",
+          "publishedOn": "2024-03-13T17:22:01.000Z",
+          "wordCount": 5357,
+          "title": "Disney, Iger Get Backing of JPMorgan's Dimon in Proxy Fight With Peltz",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Umj0MVdhDuA0kMT6Sd-tTTi5dZE=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1171045746-7a719f9e5fdb462f97442180d688e458.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Umj0MVdhDuA0kMT6Sd-tTTi5dZE=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1171045746-7a719f9e5fdb462f97442180d688e458.jpg"
+        },
         {
           "id": "8608523",
           "author": "Naomi Buchanan",
@@ -24638,36 +24708,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/rCNC3u21Z9Iejaw-XTDF9-0FeBU=/2127x1409/GettyImages-1088912398-f9bfa3cf6f054b06bd0a14580a9c221b.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/s/signing-bonus.asp",
-          "author": "Julia Kagan",
-          "description": "A sign-on bonus is a one-time payment offered by a company to a prospective hire to accept a position.",
-          "link": "https://www.investopedia.com/terms/s/signing-bonus.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2024-02-13T05:36:12.000Z",
-          "wordCount": 7601,
-          "title": "Sign-On Bonus: Definition, How It Works, and Taxes",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/dv0vV77g-G_uV2g_Wvc4pa_R0eA=/680x440/148985994-5bfc2b8c46e0fb0083c07ba8.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/dv0vV77g-G_uV2g_Wvc4pa_R0eA=/680x440/148985994-5bfc2b8c46e0fb0083c07ba8.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/08/laffer-curve.asp",
-          "author": "Lisa Smith",
-          "description": "Feel like the government always has its hand in your pocket? Learn the theory behind its decision-making on taxing you.",
-          "link": "https://www.investopedia.com/articles/08/laffer-curve.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2024-02-13T05:20:25.000Z",
-          "wordCount": 8823,
-          "title": "How the Ideal Tax Rate Is Determined: The Laffer Curve",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/6pt6VALavABxSsU9sVpBXT5RMpY=/680x440/147323400-5bfc2b8c4cedfd0026c11901.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/6pt6VALavABxSsU9sVpBXT5RMpY=/680x440/147323400-5bfc2b8c4cedfd0026c11901.jpg"
         }
       ]
     },
@@ -24677,6 +24717,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "ARGUS_39389_MarketUpdate_1710349675000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_39389_MarketUpdate_1710349675000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-03-13T17:07:55.000Z",
+          "wordCount": null,
+          "title": "Market Update: APA, DTE",
+          "imageUrl": null
+        },
+        {
+          "id": "why-zim-integrated-shipping-stock-163718497.html",
+          "author": null,
+          "description": "Guidance for 2024 suggests no quick turnaround for this shipping company.",
+          "link": "https://finance.yahoo.com/news/why-zim-integrated-shipping-stock-163718497.html",
+          "publishedOn": "2024-03-13T16:37:18.000Z",
+          "wordCount": 18373,
+          "title": "Why Zim Integrated Shipping Stock Is Down Big Today",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/.Bgkmh8V5pRmt6TRAtbnmQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTk-/https://media.zenfs.com/en/motleyfool.com/dba98a09f9f493379ee51213fbc1745b"
+        },
+        {
           "id": "more-workers-plan-retire-less-110014902.html",
           "author": null,
           "description": "",
@@ -24684,6 +24744,16 @@
           "publishedOn": "2024-03-13T16:00:35.000Z",
           "wordCount": null,
           "title": "More Americans Think They Can Retire With Less Money by Claiming Social Security Early. Can They?",
+          "imageUrl": null
+        },
+        {
+          "id": "owe-taxes-reinvested-dividends-161805024.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/owe-taxes-reinvested-dividends-161805024.html",
+          "publishedOn": "2024-03-13T15:59:28.000Z",
+          "wordCount": null,
+          "title": "Will I Owe Taxes on Reinvested Dividends?",
           "imageUrl": null
         },
         {
@@ -50555,16 +50625,6 @@
           "wordCount": 18630,
           "title": "MSCI to Remove Swath of China Stocks From Indexes as Markets Sink",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/nwWWPereBgQDnDhgfHgW3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODA-/https://media.zenfs.com/en/bloomberg_markets_842/9c3df575f8e98ec33431dbe491670aa4"
-        },
-        {
-          "id": "michael-saylor-believes-demand-bitcoin-054422446.html",
-          "author": null,
-          "description": "MicroStrategy co-founder and executive chairman says his company is re-branding as a bitcoin development company during CNBC interview.",
-          "link": "https://finance.yahoo.com/news/michael-saylor-believes-demand-bitcoin-054422446.html",
-          "publishedOn": "2024-02-13T05:44:22.000Z",
-          "wordCount": 18434,
-          "title": "Michael Saylor Believes Demand for Bitcoin Products Is 10x the Supply",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/pT0_llMPHB4NEkxzY6hUKg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/coindesk_75/74ae5604dea356e5349a11105eed0595"
         }
       ]
     }
