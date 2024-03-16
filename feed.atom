@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T19:09:43.081Z</updated>
+    <updated>2024-03-16T20:11:59.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -81,6 +81,16 @@
         <link href="https://finance.yahoo.com/news/forget-amazon-think-stock-replace-143500299.html"/>
         <updated>2024-03-16T14:35:00.000Z</updated>
         <summary type="html"><![CDATA[Amazon's best growth days may be behind it. This stock is a better choice.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Warren Buffett "Magnificent Seven" Stock Is Riskier Than You Think]]></title>
+        <id>warren-buffett-magnificent-seven-stock-141500126.html</id>
+        <link href="https://finance.yahoo.com/news/warren-buffett-magnificent-seven-stock-141500126.html"/>
+        <updated>2024-03-16T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[It is one of the largest companies in the world, but that doesn't guarantee it will be a good investment.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -177,6 +187,16 @@
         <id>?src=A00220&amp;yptr=yahoo</id>
         <link href="https://www.investors.com/news/tesla-stock-is-plunging-not-cheaper-by-earnings-metric/?src=A00220&amp;yptr=yahoo"/>
         <updated>2024-03-16T12:00:30.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Top Dividend Stocks to Buy Right Now]]></title>
+        <id>3-top-dividend-stocks-buy-120000395.html</id>
+        <link href="https://finance.yahoo.com/news/3-top-dividend-stocks-buy-120000395.html"/>
+        <updated>2024-03-16T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here are three consumer brands with a record of paying growing dividends to shareholders.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -39633,26 +39653,6 @@ Nvidia shares were down 5.4%, on track for their largest percent decrease since 
         <summary type="html"><![CDATA[Investors dumped cash and continued to pour money into equities, particularly tech stocks, and investment grade bonds in the week to Wednesday, Bank of America said in a report on Friday.  There were inflows of $16.1 billion to stocks, and $11.6 billion to bonds, compared to outflows of $18.4 billion from cash, the most in eight weeks, BofA said in its weekly roundup of fund flows in and out of world markets, using EPFR data.  The relentless and rapid rise of large U.S. tech stocks - often referred to as the Magnificent Seven - in part driven by optimism around generative AI - has powered U.S. shares higher in recent months.]]></summary>
         <author>
             <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schiphol verwacht forse groei van aantal vluchten dit jaar]]></title>
-        <id>article-6301734</id>
-        <link href="https://www.nu.nl/economie/6301734/schiphol-verwacht-forse-groei-van-aantal-vluchten-dit-jaar.html"/>
-        <updated>2024-02-16T08:11:19.000Z</updated>
-        <summary type="html"><![CDATA[Het aantal vluchten van en naar Schiphol komt dit jaar waarschijnlijk uit rond de 470.000. Dat is een flinke toename ten opzichte van de 441.000 van vorig jaar. Dat meldt de luchthavenbeheerder vrijdag bij de publicatie van zijn jaarcijfers.]]></summary>
-        <author>
-            <name>NU - Economie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Achmea trekt 60 miljoen uit om gedupeerden woekerpolissen te compenseren]]></title>
-        <id>article-6301729</id>
-        <link href="https://www.nu.nl/economie/6301729/achmea-trekt-60-miljoen-uit-om-gedupeerden-woekerpolissen-te-compenseren.html"/>
-        <updated>2024-02-16T07:58:50.000Z</updated>
-        <summary type="html"><![CDATA[Vijf claimclubs en verzekeraar Achmea zijn akkoord over een compensatieregeling voor mensen met een woekerpolis. De verzekeraar trekt hier 60 miljoen euro voor uit. Daarvoor in ruil beloven de organisaties geen verdere juridische stappen te ondernemen.]]></summary>
-        <author>
-            <name>NU - Economie</name>
         </author>
     </entry>
 </feed>
