@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-17T17:09:57.654Z</updated>
+    <updated>2024-03-17T18:13:26.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -764,6 +764,16 @@
         <link href="https://finance.yahoo.com/news/few-years-now-youll-probably-093000729.html"/>
         <updated>2024-03-16T11:34:00.000Z</updated>
         <summary type="html"><![CDATA[Nu Holdings went from an idea to a $50 billion business over a handful of years. Several billionaire investors are betting on even more upside.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. economy faces 1970s-style stagflation as inflation sticks around]]></title>
+        <id>u-economy-faces-1970s-style-113000721.html</id>
+        <link href="https://finance.yahoo.com/news/u-economy-faces-1970s-style-113000721.html"/>
+        <updated>2024-03-16T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Another Wall Street strategist warns the economy has gone from ‘goldilocks to stagflation,’ and investors are ignoring it at their own peril]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -38594,26 +38604,6 @@ Nvidia shares were down 5.4%, on track for their largest percent decrease since 
         <summary type="html"><![CDATA[Read about the importance of contingent liabilities during an audit, why audits are necessary and how contingent liabilities are reviewed by auditors.]]></summary>
         <author>
             <name>Sean Ross</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NU+ | Europese techwet geldt vanaf nu voor bijna alle internetbedrijven]]></title>
-        <id>article-6301605</id>
-        <link href="https://www.nu.nl/tech/6301605/europese-techwet-geldt-vanaf-nu-voor-bijna-alle-internetbedrijven.html"/>
-        <updated>2024-02-17T06:02:24.000Z</updated>
-        <summary type="html"><![CDATA[De grote Europese techwet voor digitale diensten geldt vanaf vandaag ook voor internetproviders, online diensten en verkoopplatformen zoals bol en Marktplaats. Met die wet wil Brussel ons internet een stuk veiliger maken.]]></summary>
-        <author>
-            <name>NU - Economie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is a Business Continuity Plan (BCP), and How Does It Work?]]></title>
-        <id>https://www.investopedia.com/terms/b/business-continuity-planning.asp</id>
-        <link href="https://www.investopedia.com/terms/b/business-continuity-planning.asp?utm_campaign=rss_headlines&amp;utm_source=rss&amp;utm_medium=referral"/>
-        <updated>2024-02-17T05:24:30.000Z</updated>
-        <summary type="html"><![CDATA[Business continuity plans (BCPs) establishes protocols and creates prevention and recovery systems in case of a cyber-attack or natural disaster.]]></summary>
-        <author>
-            <name>Will Kenton</name>
         </author>
     </entry>
 </feed>
