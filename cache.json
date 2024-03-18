@@ -24,6 +24,26 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "5c7f74bf78d7a58bbfe822b35e92c3d5",
+          "author": "Investopedia",
+          "description": "Tesla shares jumped Monday morning after the electric vehicle maker said it is raising the price of its most popular EV, the Model Y, by $1,000 on April 1.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9262d4ee1ee84f2d878d33eef82f209f5712c236913da3df473d09d66a9e36c3df086dcaf530a1b8ee2fe6ed8260bc61f9380681315c450b5aaca3fb8f2f",
+          "publishedOn": "2024-03-18T12:00:00.000Z",
+          "wordCount": 409,
+          "title": "Tesla Stock Jumps After EV Maker Raises Model",
+          "imageUrl": null
+        },
+        {
+          "id": "cc706fb74363fbbfa61870f2391071ae",
+          "author": "Investopedia",
+          "description": "Logitech International shares fell 7% Monday after the Swiss computer accessories maker said its finance chief, Charles Boynton, had stepped down \"to pursue another career opportunity.\"",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8a68c0eb0ba05f31c59d30a2e03f3ec2425ecf3cc86ffcc50f2a42cf6e877ed2941521d1e326bbf2ed33afb0d87cf57fbd7c",
+          "publishedOn": "2024-03-18T12:00:00.000Z",
+          "wordCount": 409,
+          "title": "Logitech Shares Fall After CFO Resigns",
+          "imageUrl": null
+        },
+        {
           "id": "94a4ff3db6e41a9f812952dde3807abd",
           "author": "Investopedia",
           "description": "Uber reportedly will pay $178 million to Australian taxi drivers to settle a class-action lawsuit that alleged that the ride-hailing app destroyed their livelihoods.",
@@ -930,6 +950,16 @@
       "feedUrl": "https://rss.app/feeds/UWnMV6nTNN8mPDUG.xml",
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
+        {
+          "id": "97bc88cba5a6d5ce3065321ca8b0ef16",
+          "author": "Investopedia",
+          "description": "Nasdaq said it resolved an issue with its matching engine that disrupted pre-market trading for over two hours Monday.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8866d4e61eb4112a89972beee63f2e870956d023903dfc864a2a509663943fc5971e21d7f434b6f0f06de4e79c60aa3aec3842962340455b03e8e1bb947e4a84c0b3b1d5c08f821103d64896c33931da",
+          "publishedOn": "2024-03-18T12:00:00.000Z",
+          "wordCount": 409,
+          "title": "Nasdaq Says Tech Issue That Halted Trades for Over Two Hours Is Resolved",
+          "imageUrl": null
+        },
         {
           "id": "252d81ad6ec025b116342d4b467abc6a",
           "author": "Investopedia",
@@ -1867,6 +1897,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "article-6305656",
+          "author": null,
+          "description": "Kinderopvang is een schaars goed in Nederland, net als personeel. Dus biedt opvangorganisatie Kindergarden werkgevers voorrang op de wachtlijst voor een plekje. Goed nieuws voor de arbeidsmarkt of slecht nieuws voor alle wachtende ouders zonder rijke werkgever?",
+          "link": "https://www.nu.nl/economie/6305656/kinderopvang-via-werkgever-oplossing-voor-wachtlijsten-of-een-misser.html",
+          "publishedOn": "2024-03-18T16:07:09.000Z",
+          "wordCount": 489,
+          "title": "NU + | Kinderopvang via werkgever: oplossing voor wachtlijsten of een misser?",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/6efx4e3a99hl_sqr256.jpg/kinderopvang-via-werkgever-oplossing-voor-wachtlijsten-of-een-misser.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/6efx4e3a99hl_sqr256.jpg/kinderopvang-via-werkgever-oplossing-voor-wachtlijsten-of-een-misser.jpg"
+        },
+        {
+          "id": "article-6305694",
+          "author": null,
+          "description": "Fruittelers mogen de appelbloesemkevers en schurft toch te lijf gaan met bestrijdingsmiddelen die eigenlijk verboden zijn in hun branche. Demissionair landbouwminister Piet Adema vindt de tijd rijp worden voor andere methoden.",
+          "link": "https://www.nu.nl/economie/6305694/fruittelers-mogen-dit-seizoen-toch-werken-met-verboden-bestrijdingsmiddelen.html",
+          "publishedOn": "2024-03-18T15:52:52.000Z",
+          "wordCount": 489,
+          "title": "Fruittelers mogen dit seizoen toch werken met verboden bestrijdingsmiddelen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/whvxkkla1rt0_sqr256.jpg/fruittelers-mogen-dit-seizoen-toch-werken-met-verboden-bestrijdingsmiddelen.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/whvxkkla1rt0_sqr256.jpg/fruittelers-mogen-dit-seizoen-toch-werken-met-verboden-bestrijdingsmiddelen.jpg"
+        },
         {
           "id": "article-6305685",
           "author": null,
@@ -8751,21 +8811,6 @@
             "url": "https://media.nu.nl/m/m1mxc6pa35kv_sqr256.jpg/chinese-centrale-bank-laat-rente-ongemoeid-ondanks-problemen-economie.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/m1mxc6pa35kv_sqr256.jpg/chinese-centrale-bank-laat-rente-ongemoeid-ondanks-problemen-economie.jpg"
-        },
-        {
-          "id": "article-6301520",
-          "author": null,
-          "description": "Jumbo wil kunstmatige intelligentie gaan inzetten in zijn strijd tegen winkeldiefstal. Voor de supermarktketen is dit mogelijk een fantastische oplossing, maar critici vrezen weer een volgende stap op het gebied van massasurveillance.",
-          "link": "https://www.nu.nl/tech/6301520/alweer-controle-bij-de-zelfscankassa-mogelijk-vindt-ai-je-gedrag-verdacht.html",
-          "publishedOn": "2024-02-18T04:01:37.000Z",
-          "wordCount": 3755,
-          "title": "Alweer controle bij de zelfscankassa? Mogelijk vindt AI je gedrag verdacht",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/gy4xs2caxuf4_sqr256.jpg/alweer-controle-bij-de-zelfscankassa-mogelijk-vindt-ai-je-gedrag-verdacht.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/gy4xs2caxuf4_sqr256.jpg/alweer-controle-bij-de-zelfscankassa-mogelijk-vindt-ai-je-gedrag-verdacht.jpg"
         }
       ]
     },
@@ -8774,6 +8819,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8610368",
+          "author": "Bill McColl",
+          "description": "Tesla shares jumped Monday morning after the electric vehicle maker said it is raising the price of its most popular EV, the Model Y, by $1,000 on April 1.",
+          "link": "https://www.investopedia.com/tesla-stock-jumps-after-ev-maker-raises-model-y-prices-8610368",
+          "publishedOn": "2024-03-18T15:36:13.000Z",
+          "wordCount": 5985,
+          "title": "Tesla Stock Jumps After EV Maker Raises Model Y Prices",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/LiFdBRv3U0x6o273ueqD1ytWy8E=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1494888410-c8b4c4bc55814f31bc437713b8467636.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/LiFdBRv3U0x6o273ueqD1ytWy8E=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1494888410-c8b4c4bc55814f31bc437713b8467636.jpg"
+        },
+        {
+          "id": "8610342",
+          "author": "Aaron McDade",
+          "description": "Nasdaq said it resolved an issue with its matching engine that disrupted pre-market trading for over two hours Monday.",
+          "link": "https://www.investopedia.com/nasdaq-says-tech-issue-that-halted-trades-for-over-two-hours-is-resolved-8610342",
+          "publishedOn": "2024-03-18T15:18:43.000Z",
+          "wordCount": 5979,
+          "title": "Nasdaq Says Tech Issue That Halted Trades for Over Two Hours Is Resolved",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/h0p-NVdhkzN3NtDsVN_ycZVT8IY=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1459193203-77749005d46c4c09a0545f017f260a8a.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/h0p-NVdhkzN3NtDsVN_ycZVT8IY=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1459193203-77749005d46c4c09a0545f017f260a8a.jpg"
+        },
+        {
+          "id": "8610346",
+          "author": "Marc Zerbola Challande",
+          "description": "Logitech International shares fell 7% Monday after the Swiss computer accessories maker said its finance chief, Charles Boynton, had stepped down \"to pursue another career opportunity.\"",
+          "link": "https://www.investopedia.com/logitech-shares-fall-7-7-after-cfo-resigns-8610346",
+          "publishedOn": "2024-03-18T15:17:02.000Z",
+          "wordCount": 5126,
+          "title": "Logitech Shares Fall After CFO Resigns",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/nWxNV_P8jBrUX5iNSW9f5S1t-84=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1973070080-f60fcc59574a4cd0acbce2636a1bb1bd.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/nWxNV_P8jBrUX5iNSW9f5S1t-84=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1973070080-f60fcc59574a4cd0acbce2636a1bb1bd.jpg"
+        },
         {
           "id": "8610322",
           "author": "Fatima Attarwala",
@@ -20572,6 +20662,66 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "2-stocks-surge-next-wave-153000461.html",
+          "author": null,
+          "description": "It's still early innings in artificial intelligence.",
+          "link": "https://finance.yahoo.com/news/2-stocks-surge-next-wave-153000461.html",
+          "publishedOn": "2024-03-18T15:30:00.000Z",
+          "wordCount": 18921,
+          "title": "2 Stocks That Will Surge on the Next Wave of AI",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/JQ8AE_8H.QCvQbccmOvnAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/2dacd158648f35cf94b29f9bd4d678a8"
+        },
+        {
+          "id": "nycb-stock-downgrade-credit-costs-ed6b1d03?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/nycb-stock-downgrade-credit-costs-ed6b1d03?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-03-18T15:18:00.000Z",
+          "wordCount": null,
+          "title": "Downgrade of NYCB Is Latest of Many Troubles. The Stock Is Falling.",
+          "imageUrl": null
+        },
+        {
+          "id": "pfizer-selling-haleon-stock-513173f3?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/pfizer-selling-haleon-stock-513173f3?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-03-18T15:12:00.000Z",
+          "wordCount": null,
+          "title": "Pfizer Is Selling a Chunk of Its Haleon Stock. It’s a $3  Billion Windfall.",
+          "imageUrl": null
+        },
+        {
+          "id": "many-americans-retire-million-dollars-140019814.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/many-americans-retire-million-dollars-140019814.html",
+          "publishedOn": "2024-03-18T15:11:40.000Z",
+          "wordCount": null,
+          "title": "Can You Guess How Many Americans Actually Retire With a Million Bucks?",
+          "imageUrl": null
+        },
+        {
+          "id": "fisker-stock-capital-convertible-debt-72cde297?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/fisker-stock-capital-convertible-debt-72cde297?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-03-18T14:56:00.000Z",
+          "wordCount": null,
+          "title": "Fisker Stock Tumbles. It Secured Some Very Expensive Financing.",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-ai-apple-alphabet-tesla-cathie-wood-roku-moderna-logitech/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-03-18T14:50:25.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Climbs As Nvidia AI Event Kicks Off; Cathie Wood Snaps Up Stock Amid 51% Plunge",
+          "imageUrl": null
+        },
+        {
           "id": "fisker-to-pause-production-for-six-weeks-a03458a9?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "",
@@ -20590,6 +20740,26 @@
           "wordCount": null,
           "title": "Magnificent Seven Stocks To Buy And Watch: Google, Nvidia, Tesla Rally",
           "imageUrl": null
+        },
+        {
+          "id": "lula-irks-investors-bid-spur-141523755.html",
+          "author": null,
+          "description": "(Bloomberg) -- Inside Brazil’s presidential palace, angst is mounting as the economy sputters along, churning out tepid growth figures month after month. President Luiz Inacio Lula da Silva is ratcheting up the pressure on his top aides to boost spending, gin up faster growth and turn around his sinking approval ratings.Most Read from BloombergApple Is in Talks to Let Google Gemini Power iPhone AI FeaturesPutin Warns Russia Won’t Stop After Predictable Election WinSaudi Wealth Fund Is in Talks t",
+          "link": "https://finance.yahoo.com/news/lula-irks-investors-bid-spur-141523755.html",
+          "publishedOn": "2024-03-18T14:15:23.000Z",
+          "wordCount": 18957,
+          "title": "Lula Irks Investors in Bid to Spur Brazil Growth, Boost Approval",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/R3OQBEMMNRpthCidb2v9ww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_markets_842/a20ed26f3e4ff9d277c1d36126831dea"
+        },
+        {
+          "id": "ge-87-billion-share-price-135717328.html",
+          "author": null,
+          "description": "(Bloomberg) -- General Electric Co. shares have powered to a more than six-year high, adding some $87 billion in value on bets that the company’s second and final spinoff will deliver a boon for investors. But, further gains may be tough to find.Most Read from BloombergApple Is in Talks to Let Google Gemini Power iPhone AI FeaturesPutin Warns Russia Won’t Stop After Predictable Election WinSaudi Wealth Fund Is in Talks to Acquire National AirlineTop Solar Firm Longi Plans Thousands of Job Cuts o",
+          "link": "https://finance.yahoo.com/news/ge-87-billion-share-price-135717328.html",
+          "publishedOn": "2024-03-18T13:57:17.000Z",
+          "wordCount": 18516,
+          "title": "GE’s $87 Billion Share Price Windfall Threatens Spinoff Gains",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/349a2fddae18a897cf98e0f9af05b925"
         },
         {
           "id": "nike-downgraded-pepsi-upgraded-wall-134554028.html",
@@ -20630,6 +20800,16 @@
           "wordCount": null,
           "title": "Fisker to Pause Production for Six Weeks",
           "imageUrl": null
+        },
+        {
+          "id": "dividends-thing-then-youll-love-123600528.html",
+          "author": null,
+          "description": "These companies stand out as excellent options for those who like to collect dividends.",
+          "link": "https://finance.yahoo.com/news/dividends-thing-then-youll-love-123600528.html",
+          "publishedOn": "2024-03-18T12:36:00.000Z",
+          "wordCount": 19049,
+          "title": "Are Dividends Your Thing? Then You'll Love These 3 High-Yield Stocks.",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/b721c3feaae73ab00c151f445534e3bd"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
