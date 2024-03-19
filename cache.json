@@ -24,6 +24,26 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "e6250b59dd50791463605e070cd98313",
+          "author": "Investopedia",
+          "description": "JPMorgan Chase is creating an advisory group in its investment banking operations that will focus on new and current clients in the world of sports, according to an internal memo shared with Investopedia.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8c77caed0da25d37c58b2bb7f33821865757c623c82ba19d503f57966d9a30c4811f688eef3ba4f0f034efed8039e82ee824048b3a4845541ef2e6b8942f0f9883e4f28e",
+          "publishedOn": "2024-03-19T12:00:00.000Z",
+          "wordCount": 411,
+          "title": "JPMorgan Establishes Sports-Focused Investment Banking Group",
+          "imageUrl": null
+        },
+        {
+          "id": "ede0072e0457c0877cc704ed19549572",
+          "author": "Investopedia",
+          "description": "Grocery-store chain Kroger is selling its specialty pharmacy business to U.S. health insurer Elevance Health.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8d75c8e51ab7112d87c32ba6fe36609c545ac0398434a58b0f3b4cda799832d28b576ed6f53cbcf0f033affc8160a020ec3c0e8c374a455b09fcffbcd13a019f83e7f38399",
+          "publishedOn": "2024-03-19T12:00:00.000Z",
+          "wordCount": 411,
+          "title": "Kroger Announces Plan to Sell Specialty Pharmacy Business to Elevance Health",
+          "imageUrl": null
+        },
+        {
           "id": "dc21910162273c9a004a64fbeae7eac1",
           "author": "Investopedia",
           "description": "Nordstrom shares jumped Tuesday after a report that founding family members are looking at taking the upscale retailer private.",
@@ -1997,6 +2017,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "article-6305856",
+          "author": null,
+          "description": "Het door scheepvaart druk bevaren Julianakanaal in Limburg gaat vanaf oktober maandenlang dicht tussen Berg en Born. Dat meldt Rijkswaterstaat. Het kanaal moet over een lengte van ongeveer vier kilometer helemaal worden drooggelegd om een defecte bouwkuip weg te halen.",
+          "link": "https://www.nu.nl/binnenland/6305856/druk-bevaren-julianakanaal-in-limburg-vanaf-oktober-maandenlang-dicht.html",
+          "publishedOn": "2024-03-19T20:08:01.000Z",
+          "wordCount": 489,
+          "title": "Druk bevaren Julianakanaal in Limburg vanaf oktober maandenlang dicht",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/6zaxc97acb0d_sqr256.jpg/druk-bevaren-julianakanaal-in-limburg-vanaf-oktober-maandenlang-dicht.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/6zaxc97acb0d_sqr256.jpg/druk-bevaren-julianakanaal-in-limburg-vanaf-oktober-maandenlang-dicht.jpg"
+        },
         {
           "id": "article-6305798",
           "author": null,
@@ -9054,6 +9089,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8611111",
+          "author": "Naomi Buchanan",
+          "description": "Analysts called Nvidia's Blackwell platform the \"most ambitious project in Silicon Valley\" after the chipmaker unveiled its latest artificial intelligence tech.",
+          "link": "https://www.investopedia.com/analysts-call-nvidia-blackwell-platform-the-most-ambitious-project-in-silicon-valley-8611111",
+          "publishedOn": "2024-03-19T20:09:42.000Z",
+          "wordCount": 5531,
+          "title": "Analysts Call Nvidia's Blackwell Platform the 'Most Ambitious Project in Silicon Valley'",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/2859O3XRDqdRodqmAIWqTxkvUi0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2087339524-fc2023f585534a4da21675bf5446ccd1.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/2859O3XRDqdRodqmAIWqTxkvUi0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2087339524-fc2023f585534a4da21675bf5446ccd1.jpg"
+        },
+        {
+          "id": "8611195",
+          "author": "Marc Zerbola Challande",
+          "description": "Grocery-store chain Kroger is selling its specialty pharmacy business to U.S. health insurer Elevance Health.",
+          "link": "https://www.investopedia.com/kroger-to-sell-specialty-pharmacy-business-to-elevance-health-8611195",
+          "publishedOn": "2024-03-19T19:35:40.000Z",
+          "wordCount": 5051,
+          "title": "Kroger Announces Plan to Sell Specialty Pharmacy Business to Elevance Health",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/31KI8sFlRgIvp9vEixFKD3LqFRE=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2021274920-f124972d51504074a702dc99679518d6.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/31KI8sFlRgIvp9vEixFKD3LqFRE=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2021274920-f124972d51504074a702dc99679518d6.jpg"
+        },
+        {
+          "id": "8610937",
+          "author": "Christiana Sciaudone",
+          "description": "Bitcoin has fallen more than 10% from last week's high into correction, dragging other tokens and crypto-related stocks ahead of the Fed's rate decision tomorrow.",
+          "link": "https://www.investopedia.com/bitcoin-in-correction-amid-profit-taking-and-fed-meeting-jitters-crypto-stocks-tank-8610937",
+          "publishedOn": "2024-03-19T19:29:13.000Z",
+          "wordCount": 5827,
+          "title": "Bitcoin In Correction Amid Profit Taking and Fed Meeting Jitters; Crypto Stocks Tank",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/vzbp9vbgSSDK2idhFDtsdmLumBk=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-914931554-d23f451bc9d0494ca2193a793df0c4c6.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/vzbp9vbgSSDK2idhFDtsdmLumBk=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-914931554-d23f451bc9d0494ca2193a793df0c4c6.jpg"
+        },
         {
           "id": "8611204",
           "author": "Aaron McDade",
@@ -20603,21 +20683,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/dn2bOni-dx2KZ4ARXqLIMUEIEyU=/4000x2700/mba.asp-final-d7d4beb9bf024c6aaa87adef5e8d95a9.png"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/s/shareholder.asp",
-          "author": "Adam Hayes",
-          "description": "A shareholder is any person, company, or institution that owns at least one share in a company.",
-          "link": "https://www.investopedia.com/terms/s/shareholder.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2024-02-19T07:40:19.000Z",
-          "wordCount": 7905,
-          "title": "Shareholder (Stockholder): Definition, Rights, and Types",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/zfsYQFBF2BpASGibhM8X1z1-Hps=/1500x1000/SHAREHOLDER-FINAL-6e2f06cd0b2e41f5b774d2b889bb80f2.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/zfsYQFBF2BpASGibhM8X1z1-Hps=/1500x1000/SHAREHOLDER-FINAL-6e2f06cd0b2e41f5b774d2b889bb80f2.jpg"
         }
       ]
     },
@@ -20627,6 +20692,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "wharton-finance-professor-believes-us-184811556.html",
+          "author": null,
+          "description": "If you are a prospective homebuyer or real estate investor concerned about high interest rates and you're sick of bad news, you may want to stop reading right now. That's because Joao Gomes, a finance professor at the Wharton School of the University of Pennsylvania, believes America's $34 trillion in debt could spark a crisis that sends interest rates spiraling past 7% if the government doesn't act soon. Gomes does not see much evidence that either party possesses the political will, or even th",
+          "link": "https://finance.yahoo.com/news/wharton-finance-professor-believes-us-184811556.html",
+          "publishedOn": "2024-03-19T18:48:11.000Z",
+          "wordCount": 18476,
+          "title": "Wharton Finance Professor Believes US Debt Could Send Interest Rates Skyrocketing Past 7% In 2025",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/10fc537a1f73bbe07ae62417e3a4cc0b"
+        },
+        {
+          "id": "super-micro-delay-2-million-182017089.html",
+          "author": null,
+          "description": "(Bloomberg) -- Super Micro Computer Inc. pushed back the expected pricing of the sale of 2 million shares to after the market closes in New York, according to people familiar with the matter.Most Read from BloombergTrump Rules Out Vivek Ramaswamy as Running Mate as He Eyes New TeamApple Is in Talks to Let Google Gemini Power iPhone AI FeaturesNvidia Looks to Extend AI Dominance With New Blackwell ChipsEvergrande’s Alleged $78 Billion Fraud Is Among Biggest EverMusk Says His Ketamine Prescription",
+          "link": "https://finance.yahoo.com/news/super-micro-delay-2-million-182017089.html",
+          "publishedOn": "2024-03-19T18:20:17.000Z",
+          "wordCount": 18311,
+          "title": "Super Micro to Delay 2 Million Share Sale to After Close",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Ktb4yeh.Avbu4lX0ubJAOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/74a97063d19c858debb4c2c672fd0cba"
+        },
+        {
           "id": "why-super-micro-computer-advanced-181639466.html",
           "author": null,
           "description": "The market is digesting big developments in the artificial intelligence (AI) space.",
@@ -20635,6 +20720,16 @@
           "wordCount": 18893,
           "title": "Why Super Micro Computer, Advanced Micro Devices, and Other Artificial Intelligence (AI) Stocks Tumbled on Tuesday",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/I_pPWqgUGsc6kKCimf7lQw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDQ-/https://media.zenfs.com/en/motleyfool.com/a962be042faea26a77aebd3af96ab56a"
+        },
+        {
+          "id": "were-dealing-inflation-shrinkflation-sh-181447931.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/were-dealing-inflation-shrinkflation-sh-181447931.html",
+          "publishedOn": "2024-03-19T18:14:47.000Z",
+          "wordCount": null,
+          "title": "'We're Dealing With Inflation, Shrinkflation And Sh*tflation' — Public Voices Frustration Over Rising Costs Amid Claims Of Great Economy",
+          "imageUrl": null
         },
         {
           "id": "i-was-there-for-the-dot-com-bust-heres-why-the-ai-boom-isnt-the-same-175944680.html",
@@ -20675,6 +20770,16 @@
           "wordCount": 18647,
           "title": "The rates trade is back in focus for stock investors",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/t0DXaUoGJpNpzUZSlgSxqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/db1d95c0-dc8e-11ee-8ff2-7b6155f0fcf9"
+        },
+        {
+          "id": "bitcoin-halving-show-money-moment-165326520.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/bitcoin-halving-show-money-moment-165326520.html",
+          "publishedOn": "2024-03-19T16:53:26.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Halving Is a ‘Show Me the Money’ Moment for Miners",
+          "imageUrl": null
         },
         {
           "id": "ARGUS_2684_AnalystReport_1710866647000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -46715,26 +46820,6 @@
           "wordCount": null,
           "title": "Big Pension Bought Up NYCB Stock Right Before It Tumbled",
           "imageUrl": null
-        },
-        {
-          "id": "4-social-security-facts-know-073400747.html",
-          "author": null,
-          "description": "There are things you need to know while you're working that will impact your future retirement benefits, so check them out now.",
-          "link": "https://finance.yahoo.com/news/4-social-security-facts-know-073400747.html",
-          "publishedOn": "2024-02-19T07:34:00.000Z",
-          "wordCount": 18315,
-          "title": "4 Social Security Facts to Know Now, Even If Retirement Is Years Away",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/izkdgKFeJP3gQEn9INZpVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/927c533290ddb57a456cc82f34603bbb"
-        },
-        {
-          "id": "cathie-wood-ark-offloads-90m-071552009.html",
-          "author": null,
-          "description": "ARK offloaded Coinbase shares from ARK Innovation ETF, ARK Next Generation Internet ETF, and ARK Fintech Innovation ETF.",
-          "link": "https://finance.yahoo.com/news/cathie-wood-ark-offloads-90m-071552009.html",
-          "publishedOn": "2024-02-19T07:15:52.000Z",
-          "wordCount": 18018,
-          "title": "Cathie Wood’s ARK Offloads $90M Coinbase Shares Amid Slew of Analyst Upgrades",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/WXOFW5tXv.UYi7ujVtGrbA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/coindesk_75/86725fa8abbb91789c502fac985a52cc"
         }
       ]
     }
