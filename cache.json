@@ -17708,36 +17708,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/pwCWRYdddlJoYOqGCDqBTyJpAfM=/680x440/459047055-5bfc38f6c9e77c00587abcab.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/mutualfund/07/money_market_savings.asp",
-          "author": "Andrew Beattie",
-          "description": "Choosing the right savings vehicles will help you reach your financial goals. Our guide explains the pros and cons of money markets, money market funds, and savings accounts.",
-          "link": "https://www.investopedia.com/articles/mutualfund/07/money_market_savings.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2024-02-23T14:56:04.000Z",
-          "wordCount": 8662,
-          "title": "Money Market Fund vs. MMA vs. Savings Account: What’s the Difference?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Uma8m0okNItdIG5G0wGMS6z3An4=/2185x1371/mmf-e9fd020388064561be3294b88a9e7760.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Uma8m0okNItdIG5G0wGMS6z3An4=/2185x1371/mmf-e9fd020388064561be3294b88a9e7760.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/c/cfa.asp",
-          "author": "Adam Hayes",
-          "description": "A chartered financial analyst (CFA) is a professional designation given by the CFA Institute that measures the competence and integrity of financial analysts.",
-          "link": "https://www.investopedia.com/terms/c/cfa.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2024-02-23T14:29:42.000Z",
-          "wordCount": 8356,
-          "title": "Chartered Financial Analyst (CFA) Definition and Exams",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/9wJsTaHtCePkJA6mQh7qgJPGCsg=/4000x2700/cfa.asp-final-93e4ce833657472c9e1924243f782195.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/9wJsTaHtCePkJA6mQh7qgJPGCsg=/4000x2700/cfa.asp-final-93e4ce833657472c9e1924243f782195.png"
         }
       ]
     },
@@ -17746,6 +17716,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "analysis-google-apple-breakups-agenda-010424313.html",
+          "author": null,
+          "description": "Big Tech is facing its biggest challenge in decades as antitrust regulators on both sides of the Atlantic crack down on alleged anti-competitive practices that could result in break-up orders to Apple and Alphabet's Google, a first for the industry.  Google has said it disagreed with the EU's accusations while Apple said the U.S. lawsuit is wrong on the facts and the law.  Regulators now allege companies such as Apple and Google have built impenetrable ecosystems around their products, making it difficult for customers to switch to rival services, which led to the coining of the term walled gardens.",
+          "link": "https://finance.yahoo.com/news/analysis-google-apple-breakups-agenda-010424313.html",
+          "publishedOn": "2024-03-24T01:04:24.000Z",
+          "wordCount": 18726,
+          "title": "Analysis-Google, Apple breakups on the agenda as global regulators target tech",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/619a31ed85f2f83827173babe149c00b"
+        },
         {
           "id": "heres-much-average-60-old-000012868.html",
           "author": null,
@@ -17817,6 +17797,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/gM96BPnJx2C8g_JHusIRQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/a3a9c4c04d692ee9d43eab5c595964f5"
         },
         {
+          "id": "meet-americans-cant-retire-171701167.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/meet-americans-cant-retire-171701167.html",
+          "publishedOn": "2024-03-23T17:17:01.000Z",
+          "wordCount": null,
+          "title": "Meet the Americans who can't retire",
+          "imageUrl": null
+        },
+        {
           "id": "bitcoin-whales-emerge-corporate-world-170000225.html",
           "author": null,
           "description": "MicroStrategy is the world's largest corporate holder of Bitcoin, but other companies like miners Hut 8, Hive Blockchain, and CleanSpark are seeing big gains from Bitcoin's rise.",
@@ -17835,6 +17825,16 @@
           "wordCount": 18885,
           "title": "Most Americans Have This Much in Savings by 70. How Do You Compare?",
           "imageUrl": "https://media.zenfs.com/en/smartasset_475/afa62a1f0f7f9ec622d2a42460b79849"
+        },
+        {
+          "id": "genius-ways-invest-200k-turn-130000929.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/genius-ways-invest-200k-turn-130000929.html",
+          "publishedOn": "2024-03-23T16:40:58.000Z",
+          "wordCount": null,
+          "title": "How to Turn a $200,000 Investment Into $1 Million",
+          "imageUrl": null
         },
         {
           "id": "high-americans-net-worth-every-144235574.html",
@@ -43074,26 +43074,6 @@
           "publishedOn": "2024-02-23T15:17:41.000Z",
           "wordCount": null,
           "title": "Five Medical Costs You Can Actually Deduct on Your Taxes",
-          "imageUrl": null
-        },
-        {
-          "id": "nvidia-stock-surge-causes-3-144605188.html",
-          "author": null,
-          "description": "(Bloomberg) -- The surge in Nvidia Corp. shares on Thursday has left short sellers with about $3 billion in paper losses, according to an analysis by S3 Partners LLC, which called it an “AI generated nightmare” for bearish traders.Most Read from BloombergNvidia Rises Most in About Nine Months as AI Drives SalesT-Bills Without Tax Bills? This Fund Says It Cracked the CodeUS Lands on Moon in Historic Feat for Private SpacecraftAT&T Outage Triggered by Company Work on Network ExpansionChina’s Centr",
-          "link": "https://finance.yahoo.com/news/nvidia-stock-surge-causes-3-144605188.html",
-          "publishedOn": "2024-02-23T14:46:05.000Z",
-          "wordCount": 18150,
-          "title": "Nvidia Stock Surge Causes $3 Billion Loss for Short Sellers",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/46Khck38G6K1N7hcWpn7VA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTY-/https://media.zenfs.com/en/bloomberg_markets_842/6cbea82a60b4f4ef9f46339818cf3dac"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/research/is-tlry-stock-a-buy-as-germany-gets-closer-to-legalization/?src=A00220&yptr=yahoo",
-          "publishedOn": "2024-02-23T14:30:59.000Z",
-          "wordCount": null,
-          "title": "Is TLRY Stock A Buy As Germany Legalizes Cannabis?",
           "imageUrl": null
         }
       ]
