@@ -2038,6 +2038,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6306794",
+          "author": null,
+          "description": "Volvo heeft definitief afscheid genomen van diesel. Dinsdagavond rolde in een fabriek in Zweden de laatste dieselauto van de band. Het gaat om een XC90, die een plek in het Volvo-museum in Göteborg krijgt.",
+          "link": "https://www.nu.nl/economie/6306794/mijlpaal-voor-volvo-de-laatste-dieselauto-rolt-van-de-band.html",
+          "publishedOn": "2024-03-27T10:55:00.000Z",
+          "wordCount": 489,
+          "title": "Mijlpaal voor Volvo: de laatste dieselauto rolt van de band",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/nf1xnn7a5yyj_sqr256.jpg/mijlpaal-voor-volvo-de-laatste-dieselauto-rolt-van-de-band.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/nf1xnn7a5yyj_sqr256.jpg/mijlpaal-voor-volvo-de-laatste-dieselauto-rolt-van-de-band.jpg"
+        },
+        {
           "id": "article-6306764",
           "author": null,
           "description": "De vergrijzing in Japan heeft ervoor gezorgd dat een Japanse luierfabrikant stopt met het verkopen van luiers voor baby's. In plaats daarvan richt het bedrijf zich op luiers voor ouderen.",
@@ -9056,36 +9071,6 @@
             "url": "https://media.nu.nl/m/0gvx0z8awfvr_sqr256.jpg/zware-regenval-en-hoge-grondwaterstand-zorgen-voor-meer-stroomstoringen.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/0gvx0z8awfvr_sqr256.jpg/zware-regenval-en-hoge-grondwaterstand-zorgen-voor-meer-stroomstoringen.jpg"
-        },
-        {
-          "id": "article-6303028",
-          "author": null,
-          "description": "Nederlandse hotels, campings en andere overnachtingsplekken kregen vorig jaar bijna 50 miljoen mensen over de vloer. Nog nooit was dat aantal zo groot. Vooral de buitenlandse toerist wist ons land weer goed te vinden.",
-          "link": "https://www.nu.nl/economie/6303028/overnachten-in-nederland-is-populairder-dan-ooit.html",
-          "publishedOn": "2024-02-26T23:01:35.000Z",
-          "wordCount": 2548,
-          "title": "Overnachten in Nederland is populairder dan ooit",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/ex9x8vnat426_sqr256.jpg/overnachten-in-nederland-is-populairder-dan-ooit.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/ex9x8vnat426_sqr256.jpg/overnachten-in-nederland-is-populairder-dan-ooit.jpg"
-        },
-        {
-          "id": "article-6303019",
-          "author": null,
-          "description": "Prijzen voor veel goederen en diensten kunnen de komende tijd verder oplopen, onder meer bij bouwbedrijven. Dat blijkt uit cijfers die het CBS dinsdag naar buiten brengt.",
-          "link": "https://www.nu.nl/economie/6303019/veel-bedrijven-verwachten-de-komende-tijd-hun-prijzen-te-verhogen.html",
-          "publishedOn": "2024-02-26T23:01:06.000Z",
-          "wordCount": 2561,
-          "title": "Veel bedrijven verwachten de komende tijd hun prijzen te verhogen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/qi2xgvdabyvc_sqr256.jpg/veel-bedrijven-verwachten-de-komende-tijd-hun-prijzen-te-verhogen.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/qi2xgvdabyvc_sqr256.jpg/veel-bedrijven-verwachten-de-komende-tijd-hun-prijzen-te-verhogen.jpg"
         }
       ]
     },
@@ -9094,6 +9079,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8620883",
+          "author": "Timothy Smith",
+          "description": "The Cloud-Based Bank's Subscriptions Increased 16% in the Fourth Quarter",
+          "link": "https://www.investopedia.com/ncino-stock-surges-after-earnings-beat-as-subscriptions-jump-8620883",
+          "publishedOn": "2024-03-27T10:55:59.000Z",
+          "wordCount": 5395,
+          "title": "nCino Stock Surges After Earnings Beat as Subscriptions Jump—Key Levels to Watch",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/4zbUD2dBvacsTpGMID8hGyXxft4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/NCNOChart-fcada5ef64924fa3b853481fbeef4d08.GIF",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/4zbUD2dBvacsTpGMID8hGyXxft4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/NCNOChart-fcada5ef64924fa3b853481fbeef4d08.GIF"
+        },
         {
           "id": "8620855",
           "author": "Timothy Smith",
@@ -15918,51 +15918,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/5tfDYqxsWehnWcnVIKXzLkqa_5U=/1080x722/variablecost_definition_0718-1213aa036d30435499a3af3030fc6b72.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/personal-finance/081115/getting-your-credit-score-bank.asp",
-          "author": "Jean Folger",
-          "description": "That all-important, once-secret number is now easy to obtain from financial institutions and credit card companies.",
-          "link": "https://www.investopedia.com/articles/personal-finance/081115/getting-your-credit-score-bank.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2024-02-26T23:06:06.000Z",
-          "wordCount": 8367,
-          "title": "Getting Your Credit Score from a Bank",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Mjn-lRDu_ySgwJQJm162EQlAbT8=/680x440/thinkstockphotos-80700597-5bfc348c46e0fb00265d9a86.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Mjn-lRDu_ySgwJQJm162EQlAbT8=/680x440/thinkstockphotos-80700597-5bfc348c46e0fb00265d9a86.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/berkshire-hathaway-does-not-hold-nvidia-stock-will-warren-buffett-come-to-regret-it-8600072",
-          "author": "Staff Author",
-          "description": "Warren Buffett has generally steered clear of technology investments, though his Berkshire Hathaway has acquired stakes in Apple and Amazon in recent years, well after those stocks had posted significant gains. Will the Oracle of Omaha regret not investing earlier in current tech darling Nvidia?",
-          "link": "https://www.investopedia.com/berkshire-hathaway-does-not-hold-nvidia-stock-will-warren-buffett-come-to-regret-it-8600072?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2024-02-26T23:00:52.000Z",
-          "wordCount": 5940,
-          "title": "Berkshire Hathaway Doesn&#39;t Hold Nvidia Stock—Will Warren Buffett Come to Regret it?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/QPchjX_cUAZH_0LqbEpRPTmtCfY=/5484x3551/GettyImages-1141088748-2f85544625c6421a8992bb4a5e4e0123.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/QPchjX_cUAZH_0LqbEpRPTmtCfY=/5484x3551/GettyImages-1141088748-2f85544625c6421a8992bb4a5e4e0123.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/terms/m/mechanics-lien.asp",
-          "author": "Clay Halton",
-          "description": "A mechanic's lien is a legal guarantee of payment to builders, contractors, and subcontractors for the building or renovation of a property.",
-          "link": "https://www.investopedia.com/terms/m/mechanics-lien.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2024-02-26T22:37:04.000Z",
-          "wordCount": 7148,
-          "title": "What Is a Mechanic's Lien? Definition, How It's Used, and Example",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Imk7M7-VMU28lAmsE9rheoBLQVo=/6016x4016/construction-engineers-people-1155402459-cfae0ac993534be08cf71c8cce1028df.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Imk7M7-VMU28lAmsE9rheoBLQVo=/6016x4016/construction-engineers-people-1155402459-cfae0ac993534be08cf71c8cce1028df.jpg"
         }
       ]
     },
@@ -15972,6 +15927,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "the-sp-500-is-up-5-months-straight--and-history-favors-momentum-100025041.html",
+          "author": null,
+          "description": "The S&P 500 has had a remarkable run over the past five months, chalking up a 25% gain. But contrary to feelings that things have risen too quickly, history says that strength begets strength.",
+          "link": "https://finance.yahoo.com/news/the-sp-500-is-up-5-months-straight--and-history-favors-momentum-100025041.html",
+          "publishedOn": "2024-03-27T10:00:25.000Z",
+          "wordCount": 20254,
+          "title": "The S&P 500 is up 5 months straight — and history favors momentum",
+          "imageUrl": "https://s.yimg.com/os/creatr-uploaded-images/2024-03/838446d0-eb96-11ee-a301-16d14293ef9a"
+        },
+        {
+          "id": "alibaba-pdd-jd-stocks-china-8d973ba9?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/alibaba-pdd-jd-stocks-china-8d973ba9?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-03-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Alibaba and Other Chinese Stocks Slide as ‘Uneven’ Economic Recovery Laid Bare",
+          "imageUrl": null
+        },
+        {
           "id": "3-no-brainer-stocks-buy-092100439.html",
           "author": null,
           "description": "",
@@ -15979,6 +15954,16 @@
           "publishedOn": "2024-03-27T09:21:00.000Z",
           "wordCount": null,
           "title": "3 No-Brainer Stocks to Buy With $500 Right Now",
+          "imageUrl": null
+        },
+        {
+          "id": "3ms-healthcare-spinoff-stock-solventum-7450b202?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/3ms-healthcare-spinoff-stock-solventum-7450b202?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-03-27T09:15:00.000Z",
+          "wordCount": null,
+          "title": "3M’s Healthcare Spinoff Stock Is Trading. This Is What It’s Worth.",
           "imageUrl": null
         },
         {
@@ -16162,6 +16147,16 @@
           "imageUrl": "https://media.zenfs.com/en/Benzinga/7d25cb5130aefee4219da944ee637bc8"
         },
         {
+          "id": "direct-digital-sees-double-digit-225922759.html",
+          "author": null,
+          "description": "By Thomas Green Direct Digital Holdings (Nasdaq: DRCT) reported its eighth consecutive quarter of double-digit revenue growth and updated guidance for 2024. Fourth quarter revenue was $41 million, an increase of $10.3 million, or 33%, from the fourth quarter of 2022. The digital advertising company processed close to 1 trillion bid requests and received over […]",
+          "link": "https://finance.yahoo.com/news/direct-digital-sees-double-digit-225922759.html",
+          "publishedOn": "2024-03-26T22:59:22.000Z",
+          "wordCount": 19707,
+          "title": "Direct Digital Sees Double-Digit Growth for 8th Consecutive Quarter",
+          "imageUrl": "https://media.zenfs.com/en/exec_edge_220/ee1cbe9f6d4db6b822816ad92dad1aa9"
+        },
+        {
           "id": "fast-food-workers-losing-jobs-225107245.html",
           "author": null,
           "description": "",
@@ -16239,6 +16234,16 @@
           "publishedOn": "2024-03-26T20:47:57.000Z",
           "wordCount": null,
           "title": "Semtech Stock Surges After Chipmaker Called 'Hidden Gem'",
+          "imageUrl": null
+        },
+        {
+          "id": "blackrock-ceo-says-social-securitys-203351580.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/blackrock-ceo-says-social-securitys-203351580.html",
+          "publishedOn": "2024-03-26T20:33:51.000Z",
+          "wordCount": null,
+          "title": "BlackRock CEO says Social Security's retirement age 'a bit crazy' as crisis looms",
           "imageUrl": null
         },
         {
@@ -41590,26 +41595,6 @@
           "wordCount": 18173,
           "title": "Exxon Considers Pre-Emption Rights to Hess’ Guyana Oil Stake",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/OZ.KWg4irU9Mo7S_esmddA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/e05dff2b84c715412732f4bae93d671a"
-        },
-        {
-          "id": "why-tesla-stock-motored-nearly-224436961.html",
-          "author": null,
-          "description": "Bullishness came roaring back to the EV sector, but can it last?",
-          "link": "https://finance.yahoo.com/news/why-tesla-stock-motored-nearly-224436961.html",
-          "publishedOn": "2024-02-26T22:44:36.000Z",
-          "wordCount": 18165,
-          "title": "Why Tesla Stock Motored Nearly 4% Higher Today",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/YAbGjfv8pBmJlSAMTt7Wpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/a0cbbefc1beb6b776a2bdb165aeb6bc3"
-        },
-        {
-          "id": "why-coinbase-crypto-popping-today-222500681.html",
-          "author": null,
-          "description": "Everything in crypto is up big today.",
-          "link": "https://finance.yahoo.com/news/why-coinbase-crypto-popping-today-222500681.html",
-          "publishedOn": "2024-02-26T22:25:00.000Z",
-          "wordCount": 18289,
-          "title": "Why Coinbase and Crypto Are Popping Today",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/7spxKacSaKNoEzWockHGlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDk-/https://media.zenfs.com/en/motleyfool.com/62143350f6baf4c98a8d84cd29523c14"
         }
       ]
     }
