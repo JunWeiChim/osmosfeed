@@ -2058,6 +2058,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6307096",
+          "author": null,
+          "description": "Athenaeum Boekhandel neemt concurrent Scheltema over na verlies draaiende jaren. De twee bekende Amsterdamse boekwinkels hopen met de samenwerking weer in de zwarte cijfers te komen.",
+          "link": "https://www.nu.nl/economie/6307096/iconische-amsterdamse-boekhandels-scheltema-en-athenaeum-gaan-samen-verder.html",
+          "publishedOn": "2024-03-29T13:39:10.000Z",
+          "wordCount": 489,
+          "title": "Iconische Amsterdamse boekhandels Scheltema en Athenaeum gaan samen verder",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/td0xteoavrng_sqr256.jpg/iconische-amsterdamse-boekhandels-scheltema-en-athenaeum-gaan-samen-verder.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/td0xteoavrng_sqr256.jpg/iconische-amsterdamse-boekhandels-scheltema-en-athenaeum-gaan-samen-verder.jpg"
+        },
+        {
           "id": "article-6307078",
           "author": null,
           "description": "Turkish Airlines voert weer passagiersvluchten uit naar Libië. De Turkse maatschappij stopte hier in 2015 mee vanwege de onrust in het Noord-Afrikaanse land. Maar nu vindt Turkish Airlines het dus weer veilig genoeg om terug te keren.",
@@ -14273,36 +14288,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://www.investopedia.com/thmb/C5n4-r0TsA0bYL-POTLtkASZqRA=/1774x718/OKTAChart-76386f427542431e9fe8c15b87aaef7f.GIF"
-        },
-        {
-          "id": "https://www.investopedia.com/articles/personal-finance/110514/medigap-insurance-who-needs-it.asp",
-          "author": "Tim Parker",
-          "description": "Medigap is private insurance that covers expenses that Medicare doesn’t pay. Find out if you need a Medicare supplement.",
-          "link": "https://www.investopedia.com/articles/personal-finance/110514/medigap-insurance-who-needs-it.asp?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2024-02-29T01:50:46.000Z",
-          "wordCount": 7729,
-          "title": "Who Needs Medigap Insurance?",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ttWNkWC3iqRwUa7q1FFQs0fVoRo=/6000x4000/stethoscope-1093018304-72d077f56db1423cae7439bc4c108092.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ttWNkWC3iqRwUa7q1FFQs0fVoRo=/6000x4000/stethoscope-1093018304-72d077f56db1423cae7439bc4c108092.jpg"
-        },
-        {
-          "id": "https://www.investopedia.com/4-key-takeaways-from-salesforce-earnings-call-q4-fy24-8601996",
-          "author": "Staff Author",
-          "description": "Salesforce executives discussed the company's position amid the artificial intelligence boom, data cloud growth amid AI demand, and its first dividend on its earnings call.",
-          "link": "https://www.investopedia.com/4-key-takeaways-from-salesforce-earnings-call-q4-fy24-8601996?utm_campaign=rss_headlines&utm_source=rss&utm_medium=referral",
-          "publishedOn": "2024-02-29T01:27:55.000Z",
-          "wordCount": 5477,
-          "title": "4 Key Takeaways From Salesforce&#39;s Earnings Call",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Lz-EFz4fsytJ868TfHShjEP6jbU=/3570x2496/GettyImages-2046169150-2354abba1b6845ca9fbce7d186faff3c.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Lz-EFz4fsytJ868TfHShjEP6jbU=/3570x2496/GettyImages-2046169150-2354abba1b6845ca9fbce7d186faff3c.jpg"
         }
       ]
     },
@@ -14311,6 +14296,36 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "nvidia-continues-dominate-artificial-intelligence-133040064.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/nvidia-continues-dominate-artificial-intelligence-133040064.html",
+          "publishedOn": "2024-03-29T13:30:40.000Z",
+          "wordCount": null,
+          "title": "Nvidia Continues to Dominate the Artificial Intelligence (AI) Market, but This Semiconductor Company Believes It's a Great Alternative",
+          "imageUrl": null
+        },
+        {
+          "id": "good-friday-pce-data-brings-091900535.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/good-friday-pce-data-brings-091900535.html",
+          "publishedOn": "2024-03-29T13:13:00.000Z",
+          "wordCount": null,
+          "title": "Good Friday’s PCE data brings latest inflation reading — but markets are closed",
+          "imageUrl": null
+        },
+        {
+          "id": "us-inflation-increases-moderately-february-125126758.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/us-inflation-increases-moderately-february-125126758.html",
+          "publishedOn": "2024-03-29T12:51:26.000Z",
+          "wordCount": null,
+          "title": "US inflation increases moderately in February; consumer spending surges",
+          "imageUrl": null
+        },
         {
           "id": "inflation-gauge-closely-tracked-federal-124908519.html",
           "author": null,
@@ -14432,6 +14447,16 @@
           "imageUrl": null
         },
         {
+          "id": "2-artificial-intelligence-ai-stocks-100000624.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/2-artificial-intelligence-ai-stocks-100000624.html",
+          "publishedOn": "2024-03-29T10:00:00.000Z",
+          "wordCount": null,
+          "title": "2 Artificial Intelligence (AI) Stocks to Buy With $200 Right Now and Hold for Decades",
+          "imageUrl": null
+        },
+        {
           "id": "teslas-q1-to-forget-poor-guidance-china-woes-and-musk-antics-hit-ev-makers-stock-hard-100100922.html",
           "author": null,
           "description": "",
@@ -14549,6 +14574,16 @@
           "publishedOn": "2024-03-29T08:15:00.000Z",
           "wordCount": null,
           "title": "Tesla Stock Has 71% Upside, According to 1 Wall Street Analyst",
+          "imageUrl": null
+        },
+        {
+          "id": "blessed-mother-72-gets-11-080900825.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/blessed-mother-72-gets-11-080900825.html",
+          "publishedOn": "2024-03-29T08:09:00.000Z",
+          "wordCount": null,
+          "title": "‘We are blessed’: My mother, 72, gets $11,000 a month, not including income from retirement savings. Should she get long-term care insurance?",
           "imageUrl": null
         },
         {
@@ -39760,26 +39795,6 @@
           "wordCount": 18422,
           "title": "Marc Benioff unleashed a 30-minute tirade about AI’s problems and ‘stolen’ data that made investors forget about Salesforce’s weak sales forecast",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/i4zLL6E4RiaiSwXh2Fg0sA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/bcb3de6cd0d61794676ff5f7830282f7"
-        },
-        {
-          "id": "different-animal-why-valuation-todays-000710260.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/different-animal-why-valuation-todays-000710260.html",
-          "publishedOn": "2024-02-29T01:45:05.000Z",
-          "wordCount": null,
-          "title": "Why investors should buy into an 'egregiously expensive' stock market, Bank of America says",
-          "imageUrl": null
-        },
-        {
-          "id": "xpeng-volkswagen-expand-partnership-to-accelerate-ev-development-682db3fc?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.wsj.com/business/autos/xpeng-volkswagen-expand-partnership-to-accelerate-ev-development-682db3fc?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-02-29T01:32:00.000Z",
-          "wordCount": null,
-          "title": "XPeng, Volkswagen Expand Partnership to Accelerate EV Development",
-          "imageUrl": null
         }
       ]
     }
