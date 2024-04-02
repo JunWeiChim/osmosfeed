@@ -1231,6 +1231,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "95f7bd54edb7b1ddb8720673d0f7c888",
+          "author": "Investopedia",
+          "description": "Global oil prices have neared six-month highs, but that's not likely to change OPEC's mind about production cuts that it recently extended.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca916fc6f652bc532cc5803da6f67739800954cd3f9275b09a472a409664937ede821f6f8eeb30b7e1ea2ee5a59928a122ec390b832d02094041f2faa494674bc0d1b3b197df8c95124bc34691c13930d835",
+          "publishedOn": "2024-04-02T12:00:00.000Z",
+          "wordCount": 411,
+          "title": "What You Need to Know Ahead of OPEC Meeting Wednesday as Oil Prices Surge",
+          "imageUrl": null
+        },
+        {
           "id": "4b76b967b682b78a66cabbefa9da151e",
           "author": "Investopedia",
           "description": "U.S. equities were lower at midday Tuesday, April 2, 2024 while Treasury yields rose amid concerns about whether the Federal Reserve would cut interest rates in June.",
@@ -9175,6 +9185,21 @@
       "siteUrl": "https://www.investopedia.com",
       "articles": [
         {
+          "id": "8623503",
+          "author": "Lyle Niedens",
+          "description": "Oil Cartel is Expected to Maintain Output Cuts",
+          "link": "https://www.investopedia.com/what-you-need-to-know-ahead-of-opec-meeting-wednesday-as-oil-prices-surge-8623503",
+          "publishedOn": "2024-04-02T18:34:29.000Z",
+          "wordCount": 5437,
+          "title": "What You Need to Know Ahead of OPEC Meeting Wednesday as Oil Prices Surge",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/IU0AUm23nVXRN6LBnmYhvKo3r00=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/INV_OPEC_Banner_GettyImages-1507334692-758746a32e00426494541c531fb59178.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/IU0AUm23nVXRN6LBnmYhvKo3r00=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/INV_OPEC_Banner_GettyImages-1507334692-758746a32e00426494541c531fb59178.jpg"
+        },
+        {
           "id": "8623507",
           "author": "Bill McColl",
           "description": "U.S. equities were lower at midday Tuesday, April 2, 2024 while Treasury yields rose amid concerns about whether the Federal Reserve would cut interest rates in June.",
@@ -14357,6 +14382,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "stock-market-today-dow-sinks-more-than-400-points-yields-rise-to-2024-highs-185418880.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/stock-market-today-dow-sinks-more-than-400-points-yields-rise-to-2024-highs-185418880.html",
+          "publishedOn": "2024-04-02T18:54:18.000Z",
+          "wordCount": null,
+          "title": "Stock market today: Dow sinks more than 400 points, yields rise to 2024 highs",
+          "imageUrl": null
+        },
+        {
+          "id": "why-advanced-micro-devices-c3-180436030.html",
+          "author": null,
+          "description": "There are a lot of moving parts impacting the artificial intelligence (AI) space.",
+          "link": "https://finance.yahoo.com/news/why-advanced-micro-devices-c3-180436030.html",
+          "publishedOn": "2024-04-02T18:04:36.000Z",
+          "wordCount": 20600,
+          "title": "Why Advanced Micro Devices, C3.ai, Arm Holdings, and Other Artificial Intelligence (AI) Stocks Slumped on Tuesday",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/fsLBknyOgdVpL5H7Ij9Cog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDU-/https://media.zenfs.com/en/motleyfool.com/529d038dd72102e2e3a7aa6e4c1ac577"
+        },
+        {
           "id": "how-much-americans-think-they-need-for-retirement-vs-what-they-actually-have-saved-are-miles-apart-173136151.html",
           "author": null,
           "description": "The ‘magic number’ for retirement savings has swelled to an all-time high, but Americans are worried they won't reach it.",
@@ -15235,6 +15280,16 @@
           "wordCount": null,
           "title": "Over 500,000 fast-food workers in California just got a huge raise thanks to a new law—but not everyone is celebrating",
           "imageUrl": null
+        },
+        {
+          "id": "fidelity-charge-100-servicing-fee-193200734.html",
+          "author": null,
+          "description": "Fidelity Investments is planning to charge investors a $100 servicing fee when placing buy orders on exchange-traded funds issued by nine firms.",
+          "link": "https://finance.yahoo.com/news/fidelity-charge-100-servicing-fee-193200734.html",
+          "publishedOn": "2024-04-01T19:32:00.000Z",
+          "wordCount": 20034,
+          "title": "Fidelity to charge $100 servicing fee on some ETFs",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/jw7QSy5QlcrGNLCO4O68gw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/64ea364cc2c699f01b8b40cf46a6de27"
         },
         {
           "id": "why-bitcoin-ethereum-bonk-plunged-191006919.html",
@@ -39925,16 +39980,6 @@
           "wordCount": null,
           "title": "Pepecoin Becomes Biggest Meme Coin Gainer as DOGE, SHIB Rally Eases",
           "imageUrl": null
-        },
-        {
-          "id": "tsmc-surges-record-high-ai-063334379.html",
-          "author": null,
-          "description": "(Bloomberg) -- Taiwan Semiconductor Manufacturing Co. rose to its highest-ever level, tracking a global rally in chip stocks fueled by optimism about artificial intelligence. Most Read from BloombergWhat to Remember If the Stock Market Takes a DiveBofA’s Subramanian Is Latest on Wall Street to Boost S&P 500 TargetHaley Casts Doubt on Nominee Pledge After Trump’s Power PlayCrafts Retailer Joann Is Planning a Bankruptcy Filing That Would Hand Keys to LendersFed’s Powell to Double Down on ‘No Rush",
-          "link": "https://finance.yahoo.com/news/tsmc-surges-record-high-ai-063334379.html",
-          "publishedOn": "2024-03-04T06:33:34.000Z",
-          "wordCount": 18037,
-          "title": "TSMC Surges to Record High on AI Optimism, Global Chip Rally",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_technology_68/874a4aa82387c767eae460880bb8dbc0"
         }
       ]
     }
