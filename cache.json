@@ -2158,6 +2158,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6307672",
+          "author": null,
+          "description": "De lonen zijn de afgelopen maanden ruim 4 procent gestegen ten opzichte van een jaar eerder. Statistiekbureau CBS heeft daarbij rekening gehouden met de inflatie.",
+          "link": "https://www.nu.nl/economie/6307672/prijzen-zijn-hard-omhooggegaan-maar-lonen-stegen-harder.html",
+          "publishedOn": "2024-04-03T22:01:13.000Z",
+          "wordCount": 489,
+          "title": "Prijzen zijn hard omhooggegaan, maar lonen stegen harder",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.nu.nl/m/2fcxscfazybj_sqr256.jpg/prijzen-zijn-hard-omhooggegaan-maar-lonen-stegen-harder.jpg"
+          },
+          "imageUrl": "https://media.nu.nl/m/2fcxscfazybj_sqr256.jpg/prijzen-zijn-hard-omhooggegaan-maar-lonen-stegen-harder.jpg"
+        },
+        {
           "id": "article-6307695",
           "author": null,
           "description": "WhatsApp is woensdagavond getroffen door een wereldwijde storing. Daardoor konden gebruikers geen berichten versturen en ontvangen. Inmiddels lijken de problemen grotendeels verholpen, al meldt een aantal mensen nog problemen.",
@@ -9154,6 +9169,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8624420",
+          "author": "Diccon Hyatt",
+          "description": "The Forecast is Murkier as Data Continue to Show Surprising Economic Strength",
+          "link": "https://www.investopedia.com/when-will-the-federal-reserve-start-cutting-interest-rates-8624420",
+          "publishedOn": "2024-04-03T21:59:20.000Z",
+          "wordCount": 5995,
+          "title": "When Will the Federal Reserve Start Cutting Interest Rates?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/XsYxcxv85BgzzXAV24VowNWxJNQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2135780160-ba2e2ded4f194ff1a0a0cccd3de0e36c.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/XsYxcxv85BgzzXAV24VowNWxJNQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2135780160-ba2e2ded4f194ff1a0a0cccd3de0e36c.jpg"
+        },
         {
           "id": "8624209",
           "author": "Michael Bromberg",
@@ -40375,46 +40405,6 @@
           "wordCount": 18829,
           "title": "3 Cryptocurrencies to Avoid Like the Plague in March",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/22onWK9XufoFkng77XKykg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/bed1b2f7c93cef3107a15e97c54c1d5b"
-        },
-        {
-          "id": "forget-nvidia-2-artificial-intelligence-100600681.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/forget-nvidia-2-artificial-intelligence-100600681.html",
-          "publishedOn": "2024-03-05T10:06:00.000Z",
-          "wordCount": null,
-          "title": "Forget Nvidia: These 2 Artificial Intelligence (AI) Stocks Are Considerably Cheaper and Not in a Bubble",
-          "imageUrl": null
-        },
-        {
-          "id": "4-warren-buffett-stocks-hold-100400773.html",
-          "author": null,
-          "description": "Buffett has bet billions of dollars on the American consumer.",
-          "link": "https://finance.yahoo.com/news/4-warren-buffett-stocks-hold-100400773.html",
-          "publishedOn": "2024-03-05T10:04:00.000Z",
-          "wordCount": 18622,
-          "title": "4 Warren Buffett Stocks to Hold Forever",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/luVKzapSj61Ig6UpVWbU8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/7125b3c7e3f0f8103cd3e3c877a17293"
-        },
-        {
-          "id": "1-no-brainer-ai-stock-100100453.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/1-no-brainer-ai-stock-100100453.html",
-          "publishedOn": "2024-03-05T10:01:00.000Z",
-          "wordCount": null,
-          "title": "1 No-Brainer AI Stock Down 56% to Buy and Hold Forever",
-          "imageUrl": null
-        },
-        {
-          "id": "shiba-inu-prices-briefly-dropped-091203141.html",
-          "author": null,
-          "description": "The tokens have logged over $1.7 billion in volumes on the regulated exchange in the past 24 hours, the most among counterparts.",
-          "link": "https://finance.yahoo.com/news/shiba-inu-prices-briefly-dropped-091203141.html",
-          "publishedOn": "2024-03-05T09:12:03.000Z",
-          "wordCount": 18029,
-          "title": "Shiba Inu Prices Briefly Dropped 50% on Coinbase",
-          "imageUrl": "https://media.zenfs.com/en/coindesk_75/485019cd41696a394d3dd8b7ffe8beda"
         }
       ]
     }
