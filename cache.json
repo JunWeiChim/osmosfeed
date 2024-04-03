@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "c8893b8f24aa191796ced53ef8b38b47",
+          "author": "Investopedia",
+          "description": "Ford posted strong first-quarter sales Wednesday, propelled by demand for its hybrids and SUVs.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8262cae311a1113f879c75abeb383f86404c8e23902ea2df4a2e48cb26993ad786576accf431fff3ea32f1fcc33cb02dfb3e0a90795c095f09eebef08f250d9b8aee",
+          "publishedOn": "2024-04-03T12:00:00.000Z",
+          "wordCount": 411,
+          "title": "Demand for Hybrids, SUVs Help Lift Ford's First-Quarter Sales",
+          "imageUrl": null
+        },
+        {
           "id": "b5524a78d30a16a2974a7e40e45185fd",
           "author": "Investopedia",
           "description": "Disney's annual shareholder meeting on Wednesday brought a victory for the company's board nominees including CEO Bob Iger after a months-long proxy battle with activist investors and offered key details on the entertainment giant's streaming strategy and parks segment.",
@@ -1250,6 +1260,16 @@
       "feedUrl": "https://rss.app/feeds/UWnMV6nTNN8mPDUG.xml",
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
+        {
+          "id": "1707e3fbb17f9138038a6e30fdc74d56",
+          "author": "Investopedia",
+          "description": "The S&P 500 ticked 0.1% higher on Wednesday, April 3, 2024, as Federal Reserve Chair Jerome Powell said he still expects interest rate cuts sometime this year.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca952ac6ec1be84c74ddde68eef53b24815712c23e8175bd9d513841c826813cd5930321c0e926bff0f729e1fbc33eb123ea211ccf245d0d401fe8e1addd3a5bd09fa5addcd8d48310438f10c3de65709c6a21269ed70ad6c252bb992a",
+          "publishedOn": "2024-04-03T12:00:00.000Z",
+          "wordCount": 411,
+          "title": "S&P 500 Gains and Losses Today: Cosmetics Stocks Pressured by Soft Demand Outlook",
+          "imageUrl": null
+        },
         {
           "id": "c7538d4a41965888c995884e918ca5f2",
           "author": "Investopedia",
@@ -9126,21 +9146,6 @@
             "url": "https://media.nu.nl/m/0kgxhi8as7tz_sqr256.jpg/deelscooterbedrijf-felyx-komt-in-handen-van-spaanse-branchegenoot.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/0kgxhi8as7tz_sqr256.jpg/deelscooterbedrijf-felyx-komt-in-handen-van-spaanse-branchegenoot.jpg"
-        },
-        {
-          "id": "article-6303969",
-          "author": null,
-          "description": "Jeff Bezos is momenteel de rijkste persoon ter wereld. Dat betekent dat de oprichter van webwinkel Amazon Tesla-baas Elon Musk is gepasseerd.",
-          "link": "https://www.nu.nl/economie/6303969/jeff-bezos-passeert-elon-musk-als-rijkste-persoon-op-aarde.html",
-          "publishedOn": "2024-03-05T09:03:18.000Z",
-          "wordCount": 2498,
-          "title": "Jeff Bezos passeert Elon Musk als rijkste persoon op aarde",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/2fmx45eajqcq_sqr256.jpg/jeff-bezos-passeert-elon-musk-als-rijkste-persoon-op-aarde.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/2fmx45eajqcq_sqr256.jpg/jeff-bezos-passeert-elon-musk-als-rijkste-persoon-op-aarde.jpg"
         }
       ]
     },
@@ -9149,6 +9154,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8624209",
+          "author": "Michael Bromberg",
+          "description": "The S&P 500 ticked 0.1% higher on Wednesday, April 3, 2024, as Federal Reserve Chair Jerome Powell said he still expects interest rate cuts sometime this year.",
+          "link": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-cosmetics-stocks-pressured-by-soft-demand-outlook-8624209",
+          "publishedOn": "2024-04-03T20:39:20.000Z",
+          "wordCount": 5175,
+          "title": "S&P 500 Gains and Losses Today: Cosmetics Stocks Pressured by Soft Demand Outlook",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/0NIz5Kx7cgxm-ofUBjmUd6nASrg=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/latestGainersLosers-5dda10f528aa40618249676fcaf63f3d.png",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/0NIz5Kx7cgxm-ofUBjmUd6nASrg=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/latestGainersLosers-5dda10f528aa40618249676fcaf63f3d.png"
+        },
+        {
+          "id": "8624288",
+          "author": "Bill McColl",
+          "description": "Ford posted strong first-quarter sales Wednesday, propelled by demand for its hybrids and SUVs.",
+          "link": "https://www.investopedia.com/demand-for-hybrids-suvs-help-lift-ford-first-quarter-sales-8624288",
+          "publishedOn": "2024-04-03T20:24:50.000Z",
+          "wordCount": 5167,
+          "title": "Demand for Hybrids, SUVs Help Lift Ford's First-Quarter Sales",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/sbWy-i7shrt4PpJExAlWciazKCA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1246347639-a8f526c439ab4b1c9b751e930ed551b4.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/sbWy-i7shrt4PpJExAlWciazKCA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1246347639-a8f526c439ab4b1c9b751e930ed551b4.jpg"
+        },
         {
           "id": "8624365",
           "author": "Bill McColl",
@@ -14669,6 +14704,16 @@
           "publishedOn": "2024-04-03T19:45:49.000Z",
           "wordCount": null,
           "title": "Jeff Bezos Buys $90 Million Florida Mansion To Live In While His Other Newly Purchased $147 Million Homes Are 'Demolished' For A Mega Mansion",
+          "imageUrl": null
+        },
+        {
+          "id": "buffett-suggests-radical-approach-end-193014954.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/buffett-suggests-radical-approach-end-193014954.html",
+          "publishedOn": "2024-04-03T19:30:14.000Z",
+          "wordCount": null,
+          "title": "Buffett Suggests Radical Approach To End U.S. Deficit In '5 Minutes' – But It Involves Disqualifying Members Of Congress Based On The Debt",
           "imageUrl": null
         },
         {
@@ -40370,36 +40415,6 @@
           "wordCount": 18029,
           "title": "Shiba Inu Prices Briefly Dropped 50% on Coinbase",
           "imageUrl": "https://media.zenfs.com/en/coindesk_75/485019cd41696a394d3dd8b7ffe8beda"
-        },
-        {
-          "id": "dell-just-gave-nvidia-amd-090500531.html",
-          "author": null,
-          "description": "Dell's COO seemed to undermine a key thesis about the growth prospects for the major cloud services providers.",
-          "link": "https://finance.yahoo.com/news/dell-just-gave-nvidia-amd-090500531.html",
-          "publishedOn": "2024-03-05T09:05:00.000Z",
-          "wordCount": 18980,
-          "title": "Dell Just Gave Nvidia and AMD Investors Something to Cheer -- and Amazon, Microsoft, and Google Investors Something to Perhaps Fear",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/rOGPLirZxG8Xl.yndT4fwg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTM-/https://media.zenfs.com/en/motleyfool.com/bb3fd1be5c9c85ee52b28581c35c1222"
-        },
-        {
-          "id": "duty-free-billionaire-family-office-090328751.html",
-          "author": null,
-          "description": "(Bloomberg) -- Duty free shop DFS Group Ltd. co-founder Robert Miller’s family office is disbanding its own investment team, in favor of handing its roughly $2 billion investment portfolio to external managers, said people familiar with the matter. Most Read from BloombergAmerica Blew Almost $2 Trillion. Make It Stop.Supreme Court Rules Trump Can Appear on Presidential BallotsWall Street’s DEI Retreat Has Officially BegunAMD Hits US Roadblock in Selling AI Chip Tailored for ChinaChina Scraps Pre",
-          "link": "https://finance.yahoo.com/news/duty-free-billionaire-family-office-090328751.html",
-          "publishedOn": "2024-03-05T09:03:28.000Z",
-          "wordCount": 18375,
-          "title": "Duty-Free Billionaire’s Family Office Shuts Investment Team",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/u_OYe5G5c9ZlaGdQK7JLGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njc-/https://media.zenfs.com/en/bloomberg_markets_842/5af99fddc3a1a6bc26b9ca42c4e21e4e"
-        },
-        {
-          "id": "china-stocks-set-declines-policy-231414390.html",
-          "author": null,
-          "description": "(Bloomberg) -- US and Europen stock futures fell while Asian benchmarks were mixed Tuesday as China’s new targets and measures to build confidence in its economy received a lukewarm response from investors.Most Read from BloombergSupreme Court Rules Trump Can Appear on Presidential BallotsAmerica Blew Almost $2 Trillion. Make It Stop.Wall Street’s DEI Retreat Has Officially BegunChina Scraps Premier Li's Briefing, Breaking Years of ConventionChicago to Go Ahead With Plan to Revamp Empty Downtown",
-          "link": "https://finance.yahoo.com/news/china-stocks-set-declines-policy-231414390.html",
-          "publishedOn": "2024-03-05T08:31:09.000Z",
-          "wordCount": 18987,
-          "title": "Stocks Slip as Focus Shifts From China to Powell: Markets Wrap",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/BVsFEQ3.GThx1wufFVMAjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/a39c91d1eea0dcdb09f89505b4711684"
         }
       ]
     }
