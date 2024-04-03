@@ -1192,16 +1192,6 @@
           "wordCount": 409,
           "title": "MicroStrategy Stock Drops After News of Convertible Notes Offering—Key Level to Watch",
           "imageUrl": null
-        },
-        {
-          "id": "c69b5eeeebdaa2740e7d48ada8d817ff",
-          "author": "Investopedia",
-          "description": "Tesla shares dropped Monday after the electric vehicle maker reported lower-than-expected deliveries from its China Gigafactory in Shanghai.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9262d4ee1ee84f2d878d33eee62f208d485ad07d843ea597506647d3629b329c95136bc2e034b1e1ec32fba59d21aa3bed25188c79175e035fa5a5fd",
-          "publishedOn": "2024-03-05T00:54:13.331Z",
-          "wordCount": 409,
-          "title": "Tesla Stock Tumbles More Than 7% After China Gigafactory Deliveries Slowdown",
-          "imageUrl": null
         }
       ]
     },
@@ -1210,6 +1200,16 @@
       "feedUrl": "https://rss.app/feeds/UWnMV6nTNN8mPDUG.xml",
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
+        {
+          "id": "7329ba1841901fec98bbf25866b8477f",
+          "author": "Investopedia",
+          "description": "Stock futures fell in premarket trading following a strong employment report that amplified concerns the Fed will delay the interest rate cuts markets have penciled in for June.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c2140b9363d768e3c60f7312893fc56784",
+          "publishedOn": "2024-04-03T12:00:00.000Z",
+          "wordCount": 411,
+          "title": "Dow Jones Today: Stock Futures Slip Following Private Jobs Data; Disney Meeting in Focus",
+          "imageUrl": null
+        },
         {
           "id": "82b5ccf54d057e308f476afada020726",
           "author": "Investopedia",
@@ -9095,6 +9095,21 @@
       "siteUrl": "https://www.investopedia.com",
       "articles": [
         {
+          "id": "8624021",
+          "author": "Fatima Attarwala",
+          "description": "Danish drugmaker Genmab said Wednesday it plans to acquire U.S. biotech firm ProfoundBio for $1.8 billion in cash to expand its cancer treatment portfolio.",
+          "link": "https://www.investopedia.com/genmab-buys-profoundbio-for-usd1-8b-to-boost-oncology-portfolio-8624021",
+          "publishedOn": "2024-04-03T12:48:40.000Z",
+          "wordCount": 5186,
+          "title": "Genmab Buys ProfoundBio for $1.8B to Boost Oncology Portfolio",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/eL0XPOrw7JXQtTcYoQcOKWnd8kk=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/Our_Offices_Genmab_Copenhagen_Office_Building_3_Tuala_Hjarn-3cfaf9eb11c940918115c00204877f86.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/eL0XPOrw7JXQtTcYoQcOKWnd8kk=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/Our_Offices_Genmab_Copenhagen_Office_Building_3_Tuala_Hjarn-3cfaf9eb11c940918115c00204877f86.jpg"
+        },
+        {
           "id": "8624026",
           "author": "Aaron McDade",
           "description": "Paramount Global shares are rising in premarket trading Wednesday following a report that the media giant is considering making its sale talks exclusive with David Ellison's Skydance Media.",
@@ -14472,6 +14487,86 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jerome-powell-intel-intc-stock/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-04-03T12:59:01.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Struggle After Jobs Data, Powell Speech Next; Intel Dives On $7 Billion Loss",
+          "imageUrl": null
+        },
+        {
+          "id": "tesla-stock-price-sales-drop-elon-musk-c1d4a6ea?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/tesla-stock-price-sales-drop-elon-musk-c1d4a6ea?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-04-03T12:53:00.000Z",
+          "wordCount": null,
+          "title": "Tesla’s Sales Drop Shows Was Shocking. How Far the Stock Could Tumble.",
+          "imageUrl": null
+        },
+        {
+          "id": "taiwan-quake-hit-chip-output-123016269.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/taiwan-quake-hit-chip-output-123016269.html",
+          "publishedOn": "2024-04-03T12:30:16.000Z",
+          "wordCount": null,
+          "title": "Taiwan quake to hit some chip output, cause Asia supply chain disruptions, analysts say",
+          "imageUrl": null
+        },
+        {
+          "id": "forget-magnificent-seven-instead-look-123000043.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/forget-magnificent-seven-instead-look-123000043.html",
+          "publishedOn": "2024-04-03T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Forget the \"Magnificent Seven.\" Instead, Look at the \"Fab Four.\"",
+          "imageUrl": null
+        },
+        {
+          "id": "nvidia-stock-amd-stock-wont-122230465.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/nvidia-stock-amd-stock-wont-122230465.html",
+          "publishedOn": "2024-04-03T12:22:30.000Z",
+          "wordCount": null,
+          "title": "Nvidia Stock and AMD Stock: You Won't Believe My Shocking Conclusion",
+          "imageUrl": null
+        },
+        {
+          "id": "massive-news-nio-stock-investors-122025741.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/massive-news-nio-stock-investors-122025741.html",
+          "publishedOn": "2024-04-03T12:20:25.000Z",
+          "wordCount": null,
+          "title": "Massive News for Nio Stock Investors",
+          "imageUrl": null
+        },
+        {
+          "id": "intel-slides-foundry-business-loss-120623062.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/intel-slides-foundry-business-loss-120623062.html",
+          "publishedOn": "2024-04-03T12:06:23.000Z",
+          "wordCount": null,
+          "title": "Intel slides as foundry business loss spotlights wide gap with rival TSMC",
+          "imageUrl": null
+        },
+        {
+          "id": "could-super-micro-computer-become-120000377.html",
+          "author": null,
+          "description": "The server manufacturer has beaten Nvidia impressively in the stock market in the past year.",
+          "link": "https://finance.yahoo.com/news/could-super-micro-computer-become-120000377.html",
+          "publishedOn": "2024-04-03T12:00:00.000Z",
+          "wordCount": 20466,
+          "title": "Could Super Micro Computer Become the Next Nvidia?",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/a10f73c5d2d6d22d48b7d1eef3d31d95"
+        },
+        {
           "id": "nvidia-stock-price-buy-sell-fd45384c?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "",
@@ -14952,6 +15047,16 @@
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/3ac8cfaf6608c44a80732a56e4dda0a6"
         },
         {
+          "id": "enbridge-raises-3-5-billion-201024822.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/enbridge-raises-3-5-billion-201024822.html",
+          "publishedOn": "2024-04-02T20:10:24.000Z",
+          "wordCount": null,
+          "title": "Enbridge Raises $3.5 Billion Through Bond Sale After Ratings Cut",
+          "imageUrl": null
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -15340,6 +15445,16 @@
           "wordCount": null,
           "title": "Should You Buy the 3 Highest-Paying Dividend Stocks in the S&P 500?",
           "imageUrl": null
+        },
+        {
+          "id": "im-70-years-old-1-132826731.html",
+          "author": null,
+          "description": "In retirement, it's not too late to convert your money into a Roth IRA. The IRS will let you convert qualified funds at any time, as long as you pay the associated taxes. It might, however, be too late to get real benefit from that decision. A Roth IRA works best when it has time […] The post I'm 70 Years Old With $1.2 Million in an IRA. Is It Too Late to Convert to a Roth IRA? appeared first on SmartReads by SmartAsset.",
+          "link": "https://finance.yahoo.com/news/im-70-years-old-1-132826731.html",
+          "publishedOn": "2024-04-02T13:28:26.000Z",
+          "wordCount": 20789,
+          "title": "I'm 70 Years Old With $1.2 Million in an IRA. Is It Too Late to Convert to a Roth IRA?",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/4a4d06796e0c973360373ee9a882694c"
         },
         {
           "id": "tesla-1q-sales-fall-nearly-131852189.html",
@@ -39690,16 +39805,6 @@
           "wordCount": null,
           "title": "The upcoming inflation report could spark the stock market's next big sell-off, Fundstrat says",
           "imageUrl": null
-        },
-        {
-          "id": "oil-supply-looking-tighter-prices-004019033.html",
-          "author": null,
-          "description": "US oil production growth could be slashed in half this year, down from a million barrels to just 500,000 barrels a day.",
-          "link": "https://finance.yahoo.com/news/oil-supply-looking-tighter-prices-004019033.html",
-          "publishedOn": "2024-03-05T00:40:19.000Z",
-          "wordCount": 18093,
-          "title": "Oil supply is looking tighter and prices could climb as US production outlook gets cut in half this year, RBC commodities chief says",
-          "imageUrl": "https://media.zenfs.com/en/business_insider_articles_888/8e8c9614ec82183ef942f8070bb15cbc"
         }
       ]
     }
