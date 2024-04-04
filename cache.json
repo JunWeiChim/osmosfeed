@@ -9011,21 +9011,6 @@
             "url": "https://media.nu.nl/m/g5tx9jxah700_sqr256.jpg/fabrikant-van-elektrische-brommers-is-mede-door-concurrentie-van-fatbike-failliet.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/g5tx9jxah700_sqr256.jpg/fabrikant-van-elektrische-brommers-is-mede-door-concurrentie-van-fatbike-failliet.jpg"
-        },
-        {
-          "id": "article-6304100",
-          "author": null,
-          "description": "Oekraïense vluchtelingen die in Nederland werken, gaan meer meebetalen aan hun levensonderhoud. Voor gas, water en licht moet elke werkende Oekraïner 105 euro per maand gaan betalen. Voor eten bij de vluchtelingenopvang wordt maandelijks bijna 243 euro gerekend.",
-          "link": "https://www.nu.nl/economie/6304100/oekraiense-vluchteling-met-werk-gaat-tot-350-euro-betalen-voor-energie-en-eten.html",
-          "publishedOn": "2024-03-06T08:22:39.000Z",
-          "wordCount": 2611,
-          "title": "Oekraïense vluchteling met werk gaat tot 350 euro betalen voor energie en eten",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/njdxn5laqton_sqr256.jpg/oekraiense-vluchteling-met-werk-gaat-tot-350-euro-betalen-voor-energie-en-eten.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/njdxn5laqton_sqr256.jpg/oekraiense-vluchteling-met-werk-gaat-tot-350-euro-betalen-voor-energie-en-eten.jpg"
         }
       ]
     },
@@ -9034,6 +9019,66 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8624789",
+          "author": "Michael Bromberg",
+          "description": "The S&P 500 dropped 1.2% on Thursday, April 4, 2024, reversing early gains after a Fed official warned that interest rate cuts may not be imminent.",
+          "link": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-8624789",
+          "publishedOn": "2024-04-04T20:59:42.000Z",
+          "wordCount": 5160,
+          "title": "S&P 500 Gains and Losses Today: Index Slips Amid Rate Cut Uncertainty",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/vOnWChC4coVVYCDv61ZL0h1X1pg=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/latestGainersLosers-7f72213ad7724d2e8a842c5b24e52f98.png",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/vOnWChC4coVVYCDv61ZL0h1X1pg=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/latestGainersLosers-7f72213ad7724d2e8a842c5b24e52f98.png"
+        },
+        {
+          "id": "8624930",
+          "author": "Kyle Torpey",
+          "description": "Ripple, the blockchain technology company, announced a plan on Thursday to issue a new stablecoin on the XRP Ledger and Ethereum networks.",
+          "link": "https://www.investopedia.com/ripple-launching-stablecoin-8624930",
+          "publishedOn": "2024-04-04T20:51:54.000Z",
+          "wordCount": 5803,
+          "title": "Why Ripple Is Launching a Stablecoin",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/TCCVG432eooawi0Vp8W1XiP_kzU=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/INV_RippleCryptoTokens_GettyImages-1294507611-c2dcbc3aac77403aa910b40c9dc9b342.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/TCCVG432eooawi0Vp8W1XiP_kzU=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/INV_RippleCryptoTokens_GettyImages-1294507611-c2dcbc3aac77403aa910b40c9dc9b342.jpg"
+        },
+        {
+          "id": "8624943",
+          "author": "Bill McColl",
+          "description": "Alaska Air announced that it was getting monetary compensation from Boeing following the January midair incident when a door plug in a 737 Max 9 blew out.",
+          "link": "https://www.investopedia.com/alaska-air-gets-compensation-from-boeing-for-midair-mishap-737-max-9-grounding-8624943",
+          "publishedOn": "2024-04-04T20:41:03.000Z",
+          "wordCount": 5207,
+          "title": "Alaska Air Gets Compensation from Boeing for Midair Mishap, 737 Max 9 Grounding",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/vSDS98Fj_xPqQptzkH2m3xr62gY=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2105329227-3f7c729bb3044148a9080272825b776b.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/vSDS98Fj_xPqQptzkH2m3xr62gY=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2105329227-3f7c729bb3044148a9080272825b776b.jpg"
+        },
+        {
+          "id": "8624948",
+          "author": "Naomi Buchanan",
+          "description": "Disney CEO Bob Iger said Disney+ will be cracking down on password sharing starting in June.",
+          "link": "https://www.investopedia.com/disney-to-join-netflix-in-password-sharing-crackdown-ceo-bob-iger-says-8624948",
+          "publishedOn": "2024-04-04T20:07:41.000Z",
+          "wordCount": 5199,
+          "title": "Disney+ To Join Netflix in Password Sharing Crackdown, CEO Bob Iger Says",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/09AgC3dlNAfurPsZ8QtVlfu-d88=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1252558105-187893f336aa4b79872a0334fc04aeac.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/09AgC3dlNAfurPsZ8QtVlfu-d88=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1252558105-187893f336aa4b79872a0334fc04aeac.jpg"
+        },
         {
           "id": "8624903",
           "author": "Bill McColl",
@@ -14802,6 +14847,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-reversal-nvidia-stock-amd-dives-jobs-report-looms/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-04-04T21:03:35.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures: Market Suffers Ugly Reversal, Nvidia Breaks Key Level As AMD Dives; Jobs Report Looms",
+          "imageUrl": null
+        },
+        {
+          "id": "one-wall-streets-most-powerful-203616664.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/one-wall-streets-most-powerful-203616664.html",
+          "publishedOn": "2024-04-04T20:36:16.000Z",
+          "wordCount": null,
+          "title": "One of Wall Street's most powerful people is predicting that a 4-day workweek is coming, but there is a catch",
+          "imageUrl": null
+        },
+        {
           "id": "paramount-stock-drops-after-buyout-rumors-the-worst-time-in-the-world-to-sell-191703124.html",
           "author": null,
           "description": "Paramount has reportedly entered into exclusive merger talks with David Ellison's Skydance Media. IAC chairman and Fox founder Barry Diller says the timing couldn't be worse.",
@@ -14820,6 +14885,16 @@
           "wordCount": null,
           "title": "Stock market today: Stocks slide after Fedspeak as oil surges, March jobs report on deck",
           "imageUrl": null
+        },
+        {
+          "id": "trump-needed-cash-california-bank-195233952.html",
+          "author": null,
+          "description": "Donald Trump left the White House facing a cash crunch and a tattered reputation after his attempts to overturn the 2020 election, threatening the viability of his business empire.  Over the past two years, Axos Bank, as well as its largest individual shareholder, California billionaire Don Hankey, have collectively extended more than $500 million in financing that has benefited Trump, records show.  The cash influx has helped Trump to pay off debts and pocket a tidy profit while escaping from a lease on his money-losing former hotel in Washington.",
+          "link": "https://finance.yahoo.com/news/trump-needed-cash-california-bank-195233952.html",
+          "publishedOn": "2024-04-04T19:52:33.000Z",
+          "wordCount": 20425,
+          "title": "When Trump needs cash, a California bank and one of its top shareholders have come to the rescue",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/bv_N6PiYgwp1Cocls5h9Mg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/de1766bd89897c611fd39152444fd67d"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -14862,6 +14937,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/lFd2P0ld_VWoblPgk_.brg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/cb9cbbd0-b9c0-11ee-bfeb-d94e641f3332"
         },
         {
+          "id": "mark-cuban-getting-fired-sleeping-183014646.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/mark-cuban-getting-fired-sleeping-183014646.html",
+          "publishedOn": "2024-04-04T18:30:14.000Z",
+          "wordCount": null,
+          "title": "Mark Cuban Getting Fired And Sleeping On The Floor Helped Make Him A Billionaire: \"If You've Got Nothing, That's The Perfect Time To Start A Business\"",
+          "imageUrl": null
+        },
+        {
           "id": "happening-markets-today-april-04-182240894.html",
           "author": null,
           "description": "",
@@ -14889,6 +14974,16 @@
           "publishedOn": "2024-04-04T17:30:15.000Z",
           "wordCount": null,
           "title": "73 Million AT&T Users' Data Leaked As Hacker Said, 'I Don't Care If They Don't Admit. I'm Just Selling' Auctioned At Starting Price Of $200K",
+          "imageUrl": null
+        },
+        {
+          "id": "tesla-bear-says-poised-bust-163426912.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/tesla-bear-says-poised-bust-163426912.html",
+          "publishedOn": "2024-04-04T16:34:26.000Z",
+          "wordCount": null,
+          "title": "Tesla bear says it’s poised to ‘go bust’ because it’s too vertically integrated, which is a ‘brilliant model when you grow’ but not when you have your worst quarter in years",
           "imageUrl": null
         },
         {
@@ -40360,26 +40455,6 @@
           "wordCount": 19007,
           "title": "Cathie Wood's Ark Invest Is Selling Nvidia Stock and Buying These 2 Artificial Intelligence (AI) Stocks Instead",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/6CQYBYBt9O3FZ0_w8U63NQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mzg-/https://media.zenfs.com/en/motleyfool.com/061e967c3e085e1828d1332fc96bbb39"
-        },
-        {
-          "id": "stocks-surge-to-record-highs-doesnt-mean-were-in-a-bubble-090008867.html",
-          "author": null,
-          "description": "While stocks have surged to record highs, Wall Street strategists see key differences between this run and past bubbles in the stock market.",
-          "link": "https://finance.yahoo.com/news/stocks-surge-to-record-highs-doesnt-mean-were-in-a-bubble-090008867.html",
-          "publishedOn": "2024-03-06T09:00:08.000Z",
-          "wordCount": 18924,
-          "title": "Stocks' surge to record highs doesn't mean we're in a bubble",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/W3Ovku72ZlpVWIX9IZqR_g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/8a85a850-db17-11ee-bbff-83c0e525e080"
-        },
-        {
-          "id": "asia-stocks-set-mixed-open-224654594.html",
-          "author": null,
-          "description": "(Bloomberg) -- Stocks in Asia advanced as investors focused on China’s policy meeting after official announcements of an ambitious 5% growth target. Traders also awaited testimony from Federal Reserve Chair Jerome Powell. Most Read from BloombergOlivia Rodrigo Is Not Kid-Friendly? Don't Act Surprised.Tech Giants Drag Down US Stocks After Torrid Rally: Markets WrapGold Climbs to Record on Mix of Fed Pivot and Geopolitical RisksApple’s iPhone Woes in China Deepen With a 24% Sales PlungeBitcoin Ret",
-          "link": "https://finance.yahoo.com/news/asia-stocks-set-mixed-open-224654594.html",
-          "publishedOn": "2024-03-06T08:30:22.000Z",
-          "wordCount": 18824,
-          "title": "Stocks post small moves before Powell testimony: Markets Wrap",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/aOP2ESMkPfskFiv81q1cdA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODE-/https://media.zenfs.com/en/bloomberg_markets_842/a52dd76bd8b179eb3b1a08e34273dc85"
         }
       ]
     }
