@@ -8896,21 +8896,6 @@
             "url": "https://media.nu.nl/m/o3mxb72adk3m_sqr256.jpg/aantal-vrouwelijke-zzpers-in-tien-jaar-verdubbeld-ook-meer-zelfstandige-jongeren.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/o3mxb72adk3m_sqr256.jpg/aantal-vrouwelijke-zzpers-in-tien-jaar-verdubbeld-ook-meer-zelfstandige-jongeren.jpg"
-        },
-        {
-          "id": "article-6304217",
-          "author": null,
-          "description": "Damen krijgt opnieuw een prominente rol bij de bouw van nieuwe schepen voor de marine. Het gaat om zes amfibische transportschepen waarvan de eerste wordt geleverd in 2032 en de laatste in 2038.",
-          "link": "https://www.nu.nl/economie/6304217/scheepsbouwer-damen-wederom-betrokken-bij-order-voor-nieuwe-marineschepen.html",
-          "publishedOn": "2024-03-06T22:38:18.000Z",
-          "wordCount": 2612,
-          "title": "Scheepsbouwer Damen wederom betrokken bij order voor nieuwe marineschepen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/mzrxz97axi36_sqr256.jpg/scheepsbouwer-damen-wederom-betrokken-bij-order-voor-nieuwe-marineschepen.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/mzrxz97axi36_sqr256.jpg/scheepsbouwer-damen-wederom-betrokken-bij-order-voor-nieuwe-marineschepen.jpg"
         }
       ]
     },
@@ -8919,6 +8904,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8625247",
+          "author": "Timothy Smith",
+          "description": "Apple shares remain in focus on Friday after regulatory filings revealed that the tech giant has cut more than 600 jobs in California. Monitor this key chart level.",
+          "link": "https://www.investopedia.com/apple-slashes-more-than-600-jobs-in-california-watch-this-key-stock-price-level-8625247",
+          "publishedOn": "2024-04-05T10:45:47.000Z",
+          "wordCount": 5415,
+          "title": "Apple Slashes More Than 600 Jobs in California—Watch This Key Stock Price Level",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/N86LGfNgbxq5KehUzviDLCWoOFg=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/AAPLChart-a31c655761db45169fa483067d7b38d2.GIF",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/N86LGfNgbxq5KehUzviDLCWoOFg=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/AAPLChart-a31c655761db45169fa483067d7b38d2.GIF"
+        },
         {
           "id": "8625198",
           "author": "Timothy Smith",
@@ -14762,6 +14762,46 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "futures-recover-wall-st-selloff-102310019.html",
+          "author": null,
+          "description": "Wall Street's main stock indexes fell more than 1% each on Thursday after some comments from Fed officials rattled the markets.  Minneapolis Fed Bank President Neel Kashkari said while he had penciled in two rate cuts for this year at the U.S. central bank's meeting last month, none may be required, if inflation continues to elude the Fed's target.  The CBOE Volatility index, also known as Wall Street's fear gauge, closed at its highest since November in the previous session and was last up 0.26 points at 16.62.",
+          "link": "https://finance.yahoo.com/news/futures-recover-wall-st-selloff-102310019.html",
+          "publishedOn": "2024-04-05T10:23:10.000Z",
+          "wordCount": 19905,
+          "title": "Futures recover from Wall St selloff ahead of payrolls test",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/574797da91f5627b276d61ae03c16c88"
+        },
+        {
+          "id": "3-high-yield-dividend-stocks-101200289.html",
+          "author": null,
+          "description": "These stocks could outperform the broad market while they deliver heaps of dividend income.",
+          "link": "https://finance.yahoo.com/news/3-high-yield-dividend-stocks-101200289.html",
+          "publishedOn": "2024-04-05T10:12:00.000Z",
+          "wordCount": 20377,
+          "title": "3 High-Yield Dividend Stocks to Buy Now for a Lifetime of Passive Income",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ODfmUlQKSgabPa3s3Fo9UQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/motleyfool.com/86ec8821c439a66dee2a4b7466a88e7f"
+        },
+        {
+          "id": "few-years-now-youll-wish-100200623.html",
+          "author": null,
+          "description": "Nvidia stock might not rocket another 500% in the next couple of years, but it can still be a market beater.",
+          "link": "https://finance.yahoo.com/news/few-years-now-youll-wish-100200623.html",
+          "publishedOn": "2024-04-05T10:02:00.000Z",
+          "wordCount": 20280,
+          "title": "A Few Years From Now, You'll Wish You Had Bought This High-Growth Stock",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/fa1a39d5c31a256b64eec489b7e28ed2"
+        },
+        {
+          "id": "bitcoin-ethereum-price-crypto-markets-today-844438dd?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/bitcoin-ethereum-price-crypto-markets-today-844438dd?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-04-05T09:37:00.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Rises but the Jobs Report Threatens the Crypto Recovery",
+          "imageUrl": null
+        },
+        {
           "id": "amd-intel-nvidia-stock-investors-093700426.html",
           "author": null,
           "description": "",
@@ -14802,6 +14842,26 @@
           "imageUrl": null
         },
         {
+          "id": "bargain-hunting-yield-1-high-090500648.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/bargain-hunting-yield-1-high-090500648.html",
+          "publishedOn": "2024-04-05T09:05:00.000Z",
+          "wordCount": null,
+          "title": "Bargain Hunting for Yield: 1 High-Yield Dividend Stock to Avoid and 1 to Buy",
+          "imageUrl": null
+        },
+        {
+          "id": "better-growth-biotech-buy-iovance-090300902.html",
+          "author": null,
+          "description": "These companies are in the early days of their growth stories.",
+          "link": "https://finance.yahoo.com/news/better-growth-biotech-buy-iovance-090300902.html",
+          "publishedOn": "2024-04-05T09:03:00.000Z",
+          "wordCount": 20409,
+          "title": "Better Growth Biotech Buy: Iovance Biotherapeutics vs CRISPR Therapeutics",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/1U_L4bPwFKk7KcR.huzQMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzM-/https://media.zenfs.com/en/motleyfool.com/95726bcfa55ae77051b82155406ff6a4"
+        },
+        {
           "id": "1-warren-buffett-index-fund-084500897.html",
           "author": null,
           "description": "",
@@ -14830,6 +14890,16 @@
           "wordCount": null,
           "title": "GE Aerospace Stock Has 19% Upside, According to 1 Wall Street Analyst",
           "imageUrl": null
+        },
+        {
+          "id": "history-says-nasdaq-could-soar-082000170.html",
+          "author": null,
+          "description": "These two companies benefit from lucrative trends that could send their stock prices higher in 2024 and beyond.",
+          "link": "https://finance.yahoo.com/news/history-says-nasdaq-could-soar-082000170.html",
+          "publishedOn": "2024-04-05T08:20:00.000Z",
+          "wordCount": 20732,
+          "title": "History Says the Nasdaq Could Soar Another 14% in 2024: 2 No-Brainer Stocks to Buy Hand Over Fist Before That Happens",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/74a261e66fc84a804946a119e86de28c"
         },
         {
           "id": "2-top-energy-stocks-buy-081400719.html",
@@ -14870,6 +14940,16 @@
           "wordCount": 20336,
           "title": "Yellen blasts ‘coercive’ China moves on US firms, urges reforms",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/0LRSM9uKlGjXh.I5owuWOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/4ebb3a2f4877c91eb7810aebe953651d"
+        },
+        {
+          "id": "got-1-000-hot-growth-060000964.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/got-1-000-hot-growth-060000964.html",
+          "publishedOn": "2024-04-05T06:00:00.000Z",
+          "wordCount": null,
+          "title": "Got $1,000? These Hot Growth Stocks Are Screaming Buys Right Now.",
+          "imageUrl": null
         },
         {
           "id": "barry-diller-says-trump-media-203806316.html",
@@ -39829,36 +39909,6 @@
           "publishedOn": "2024-03-06T23:33:24.000Z",
           "wordCount": null,
           "title": "S&P 500 might crash 60%, a recession is looming, and speculation is rife, warns elite technical analyst Milton Berg",
-          "imageUrl": null
-        },
-        {
-          "id": "dave-ramsey-reveals-people-arent-225200129.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/dave-ramsey-reveals-people-arent-225200129.html",
-          "publishedOn": "2024-03-06T22:52:00.000Z",
-          "wordCount": null,
-          "title": "Dave Ramsey Reveals People Aren't As Well-Off As You Think  – '8 Out Of 10 People Probably Can't Afford The Home They're Living In And The Car They're Driving'",
-          "imageUrl": null
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-palantir-soars-into-buy-zone-nvidia-runs/?src=A00220&yptr=yahoo",
-          "publishedOn": "2024-03-06T22:19:39.000Z",
-          "wordCount": null,
-          "title": "Dow Jones Futures: Palantir Soars Into Buy Zone, Nvidia Runs, But Beware This",
-          "imageUrl": null
-        },
-        {
-          "id": "too-many-people-dont-know-221713478.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/too-many-people-dont-know-221713478.html",
-          "publishedOn": "2024-03-06T22:17:13.000Z",
-          "wordCount": null,
-          "title": "'Too Many People Don't Know What The Flip Their Own Money Is' — Dave Ramsey Explains Gross Vs. Net Income 'Delicately'",
           "imageUrl": null
         }
       ]
