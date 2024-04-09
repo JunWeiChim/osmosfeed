@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T05:11:59.115Z</updated>
+    <updated>2024-04-09T06:16:15.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amsterdam, Rotterdam en Den Haag zijn duurste steden van Europa om woning te huren]]></title>
+        <id>article-6308343</id>
+        <link href="https://www.nu.nl/economie/6308343/amsterdam-rotterdam-en-den-haag-zijn-duurste-steden-van-europa-om-woning-te-huren.html"/>
+        <updated>2024-04-09T06:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Nederland behoort tot de duurste landen in Europa als
+het gaat om het huren van een woning. Zowel Amsterdam, Rotterdam en Den Haag staan in de top 5 van meest prijzige steden.]]></summary>
+        <author>
+            <name>NU - Economie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stock market today: US stocks end mixed as bond yields climb ahead of latest inflation data]]></title>
         <id>stock-market-today-us-stocks-041016616.html</id>
@@ -52,6 +63,15 @@
         <summary type="html"><![CDATA[Price Continues to Retrace After McDonald's Partnership News]]></summary>
         <author>
             <name>Timothy Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gold prices have another 50% upside through 2025 if inflation jumps again, market vet says]]></title>
+        <id>gold-prices-another-50-upside-010447703.html</id>
+        <link href="https://finance.yahoo.com/news/gold-prices-another-50-upside-010447703.html"/>
+        <updated>2024-04-09T01:04:47.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
         </author>
     </entry>
     <entry>
@@ -366,6 +386,16 @@
         <id>could-cure-californias-insurance-crisis-170017805.html</id>
         <link href="https://finance.yahoo.com/news/could-cure-californias-insurance-crisis-170017805.html"/>
         <updated>2024-04-08T17:00:17.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could Dell Technologies Stock Help You Become a Millionaire?]]></title>
+        <id>could-dell-technologies-stock-help-170000228.html</id>
+        <link href="https://finance.yahoo.com/news/could-dell-technologies-stock-help-170000228.html"/>
+        <updated>2024-04-08T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The PC and server maker is still a stable long-term investment.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
