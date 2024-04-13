@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-13T17:08:10.627Z</updated>
+    <updated>2024-04-13T18:12:18.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -21,6 +21,15 @@
         <link href="https://finance.yahoo.com/news/intel-unveiled-artificial-intelligence-chip-153000062.html"/>
         <updated>2024-04-13T15:30:00.000Z</updated>
         <summary type="html"><![CDATA[Intel says its new AI chip is better than the Nvidia H100. Is it a game-changer?]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia Leads 5 Stocks Near Buy Points As S&P 500 Tests Key Level]]></title>
+        <id>?src=A00220&amp;yptr=yahoo</id>
+        <link href="https://www.investors.com/news/nvidia-nvda-stocks-buy-points-sp-500/?src=A00220&amp;yptr=yahoo"/>
+        <updated>2024-04-13T15:16:25.000Z</updated>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -170,6 +179,16 @@
         <link href="https://finance.yahoo.com/news/wont-believe-shocking-nvidia-stock-112800201.html"/>
         <updated>2024-04-13T11:28:00.000Z</updated>
         <summary type="html"><![CDATA[Nvidia is arguably two steps ahead of the competition in the AI semiconductor industry.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markets brace for oil to hit $100 as Saudi slashes production]]></title>
+        <id>markets-brace-oil-hit-100-112003857.html</id>
+        <link href="https://finance.yahoo.com/news/markets-brace-oil-hit-100-112003857.html"/>
+        <updated>2024-04-13T11:20:03.000Z</updated>
+        <summary type="html"><![CDATA[Oil prices are poised to hit $100 a barrel by May, analysts have warned, as Saudia Arabia extends supply cuts.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -34737,26 +34756,6 @@ Like PC rivals HP Inc. and Lenovo, [Dell]]></summary>
         <summary type="html"><![CDATA[The transaction consideration will be 100% cash and will be fully debt-financed, Swisscom said.  "Vodafone Italia and Fastweb will bring together complementary high-quality mobile and fixed infrastructures, competencies, and capabilities to create a leading converged challenger in a market with material growth opportunities," Swisscom said in a statement.The deal is expected to be closed in the first quarter of 2025, and will not require a shareholder vote, the company added.]]></summary>
         <author>
             <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Retreats From Record High as ‘Bubble’ Talk Grows Louder]]></title>
-        <id>bitcoin-retreats-record-high-bubble-031039357.html</id>
-        <link href="https://finance.yahoo.com/news/bitcoin-retreats-record-high-bubble-031039357.html"/>
-        <updated>2024-03-15T05:58:27.000Z</updated>
-        <summary type="html"><![CDATA[(Bloomberg) -- Bitcoin retreated from its latest record high amid an intensifying debate about whether the latest bull run in cryptocurrencies is evidence of speculative froth in global markets.Most Read from BloombergSpaceX Starship Nears Orbit, But Is Lost Before Return to EarthMillennium Trader Scored $40 Million Windfall in Egypt FX PlungeBiden’s Best Shot Against Trump Lies in ‘Blue Wall’ StatesPutin Says Ukraine Deal Requires Security Pledges for RussiaBond Yields Jump as Hot Inflation Cur]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jumbo stopt eind mei als eerste Nederlandse supermarkt met kiloknallers]]></title>
-        <id>article-6305266</id>
-        <link href="https://www.nu.nl/binnenland/6305266/jumbo-stopt-eind-mei-als-eerste-nederlandse-supermarkt-met-kiloknallers.html"/>
-        <updated>2024-03-15T05:13:50.000Z</updated>
-        <summary type="html"><![CDATA[Supermarktketen Jumbo stopt met alle 'van voor'-aanbiedingen van vers vlees. De winkel heeft het nog maar net besloten, maar hoopt dat de afprijzingen eind mei verleden tijd zijn. De stap geldt voor al het verse rund- varkens- en kippenvlees in Nederland, in alle vestigingen en online.]]></summary>
-        <author>
-            <name>NU - Economie</name>
         </author>
     </entry>
 </feed>
