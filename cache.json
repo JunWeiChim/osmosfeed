@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "ec23abc37e1613e0de10434e32b30cf7",
+          "author": "Investopedia",
+          "description": "AWS announced on Tuesday that Claude 3 Opus is available on Amazon Bedrock, which could make Amazon's cloud offerings more competitive.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8770d4af1db755378f9d75a0fe3b388b4112907d8a28a4810f3f4b966a9832cb9d1421c1e331a0fae02bafe1802eb729e839068c33020b5c01edf6bcd06350dfd7b8a7c9dfd4df431dda4c92c7",
+          "publishedOn": "2024-04-16T12:00:00.000Z",
+          "wordCount": 411,
+          "title": "AWS Brings Claude 3 Opus To Amazon Bedrock, Increasing Competitiveness",
+          "imageUrl": null
+        },
+        {
           "id": "3cd97c7c37d88d896175d13bee880d81",
           "author": "Investopedia",
           "description": "AMD announced new processors optimized to run artificial intelligence workloads on PCs, which could help the chipmaker better compete with Nvidia and Intel.",
@@ -8655,6 +8665,21 @@
       "siteUrl": "https://www.investopedia.com",
       "articles": [
         {
+          "id": "8634351",
+          "author": "Diccon Hyatt",
+          "description": "The U.S. economy has led the world in recovering from the COVID-19 pandemic—but that performance is largely due to heavy government spending that may be unsustainable in the face of mounting debt, according to the International Monetary Fund.",
+          "link": "https://www.investopedia.com/imf-credits-strong-us-economy-but-cites-financial-risks-of-rising-debt-8634351",
+          "publishedOn": "2024-04-16T18:50:32.000Z",
+          "wordCount": 5304,
+          "title": "IMF Credits Strong US Economy, But Cites Financial Risks of Rising Debt",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/sXrrzqKySOjsAUNhmb9CTmY2D6k=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2147852720-ae17eb9dcdfe4ef8accf5f5f0e890285.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/sXrrzqKySOjsAUNhmb9CTmY2D6k=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2147852720-ae17eb9dcdfe4ef8accf5f5f0e890285.jpg"
+        },
+        {
           "id": "8634254",
           "author": "Naomi Buchanan",
           "description": "AWS announced on Tuesday that Claude 3 Opus is available on Amazon Bedrock, which could make Amazon's cloud offerings more competitive.",
@@ -14962,6 +14987,36 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "brace-p-500-crash-30-183832380.html",
+          "author": null,
+          "description": "Analyst David Brady said overvalued stocks are set to tumble, rebound before the presidential election, and then suffer a devastating crash.",
+          "link": "https://finance.yahoo.com/news/brace-p-500-crash-30-183832380.html",
+          "publishedOn": "2024-04-16T18:38:32.000Z",
+          "wordCount": 20824,
+          "title": "Brace for the S&P 500 to crash 30% before an even bigger collapse after the election, markets guru David Brady warns",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/hehMCHX2bQTECjPqrePrhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/0c30ae2227bda09c81b633aec8670804"
+        },
+        {
+          "id": "stock-market-today-stocks-wobble-as-earnings-roll-in-powell-comments-on-inflation-181845211.html",
+          "author": null,
+          "description": "Stocks eyed a broader comeback from a steep sell-off as investors digested results from Bank of America and other heavyweights.",
+          "link": "https://finance.yahoo.com/news/stock-market-today-stocks-wobble-as-earnings-roll-in-powell-comments-on-inflation-181845211.html",
+          "publishedOn": "2024-04-16T18:18:45.000Z",
+          "wordCount": 25495,
+          "title": "Stock market today: Stocks wobble as earnings roll in, Powell comments on inflation",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/2Ag5hDvbLQqX0fV8xhlhmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NzY-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/456b6520-b47a-11ee-b6f7-c8aacb570d43"
+        },
+        {
+          "id": "powell-says-taking-longer-than-expected-for-inflation-to-reach-feds-2-target-175547831.html",
+          "author": null,
+          "description": "Fed Chair Jerome Powell signaled that it will likely take longer to cut rates, saying it will take 'longer than expected' to achieve the confidence needed to get inflation down to the central bank’s 2% target.",
+          "link": "https://finance.yahoo.com/news/powell-says-taking-longer-than-expected-for-inflation-to-reach-feds-2-target-175547831.html",
+          "publishedOn": "2024-04-16T17:55:47.000Z",
+          "wordCount": 10213,
+          "title": "Powell says taking 'longer than expected' for inflation to reach Fed's 2% target",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/M0b_SDYzbeoiBTsat8gKvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/23cf8a90-fc19-11ee-b5fe-9b1f2e319d8d"
+        },
+        {
           "id": "stock-market-today-us-futures-174415194.html",
           "author": null,
           "description": "",
@@ -14972,6 +15027,26 @@
           "imageUrl": null
         },
         {
+          "id": "homebuilder-stocks-tumble-housing-starts-173201879.html",
+          "author": null,
+          "description": "Homebuilder stocks face sharp declines as the SPDR Homebuilders ETF (NYSE:XHB) drops 1.8% in Tuesday’s session, hitting its lowest level since Feb. 26, 2024, amid negative economic data. From the start of the month, this performance gauge has fallen approximately 10%, marking the first market correction since September 2023 after a significant 60% rally in the six months leading up to late March. Tuesday’s worst performers among U.S. homebuilder stocks were Installed Building Products, Inc. (NYS",
+          "link": "https://finance.yahoo.com/news/homebuilder-stocks-tumble-housing-starts-173201879.html",
+          "publishedOn": "2024-04-16T17:32:01.000Z",
+          "wordCount": 21001,
+          "title": "Homebuilder Stocks Tumble As Housing Starts Fall By 14.7%: 'A Poor Time To Buy A Home,' Says Economist",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/abbedea8ef44620fa16880dc4dd5b923"
+        },
+        {
+          "id": "heres-much-bitcoin-become-millionaire-173014879.html",
+          "author": null,
+          "description": "MicroStrategy Inc. (NASDAQ:MSTR) Chairman Michael Saylor says you can never have too much Bitcoin. While this isn't surprising coming from one of the world's largest Bitcoin investors, his comments could influence markets and provide more insights into why he believes Bitcoin (BTC) is a great investment. Don't Miss: If you invested $100 in DOGE when Elon Musk first tweeted about it in 2019, here’s how much you’d have today. Bitcoin To $100,000? Here’s what gold bug Peter Schiff said could happen",
+          "link": "https://finance.yahoo.com/news/heres-much-bitcoin-become-millionaire-173014879.html",
+          "publishedOn": "2024-04-16T17:30:14.000Z",
+          "wordCount": 20902,
+          "title": "Here's How Much Bitcoin You Need To Become a Millionaire, According To Michael Saylor",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/c082f1c2b757a33d17b41e708f6ba5f5"
+        },
+        {
           "id": "fed-powell-speech-economy-inflation-rates-today-c6b764c3?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "",
@@ -14979,6 +15054,16 @@
           "publishedOn": "2024-04-16T17:28:00.000Z",
           "wordCount": null,
           "title": "Powell Is Speaking Again. Watch for Comments About More Hot Inflation Data.",
+          "imageUrl": null
+        },
+        {
+          "id": "super-micro-stock-price-upbeat-forecast-f7ed73e0?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/super-micro-stock-price-upbeat-forecast-f7ed73e0?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-04-16T17:02:00.000Z",
+          "wordCount": null,
+          "title": "Super Micro Stock Rallies as Analyst Sets $1,500 Target",
           "imageUrl": null
         },
         {
@@ -15000,6 +15085,16 @@
           "wordCount": 21007,
           "title": "Trump Media stock sinks after company announces plans to launch live TV streaming platform",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/1c1LXlYclwlyI0mhg8SyLw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzg-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/25af08b0-fc08-11ee-bf77-40402a5072dc"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/amd-stock-ai-chips-business-pcs/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-04-16T16:26:15.000Z",
+          "wordCount": null,
+          "title": "AMD Unveils New AI Chips For Business PCs",
+          "imageUrl": null
         },
         {
           "id": "cathie-wood-goes-bargain-hunting-155500328.html",
@@ -15110,6 +15205,16 @@
           "wordCount": null,
           "title": "AMD Has a New Bull, and Is Coming for Nvidia’s AI Lunch",
           "imageUrl": null
+        },
+        {
+          "id": "baby-boomers-redefining-60s-70s-140636860.html",
+          "author": null,
+          "description": "“There’s a revolution afoot about what retirement could look like.”",
+          "link": "https://finance.yahoo.com/news/baby-boomers-redefining-60s-70s-140636860.html",
+          "publishedOn": "2024-04-16T14:06:36.000Z",
+          "wordCount": 21584,
+          "title": "Baby boomers are redefining work in their 60s, 70s, and beyond with ‘unretirement’ plans: ‘We’re not our grandparents’ vision of retirees’",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Ae.E0n8NVI0UrZXtE2Ilow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/fortune_175/19546d34faf8e677cab656e55293c7ee"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -15779,6 +15884,16 @@
           "publishedOn": "2024-04-15T22:18:12.000Z",
           "wordCount": null,
           "title": "The latest tech sell-off is a buying opportunity as earnings could power stocks 15% higher, Wedbush says",
+          "imageUrl": null
+        },
+        {
+          "id": "americans-now-expect-record-82k-220105575.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/americans-now-expect-record-82k-220105575.html",
+          "publishedOn": "2024-04-15T22:01:05.000Z",
+          "wordCount": null,
+          "title": "Americans now expect a record $82K to change jobs—and men want nearly $30K more than women",
           "imageUrl": null
         },
         {
@@ -41240,26 +41355,6 @@
           "wordCount": 18342,
           "title": "Crafts Firm Joann Files for Bankruptcy as Consumers Retreat",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/IDwek.X6eUXabOl5PROWzw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/6a7997760cf99f61cc7e3b401aa9fac8"
-        },
-        {
-          "id": "consumer-healthcare-giant-haleon-says-070910309.html",
-          "author": null,
-          "description": "Pfizer, which currently holds a 32% stake in Haleon, said last May it planned to cut its ownership in a \"slow and methodical\" manner within months.  The offer price per share is expected to be announced on or around March 19, following the completion of a book-building process, Haleon said in a statement.  Haleon, which makes household brands such as Sensodyne toothpaste and Advil painkillers, was spun out of British drugmaker GSK in July 2022.",
-          "link": "https://finance.yahoo.com/news/consumer-healthcare-giant-haleon-says-070910309.html",
-          "publishedOn": "2024-03-18T07:09:10.000Z",
-          "wordCount": 18020,
-          "title": "Pfizer to cut stake in Sensodyne toothpaste-maker Haleon to 24%",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/eeae246c3b8888c756645155a9802eb8"
-        },
-        {
-          "id": "real-reason-why-magnificent-seven-070500129.html",
-          "author": null,
-          "description": "Nvidia's transformative growth story is one for the ages.",
-          "link": "https://finance.yahoo.com/news/real-reason-why-magnificent-seven-070500129.html",
-          "publishedOn": "2024-03-18T07:05:00.000Z",
-          "wordCount": 19006,
-          "title": "The Real Reason Why This \"Magnificent Seven\" Stock Has Been the S&P 500's Top Performer in 2023 and 2024",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/1efcd0ebdbef50bd0755cc92c7f97df4"
         }
       ]
     }
