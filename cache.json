@@ -1938,6 +1938,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6309720",
+          "author": null,
+          "description": "Door zachte winters en volle gasvoorraden daalden energieprijzen in de afgelopen maanden. Dat is al terug te zien op de energierekening. Experts durven niet te zeggen of die daling doorzet. \"Alles zit mee, maar tegenvallers liggen op de loer.\"",
+          "link": "https://www.nu.nl/economie/6309720/energieprijzen-in-jaar-tijd-bijna-gehalveerd.html",
+          "publishedOn": "2024-04-21T09:58:49.000Z",
+          "wordCount": 445,
+          "title": "Energieprijzen in jaar tijd bijna gehalveerd",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/foexh0xapfpv_sqr256/57/0/1414/1414/energieprijzen-in-jaar-tijd-bijna-gehalveerd.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/foexh0xapfpv_sqr256/57/0/1414/1414/energieprijzen-in-jaar-tijd-bijna-gehalveerd.jpg"
+        },
+        {
           "id": "article-6309714",
           "author": null,
           "description": "Precies 35 jaar geleden verscheen de eerste Game Boy in Japan. De 'grijze baksteen' waarop je Tetris en Super Mario Land kon spelen, werd een wereldwijde hit. Een kleine harde kern maakt er nu nog steeds nieuwe games voor.",
@@ -14198,21 +14213,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/ZrgPFHQMys5ghJN2RQoJuF7sGjk=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2103033246-0a61a1d652c2435392e592138b78f36b.jpg"
-        },
-        {
-          "id": "8619222",
-          "author": "Aaron McDade",
-          "description": "Intel and Arm reached an agreement Friday to collaborate on an initiative providing support to startups, in a move the companies suggest could help propel AI innovation.",
-          "link": "https://www.investopedia.com/intel-and-arm-reach-agreement-on-startup-initiative-supporting-ai-growth-8619222",
-          "publishedOn": "2024-03-22T21:32:22.000Z",
-          "wordCount": 5145,
-          "title": "Intel and Arm Reach Agreement on Startup Initiative Supporting AI Growth",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/9F4dYOlcIDz1BdxBcplaHWZcYiU=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1246677564-e696db7ea8db40dfab256fb61f1e3fef.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/9F4dYOlcIDz1BdxBcplaHWZcYiU=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1246677564-e696db7ea8db40dfab256fb61f1e3fef.jpg"
         }
       ]
     },
@@ -14221,6 +14221,36 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "3-artificial-intelligence-ai-stocks-094600654.html",
+          "author": null,
+          "description": "Analysts are bullish about two of Nvidia's rivals and a leader in a growing AI software market.",
+          "link": "https://finance.yahoo.com/news/3-artificial-intelligence-ai-stocks-094600654.html",
+          "publishedOn": "2024-04-21T09:46:00.000Z",
+          "wordCount": 16044,
+          "title": "3 Artificial Intelligence (AI) Stocks Wall Street Thinks Will Outgain Nvidia Over the Next 12 Months",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/RQ7GwlTPwMqSwbLOc5ODvg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/26fbd5901c7b221d5631566ab8b6a738"
+        },
+        {
+          "id": "2-artificial-intelligence-ai-stocks-091000413.html",
+          "author": null,
+          "description": "If you're looking for big gains from AI, these two stocks could deliver.",
+          "link": "https://finance.yahoo.com/news/2-artificial-intelligence-ai-stocks-091000413.html",
+          "publishedOn": "2024-04-21T09:10:00.000Z",
+          "wordCount": 21310,
+          "title": "2 Artificial Intelligence (AI) Stocks That Could Double in 2024",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/AAHKPhwZtIUnFPsz9s2YLw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/motleyfool.com/31a581523f6cd8784a0647f3c477be84"
+        },
+        {
+          "id": "stocks-going-crash-donald-trump-090600605.html",
+          "author": null,
+          "description": "History offers clear perspective of what's to come if Donald Trump wins in November and Republicans take control of Congress.",
+          "link": "https://finance.yahoo.com/news/stocks-going-crash-donald-trump-090600605.html",
+          "publishedOn": "2024-04-21T09:06:00.000Z",
+          "wordCount": 22346,
+          "title": "Are Stocks Going to Crash if Donald Trump Wins and Republicans Control Congress? Here's What History Says About Stock Market Returns When Republicans Win.",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/e626f56cc8da934b89d4a2d86d3045a2"
+        },
         {
           "id": "top-artificial-intelligence-ai-stocks-084500644.html",
           "author": null,
@@ -14270,6 +14300,16 @@
           "wordCount": 19357,
           "title": "Should You Buy Alphabet Stock Before Thursday?",
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/26d1286c8b4c50b27404f7beb4013119"
+        },
+        {
+          "id": "super-micro-computer-stock-buy-072500868.html",
+          "author": null,
+          "description": "The stock's valuation could shock you after running 1,000% higher.",
+          "link": "https://finance.yahoo.com/news/super-micro-computer-stock-buy-072500868.html",
+          "publishedOn": "2024-04-21T07:25:00.000Z",
+          "wordCount": 10345,
+          "title": "Is Super Micro Computer Stock a Buy?",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/6d60c1f67c4de37127e4e1697785bab2"
         },
         {
           "id": "forget-agnc-investment-buy-magnificent-070200482.html",
@@ -14402,6 +14442,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/vqDXfUs9tcy2khdgc15ZGQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzY-/https://media.zenfs.com/en/bloomberg_markets_842/6cd17bc7288eafdeec25533bee02486f"
         },
         {
+          "id": "dont-ignore-threats-inflation-recession-190402063.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/dont-ignore-threats-inflation-recession-190402063.html",
+          "publishedOn": "2024-04-20T19:04:02.000Z",
+          "wordCount": null,
+          "title": "Don't ignore threats like inflation, recession, and war, warn Wall Street's biggest bosses",
+          "imageUrl": null
+        },
+        {
           "id": "down-37-time-high-growth-171700660.html",
           "author": null,
           "description": "Planet Fitness is growing revenue and posting consistent earnings.",
@@ -14500,6 +14550,16 @@
           "wordCount": 21373,
           "title": "Will IBM Be a Trillion-Dollar Stock by 2030?",
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/0ac9b37d3e16e2d75c3bf76c93e65f79"
+        },
+        {
+          "id": "2-warren-buffett-stocks-buy-150100229.html",
+          "author": null,
+          "description": "There are some hot deals on some of Buffett's favorite stocks.",
+          "link": "https://finance.yahoo.com/news/2-warren-buffett-stocks-buy-150100229.html",
+          "publishedOn": "2024-04-20T15:01:00.000Z",
+          "wordCount": 21520,
+          "title": "2 Warren Buffett Stocks to Buy Hand Over Fist, and 1 to Avoid",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/XjdU.TYXDRTK2.ZwC50Sww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/14aca327b04803e1ab78e9bc5853e044"
         },
         {
           "id": "soundhound-ai-stock-vs-super-150008720.html",
@@ -40210,46 +40270,6 @@
           "wordCount": null,
           "title": "Why Apple Will Prevail",
           "imageUrl": null
-        },
-        {
-          "id": "where-amazon-stock-2026-220614235.html",
-          "author": null,
-          "description": "Amazon's revenue, profits, and cash flow have been soaring in recent quarters.",
-          "link": "https://finance.yahoo.com/news/where-amazon-stock-2026-220614235.html",
-          "publishedOn": "2024-03-22T22:06:14.000Z",
-          "wordCount": 18101,
-          "title": "Where Will Amazon Stock Be in 2026?",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/bwdxx6McHysF6WNIfUlsnQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/2eed787e31510ca4a9a3969de762d219"
-        },
-        {
-          "id": "finally-time-profits-palantir-stock-215211228.html",
-          "author": null,
-          "description": "Palantir's stock price has increased substantially since I recommended it as a buy.",
-          "link": "https://finance.yahoo.com/news/finally-time-profits-palantir-stock-215211228.html",
-          "publishedOn": "2024-03-22T21:52:11.000Z",
-          "wordCount": 18111,
-          "title": "Is It Finally Time to Take Profits in Palantir Stock?",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/K.oUVf3sGS2SH7XSX8YlKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/motleyfool.com/54dabb1898f7922271acd7b5b8b1af3f"
-        },
-        {
-          "id": "where-tesla-stock-1-214914191.html",
-          "author": null,
-          "description": "Tesla has recently reversed its price-cutting strategy, raising prices on the Model Y.",
-          "link": "https://finance.yahoo.com/news/where-tesla-stock-1-214914191.html",
-          "publishedOn": "2024-03-22T21:49:14.000Z",
-          "wordCount": 18043,
-          "title": "Where Will Tesla Stock Be in 1 Year?",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/L2VN5CAAhiVUGH_.OcM8gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/86a6b448a30976810e506adf7bb8b260"
-        },
-        {
-          "id": "forget-soundhound-ai-2-artificial-213000542.html",
-          "author": null,
-          "description": "SoundHound AI stock has become very expensive, but these two AI pioneers are quite attractive right now.",
-          "link": "https://finance.yahoo.com/news/forget-soundhound-ai-2-artificial-213000542.html",
-          "publishedOn": "2024-03-22T21:30:00.000Z",
-          "wordCount": 19070,
-          "title": "Forget SoundHound AI: Here Are 2 Artificial Intelligence (AI) Stocks That Are Undervalued",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/d0735dd8fa65c5c93477ac55eeed7699"
         }
       ]
     }
