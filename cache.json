@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "b33522b84e0e18382932d5496f228695",
+          "author": "Investopedia",
+          "description": "Ford shares rose in after-hours trading after the company beat analysts' estimates for earnings per share.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8068d5e652b40d748d8f2aadfb342a9c09079563dd6ee1c3",
+          "publishedOn": "2024-04-24T13:00:00.000Z",
+          "wordCount": 411,
+          "title": "Ford Stock Jumps on Q1 Earnings Beat Led By Strong Commercial Sales",
+          "imageUrl": null
+        },
+        {
           "id": "c3e50025d4901d9060b9fc03f69c034a",
           "author": "Investopedia",
           "description": "Amazon has launched a grocery delivery service for Prime customers ordering from Amazon Fresh, Whole Foods Market, local grocers or other retailers listed on Amazon.com in an attempt to challenge Walmart and Target.",
@@ -2017,6 +2027,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "article-6310391",
+          "author": null,
+          "description": "Steeds meer 65-plussers hebben een motorfiets, heeft statistiekbureau CBS becijferd. Inmiddels behoort ruwweg een op de zeven motorbezitters tot die leeftijdsgroep. Ook in andere leeftijdsgroepen stijgt het motorbezit, ziet het statistiekbureau.",
+          "link": "https://www.nu.nl/economie/6310391/steeds-meer-mensen-hebben-een-motorfiets-vooral-65-plussers.html",
+          "publishedOn": "2024-04-24T22:48:59.000Z",
+          "wordCount": 443,
+          "title": "Steeds meer mensen hebben een motorfiets, vooral 65-plussers",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/otnx1guav7au_sqr256/254/0/768/768/steeds-meer-mensen-hebben-een-motorfiets-vooral-65-plussers.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/otnx1guav7au_sqr256/254/0/768/768/steeds-meer-mensen-hebben-een-motorfiets-vooral-65-plussers.jpg"
+        },
+        {
+          "id": "article-6310390",
+          "author": null,
+          "description": "Heineken heeft in het eerste kwartaal 4,7 procent meer bier verkocht dan in dezelfde periode een jaar eerder. Vooral in Azië deed het bedrijf goede zaken. Ook de flesjes van de premiummerken onder de Heinekenparaplu vonden gretig aftrek.",
+          "link": "https://www.nu.nl/economie/6310390/alcoholvrij-bier-en-vraag-in-azie-zorgen-voor-goede-verkoopcijfers-heineken.html",
+          "publishedOn": "2024-04-24T22:39:39.000Z",
+          "wordCount": 443,
+          "title": "Alcoholvrij bier en vraag in Azië zorgen voor goede verkoopcijfers Heineken",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/osxxk6bayuvy_sqr256/0/0/682/682/alcoholvrij-bier-en-vraag-in-azie-zorgen-voor-goede-verkoopcijfers-heineken.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/osxxk6bayuvy_sqr256/0/0/682/682/alcoholvrij-bier-en-vraag-in-azie-zorgen-voor-goede-verkoopcijfers-heineken.jpg"
+        },
         {
           "id": "article-6310342",
           "author": null,
@@ -8901,36 +8941,6 @@
             "url": "https://media.nu.nl/m/d8qxp7ra01dk_sqr256.jpg/schiphol-mag-tarieven-ondanks-weerstand-van-klm-en-easyjet-fors-verhogen.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/d8qxp7ra01dk_sqr256.jpg/schiphol-mag-tarieven-ondanks-weerstand-van-klm-en-easyjet-fors-verhogen.jpg"
-        },
-        {
-          "id": "article-6306656",
-          "author": null,
-          "description": "De stakingen van Duits treinpersoneel lijken voorbij. Het Duitse spoorbedrijf Deutsche Bahn heeft met vakbond GDL een akkoord bereikt over een werkweek van 35 uur. De stakingen hadden de afgelopen weken ook impact op treinverkeer naar Nederland.",
-          "link": "https://www.nu.nl/economie/6306656/duitse-treinstakingen-lijken-voorbij-na-akkoord-over-35-urige-werkweek.html",
-          "publishedOn": "2024-03-26T10:49:23.000Z",
-          "wordCount": 489,
-          "title": "Duitse treinstakingen lijken voorbij na akkoord over 35-urige werkweek",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/0yexm3mamzqq_sqr256.jpg/duitse-treinstakingen-lijken-voorbij-na-akkoord-over-35-urige-werkweek.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/0yexm3mamzqq_sqr256.jpg/duitse-treinstakingen-lijken-voorbij-na-akkoord-over-35-urige-werkweek.jpg"
-        },
-        {
-          "id": "article-6306643",
-          "author": null,
-          "description": "Nederlanders sparen steeds meer in het buitenland vanwege de hogere rente. Eind 2023 stond er 12,3 miljard euro van Nederlanders op een rekening in andere eurolanden, 1,8 miljard euro meer dan in oktober.",
-          "link": "https://www.nu.nl/economie/6306643/spaarders-zetten-groter-deel-van-hun-geld-op-buitenlandse-rekening.html",
-          "publishedOn": "2024-03-26T10:46:23.000Z",
-          "wordCount": 489,
-          "title": "Spaarders zetten groter deel van hun geld op buitenlandse rekening",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/dndxx2kavfio_sqr256.jpg/spaarders-zetten-groter-deel-van-hun-geld-op-buitenlandse-rekening.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/dndxx2kavfio_sqr256.jpg/spaarders-zetten-groter-deel-van-hun-geld-op-buitenlandse-rekening.jpg"
         }
       ]
     },
@@ -8939,6 +8949,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8638601",
+          "author": "Kevin George",
+          "description": "Ford shares rose in after-hours trading after the company beat analysts' estimates for earnings per share.",
+          "link": "https://www.investopedia.com/ford-q1-earnings-8638601",
+          "publishedOn": "2024-04-24T22:27:04.000Z",
+          "wordCount": 5233,
+          "title": "Ford Stock Jumps on Q1 Earnings Beat Led By Strong Commercial Sales",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/9Zp6gt3Qa9Dt8rTZxdlh88KjXuA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2113291027-23bfe92eac3044c1861f0018fa7f95aa.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/9Zp6gt3Qa9Dt8rTZxdlh88KjXuA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2113291027-23bfe92eac3044c1861f0018fa7f95aa.jpg"
+        },
         {
           "id": "8638246",
           "author": "Naomi Buchanan",
@@ -15403,21 +15428,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/BpTs1Nk3rU_kIDP_CrzAHt6dvzg=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2008712903-38c7fb947a2d47e585b74d7ccc5d899f.jpg"
-        },
-        {
-          "id": "8620301",
-          "author": "Timothy Smith",
-          "description": "Cuts are Part of Broader Cost-Cutting Effort",
-          "link": "https://www.investopedia.com/dell-stock-in-focus-after-pc-maker-discloses-job-cuts-8620301",
-          "publishedOn": "2024-03-26T10:54:57.000Z",
-          "wordCount": 5449,
-          "title": "Dell Stock in Focus After PC Maker Discloses Job Cuts—Key Price Levels to Watch",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/p5Tm6KFkIqRXKgEzgrLtxHGgfUw=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/DELLChart-48ab5e8fa4184b40a5d146810f5cd2cb.GIF",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/p5Tm6KFkIqRXKgEzgrLtxHGgfUw=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/DELLChart-48ab5e8fa4184b40a5d146810f5cd2cb.GIF"
         }
       ]
     },
@@ -15427,6 +15437,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "p-500-risk-crashing-44-224248287.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/p-500-risk-crashing-44-224248287.html",
+          "publishedOn": "2024-04-24T22:42:48.000Z",
+          "wordCount": null,
+          "title": "S&P 500 is at risk of crashing 44% — and selling early could pay off, says elite forecaster",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/meta-stock-slides-despite-q1-earnings-sales-beat/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-04-24T22:13:40.000Z",
+          "wordCount": null,
+          "title": "Meta Stock Slides Despite Q1 Earnings Beat. AI Costs Rising As Guidance Disappoints.",
+          "imageUrl": null
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -15435,6 +15465,16 @@
           "wordCount": null,
           "title": "IBM To Acquire HashiCorp For $6.4 Billion; Shares Fall As Company Reports Q1 Results",
           "imageUrl": null
+        },
+        {
+          "id": "ibm-falls-weak-consulting-sales-214024335.html",
+          "author": null,
+          "description": "(Bloomberg) -- International Business Machines Corp. dropped about 9% in extended trading after the company’s weak consulting unit sales disappointed investors, overshadowing its acquisition of software firm HashiCorp Inc.Most Read from BloombergBiden’s Gains Against Trump Vanish on Deep Economic Pessimism, Poll ShowsTaylor Swift Is Proof That How We Critique Music Is BrokenTech Giants Hit in Late Hours After Meta’s Outlook: Markets WrapBiden’s New Chopper Is Demoted After Scorching White House",
+          "link": "https://finance.yahoo.com/news/ibm-falls-weak-consulting-sales-214024335.html",
+          "publishedOn": "2024-04-24T21:40:24.000Z",
+          "wordCount": 21223,
+          "title": "IBM Falls on Weak Consulting Sales, Overshadowing HashiCorp Deal",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/2788isTEGaiu8KXK2L9EVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODE-/https://media.zenfs.com/en/bloomberg_technology_68/b915b0a5a5629a69a520ec9d827c5189"
         },
         {
           "id": "meta-shares-sink-ai-doubts-210436434.html",
@@ -15485,6 +15525,16 @@
           "wordCount": 21331,
           "title": "Chipotle blows by earnings estimates as resilient foot traffic, margin expansion boost Q1 results",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/VELxC.X0d2bxDjRYhn2h6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/9db41a00-0250-11ef-aadf-6b3296360f2e"
+        },
+        {
+          "id": "chinas-temu-takes-over-17-204905173.html",
+          "author": null,
+          "description": "With rising inflation, American consumers are increasingly turning to the Chinese e-commerce platform Temu for their shopping needs. With its enticing tagline “Shop like a billionaire,” Temu has captured 17% of the U.S. market share, posing a challenge to traditional American retailers such as Amazon.com Inc., Dollar Tree Inc. and Five Below Inc. The rise highlights the lucrative and disruptive nature of startups. Owned and operated by PDD Holdings Inc. (NASDAQ:PDD), Temu offers a wide range of",
+          "link": "https://finance.yahoo.com/news/chinas-temu-takes-over-17-204905173.html",
+          "publishedOn": "2024-04-24T20:49:05.000Z",
+          "wordCount": 21231,
+          "title": "China's Temu Takes Over 17% Of US Market Share, Cutting Jobs From American Amazon And Decimating Small Businesses",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/e25156fe54c27965bf48044a8335c971"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -15585,6 +15635,16 @@
           "wordCount": 26293,
           "title": "Stock market today: Tesla surges, stocks flip flop as investors await Meta earnings",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/6wQTGmRrnT7ylwHaIICtLw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/d47f2540-da08-11ee-bd7f-d62c3377362a"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/research/arm-stock/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-04-24T17:57:31.000Z",
+          "wordCount": null,
+          "title": "AI Chip Leader Arm Stock Plunges 31%, Is It A Buy Right Now?",
+          "imageUrl": null
         },
         {
           "id": "ARGUS_39802_MarketUpdate_1713981378000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -42585,56 +42645,6 @@
           "wordCount": 20508,
           "title": "Want $1 Million in Retirement? Here Are 5 Stocks to Buy Now and Hold for Decades",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/hM9ohsQTEyLWht16243PEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/8a687b8a21ac05a092521dd0a87edb14"
-        },
-        {
-          "id": "1-unstoppable-stock-could-join-110000728.html",
-          "author": null,
-          "description": "A long track record of expertise will propel this AI specialist to new heights.",
-          "link": "https://finance.yahoo.com/news/1-unstoppable-stock-could-join-110000728.html",
-          "publishedOn": "2024-03-26T11:00:00.000Z",
-          "wordCount": 20754,
-          "title": "1 Unstoppable Stock That Could Join Microsoft, Apple, Nvidia, Alphabet, Amazon, and Meta in the $1 Trillion Club",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/auFxBvjD4vkAEMQhxI_m3Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/98dd49151c24c2e2713954949c2c2e08"
-        },
-        {
-          "id": "1-magnificent-growth-stock-down-103000765.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/1-magnificent-growth-stock-down-103000765.html",
-          "publishedOn": "2024-03-26T10:30:00.000Z",
-          "wordCount": null,
-          "title": "1 Magnificent Growth Stock Down 21% to Buy Right Now",
-          "imageUrl": null
-        },
-        {
-          "id": "stock-market-movers-f1848eb9?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/stock-market-movers-f1848eb9?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-03-26T10:23:00.000Z",
-          "wordCount": null,
-          "title": "These Stocks Are Moving the Most Today: Trump Media, Tesla, GameStop, Super Micro Computer, MicroStrategy, Seagate, and More",
-          "imageUrl": null
-        },
-        {
-          "id": "atos-expands-restructuring-talks-airbus-080638105.html",
-          "author": null,
-          "description": "(Bloomberg) -- Ailing French IT company Atos SE expanded talks with creditors to include bondholders, with a goal of reaching a debt restructuring agreement by July to head off a looming repayment crisis.Most Read from BloombergTrump Vows to Pay Fraud Trial Bond Cut by 68% to $175 MillionTrump’s Net Worth Hits $6.5 Billion, Making Him One of World’s 500 Richest PeopleAfter Exposing Realtors, Eliminate the Mortgage Interest DeductionUS CEOs Extend China Stay on Last-Minute Invite to Meet XiThe pr",
-          "link": "https://finance.yahoo.com/news/atos-expands-restructuring-talks-airbus-080638105.html",
-          "publishedOn": "2024-03-26T10:15:12.000Z",
-          "wordCount": 20409,
-          "title": "Atos Expands Restructuring Talks After Airbus Deal Collapsed",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/IYmGfKhPdqs5noOg0oeX7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/ab053e1411cf03b3d579f186bed06893"
-        },
-        {
-          "id": "united-parcel-forecasts-2026-revenue-101329891.html",
-          "author": null,
-          "description": "United Parcel Service on Tuesday forecast better-than-expected 2026 consolidated revenue between $108 billion and $114 billion. Analyst were expectating $102.12 billion, according to LSEG data.",
-          "link": "https://finance.yahoo.com/news/united-parcel-forecasts-2026-revenue-101329891.html",
-          "publishedOn": "2024-03-26T10:13:29.000Z",
-          "wordCount": 19603,
-          "title": "United Parcel Service forecasts 2026 revenue above expectations",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/f4e74c357d21d3a0a8d223f9c6bba411"
         }
       ]
     }
