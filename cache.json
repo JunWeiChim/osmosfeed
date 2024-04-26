@@ -1918,6 +1918,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6310568",
+          "author": null,
+          "description": "Fabrikanten voegen vaak een ongezonde hoeveelheid zout toe aan hun maaltijdmixen. Drie kwart van de maaltijden bevat na bereiding meer dan de maximale hoeveelheid van 2 gram zout die het Voedingscentrum adviseert.",
+          "link": "https://www.nu.nl/economie/6310568/bijna-drie-kwart-van-de-maaltijdmixen-overschrijdt-gezond-zoutniveau.html",
+          "publishedOn": "2024-04-26T06:41:53.000Z",
+          "wordCount": 443,
+          "title": "Bijna drie kwart van de maaltijdmixen overschrijdt gezond zoutniveau",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/js2xovva486p_sqr256/211/0/3450/3450/bijna-drie-kwart-van-de-maaltijdmixen-overschrijdt-gezond-zoutniveau.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/js2xovva486p_sqr256/211/0/3450/3450/bijna-drie-kwart-van-de-maaltijdmixen-overschrijdt-gezond-zoutniveau.jpg"
+        },
+        {
           "id": "article-6310514",
           "author": null,
           "description": "Veel bestelbusjes zijn niet schoon genoeg om volgend jaar nog in stadscentra te mogen komen. Professionele klusbedrijven vrezen daardoor dat ze straks in veel binnensteden geen verbouwingen meer kunnen uitvoeren.",
@@ -15333,36 +15348,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/npfuFL-6PqDIGQ8UIW0ZloHCqVs=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/INV_PCE_Grocery_Shopping_GettyImages-1929703375-ddee0de8b562455fa6dc9b69227d6e75.jpg"
-        },
-        {
-          "id": "8621005",
-          "author": "Nisha Gopalan",
-          "description": "S&P Global Ratings downgraded its ratings outlook on five regional lenders late Tuesday to \"negative\" from \"stable\" on concerns that stress in the commercial real estate market will hurt their asset quality and performance.",
-          "link": "https://www.investopedia.com/sp-downgrades-outlook-of-five-us-regional-banks-with-heavy-commercial-real-estate-exposure-8621005",
-          "publishedOn": "2024-03-27T19:10:16.000Z",
-          "wordCount": 5442,
-          "title": "Why S&P Cut Outlook for Five US Regional Banks With Heavy Commercial Real Estate Exposure",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/ONlJKvAAqMr0WXtBGo4ty2l5Ix4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1251812177-fa0efcb58cde4885b5cd56b9adbc1b2e.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/ONlJKvAAqMr0WXtBGo4ty2l5Ix4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1251812177-fa0efcb58cde4885b5cd56b9adbc1b2e.jpg"
-        },
-        {
-          "id": "8621131",
-          "author": "Bill McColl",
-          "description": "Kleenex maker Kimberly-Clark on Wednesday announced a restructuring it said will make its operating structure \"more agile and focused.\"",
-          "link": "https://www.investopedia.com/kleenex-maker-kimberly-clark-restructures-operations-to-become-more-agile-and-focused-8621131",
-          "publishedOn": "2024-03-27T19:10:12.000Z",
-          "wordCount": 5140,
-          "title": "Kleenex Maker Kimberly-Clark Restructures Operations To Become 'More Agile and Focused'",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/qmrKAPiEBtNUcbm2x83QY7qu6lM=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1407189681-c5a24914124e45eabdfd14dd2a851df6.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/qmrKAPiEBtNUcbm2x83QY7qu6lM=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1407189681-c5a24914124e45eabdfd14dd2a851df6.jpg"
         }
       ]
     },
@@ -15450,6 +15435,16 @@
           "wordCount": null,
           "title": "How Lucrative Is Alphabet's New Dividend?",
           "imageUrl": null
+        },
+        {
+          "id": "why-quantumscape-stock-lost-7-214400603.html",
+          "author": null,
+          "description": "Investors are still waiting for a meaningful product advance from Quantumscape.",
+          "link": "https://finance.yahoo.com/news/why-quantumscape-stock-lost-7-214400603.html",
+          "publishedOn": "2024-04-25T21:44:00.000Z",
+          "wordCount": 20959,
+          "title": "Why QuantumScape Stock Lost 7% Today",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/cxJ7lJainqFgEPkKI0zISQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDU-/https://media.zenfs.com/en/motleyfool.com/5cc58e979a0906846589b4888f305eb9"
         },
         {
           "id": "rubrik-ceo-says-hes-hungry-as-ever-while-the-microsoft-backed-firm-sizzles-on-ipo-day-213256359.html",
@@ -42470,56 +42465,6 @@
           "wordCount": 20182,
           "title": "Crypto Stocks Like MicroStrategy, Coinbase Could Shoot Up if Short Sellers Exit",
           "imageUrl": "https://media.zenfs.com/en/coindesk_75/4caea2d18b74a9f3d47a932b4f2de7f9"
-        },
-        {
-          "id": "jpmorgan-says-crowded-stocks-sow-191152610.html",
-          "author": null,
-          "description": "(Bloomberg) -- It’s the talk of the stock market: What will be the sign that the five-month rally in US equities is coming to an end. But if you ask JPMorgan Chase Co.’s Dubravko Lakos-Bujas, investors may not see it coming when it hits.Most Read from BloombergBiden Gains Ground Against Trump in Six Key States, Poll ShowsJapan Amps Up Intervention Threat as Yen Hits Lowest Since 1990Trump’s Net Worth Hits $6.5 Billion, Making Him One of World’s 500 Richest PeopleTrump Vows to Pay Fraud Trial Bon",
-          "link": "https://finance.yahoo.com/news/jpmorgan-says-crowded-stocks-sow-191152610.html",
-          "publishedOn": "2024-03-27T19:11:52.000Z",
-          "wordCount": 20236,
-          "title": "JPMorgan Says Stocks Are So Crowded They May Crack at Any Time",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/a93b4125295c632e116e1737dd9e2e0d"
-        },
-        {
-          "id": "quantumscape-starting-deliver-lofty-2024-190728750.html",
-          "author": null,
-          "description": "QuantumScape hopes today is one small step toward commercializing a game-changing EV battery.",
-          "link": "https://finance.yahoo.com/news/quantumscape-starting-deliver-lofty-2024-190728750.html",
-          "publishedOn": "2024-03-27T19:07:28.000Z",
-          "wordCount": 19999,
-          "title": "QuantumScape Is Starting to Deliver on Its Lofty 2024 Goals",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/o4dhsf80nggZP9bq5jzU1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/55e8d6883bd0785a2cd0a7de15a4171c"
-        },
-        {
-          "id": "musk-says-underpopulation-crisis-fink-190532013.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/musk-says-underpopulation-crisis-fink-190532013.html",
-          "publishedOn": "2024-03-27T19:05:32.000Z",
-          "wordCount": null,
-          "title": "Musk says it’s an ‘underpopulation crisis,’ Fink calls it a ‘retirement crisis’—but Morgan Stanley says 3 stocks will take advantage of the trend",
-          "imageUrl": null
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/technology/solar-stocks-rally-sunrun-solaredge-enphase/?src=A00220&yptr=yahoo",
-          "publishedOn": "2024-03-27T18:52:54.000Z",
-          "wordCount": null,
-          "title": "Solar Stocks Rally, Led By Sunrun, SolarEdge, Enphase",
-          "imageUrl": null
-        },
-        {
-          "id": "another-home-insurer-leaves-california-183011245.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/another-home-insurer-leaves-california-183011245.html",
-          "publishedOn": "2024-03-27T18:30:11.000Z",
-          "wordCount": null,
-          "title": "Another Home Insurer Leaves California And Eight Other States",
-          "imageUrl": null
         }
       ]
     }
