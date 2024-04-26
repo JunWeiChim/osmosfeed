@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-26T04:14:36.151Z</updated>
+    <updated>2024-04-26T05:12:08.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -11,6 +11,15 @@
         <id>billionaire-bond-king-bill-gross-191909611.html</id>
         <link href="https://finance.yahoo.com/news/billionaire-bond-king-bill-gross-191909611.html"/>
         <updated>2024-04-26T03:19:09.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The US economy may be barrelling towards stagflation, an outcome worse than recession]]></title>
+        <id>us-economy-may-barrelling-towards-024600142.html</id>
+        <link href="https://finance.yahoo.com/news/us-economy-may-barrelling-towards-024600142.html"/>
+        <updated>2024-04-26T02:46:00.000Z</updated>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -36739,44 +36748,6 @@ January and February indicators showed a resilient U.S. economy, particularly in
         <summary type="html"><![CDATA[Moderna shares rose Wednesday after it said that it had received up to $750 million from Blackstone Life Sciences to advance its flu program.]]></summary>
         <author>
             <name>Bill McColl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Databricks CEO Says Competition Spurred High-Profile Exit at Snowflake]]></title>
-        <id>databricks-ceo-says-competition-spurred-165030607.html</id>
-        <link href="https://finance.yahoo.com/news/databricks-ceo-says-competition-spurred-165030607.html"/>
-        <updated>2024-03-27T16:50:30.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 REITs Shunned By Wall Street: Any Hope For A Turn-Around?]]></title>
-        <id>3-reits-shunned-wall-street-163012691.html</id>
-        <link href="https://finance.yahoo.com/news/3-reits-shunned-wall-street-163012691.html"/>
-        <updated>2024-03-27T16:30:12.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Latest POUND to DOLLAR News]]></title>
-        <id>latest-pound-dollar-news-162617349.html</id>
-        <link href="https://finance.yahoo.com/news/latest-pound-dollar-news-162617349.html"/>
-        <updated>2024-03-27T16:26:17.000Z</updated>
-        <summary type="html"><![CDATA[Are you trying to understand the latest twists in the USD GBP saga?]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Loses Bid To Dismiss SEC Lawsuit Against It, Stock Slips]]></title>
-        <id>8620971</id>
-        <link href="https://www.investopedia.com/coinbase-loses-bid-to-dismiss-sec-lawsuit-against-it-stock-slips-8620971"/>
-        <updated>2024-03-27T16:19:10.000Z</updated>
-        <summary type="html"><![CDATA[A judge denied the company’s motion to dismiss a lawsuit filed by the Securities and Exchange Commission for violating securities laws.]]></summary>
-        <author>
-            <name>Christiana Sciaudone</name>
         </author>
     </entry>
 </feed>
