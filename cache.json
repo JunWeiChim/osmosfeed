@@ -1888,6 +1888,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6310760",
+          "author": null,
+          "description": "Bij het vertrek van een Boeing-toestel vanuit New York is een noodglijbaan uitgeklapt. Het vliegtuig met 183 inzittenden moest een noodlanding maken op de New Yorkse luchthaven John F. Kennedy.",
+          "link": "https://www.nu.nl/economie/6310760/vliegtuig-verliest-noodglijbaan-vlak-na-vertrek-uit-new-york.html",
+          "publishedOn": "2024-04-27T10:08:52.000Z",
+          "wordCount": 443,
+          "title": "Vliegtuig verliest noodglijbaan vlak na vertrek uit New York",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/m1nx0bna4et9_sqr256/265/0/1063/1063/vliegtuig-verliest-noodglijbaan-vlak-na-vertrek-uit-new-york.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/m1nx0bna4et9_sqr256/265/0/1063/1063/vliegtuig-verliest-noodglijbaan-vlak-na-vertrek-uit-new-york.jpg"
+        },
+        {
           "id": "article-6310670",
           "author": null,
           "description": "Het demissionaire kabinet trekt de komende jaren 86 miljoen euro extra uit om nog eens 35 werkcentra op te zetten in het hele land. Op die manier moet de krapte op de arbeidsmarkt worden aangepakt.",
@@ -15108,21 +15123,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/TsCy3dg5RU4pRVBUxqemMEcSbKo=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2099408434-3d12d79c73e6441b8318c4830d45fa64.jpg"
-        },
-        {
-          "id": "8620152",
-          "author": "Christiana Sciaudone",
-          "description": "Retail investors are flocking back to the stock market, and their investing behavior is savvier than during previous periods such as the meme stock frenzy of 2021.",
-          "link": "https://www.investopedia.com/retail-traders-are-back-what-they-are-investing-in-8620152",
-          "publishedOn": "2024-03-28T21:12:13.000Z",
-          "wordCount": 5811,
-          "title": "Retail Traders Are Back and Savvier Than Before—Here’s What They’re Betting On",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Wobx9FhbifGzDEI2X6bzUd53128=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/Retail-Traders-Are-Back-But-Theyre-Savvier-Than-Before-And-Heres-What-Theyre-Betting-On-532fa27af9954687bc9f270961d51d73.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Wobx9FhbifGzDEI2X6bzUd53128=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/Retail-Traders-Are-Back-But-Theyre-Savvier-Than-Before-And-Heres-What-Theyre-Betting-On-532fa27af9954687bc9f270961d51d73.jpg"
         }
       ]
     },
@@ -15132,6 +15132,36 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "4-dominant-growth-stocks-youll-090600458.html",
+          "author": null,
+          "description": "Opportunistic investors can still find bargains, even with the Nasdaq Composite up 49% since the start of 2023.",
+          "link": "https://finance.yahoo.com/news/4-dominant-growth-stocks-youll-090600458.html",
+          "publishedOn": "2024-04-27T09:06:00.000Z",
+          "wordCount": 22626,
+          "title": "4 Dominant Growth Stocks You'll Regret Not Buying in the New Nasdaq Bull Market",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/6F3yJK6vAorrxtkDCtPVZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/motleyfool.com/0b4e15bc801fe7b30ce838115d1dfed4"
+        },
+        {
+          "id": "forget-nvidia-members-congress-scooping-085000961.html",
+          "author": null,
+          "description": "There's a much more popular AI stock on Capitol Hill than the leading AI chip maker.",
+          "link": "https://finance.yahoo.com/news/forget-nvidia-members-congress-scooping-085000961.html",
+          "publishedOn": "2024-04-27T08:50:00.000Z",
+          "wordCount": 21784,
+          "title": "Forget Nvidia: Members of Congress Are Scooping Up Shares of Its Core Rival Instead",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/gJTo7bXcErFufrjAol6szw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/a91b2efb819b3d60203cdb3a9aacf3bf"
+        },
+        {
+          "id": "apple-stock-skyrocketed-527-why-082400142.html",
+          "author": null,
+          "description": "Apple has turned into a fantastic investment for Buffett's Berkshire Hathaway.",
+          "link": "https://finance.yahoo.com/news/apple-stock-skyrocketed-527-why-082400142.html",
+          "publishedOn": "2024-04-27T08:24:00.000Z",
+          "wordCount": 21773,
+          "title": "After Apple Stock Has Skyrocketed 527%, Why Does Warren Buffett Still Own It?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ebySrn13Rh4MeNtnXogkFQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/256fe621ad377a2e913ef0d915f826c2"
+        },
+        {
           "id": "meet-2-best-p-500-081200665.html",
           "author": null,
           "description": "Nvidia and Super Micro Computer have been the best-performing S&P 500 stocks of 2024, but select Wall Street analysts still see substantial upside for shareholders.",
@@ -15140,6 +15170,26 @@
           "wordCount": 22217,
           "title": "Meet the 2 Best S&P 500 Stocks of 2024. They Could Soar Another 69% and 91%, According to Certain Wall Street Analysts.",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Jp40yX2bHIJIvYDcFHnV5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mjk-/https://media.zenfs.com/en/motleyfool.com/b982a12ad4467904ae77bcff08297ed3"
+        },
+        {
+          "id": "stock-market-sell-off-3-070700925.html",
+          "author": null,
+          "description": "We've seen a very volatile stock market in recent weeks. That's created an opportunity to buy these three winners at bargain prices.",
+          "link": "https://finance.yahoo.com/news/stock-market-sell-off-3-070700925.html",
+          "publishedOn": "2024-04-27T07:07:00.000Z",
+          "wordCount": 22158,
+          "title": "Stock Market Sell-Off: 3 Bargain Stocks Worth Buying Now",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/0LMX936baqddlYAvO5ymFQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/motleyfool.com/bc40630eda778fcb7a545d26d6d15f24"
+        },
+        {
+          "id": "why-just-added-ultra-high-070300146.html",
+          "author": null,
+          "description": "The JPMorgan Nasdaq Equity Premium Income ETF offers a compelling blend of income and upside to my portfolio.",
+          "link": "https://finance.yahoo.com/news/why-just-added-ultra-high-070300146.html",
+          "publishedOn": "2024-04-27T07:03:00.000Z",
+          "wordCount": 21957,
+          "title": "Why I Just Added This Ultra-High-Yield Dividend ETF to My Retirement Account",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/4c93f3fe1c9cb9a74f86e371f80be922"
         },
         {
           "id": "bank-america-lays-exact-scenario-010520916.html",
@@ -42260,46 +42310,6 @@
           "wordCount": 20846,
           "title": "‘Old-fashioned embezzlement’: where did all of FTX’s money go?",
           "imageUrl": "https://media.zenfs.com/en/the_guardian_765/1e13a01a4e0a2c1349fb901d5f850d57"
-        },
-        {
-          "id": "feds-rate-cut-projections-pointing-221015938.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/feds-rate-cut-projections-pointing-221015938.html",
-          "publishedOn": "2024-03-28T22:10:15.000Z",
-          "wordCount": null,
-          "title": "The Fed's rate-cut projections are pointing to an imminent recession, economist says",
-          "imageUrl": null
-        },
-        {
-          "id": "new-inflation-data-arrives-friday-what-to-expect--9G4d2AepSxN7JSnXnvFK?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "The latest update to the Federal Reserve’s preferred price gauge on Friday should confirm a bumpy start to the year on the inflation front.\nJanuary and February indicators showed a resilient U.S. economy, particularly in the labor market, with higher-than-expected inflation. The central bank is tak",
-          "link": "https://www.barrons.com/livecoverage/march-core-pce-inflation-report-data-today/card/new-inflation-data-arrives-friday-what-to-expect--9G4d2AepSxN7JSnXnvFK?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-03-28T21:55:04.000Z",
-          "wordCount": 6335,
-          "title": "New Inflation Data Arrives Friday",
-          "imageUrl": null
-        },
-        {
-          "id": "disney-ceo-bob-iger-nelson-peltz-enter-final-days-of-proxy-fight--heres-what-to-know-213808324.html",
-          "author": null,
-          "description": "Investors will soon learn whether Peltz has succeeded in his push to shake up Disney's board.",
-          "link": "https://finance.yahoo.com/news/disney-ceo-bob-iger-nelson-peltz-enter-final-days-of-proxy-fight--heres-what-to-know-213808324.html",
-          "publishedOn": "2024-03-28T21:38:08.000Z",
-          "wordCount": 20520,
-          "title": "Disney CEO Bob Iger, Nelson Peltz enter final days of proxy fight — here's what to know",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/szkKoVYY90nPI_zG81qtsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/4c8b7ef0-ed49-11ee-9dbb-ec3fcf432906"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/crowdstrike-stock-crwd-big-move-cybersecurity/?src=A00220&yptr=yahoo",
-          "publishedOn": "2024-03-28T21:14:17.000Z",
-          "wordCount": null,
-          "title": "CrowdStrike Stock Is Up 150% Over The Last Year. Why It's Poised For Another Big Move.",
-          "imageUrl": null
         }
       ]
     }
