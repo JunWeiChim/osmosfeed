@@ -1888,6 +1888,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6310895",
+          "author": null,
+          "description": "De boetes die werkgevers krijgen als ze werknemers uit het buitenland illegaal laten werken, zijn te laag. Bedrijven die mensen zonder vergunning aan het werk zetten, kunnen daar flink van profiteren, meldt de Arbeidsinspectie.",
+          "link": "https://www.nu.nl/economie/6310895/bedrijven-profiteren-van-werknemers-zonder-vergunning-door-lage-boetes.html",
+          "publishedOn": "2024-04-29T07:47:47.000Z",
+          "wordCount": 443,
+          "title": "Bedrijven profiteren van werknemers zonder vergunning door lage boetes",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/6blxe8qac0g6_sqr256/0/0/5499/5499/bedrijven-profiteren-van-werknemers-zonder-vergunning-door-lage-boetes.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/6blxe8qac0g6_sqr256/0/0/5499/5499/bedrijven-profiteren-van-werknemers-zonder-vergunning-door-lage-boetes.jpg"
+        },
+        {
           "id": "article-6310889",
           "author": null,
           "description": "Het aantal woningen in de private huursector is in twee jaar tijd gestegen met zo'n 67.000 huurhuizen. Er zijn nu ongeveer 1,2 miljoen woningen in die sector.",
@@ -14982,6 +14997,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "deutsche-bank-falls-4-9-061047968.html",
+          "author": null,
+          "description": "Deutsche Bank shares were 4.9% lower in premarket trade on Monday after news that Germany's largest lender could be on the hook for up to 1.3 billion euros ($1.39 billion) in a yearslong lawsuit claiming it underpaid in its purchase of Postbank. ($1 = 0.9325 euros)",
+          "link": "https://finance.yahoo.com/news/deutsche-bank-falls-4-9-061047968.html",
+          "publishedOn": "2024-04-29T06:10:47.000Z",
+          "wordCount": 21110,
+          "title": "Deutsche Bank falls 5% after Postbank litigation woes resurface",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/8dcc7f522b841123e5ae490a9c32ce70"
+        },
+        {
           "id": "billionaire-bill-ackman-almost-20-051500764.html",
           "author": null,
           "description": "The widely followed hedge fund manager thinks this is one of the best businesses on Earth.",
@@ -15032,6 +15057,16 @@
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/1f5656383713995c9bad9b23e48d7ea6"
         },
         {
+          "id": "bitcoin-ether-nurse-losses-u-043253749.html",
+          "author": null,
+          "description": "The crypto market is balancing the threat of stagflation against a liquidity injection from the Treasury General Account (TGA), and the launch of Hong Kong's bitcoin ETFs.",
+          "link": "https://finance.yahoo.com/news/bitcoin-ether-nurse-losses-u-043253749.html",
+          "publishedOn": "2024-04-29T04:32:53.000Z",
+          "wordCount": 21467,
+          "title": "Bitcoin, Ether Nurse Losses as U.S. Stagflation Fears Grip Market",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/n.g9emsBku13GNPyZbvy_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Mjg-/https://media.zenfs.com/en/coindesk_75/93136b565a29d4ed0238ce46dec677bc"
+        },
+        {
           "id": "asian-markets-eye-positive-open-222109297.html",
           "author": null,
           "description": "(Bloomberg) -- Asian markets are set for a mostly positive open, with technology companies particularly in focus, following a rally in US markets after an inflation reading eased concerns of a more hawkish Federal Reserve.Most Read from BloombergMusk Makes Surprise China Visit in Search of Tesla Revenue BoostElliott Said to Have Built ‘Large’ Stake in Buffett-Favored SumitomoBHP’s $39 Billion Copper Play Was Years in the MakingBlade to Offer Luxury Bus Service to Hamptons at Fare Up to $275Plung",
@@ -15080,6 +15115,16 @@
           "wordCount": 21639,
           "title": "Redstones, Ellison Seek to Appease Paramount Investors in Deal",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ZFNQjUgNXtFAd8uls8bEww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjY-/https://media.zenfs.com/en/bloomberg_technology_68/49308672f03fccc1134940c9eacef788"
+        },
+        {
+          "id": "paramount-redstone-merger-bakish-162cd854?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/business/media/paramount-redstone-merger-bakish-162cd854?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-04-28T23:27:00.000Z",
+          "wordCount": null,
+          "title": "A Media Heiress’s Bid to Sell Sets Off Mayhem Inside Paramount",
+          "imageUrl": null
         },
         {
           "id": "stocks-poised-for-higher-open-af5ba9ed?siteid=yhoof2&yptr=yahoo",
@@ -42110,46 +42155,6 @@
           "wordCount": null,
           "title": "The stock market is sending retirement account balances soaring. Here's why experts say retirees still need to tread carefully.",
           "imageUrl": null
-        },
-        {
-          "id": "fisker-loses-customers-money-robinhood-201506012.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/fisker-loses-customers-money-robinhood-201506012.html",
-          "publishedOn": "2024-03-30T20:15:06.000Z",
-          "wordCount": null,
-          "title": "Fisker loses customers' money, Robinhood launches a credit card, and Google generates travel itineraries",
-          "imageUrl": null
-        },
-        {
-          "id": "t-data-breach-exposes-73-200229129.html",
-          "author": null,
-          "description": "Around 73 million current and former customers are affected by an AT&T data breach to the dark web that includes personal information like Social Security numbers.",
-          "link": "https://finance.yahoo.com/news/t-data-breach-exposes-73-200229129.html",
-          "publishedOn": "2024-03-30T20:02:29.000Z",
-          "wordCount": 19959,
-          "title": "AT&T data breach exposes 73 million current, former accounts on dark web, company says",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/X_fnlQbRQ98wdyyE0JhHaQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_business_text_367/70733d70586eebe390836f8e1d088c82"
-        },
-        {
-          "id": "generation-most-likely-invest-crypto-200018865.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/generation-most-likely-invest-crypto-200018865.html",
-          "publishedOn": "2024-03-30T20:00:18.000Z",
-          "wordCount": null,
-          "title": "Which Generation Is Most Likely to Invest in Crypto?",
-          "imageUrl": null
-        },
-        {
-          "id": "us-payrolls-seen-hitting-least-200000666.html",
-          "author": null,
-          "description": "(Bloomberg) -- Healthy US employment gains continued in March while wage growth moderated, indicating the nation’s labor market is poised to keep stoking the economy with limited risk of an inflation resurgence.Most Read from BloombergBank of Russia Sees No Alternative to Yuan for Its ReservesAT&T Says Data From 73 Million Accounts Leaked on Dark WebHedge Funds Bet on Europe in Hunt for Next Leg of Stock RallyFed’s Preferred Inflation Metric Cools While Spending ReboundsSBF’s Best Friends Who Tu",
-          "link": "https://finance.yahoo.com/news/us-payrolls-seen-hitting-least-200000666.html",
-          "publishedOn": "2024-03-30T20:00:00.000Z",
-          "wordCount": 21156,
-          "title": "US Payrolls Seen Hitting at Least 200,000 for a Fourth Month",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/BCFMHtU_ytIyOqQ_HurcuQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODA-/https://media.zenfs.com/en/bloomberg_markets_842/55a446186f5be5eff9f5e94f7007b6f1"
         }
       ]
     }
