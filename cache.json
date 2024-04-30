@@ -24,6 +24,26 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "d7c949634332de2f82717ff713f9ceb1",
+          "author": "Investopedia",
+          "description": "Walmart is closing 51 health centers in five states and will shutter its telehealth business, as expenses around building a network of low-cost health clinics increase. The company is also launching a new grocery label called BetterGoods.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9166cbef1eb74874898c39adf635239c0957c631892cb9df41274dd56296209c94157ec2ff78b3e6ae23edfb9a3ee821e63f019679175e075ca5aaf0",
+          "publishedOn": "2024-04-30T12:00:00.000Z",
+          "wordCount": 411,
+          "title": "Walmart Abandons Health Clinics Foray as Costs Mount",
+          "imageUrl": null
+        },
+        {
+          "id": "523cf7697b5b6a9444cc576c490a5c60",
+          "author": "Investopedia",
+          "description": "3M exceeded estimates for first-quarter profit and sales, signaling its streamlining efforts are paying off. However, the company also announced the end of an era in its annual dividend hikes.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca916fdeaf4ca8112a808f2aa6e1772c9d4112d1399631bf950f2e52de65d832c2df0e64c6ab36bdf8f321ecf1c33ee829fb2b428d32020c5a1af4f7add77314c1dbbda7c9819c89115dc34691c73b35dc34",
+          "publishedOn": "2024-04-30T12:00:00.000Z",
+          "wordCount": 411,
+          "title": "Why 3M Stock Is Rising Even as Its Dividend Hike Era Ends",
+          "imageUrl": null
+        },
+        {
           "id": "dbd12d456473f2ecac5972f313d047b3",
           "author": "Investopedia",
           "description": "Fulton Financial acquired the debt and deposits of Republic First Bank after the first bank failure of 2024.",
@@ -1170,6 +1190,16 @@
       "feedUrl": "https://rss.app/feeds/UWnMV6nTNN8mPDUG.xml",
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
+        {
+          "id": "130d9807abe3b6a6dfbff3adddab2d42",
+          "author": "Investopedia",
+          "description": "U.S. equities dropped at midday as the market reacted to the latest earnings news and a report showing employment costs rose more than expected in the first quarter.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9268d7af0cb1533a83c335ace43f3f9c0951cc27c83dbd9b0f274dd7678c7ed6975764c6e739a6fde021f0edc37ea861e8240bcf39401a5641a5a5fc8826099c",
+          "publishedOn": "2024-04-30T12:00:00.000Z",
+          "wordCount": 411,
+          "title": "Top Stock Movers Now: Eli Lilly, GE HealthCare, 3M, and More",
+          "imageUrl": null
+        },
         {
           "id": "15521354b5ed20a1efb2cbe7faea4a37",
           "author": "Investopedia",
@@ -8765,6 +8795,36 @@
       "siteUrl": "https://www.investopedia.com",
       "articles": [
         {
+          "id": "8640898",
+          "author": "Fatima Attarwala",
+          "description": "Walmart is closing 51 health centers in five states and will shutter its telehealth business, as expenses around building a network of low-cost health clinics increase. The company is also launching a new grocery label called BetterGoods.",
+          "link": "https://www.investopedia.com/walmart-abandons-health-clinics-foray-as-costs-mount-8640898",
+          "publishedOn": "2024-04-30T17:36:18.000Z",
+          "wordCount": 5167,
+          "title": "Walmart Abandons Health Clinics Foray as Costs Mount",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ySUEk3QDHwiDE3nHym7TmSnpW5Q=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1602297580-fe27f5034d76441abbdd06a5b72176ec.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ySUEk3QDHwiDE3nHym7TmSnpW5Q=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1602297580-fe27f5034d76441abbdd06a5b72176ec.jpg"
+        },
+        {
+          "id": "8641042",
+          "author": "Bill McColl",
+          "description": "3M exceeded estimates for first-quarter profit and sales, signaling its streamlining efforts are paying off. However, the company also announced the end of an era in its annual dividend hikes.",
+          "link": "https://www.investopedia.com/why-3m-shares-are-rising-even-as-the-company-s-era-of-dividend-hikes-ends-8641042",
+          "publishedOn": "2024-04-30T17:30:04.000Z",
+          "wordCount": 5225,
+          "title": "Why 3M Stock Is Rising Even as Its Dividend Hike Era Ends",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Ue5YgLOGQaBkAQh4Z2JI-VLHVGI=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-12201643272-3552abd766864b12b3d9c56b0a1097c0.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Ue5YgLOGQaBkAQh4Z2JI-VLHVGI=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-12201643272-3552abd766864b12b3d9c56b0a1097c0.jpg"
+        },
+        {
           "id": "8641105",
           "author": "Bill McColl",
           "description": "U.S. equities dropped at midday as the market reacted to the latest earnings news and a report showing employment costs rose more than expected in the first quarter.",
@@ -15596,6 +15656,66 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "track-join-top-1-retirement-173319338.html",
+          "author": null,
+          "description": "While many Americans struggle to save for retirement, the top 1% amass significant nest eggs. This raises the question: How much do they save, and how does it compare to the national average? Don't Miss: The average American couple has saved this much money for retirement — How do you compare? Can you guess how many Americans successfully retire with $1,000,000 saved? The percentage may shock you. Data from DQYDJ, using Federal Reserve statistics, highlights that the average retirement age in th",
+          "link": "https://finance.yahoo.com/news/track-join-top-1-retirement-173319338.html",
+          "publishedOn": "2024-04-30T17:33:19.000Z",
+          "wordCount": 19513,
+          "title": "Are You On Track To Join The Top 1% In Retirement Savings?  Here's How Much They Have At Every Age",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/7f6e01f1479f500dbeb570f5012c844b"
+        },
+        {
+          "id": "ARGUS_3114_AnalystReport_1714496760000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_3114_AnalystReport_1714496760000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-04-30T17:06:00.000Z",
+          "wordCount": null,
+          "title": "Analyst Report: KB Home",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_3524_AnalystReport_1714496760000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_3524_AnalystReport_1714496760000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-04-30T17:06:00.000Z",
+          "wordCount": null,
+          "title": "Analyst Report: Elevance Health Inc",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_3687_AnalystReport_1714496760000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_3687_AnalystReport_1714496760000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-04-30T17:06:00.000Z",
+          "wordCount": null,
+          "title": "Analyst Report: Roper Technologies Inc",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_3392_AnalystReport_1714496760000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_3392_AnalystReport_1714496760000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-04-30T17:06:00.000Z",
+          "wordCount": null,
+          "title": "Analyst Report: Schlumberger Ltd.",
+          "imageUrl": null
+        },
+        {
+          "id": "elon-musk-guts-teslas-charging-163054060.html",
+          "author": null,
+          "description": "Tesla has gutted its charging team in a new round of layoffs, despite recently winning over major automakers like Ford and General Motors and making its connector the defacto standard in North America.  CEO Elon Musk announced the new layoffs in an overnight email to executives, first reported by The Information, in which he said he wants leaders to be \"absolutely hard core about headcount and cost reduction,\" as he ordered them to cut more employees who \"don’t obviously pass the excellent, necessary and trustworthy test\" or resign.  Senior director of EV charging Rebecca Tinucci and head of new vehicles Daniel Ho are out, according to The Information.",
+          "link": "https://finance.yahoo.com/news/elon-musk-guts-teslas-charging-163054060.html",
+          "publishedOn": "2024-04-30T16:30:54.000Z",
+          "wordCount": 21802,
+          "title": "Elon Musk guts Tesla's charging team after winning over major automakers",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/nMP7X1nn772PZDfmXZAlyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/a051e514241011c130bcb9a500ed8902"
+        },
         {
           "id": "jeep-ram-parent-stellantis-slides-10-as-concern-grows-over-bloated-inventory-161252157.html",
           "author": null,
