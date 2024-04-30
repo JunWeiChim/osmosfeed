@@ -1201,6 +1201,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "4e77aa85bcac77b73a2ae3017385e469",
+          "author": "Investopedia",
+          "description": "The S&P 500 dropped 1.6% on Tuesday, April 30, 2024, cementing its first monthly loss of the year as data on wage growth reignited inflation concerns.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca952ac6ec1be84c74ddde68eef53b24815712c23e8175bd9d513841c826813cd5930321c4e378baf0e22cf6e08d2cb729a4391b8d3744454300e8fdafdc6414c8d4a2a7c8819c8607408710c080276881753d64cdcc06d1c25ebb",
+          "publishedOn": "2024-04-30T12:00:00.000Z",
+          "wordCount": 411,
+          "title": "S&P 500 Gains and Losses Today: GE HealthCare Stock Plunges After Earnings Miss",
+          "imageUrl": null
+        },
+        {
           "id": "130d9807abe3b6a6dfbff3adddab2d42",
           "author": "Investopedia",
           "description": "U.S. equities dropped at midday as the market reacted to the latest earnings news and a report showing employment costs rose more than expected in the first quarter.",
@@ -8781,21 +8791,6 @@
             "url": "https://media.nu.nl/m/m1mxxlqa63ij_sqr256.jpg/china-uit-kritiek-op-aangescherpte-amerikaanse-exportbeperkingen.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/m1mxxlqa63ij_sqr256.jpg/china-uit-kritiek-op-aangescherpte-amerikaanse-exportbeperkingen.jpg"
-        },
-        {
-          "id": "article-6307373",
-          "author": null,
-          "description": "De betaalde versie van chat- en video-app Teams zit voortaan wereldwijd niet meer in het Microsofts Office-pakket, met diensten als Word en Excel. Dat heeft het Amerikaanse techconcern maandag aangekondigd, zes maanden nadat het de twee producten al van elkaar scheidde in Europa.",
-          "link": "https://www.nu.nl/economie/6307373/microsoft-gaat-teams-en-office-wereldwijd-los-van-elkaar-verkopen.html",
-          "publishedOn": "2024-04-01T08:52:54.000Z",
-          "wordCount": 489,
-          "title": "Microsoft gaat Teams en Office wereldwijd los van elkaar verkopen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/wchxq6hap2x3_sqr256.jpg/microsoft-gaat-teams-en-office-wereldwijd-los-van-elkaar-verkopen.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/wchxq6hap2x3_sqr256.jpg/microsoft-gaat-teams-en-office-wereldwijd-los-van-elkaar-verkopen.jpg"
         }
       ]
     },
@@ -8804,6 +8799,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8641234",
+          "author": "Bill McColl",
+          "description": "Stellantis shares plunged on Tuesday after the automaker reported a big drop in first-quarter revenue and shipments ahead of the release of a number of new models this year.",
+          "link": "https://www.investopedia.com/stellantis-stock-plunges-as-automaker-reports-big-drop-q1-revenue-8641234",
+          "publishedOn": "2024-04-30T20:55:38.000Z",
+          "wordCount": 5253,
+          "title": "Stellantis Stock Plunges More Than 10% As Automaker Reports Big Drop In Revenue",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/nQtReaU42H9vLafKgZUwnIalLXI=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2148132054-70652f1a4dda4824a43bd6a7cf917806.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/nQtReaU42H9vLafKgZUwnIalLXI=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2148132054-70652f1a4dda4824a43bd6a7cf917806.jpg"
+        },
+        {
+          "id": "8641282",
+          "author": "Michael Bromberg",
+          "description": "The S&P 500 dropped 1.6% on Tuesday, April 30, 2024, cementing its first monthly loss of the year as data on wage growth reignited inflation concerns.",
+          "link": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-ge-healthcare-stock-plunges-after-earnings-miss-8641282",
+          "publishedOn": "2024-04-30T20:41:27.000Z",
+          "wordCount": 5184,
+          "title": "S&P 500 Gains and Losses Today: GE HealthCare Stock Plunges After Earnings Miss",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/SPdWrOD-0Rc8tCD3AbmtJwCs3S8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/latestGainersLosers1-ade04e9d7dfb4db5bf57d3b5079e3265.png",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/SPdWrOD-0Rc8tCD3AbmtJwCs3S8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/latestGainersLosers1-ade04e9d7dfb4db5bf57d3b5079e3265.png"
+        },
+        {
+          "id": "8641138",
+          "author": "Bill McColl",
+          "description": "PayPal reported results for the first quarter that beat estimates and raised its full-year earnings guidance as its payment volumes and transactions climbed.",
+          "link": "https://www.investopedia.com/here-is-what-you-need-to-know-about-paypal-earnings-beat-8641138",
+          "publishedOn": "2024-04-30T20:24:04.000Z",
+          "wordCount": 5147,
+          "title": "Here's What You Need To Know About PayPal's Earnings Beat",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/3D6z8JOWhlEW6M_NQL8UI3ALej8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/INV_PayPalQ1ErnsPreview_GettyImages-1461793980-d8ba09e8471c466886ff9552a4dca43f.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/3D6z8JOWhlEW6M_NQL8UI3ALej8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/INV_PayPalQ1ErnsPreview_GettyImages-1461793980-d8ba09e8471c466886ff9552a4dca43f.jpg"
+        },
         {
           "id": "8640995",
           "author": "Naomi Buchanan",
@@ -15741,6 +15781,116 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "amd-beats-on-q1-revenue-and-eps-stock-edges-lower-on-light-guidance-202840712.html",
+          "author": null,
+          "description": "Chip giant AMD (AMD) reported its first quarter earnings on Tuesday beating analysts' expectations on the top and bottom lines, but lighter-than-anticipated guidance for the next quarter sent the stock lower.",
+          "link": "https://finance.yahoo.com/news/amd-beats-on-q1-revenue-and-eps-stock-edges-lower-on-light-guidance-202840712.html",
+          "publishedOn": "2024-04-30T20:28:40.000Z",
+          "wordCount": 21087,
+          "title": "AMD beats on Q1 revenue and EPS, stock edges lower on light guidance",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/LQYjqvOgm_R1o.iKsaE4UQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODQ-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/63bc7d00-d740-11ee-b46e-96bae55eccc7"
+        },
+        {
+          "id": "starbucks-posts-misses-across-its-q2-results-shares-tumble-after-hours-202722227.html",
+          "author": null,
+          "description": "Starbucks' decaf-like start to the year continues into the second quarter.",
+          "link": "https://finance.yahoo.com/news/starbucks-posts-misses-across-its-q2-results-shares-tumble-after-hours-202722227.html",
+          "publishedOn": "2024-04-30T20:27:22.000Z",
+          "wordCount": 20703,
+          "title": "Starbucks posts misses across its Q2 results, shares tumble after hours",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/xgP1L_2LMpW4aduTVxabOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/7d6b78a0-072e-11ef-b8ab-2e5c7ccbfbf2"
+        },
+        {
+          "id": "1-super-micro-forecasts-quarterly-202324119.html",
+          "author": null,
+          "description": "Super Micro Computer forecast fourth-quarter revenue above estimates on Tuesday as it expects continued demand for its servers used in artificial intelligence applications.  Super Micro's in-house liquid cooling solutions for servers have helped it get products to the market quicker than its competitors, who rely partly on third-party vendors.  Its close relations with chip giants Nvidia and Advanced Micro Devices, whose headquarters are less than 10 miles from Super Micro's, help it receive early samples of chips to check prototypes, giving it further advantage over rivals.",
+          "link": "https://finance.yahoo.com/news/1-super-micro-forecasts-quarterly-202324119.html",
+          "publishedOn": "2024-04-30T20:23:24.000Z",
+          "wordCount": 20649,
+          "title": "UPDATE 1-Super Micro forecasts quarterly revenue above estimates as AI powers server demand",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/smci-stock-super-micro-fiscal-q3-2024-earnings/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-04-30T20:23:07.000Z",
+          "wordCount": null,
+          "title": "Super Micro Computer Posts Mixed March-Quarter Results But Tops Views With Outlook",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/amazon-stock-gains-on-earnings-beat-strong-cloud-growth/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-04-30T20:18:30.000Z",
+          "wordCount": null,
+          "title": "Amazon Stock Gains On Earnings Beat, Strong Cloud Growth",
+          "imageUrl": null
+        },
+        {
+          "id": "stock-market-today-nasdaq-sinks-2-as-stocks-plummet-to-end-worst-month-of-2024-200142294.html",
+          "author": null,
+          "description": "Investors marked time ahead of the Fed's rate decision, with earnings from Amazon on deck to test prospects for a Big Tech-fueled bump.",
+          "link": "https://finance.yahoo.com/news/stock-market-today-nasdaq-sinks-2-as-stocks-plummet-to-end-worst-month-of-2024-200142294.html",
+          "publishedOn": "2024-04-30T20:15:27.000Z",
+          "wordCount": 26248,
+          "title": "Stock market today: Nasdaq sinks 2% as stocks plummet to end worst month of 2024",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Ek7osT_6lKRM_9T5Ym0D8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-09/642e6ab0-38d0-11ed-bd6e-3f50b76446e8"
+        },
+        {
+          "id": "why-cannabis-companies-tilray-canopy-201500541.html",
+          "author": null,
+          "description": "Rescheduling is finally here, it seems.",
+          "link": "https://finance.yahoo.com/news/why-cannabis-companies-tilray-canopy-201500541.html",
+          "publishedOn": "2024-04-30T20:15:00.000Z",
+          "wordCount": 21311,
+          "title": "Why Cannabis Companies Tilray, Canopy Growth, Cronos, and SNDL Got Really High on Tuesday",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/X9DzhOwQs_66rj89k73qjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/1f7177f725dfb7bdee61c91363b0ce25"
+        },
+        {
+          "id": "amazon-stock-pops-after-earnings-beat-201113306.html",
+          "author": null,
+          "description": "Amazon reported first quarter earnings results on Tuesday.",
+          "link": "https://finance.yahoo.com/news/amazon-stock-pops-after-earnings-beat-201113306.html",
+          "publishedOn": "2024-04-30T20:11:13.000Z",
+          "wordCount": 20715,
+          "title": "Amazon stock pops after earnings beat",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/SMkjmVlkeJn0YcfSIebxUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/f605f6b0-0624-11ef-bfbb-6d9520da5334"
+        },
+        {
+          "id": "starbucks-reports-surprise-fall-quarterly-201033095.html",
+          "author": null,
+          "description": "While the company works on solidifying its position in the premium coffee market in China, it still grapples with increased competition from mass market brands, which offer coffee that's easier on the pocket for cautious consumers.  The coffee chain's second-quarter global comparable sales fell 4%, compared with a 1.44% rise expected on average by analysts, according to LSEG data.",
+          "link": "https://finance.yahoo.com/news/starbucks-reports-surprise-fall-quarterly-201033095.html",
+          "publishedOn": "2024-04-30T20:10:33.000Z",
+          "wordCount": 9503,
+          "title": "Starbucks reports surprise drop in quarterly sales as demand falls",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/488281f91f8c185dbc69da9cb7ff1ee8"
+        },
+        {
+          "id": "amazon-earnings-stock-price-ecbd0959?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/amazon-earnings-stock-price-ecbd0959?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-04-30T20:09:00.000Z",
+          "wordCount": null,
+          "title": "Amazon Stock Jumps on Strong Growth for AWS",
+          "imageUrl": null
+        },
+        {
+          "id": "amazon-forecasts-quarterly-revenue-below-200432068.html",
+          "author": null,
+          "description": "Amazon.com forecast second-quarter revenue below Wall Street expectations on Tuesday, as it expects tepid spending from cost-conscious businesses on its cloud computing services. The company expects revenue of $144.0 billion to $149.0 billion for the current quarter ending June, compared with expectations of $150.07 billion, according to LSEG data. Amazon Web Services (AWS), the largest provider of cloud computing services, posted a 17% rise in revenue to $25.0 billion in the first quarter, compared with expectations of $24.53 billion.",
+          "link": "https://finance.yahoo.com/news/amazon-forecasts-quarterly-revenue-below-200432068.html",
+          "publishedOn": "2024-04-30T20:04:32.000Z",
+          "wordCount": 20486,
+          "title": "Amazon forecasts quarterly revenue below estimates",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/529f3b574490fc93e6bb868b35212bb5"
+        },
         {
           "id": "heres-whats-happening-markets-april-184703620.html",
           "author": null,
@@ -43969,76 +44119,6 @@
           "publishedOn": "2024-04-01T09:15:00.000Z",
           "wordCount": null,
           "title": "These Stocks Are Moving the Most Today: AT&T, Super Micro Computer, Tesla, Semtech, Microsoft, and More",
-          "imageUrl": null
-        },
-        {
-          "id": "3-warren-buffett-stocks-screaming-090600676.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/3-warren-buffett-stocks-screaming-090600676.html",
-          "publishedOn": "2024-04-01T09:06:00.000Z",
-          "wordCount": null,
-          "title": "3 Warren Buffett Stocks That Are Screaming Buys in April (and Beyond)",
-          "imageUrl": null
-        },
-        {
-          "id": "better-recovery-story-buy-pfizer-090500570.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/better-recovery-story-buy-pfizer-090500570.html",
-          "publishedOn": "2024-04-01T09:05:00.000Z",
-          "wordCount": null,
-          "title": "Better Recovery Story Buy: Pfizer vs Moderna",
-          "imageUrl": null
-        },
-        {
-          "id": "may-regret-buying-high-yield-090000575.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/may-regret-buying-high-yield-090000575.html",
-          "publishedOn": "2024-04-01T09:00:00.000Z",
-          "wordCount": null,
-          "title": "You May Regret Buying This High-Yield Stock: 2 Better Dividend Stocks to Buy Now",
-          "imageUrl": null
-        },
-        {
-          "id": "tesla-stock-price-today-d9886162?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/tesla-stock-price-today-d9886162?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-04-01T08:49:00.000Z",
-          "wordCount": null,
-          "title": "Tesla Stock Is Rising. Delivery Numbers Are Due Tuesday.",
-          "imageUrl": null
-        },
-        {
-          "id": "forget-nvidia-billionaires-selling-buying-084100649.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/forget-nvidia-billionaires-selling-buying-084100649.html",
-          "publishedOn": "2024-04-01T08:41:00.000Z",
-          "wordCount": null,
-          "title": "Forget Nvidia: Billionaires Are Selling It and Buying These 2 Hypergrowth Artificial Intelligence (AI) Stocks Instead",
-          "imageUrl": null
-        },
-        {
-          "id": "meet-magnificent-seven-healthcare-stocks-083000969.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/meet-magnificent-seven-healthcare-stocks-083000969.html",
-          "publishedOn": "2024-04-01T08:30:00.000Z",
-          "wordCount": null,
-          "title": "Meet The \"Magnificent Seven\" of Healthcare Stocks",
-          "imageUrl": null
-        },
-        {
-          "id": "3-top-artificial-intelligence-ai-082500647.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/3-top-artificial-intelligence-ai-082500647.html",
-          "publishedOn": "2024-04-01T08:25:00.000Z",
-          "wordCount": null,
-          "title": "3 Top Artificial Intelligence (AI) Stocks to Buy Hand Over Fist in April",
           "imageUrl": null
         }
       ]
