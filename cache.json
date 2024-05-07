@@ -8556,21 +8556,6 @@
             "url": "https://media.nu.nl/m/bdsxpj0an6lf_sqr256.jpg/boeing-incidenten-bij-southwest-volgen-elkaar-in-rap-tempo-op.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/bdsxpj0an6lf_sqr256.jpg/boeing-incidenten-bij-southwest-volgen-elkaar-in-rap-tempo-op.jpg"
-        },
-        {
-          "id": "article-6308222",
-          "author": null,
-          "description": "Afgestudeerde hbo'ers doen het goed op de arbeidsmarkt. Zo'n 90 procent van alle voltijdsstudenten vindt binnen drie maanden na het afstuderen een baan. Van de studenten die een lerarenopleiding hebben afgerond, vindt 96 procent meteen werk.",
-          "link": "https://www.nu.nl/economie/6308222/afgestudeerde-hboers-komen-makkelijk-en-snel-aan-werk.html",
-          "publishedOn": "2024-04-08T06:51:18.000Z",
-          "wordCount": 467,
-          "title": "Afgestudeerde hbo'ers komen makkelijk en snel aan werk",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/wqrx0jhah7ic_sqr256.jpg/afgestudeerde-hboers-komen-makkelijk-en-snel-aan-werk.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/wqrx0jhah7ic_sqr256.jpg/afgestudeerde-hboers-komen-makkelijk-en-snel-aan-werk.jpg"
         }
       ]
     },
@@ -8579,6 +8564,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8644610",
+          "author": "Bill McColl",
+          "description": "Shares of semiconductor maker GlobalFoundries jumped following the release of a first-quarter earnings report that beat estimates, while Datadog shares sank even though the cloud monitoring and security company’s first-quarter results topped expectations.",
+          "link": "https://www.investopedia.com/tech-stocks-on-the-move-today-globalfoundries-datadog-and-more-8644610",
+          "publishedOn": "2024-05-07T18:46:59.000Z",
+          "wordCount": 5197,
+          "title": "Tech Stocks on the Move Today: GlobalFoundries, Datadog, and More",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/9Ealiohwtjb_sBjmLoOnEiYvCW0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1661768685-7f2c79b464ca42219bedc0c91fe48e58.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/9Ealiohwtjb_sBjmLoOnEiYvCW0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1661768685-7f2c79b464ca42219bedc0c91fe48e58.jpg"
+        },
         {
           "id": "8644626",
           "author": "Bill McColl",
@@ -15497,6 +15497,66 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "suze-orman-says-putting-every-180013003.html",
+          "author": null,
+          "description": "Suze Orman, a well-known financial advisor and author, is a strong advocate for Roth retirement accounts, including Roth 401(k)s and Roth IRAs. According to Orman, these accounts provide substantial benefits over traditional retirement savings options due to their unique tax advantages and flexibility. Suze Orman advocates for Roth retirement accounts, as highlighted in her book, \"The Ultimate Retirement Guide For 50 Plus.\" She emphasizes the benefits of Roth accounts, “In my opinion, you should",
+          "link": "https://finance.yahoo.com/news/suze-orman-says-putting-every-180013003.html",
+          "publishedOn": "2024-05-07T18:00:13.000Z",
+          "wordCount": 21276,
+          "title": "Suze Orman Says You Should Be Putting 'Every Single Cent' Into A Roth Retirement Account — If Not, You Are Making A Mistake",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        },
+        {
+          "id": "ARGUS_3254_AnalystReport_1715104335000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_3254_AnalystReport_1715104335000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-05-07T17:52:15.000Z",
+          "wordCount": null,
+          "title": "Analyst Report: Norfolk Southern Corp.",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_6167_AnalystReport_1715104335000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "Find the latest Veralto Corp (VLTO) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_6167_AnalystReport_1715104335000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-05-07T17:52:15.000Z",
+          "wordCount": 15011,
+          "title": "Analyst Report: Veralto Corp",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
+        },
+        {
+          "id": "ARGUS_5894_AnalystReport_1715104335000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_5894_AnalystReport_1715104335000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-05-07T17:52:15.000Z",
+          "wordCount": null,
+          "title": "Analyst Report: Teladoc Health Inc",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_2672_AnalystReport_1715104335000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_2672_AnalystReport_1715104335000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-05-07T17:52:15.000Z",
+          "wordCount": null,
+          "title": "Analyst Report: AECOM",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_39929_MarketUpdate_1715103435000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "Find the latest Motorola Solutions, Inc. (MSI) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_39929_MarketUpdate_1715103435000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-05-07T17:37:15.000Z",
+          "wordCount": 14854,
+          "title": "Market Update: CNI, ACM, MSI, NSC, TDOC, VLTO",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
+        },
+        {
           "id": "us-healthcare-landlord-medical-properties-163721121.html",
           "author": null,
           "description": "Medical Properties Trust Inc’s (NYSE:MPW) tenant Steward Health Care plunged into Chapter 11 bankruptcy, posing significant financial risks for hospitals across eight states. State regulators, alarmed by the precarious situation, have intensified scrutiny over the Steward Health Care System. With a network of 30 hospitals catering to 2.2 million patients annually, the chain’s recent struggles have underscored alarming incidents, including the evacuation of an intensive-care unit due to bats, unp",
@@ -16515,6 +16575,16 @@
           "wordCount": 20997,
           "title": "Lucid Q1 results preview: EV demand, new SUV, and cash position front and center",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/0rGG29qMZPs_c4TNvbIW1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTM-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/635d6000-0bd8-11ef-ab7d-561ac0d48987"
+        },
+        {
+          "id": "reliable-car-5-000-dave-190511258.html",
+          "author": null,
+          "description": "Dave Ramsey, known for his financial guidance, has recently addressed the topic of purchasing cars without debt. On a Facebook reel posted on April 13, Ramsey responded to a caller, who had $5,000 available to buy a car after assisting her parents. Initially, she inquired about car payments, but Ramsey stopped her, stating, “I know you didn’t call Dave Ramsey and ask to go into car debt.” Her primary concern was the quality of a car she could find for $5,000. She asked, “Can I get a reliable car",
+          "link": "https://finance.yahoo.com/news/reliable-car-5-000-dave-190511258.html",
+          "publishedOn": "2024-05-06T19:05:11.000Z",
+          "wordCount": 21314,
+          "title": "'Can I Get A Reliable Car For $5,000?' - Dave Ramsey Tells Caller She Can 'Absolutely' Find A Decent Car In This Price Range",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/ac9c2907f284932cf22bbcfcc6ce73f2"
         },
         {
           "id": "3-best-high-yield-dividend-185205165.html",
