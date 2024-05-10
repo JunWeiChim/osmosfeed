@@ -1788,6 +1788,36 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6312317",
+          "author": null,
+          "description": "De nu zeven maanden durende oorlog in Gaza heeft Israël al zo'n 14,8 miljard euro gekost. De enorme rekening raakt het land hard.",
+          "link": "https://www.nu.nl/economie/6312317/israel-geeft-in-zeven-maanden-tijd-bijna-15-miljard-euro-uit-aan-oorlog.html",
+          "publishedOn": "2024-05-10T07:00:37.000Z",
+          "wordCount": 443,
+          "title": "Israël geeft in zeven maanden tijd bijna 15 miljard euro uit aan oorlog",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/uswx1bvar0ta_sqr256/602/0/1916/1916/israel-geeft-in-zeven-maanden-tijd-bijna-15-miljard-euro-uit-aan-oorlog.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/uswx1bvar0ta_sqr256/602/0/1916/1916/israel-geeft-in-zeven-maanden-tijd-bijna-15-miljard-euro-uit-aan-oorlog.jpg"
+        },
+        {
+          "id": "article-6312311",
+          "author": null,
+          "description": "Parkeervergunningen zijn in de afgelopen jaren een stuk duurder geworden. Vooral autobezitters in Heereveen en Nijkerk betalen dit jaar een stuk meer dan in 2021. Maar niemand betaalt zo veel als de bewoners van het centrum van Amsterdam.",
+          "link": "https://www.nu.nl/economie/6312311/in-veel-gemeenten-betaal-je-fors-meer-voor-een-parkeerplek-voor-de-deur.html",
+          "publishedOn": "2024-05-10T05:36:42.000Z",
+          "wordCount": 443,
+          "title": "In veel gemeenten betaal je fors meer voor een parkeerplek voor de deur",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/kyuxgt2a5hd2_sqr256/1879/7/3737/3737/in-veel-gemeenten-betaal-je-fors-meer-voor-een-parkeerplek-voor-de-deur.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/kyuxgt2a5hd2_sqr256/1879/7/3737/3737/in-veel-gemeenten-betaal-je-fors-meer-voor-een-parkeerplek-voor-de-deur.jpg"
+        },
+        {
           "id": "article-6312311",
           "author": null,
           "description": "Parkeervergunningen zijn in de afgelopen jaren een stuk duurder geworden. Vooral autobezitters in Heereveen en Nijkerk betalen dit jaar een stuk meer dan in 2021. Maar niemand betaalt zo veel als de bewoners van het centrum van Amsterdam.",
@@ -14913,36 +14943,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/umXBb9p8FEb3IUu0QAd8p5dse9I=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1771142942-b86df12804cb4010a37d19ca32eac927.jpg"
-        },
-        {
-          "id": "8629651",
-          "author": "Colin Laidley",
-          "description": "U.S. real estate stocks tanked Wednesday after stubbornly high inflation data amplified concerns interest rates will remain elevated for some time and further distress the financial plumbing of America's property sector.",
-          "link": "https://www.investopedia.com/real-estate-stocks-sink-as-sticky-inflation-threatens-sticky-interest-rates-8629651",
-          "publishedOn": "2024-04-10T18:52:49.000Z",
-          "wordCount": 5088,
-          "title": "Real Estate Stocks Sink as Sticky Inflation Threatens Higher-for-Longer Rates",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/PgLHn94yf4YLlkHjOecymi8xFlk=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1242120805-a56e0257f9d14ecca8fe148f173e3971.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/PgLHn94yf4YLlkHjOecymi8xFlk=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1242120805-a56e0257f9d14ecca8fe148f173e3971.jpg"
-        },
-        {
-          "id": "8629599",
-          "author": "Naomi Buchanan",
-          "description": "Meta Platforms on Wednesday announced the latest version of its custom artificial intelligence (AI) that could reduce its dependence on Nvidia as the AI arms race heats up between tech giants.",
-          "link": "https://www.investopedia.com/meta-unveils-its-latest-ai-chip-here-is-what-you-need-to-know-8629599",
-          "publishedOn": "2024-04-10T18:34:30.000Z",
-          "wordCount": 5168,
-          "title": "Meta Unveils Its Latest AI Chip—Here's What You Need To Know",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/dHgAj3ys6mG8IMQNwf1Ol4KdtoQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/MTIA_1-70a37fb130634a18907f51299b1c353d.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/dHgAj3ys6mG8IMQNwf1Ol4KdtoQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/MTIA_1-70a37fb130634a18907f51299b1c353d.jpg"
         }
       ]
     },
@@ -14951,6 +14951,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "tsmc-keeps-sales-growth-april-053418822.html",
+          "author": null,
+          "description": "(Bloomberg) -- Taiwan Semiconductor Manufacturing Co. saw April sales jump 60% to NT$236 billion ($7.3 billion) as sustained artificial intelligence demand was helped by the beginnings of a recovery in consumer electronics.Most Read from Bloomberg‘Seriously Underwater’ Home Mortgages Tick Up Across the USApple Apologizes for iPad Pro Ad, Scraps Plan to Air It on TVMarjorie Taylor Greene Finally Got What She Deserved: DefeatMicrosoft’s Xbox Is Planning More Cuts After Studio ClosingsThe world’s l",
+          "link": "https://finance.yahoo.com/news/tsmc-keeps-sales-growth-april-053418822.html",
+          "publishedOn": "2024-05-10T05:34:18.000Z",
+          "wordCount": 9809,
+          "title": "TSMC Keeps Sales Growth Up in April as AI Drives 60% Jump",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/M3RVCldKMCvGuTLCBWfn8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_technology_68/0b77aa2b59d63d67f8a296613ab79c70"
+        },
         {
           "id": "meta-platforms-stock-nasdaq-meta-025522787.html",
           "author": null,
@@ -42970,16 +42980,6 @@
           "wordCount": null,
           "title": "Dow Jones Dives Amid These Fed Worries; This Warren Buffett Stock Flashes Sell Signal",
           "imageUrl": null
-        },
-        {
-          "id": "dave-ramsey-doubles-down-real-183013961.html",
-          "author": null,
-          "description": "Dave Ramsey was vocal about his prediction two years ago that home values would rise, a controversial thesis in the middle of the Federal Reserve's interest rate hiking campaign. His reasoning was simple, highlighting the supply shortage in the market by saying that \"when there is a shortage of an item ... prices go up.\" Now, with around 16% of listed homes affordable to local median-income earners, according to Redfin data, Ramsey warns against waiting for prices to drop. Don't Miss: Jeff Bezos",
-          "link": "https://finance.yahoo.com/news/dave-ramsey-doubles-down-real-183013961.html",
-          "publishedOn": "2024-04-10T18:30:13.000Z",
-          "wordCount": 10841,
-          "title": "Dave Ramsey Doubles Down On Real Estate — Says, 'Prices Will Go Up' As Blackstone Acquires $10 Billion More Multifamily Properties",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/328da4bc73fec8531054f17aa132f7a0"
         }
       ]
     }
