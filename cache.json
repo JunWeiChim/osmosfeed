@@ -8431,21 +8431,6 @@
             "url": "https://media.nu.nl/m/4irxwm7ardmz_sqr256.jpg/kleine-boeren-voerden-geen-mest-af-en-worden-door-nieuwe-regels-hard-geraakt.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/4irxwm7ardmz_sqr256.jpg/kleine-boeren-voerden-geen-mest-af-en-worden-door-nieuwe-regels-hard-geraakt.jpg"
-        },
-        {
-          "id": "article-6309105",
-          "author": null,
-          "description": "Het demissionaire kabinet trekt in de voorjaarsnota extra miljarden uit voor de steun aan Oekraïne, defensie en de asielopvang. Ook blijkt de hersteloperatie van het Toeslagenschandaal flink duurder.",
-          "link": "https://www.nu.nl/politiek/6309105/extra-miljarden-voor-oekraine-herstel-toeslagenschandaal-en-asielopvang.html",
-          "publishedOn": "2024-04-15T09:08:14.000Z",
-          "wordCount": 445,
-          "title": "Extra miljarden voor Oekraïne, herstel Toeslagenschandaal en asielopvang",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/s7wx74qa7rz1_sqr256.jpg/extra-miljarden-voor-oekraine-herstel-toeslagenschandaal-en-asielopvang.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/s7wx74qa7rz1_sqr256.jpg/extra-miljarden-voor-oekraine-herstel-toeslagenschandaal-en-asielopvang.jpg"
         }
       ]
     },
@@ -8454,6 +8439,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8648562",
+          "author": "Michael Bromberg",
+          "description": "The S&P 500 added 0.5% on Tuesday, May 14, 2024, boosted by an afternoon rally ahead of Wednesday's eagerly awaited Consumer Price Index (CPI) report.",
+          "link": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-paramount-global-sinks-as-sony-reconsiders-bid-8648562",
+          "publishedOn": "2024-05-14T20:47:09.000Z",
+          "wordCount": 5249,
+          "title": "S&P 500 Gains and Losses Today: Paramount Global Sinks as Sony Reconsiders Bid",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/HqElIrp7wggcZVpewp70CSMPhX0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1247972540-be762e975799434f8c143d4db62a0572.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/HqElIrp7wggcZVpewp70CSMPhX0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1247972540-be762e975799434f8c143d4db62a0572.jpg"
+        },
         {
           "id": "8648282",
           "author": "Bill McColl",
@@ -15252,6 +15252,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "1-7-billion-news-sent-201619027.html",
+          "author": null,
+          "description": "More cash will solve some problems, but maybe not the ones that need to be solved.",
+          "link": "https://finance.yahoo.com/news/1-7-billion-news-sent-201619027.html",
+          "publishedOn": "2024-05-14T20:16:19.000Z",
+          "wordCount": 20783,
+          "title": "The $1.7 Billion News That Sent Plug Power Stock Surging: Here's What You Need to Know Before Buying",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/2MpnHTE5xbom262uvOJdPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTI-/https://media.zenfs.com/en/motleyfool.com/bd98949e3d5b8c0cb77595d4cd0a77c3"
+        },
+        {
+          "id": "stock-market-today-nasdaq-closes-at-record-high-meme-stocks-surge-again-ahead-of-inflation-data-200420429.html",
+          "author": null,
+          "description": "Meme stocks soared again as US equities more broadly stayed muted in the countdown to fresh inflation data and a Jerome Powell speech.",
+          "link": "https://finance.yahoo.com/news/stock-market-today-nasdaq-closes-at-record-high-meme-stocks-surge-again-ahead-of-inflation-data-200420429.html",
+          "publishedOn": "2024-05-14T20:04:20.000Z",
+          "wordCount": 25865,
+          "title": "Stock market today: Nasdaq closes at record high, meme stocks surge again ahead of inflation data",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/6tj.LPFa_M30SubhyRl0Gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/da90e240-e4f6-11ee-bfff-4c51209e7252"
+        },
+        {
           "id": "why-fuelcell-energy-bloom-clean-193152197.html",
           "author": null,
           "description": "Federal support might turn green energy companies suddenly profitable, but after decades of losses, you should be skeptical of that.",
@@ -15260,6 +15280,16 @@
           "wordCount": 20998,
           "title": "Why FuelCell Energy, Bloom, and Clean Energy Fuels Rose Today",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/.0APssjdB_QMKLiSB_oYtw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzA-/https://media.zenfs.com/en/motleyfool.com/6b7610f3c62281a59066b2f69d499860"
+        },
+        {
+          "id": "warren-buffett-guaranteed-hed-50-193017375.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/warren-buffett-guaranteed-hed-50-193017375.html",
+          "publishedOn": "2024-05-14T19:30:17.000Z",
+          "wordCount": null,
+          "title": "Warren Buffett \"Guaranteed\" He'd Get 50% Annual Returns With Only $1 Million As Berkshire's Cash Hoard Soars To Over $189 Billion",
+          "imageUrl": null
         },
         {
           "id": "5-reits-just-received-price-190011570.html",
@@ -44380,56 +44410,6 @@
           "wordCount": 21014,
           "title": "The S&P 500 Is Near Its Record High: The 2 Worst Mistakes Investors Can Make Right Now",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ALPJDK3JtrFgb1h2pOROPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/motleyfool.com/a5e768e04cf5d6671bb438bf8664c1a2"
-        },
-        {
-          "id": "warren-buffett-could-bought-378-090600797.html",
-          "author": null,
-          "description": "This is the only stock the Oracle of Omaha has purchased for 22 consecutive quarters, dating back to the midpoint of 2018.",
-          "link": "https://finance.yahoo.com/news/warren-buffett-could-bought-378-090600797.html",
-          "publishedOn": "2024-04-15T09:06:00.000Z",
-          "wordCount": 21365,
-          "title": "Warren Buffett Could Have Bought Any of 378 S&P 500 Companies With $74 Billion. Instead, He Piled It All Into 1 Beloved Stock",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/mYvfybZMnAjzMEyN7JH5kg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/6257e28d072177c575474e7b64dba985"
-        },
-        {
-          "id": "billionaires-selling-nvidia-stock-buying-090000892.html",
-          "author": null,
-          "description": "Select Wall Street billionaires were selling Nvidia during the fourth quarter, while buying shares of Amazon and Palantir Technologies.",
-          "link": "https://finance.yahoo.com/news/billionaires-selling-nvidia-stock-buying-090000892.html",
-          "publishedOn": "2024-04-15T09:00:00.000Z",
-          "wordCount": 21289,
-          "title": "Billionaires Are Selling Nvidia Stock and Buying 2 Supercharged Artificial Intelligence (AI) Stocks Instead",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/y2dmL53PsWqFVnemxYNyBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODY-/https://media.zenfs.com/en/motleyfool.com/159ab7bf21e4b405f58d4808df860f0a"
-        },
-        {
-          "id": "next-crude-oil-analysts-weigh-030858469.html",
-          "author": null,
-          "description": "(Bloomberg) -- Oil futures were barely moved by Iran’s unprecedented attack on Israel, with traders attributing the lackluster price action to the notion that the strike was well-flagged beforehand, and expectations that the conflict will remain contained in the aftermath. As Israel weighs its response to the assault, here’s what market watchers are saying about the outlook:Most Read from BloombergIsrael Versus Iran — What All-Out War Could Look LikeApple Faces Worst iPhone Slump Since Covid as",
-          "link": "https://finance.yahoo.com/news/next-crude-oil-analysts-weigh-030858469.html",
-          "publishedOn": "2024-04-15T08:55:25.000Z",
-          "wordCount": 21440,
-          "title": "What’s Next for Oil? Analysts Weigh In After Iran’s Attack",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/0hLfHzWWlK9MkVZEUgD1lw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_markets_842/e882ddac03e29646851bac433170ff31"
-        },
-        {
-          "id": "want-1-000-annual-dividend-085300485.html",
-          "author": null,
-          "description": "The average yield from these stocks is more than five times the market average.",
-          "link": "https://finance.yahoo.com/news/want-1-000-annual-dividend-085300485.html",
-          "publishedOn": "2024-04-15T08:53:00.000Z",
-          "wordCount": 20984,
-          "title": "Want $1,000 in Annual Dividend Income? Invest $13,200 in These Ultra-High-Yield Dividend Stocks.",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/8WcWncxi0NqOQwKpVcK8WQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/e1f64b8777181072ffe0c6fc893698a7"
-        },
-        {
-          "id": "stock-market-movers-ec2b30c3?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/stock-market-movers-ec2b30c3?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-04-15T08:48:00.000Z",
-          "wordCount": null,
-          "title": "These Stocks Are Moving the Most Today: Tesla, Informatica, Salesforce, Apple, Goldman Sachs, Schwab, and More",
-          "imageUrl": null
         }
       ]
     }
