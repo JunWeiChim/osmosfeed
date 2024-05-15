@@ -1928,6 +1928,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6312994",
+          "author": null,
+          "description": "Duitse luchthavens verwachten zo'n twee miljoen voetbalfans tijdens het Europees Kampioenschap voetbal dat op 14 juni begint. Ruim vijfhonderd extra vluchten worden uitgevoerd.",
+          "link": "https://www.nu.nl/economie/6312994/twee-miljoen-voetbalfans-verwacht-op-duitse-luchthavens-tijdens-ek.html",
+          "publishedOn": "2024-05-15T13:05:54.000Z",
+          "wordCount": 443,
+          "title": "Twee miljoen voetbalfans verwacht op Duitse luchthavens tijdens EK",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/35mxlm1aqwv4_sqr256/2005/0/3994/3994/twee-miljoen-voetbalfans-verwacht-op-duitse-luchthavens-tijdens-ek.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/35mxlm1aqwv4_sqr256/2005/0/3994/3994/twee-miljoen-voetbalfans-verwacht-op-duitse-luchthavens-tijdens-ek.jpg"
+        },
+        {
           "id": "article-6312844",
           "author": null,
           "description": "De overheidssubsidie op duurzame warmtepompen komt vooral terecht bij mensen die relatief veel geld verdienen en in grote huizen wonen. Het lukt de overheid niet met de subsidie alle Nederlanders te bereiken, constateert de Algemene Rekenkamer.",
@@ -8466,21 +8481,6 @@
             "url": "https://media.nu.nl/m/j3ux5jba8dp9_sqr256.jpg/albert-heijn-geeft-fouten-met-duurzaamheidsclaims-toe.jpg"
           },
           "imageUrl": "https://media.nu.nl/m/j3ux5jba8dp9_sqr256.jpg/albert-heijn-geeft-fouten-met-duurzaamheidsclaims-toe.jpg"
-        },
-        {
-          "id": "article-6309198",
-          "author": null,
-          "description": "Door een storing bij Luchtverkeersleiding Nederland (LVNL) was er rond middernacht een paar uur lang amper vliegverkeer in het Nederlandse luchtruim. De luchtverkeersleiding meldde rond 1.30 uur dat de storing verholpen was.",
-          "link": "https://www.nu.nl/economie/6309198/paar-uur-lang-amper-vliegverkeer-boven-nederland-door-storing-luchtverkeersleiding.html",
-          "publishedOn": "2024-04-16T00:48:35.000Z",
-          "wordCount": 445,
-          "title": "Paar uur lang amper vliegverkeer boven Nederland door storing luchtverkeersleiding",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.nu.nl/m/vkcx60qa3ks2_sqr256.jpg/paar-uur-lang-amper-vliegverkeer-boven-nederland-door-storing-luchtverkeersleiding.jpg"
-          },
-          "imageUrl": "https://media.nu.nl/m/vkcx60qa3ks2_sqr256.jpg/paar-uur-lang-amper-vliegverkeer-boven-nederland-door-storing-luchtverkeersleiding.jpg"
         }
       ]
     },
@@ -15035,11 +15035,91 @@
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-gamestop-stock-gme/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-05-15T13:00:57.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Rise On CPI Inflation Report; GameStop, AMC Dive",
+          "imageUrl": null
+        },
+        {
+          "id": "inflation-pressures-ease-in-april-as-consumer-prices-rise-at-slowest-pace-in-three-months-123222215.html",
+          "author": null,
+          "description": "April's CPI report is one of the most important data points the Federal Reserve will consider in its next interest rate decision.",
+          "link": "https://finance.yahoo.com/news/inflation-pressures-ease-in-april-as-consumer-prices-rise-at-slowest-pace-in-three-months-123222215.html",
+          "publishedOn": "2024-05-15T12:59:09.000Z",
+          "wordCount": 20956,
+          "title": "Inflation pressures ease in April as consumer prices rise at slowest pace in three months",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/tqOkcE3f5fmRqLEz7UPu6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/70306690-112f-11ef-a1f5-0dd37c4cac5d"
+        },
+        {
+          "id": "stock-market-today-us-futures-jump-as-inflation-shows-signs-of-easing-125136313.html",
+          "author": null,
+          "description": "Investors are bracing for a crucial update on consumer prices that will test their rate-cut hopes.",
+          "link": "https://finance.yahoo.com/news/stock-market-today-us-futures-jump-as-inflation-shows-signs-of-easing-125136313.html",
+          "publishedOn": "2024-05-15T12:51:36.000Z",
+          "wordCount": 21447,
+          "title": "Stock market today: US futures jump as inflation shows signs of easing",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/hPbqrJhc920HyaWtEoFyAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/ecc100e0-4bcb-11ee-abf7-674c1fd2b5b5"
+        },
+        {
+          "id": "jpmorgan-gives-a-lift-to-another-troubled-regional-bank-124530445.html",
+          "author": null,
+          "description": "JPMorgan Chase is once again providing a lift to another troubled regional lender a year after it helped calm a banking crisis. This time, it's NYCB.",
+          "link": "https://finance.yahoo.com/news/jpmorgan-gives-a-lift-to-another-troubled-regional-bank-124530445.html",
+          "publishedOn": "2024-05-15T12:45:30.000Z",
+          "wordCount": 21036,
+          "title": "JPMorgan gives a lift to another troubled regional bank",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/I6tha3jOD4LukhxZrON3XA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/e4a5f770-12b4-11ef-aff6-553b601e16e1"
+        },
+        {
+          "id": "us-consumer-prices-rise-less-123425030.html",
+          "author": null,
+          "description": "U.S. consumer prices increased less than expected in April, suggesting that inflation resumed its downward trend at the start of the second quarter in a boost to financial market expectations for a September interest rate cut.  The consumer price index rose 0.3% last month after advancing 0.4% in March and February, the Labor Department's Bureau of Labor Statistics (BLS) said on Wednesday.  In the 12 months through April, the CPI increased 3.4% after climbing 3.5% in March.",
+          "link": "https://finance.yahoo.com/news/us-consumer-prices-rise-less-123425030.html",
+          "publishedOn": "2024-05-15T12:34:25.000Z",
+          "wordCount": 20867,
+          "title": "US consumer prices rise less than expected in April; core CPI slows",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/2093d60565975c36e1b4036f47e0472d"
+        },
+        {
+          "id": "shopify-stock-dropping-ton-bricks-122500653.html",
+          "author": null,
+          "description": "A rich valuation implies high growth.",
+          "link": "https://finance.yahoo.com/news/shopify-stock-dropping-ton-bricks-122500653.html",
+          "publishedOn": "2024-05-15T12:25:00.000Z",
+          "wordCount": 21196,
+          "title": "Shopify Stock Is Dropping Like a Ton of Bricks. Is This an Opportunity to Buy on the Dip?",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/838b154fc12162c8545ec7e4d7d9dbc8"
+        },
+        {
+          "id": "u-chip-manufacturing-could-triple-121000914.html",
+          "author": null,
+          "description": "The secular growth of semiconductor manufacturing capacity in the U.S. could benefit these two chip stocks in the long run.",
+          "link": "https://finance.yahoo.com/news/u-chip-manufacturing-could-triple-121000914.html",
+          "publishedOn": "2024-05-15T12:10:00.000Z",
+          "wordCount": 21716,
+          "title": "U.S. Chip Manufacturing Could Triple in Less Than a Decade: 2 Stocks That Could Follow Suit",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/3c7a2c88d9da3ac8a624f82f46978140"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
           "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cpi-inflation-gamestop-surges-60/?src=A00220&yptr=yahoo",
           "publishedOn": "2024-05-15T12:02:21.000Z",
           "wordCount": null,
           "title": "Dow Jones Futures Await CPI Inflation With Stock Market Near Highs; GameStop, AMC Skid",
           "imageUrl": null
+        },
+        {
+          "id": "2-incredible-growth-stocks-buy-120000059.html",
+          "author": null,
+          "description": "These two healthcare stocks may be deeply undervalued.",
+          "link": "https://finance.yahoo.com/news/2-incredible-growth-stocks-buy-120000059.html",
+          "publishedOn": "2024-05-15T12:00:00.000Z",
+          "wordCount": 21087,
+          "title": "2 Incredible Growth Stocks to Buy Hand Over Fist Right Now",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/cYTt4GseSzReq1BxeJT8WA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/e3d3cdd64ed6e9a58bc60ac0333ee20e"
         },
         {
           "id": "stock-market-today-us-futures-hold-steady-as-inflation-test-looms-112750791.html",
@@ -15382,6 +15462,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/GX_60uGwnZJ5iyyHWzjyGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/f7d0905c916e5e6aee2e76f45dd73bc6"
         },
         {
+          "id": "vrt-dell-pld-ai-flavored-054859136.html",
+          "author": null,
+          "description": "The technology-driven market rally will eventually run out of steam. However, until it does, many analysts are optimistic about overlooked companies that could gain just as much as the most obvious high-growth stocks. Though the implied upside varies greatly in the following trio (VRT, DELL, PLD), I would keep tabs on the following stocks as analysts look to reward companies that are able to make money from AI bets sooner rather than in the distant future. Indeed, getting in on the AI boom entai",
+          "link": "https://finance.yahoo.com/news/vrt-dell-pld-ai-flavored-054859136.html",
+          "publishedOn": "2024-05-15T05:48:59.000Z",
+          "wordCount": 21541,
+          "title": "VRT, DELL, PLD: Which AI-Flavored Stock Is Best?",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/97a3e109a39cb7b8c6df0fc841b91178"
+        },
+        {
           "id": "love-them-hate-them-meme-050236468.html",
           "author": null,
           "description": "Meme stocks are soaring again, delighting fans, frustrating detractors and showing Wall Street that the social media force behind the wild GameStop rally in 2021 is still going strong.  Shares of other companies, including theater chain AMC headphones maker Koss and food storage container company Tupperware have followed suit.  Like GameStop, many of the stocks are heavily shorted and their fundamentals have declined over the last few years.",
@@ -15492,6 +15582,16 @@
           "imageUrl": null
         },
         {
+          "id": "3m-shareholders-vote-down-executives-211651541.html",
+          "author": null,
+          "description": "Former top boss at L3 Harris Technologies Bill Brown succeeded Roman as CEO on May 1.  Roman transitioned to become 3M's executive chairman on the same day.  Brown takes the helm after a period of what has been seen as poor financial performance, which 3M has tried to mitigate by rolling out a major restructuring that includes cutting thousands of jobs and the spinoff of its healthcare business into a listed company.",
+          "link": "https://finance.yahoo.com/news/3m-shareholders-vote-down-executives-211651541.html",
+          "publishedOn": "2024-05-14T21:16:51.000Z",
+          "wordCount": 20652,
+          "title": "3M shareholders vote down executives' pay packages in annual meeting",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/2d0f706e389f94da6d953caaace00ae5"
+        },
+        {
           "id": "sunpower-stock-jumped-105-leading-210541583.html",
           "author": null,
           "description": "A short squeeze has hit the residential solar industry.",
@@ -15570,6 +15670,16 @@
           "wordCount": 20849,
           "title": "Arista Networks’ Guidance, Buybacks Send Shares Skyward",
           "imageUrl": "https://media.zenfs.com/en/fx_empire_176/b06f1ee50051176d921bc65559e4af2d"
+        },
+        {
+          "id": "charles-schwab-website-mess-hundreds-193600024.html",
+          "author": null,
+          "description": "“It wouldn’t surprise me if they see an outflow of clients over the next six months,” one user told MarketWatch.",
+          "link": "https://finance.yahoo.com/news/charles-schwab-website-mess-hundreds-193600024.html",
+          "publishedOn": "2024-05-14T19:36:00.000Z",
+          "wordCount": 21534,
+          "title": "Charles Schwab website ‘is a mess’: Hundreds of TD Ameritrade users complain about their new online home.",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/gFS2qh7GzML84x1ShkIhfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/e29f14e2164a4503fa18d8f7dec4fc0d"
         },
         {
           "id": "why-fuelcell-energy-bloom-clean-193152197.html",
@@ -43830,36 +43940,6 @@
           "wordCount": 20561,
           "title": "Why Medical Properties Trust Stock Popped Today",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ysLtdYB36mVCsuFi13YK0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/159654f00601a4b4b68f4e8ec308a6c0"
-        },
-        {
-          "id": "tsmc-first-quarter-profit-expected-005316293.html",
-          "author": null,
-          "description": "Taiwan Semiconductor Manufacturing Co, the dominant producer of advanced chips used in artificial intelligence applications, is expected to report a 5% rise in first-quarter profit on Thursday thanks to strong demand.  The world's largest contract chipmaker, whose customers include Apple and Nvidia, has benefited from a surge towards AI that has helped it weather the tapering off of pandemic-led electronics demand and pushed TSMC's stock to a record high.  TSMC is set to report a net profit of T$217.2 billion ($6.71 billion) for the quarter ended March 31, according to an LSEG SmartEstimate drawn from 22 analysts.",
-          "link": "https://finance.yahoo.com/news/tsmc-first-quarter-profit-expected-005316293.html",
-          "publishedOn": "2024-04-16T00:53:16.000Z",
-          "wordCount": 7563,
-          "title": "TSMC first-quarter profit expected to rise 5% on strong AI chip demand",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/fa83cc3258be1e754ecd26d5fd68162d"
-        },
-        {
-          "id": "jamie-dimon-cashes-more-jpmorgan-003834464.html",
-          "author": null,
-          "description": "Monday’s sale was the bank CEO’s second time selling stock in 19 years.",
-          "link": "https://finance.yahoo.com/news/jamie-dimon-cashes-more-jpmorgan-003834464.html",
-          "publishedOn": "2024-04-16T00:38:34.000Z",
-          "wordCount": 20520,
-          "title": "Jamie Dimon cashes out more JPMorgan stock, bringing his total share sales this year to $183 million",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/dtRtP93wjcCv6CfY1D_fBA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/40f4ce955ae44b5f85f0cd0edbc3210c"
-        },
-        {
-          "id": "tesla-extends-2024-stock-skid-003154666.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/tesla-extends-2024-stock-skid-003154666.html",
-          "publishedOn": "2024-04-16T00:31:54.000Z",
-          "wordCount": null,
-          "title": "Tesla extends its 2024 stock skid to 34% as top execs reportedly depart amid job cuts",
-          "imageUrl": null
         }
       ]
     }
