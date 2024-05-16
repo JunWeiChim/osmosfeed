@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-16T04:13:12.880Z</updated>
+    <updated>2024-05-16T05:13:05.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -39,6 +39,16 @@
         <id>someone-played-beautifully-why-one-012511510.html</id>
         <link href="https://finance.yahoo.com/news/someone-played-beautifully-why-one-012511510.html"/>
         <updated>2024-05-16T01:25:11.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beware of credit card fraud at these 5 spots]]></title>
+        <id>beware-credit-card-fraud-002535206.html</id>
+        <link href="https://finance.yahoo.com/personal-finance/beware-credit-card-fraud-002535206.html"/>
+        <updated>2024-05-16T00:25:35.000Z</updated>
+        <summary type="html"><![CDATA[Here are the 5 places you’re most at risk for credit card fraud or theft.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -38349,94 +38359,6 @@ However, the daily relative strength index is approaching the most overbought le
         <updated>2024-04-16T17:28:00.000Z</updated>
         <author>
             <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super Micro Stock Rallies as Analyst Sets $1,500 Target]]></title>
-        <id>super-micro-stock-price-upbeat-forecast-f7ed73e0?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/articles/super-micro-stock-price-upbeat-forecast-f7ed73e0?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2024-04-16T17:02:00.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dr. Martens Stock Plummets on Downbeat US Outlook]]></title>
-        <id>8634080</id>
-        <link href="https://www.investopedia.com/dr-martens-stock-plummets-on-downbeat-us-outlook-8634080"/>
-        <updated>2024-04-16T16:58:20.000Z</updated>
-        <summary type="html"><![CDATA[U.K.-listed Dr. Martens shares plunged Tuesday after it issued a downbeat outlook for its U.S. sales and announced its chief executive was stepping down.]]></summary>
-        <author>
-            <name>Fatima Attarwala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stock market today: Stocks wobble as earnings roll in]]></title>
-        <id>stock-market-today-stocks-wobble-as-earnings-roll-in-165336338.html</id>
-        <link href="https://finance.yahoo.com/news/stock-market-today-stocks-wobble-as-earnings-roll-in-165336338.html"/>
-        <updated>2024-04-16T16:53:36.000Z</updated>
-        <summary type="html"><![CDATA[Stocks eyed a broader comeback from a steep sell-off as investors digested results from Bank of America and other heavyweights.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Media stock sinks after company announces plans to launch live TV streaming platform]]></title>
-        <id>trump-media-stock-sinks-after-company-announces-plans-to-launch-live-tv-streaming-platform-165111515.html</id>
-        <link href="https://finance.yahoo.com/news/trump-media-stock-sinks-after-company-announces-plans-to-launch-live-tv-streaming-platform-165111515.html"/>
-        <updated>2024-04-16T16:51:11.000Z</updated>
-        <summary type="html"><![CDATA[Shares of Trump Media have fallen more than 60% since the company's public markets debut at the end of March.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNY Mellon Beats Earnings Estimates on Higher Fees and Announces $6B Stock Buyback]]></title>
-        <id>8634079</id>
-        <link href="https://www.investopedia.com/bny-mellon-beats-earnings-estimates-on-higher-fees-and-announces-usd6b-stock-buyback-8634079"/>
-        <updated>2024-04-16T16:49:08.000Z</updated>
-        <summary type="html"><![CDATA[The Bank of New York Mellon reported earnings and revenue that exceeded forecasts on higher investment services fees.]]></summary>
-        <author>
-            <name>Bill McColl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Rivian Stock Bounced Back on Tuesday]]></title>
-        <id>why-rivian-stock-bounced-back-164240069.html</id>
-        <link href="https://finance.yahoo.com/news/why-rivian-stock-bounced-back-164240069.html"/>
-        <updated>2024-04-16T16:42:40.000Z</updated>
-        <summary type="html"><![CDATA[Is Rivian stock a short-squeeze candidate? UBS seems to think it is.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Stock Movers Now: UnitedHealth, Morgan Stanley, Bank of America, and More]]></title>
-        <id>8634236</id>
-        <link href="https://www.investopedia.com/top-stock-movers-now-unitedhealth-morgan-stanley-bank-of-america-and-more-8634236"/>
-        <updated>2024-04-16T16:30:04.000Z</updated>
-        <summary type="html"><![CDATA[The Dow gained while the S&P 500 and Nasdaq were little changed at midday Tuesday, April 16, 2024, as investors weighed a slew of corporate earnings reports.]]></summary>
-        <author>
-            <name>Bill McColl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Unveils New AI Chips For Business PCs]]></title>
-        <id>?src=A00220&amp;yptr=yahoo</id>
-        <link href="https://www.investors.com/news/technology/amd-stock-ai-chips-business-pcs/?src=A00220&amp;yptr=yahoo"/>
-        <updated>2024-04-16T16:26:15.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ericsson Boosts Gross Margin, Sees Sales Stabilizing Later This Year]]></title>
-        <id>8634147</id>
-        <link href="https://www.investopedia.com/ericsson-boosts-gross-margin-sees-sales-stabilizing-later-this-year-8634147"/>
-        <updated>2024-04-16T16:20:17.000Z</updated>
-        <summary type="html"><![CDATA[Ericsson reported first-quarter operating profit and earnings per share above forecasts as it took steps to offset falling sales.]]></summary>
-        <author>
-            <name>Bill McColl</name>
         </author>
     </entry>
 </feed>
