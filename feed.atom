@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-16T06:14:42.845Z</updated>
+    <updated>2024-05-16T07:10:17.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Werkloosheid licht gestegen door voortmodderende economie]]></title>
+        <id>article-6313073</id>
+        <link href="https://www.nu.nl/economie/6313073/werkloosheid-licht-gestegen-door-voortmodderende-economie.html"/>
+        <updated>2024-05-16T06:18:46.000Z</updated>
+        <summary type="html"><![CDATA[Zo'n 375.000 mensen hebben vorige maand werkloos thuisgezeten, oftewel 3,7 procent van de beroepsbevolking. Dat is een groter aantal dan drie maanden eerder. Dit komt vooral doordat de economie hapert.]]></summary>
+        <author>
+            <name>NU - Economie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Investors reach for riskier assets as fear seeps out of markets]]></title>
         <id>investors-reach-riskier-assets-fear-050728770.html</id>
@@ -125,6 +135,15 @@
         <link href="https://finance.yahoo.com/news/cisco-gives-rosy-forecast-sign-202602599.html"/>
         <updated>2024-05-15T22:15:58.000Z</updated>
         <summary type="html"><![CDATA[(Bloomberg) -- Cisco Systems Inc. gave a solid sales and profit forecast for the current quarter, indicating that some customers are beginning to invest in their computer networks again.Most Read from BloombergSlovak Premier Fighting for Life After Assassination AttemptChina Considers Government Buying of Unsold Homes to Save Property MarketUS Inflation Ebbs for First Time in Six Months in Relief for FedS&P 500 Tops 5,300 in Record-Breaking Stock Rally: Markets WrapHow One of the World's Oldest]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cisco Stock Jumps on Earnings. What Drove the Beat.]]></title>
+        <id>cisco-earnings-stock-price-77a8d8c3?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.barrons.com/articles/cisco-earnings-stock-price-77a8d8c3?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2024-05-15T22:15:00.000Z</updated>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -38231,46 +38250,6 @@ However, the daily relative strength index is approaching the most overbought le
         <summary type="html"><![CDATA[Procter & Gamble is expected to post another increase in quarterly revenue when it reports third-quarter earnings Friday, but the consumer goods giant also is seen slowing its price increases.]]></summary>
         <author>
             <name>Terry Lane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia CEO Jensen Huang Said, "This Is the Beginning of a New World" Thanks to Artificial Intelligence (AI). 1 Stock to Buy If He's Right]]></title>
-        <id>nvidia-ceo-jensen-huang-said-190932282.html</id>
-        <link href="https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-said-190932282.html"/>
-        <updated>2024-04-16T19:09:32.000Z</updated>
-        <summary type="html"><![CDATA[The chief executive highlighted the potential for AI to act as a "collaborator."]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IMF Credits Strong US Economy, But Cites Financial Risks of Rising Debt]]></title>
-        <id>8634351</id>
-        <link href="https://www.investopedia.com/imf-credits-strong-us-economy-but-cites-financial-risks-of-rising-debt-8634351"/>
-        <updated>2024-04-16T18:50:32.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. economy has led the world in recovering from the COVID-19 pandemic—but that performance is largely due to heavy government spending that may be unsustainable in the face of mounting debt, according to the International Monetary Fund.]]></summary>
-        <author>
-            <name>Diccon Hyatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brace for the S&P 500 to crash 30% before an even bigger collapse after the election, markets guru David Brady warns]]></title>
-        <id>brace-p-500-crash-30-183832380.html</id>
-        <link href="https://finance.yahoo.com/news/brace-p-500-crash-30-183832380.html"/>
-        <updated>2024-04-16T18:38:32.000Z</updated>
-        <summary type="html"><![CDATA[Analyst David Brady said overvalued stocks are set to tumble, rebound before the presidential election, and then suffer a devastating crash.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stock market today: Stocks wobble as earnings roll in, Powell comments on inflation]]></title>
-        <id>stock-market-today-stocks-wobble-as-earnings-roll-in-powell-comments-on-inflation-181845211.html</id>
-        <link href="https://finance.yahoo.com/news/stock-market-today-stocks-wobble-as-earnings-roll-in-powell-comments-on-inflation-181845211.html"/>
-        <updated>2024-04-16T18:18:45.000Z</updated>
-        <summary type="html"><![CDATA[Stocks eyed a broader comeback from a steep sell-off as investors digested results from Bank of America and other heavyweights.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
         </author>
     </entry>
 </feed>
