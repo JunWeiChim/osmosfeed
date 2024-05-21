@@ -24,6 +24,26 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "84eca69b8c5c554e4d1be957b2a64a30",
+          "author": "Investopedia",
+          "description": "Shares of former President Donald Trump's media company, which owns Truth Social, sank in intraday trading Tuesday after reporting a $327.6 million loss in its first quarterly report as a public company.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9275d2ef0fe8513c8c8739eee12e228c4f12d03c8c3cb4810f2a42cf6e877ec3970a63d1f23cbcf2ae35f1ecdd7ff261bf2742936502045c1feebef08f22089f8aef",
+          "publishedOn": "2024-05-21T12:00:00.000Z",
+          "wordCount": 411,
+          "title": "Trump Media Stock Slides After Reporting $327.6M Q1 Loss",
+          "imageUrl": null
+        },
+        {
+          "id": "9c35ad58f27a9e47df70a6bbc751b6b2",
+          "author": "Investopedia",
+          "description": "IBM unveiled several artificial intelligence updates on Tuesday that could help the company gain in the AI era.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8f65caaf0cb14e3c86892cabf7343ec24548d07d8831b2804d384bdd7fd83ed4861b21d7ef30a1b8f630e6e99a28b661e62442833d0218461ff5bef08f22089f87ee",
+          "publishedOn": "2024-05-21T12:00:00.000Z",
+          "wordCount": 411,
+          "title": "IBM Strengthens AWS, Microsoft, Meta Ties, Updates on AI Push",
+          "imageUrl": null
+        },
+        {
           "id": "81cff7a0d5999d45f024ce323a2bfeff",
           "author": "Investopedia",
           "description": "XPeng reported better-than-expected first-quarter results Tuesday as deliveries of its electric vehicles jumped.",
@@ -2208,6 +2228,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6313759",
+          "author": null,
+          "description": "Het hoofdlijnenakkoord van PVV, VVD, NSC en BBB leidt waarschijnlijk tot een verbetering van de overheidsfinanciën en een iets hogere koopkracht dan wanneer we de huidige koers zouden blijven varen. Dat meldt het Centraal Planbureau (CPB).",
+          "link": "https://www.nu.nl/economie/6313759/cpb-coalitieplannen-zorgen-waarschijnlijk-voor-meer-koopkracht-minder-tekort.html",
+          "publishedOn": "2024-05-21T16:53:16.000Z",
+          "wordCount": 443,
+          "title": "CPB: coalitieplannen zorgen 'waarschijnlijk' voor meer koopkracht, minder tekort",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/msmxqanac603_sqr256/1769/0/3754/3754/cpb-coalitieplannen-zorgen-waarschijnlijk-voor-meer-koopkracht-minder-tekort.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/msmxqanac603_sqr256/1769/0/3754/3754/cpb-coalitieplannen-zorgen-waarschijnlijk-voor-meer-koopkracht-minder-tekort.jpg"
+        },
+        {
           "id": "article-6313755",
           "author": null,
           "description": "De waarde van de Russische roebel is naar het hoogste niveau gestegen in vier maanden. Dinsdagmiddag was 1 euro bijna 98 roebel waard.",
@@ -2221,6 +2256,21 @@
             "url": "https://images.nu.nl/m/qdcx8bnafwlc_sqr256/585/0/2662/2662/russische-roebel-stijgt-naar-hoogste-niveau-in-vier-maanden.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/qdcx8bnafwlc_sqr256/585/0/2662/2662/russische-roebel-stijgt-naar-hoogste-niveau-in-vier-maanden.jpg"
+        },
+        {
+          "id": "article-6313751",
+          "author": null,
+          "description": "Netbeheerder Alliander heeft samen met hogeschool Saxion een robothond ontwikkeld die ondergrondse gaslekken kan opsporen. De mechanische viervoeter moet uitkomst bieden bij het groeiende personeelstekort.",
+          "link": "https://www.nu.nl/tech/6313751/netbeheerder-alliander-maakt-robothond-die-gaslekken-opspoort.html",
+          "publishedOn": "2024-05-21T15:54:22.000Z",
+          "wordCount": 443,
+          "title": "Netbeheerder Alliander maakt robothond die gaslekken opspoort",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/u3ex3w2amtun_sqr256/1598/640/2707/2707/netbeheerder-alliander-maakt-robothond-die-gaslekken-opspoort.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/u3ex3w2amtun_sqr256/1598/640/2707/2707/netbeheerder-alliander-maakt-robothond-die-gaslekken-opspoort.jpg"
         },
         {
           "id": "article-6313751",
@@ -8191,21 +8241,6 @@
             "url": "https://images.nu.nl/m/8sgxrtpa9ssm_sqr256/108/0/3604/3604/consumenten-weer-iets-minder-negatief-over-economisch-klimaat.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/8sgxrtpa9ssm_sqr256/108/0/3604/3604/consumenten-weer-iets-minder-negatief-over-economisch-klimaat.jpg"
-        },
-        {
-          "id": "article-6309285",
-          "author": null,
-          "description": "Bezitters van zonnepanelen betalen bij steeds meer energiebedrijven een vergoeding voor het terugleveren van elektriciteit. Dat moet je stimuleren om zoveel mogelijk van je eigen opgewekte stroom te verbruiken. Zelfs zonder investering kun je het energieverbruik aanpassen aan de opwek.",
-          "link": "https://www.nu.nl/tech/6309285/besparen-op-je-energiekosten-pas-je-verbruik-aan-op-je-zonnepanelen.html",
-          "publishedOn": "2024-04-22T04:20:44.000Z",
-          "wordCount": 445,
-          "title": "NU+ | Besparen op je energiekosten: pas je verbruik aan op je zonnepanelen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/95xxt8ea5hdt_sqr256/543/0/3300/3300/besparen-op-je-energiekosten-pas-je-verbruik-aan-op-je-zonnepanelen.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/95xxt8ea5hdt_sqr256/543/0/3300/3300/besparen-op-je-energiekosten-pas-je-verbruik-aan-op-je-zonnepanelen.jpg"
         }
       ]
     },
@@ -8214,6 +8249,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8651757",
+          "author": "Bill McColl",
+          "description": "The Dow, S&P 500, and Nasdaq were little changed at midday Tuesday, May 21, 2024 as the market reacted to the latest corporate earnings news and comments from Federal Reserve officials about the future of interest rates.",
+          "link": "https://www.investopedia.com/top-stock-movers-now-peloton-ibm-eli-lilly-and-more-8651757",
+          "publishedOn": "2024-05-21T16:59:44.000Z",
+          "wordCount": 5132,
+          "title": "Top Stock Movers Now: Peloton, IBM, Eli Lilly, and More",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/UIAxjHDFinn3Ixhjess5Enb812A=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-20924838751-9a90e3a04a9d43c0ba9a9052ec75a910.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/UIAxjHDFinn3Ixhjess5Enb812A=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-20924838751-9a90e3a04a9d43c0ba9a9052ec75a910.jpg"
+        },
+        {
+          "id": "8651614",
+          "author": "Kyle Torpey",
+          "description": "The price of the native cryptocurrency of Ethereum rose sharply on Tuesday before giving up some of the gains, amid progress in the ether ETF approval process.",
+          "link": "https://www.investopedia.com/ether-rallies-as-market-gets-optimistic-about-ether-etf-approval-8651614",
+          "publishedOn": "2024-05-21T16:37:44.000Z",
+          "wordCount": 5828,
+          "title": "Ether Rallies as Market Gets Optimistic About Ether ETF Approval",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/amFQ1vgFgYkbnrYhzR24Gc1A1o4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/SECEtherETF-ad60abcacef74e60b04626d9cfa5db9e.png",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/amFQ1vgFgYkbnrYhzR24Gc1A1o4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/SECEtherETF-ad60abcacef74e60b04626d9cfa5db9e.png"
+        },
+        {
+          "id": "8651689",
+          "author": "Aaron McDade",
+          "description": "Shares of former President Donald Trump's media company, which owns Truth Social, sank in intraday trading Tuesday after reporting a $327.6 million loss in its first quarterly report as a public company.",
+          "link": "https://www.investopedia.com/trump-media-stock-slides-after-reporting-usd327-6m-q1-loss-8651689",
+          "publishedOn": "2024-05-21T16:18:46.000Z",
+          "wordCount": 5275,
+          "title": "Trump Media Stock Slides After Reporting $327.6M Q1 Loss",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ohIY9N5XeAE02-w_VjvmfyNG-8s=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2111708727-018a3d8bcf9544e8a2f510c722e84d0b.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ohIY9N5XeAE02-w_VjvmfyNG-8s=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2111708727-018a3d8bcf9544e8a2f510c722e84d0b.jpg"
+        },
         {
           "id": "8651658",
           "author": "Naomi Buchanan",
@@ -14682,6 +14762,56 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "social-security-fears-viral-claim-163012087.html",
+          "author": null,
+          "description": "Americans are increasingly afraid they won't receive the Social Security benefits they've contributed to, throughout their careers. According to The Associated Press, Social Security will be unable to pay full benefits to recipients starting in 2035. At this rate, it will only be able to pay 83% of benefits unless the government makes some policy changes. Don't Miss: The average American couple has saved this much money for retirement — How do you compare? Reddit user reveals his retirement acco",
+          "link": "https://finance.yahoo.com/news/social-security-fears-viral-claim-163012087.html",
+          "publishedOn": "2024-05-21T16:30:12.000Z",
+          "wordCount": 21311,
+          "title": "Social Security Fears Go Viral: Should You Claim Early Like Dave Ramsey Says?",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/22a237ebffcbd778b7d7e5a6d58526bc"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/research/magnificent-seven-stocks-to-buy-and-and-watch/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-05-21T16:08:42.000Z",
+          "wordCount": null,
+          "title": "Magnificent Seven Stocks: Nvidia Stock Reverses Higher, Tesla Rallies; Microsoft Hits Buy Point",
+          "imageUrl": null
+        },
+        {
+          "id": "us-federal-budget-crosses-grim-milestone-as-interest-payments-overtake-defense-spending-155521072.html",
+          "author": null,
+          "description": "Interest payments on the national debt are set to eclipse defense spending this year for the first time ever.",
+          "link": "https://finance.yahoo.com/news/us-federal-budget-crosses-grim-milestone-as-interest-payments-overtake-defense-spending-155521072.html",
+          "publishedOn": "2024-05-21T15:55:21.000Z",
+          "wordCount": 21788,
+          "title": "US federal budget crosses grim milestone as interest payments overtake defense spending",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/HrAO.yZYsx_2sDeuWnJrkw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjQ-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/9cd54c70-177d-11ef-bf9e-507a39fe02f3"
+        },
+        {
+          "id": "new-peacock-netflix-apple-tv-streaming-bundle-will-cost-15-a-month-comcast-says-155110203.html",
+          "author": null,
+          "description": "Streamers are combining forces in the race for loyal subscribers.",
+          "link": "https://finance.yahoo.com/news/new-peacock-netflix-apple-tv-streaming-bundle-will-cost-15-a-month-comcast-says-155110203.html",
+          "publishedOn": "2024-05-21T15:51:10.000Z",
+          "wordCount": 21169,
+          "title": "New Peacock, Netflix, Apple TV+ streaming bundle will cost $15 a month, Comcast says",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/vkFa1YT_ESSQ_qcY6FhQqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/50f86830-1789-11ef-affd-dee115cccac1"
+        },
+        {
+          "id": "1-ridiculously-undervalued-artificial-intelligence-154345444.html",
+          "author": null,
+          "description": "Given the rise of investor interest in artificial intelligence, finding an undervalued stock in this category is increasingly rare.",
+          "link": "https://finance.yahoo.com/news/1-ridiculously-undervalued-artificial-intelligence-154345444.html",
+          "publishedOn": "2024-05-21T15:43:45.000Z",
+          "wordCount": 20744,
+          "title": "1 Ridiculously Undervalued Artificial Intelligence (AI) Stock to Buy Hand Over Fist",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/6FoPclVpWssDCiEuyJ14gA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/f3eb0a1b68a9b024b31e732c774460fa"
+        },
+        {
           "id": "whats-going-ibm-shares-tuesday-153056724.html",
           "author": null,
           "description": "On Tuesday, the company said that it is exploring to make the IBM Granite model series available later this year for use across the Salesforce, Inc. (NYSE:CRM) Einstein 1 platform, with the aim to provide clients access to more models to enhance decision-making for AI CRM use cases. The Granite code models range from 3B to 34B parameters and come in both base and instruction-following model variants, which are suitable for tasks such as code generation and fixing bugs. Check This Out: IBM Ventur",
@@ -14722,6 +14852,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/QTqsQlHw5LpzJRz9hqOVrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/2d6cdf43dcbd2b31f2bf1cb59ee4d16f"
         },
         {
+          "id": "boeing-stock-price-new-jet-6f3ea64f?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/boeing-stock-price-new-jet-6f3ea64f?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-05-21T14:16:00.000Z",
+          "wordCount": null,
+          "title": "Boeing Won’t Design a New Jet. Blame GE.",
+          "imageUrl": null
+        },
+        {
           "id": "peloton-launches-1-billion-loan-201759119.html",
           "author": null,
           "description": "(Bloomberg) -- Peloton Interactive Inc. kicked off the sale of a new loan as it works to refinance existing debt and recover from a recent slump in sales.Most Read from BloombergHims Debuts $199 Weight-Loss Shots at 85% Discount to WegovyIran State TV Says ‘No Sign of Life’ at Helicopter Crash SiteJamie Dimon Says Succession at JPMorgan Is ‘Well on the Way’One of the Last Big Bears on Wall Street Turns Bullish on US StocksFlorida’s 125% Surge in Property-Insurance Bills Sows HavocThe fitness com",
@@ -14730,6 +14870,16 @@
           "wordCount": 21067,
           "title": "Peloton Begins Sale of $1 Billion Loan That May Yield 11.5%",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/yBTE_.ZhciARZWv9cf4kjg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/759b2311601ee8be5393be48765fab97"
+        },
+        {
+          "id": "once-cheater-always-cheater-m-105200124.html",
+          "author": null,
+          "description": "“I’m 50 years of age and only have $45,000 saved.”",
+          "link": "https://finance.yahoo.com/news/once-cheater-always-cheater-m-105200124.html",
+          "publishedOn": "2024-05-21T13:58:00.000Z",
+          "wordCount": 21741,
+          "title": "‘Once a cheater, always a cheater’: I’m the beneficiary on my ex-husband’s $250,000 life insurance. He’s now threatening to change it. Is he in breach of our divorce decree?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/47rUdojlOVa7pXi6kFf4fg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/303898b53983deed5892355b9a289824"
         },
         {
           "id": "tipranks-perfect-10-list-2-135212317.html",
@@ -43280,46 +43430,6 @@
           "wordCount": null,
           "title": "Russell 2000? It’s the Russell 2, Thanks to Super Micro and MicroStrategy.",
           "imageUrl": null
-        },
-        {
-          "id": "analysis-overdue-pullback-us-stocks-050451896.html",
-          "author": null,
-          "description": "The first sharp pullback for U.S. stocks in half a year is leaving investors wondering whether to buy the dip or hold out for more declines.  Following several turbulent weeks, the S&P 500 is down more than 5% from its March 28 closing high, its biggest retreat since October.  Many market participants believe the factors that drove the S&P 500 to a 10% gain in the first quarter - including resilient economic growth and excitement over artificial intelligence - remain in place and will support stocks over the long term.",
-          "link": "https://finance.yahoo.com/news/analysis-overdue-pullback-us-stocks-050451896.html",
-          "publishedOn": "2024-04-22T05:04:51.000Z",
-          "wordCount": 21519,
-          "title": "Analysis-'Overdue' pullback in US stocks to test dip-buyers' resolve",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/14e812940818950a424528fef459a094"
-        },
-        {
-          "id": "eight-ten-electric-cars-sold-050000942.html",
-          "author": null,
-          "description": "Almost eight in 10 new electric cars are being sold at a discount as the industry reels from falling consumer demand.",
-          "link": "https://finance.yahoo.com/news/eight-ten-electric-cars-sold-050000942.html",
-          "publishedOn": "2024-04-22T05:00:00.000Z",
-          "wordCount": 21098,
-          "title": "Electric cars sold at record discounts as demand plunges",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/vz9SLCTOzCtV2OONThh59A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/ae1091dfeae5f982f262bc4eab195856"
-        },
-        {
-          "id": "forget-nvidia-heres-1-other-050000546.html",
-          "author": null,
-          "description": "Demand for data center services are on the rise as businesses scramble around artificial intelligence (AI).",
-          "link": "https://finance.yahoo.com/news/forget-nvidia-heres-1-other-050000546.html",
-          "publishedOn": "2024-04-22T05:00:00.000Z",
-          "wordCount": 21326,
-          "title": "Forget Nvidia: Here's 1 Other Data Center Stock to Buy Instead",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/sDY.pYGG7GBYNfu87lVO5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/motleyfool.com/df755ce4d4abb78c661f73153b07e777"
-        },
-        {
-          "id": "tencent-shares-climb-most-months-045305722.html",
-          "author": null,
-          "description": "(Bloomberg) -- Tencent Holdings Ltd. shares staged their biggest rally since February after China’s biggest internet firm nailed down an earlier-than-anticipated debut of one of the year’s most eagerly-awaited mobile games.Most Read from BloombergElon Musk’s Robotaxi Dreams Plunge Tesla Into ChaosTikTok to Remove Executive Tasked With Fending Off US ClaimsTrump Has Only $6.8 Million for Legal Fees With Trial UnderwayTesla Spends Weekend Cutting Prices of Cars and FSD SoftwareThe Fed’s Forecastin",
-          "link": "https://finance.yahoo.com/news/tencent-shares-climb-most-months-045305722.html",
-          "publishedOn": "2024-04-22T04:53:05.000Z",
-          "wordCount": 21146,
-          "title": "Tencent Shares Climb Most in Months as Blockbuster Debuts Early",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/a1b63bb1346c0ebeaabb871b11e945d8"
         }
       ]
     }
