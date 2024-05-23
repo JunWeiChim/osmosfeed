@@ -2408,6 +2408,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6314031",
+          "author": null,
+          "description": "Supermarktconcern Jumbo heeft vanmiddag een reorganisatie aangekondigd, waardoor kantoorbanen verdwijnen. Topman Ton van Veen kan nog niet zeggen om hoeveel banen het gaat, maar dat \"het aantal arbeidsplaatsen zal afnemen, is helaas onvermijdelijk\".",
+          "link": "https://www.nu.nl/economie/6314031/jumbo-reorganiseert-en-schrapt-banen-op-kantoor.html",
+          "publishedOn": "2024-05-23T16:07:21.000Z",
+          "wordCount": 443,
+          "title": "Jumbo reorganiseert en schrapt banen op kantoor",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/9zoxdqpatlsl_sqr256/1149/6/3979/3979/jumbo-reorganiseert-en-schrapt-banen-op-kantoor.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/9zoxdqpatlsl_sqr256/1149/6/3979/3979/jumbo-reorganiseert-en-schrapt-banen-op-kantoor.jpg"
+        },
+        {
           "id": "article-6314010",
           "author": null,
           "description": "Vier actiegroepen doen donderdag aangifte tegen Booking.com. Het boekingsplatform verhuurt vakantiehuizen op de Westelijke Jordaanoever en steunt daarmee volgens de organisaties het illegale nederzettingenbeleid van Israël.",
@@ -8271,21 +8286,6 @@
             "url": "https://images.nu.nl/m/qw3xt98agijr_sqr256/1164/0/4672/4672/oudste-outletcenter-van-nederland-gaat-online.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/qw3xt98agijr_sqr256/1164/0/4672/4672/oudste-outletcenter-van-nederland-gaat-online.jpg"
-        },
-        {
-          "id": "article-6310098",
-          "author": null,
-          "description": "In Amsterdam betaal je gemiddeld 2.275 euro huur voor een appartement. De Kamer wil een einde maken aan deze zogenaamde woekerhuren. Het wetsvoorstel hiervoor stevent dankzij de PVV af op een meerderheid. Vier vragen over deze ingrijpende maatregel.",
-          "link": "https://www.nu.nl/politiek/6310098/vier-vragen-over-veelbesproken-wet-die-woekerhuren-aan-banden-legt.html",
-          "publishedOn": "2024-04-24T04:06:54.000Z",
-          "wordCount": 443,
-          "title": "NU+ | Vier vragen over veelbesproken wet die woekerhuren aan banden legt",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/kjbxqhyae5hj_sqr256/0/0/2928/2928/vier-vragen-over-veelbesproken-wet-die-woekerhuren-aan-banden-legt.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/kjbxqhyae5hj_sqr256/0/0/2928/2928/vier-vragen-over-veelbesproken-wet-die-woekerhuren-aan-banden-legt.jpg"
         }
       ]
     },
@@ -8294,6 +8294,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8652856",
+          "author": "Aaron McDade",
+          "description": "A deal between ChatGPT maker OpenAI and News Corp could have wide-ranging implications for the media industry.",
+          "link": "https://www.investopedia.com/newscorp-openai-deal-future-of-publishing-ai-8652856",
+          "publishedOn": "2024-05-23T15:54:24.000Z",
+          "wordCount": 5700,
+          "title": "What News Corp's Deal With OpenAI Says About Future of Publishing, AI",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/mkKkJzJKrm-VAWMdNHfzY9FVrsA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1244073601-f4e5f70b47b54632b5d0ebc95f4b4b25.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/mkKkJzJKrm-VAWMdNHfzY9FVrsA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1244073601-f4e5f70b47b54632b5d0ebc95f4b4b25.jpg"
+        },
+        {
+          "id": "8652846",
+          "author": "Fatima Attarwala",
+          "description": "China’s largest chipmaker, Semiconductor Manufacturing International Co., became the world’s third-largest foundry in terms of revenue in the first quarter, according to Counterpoint Research, trailing Taiwan Semiconductor Manufacturing Company and Samsung Foundry.",
+          "link": "https://www.investopedia.com/china-s-smic-surges-in-global-foundry-market-share-ranking-8652846",
+          "publishedOn": "2024-05-23T15:54:04.000Z",
+          "wordCount": 5252,
+          "title": "China's SMIC Surges in Global Foundry Market Share Ranking",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/inPbaN2SqJcf_EB72MNhw8ImXtY=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1933434329-cd6157cd8a744db88a3e9febf72520c1.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/inPbaN2SqJcf_EB72MNhw8ImXtY=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1933434329-cd6157cd8a744db88a3e9febf72520c1.jpg"
+        },
         {
           "id": "8652850",
           "author": "Naomi Buchanan",
@@ -14747,6 +14777,36 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "realty-income-raises-dividends-again-150833504.html",
+          "author": null,
+          "description": "Like a star athlete who has an off year or two due to injury, sometimes a stock or sector that has performed superbly over a long period may languish due to the current economic climate. The inflationary period since 2021 has created headwinds for ...",
+          "link": "https://finance.yahoo.com/news/realty-income-raises-dividends-again-150833504.html",
+          "publishedOn": "2024-05-23T15:08:33.000Z",
+          "wordCount": 21747,
+          "title": "Realty Income Raises Dividends Again: Is Now A Good Time To Buy It?",
+          "imageUrl": "https://media.zenfs.com/en/benzinga_79/7cbced0968cfd67c54ae38979b5e9489"
+        },
+        {
+          "id": "10-shocking-points-nvidia-stock-143045932.html",
+          "author": null,
+          "description": "Nvidia is building a colossal cash position, but what will it do with it?",
+          "link": "https://finance.yahoo.com/news/10-shocking-points-nvidia-stock-143045932.html",
+          "publishedOn": "2024-05-23T14:30:45.000Z",
+          "wordCount": 20732,
+          "title": "10 Shocking Points Nvidia Stock Investors Should Know After Earnings",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/2Fq7r6xG1zjTt1ua95i7Vw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/b727d3132f68380f3d39a308326d7e35"
+        },
+        {
+          "id": "200-000-lump-sum-1-142220984.html",
+          "author": null,
+          "description": "If you have a pension, your employer will usually give you a choice at retirement: buyout or payments. It's important to review this carefully. In broad terms, many make this choice based on expected lifetime returns. If you take and invest the buyout, what can you reasonably expect in portfolio returns? How will that expectation […] The post Should I Take a $200,000 Lump Sum or $1,850 Monthly Payments for My Pension? appeared first on SmartReads by SmartAsset.",
+          "link": "https://finance.yahoo.com/news/200-000-lump-sum-1-142220984.html",
+          "publishedOn": "2024-05-23T14:22:20.000Z",
+          "wordCount": 22140,
+          "title": "Should I Take a $200,000 Lump Sum or $1,850 Monthly Payments for My Pension?",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        },
+        {
           "id": "us-business-activity-quickens-may-134955083.html",
           "author": null,
           "description": "U.S. business activity accelerated to the highest level in just over two years in May, but manufacturers reported a surge in prices for a range of inputs, suggesting that goods inflation could pick up in the months ahead.  S&P Global said on Thursday that its flash U.S. Composite PMI Output Index, which tracks the manufacturing and services sectors, jumped to 54.4 this month.  The increase was driven by the services sector, with the flash PMI rising to 54.8 from 51.3 in April.",
@@ -15197,6 +15257,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/jutXh.RdaTcIBZluIkk6ng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/c6f677f35e295d47978ca3f6d38c55c2"
         },
         {
+          "id": "rolls-royce-wins-contract-us-060000688.html",
+          "author": null,
+          "description": "Rolls-Royce has been chosen to supply technology for a new version of the American military aircraft nicknamed the “Doomsday plane” for its ability to survive a nuclear blast.",
+          "link": "https://www.yahoo.com/tech/rolls-royce-wins-contract-us-060000688.html",
+          "publishedOn": "2024-05-23T06:00:00.000Z",
+          "wordCount": 18857,
+          "title": "Rolls-Royce wins contract for US military’s nuke-proof ‘doomsday plane’",
+          "imageUrl": "https://media.zenfs.com/en/the_telegraph_258/b1df43ae69b8a802828e3bfcfad4f858"
+        },
+        {
           "id": "amd-stock-pick-nvidia-ai-chips-winner-e03fba9c?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "",
@@ -15465,6 +15535,16 @@
           "wordCount": 21813,
           "title": "Bush, Obama, Trump, or Biden: Here's How Much Money You Would Have if You Had Invested $10,000 in the S&P 500 on Day 1 of the Last 4 Administrations",
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/232e5149bb7bc3e283dba8c225a4ac7d"
+        },
+        {
+          "id": "nvidia-stock-pops-9-tops-1000-after-earnings-beat-forecasts-announces-stock-split-and-dividend-hike-202405060.html",
+          "author": null,
+          "description": "Nvidia reported its fiscal first quarter earnings after the bell on Wednesday, beating analysts' expectations on the top and bottom lines while raising its dividend and announcing a 10-for-1 stock split.",
+          "link": "https://finance.yahoo.com/news/nvidia-stock-pops-9-tops-1000-after-earnings-beat-forecasts-announces-stock-split-and-dividend-hike-202405060.html",
+          "publishedOn": "2024-05-22T20:24:05.000Z",
+          "wordCount": 21611,
+          "title": "Nvidia stock pops 9%, tops $1,000 after earnings beat forecasts, announces stock split and dividend hike",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/SZTVBIiHq6P865mK0VZTjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTQ-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/098b16c0-e587-11ee-b797-1a524e038d19"
         },
         {
           "id": "nvidia-stock-pops-9-tops-1000-after-earnings-beat-forecasts-it-announces-stock-split-and-dividend-hike-202405420.html",
@@ -43005,26 +43085,6 @@
           "wordCount": 21322,
           "title": "Down 90%, Is Zoom Stock (NASDAQ:ZM) Finally a Buy?",
           "imageUrl": "https://media.zenfs.com/en/tipranks_452/dd76779ea4e45f9e8d20e2d63cab4a9c"
-        },
-        {
-          "id": "stock-market-today-us-stocks-201020871.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/stock-market-today-us-stocks-201020871.html",
-          "publishedOn": "2024-04-24T04:10:20.000Z",
-          "wordCount": null,
-          "title": "Stock market today: US stocks climb ahead of Tesla and mega-cap tech earnings",
-          "imageUrl": null
-        },
-        {
-          "id": "enphase-energy-enph-q1-2024-033011309.html",
-          "author": null,
-          "description": "ENPH earnings call for the period ending March 31, 2024.",
-          "link": "https://finance.yahoo.com/news/enphase-energy-enph-q1-2024-033011309.html",
-          "publishedOn": "2024-04-24T03:30:11.000Z",
-          "wordCount": 34283,
-          "title": "Enphase Energy (ENPH) Q1 2024 Earnings Call Transcript",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73"
         }
       ]
     }
