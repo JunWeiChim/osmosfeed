@@ -2418,6 +2418,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6314680",
+          "author": null,
+          "description": "Klussers wisten hun weg naar de bouwmarkten Gamma en Karwei afgelopen jaar goed te vinden. Zij zochten vooral naar gereedschap en materialen en waren ook op zoek naar inspiratie en advies.",
+          "link": "https://www.nu.nl/economie/6314680/klussers-weten-hun-weg-te-vinden-naar-bouwmarkten-gamma-en-karwei.html",
+          "publishedOn": "2024-05-29T06:10:35.000Z",
+          "wordCount": 443,
+          "title": "Klussers weten hun weg te vinden naar bouwmarkten Gamma en Karwei",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/wa1xtava6aj5_sqr256/481/0/2079/2079/klussers-weten-hun-weg-te-vinden-naar-bouwmarkten-gamma-en-karwei.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/wa1xtava6aj5_sqr256/481/0/2079/2079/klussers-weten-hun-weg-te-vinden-naar-bouwmarkten-gamma-en-karwei.jpg"
+        },
+        {
           "id": "article-6313308",
           "author": null,
           "description": "De Europarlementariërs die we in juni kunnen kiezen beheren een steeds grotere pot met geld. Zij controleren en beslissen mee over ongeveer 190 miljard euro dit jaar. Bijna 10 miljard hiervan komt uit Nederland. Waar gaat al dat geld naartoe?",
@@ -13878,21 +13893,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/z4C9P-S5KAJu6xBJNDviLGEgLZU=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/HowShortSellersLookThroughtheMuddyWatersofFilingsforFraud-e2b1f3823bc44095a8fc57b87af14665.jpg"
-        },
-        {
-          "id": "8640293",
-          "author": "Naomi Buchanan",
-          "description": "Advanced Micro Devices will report earnings after the bell Tuesday, with investors likely watching for data center revenue strength and the impact of artificial intelligence demand.",
-          "link": "https://www.investopedia.com/amd-q1-2024-earnings-preview-8640293",
-          "publishedOn": "2024-04-29T17:51:56.000Z",
-          "wordCount": 5598,
-          "title": "What You Need To Know Ahead of AMD's Earnings Report",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/GYEnOVNCsC_zJS55rp_0BVAx974=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2074381073-b96f4e1f5660488eb6c65891759684b9.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/GYEnOVNCsC_zJS55rp_0BVAx974=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2074381073-b96f4e1f5660488eb6c65891759684b9.jpg"
         }
       ]
     },
@@ -13901,6 +13901,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "market-asia-people-ask-derisk-050634741.html",
+          "author": null,
+          "description": "A European private wealth manager in Hong Kong told me last week he recently got the catalyst he needed to land a Taiwanese billionaire's account: geopolitics.  The billionaire was down to two major wealth managers -- UBS and JPMorgan Chase -- after Credit Suisse’s demise last year.  In recent years, as the Sino-U.S. saber rattling has increased, I have repeatedly heard from sources in the United States about how companies and investors are de-risking from China, building resiliency in their supply chains, reducing their exposure and putting a higher risk premium to business there.",
+          "link": "https://finance.yahoo.com/news/market-asia-people-ask-derisk-050634741.html",
+          "publishedOn": "2024-05-29T05:06:34.000Z",
+          "wordCount": 21405,
+          "title": "In the Market: In Asia, people ask, how do I derisk from America?",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/2934e7b8466359a340af6ce2d33e69b2"
+        },
         {
           "id": "asian-stocks-trend-lower-treasuries-221932714.html",
           "author": null,
@@ -13930,6 +13940,16 @@
           "wordCount": null,
           "title": "Dow Jones Futures Fall After Surging Nvidia Masks Market Weakness; Cava Slides Late",
           "imageUrl": null
+        },
+        {
+          "id": "67x-earnings-chipotle-stock-nyse-015110770.html",
+          "author": null,
+          "description": "Chipotle Mexican Grill (NYSE:CMG) owns and operates over 3,400 Mexican restaurants across five different countries. Investors have bid up its shares to 67x earnings, touting the company’s growth, drive-throughs, recession-resistant demand, and balance sheet. However, at current interest rates, Chipotle’s valuation is a market anomaly. The yield on government bonds far exceeds Chipotle’s earnings yield, even into the distant future. Therefore, I’m bearish on Chipotle stock. CMG stock has gained 3",
+          "link": "https://finance.yahoo.com/news/67x-earnings-chipotle-stock-nyse-015110770.html",
+          "publishedOn": "2024-05-29T01:51:10.000Z",
+          "wordCount": 19125,
+          "title": "At 67x Earnings, Chipotle Stock (NYSE:CMG) Is a Market Anomaly",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/58a6c7deff6a17ff0f140f565f3ea032"
         },
         {
           "id": "cathie-woods-ark-buys-stake-235904029.html",
@@ -41060,96 +41080,6 @@
           "wordCount": 22000,
           "title": "'I'm 53 Years Old, Have Absolutely Nothing For Retirement, I'm $50,000 In Debt, And I Want A Divorce' — Dave Ramsey's Advice To Truck Driver",
           "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
-        },
-        {
-          "id": "asana-ceo-calls-tesla-next-181249269.html",
-          "author": null,
-          "description": "“I guess just a PSA to investors out there: You only get eventual justice with the SEC, if you even get that,” Asana CEO Dustin Moskovitz said.",
-          "link": "https://finance.yahoo.com/news/asana-ceo-calls-tesla-next-181249269.html",
-          "publishedOn": "2024-04-29T18:12:49.000Z",
-          "wordCount": 21861,
-          "title": "Asana CEO calls Tesla the next Enron and says Elon Musk has misled customers",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/S0bpl4U0CerEST.HCsLB6g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/f0c7178df9c5e880b2f1aac26d3a9b13"
-        },
-        {
-          "id": "nycb-delays-annual-shareholders-meeting-181232491.html",
-          "author": null,
-          "description": "NYCB did not immediately respond to a Reuters request for comment seeking details about the delay.  The bank has been under pressure since January when it posted a surprise loss for the fourth quarter due to higher provisions tied to its exposure to the commercial real estate portfolio.  NYCB's acquisition of Flagstar Bank in 2022 and some assets of failed Signature Bank last year had pushed it above the $100-billion threshold.",
-          "link": "https://finance.yahoo.com/news/nycb-delays-annual-shareholders-meeting-181232491.html",
-          "publishedOn": "2024-04-29T18:12:32.000Z",
-          "wordCount": 21373,
-          "title": "NYCB delays annual shareholders meeting by two weeks",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/762d9132f08a0752383154d5791173c7"
-        },
-        {
-          "id": "warren-buffett-quote-perfectly-explains-180800805.html",
-          "author": null,
-          "description": "Intel stock just flopped again. It's become a pattern.",
-          "link": "https://finance.yahoo.com/news/warren-buffett-quote-perfectly-explains-180800805.html",
-          "publishedOn": "2024-04-29T18:08:00.000Z",
-          "wordCount": 22290,
-          "title": "This Warren Buffett Quote Perfectly Explains Why Intel Stock Is Best Avoided",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/a30f2f249ebc040ee6519fb0deb03011"
-        },
-        {
-          "id": "whats-going-sofi-technologies-stock-180015833.html",
-          "author": null,
-          "description": "SoFi Technologies Inc. (NASDAQ:SOFI) shares reversed their gains after the company reported fiscal first-quarter 2024 results on Monday. Adjusted revenue increased 26% year-on-year to $580.648 million, beating the consensus of $555.997 million. The adjusted EPS of $0.02 beat the consensus of $0.01. SoFi added 622,000 new members in the quarter, bringing its total member count to over 8.1 million (+44% Y/Y). SoFi also added over 989,000 new products in the quarter, for a total of over 11.8 millio",
-          "link": "https://finance.yahoo.com/news/whats-going-sofi-technologies-stock-180015833.html",
-          "publishedOn": "2024-04-29T18:00:15.000Z",
-          "wordCount": 21584,
-          "title": "What's Going On With SoFi Technologies Stock Monday?",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/5cd5ec96e02c7e18e549c91e9bd6e19c"
-        },
-        {
-          "id": "heres-1-artificial-intelligence-ai-180000555.html",
-          "author": null,
-          "description": "Artificial intelligence is garnering a lot of hype right now, but one notable name in the space is falling behind.",
-          "link": "https://finance.yahoo.com/news/heres-1-artificial-intelligence-ai-180000555.html",
-          "publishedOn": "2024-04-29T18:00:00.000Z",
-          "wordCount": 22020,
-          "title": "Here's 1 Artificial Intelligence (AI) Stock I'm Avoiding Like the Plague",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/4905b4f6b56f1004ffef10061691292f"
-        },
-        {
-          "id": "want-retire-early-dave-ramseys-175401357.html",
-          "author": null,
-          "description": "Retiring early might sound like a fantasy, especially in today’s economic climate, but financial guru Dave Ramsey assures us it’s entirely possible with the right strategies—one of the most potent being an investment in real estate. In his recent ...",
-          "link": "https://finance.yahoo.com/news/want-retire-early-dave-ramseys-175401357.html",
-          "publishedOn": "2024-04-29T17:54:01.000Z",
-          "wordCount": 19099,
-          "title": "Want To Retire Early? Dave Ramsey's Surprising Tip to Fast-Track Your Retirement",
-          "imageUrl": "https://media.zenfs.com/en/benzinga_79/565416af5772024f20a446a91503f1a6"
-        },
-        {
-          "id": "2-strong-buy-penny-stocks-173700369.html",
-          "author": null,
-          "description": "‘Audentes Fortuna iuvat,’ wrote Virgil in his classic epic, the Aeneid. The saying, translated as ‘Fortune favors the bold,’ means that Fortuna, the Goddess of luck, is more likely to help those who take risks or action. The stock market gives us one of the clearest examples of this principle with penny stocks. These low-cost shares, listed at $5 or less, present a rock-bottom entry point, making them true gold for the risk-tolerant investor. The appeal is clear. For the same price as one share",
-          "link": "https://finance.yahoo.com/news/2-strong-buy-penny-stocks-173700369.html",
-          "publishedOn": "2024-04-29T17:37:00.000Z",
-          "wordCount": 22599,
-          "title": "These 2 ‘Strong Buy’ Penny Stocks Could Rally to $9, Says Piper Sandler",
-          "imageUrl": "https://media.zenfs.com/en/tipranks_452/8d36b5c89a47b22b8df8897b34b08898"
-        },
-        {
-          "id": "why-sofi-technologies-stock-dropped-173305304.html",
-          "author": null,
-          "description": "At 14 times predicted 2026 earnings, the stock looks cheap.",
-          "link": "https://finance.yahoo.com/news/why-sofi-technologies-stock-dropped-173305304.html",
-          "publishedOn": "2024-04-29T17:33:05.000Z",
-          "wordCount": 21549,
-          "title": "Why SoFi Technologies Stock Dropped 10% on Earnings Monday",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/RQr9hefzge5fGo8uvr2Jkw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/5739f82c6774548f73f5f373c3082369"
-        },
-        {
-          "id": "happen-warren-buffett-bailed-apple-172823491.html",
-          "author": null,
-          "description": "Apple Inc. (NASDAQ:AAPL), now the world’s second most valuable company, has had a challenging year so far in 2024. The tech giant has lost significant market share in China to domestic rival Huawei, and the U.S. Department of Justice (DOJ) recently ...",
-          "link": "https://finance.yahoo.com/news/happen-warren-buffett-bailed-apple-172823491.html",
-          "publishedOn": "2024-04-29T17:28:23.000Z",
-          "wordCount": 21983,
-          "title": "What Would Happen If Warren Buffett Bailed On Apple And Sold All Of Berkshire Hathaway's Shares?",
-          "imageUrl": "https://media.zenfs.com/en/benzinga_79/1889ecd71fd595936c927725f6010fe4"
         }
       ]
     }
