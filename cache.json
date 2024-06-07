@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "9d0b076b34c372097a1e9ab2dbdd44c1",
+          "author": "Investopedia",
+          "description": "GameStop unexpectedly announced first-quarter fiscal 2024 results before the bell Friday, adding to the stock's recent volatility.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8166cae70cb15329c59f69eef42360dd140d977d8039a39c4b2543c8269c20c2871f7f8ef53db3e7e633afb0d878fc75bd7b",
+          "publishedOn": "2024-06-07T12:00:00.000Z",
+          "wordCount": 411,
+          "title": "GameStop Stock Sinks After Unexpectedly Releasing Results, Issuing More Shares",
+          "imageUrl": null
+        },
+        {
           "id": "c09f738d996bbb60be7366cfbaa090a0",
           "author": "Investopedia",
           "description": "Samsara shares dropped more than 6% in late trading on Thursday even as the fleet-management software provider reported quarterly results above analysts’ expectations and lifted its full-year earnings and sales outlooks. Monitor this important chart level.",
@@ -1900,6 +1910,16 @@
       "feedUrl": "https://rss.app/feeds/UWnMV6nTNN8mPDUG.xml",
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
+        {
+          "id": "7765f11234b18cc41a45524163e66697",
+          "author": "Investopedia",
+          "description": "U.S. stock futures were down following the release of a stronger-than-expected jobs report, potentially complicating the Federal Reserve's path to interest rate cuts later this year.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c214099367d768e3c60f73128e32cc6784",
+          "publishedOn": "2024-06-07T12:00:00.000Z",
+          "wordCount": 411,
+          "title": "Dow Jones Today: Stock Futures Fall, Treasury Yields Jump After Strong Jobs Report",
+          "imageUrl": null
+        },
         {
           "id": "73d6a25381bb3b9e681b2176b686c258",
           "author": "Investopedia",
@@ -13953,21 +13973,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/aEl00esmbd9jcd5hbBbIU43cTPA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/APPChart-abd2b7d651734695b51f2e29b1e03d01.GIF"
-        },
-        {
-          "id": "8645713",
-          "author": "Timothy Smith",
-          "description": "Watch this Key Chart Area",
-          "link": "https://www.investopedia.com/airbnb-stock-slides-as-soft-outlook-overshadows-strong-q1-results-8645713",
-          "publishedOn": "2024-05-09T01:42:01.000Z",
-          "wordCount": 5420,
-          "title": "Airbnb Stock Slides as Soft Outlook Overshadows Strong Q1 Results",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/WTgUYhNZ0PYtMsPFX5oe3f_XQhM=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/ABNBChart-8b12a0fda4b7420881b91cda041e7a6a.GIF",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/WTgUYhNZ0PYtMsPFX5oe3f_XQhM=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/ABNBChart-8b12a0fda4b7420881b91cda041e7a6a.GIF"
         }
       ]
     },
@@ -13976,6 +13981,36 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/biomea-stock-fda-clinical-hold-diabetes-treatment/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-06-07T13:58:28.000Z",
+          "wordCount": null,
+          "title": "Biomea Fusion Crashes 67% After FDA Puts Diabetes Treatment Studies On Hold",
+          "imageUrl": null
+        },
+        {
+          "id": "gamestop-stock-tanks-ahead-of-roaring-kitty-livestream-on-earnings-miss-stock-sale-plan-134833373.html",
+          "author": null,
+          "description": "GameStop stock tanked after the company unexpectedly released quarterly results and announced an additional share sale.",
+          "link": "https://finance.yahoo.com/news/gamestop-stock-tanks-ahead-of-roaring-kitty-livestream-on-earnings-miss-stock-sale-plan-134833373.html",
+          "publishedOn": "2024-06-07T13:48:33.000Z",
+          "wordCount": 20175,
+          "title": "GameStop stock tanks ahead of 'Roaring Kitty' livestream on earnings miss, stock sale plan",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/yBUanbOYfy4G5cPwg.LO0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/be504fe0-21e0-11ef-bedd-0cbd3e42bcce"
+        },
+        {
+          "id": "stock-market-today-stocks-slip-after-jobs-report-smashes-expectations-133119441.html",
+          "author": null,
+          "description": "Investors are looking to the monthly jobs report for signs of labor market cooldown pivotal to the odds for a rate cut.",
+          "link": "https://finance.yahoo.com/news/stock-market-today-stocks-slip-after-jobs-report-smashes-expectations-133119441.html",
+          "publishedOn": "2024-06-07T13:31:19.000Z",
+          "wordCount": 20942,
+          "title": "Stock market today: Stocks slip after jobs report smashes expectations",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/6tj.LPFa_M30SubhyRl0Gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/da90e240-e4f6-11ee-bfff-4c51209e7252"
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
@@ -14417,6 +14452,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/28IKC3YGoHuFSYgKq_Uk6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_technology_68/59612622b4781704b789cd6c0f458809"
         },
         {
+          "id": "zombies-ranks-worlds-most-debt-052247168.html",
+          "author": null,
+          "description": "They are called zombies, companies so laden with debt that they are just stumbling by on the brink of survival, barely able to pay even the interest on their loans and often just a bad business hit away from dying off for good.  An Associated Press analysis found their numbers have soared to nearly 7,000 publicly traded companies around the world — 2,000 in the United States alone — whiplashed by years of piling up cheap debt followed by stubborn inflation that has pushed borrowing costs to decade highs.  “They’re going to get crushed,” Valens Securities Managing Director Robert Spivey said of the weakest zombies.",
+          "link": "https://finance.yahoo.com/news/zombies-ranks-worlds-most-debt-052247168.html",
+          "publishedOn": "2024-06-07T05:22:47.000Z",
+          "wordCount": 23215,
+          "title": "Zombies: Ranks of world's most debt-hobbled companies are soaring, and not all will survive",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/4SlR79_H_qm7uDbjOKSUSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/13e97c0178868a96d386ef6bc8f8392a"
+        },
+        {
           "id": "2-strong-buy-dividend-stocks-044041196.html",
           "author": null,
           "description": "The S&P 500 gained 24% in 2023, and is up more than 12% so far this year. Those are substantial numbers, and it’s tempting to think that these good times will just keep rolling along. Ed Yardeni, the market expert behind Yardeni Research, is bullish – but he’s also both cautious and realistic. He believes that the markets will continue to post gains this year, albeit at a slower pace than we’ve seen recently. He puts a 5,400 target on the S&P 500 index, suggesting just a 1% gain from current lev",
@@ -14745,6 +14790,16 @@
           "wordCount": 20143,
           "title": "'Maybe I Will' Roaring Kitty's Last Comment On Reddit 3 Years Ago Foreshadowed 2024",
           "imageUrl": "https://media.zenfs.com/en/Benzinga/c5266246bd8d25a8ac3748a89aca7a1a"
+        },
+        {
+          "id": "humana-cvs-downsizing-medicare-advantage-143026371.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/humana-cvs-downsizing-medicare-advantage-143026371.html",
+          "publishedOn": "2024-06-06T14:30:26.000Z",
+          "wordCount": null,
+          "title": "Humana and CVS are downsizing their Medicare Advantage plans for 2025. Which insurers could benefit?",
+          "imageUrl": null
         },
         {
           "id": "snowflake-hit-data-breach-whats-141942232.html",
@@ -41275,16 +41330,6 @@
           "wordCount": 21805,
           "title": "‘Jump on the Bandwagon,’ Says Bank of America About These 2 Stock Picks",
           "imageUrl": "https://media.zenfs.com/en/tipranks_452/a032fe09984da8c6a8f32cbdad7ad84c"
-        },
-        {
-          "id": "stocks-could-tank-ill-advised-014157388.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/stocks-could-tank-ill-advised-014157388.html",
-          "publishedOn": "2024-05-09T01:41:57.000Z",
-          "wordCount": null,
-          "title": "Stocks could tank after an ill-advised 'melt-up' if the Fed cuts rates to avoid recession",
-          "imageUrl": null
         }
       ]
     }
