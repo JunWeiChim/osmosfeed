@@ -2768,6 +2768,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6315890",
+          "author": null,
+          "description": "De voedselprijzen zijn in mei wereldwijd opnieuw gestegen, aangezien er meer betaald moet worden voor granen en zuivelproducten. De prijzen voor suiker en plantaardige oliën waren juist lager.",
+          "link": "https://www.nu.nl/economie/6315890/wereldwijde-voedselprijzen-stijgen-voor-derde-maand-op-rij.html",
+          "publishedOn": "2024-06-07T09:51:56.000Z",
+          "wordCount": 445,
+          "title": "Wereldwijde voedselprijzen stijgen voor derde maand op rij",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/8oux5k0aqc47_sqr256/995/0/3996/3996/wereldwijde-voedselprijzen-stijgen-voor-derde-maand-op-rij.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/8oux5k0aqc47_sqr256/995/0/3996/3996/wereldwijde-voedselprijzen-stijgen-voor-derde-maand-op-rij.jpg"
+        },
+        {
           "id": "article-6315871",
           "author": null,
           "description": "De nieuwe bankbiljetten met het portret van de Britse koning Charles kunnen nog niet overal in het Verenigd Koninkrijk worden gebruikt. Zo worden de briefjes niet geaccepteerd door ticketautomaten van de metro in de Schotse stad Glasgow.",
@@ -13793,21 +13808,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/WTgUYhNZ0PYtMsPFX5oe3f_XQhM=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/ABNBChart-8b12a0fda4b7420881b91cda041e7a6a.GIF"
-        },
-        {
-          "id": "8645295",
-          "author": "Naomi Buchanan",
-          "description": "Arm Holdings reported fourth-quarter earnings and revenue Wednesday beating analysts' estimates, though the company's shares tumbled in extended trading as its guidance came short of expectations.",
-          "link": "https://www.investopedia.com/arm-q4-fy-2024-earnings-8645295",
-          "publishedOn": "2024-05-08T21:46:39.000Z",
-          "wordCount": 5244,
-          "title": "Arm Stock Plunges Despite Revenue, Earnings Beat as Guidance Misses Expectations",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Y_gJMzDOCveC9dpNFw76nPlxCGg=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1650938364-a2d62db69b3d46db92ce75d7c672466b.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Y_gJMzDOCveC9dpNFw76nPlxCGg=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1650938364-a2d62db69b3d46db92ce75d7c672466b.jpg"
         }
       ]
     },
@@ -13816,6 +13816,56 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "billionaire-ken-griffin-goes-bargain-095000403.html",
+          "author": null,
+          "description": "Are the stocks the billionaire investor has been buying still good picks?",
+          "link": "https://finance.yahoo.com/news/billionaire-ken-griffin-goes-bargain-095000403.html",
+          "publishedOn": "2024-06-07T09:50:00.000Z",
+          "wordCount": 20213,
+          "title": "Billionaire Ken Griffin Goes Bargain Hunting: 3 Stocks He Just Bought",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/6bfb1458e5f80f7d3c17cf13c90d3afb"
+        },
+        {
+          "id": "2-top-stocks-buy-dip-094500345.html",
+          "author": null,
+          "description": "A high-growth fintech superstar and a deeply discounted global solar giant.",
+          "link": "https://finance.yahoo.com/news/2-top-stocks-buy-dip-094500345.html",
+          "publishedOn": "2024-06-07T09:45:00.000Z",
+          "wordCount": 19689,
+          "title": "2 Top Stocks to Buy on the Dip Before They Skyrocket",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/QDMK6qc431xCYuRlG4GwXA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/26b70ab477b0a4ad8a7de1b3cd831908"
+        },
+        {
+          "id": "nvidia-stock-soar-stock-split-091600443.html",
+          "author": null,
+          "description": "History might not be the best guide in predicting how Nvidia stock will perform after its 10-for-1 stock split.",
+          "link": "https://finance.yahoo.com/news/nvidia-stock-soar-stock-split-091600443.html",
+          "publishedOn": "2024-06-07T09:16:00.000Z",
+          "wordCount": 20357,
+          "title": "Will Nvidia Stock Soar After Its Stock Split? Here's What History Shows.",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/06b63b96a71a0ff1ab4083c054bdfc2f"
+        },
+        {
+          "id": "really-1m-retirement-savings-not-091427748.html",
+          "author": null,
+          "description": "A prominent economist argues that you can retire on savings much less than $1 million.",
+          "link": "https://finance.yahoo.com/news/really-1m-retirement-savings-not-091427748.html",
+          "publishedOn": "2024-06-07T09:14:27.000Z",
+          "wordCount": 20860,
+          "title": "Do we really need $1M in retirement savings? Not even close, one top economist says",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/9KX9CbE1iBfCKpWFHupkuQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04ODk-/https://media.zenfs.com/en/usa_today_money_325/1b171c8c70ff0753adbe30143b779478"
+        },
+        {
+          "id": "3-magnificent-stocks-warren-buffett-090600991.html",
+          "author": null,
+          "description": "The Oracle of Omaha has collectively spent $96 billion buying shares of three time-tested companies.",
+          "link": "https://finance.yahoo.com/news/3-magnificent-stocks-warren-buffett-090600991.html",
+          "publishedOn": "2024-06-07T09:06:00.000Z",
+          "wordCount": 20686,
+          "title": "3 Magnificent Stocks Warren Buffett Can't Stop Buying",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/O7I0mDaxJWSoNhLCSmU5Og--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/d546709c8b594d5be3b16798683d095c"
+        },
         {
           "id": "3-dow-stocks-no-brainer-082100898.html",
           "author": null,
@@ -40775,36 +40825,6 @@
           "wordCount": null,
           "title": "This chart shows just how absurd Trump Media's valuation is",
           "imageUrl": null
-        },
-        {
-          "id": "arm-shares-fall-company-gives-202233765.html",
-          "author": null,
-          "description": "(Bloomberg) -- Arm Holdings Plc shares tumbled after the chip designer gave a lukewarm revenue forecast for the fiscal year, raising concerns that the tech industry’s artificial intelligence spending spree is slowing. Most Read from BloombergMicrosoft’s Xbox Is Planning More Cuts After Studio ClosingsAmericans Are Racking Up ‘Phantom Debt’ That Wall Street Can’t TrackStormy Daniels Will Return to Court in Test of Trump’s DemeanorTrump Judge Indefinitely Postpones Documents Case TrialFor fiscal 2",
-          "link": "https://finance.yahoo.com/news/arm-shares-fall-company-gives-202233765.html",
-          "publishedOn": "2024-05-08T22:08:23.000Z",
-          "wordCount": 10010,
-          "title": "Arm Shares Fall After Company Gives Tepid Annual Forecast",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_technology_68/304e609103f1bb39adaf1c60dc0e686b"
-        },
-        {
-          "id": "ibm-red-hat-sued-stephen-203247923.html",
-          "author": null,
-          "description": "(Bloomberg Law) -- Ex-Trump adviser Stephen Miller’s legal group has sued IBM Corp. subsidiary Red Hat Inc. claiming the company’s diversity goals led to the discriminatory treatment and termination of a former White male employee. Most Read from BloombergAmericans Are Racking Up ‘Phantom Debt’ That Wall Street Can’t TrackStormy Daniels Will Return to Court in Test of Trump’s DemeanorTrump Judge Indefinitely Postpones Documents Case TrialUS Pauses Arms Shipment to Israel on Rafah Invasion Concer",
-          "link": "https://finance.yahoo.com/news/ibm-red-hat-sued-stephen-203247923.html",
-          "publishedOn": "2024-05-08T21:20:58.000Z",
-          "wordCount": 21000,
-          "title": "IBM’s Red Hat Sued by Stephen Miller’s Legal Group for Anti-White Male Bias",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/lS848b11Ak7pcH1DYe.sqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/b7d23993cd14b683c53383dd5445021e"
-        },
-        {
-          "id": "crypto-markets-under-pressure-2b-211602098.html",
-          "author": null,
-          "description": "Investors should brace for waves of fear, uncertainty and doubt – or FUD – over the next few months, a K33 Research analyst said.",
-          "link": "https://finance.yahoo.com/news/crypto-markets-under-pressure-2b-211602098.html",
-          "publishedOn": "2024-05-08T21:16:02.000Z",
-          "wordCount": 20692,
-          "title": "Crypto Markets Under Pressure as $2B Worth of Altcoin Token Unlocks and $11B Bitcoin Distribution Loom",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/3G1Al3rnBoBO97L8lTG1hQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/coindesk_75/231db0ca7b64f992aa9bf4a7fcc1059c"
         }
       ]
     }
