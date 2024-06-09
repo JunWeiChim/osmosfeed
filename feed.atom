@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-09T06:17:51.427Z</updated>
+    <updated>2024-06-09T07:12:33.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -492,6 +492,16 @@
         <link href="https://finance.yahoo.com/news/as-one-streaming-era-ends-another-begins-chart-of-the-week-100017218.html"/>
         <updated>2024-06-08T10:00:17.000Z</updated>
         <summary type="html"><![CDATA[Just as excitement over a paradigm shift helped usher in cheap subscriptions over a decade ago, the ad-supported streaming model has the potential to generate a similar level of sentiment.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good News for PayPal Stock Investors]]></title>
+        <id>good-news-paypal-stock-investors-100000167.html</id>
+        <link href="https://finance.yahoo.com/news/good-news-paypal-stock-investors-100000167.html"/>
+        <updated>2024-06-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The sentiment around the stock is slowly changing.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -35857,46 +35867,6 @@ Front-month copper futures were down 5.3%, on track for their worst one-day decl
         <updated>2024-05-10T19:22:03.000Z</updated>
         <author>
             <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What You Need to Know Ahead of Wednesday's Much Anticipated CPI Inflation Report]]></title>
-        <id>8646157</id>
-        <link href="https://www.investopedia.com/cpi-inflation-april-2024-preview-8646157"/>
-        <updated>2024-05-10T19:04:33.000Z</updated>
-        <summary type="html"><![CDATA[Inflation in April likely ran hot and remained well above the Federal Reserve’s 2% target, effectively pushing back when the central bank could begin cutting its benchmark interest rate.]]></summary>
-        <author>
-            <name>Diccon Hyatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech Stocks on the Move Today: TSMC, SoundHound AI, and More]]></title>
-        <id>8646745</id>
-        <link href="https://www.investopedia.com/tech-stocks-on-the-move-today-tsmc-soundhound-ai-and-more-8646745"/>
-        <updated>2024-05-10T18:55:02.000Z</updated>
-        <summary type="html"><![CDATA[SoundHound AI shares took off as the provider of artificial intelligence voice recognition products posted better-than-expected results and raised its outlook, while TSMC ADRs also gained jumped on the semiconductor maker’s strong April sales numbers.]]></summary>
-        <author>
-            <name>Bill McColl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Legendary Investor and 'Quant King' Jim Simons Dies at 86]]></title>
-        <id>8646726</id>
-        <link href="https://www.investopedia.com/legendary-investor-and-quant-king-jim-simons-dies-at-86-8646726"/>
-        <updated>2024-05-10T18:34:40.000Z</updated>
-        <summary type="html"><![CDATA[Renowned mathematician and investor Jim Simons, known as the "Quant King," died at the age of 86 on Friday, according to a statement from the Simons Foundation. Simons taught mathematics at a number of prominent universities and was a code-breaker during the Vietnam War before founding quantitative hedge fund Renaissance Technologies.]]></summary>
-        <author>
-            <name>Aaron McDade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Consumers Set To Spend $33.5B This Mother's Day, Despite Waning Sentiment]]></title>
-        <id>8646671</id>
-        <link href="https://www.investopedia.com/us-consumers-set-to-spend-usd33-5b-this-mothers-day-despite-waning-sentiment-8646671"/>
-        <updated>2024-05-10T18:20:07.000Z</updated>
-        <summary type="html"><![CDATA[The American consumer spending juggernaut is expected to continue this Mother's Day, even as broader sentiment falters relative to last month on concerns about high prices and interest rates.]]></summary>
-        <author>
-            <name>Nathan Reiff</name>
         </author>
     </entry>
 </feed>
