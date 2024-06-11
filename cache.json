@@ -1811,6 +1811,26 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "8cb4931e72a767798a01a20d02750180",
+          "author": "Investopedia",
+          "description": "General Motors on Tuesday announced another stock buyback, the second one in seven months, and shares rose.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca816a8af016b6592ac58f3eb7f728608e4a50d738802afc81562447d0269726c8901b6fc8ab6de4a3b273bbbc",
+          "publishedOn": "2024-06-11T12:00:00.000Z",
+          "wordCount": 354,
+          "title": "GM Rises After Another Stock Buyback",
+          "imageUrl": null
+        },
+        {
+          "id": "fd9a3f2375145cb3305d216fd2f17b62",
+          "author": "Investopedia",
+          "description": "U.S. stock futures were falling in premarket trading Tuesday ahead of tomorrow’s closely watched CPI inflation report and the Federal Reserve’s interest-rate outlook.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c214099261d768e3c60f73128d3ac66585",
+          "publishedOn": "2024-06-11T12:00:00.000Z",
+          "wordCount": 354,
+          "title": "Dow Jones Today: Stock Futures Fall as Two-Day Fed Meeting Begins",
+          "imageUrl": null
+        },
+        {
           "id": "2fdcdf317869005f7f75a69bd490ac29",
           "author": "Investopedia",
           "description": "Recent data has shown that the number of companies mentioning the word \"recession\" on earnings calls has dropped for a seventh consecutive quarter as analysts expect earnings growth to continue.",
@@ -2757,6 +2777,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "article-6316433",
+          "author": null,
+          "description": "Het Meldpunt Kinderporno heeft vorig jaar honderdduizenden meldingen verwerkt van beelden waarop mogelijk seksueel kindermisbruik was te zien. Een groot deel van het materiaal wordt direct van het internet gehaald, maar veel beelden blijven terugkomen.",
+          "link": "https://www.nu.nl/tech/6316433/honderdduizenden-meldingen-online-kindermisbruik-dweilen-met-kraan-open.html",
+          "publishedOn": "2024-06-11T13:49:53.000Z",
+          "wordCount": 445,
+          "title": "Honderdduizenden meldingen online kindermisbruik: 'Dweilen met kraan open'",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/clvxpyqa0n0r_sqr256/1150/0/3704/3704/honderdduizenden-meldingen-online-kindermisbruik-dweilen-met-kraan-open.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/clvxpyqa0n0r_sqr256/1150/0/3704/3704/honderdduizenden-meldingen-online-kindermisbruik-dweilen-met-kraan-open.jpg"
+        },
+        {
+          "id": "article-6316430",
+          "author": null,
+          "description": "Intel stopt de bouw van een grote nieuwe chipfabriek in Israël. De Amerikaanse chipfabrikant geeft geen concrete reden op voor het besluit.",
+          "link": "https://www.nu.nl/economie/6316430/chipfabrikant-intel-stopt-met-bouwen-van-nieuwe-fabriek-in-israel.html",
+          "publishedOn": "2024-06-11T13:44:37.000Z",
+          "wordCount": 445,
+          "title": "Chipfabrikant Intel stopt met bouwen van nieuwe fabriek in Israël",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/3ulxz5da1ngw_sqr256/1572/6/5215/5215/chipfabrikant-intel-stopt-met-bouwen-van-nieuwe-fabriek-in-israel.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/3ulxz5da1ngw_sqr256/1572/6/5215/5215/chipfabrikant-intel-stopt-met-bouwen-van-nieuwe-fabriek-in-israel.jpg"
+        },
         {
           "id": "article-6316422",
           "author": null,
@@ -8269,6 +8319,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8661394",
+          "author": "Bill McColl",
+          "description": "General Motors on Tuesday announced another stock buyback, the second one in seven months, and shares rose.",
+          "link": "https://www.investopedia.com/gm-rises-after-another-stock-buyback-8661394",
+          "publishedOn": "2024-06-11T13:56:15.000Z",
+          "wordCount": 5976,
+          "title": "GM Rises After Another Stock Buyback",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/eV7Zrxg2M-hzZgGH1Gd366xUF5k=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2147840436-dbb4b50b13e440ff9115fb5772f5564c.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/eV7Zrxg2M-hzZgGH1Gd366xUF5k=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2147840436-dbb4b50b13e440ff9115fb5772f5564c.jpg"
+        },
         {
           "id": "8661355",
           "author": "Timothy Smith",
@@ -14023,51 +14088,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/baspLF5eG4SLvs9_pPvhVt7jpi4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/TSLAChart-a11d2819fa6c4d419c44d3270f388026.GIF"
-        },
-        {
-          "id": "8647288",
-          "author": "Timothy Smith",
-          "description": "Monitor These Key Price Levels",
-          "link": "https://www.investopedia.com/arm-stock-in-focus-after-reportedly-planning-to-launch-ai-chips-8647288",
-          "publishedOn": "2024-05-13T01:45:24.000Z",
-          "wordCount": 5488,
-          "title": "Arm Stock in Focus After Reportedly Planning to Launch AI Chips",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/T602R8x0iNb95c05YYH-HFEhU9U=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/ARMChart-4ca4ad65b2574f3eab386e77b4cd5040.GIF",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/T602R8x0iNb95c05YYH-HFEhU9U=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/ARMChart-4ca4ad65b2574f3eab386e77b4cd5040.GIF"
-        },
-        {
-          "id": "8645809",
-          "author": "Nathan Reiff",
-          "description": "Prominent investors such as Warren Buffett, Dan Loeb, Stanley Druckenmiller will reveal what they bought and sold in Q1 via 13F filings due this week. Here's what to watch for.",
-          "link": "https://www.investopedia.com/big-investors-q1-investment-portfolios-13f-preview-8645809",
-          "publishedOn": "2024-05-13T01:27:33.000Z",
-          "wordCount": 7027,
-          "title": "What To Watch For As Big Investors Reveal Their Q1 Portfolio Bets This Week",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/gjzspiQv-LBrVguJLFX0e0Sz1j4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/BigInvestorsRevealTheirQ1InvestmentPortfoliosNextWeek.HeresWhatYouNeedToKnow-510da6afe4744b9b88a6756a2a4146b0.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/gjzspiQv-LBrVguJLFX0e0Sz1j4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/BigInvestorsRevealTheirQ1InvestmentPortfoliosNextWeek.HeresWhatYouNeedToKnow-510da6afe4744b9b88a6756a2a4146b0.jpg"
-        },
-        {
-          "id": "8645809",
-          "author": "Nathan Reiff",
-          "description": "Prominent investors such as Warren Buffett, Dan Loeb, Stanley Druckenmiller will reveal what they bought and sold in Q1 via 13F filings due this week. Here's what to watch for.",
-          "link": "https://www.investopedia.com/big-investors-reveal-their-q1-investment-portfolios-next-week-here-s-what-you-need-to-know-8645809",
-          "publishedOn": "2024-05-13T01:27:33.000Z",
-          "wordCount": 6128,
-          "title": "Big Investors Reveal Their Q1 Portfolio Bets This Week—What You Need To Know",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/gjzspiQv-LBrVguJLFX0e0Sz1j4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/BigInvestorsRevealTheirQ1InvestmentPortfoliosNextWeek.HeresWhatYouNeedToKnow-510da6afe4744b9b88a6756a2a4146b0.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/gjzspiQv-LBrVguJLFX0e0Sz1j4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/BigInvestorsRevealTheirQ1InvestmentPortfoliosNextWeek.HeresWhatYouNeedToKnow-510da6afe4744b9b88a6756a2a4146b0.jpg"
         }
       ]
     },
@@ -14077,6 +14097,46 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "stock-market-today-us-stocks-slip-from-records-as-focus-turns-to-fed-133049560.html",
+          "author": null,
+          "description": "Investors braced for a Federal Reserve meeting that should signpost the path of interest rates, with a key inflation print also waiting in the wings.",
+          "link": "https://finance.yahoo.com/news/stock-market-today-us-stocks-slip-from-records-as-focus-turns-to-fed-133049560.html",
+          "publishedOn": "2024-06-11T13:30:49.000Z",
+          "wordCount": 18472,
+          "title": "Stock market today: US stocks slip from records as focus turns to Fed",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/wO0z5E5ceMcvxqkmpjwlRQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/ce17cc40-216e-11ef-8efd-7e8b288c41fe"
+        },
+        {
+          "id": "1-5-recent-college-graduates-133017080.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/1-5-recent-college-graduates-133017080.html",
+          "publishedOn": "2024-06-11T13:30:17.000Z",
+          "wordCount": null,
+          "title": "1 In 5 Of Recent College Graduates Brought A Parent To Their Job Interview, Why?",
+          "imageUrl": null
+        },
+        {
+          "id": "meta-450-surge-offers-potential-123855352.html",
+          "author": null,
+          "description": "(Bloomberg) -- An uptick in the number of companies enacting stock splits this year has Wall Street looking at who could be next — with some analysts pointing to Meta Platforms Inc. Most Read from BloombergMusk to Ban Apple Devices If OpenAI Is Integrated Into OSApple’s ‘AI for the Rest of Us’ Plan Gets Lukewarm ReactionNYC Landlord to Sell Office Building at Roughly 67% DiscountRussia Is Sending Young Africans to Die in Its War Against UkraineMeta is the only stock in the so-called Magnificent",
+          "link": "https://finance.yahoo.com/news/meta-450-surge-offers-potential-123855352.html",
+          "publishedOn": "2024-06-11T12:38:55.000Z",
+          "wordCount": 17799,
+          "title": "Meta’s 450% surge offers potential for next big tech stock split",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/2df534fa9514afc21e0612b0168c460c"
+        },
+        {
+          "id": "cleveland-cliffs-stock-wall-street-downgrade-7d4023ba?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/cleveland-cliffs-stock-wall-street-downgrade-7d4023ba?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-06-11T12:18:00.000Z",
+          "wordCount": null,
+          "title": "Cleveland-Cliffs Stock Downgraded Again. 2 Reasons Wall Street’s Worried.",
+          "imageUrl": null
+        },
+        {
           "id": "2-artificial-intelligence-ai-stocks-120500170.html",
           "author": null,
           "description": "These companies are developing the hardware that makes AI possible and are worth investing in this June.",
@@ -14085,6 +14145,16 @@
           "wordCount": 17930,
           "title": "2 Artificial Intelligence (AI) Stocks to Buy and Hold for Great Long-Term Potential",
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/b61a3e190c55b7e4bc899af433d4857f"
+        },
+        {
+          "id": "pipeline-brawl-louisiana-rattles-industry-120000952.html",
+          "author": null,
+          "description": "(Bloomberg) -- A legal battle in Louisiana is hobbling construction of three pipeline projects worth more than $2 billion. Yet the litigation isn’t from environmentalists: It’s spearheaded by one of the biggest natural gas pipeline operators in the US.Most Read from BloombergMusk to Ban Apple Devices If OpenAI Is Integrated Into OSRussia Is Sending Young Africans to Die in Its War Against UkraineNYC Landlord to Sell Office Building at Roughly 67% DiscountApple’s ‘AI for the Rest of Us’ Plan Gets",
+          "link": "https://finance.yahoo.com/news/pipeline-brawl-louisiana-rattles-industry-120000952.html",
+          "publishedOn": "2024-06-11T12:00:00.000Z",
+          "wordCount": 17956,
+          "title": "Pipeline Brawl in Louisiana Rattles Industry Desperate to Build",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/dJR2c8EDikU7eqMQUvIliQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_markets_842/838127c9edf0935108a4ee7eea32ae5b"
         },
         {
           "id": "bull-market-buys-3-outstanding-114500057.html",
@@ -14287,6 +14357,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/i2NQ7P9ZyvuFLsn8.qxeOw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/9eea140a904b8c5da288504d4381974d"
         },
         {
+          "id": "fed-cut-interest-rate-restrictive-093726032.html",
+          "author": null,
+          "description": "Elevated interest rates aimed at taming inflation have become a part of the problem, three Democrat senators said.",
+          "link": "https://finance.yahoo.com/news/fed-cut-interest-rate-restrictive-093726032.html",
+          "publishedOn": "2024-06-11T09:37:26.000Z",
+          "wordCount": 17312,
+          "title": "Fed Should Cut Interest Rate as Restrictive Stance Adds to Inflation, Democrats Say",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/eA3jwj1MK4GhGJL_x_WaBA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/coindesk_75/18e1c03dc0483fb015d299c9c982ddc2"
+        },
+        {
           "id": "1-growth-stock-down-almost-092500190.html",
           "author": null,
           "description": "Lululemon's remarkable track record offers reasons to believe better days are ahead for the company.",
@@ -14365,6 +14445,16 @@
           "wordCount": 17726,
           "title": "Is It Too Late to Buy Nvidia After Its Stock Split?",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/NjhFm_XCTWhVtvtCR25ocw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/dc0c4ce8873529a4433b6bfb5e97bda4"
+        },
+        {
+          "id": "cantor-fitzgerald-bullish-bitcoin-mining-080032676.html",
+          "author": null,
+          "description": "Crypto miners are facing uncertain times as the recent halving event has altered Bitcoin's economic dynamics.  Bitcoin prices have stayed elevated, and with a global network hash rate of roughly 600 EH/s, every publicly traded Bitcoin miner can mine Bitcoin profitably.  As such, Bitcoin miners offer an attractive and leveraged approach to investing in Bitcoin, essentially allowing them to mine Bitcoin at a discount to spot prices.",
+          "link": "https://finance.yahoo.com/news/cantor-fitzgerald-bullish-bitcoin-mining-080032676.html",
+          "publishedOn": "2024-06-11T08:00:32.000Z",
+          "wordCount": 17677,
+          "title": "Cantor Fitzgerald is bullish on Bitcoin mining sector, starts 7 stocks at buy",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
         },
         {
           "id": "the-stock-market-rally-has-been-all-about-large-caps-080019421.html",
@@ -41465,16 +41555,6 @@
           "wordCount": 20628,
           "title": "Crypto Market Sees Lackluster Performance as Bitcoin Struggles to Regain Momentum",
           "imageUrl": "https://media.zenfs.com/en/coinmarketcap_783/34f8c79c3a0560a6c1bbb84081c095ab"
-        },
-        {
-          "id": "asian-stocks-eye-sluggish-start-223409553.html",
-          "author": null,
-          "description": "(Bloomberg) -- Asian stocks are set for a sluggish open Monday amid signs of a slowing US economy and weekend data that signaled weak demand in China. Most Read from BloombergPutin Replaces Long-Time Defense Minister in Surprise MoveHow One Brooklyn Neighborhood Became a Nightclub HavenTrump Pledges Across-the-Board Tax Cuts If He Returns to OfficeApple Nears Deal With OpenAI to Put ChatGPT on iPhoneEquity futures in Australia, Japan, Hong Kong and mainland China all point to slight losses. US c",
-          "link": "https://finance.yahoo.com/news/asian-stocks-eye-sluggish-start-223409553.html",
-          "publishedOn": "2024-05-13T01:45:12.000Z",
-          "wordCount": 21304,
-          "title": "Asian Shares Fall on Weak China Data, Tariff Fears: Markets Wrap",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/LCVKUZ0a1Q6SEce0IW8rJg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NzY-/https://media.zenfs.com/en/bloomberg_markets_842/b935545dfc0d5df7dafda33bd8dc9c54"
         }
       ]
     }
