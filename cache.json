@@ -1711,6 +1711,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "3bcb580041b8dd1cec84f5611380e9c6",
+          "author": "Investopedia",
+          "description": "U.S. stock futures were mixed Thursday, after the Nasdaq and S&P 500 once again closed at record highs Wednesday, even as the Federal Reserve projected just one interest rate cut this year.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c214099263d768e3c60f73128d39c36486",
+          "publishedOn": "2024-06-13T12:00:00.000Z",
+          "wordCount": 354,
+          "title": "Dow Jones Today: Stock Futures Mixed, Tesla Jumps",
+          "imageUrl": null
+        },
+        {
           "id": "7e838f735e4adeaa8a4e3568bc55c60e",
           "author": "Investopedia",
           "description": "Broadcom shares jumped in extended trading Wednesday after the chipmaker reported better-than-expected fiscal second-quarter revenue and announced a 10-for-1 stock split. Monitor these important chart levels.",
@@ -14188,21 +14198,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/Gvl50j0233UHQGQ3eVIC9jqTfPU=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/NXTChart-0b9a76e6fe4146ae82abfc67e0cea66d.GIF"
-        },
-        {
-          "id": "8648375",
-          "author": "Nathan Reiff",
-          "description": "Ray Dalio's asset management firm spent big on AI hardware companies and tech giants in the first quarter, a quarterly regulatory filing disclosed.",
-          "link": "https://www.investopedia.com/bridgewater-associates-boosted-nvidia-stake-in-q1-2024-8648375",
-          "publishedOn": "2024-05-15T01:00:29.000Z",
-          "wordCount": 5398,
-          "title": "Bridgewater Associates Almost Quintupled Its Nvidia Stake in Q1",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/_WzILy2JgVglTIhM45O_jQgB6Rg=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2128596170-c2c21b52df674731b80179ca28b5be90.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/_WzILy2JgVglTIhM45O_jQgB6Rg=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2128596170-c2c21b52df674731b80179ca28b5be90.jpg"
         }
       ]
     },
@@ -14211,6 +14206,46 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-tesla-stock-elon-musk/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-06-13T12:53:51.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Fall After Inflation Data, Jobless Claims; Tesla Surges On Elon Musk Tweet",
+          "imageUrl": null
+        },
+        {
+          "id": "apple-nvidia-secure-future-taiwan-124449689.html",
+          "author": null,
+          "description": "Apple Inc (NASDAQ:AAPL), Qualcomm Inc (NASDAQ:QCOM), Nvidia Corp (NASDAQ:NVDA), and Advanced Micro Devices, Inc (NASDAQ:AMD) have almost fully booked Taiwan Semiconductor Manufacturing Company Ltd's (NYSE:TSM) 3nm chip production process until 2026, reflecting the artificial intelligence frenzy. This demand spike reflects the rapid evolution of AI technology, pushing TSMC to innovate further in advanced manufacturing, TechNode reports. N3E, which started mass production last quarter, targets AI",
+          "link": "https://finance.yahoo.com/news/apple-nvidia-secure-future-taiwan-124449689.html",
+          "publishedOn": "2024-06-13T12:44:49.000Z",
+          "wordCount": 20077,
+          "title": "Apple, Nvidia Secure Future with Taiwan Semi's Advanced Chips as AI Demand Soars",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/df702e3af187f642cd2652e7691c0111"
+        },
+        {
+          "id": "forget-nvidia-buy-magnificent-growth-123000979.html",
+          "author": null,
+          "description": "Robotic-assisted surgery is a massive growth opportunity, and Intuitive Surgical looks to be in prime position to benefit from the potential.",
+          "link": "https://finance.yahoo.com/news/forget-nvidia-buy-magnificent-growth-123000979.html",
+          "publishedOn": "2024-06-13T12:30:00.000Z",
+          "wordCount": 20339,
+          "title": "Forget Nvidia, Buy This Magnificent Growth Stock Instead",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/iSZkSNJ_zpI62iuzLSIzWw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mzk-/https://media.zenfs.com/en/motleyfool.com/2baf55730581dedee6b51d06e68c63e5"
+        },
+        {
+          "id": "broadcom-soars-demand-ai-chips-121601719.html",
+          "author": null,
+          "description": "Broadcom surged more than 13% on Thursday as its upbeat annual forecast highlighted an insatiable demand for chips used in powering AI-focused technology, while its announcement of a stock split added to the euphoria.  The rising adoption of generative AI has been driving demand for companies such as Broadcom that provide chips and networking tools to support these intensive applications.  Broadcom, whose shares have risen 76% in the past 12 months and closed at $1495.5 on Wednesday, joined Nvidia in trying to make its stock more affordable through a 10-for-1 split.",
+          "link": "https://finance.yahoo.com/news/broadcom-soars-demand-ai-chips-121601719.html",
+          "publishedOn": "2024-06-13T12:16:01.000Z",
+          "wordCount": 20037,
+          "title": "Broadcom soars as demand for AI chips power forecast raise",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/45a8e1306e9e01dea62e853678d6e2f1"
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
@@ -14520,6 +14555,16 @@
           "wordCount": 19794,
           "title": "Reaction to Musk's post on voting for his $56 billion Tesla pay package",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/2623864af4d0d7dd454cc8ce631b9945"
+        },
+        {
+          "id": "3-fintech-growth-stocks-screaming-080500078.html",
+          "author": null,
+          "description": "Fintech uncertainty has some innovators trading at jaw-droppingly low prices.",
+          "link": "https://finance.yahoo.com/news/3-fintech-growth-stocks-screaming-080500078.html",
+          "publishedOn": "2024-06-13T08:05:00.000Z",
+          "wordCount": 20503,
+          "title": "3 Fintech Growth Stocks That Are Screaming Buys in June",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/e9dccc9d74260e64f81b7d40bf6ff86f"
         },
         {
           "id": "broadcom-announces-10-1-stock-080000331.html",
@@ -41380,16 +41425,6 @@
           "wordCount": 20696,
           "title": "Walmart lays off hundreds of employees and requires others to relocate",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/M458CkpP.0aRgpnmsRY_2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/ap_finance_articles_694/f4de937d290210909aad50beb002a163"
-        },
-        {
-          "id": "brazil-president-lula-fires-petrobras-005021827.html",
-          "author": null,
-          "description": "(Bloomberg) -- Brazil’s President Luiz Inacio Lula da Silva fired Jean Paul Prates, the chief executive of the country’s state-owned oil company, Petroleo Brasileiro SA, following a dispute over dividend payments.Most Read from BloombergTrump Vows ‘Day One’ Executive Order Targeting Offshore WindBiden Accuses China of ‘Cheating’ on Trade, Imposes New TariffsFlood of China Used Cooking Oil Spurs Call to Hike US LeviesHow One of the World's Oldest Hedge Funds Went BankruptS&P 500 Gets Close to All",
-          "link": "https://finance.yahoo.com/news/brazil-president-lula-fires-petrobras-005021827.html",
-          "publishedOn": "2024-05-15T00:50:21.000Z",
-          "wordCount": 21071,
-          "title": "Brazil President Lula Fires Petrobras CEO After Dividend Dispute",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/hBfiGrZRm2Q.7Kg8x.m_wg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/eb720dc8f1a54cf7848cf2ac5bb9d43b"
         }
       ]
     }
