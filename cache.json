@@ -2918,6 +2918,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6316932",
+          "author": null,
+          "description": "Amerikaanse autoriteiten onderzoeken opnieuw een incident met een vliegtuig van Boeing. Een Boeing 737 MAX 8-toestel van Southwest Airlines maakte plotseling een zogeheten 'Dutch roll', waarbij het toestel heen en weer schudde. Dat kan gevaarlijk zijn.",
+          "link": "https://www.nu.nl/economie/6316932/opnieuw-een-boeing-incident-onderzocht-toestel-schudde-plots-heen-en-weer.html",
+          "publishedOn": "2024-06-14T20:43:17.000Z",
+          "wordCount": 445,
+          "title": "Opnieuw een Boeing-incident onderzocht: Toestel schudde plots heen en weer",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/apyxm98au8tg_sqr256/209/0/2667/2667/opnieuw-een-boeing-incident-onderzocht-toestel-schudde-plots-heen-en-weer.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/apyxm98au8tg_sqr256/209/0/2667/2667/opnieuw-een-boeing-incident-onderzocht-toestel-schudde-plots-heen-en-weer.jpg"
+        },
+        {
           "id": "article-6316849",
           "author": null,
           "description": "Jongeren zijn steeds minder vaak op zoek naar een vakantiebaan. Dat komt doordat de arbeidsdeelname de afgelopen jaren is toegenomen. Dat betekent dat ze vaak al werk hebben.",
@@ -8286,21 +8301,6 @@
             "url": "https://images.nu.nl/m/2u8xp5dadrv7_sqr256/1413/0/3614/3614/nieuwe-coalitie-wil-salderingsregeling-zonnepanelen-alsnog-schrappen-in-2027.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/2u8xp5dadrv7_sqr256/1413/0/3614/3614/nieuwe-coalitie-wil-salderingsregeling-zonnepanelen-alsnog-schrappen-in-2027.jpg"
-        },
-        {
-          "id": "article-6313103",
-          "author": null,
-          "description": "De organisatie achter de Kijkwijzer komt met een Gamewijzer. Naast een leeftijdsadvies geeft de Gamewijzer ouders en opvoeders informatie en tips over hoe ze kunnen omgaan met games en hun gamende kinderen.",
-          "link": "https://www.nu.nl/tech/6313103/na-kijkwijzer-nu-ook-een-gamewijzer-met-leeftijdsadvies-en-tips-voor-ouders.html",
-          "publishedOn": "2024-05-16T08:52:26.000Z",
-          "wordCount": 443,
-          "title": "Na Kijkwijzer nu ook een Gamewijzer met leeftijdsadvies en tips voor ouders",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/f1dx5oqahnac_sqr256/611/0/4480/4480/na-kijkwijzer-nu-ook-een-gamewijzer-met-leeftijdsadvies-en-tips-voor-ouders.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/f1dx5oqahnac_sqr256/611/0/4480/4480/na-kijkwijzer-nu-ook-een-gamewijzer-met-leeftijdsadvies-en-tips-voor-ouders.jpg"
         }
       ]
     },
@@ -8309,6 +8309,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8663699",
+          "author": "Michael Bromberg",
+          "description": "The S&P 500 posted a minimal loss on Friday, June 14, 2024, settling just below its all-time high after a four-day string of record closes.",
+          "link": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-adobe-becomes-latest-stock-to-enjoy-ai-boost-8663699",
+          "publishedOn": "2024-06-14T20:58:12.000Z",
+          "wordCount": 5196,
+          "title": "S&P 500 Gains and Losses Today: Adobe Becomes Latest Stock to Enjoy AI Boost",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/_b0HX82TTvK54UjJHIppt0QtDjA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1894093220-1b7f7b13e54e45e49a4ce38ff1d1c3d1.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/_b0HX82TTvK54UjJHIppt0QtDjA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1894093220-1b7f7b13e54e45e49a4ce38ff1d1c3d1.jpg"
+        },
+        {
+          "id": "8663614",
+          "author": "Taylor Tompkins",
+          "description": "As inflation reports indicate that price pressures are moderating, expectations are building for the Federal Reserve to cut interest rates to make borrowing money less expensive.",
+          "link": "https://www.investopedia.com/what-s-next-for-the-federal-reserve-as-expectations-for-interest-rate-cuts-mount-8663614",
+          "publishedOn": "2024-06-14T20:19:58.000Z",
+          "wordCount": 5758,
+          "title": "What's Next for the Federal Reserve as Expectations for Interest Rate Cuts Mount?",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Gvu0JqzZcKNA6T1HaoMhp2umn5A=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2157341509-56a91328a6284142b88642a496026b0d.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Gvu0JqzZcKNA6T1HaoMhp2umn5A=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2157341509-56a91328a6284142b88642a496026b0d.jpg"
+        },
         {
           "id": "8663645",
           "author": "Bill McColl",
@@ -14187,6 +14217,26 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/4mVMF9ERBdJTtAzGThp7yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/bc79ed95ebb9eba7372b0500fe8bc876"
         },
         {
+          "id": "long-does-double-money-investment-190012390.html",
+          "author": null,
+          "description": "Doubling your money is a significant milestone for any investor, and the time it takes to achieve this goal depends on the rate of return your investments generate. An 8% yield, in particular, can be a powerful tool for growing your wealth over time. ...",
+          "link": "https://finance.yahoo.com/news/long-does-double-money-investment-190012390.html",
+          "publishedOn": "2024-06-14T19:00:12.000Z",
+          "wordCount": 20866,
+          "title": "How Long Does It Take To Double Your Money On An Investment With An 8% Yield?",
+          "imageUrl": "https://media.zenfs.com/en/benzinga_79/e9b8342acad6e463ff654ee7cf2c2116"
+        },
+        {
+          "id": "waited-first-rmd-until-april-125604173.html",
+          "author": null,
+          "description": "Unlike most personal finance questions, the answer to this one is short and simple: yes, waiting until April 1st to take your first RMD will affect the amount of your second year’s RMD. The IRS rules on required minimum distributions – RMDs – demand that anyone turning 73 in 2024 withdraw a certain minimum amount […] The post I Waited to Take My First RMD Until April 1st. Will This Affect My Second Year's RMD? appeared first on SmartReads by SmartAsset.",
+          "link": "https://finance.yahoo.com/news/waited-first-rmd-until-april-125604173.html",
+          "publishedOn": "2024-06-14T18:30:01.000Z",
+          "wordCount": 20725,
+          "title": "I Waited Until the Last Minute to Take My First RMD. Will It Affect the Next One?",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/b7f16476f29cfdef9a7352b6f095cc97"
+        },
+        {
           "id": "carnival-stock-norwegian-sp-500-8ead2a87?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "",
@@ -15595,6 +15645,16 @@
           "wordCount": 21153,
           "title": "‘I don’t want to squander this opportunity’: I sold my business for $130,000. It’s the first time in my life I’m not living paycheck to paycheck. What should I do?",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/z1jTUuRyas_zQxMTAAaRAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/29d691dec76a02ed68d39731808b169d"
+        },
+        {
+          "id": "now-bankrupt-medmen-owes-millions-100049380.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/now-bankrupt-medmen-owes-millions-100049380.html",
+          "publishedOn": "2024-06-13T10:00:49.000Z",
+          "wordCount": null,
+          "title": "Now bankrupt, MedMen owes millions to other companies. Meet the cannabis CEO who called them out",
+          "imageUrl": null
         },
         {
           "id": "dividend-stocks-help-lower-risk-095900684.html",
@@ -41415,86 +41475,6 @@
           "wordCount": 21357,
           "title": "Is Now the Time to Buy 3 of the S&P 500's Worst-Performing Stocks?",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/O8cKw7Yk5TC36a5UZddOEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/95ff8bb611747fae8f870c04a10b25d9"
-        },
-        {
-          "id": "etf-turned-10-000-more-091200820.html",
-          "author": null,
-          "description": "This leveraged tech ETF has benefited from a fantastic environment for the sector.",
-          "link": "https://finance.yahoo.com/news/etf-turned-10-000-more-091200820.html",
-          "publishedOn": "2024-05-16T09:12:00.000Z",
-          "wordCount": 21296,
-          "title": "This ETF Has Turned $10,000 Into More Than $1.5 Million in Just 14 Years -- Should You Buy It Now?",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/P82oAam02z3TXWtiOy73.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/7b4139adb562234b53bcfb8df0db7a64"
-        },
-        {
-          "id": "3-powerhouse-high-yield-dividend-091100899.html",
-          "author": null,
-          "description": "Investing in equal parts of these three stocks produces a dividend yield of 5.7%.",
-          "link": "https://finance.yahoo.com/news/3-powerhouse-high-yield-dividend-091100899.html",
-          "publishedOn": "2024-05-16T09:11:00.000Z",
-          "wordCount": 21718,
-          "title": "3 Powerhouse High-Yield Dividend Stocks to Buy Now and Hold for Decades to Come",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/199dc56b552248d78461072d8ac5740e"
-        },
-        {
-          "id": "djt-stock-trump-media-34bca1e5?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/djt-stock-trump-media-34bca1e5?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-05-16T09:09:00.000Z",
-          "wordCount": null,
-          "title": "DJT Stock Rises. Trump Media Delays Filing Earnings After Auditor Shut Down.",
-          "imageUrl": null
-        },
-        {
-          "id": "2-supercharged-tech-stocks-buy-090400262.html",
-          "author": null,
-          "description": "These tech leaders could double your money in five years.",
-          "link": "https://finance.yahoo.com/news/2-supercharged-tech-stocks-buy-090400262.html",
-          "publishedOn": "2024-05-16T09:04:00.000Z",
-          "wordCount": 21133,
-          "title": "2 Supercharged Tech Stocks to Buy Without Any Hesitation",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/.Qr6IDfcnee0OLJuYgrZKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/4f2940b68c2122dd8b041a3749c5da0f"
-        },
-        {
-          "id": "1-yields-8-6-another-090000927.html",
-          "author": null,
-          "description": "Passive income investors looking to generate dividend income have two excellent choices here.",
-          "link": "https://finance.yahoo.com/news/1-yields-8-6-another-090000927.html",
-          "publishedOn": "2024-05-16T09:00:00.000Z",
-          "wordCount": 20705,
-          "title": "1 Yields 8.6%, Another 6.5% -- but Which Is the Best Dividend Stock to Buy for Passive Income Investors?",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/4yV.Ex1UcyfC5myUAHEfNw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NTc-/https://media.zenfs.com/en/motleyfool.com/25de26ad211e9cea99b0e66bcd753a0c"
-        },
-        {
-          "id": "nvidia-stock-price-buy-sell-d2cfb721?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/nvidia-stock-price-buy-sell-d2cfb721?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-05-16T08:59:00.000Z",
-          "wordCount": null,
-          "title": "Nvidia Stock Is on Track for New High Ahead of Earnings. What’s Driving the Move.",
-          "imageUrl": null
-        },
-        {
-          "id": "look-back-5-years-youll-082900023.html",
-          "author": null,
-          "description": "DigitalOcean is taking on Amazon, Microsoft, and Alphabet in the cloud computing space.",
-          "link": "https://finance.yahoo.com/news/look-back-5-years-youll-082900023.html",
-          "publishedOn": "2024-05-16T08:29:00.000Z",
-          "wordCount": 21605,
-          "title": "When You Look Back in 5 Years, You'll Wish You'd Bought This Tiny Artificial Intelligence (AI) Stock",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/OyMQG4MR8NqUzPqNZj4Lmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/6de2ea297374d9775bf2017f98357677"
-        },
-        {
-          "id": "hedge-funds-pump-exposure-nvidia-221419507.html",
-          "author": null,
-          "description": "(Bloomberg) -- Hedge funds continued to lean into the biggest technology companies leading the way in artificial intelligence as the hype propelled the US stock market higher in the first quarter of the year.Most Read from BloombergSlovak Premier Fighting for Life After Assassination AttemptS&P 500 Tops 5,300 in Record-Breaking Stock Rally: Markets WrapUS Inflation Ebbs for First Time in Six Months in Relief for FedChina Considers Government Buying of Unsold Homes to Save Property MarketUS Infla",
-          "link": "https://finance.yahoo.com/news/hedge-funds-pump-exposure-nvidia-221419507.html",
-          "publishedOn": "2024-05-16T08:19:20.000Z",
-          "wordCount": 21128,
-          "title": "Hedge Funds Pump Up Exposure to Nvidia, Cut AMD",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/kdvynHYRdctWcw50SlQgDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/ed4aecdd266e82c6ebcc88b2e5b768dc"
         }
       ]
     }
