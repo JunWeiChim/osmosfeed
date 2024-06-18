@@ -3008,6 +3008,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6317381",
+          "author": null,
+          "description": "Het lijkt erop dat de nieuwe huurwet van demissionair woonminister Hugo de Jonge ook in de Eerste Kamer voldoende steun krijgt. De wet moet een limiet stellen aan woekerhuren in de vrije sector.",
+          "link": "https://www.nu.nl/politiek/6317381/nieuwe-huurwet-lijkt-ook-meerderheid-in-eerste-kamer-te-halen.html",
+          "publishedOn": "2024-06-18T22:39:26.000Z",
+          "wordCount": 445,
+          "title": "Nieuwe huurwet lijkt ook meerderheid in Eerste Kamer te halen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/jc2xg74a3hsj_sqr256/2120/0/5190/5190/nieuwe-huurwet-lijkt-ook-meerderheid-in-eerste-kamer-te-halen.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/jc2xg74a3hsj_sqr256/2120/0/5190/5190/nieuwe-huurwet-lijkt-ook-meerderheid-in-eerste-kamer-te-halen.jpg"
+        },
+        {
           "id": "article-6317377",
           "author": null,
           "description": "Chipbedrijf NVIDIA heeft voor het eerst een hogere beursnotering dan Microsoft en Apple. Daarmee is NVIDIA het waardevolste bedrijf ter wereld. De waarde van het Amerikaanse bedrijf steeg dit jaar al met ruim 160 procent.",
@@ -8586,36 +8601,6 @@
             "url": "https://images.nu.nl/m/va9xvfrafnae_sqr256/877/425/1909/1909/prijs-van-goud-schiet-naar-recordniveau-vanwege-overlijden-iraanse-president.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/va9xvfrafnae_sqr256/877/425/1909/1909/prijs-van-goud-schiet-naar-recordniveau-vanwege-overlijden-iraanse-president.jpg"
-        },
-        {
-          "id": "article-6313590",
-          "author": null,
-          "description": "Wie tweedehandsspullen wil zoeken op Marktplaats kan problemen ondervinden met bijvoorbeeld inloggen. Bij Allestoringen.nl zijn maandagochtend meer dan tienduizend meldingen binnengekomen van mensen die zeggen dat Marktplaats niet goed werkt.",
-          "link": "https://www.nu.nl/economie/6313590/marktplaats-kampt-met-storing-duizenden-meldingen-over-inlogproblemen.html",
-          "publishedOn": "2024-05-20T10:58:09.000Z",
-          "wordCount": 443,
-          "title": "Marktplaats kampt met storing: duizenden meldingen over inlogproblemen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/jhsxhr6a02t9_sqr256/351/0/770/770/marktplaats-kampt-met-storing-duizenden-meldingen-over-inlogproblemen.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/jhsxhr6a02t9_sqr256/351/0/770/770/marktplaats-kampt-met-storing-duizenden-meldingen-over-inlogproblemen.jpg"
-        },
-        {
-          "id": "article-6313590",
-          "author": null,
-          "description": "Wie tweedehandsspullen wil zoeken op Marktplaats kan problemen ondervinden met bijvoorbeeld inloggen. Bij Allestoringen.nl zijn maandagochtend meer dan tienduizend meldingen binnengekomen van mensen die zeggen dat Marktplaats niet goed werkt.",
-          "link": "https://www.nu.nl/economie/6313590/marktplaats-kampt-met-storing-duizenden-meldingen-over-problemen-met-inloggen.html",
-          "publishedOn": "2024-05-20T10:58:09.000Z",
-          "wordCount": 443,
-          "title": "Marktplaats kampt met storing: duizenden meldingen over problemen met inloggen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/jhsxhr6a02t9_sqr256/351/0/770/770/marktplaats-kampt-met-storing-duizenden-meldingen-over-problemen-met-inloggen.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/jhsxhr6a02t9_sqr256/351/0/770/770/marktplaats-kampt-met-storing-duizenden-meldingen-over-problemen-met-inloggen.jpg"
         }
       ]
     },
@@ -8624,6 +8609,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8665755",
+          "author": "Terry Lane",
+          "description": "Federal Reserve officials pointed to “uncertainty” about the direction of the U.S. economy, saying recent data wasn’t enough to convince them inflation is defeated.",
+          "link": "https://www.investopedia.com/fed-officials-still-see-uncertainty-despite-inflation-improvements-8665755",
+          "publishedOn": "2024-06-18T22:39:34.000Z",
+          "wordCount": 5599,
+          "title": "Fed Officials Still Uncertain About Rate Cuts Despite Inflation Improvements",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/huFBrRbjD6ebhglTcQh6G9JItDY=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-170617884-58ab8c58a6e940399e1b838382cd1190.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/huFBrRbjD6ebhglTcQh6G9JItDY=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-170617884-58ab8c58a6e940399e1b838382cd1190.jpg"
+        },
         {
           "id": "8665488",
           "author": "Aaron McDade",
@@ -14537,6 +14537,36 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "1-wall-street-analyst-thinks-220534729.html",
+          "author": null,
+          "description": "One analyst's new price target on Nvidia is Wall Street's highest for the chipmaker, valuing it at nearly $4 trillion.",
+          "link": "https://finance.yahoo.com/news/1-wall-street-analyst-thinks-220534729.html",
+          "publishedOn": "2024-06-18T22:05:34.000Z",
+          "wordCount": 20168,
+          "title": "1 Wall Street Analyst Thinks Nvidia Stock Is Going to $160. Is It a Buy Around $130?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/yrZM0qWq_FrgLFx.xZiBSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/3f1b9eada73afc7b1511c7cbced36512"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-stock-king-elf-palantir/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-06-18T21:32:23.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures: New Stock Market King Nvidia Faces This Risk; ELF, Palantir Rally",
+          "imageUrl": null
+        },
+        {
+          "id": "why-super-micro-computer-stock-211300507.html",
+          "author": null,
+          "description": "Bullish coverage for a potentially significant competitor's stock has actually helped push Super Micro Computer's valuation higher.",
+          "link": "https://finance.yahoo.com/news/why-super-micro-computer-stock-211300507.html",
+          "publishedOn": "2024-06-18T21:13:00.000Z",
+          "wordCount": 20141,
+          "title": "Why Super Micro Computer Stock Jumped Again Today",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/r3ii1UMSB5xlhuA2MotPWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://media.zenfs.com/en/motleyfool.com/2b2215c8c72791bdd1ab1ac7cd662556"
+        },
+        {
           "id": "trump-media-share-price-down-202847591.html",
           "author": null,
           "description": "Shares of Trump Media – Trump’s namesake social media company – tumbled again Tuesday, continuing its long slide after his hush money guilty verdict.",
@@ -14545,6 +14575,16 @@
           "wordCount": 20166,
           "title": "Trump Media share price down 39%: Why the DJT stock keeps falling",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/o2cQo2M4xZYGdYthxweixQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/usa_today_money_325/1225336d32548d36ab7bb6b9a55cd066"
+        },
+        {
+          "id": "notable-wall-street-analyst-just-193239145.html",
+          "author": null,
+          "description": "Dividend stocks are making a comeback as investors understand the possibility of a higher-for-longer interest rate scenario and look for safe stocks that can promise a steady income stream during market volatility. According to an analysis by Fidelity ...",
+          "link": "https://finance.yahoo.com/news/notable-wall-street-analyst-just-193239145.html",
+          "publishedOn": "2024-06-18T19:32:39.000Z",
+          "wordCount": 20232,
+          "title": "A Notable Wall Street Analyst Just Upgraded This Dividend King With A 3.5%+ Yield",
+          "imageUrl": "https://media.zenfs.com/en/benzinga_79/6ddc06c549926b3222d3485dfb8bd283"
         },
         {
           "id": "nvidia-agrees-buy-software-startup-184519901.html",
@@ -41645,86 +41685,6 @@
           "wordCount": 21951,
           "title": "Stock market today: US futures tilt higher after Dow closes above 40,000 for first time",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/3fvvdsHImGyxLthFOT9fQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/25609a00-1674-11ef-b797-9d304ae33dfc"
-        },
-        {
-          "id": "ARGUS_40047_MarketSummary_1716203620000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_40047_MarketSummary_1716203620000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2024-05-20T11:13:40.000Z",
-          "wordCount": null,
-          "title": "Market Digest: AIG, AMAT, CPRT, IFF, MDU, OSK, BCE, VTR, ENOV",
-          "imageUrl": null
-        },
-        {
-          "id": "ARGUS_40045_TechnicalAnalysis_1716202095000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "Find the latest Chevron Corporation (CVX) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_40045_TechnicalAnalysis_1716202095000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2024-05-20T10:48:15.000Z",
-          "wordCount": 14881,
-          "title": "Technical Assessment: Bullish in the Intermediate-Term",
-          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
-        },
-        {
-          "id": "stock-split-watch-nvidia-next-104500892.html",
-          "author": null,
-          "description": "With its share price around $950, Nvidia could be a candidate for another stock split.",
-          "link": "https://finance.yahoo.com/news/stock-split-watch-nvidia-next-104500892.html",
-          "publishedOn": "2024-05-20T10:45:00.000Z",
-          "wordCount": 21316,
-          "title": "Stock Split Watch: Is Nvidia Next?",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/a6f120bcd83ec994fc870a4637380b9a"
-        },
-        {
-          "id": "where-oil-going-wont-care-103100375.html",
-          "author": null,
-          "description": "These energy stocks have insulated much of their business from oil price volatility.",
-          "link": "https://finance.yahoo.com/news/where-oil-going-wont-care-103100375.html",
-          "publishedOn": "2024-05-20T10:31:00.000Z",
-          "wordCount": 21626,
-          "title": "Where Is Oil Going? You Won't Care if You Own These 3 Energy Stocks.",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/4885f0181d1cdc17038db04ab4e1d54c"
-        },
-        {
-          "id": "forget-apple-other-buyback-stock-103000656.html",
-          "author": null,
-          "description": "Apple made headlines following its announced $110 billion share buyback, but another company also buying back stock may be the better opportunity.",
-          "link": "https://finance.yahoo.com/news/forget-apple-other-buyback-stock-103000656.html",
-          "publishedOn": "2024-05-20T10:30:00.000Z",
-          "wordCount": 10416,
-          "title": "Forget Apple: This Other Buyback Stock Soared 28% Over the Last Year, and Could Be Headed Even Higher",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/4e65805040f1f40ab02a94e4c6816886"
-        },
-        {
-          "id": "futures-inch-fed-minutes-nvidia-101917201.html",
-          "author": null,
-          "description": "All the three major indexes marked their fourth straight week of gains on Friday as upbeat corporate earnings and softer-than-expected inflation data supported hopes for interest rate cuts this year.  Both the benchmark S&P 500 and the tech-heavy Nasdaq touched an all-time high last week, while the blue-chip Dow closed above the 40,000 level on Friday.  Investors are keenly awaiting quarterly results from artificial intelligence (AI) chip leader Nvidia and minutes of the Fed's latest monetary policy meeting, both scheduled for Wednesday.",
-          "link": "https://finance.yahoo.com/news/futures-inch-fed-minutes-nvidia-101917201.html",
-          "publishedOn": "2024-05-20T10:19:17.000Z",
-          "wordCount": 20917,
-          "title": "Futures inch up with Fed minutes, Nvidia results on tap for the week",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/e68b5a832c4cc4697371c8361e6e6bd6"
-        },
-        {
-          "id": "gold-surges-record-iran-president-101749042.html",
-          "author": null,
-          "description": "Gold jumped to fresh record highs after Iran’s president was killed in a helicopter crash.",
-          "link": "https://finance.yahoo.com/news/gold-surges-record-iran-president-101749042.html",
-          "publishedOn": "2024-05-20T10:17:49.000Z",
-          "wordCount": 20723,
-          "title": "Gold surges to record high after Iran’s president killed in crash",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/2CEaef1N9m7glzjGtpqzZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/59cea4daa3a1e86c1393f7fe40bec769"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/technology/amd-stock-buy-now/?src=A00220&yptr=yahoo",
-          "publishedOn": "2024-05-20T10:15:11.000Z",
-          "wordCount": null,
-          "title": "Is AMD Stock A Buy After Chipmaker's Second-Quarter Earnings Report?",
-          "imageUrl": null
         }
       ]
     }
