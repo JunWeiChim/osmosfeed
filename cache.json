@@ -8686,21 +8686,6 @@
             "url": "https://images.nu.nl/m/robxoseaku0m_sqr256/485/0/1414/1414/schuldenregistratie-bij-bkr-blijft-volgens-privacywaakhond-te-lang-staan.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/robxoseaku0m_sqr256/485/0/1414/1414/schuldenregistratie-bij-bkr-blijft-volgens-privacywaakhond-te-lang-staan.jpg"
-        },
-        {
-          "id": "article-6314563",
-          "author": null,
-          "description": "De verwachtingen waren hooggespannen en alsnog wist chipmaker Nvidia ze te overtreffen. Weinig bedrijven illustreren de komeetachtige opkomst van kunstmatige intelligentie beter: de omzet lag het afgelopen kwartaal 262 procent hoger dan vorig jaar.",
-          "link": "https://www.nu.nl/login-vereist/6314563/groei-van-kunstmatige-intelligentie-leidt-tot-winst-voor-nvidia.html",
-          "publishedOn": "2024-05-28T07:46:07.000Z",
-          "wordCount": 3402,
-          "title": "Uit de Volkskrant | Groei van kunstmatige intelligentie leidt tot winst voor Nvidia",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/fpmxcnzaaq17_sqr256/143/0/250/250/groei-van-kunstmatige-intelligentie-leidt-tot-winst-voor-nvidia.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/fpmxcnzaaq17_sqr256/143/0/250/250/groei-van-kunstmatige-intelligentie-leidt-tot-winst-voor-nvidia.jpg"
         }
       ]
     },
@@ -8709,6 +8694,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8669597",
+          "author": "Naomi Buchanan",
+          "description": "Nvidia held its annual shareholder meeting on Wednesday, where CEO Jensen Huang highlighted the chipmaker's prime positioning in the artificial intelligence era.",
+          "link": "https://www.investopedia.com/nvidia-blackwell-could-be-most-successful-product-in-history-ceo-jensen-huang-says-8669597",
+          "publishedOn": "2024-06-26T19:19:16.000Z",
+          "wordCount": 5137,
+          "title": "Nvidia's Blackwell Could Be 'Most Successful Product' in History, CEO Jensen Huang Says",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/wEEd-iCOiPG9tAbu7Of1QlgTqA8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2155385959-e4683ffd1d2b434a880ebe691ea561ca.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/wEEd-iCOiPG9tAbu7Of1QlgTqA8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2155385959-e4683ffd1d2b434a880ebe691ea561ca.jpg"
+        },
         {
           "id": "8669534",
           "author": "Terry Lane",
@@ -14367,6 +14367,36 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "why-amazon-stock-popped-wednesday-193000187.html",
+          "author": null,
+          "description": "The company got a vote of confidence from Wall Street and a windfall, courtesy of electric-vehicle maker Rivian.",
+          "link": "https://finance.yahoo.com/news/why-amazon-stock-popped-wednesday-193000187.html",
+          "publishedOn": "2024-06-26T19:30:00.000Z",
+          "wordCount": 20537,
+          "title": "Why Amazon Stock Popped on Wednesday",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/loBueFUqju51OX8kd9H1tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/df693c0fd98ea68026da8c82c4892730"
+        },
+        {
+          "id": "mcdonald-says-plant-based-test-153014668.html",
+          "author": null,
+          "description": "(Bloomberg) -- A McDonald’s Corp. test of its plant-based burger in San Francisco and Dallas “was not successful in either market,” Joe Erlinger, the chain’s US chief, said Wednesday.Most Read from BloombergYouTuber Dr Disrespect Was Allegedly Kicked Off Twitch for Messaging MinorTrump Could Actually Lose Florida. Here’s Why.Volkswagen Invests $5 Billion in EV Startup Rivian to Form Joint VentureNvidia Rout Takes Breather as Traders Scour Charts for SupportA $100 Billion Bet on China’s Economy S",
+          "link": "https://finance.yahoo.com/news/mcdonald-says-plant-based-test-153014668.html",
+          "publishedOn": "2024-06-26T17:45:50.000Z",
+          "wordCount": 20075,
+          "title": "McDonald’s Says Plant-Based Test Didn’t Pan Out in US",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Lu6OtCMfjV7dIqIgYdiL8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/ec671d90ba726d811a6b36803bfa12c5"
+        },
+        {
+          "id": "dave-ramsey-calls-bad-life-173956654.html",
+          "author": null,
+          "description": "Celebrated personal finance guru Dave Ramsey calls out Americans who consider saving enough money to quit their jobs because they hate them as a bad life plan. Here's what Ramsey had to say about this flawed approach. Don't Miss: The average American couple has saved this much money for retirement — How do you compare? Many are surprised by Mark Cuban’s advice for lotto winners: Cash or annuity? Recently, Ramsey wrote on X, formerly known as Twitter, to express his concerns about this latest ret",
+          "link": "https://finance.yahoo.com/news/dave-ramsey-calls-bad-life-173956654.html",
+          "publishedOn": "2024-06-26T17:39:56.000Z",
+          "wordCount": 9722,
+          "title": "Dave Ramsey Calls Out The 'Bad Life Plan' Many Americans Consider As Retirement Nowadays — 'Save Enough Money So I Can Quit The Job I Hate.'",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        },
+        {
           "id": "nvidia-shareholder-meeting-stock-price-today-6d01b66c?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "",
@@ -14384,6 +14414,16 @@
           "publishedOn": "2024-06-26T17:00:01.000Z",
           "wordCount": null,
           "title": "The S&P 500 could crater 48% when the stock-market bubble pops and recession finally hits, elite strategist says",
+          "imageUrl": null
+        },
+        {
+          "id": "ARGUS_3605_AnalystReport_1719419433000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_3605_AnalystReport_1719419433000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-06-26T16:30:33.000Z",
+          "wordCount": null,
+          "title": "Analyst Report: Zoetis Inc",
           "imageUrl": null
         },
         {
@@ -15285,6 +15325,16 @@
           "wordCount": 24705,
           "title": "Stock market today: Nvidia rebound fuels Nasdaq rally as Dow falls 300 points",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/TDSswqXL059ThStRhkI12Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/acfce740-be84-11ee-8fff-d7969c4feda0"
+        },
+        {
+          "id": "lawsuit-settled-2019-golden-ray-195708573.html",
+          "author": null,
+          "description": "A federal lawsuit filed in 2022 over the capsized Golden Ray cargo ship, which sank off the coast of Georgia with nearly 4,200 vehicles on board, has been settled. The post Lawsuit settled in 2019 Golden Ray sinking off Georgia coast appeared first on FreightWaves.",
+          "link": "https://finance.yahoo.com/news/lawsuit-settled-2019-golden-ray-195708573.html",
+          "publishedOn": "2024-06-25T19:57:08.000Z",
+          "wordCount": 17484,
+          "title": "Lawsuit settled in 2019 Golden Ray sinking off Georgia coast",
+          "imageUrl": "https://media.zenfs.com/en/freightwaves_373/a762329280934d798373e332ccc407de"
         },
         {
           "id": "why-nvidia-stock-popped-tuesday-191700361.html",
@@ -41335,66 +41385,6 @@
           "wordCount": 21701,
           "title": "Should You Buy an S&P 500 Index Fund at All-Time Highs?",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/K9TcXGMAG8HZBmU3T6B_Iw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/motleyfool.com/3c41ffcfd38bd6e5f91083149bc263ec"
-        },
-        {
-          "id": "jamie-dimons-retirement-talk-puts-new-spotlight-on-key-jpmorgan-deputies-080008882.html",
-          "author": null,
-          "description": "Jamie Dimon made it clear that he sees an end to his time as boss of the biggest US bank, putting a new spotlight on key deputies considered front runners for his job. 'It's a two-woman race.'",
-          "link": "https://finance.yahoo.com/news/jamie-dimons-retirement-talk-puts-new-spotlight-on-key-jpmorgan-deputies-080008882.html",
-          "publishedOn": "2024-05-28T08:00:08.000Z",
-          "wordCount": 21625,
-          "title": "Jamie Dimon's retirement talk puts new spotlight on key JPMorgan deputies",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/JlHTEo3SlXpTN36f_m2vPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/d77b34e0-f5ac-11ee-b5fd-8ba49f5e9059"
-        },
-        {
-          "id": "xai-elon-musks-artificial-intelligence-080000192.html",
-          "author": null,
-          "description": "xAI is reportedly building a supercomputer using 100,000 of Nvidia's H100 AI chips.",
-          "link": "https://finance.yahoo.com/news/xai-elon-musks-artificial-intelligence-080000192.html",
-          "publishedOn": "2024-05-28T08:00:00.000Z",
-          "wordCount": 20695,
-          "title": "xAI, Elon Musk's Artificial Intelligence (AI) Company, Has Spectacular News for Nvidia Stock Investors",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/o80tyfvbEz5pg3H9OfrobQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/b565ef00330d27ee336416ed496861e6"
-        },
-        {
-          "id": "whats-going-nvidia-stock-080000137.html",
-          "author": null,
-          "description": "The stock price is soaring, and investors at all levels are curious about Nvidia.",
-          "link": "https://finance.yahoo.com/news/whats-going-nvidia-stock-080000137.html",
-          "publishedOn": "2024-05-28T08:00:00.000Z",
-          "wordCount": 20645,
-          "title": "What's Going On With Nvidia Stock?",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/nKFd4PGkwS6snaA.iwxo5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/067620aff56aec170c82c43f2a94a7a5"
-        },
-        {
-          "id": "social-securitys-2025-cola-forecast-075900751.html",
-          "author": null,
-          "description": "If you're eagerly anticipating a raise next year, you'll want to pay attention.",
-          "link": "https://finance.yahoo.com/news/social-securitys-2025-cola-forecast-075900751.html",
-          "publishedOn": "2024-05-28T07:59:00.000Z",
-          "wordCount": 21127,
-          "title": "Social Security's 2025 COLA Forecast Just Improved. Here's the Latest Estimate",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/xbiP9asmREUP._5m7G0XKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/d930983563eb4aecc5d4713fed1bda9f"
-        },
-        {
-          "id": "malaysia-pm-says-targeting-over-075026775.html",
-          "author": null,
-          "description": "KUALA LUMPUR (Reuters) -Malaysia is targeting at least 500 billion ringgit ($107 billion) in investment for its semiconductor industry, Prime Minister Anwar Ibrahim said on Tuesday, as the Southeast Asian country looks to boost its position in the global supply chain.  Malaysia is a major player in the semiconductor industry, accounting for 13% of global testing and packaging.  It has attracted multi-billion dollar investments from leading firms in recent years, including Intel and Infineon.",
-          "link": "https://finance.yahoo.com/news/malaysia-pm-says-targeting-over-075026775.html",
-          "publishedOn": "2024-05-28T07:50:26.000Z",
-          "wordCount": 20675,
-          "title": "Malaysia targets over $100 billion in semiconductor industry investment",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/877122152cfef9b55452ecf3ef49a5cd"
-        },
-        {
-          "id": "calliditas-therapeutics-gets-1-1-billion-takeover-bid-from-asahi-kasei-dbc7eadc?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.wsj.com/business/deals/calliditas-therapeutics-gets-1-1-billion-takeover-bid-from-asahi-kasei-dbc7eadc?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-05-28T07:28:00.000Z",
-          "wordCount": null,
-          "title": "Calliditas Therapeutics Gets $1.1 Billion Takeover Bid From Asahi Kasei",
-          "imageUrl": null
         }
       ]
     }
