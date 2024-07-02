@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "5a048b6a6df9b1cbd65dd71d067cd37c",
+          "author": "Investopedia",
+          "description": "Salesforce shares are lower in premarket trading Tuesday, a day after an SEC filing showed that shareholders voted against pay packages for CEO Marc Benioff and other executives at the company's annual meeting last week.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9566cbe70ca3532b8b8b75b0fa3b3f8a4c50cf34802aa2df542450de26913cc69c577cc2ff78a2f9e22ef1a58822b761ea2f00cf394e1a5041fff6a6d0785fcf9fb9b6d2c98bca10568b1dd4de3233df347b7ac3",
+          "publishedOn": "2024-07-02T12:00:00.000Z",
+          "wordCount": 354,
+          "title": "Salesforce Shareholders Vote Against Pay Plans for CEO Marc Benioff, Other Execs",
+          "imageUrl": null
+        },
+        {
           "id": "dfad831338c6cbc86e1694ae23aadca7",
           "author": "Investopedia",
           "description": "Tesla is expected to release second-quarter delivery totals Tuesday. The EV maker's shares gained on optimism that the company will post solid numbers.",
@@ -8880,6 +8890,21 @@
       "siteUrl": "https://www.investopedia.com",
       "articles": [
         {
+          "id": "8672564",
+          "author": "Bill McColl",
+          "description": "Moderna announced a $176 million federal grant to develop a bird flu vaccine for humans.",
+          "link": "https://www.investopedia.com/moderna-receives-hhs-grant-to-develop-a-bird-flu-vaccine-8672564",
+          "publishedOn": "2024-07-02T13:59:53.000Z",
+          "wordCount": 5400,
+          "title": "Moderna Receives HHS Grant To Develop a Bird Flu Vaccine",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Lwaum872IbA6wBUFazZnCtbuUN8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2158427559-5f25476293074fa0a7d8a7813068be42.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Lwaum872IbA6wBUFazZnCtbuUN8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2158427559-5f25476293074fa0a7d8a7813068be42.jpg"
+        },
+        {
           "id": "8672536",
           "author": "Aaron McDade",
           "description": "Salesforce shares are lower in premarket trading Tuesday, a day after an SEC filing showed that shareholders voted against pay packages for CEO Marc Benioff and other executives at the company's annual meeting last week.",
@@ -14533,36 +14558,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/LXVen8D1zaGpu75ASUlUcyg3pDQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2155127379-e5a488b056414333b46ea207c258d2d2.jpg"
-        },
-        {
-          "id": "8657191",
-          "author": "Timothy Smith",
-          "description": "Watch This Key Price Level",
-          "link": "https://www.investopedia.com/nvidia-stock-rises-after-ai-darling-reveals-next-gen-chip-8657191",
-          "publishedOn": "2024-06-03T02:10:19.000Z",
-          "wordCount": 6480,
-          "title": "Nvidia Stock Rises After AI Darling Reveals Next-Gen Chip",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/aEtD2dsWsHynHGRDjafWsukr0_0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/NVDAChart-c516d1d4410e4cf2acbc98361b1c0a96.GIF",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/aEtD2dsWsHynHGRDjafWsukr0_0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/NVDAChart-c516d1d4410e4cf2acbc98361b1c0a96.GIF"
-        },
-        {
-          "id": "8657191",
-          "author": "Timothy Smith",
-          "description": "Watch This Key Price Level",
-          "link": "https://www.investopedia.com/nvidia-stock-in-focus-after-ai-darling-reveals-next-gen-chip-8657191",
-          "publishedOn": "2024-06-03T02:10:19.000Z",
-          "wordCount": 5460,
-          "title": "Nvidia Stock in Focus After AI Darling Reveals Next-Gen Chip",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/aEtD2dsWsHynHGRDjafWsukr0_0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/NVDAChart-c516d1d4410e4cf2acbc98361b1c0a96.GIF",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/aEtD2dsWsHynHGRDjafWsukr0_0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/NVDAChart-c516d1d4410e4cf2acbc98361b1c0a96.GIF"
         }
       ]
     },
@@ -14575,10 +14570,70 @@
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
+          "link": "https://www.investors.com/news/rivian-stock-deliveries-top-expectations/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-07-02T13:44:47.000Z",
+          "wordCount": null,
+          "title": "Rivian Deliveries In Q2 Top Company's Own Expectations As EV Startup Maintains 2024 Guidance",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/tesla-stock-vehicle-deliveries-q22024/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-07-02T13:43:03.000Z",
+          "wordCount": null,
+          "title": "Tesla Deliveries Fall 4% Compared To Last Year But Beat Analyst Predictions",
+          "imageUrl": null
+        },
+        {
+          "id": "tesla-stock-pops-as-quarterly-vehicle-deliveries-beat-wall-street-estimates-133220335.html",
+          "author": null,
+          "description": "The EV giant delivered 443,956 vehicles during the second quarter, versus an analyst consensus estimate of 439,302 deliveries.",
+          "link": "https://finance.yahoo.com/news/tesla-stock-pops-as-quarterly-vehicle-deliveries-beat-wall-street-estimates-133220335.html",
+          "publishedOn": "2024-07-02T13:32:20.000Z",
+          "wordCount": 9370,
+          "title": "Tesla stock pops as quarterly vehicle deliveries beat Wall Street estimates",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/4WamoLysVYmJANLM9rA8VQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/6c3105f0-3861-11ef-bb7b-7ae602ed5129"
+        },
+        {
+          "id": "1-growth-stock-down-56-130700049.html",
+          "author": null,
+          "description": "Check out a tech company making strategic moves for future success. This hidden AI gem comes with fantastic growth prospects.",
+          "link": "https://finance.yahoo.com/news/1-growth-stock-down-56-130700049.html",
+          "publishedOn": "2024-07-02T13:07:00.000Z",
+          "wordCount": 20806,
+          "title": "1 Growth Stock Down 56% to Buy Right Now",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/FaCCboEguKTkhyk2gWeWpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/cb9f02cd30ca59daffaa2742f810ce12"
+        },
+        {
+          "id": "cathie-wood-says-software-next-125500608.html",
+          "author": null,
+          "description": "Nvidia has soaked up trillions of dollars worth of value created by AI so far, but software stocks might be the next opportunity for investors.",
+          "link": "https://finance.yahoo.com/news/cathie-wood-says-software-next-125500608.html",
+          "publishedOn": "2024-07-02T12:55:00.000Z",
+          "wordCount": 21208,
+          "title": "Cathie Wood Says Software Is the Next Big AI Opportunity -- 2 Supercharged Stocks You'll Regret Not Buying if She's Right",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/1ldSLG.MeZhFcL9GeBAaUg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzM-/https://media.zenfs.com/en/motleyfool.com/8316c1ce51f15655ae5ea3b22fb4194e"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
           "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-tesla-stock-powell-speech/?src=A00220&yptr=yahoo",
           "publishedOn": "2024-07-02T12:54:44.000Z",
           "wordCount": null,
           "title": "Dow Jones Futures Fall Ahead Of Powell Speech; Tesla Deliveries Imminent",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/biotech-stock-cartesian-therapeutics-car-t-generalized-myasthenia-gravis/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-07-02T12:53:22.000Z",
+          "wordCount": null,
+          "title": "Cartesian Therapeutics Plummets On 'Watershed Moment' For CAR-T Drugs",
           "imageUrl": null
         },
         {
@@ -14602,6 +14657,16 @@
           "imageUrl": null
         },
         {
+          "id": "whirlpool-being-taken-over-heres-114600908.html",
+          "author": null,
+          "description": "The company has recently been the subject of takeover speculation.",
+          "link": "https://finance.yahoo.com/news/whirlpool-being-taken-over-heres-114600908.html",
+          "publishedOn": "2024-07-02T11:46:00.000Z",
+          "wordCount": 20802,
+          "title": "Is Whirlpool Being Taken Over? Here's Why It Would Make Sense.",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/4e737fe7606ca07d3ee0216e5d219b11"
+        },
+        {
           "id": "2-millionaire-maker-artificial-intelligence-113000902.html",
           "author": null,
           "description": "These two AI stocks are poised to create even more millionaires.",
@@ -14610,6 +14675,16 @@
           "wordCount": 6947,
           "title": "2 Millionaire-Maker Artificial Intelligence (AI) Stocks",
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/6e4994fb72d983847a89db59490576c7"
+        },
+        {
+          "id": "stock-market-today-us-stocks-slip-back-with-jobs-data-front-of-mind-112525941.html",
+          "author": null,
+          "description": "Investors cautiously weighed the rate-cut odds ahead of crucial June jobs data, with Powell comments on deck.",
+          "link": "https://finance.yahoo.com/news/stock-market-today-us-stocks-slip-back-with-jobs-data-front-of-mind-112525941.html",
+          "publishedOn": "2024-07-02T11:25:25.000Z",
+          "wordCount": 21099,
+          "title": "Stock market today: US stocks slip back with jobs data front of mind",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/0YRAAYvLm6CVA7uh82ifMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/2ec0e2c0-0919-11ef-af57-6967d60bf438"
         },
         {
           "id": "stock-market-today-us-futures-slip-back-with-jobs-data-front-of-mind-112525360.html",
@@ -14762,6 +14837,16 @@
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/0cbad8fbfd187242b5a28dc474247665"
         },
         {
+          "id": "us-court-decision-casts-shadow-100942935.html",
+          "author": null,
+          "description": "Just weeks after a U.S. appeals court blocked a Black-owned venture capitalist from funding women-of-color-led businesses, the ruling has had a chilling effect across the small industry of diversity-focused venture capital funds, according to founders, investors and lawyers who spoke to Reuters.  The Atlanta-based 11th U.S. Circuit Court of Appeals in early June found an anti-affirmative action group's lawsuit that accused Fearless Fund of discrimination would likely succeed, reversing a judge's decision to allow the firm to continue making grants while the case proceeded.  The Fearless Fund, established in 2019 to bridge the gap in venture capital funding for women of color, is facing a lawsuit by the American Alliance for Equal Rights, run by conservative activist Edward Blum, who led the successful U.S. Supreme Court challenge to the consideration of race as a factor in college admissions.",
+          "link": "https://finance.yahoo.com/news/us-court-decision-casts-shadow-100942935.html",
+          "publishedOn": "2024-07-02T10:09:42.000Z",
+          "wordCount": 21208,
+          "title": "US court decision casts shadow on diversity venture capital funding",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/185f0d79905f0455356ff012775b7072"
+        },
+        {
           "id": "history-says-stocks-are-looking-bullish-after-a-big-first-half-of-the-year-morning-brief-100050993.html",
           "author": null,
           "description": "Breaking down July's market history outlines bullish overall trends going forward for the second half of the year.",
@@ -14800,6 +14885,16 @@
           "wordCount": 21059,
           "title": "Should You Buy Broadcom Before or After the July 12 Stock Split? 1 Detail Gives Us the Answer.",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/N1KJtYMHo07pYlPmP1Q9Hg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/a99cc6b0e2b90a52a87c6d9422121645"
+        },
+        {
+          "id": "thinks-m-too-materialistic-husband-092600624.html",
+          "author": null,
+          "description": "“I am really worried that if I’m not around, he will not be able to manage the basics of everyday life for himself and our children.”",
+          "link": "https://finance.yahoo.com/news/thinks-m-too-materialistic-husband-092600624.html",
+          "publishedOn": "2024-07-02T09:26:00.000Z",
+          "wordCount": 21578,
+          "title": "‘He thinks I’m too materialistic’: My husband and I are in our 40s. He takes zero interest in our finances. He doesn’t even know the name of our mortgage company. What can I do?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/tnjFPmyy4Obqkzkm9t4YZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/146912912eae3472958790000f0f589c"
         },
         {
           "id": "time-pounce-2-ultra-high-092100247.html",
@@ -15140,6 +15235,16 @@
           "wordCount": 21059,
           "title": "Retired Couple Making Over $9000 A Month With $1 Million Savings Can't Agree Whether To Buy Or Rent — Suze Orman Says 'Listen To Your Wife'",
           "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        },
+        {
+          "id": "ex-billionaire-gets-7-1-184123314.html",
+          "author": null,
+          "description": "(Bloomberg) -- A former jet-setting Chicago billionaire was sentenced to seven and a half years in prison for a $1 billion fraud at an advertising startup that included investors such as Goldman Sachs Group Inc., Google parent Alphabet Inc. and Illinois Governor JB Pritzker’s venture capital firm. Most Read from BloombergDemocrats Weigh Mid-July Vote to Formally Tap Biden as NomineeTrump Immunity Ruling Means Any Trial Before Election UnlikelyBeryl Becomes Earliest Ever Category 5 Hurricane in A",
+          "link": "https://finance.yahoo.com/news/ex-billionaire-gets-7-1-184123314.html",
+          "publishedOn": "2024-07-01T18:41:23.000Z",
+          "wordCount": 20875,
+          "title": "Ex-Billionaire Gets 7 1/2-Year Sentence for Defrauding Investors Goldman, Google",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/09G8fURNbfowYgyxJPM55g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/5a1e0d80ee3fbd594a485be80aba105b"
         },
         {
           "id": "gen-z-millennial-millionaires-couldnt-183253248.html",
@@ -40770,36 +40875,6 @@
           "wordCount": 19771,
           "title": "AMD Announces Future AI Chips, Will Speed Rollout of New Models",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/xuKKYsV7_NRLYHlcY4dPHg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_technology_68/e5a770da9906516cdcad8aaf993767a4"
-        },
-        {
-          "id": "india-stock-futures-rally-polls-010509234.html",
-          "author": null,
-          "description": "(Bloomberg) -- India’s stock futures jumped after exit polls indicated a resounding victory for Prime Minister Narendra Modi’s ruling party in general elections that concluded Saturday.Most Read from BloombergKey Engines of US Consumer Spending Are Losing Steam All at OnceHomebuyers Are Starting to Revolt Over Steep Prices Across USMnuchin Chases Wall Street Glory With His War Chest of Foreign MoneySaudi Arabia Puts Wall Street on Notice to Set Up Shop in RiyadhModi Set for Landslide Election Wi",
-          "link": "https://finance.yahoo.com/news/india-stock-futures-rally-polls-010509234.html",
-          "publishedOn": "2024-06-03T01:59:19.000Z",
-          "wordCount": 19647,
-          "title": "India’s Stock Futures Surge as Polls Predict Landslide Modi Win",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/d3Pn.FGoIVMYnyg5dpiYUg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/04f2d049bbb158617b3133167955b45c"
-        },
-        {
-          "id": "ask-advisor-im-65-earning-192928957.html",
-          "author": null,
-          "description": "I am 65 and at the absolute peak of my earnings. I'm also in the 35% tax bracket and am not looking to retire soon. I need $30,000 for a home project. I have enough to take it out of … Continue reading → The post Ask An Advisor: I'm 65, Earning at My ‘Absolute Peak' and Won't Retire Soon. Should I Use My Roth IRA for a $30K Home Improvement Project? appeared first on SmartAsset Blog.",
-          "link": "https://finance.yahoo.com/news/ask-advisor-im-65-earning-192928957.html",
-          "publishedOn": "2024-06-03T01:45:02.000Z",
-          "wordCount": 20604,
-          "title": "Ask An Advisor: I'm 65, Earning More Than Ever and Won't Retire Soon. Should I Use My Roth IRA for a $30K Home Improvement Project?",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/9ca022b578f2224531a0979465a7809d"
-        },
-        {
-          "id": "gamestop-stock-price-roaring-kitty-80d7e25b?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/gamestop-stock-price-roaring-kitty-80d7e25b?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-06-03T01:24:00.000Z",
-          "wordCount": null,
-          "title": "‘Roaring Kitty’ Is Back Again. He Appears to Own a Lot of GameStop Stock.",
-          "imageUrl": null
         }
       ]
     }
