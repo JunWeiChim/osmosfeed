@@ -8520,6 +8520,21 @@
       "siteUrl": "https://www.investopedia.com",
       "articles": [
         {
+          "id": "8674042",
+          "author": "Terry Lane",
+          "description": "Numbers Indicate a Cooling of the Labor Market",
+          "link": "https://www.investopedia.com/june-2024-jobs-report-8674042",
+          "publishedOn": "2024-07-05T13:57:48.000Z",
+          "wordCount": 5225,
+          "title": "US Job Growth Slowed in June as Unemployment Rate Rose to 4.1%",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/9oQgJVUpV4dOk8R9hG7TU1d9va8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2159901077-912e4b217d9a4b638d410f46e1d072e7.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/9oQgJVUpV4dOk8R9hG7TU1d9va8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2159901077-912e4b217d9a4b638d410f46e1d072e7.jpg"
+        },
+        {
           "id": "8674029",
           "author": "Terry Lane",
           "description": "News of the day for July 5, 2024",
@@ -14023,21 +14038,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/YNgIjuD8uICESW7sfnRXIe5358w=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/LULUChart-1da9a574b36b49cd9425bf76ea78c776.GIF"
-        },
-        {
-          "id": "8659128",
-          "author": "Timothy Smith",
-          "description": "Monitor These Support Levels",
-          "link": "https://www.investopedia.com/key-stock-price-levels-to-watch-following-nvidia-admission-into-usd3t-club-8659128",
-          "publishedOn": "2024-06-06T01:42:19.000Z",
-          "wordCount": 5134,
-          "title": "Key Stock Price Levels to Watch Following Nvidia's Admission Into $3T Club",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/iE64RUtv_JVE9rOHaRjHf6G6eoQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/NVDAChart-f18a96f4bd7340849cf5a6d2509422b3.GIF",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/iE64RUtv_JVE9rOHaRjHf6G6eoQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/NVDAChart-f18a96f4bd7340849cf5a6d2509422b3.GIF"
         }
       ]
     },
@@ -14046,6 +14046,56 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-report-tesla-stock-tsla/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-07-05T13:51:37.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Falls On Jobs Report; Tesla Stock Reverses Lower",
+          "imageUrl": null
+        },
+        {
+          "id": "stock-market-today-the-sp-500-holds-near-record-as-jobs-data-lands-133030176.html",
+          "author": null,
+          "description": "Investors are looking to the June jobs report for signs of more softening in the labor market that could lay the ground for rate cuts.",
+          "link": "https://finance.yahoo.com/news/stock-market-today-the-sp-500-holds-near-record-as-jobs-data-lands-133030176.html",
+          "publishedOn": "2024-07-05T13:30:30.000Z",
+          "wordCount": 21776,
+          "title": "Stock market today: The S&P 500 holds near record as jobs data lands",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/nP1ensU4UfGzgRuZkJBG6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/9adaa440-3903-11ef-acd5-b6ecd1b15a22"
+        },
+        {
+          "id": "2-millionaire-maker-technology-stocks-131701964.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/2-millionaire-maker-technology-stocks-131701964.html",
+          "publishedOn": "2024-07-05T13:17:01.000Z",
+          "wordCount": null,
+          "title": "2 Millionaire-Maker Technology Stocks",
+          "imageUrl": null
+        },
+        {
+          "id": "why-the-sp-500-is-poised-to-rocket-100-in-5-years-130007834.html",
+          "author": null,
+          "description": "We are in the early innings of a bull market despite several years of big gains, says one veteran market strategist.",
+          "link": "https://finance.yahoo.com/news/why-the-sp-500-is-poised-to-rocket-100-in-5-years-130007834.html",
+          "publishedOn": "2024-07-05T13:00:07.000Z",
+          "wordCount": 20676,
+          "title": "Why the S&P 500 is poised to rocket 100% in 5 years",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/o2AjLuULwWUYtaDOFYW9tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/d3dd4ce0-3974-11ef-b9ff-a0053ad29fee"
+        },
+        {
+          "id": "5-reasons-sirius-xm-keep-130000925.html",
+          "author": null,
+          "description": "The satellite radio stock is up 36% over the past month. It can keep the good times going this year.",
+          "link": "https://finance.yahoo.com/news/5-reasons-sirius-xm-keep-130000925.html",
+          "publishedOn": "2024-07-05T13:00:00.000Z",
+          "wordCount": 7207,
+          "title": "5 Reasons Sirius XM Can Keep Rolling in the 2nd Half of 2024",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/BX10EnGaCKexTpqSUIgT5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/9cda44df97dd81ef306d15d9ef3c9145"
+        },
         {
           "id": "jobs-report-today-economy-added-123834484.html",
           "author": null,
@@ -14144,6 +14194,16 @@
           "publishedOn": "2024-07-05T11:13:00.000Z",
           "wordCount": null,
           "title": "These Stocks Are Moving the Most Today: Tesla, Coinbase, MicroStrategy, Macy’s, Amazon, and More",
+          "imageUrl": null
+        },
+        {
+          "id": "heard-on-the-street-ai-boom-is-double-edged-sword-for-samsung-SHOH31H3T41DqBKM4JTX?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/livecoverage/stock-market-today-jobs-report-live-07-05-2024/card/heard-on-the-street-ai-boom-is-double-edged-sword-for-samsung-SHOH31H3T41DqBKM4JTX?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-07-05T11:12:52.000Z",
+          "wordCount": null,
+          "title": "Heard on the Street: AI Boom Is Double-Edged Sword for Samsung",
           "imageUrl": null
         },
         {
@@ -39845,26 +39905,6 @@
           "wordCount": null,
           "title": "The best-performing EV stock this year is a school bus manufacturer",
           "imageUrl": null
-        },
-        {
-          "id": "california-fast-food-wage-hike-020705546.html",
-          "author": null,
-          "description": "Wage hikes in California for many fast food workers have left businesses struggling to stay afloat as many have resorted to increased prices and laying off employees.",
-          "link": "https://finance.yahoo.com/news/california-fast-food-wage-hike-020705546.html",
-          "publishedOn": "2024-06-06T02:07:05.000Z",
-          "wordCount": 19981,
-          "title": "California fast food wage hike has had detrimental impact, puts businesses in 'jeopardy,' critic says",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/iOWil4Vas.BB22voOWRUGA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_business_text_367/889d62d13d31c5d4fc83c89c70f39012"
-        },
-        {
-          "id": "nvidia-hits-3-trillion-market-012110825.html",
-          "author": null,
-          "description": "Ahead of its 10-for-1 stock split, Nvidia becomes just the third company in U.S. history to surpass this benchmark.",
-          "link": "https://finance.yahoo.com/news/nvidia-hits-3-trillion-market-012110825.html",
-          "publishedOn": "2024-06-06T01:21:10.000Z",
-          "wordCount": 20694,
-          "title": "Nvidia Hits a $3 Trillion Market Cap Ahead of Its 10-for-1 Stock Split. Here's What's Next for Investors.",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/8qMpOgwRZ4psjPa0g6XFKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/45880cb610b0883a1241092b1c740e50"
         }
       ]
     }
