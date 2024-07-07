@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-07T15:13:33.516Z</updated>
+    <updated>2024-07-07T16:15:13.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -102,6 +102,16 @@
         <link href="https://finance.yahoo.com/news/companies-paid-investors-16-billion-122600735.html"/>
         <updated>2024-07-07T12:26:00.000Z</updated>
         <summary type="html"><![CDATA[Dividend payments continue to rise.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple unfairly sacked analyst who took secret photos of female colleague]]></title>
+        <id>apple-unfairly-sacked-analyst-took-120613492.html</id>
+        <link href="https://www.yahoo.com/news/apple-unfairly-sacked-analyst-took-120613492.html"/>
+        <updated>2024-07-07T12:06:13.000Z</updated>
+        <summary type="html"><![CDATA[Apple unfairly sacked an employee at its London headquarters who took secret photos of a female colleague and shared them with other staff, a judge has ruled.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
