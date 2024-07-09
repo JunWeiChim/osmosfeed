@@ -2808,6 +2808,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6319961",
+          "author": null,
+          "description": "De meeste Nederlanders gaan wél op vakantie en wie dat doet, gaat gemiddeld 2,5 keer. Toch gaat één op de vijf mensen niet weg. Van die groep geeft een derde aan liever thuis te blijven.",
+          "link": "https://www.nu.nl/economie/6319961/nederlanders-die-niet-op-vakantie-gaan-blijven-gewoon-liever-thuis.html",
+          "publishedOn": "2024-07-09T04:39:43.000Z",
+          "wordCount": 445,
+          "title": "Nederlanders die niet op vakantie gaan, blijven gewoon liever thuis",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/u7expiwavrcw_sqr256/0/0/3023/3023/nederlanders-die-niet-op-vakantie-gaan-blijven-gewoon-liever-thuis.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/u7expiwavrcw_sqr256/0/0/3023/3023/nederlanders-die-niet-op-vakantie-gaan-blijven-gewoon-liever-thuis.jpg"
+        },
+        {
           "id": "article-6319952",
           "author": null,
           "description": "De bouwsector roept dinsdagochtend het nieuwe kabinet op om de slechte waterkwaliteit en sloten en rivieren te verbeteren. Als dat niet gebeurt, dreigt een nieuwe crisis. Daardoor zou de bouw van woningen vertraging oplopen.",
@@ -13961,6 +13976,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "stock-market-today-nvidia-pushes-040806510.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/stock-market-today-nvidia-pushes-040806510.html",
+          "publishedOn": "2024-07-09T04:08:06.000Z",
+          "wordCount": null,
+          "title": "Stock market today: Nvidia pushes Nasdaq, S&P 500 to record highs",
+          "imageUrl": null
+        },
+        {
+          "id": "nvidia-poised-surge-another-16-021525890.html",
+          "author": null,
+          "description": "Nvidia's potential $5 EPS in 2025 would give it a valuation of 25.6x on a forward price-to-earnings basis.",
+          "link": "https://finance.yahoo.com/news/nvidia-poised-surge-another-16-021525890.html",
+          "publishedOn": "2024-07-09T02:15:25.000Z",
+          "wordCount": 18129,
+          "title": "Nvidia is poised to surge another 16% as signs point to 'exceedingly robust' demand for its next-gen Blackwell chip, UBS says",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Vekgd55_KDDZ42FaLmcN4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/7bc74bb09a711ef22ea16c63e3499a84"
+        },
         {
           "id": "watch-intel-stock-price-levels-014829971.html",
           "author": null,
@@ -39160,26 +39195,6 @@
           "wordCount": null,
           "title": "America's plan to fix its economy is going to screw over the rest of the world",
           "imageUrl": null
-        },
-        {
-          "id": "dave-ramseys-8-retirement-rule-170012492.html",
-          "author": null,
-          "description": "Financial guru Dave Ramsey continues to stir controversy, advising that many think only the wealthy are equipped for it. This time, it's his 8% retirement rule. On an episode of \"The Ramsey Show,\" Ramsey rants about the \"moronic\" advice that financial experts are telling people to withdraw only 4-5% of their investment portfolios. Ramsey firmly believes that retirees can safely withdraw 8% of their portfolio's starting value each year, adjusted for inflation, without depleting their principal. H",
-          "link": "https://finance.yahoo.com/news/dave-ramseys-8-retirement-rule-170012492.html",
-          "publishedOn": "2024-06-09T17:00:12.000Z",
-          "wordCount": 20214,
-          "title": "Dave Ramsey's 8% Retirement Rule Receives Pushback — Critics Say He Is 'Deeply Wrong'",
-          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
-        },
-        {
-          "id": "nvidia-stock-split-whats-next-for-the-stock-and-other-ai-plays-163017546.html",
-          "author": null,
-          "description": "Nvidia's stock split signals its bull run is far from over, experts tell Yahoo Finance.",
-          "link": "https://finance.yahoo.com/news/nvidia-stock-split-whats-next-for-the-stock-and-other-ai-plays-163017546.html",
-          "publishedOn": "2024-06-09T16:30:17.000Z",
-          "wordCount": 20360,
-          "title": "Nvidia stock split: What's next for the stock and other AI plays",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Xjorn4_oK90rkAf.OPEvRQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/567620b0-f513-11ee-bfd7-8afddcb7fee0"
         }
       ]
     }
