@@ -1611,6 +1611,16 @@
           "imageUrl": null
         },
         {
+          "id": "3f2df5f4cd66b7aa6f3c664142781e9e",
+          "author": "Investopedia",
+          "description": "Keep updated on the latest events that are effecting markets, the economy, and your portfolio.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b66d5e91ab14f74868b2fb0bf6e79dd13089364",
+          "publishedOn": "2024-07-10T12:00:00.000Z",
+          "wordCount": 354,
+          "title": "Markets News",
+          "imageUrl": null
+        },
+        {
           "id": "83a01828aefe33d93e05c3edd8a47dca",
           "author": "Investopedia",
           "description": "LegalZoom shares tanked Wednesday after the company said CEO Dan Wernikoff was departing and it reduced its full-year guidance.",
@@ -8601,21 +8611,6 @@
             "url": "https://images.nu.nl/m/a4ix453auaan_sqr256/1041/0/3337/3337/asml-krijgt-groen-licht-voor-grote-uitbreiding-in-eindhoven.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/a4ix453auaan_sqr256/1041/0/3337/3337/asml-krijgt-groen-licht-voor-grote-uitbreiding-in-eindhoven.jpg"
-        },
-        {
-          "id": "article-6316596",
-          "author": null,
-          "description": "De pornosite xHamster moet ervoor zorgen dat alle beelden waarvoor ze geen toestemming heeft gekregen van de mensen die erop te zien zijn weggehaald worden. Doet xHamster dat niet, dan kan het dwangsommen verwachten.",
-          "link": "https://www.nu.nl/tech/6316596/pornosite-xhamster-verliest-hoger-beroep-en-moet-illegale-beelden-verwijderen.html",
-          "publishedOn": "2024-06-12T14:12:58.000Z",
-          "wordCount": 445,
-          "title": "Pornosite xHamster verliest hoger beroep en moet illegale beelden verwijderen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/dehxf6baer1z_sqr256/0/2145/4477/4477/pornosite-xhamster-verliest-hoger-beroep-en-moet-illegale-beelden-verwijderen.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/dehxf6baer1z_sqr256/0/2145/4477/4477/pornosite-xhamster-verliest-hoger-beroep-en-moet-illegale-beelden-verwijderen.jpg"
         }
       ]
     },
@@ -8624,6 +8619,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8676959",
+          "author": "Timothy Smith",
+          "description": "The Small Cap Index Gained 3.6% on Thursday as S&P 500 and Nasdaq Composite Tumbled",
+          "link": "https://www.investopedia.com/watch-these-key-russell-2000-levels-amid-rotation-into-small-caps-8676959",
+          "publishedOn": "2024-07-12T02:14:02.000Z",
+          "wordCount": 6037,
+          "title": "Watch These Key Russell 2000 Levels Amid Rotation Into Small Cap Stocks",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/cJjG17A5b1gBvJG6W5oJ1ry_lck=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/RUTChart-171806c966c5463b95ac2bde9de19239.gif",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/cJjG17A5b1gBvJG6W5oJ1ry_lck=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/RUTChart-171806c966c5463b95ac2bde9de19239.gif"
+        },
         {
           "id": "8676538",
           "author": "Elizabeth Guevara",
@@ -14723,21 +14733,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/FANVipzWRT_t0B1cd4tJaQC9x_c=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2156542191-108bff1f374349e895e0bf8593939fbd.jpg"
-        },
-        {
-          "id": "8662077",
-          "author": "Bill McColl",
-          "description": "European regulators threatened massive tariffs on Chinese EV makers because of the subsidies they receive from Beijing.",
-          "link": "https://www.investopedia.com/chinese-ev-makers-face-huge-tariffs-in-europe-over-subsidies-from-beijing-8662077",
-          "publishedOn": "2024-06-12T14:06:46.000Z",
-          "wordCount": 5226,
-          "title": "Chinese EV Makers Face Huge Tariffs in Europe Over Subsidies From Beijing",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/xbbfqi7p-Jh6j34nQgIKWG8PXGQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2156443818-0ac4cdd7affd4a94b9f6f1885b7150d7.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/xbbfqi7p-Jh6j34nQgIKWG8PXGQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2156443818-0ac4cdd7affd4a94b9f6f1885b7150d7.jpg"
         }
       ]
     },
@@ -39735,136 +39730,6 @@
           "wordCount": 19776,
           "title": "Nvidia Stock Investors Just Got Spectacular News From Oracle",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/4Ydmq3A_3SXyJDqRQt1cZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/525a471227683006e9926d9f816e550f"
-        },
-        {
-          "id": "whole-paycheck-whole-strategy-whole-143014459.html",
-          "author": null,
-          "description": "Whole Foods founder John Mackey has praised Amazon founder Jeff Bezos for his strategy, making the supermarket chain even more successful. He has also called him a \"retail genius.\" Here's what went down. Don't Miss: Are you rich? Here’s what Americans think you need to be considered wealthy. Can you guess how many Americans successfully retire with $1,000,000 saved? The percentage may shock you. Before Bezos and Amazon acquired the business in 2017, the supermarket chain Whole Foods was battling",
-          "link": "https://finance.yahoo.com/news/whole-paycheck-whole-strategy-whole-143014459.html",
-          "publishedOn": "2024-06-12T14:30:14.000Z",
-          "wordCount": 20485,
-          "title": "From 'Whole Paycheck' To Whole New Strategy: Whole Foods Founder Hails Bezos As 'Retail Genius'",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/96beee5063744fdba6ad78aa300bc386"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/research/palantir-pltr-nvidia-ai-stocks/?src=A00220&yptr=yahoo",
-          "publishedOn": "2024-06-12T14:21:54.000Z",
-          "wordCount": null,
-          "title": "Palantir Rebounds On Strong AI Outlook, Nears Buy Point",
-          "imageUrl": null
-        },
-        {
-          "id": "2-millionaire-maker-e-commerce-140700839.html",
-          "author": null,
-          "description": "These stocks report consistent growth and have massive opportunities.",
-          "link": "https://finance.yahoo.com/news/2-millionaire-maker-e-commerce-140700839.html",
-          "publishedOn": "2024-06-12T14:07:00.000Z",
-          "wordCount": 20336,
-          "title": "2 Millionaire-Maker E-Commerce Stocks",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/9683988416374c1a8eaf200f4952fdbd"
-        },
-        {
-          "id": "charlie-munger-said-people-werent-140024373.html",
-          "author": null,
-          "description": "The legendary duo of Warren Buffett and Charlie Munger transformed Berkshire Hathaway into a multibillion-dollar empire through astute investments and a unique approach to market inefficiencies. Munger, who passed away last year, was known for his straightforward and often blunt insights into the investment world. During the 2015 Berkshire Hathaway annual meeting, Munger remarked to Buffett, \"If people weren't so often wrong, we wouldn't be so rich.\" This statement encapsulates the core philosop",
-          "link": "https://finance.yahoo.com/news/charlie-munger-said-people-werent-140024373.html",
-          "publishedOn": "2024-06-12T14:00:24.000Z",
-          "wordCount": 20395,
-          "title": "Charlie Munger Said, 'If People Weren't So Often Wrong, We Wouldn't Be So Rich' — Here's What Investors Get Wrong",
-          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
-        },
-        {
-          "id": "2-artificial-intelligence-ai-companies-140000929.html",
-          "author": null,
-          "description": "These shares are getting awfully pricey after massive runs.",
-          "link": "https://finance.yahoo.com/news/2-artificial-intelligence-ai-companies-140000929.html",
-          "publishedOn": "2024-06-12T14:00:00.000Z",
-          "wordCount": 20346,
-          "title": "2 Artificial Intelligence (AI) Companies That Could Follow Nvidia's Lead and Split Their Stock",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/2fefc0e2f765ce342c2c78e14a76d55e"
-        },
-        {
-          "id": "apple-stock-price-iphone-ai-d07a43f5?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/apple-stock-price-iphone-ai-d07a43f5?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-06-12T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Apple Passes Microsoft to Reclaim Status as Most Valuable Company. Why the Stock Is Shining Now.",
-          "imageUrl": null
-        },
-        {
-          "id": "openai-pushes-back-on-larry-ellison-s-description-of-oracle-deal-uxqZQynO08GO8ax1TMi3?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-decision-cpi-inflation-june-2024/card/openai-pushes-back-on-larry-ellison-s-description-of-oracle-deal-uxqZQynO08GO8ax1TMi3?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-06-12T13:47:05.000Z",
-          "wordCount": null,
-          "title": "OpenAI Pushes Back on Larry Ellison's Description of Oracle Deal",
-          "imageUrl": null
-        },
-        {
-          "id": "prediction-2-stocks-worth-more-134700353.html",
-          "author": null,
-          "description": "Alphabet and Amazon are bearing down on Apple.",
-          "link": "https://finance.yahoo.com/news/prediction-2-stocks-worth-more-134700353.html",
-          "publishedOn": "2024-06-12T13:47:00.000Z",
-          "wordCount": 20319,
-          "title": "Prediction: 2 Stocks That Will Be Worth More Than Apple 10 Years From Now",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/78bb9e1b4ab8535093dd473bcc7d0135"
-        },
-        {
-          "id": "short-seller-citron-closes-short-134541308.html",
-          "author": null,
-          "description": "GameStop Corp (NYSE:GME) stock is trading higher on Wednesday after short-seller Citron Research closed its short position in the company. Citron Research tweeted Wednesday that it no longer has a short position on the stock. The short seller is not bullish on the company’s fundamentals. It said “with $5 billion in the bank, they have enough runway to appease their cult like shareholders. Despite Wedbush setting an $11 target today, we respect the market’s irrationality. After all, Dogecoin rema",
-          "link": "https://finance.yahoo.com/news/short-seller-citron-closes-short-134541308.html",
-          "publishedOn": "2024-06-12T13:45:41.000Z",
-          "wordCount": 20102,
-          "title": "Short Seller Citron Closes Short Position In GameStop, Says 'It Respects Market's Irrationality'",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/0b6bb011db7093a5d7c12d25a29f2ec5"
-        },
-        {
-          "id": "3-high-yielding-dividend-stocks-134500383.html",
-          "author": null,
-          "description": "Income investors will love these generous dividend stocks.",
-          "link": "https://finance.yahoo.com/news/3-high-yielding-dividend-stocks-134500383.html",
-          "publishedOn": "2024-06-12T13:45:00.000Z",
-          "wordCount": 20405,
-          "title": "3 High-Yielding Dividend Stocks That Pay More Than Four Times the S&P 500 Average",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/XKytPREAy7jRJDyHfwh9OQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/833287fdf830b92390e414df0cd7d101"
-        },
-        {
-          "id": "citron-research-closes-gamestop-short-133529622.html",
-          "author": null,
-          "description": "Citron Research no longer has a short position in retail traders' favorite GameStop, the short seller said on X.com on Wednesday, days after taking a bearish position in the company.  Andrew Left, Citron Research's founder, had said last week he was again betting against GameStop, although his position was \"significantly lower\" from 2021 when he was forced to close his position after retail traders banded together in online forums and drove an eye popping rally in the stock, squeezing hedge funds.  Left told Reuters he would short GameStop again if the stock reached a $45-$50 level.",
-          "link": "https://finance.yahoo.com/news/citron-research-closes-gamestop-short-133529622.html",
-          "publishedOn": "2024-06-12T13:35:29.000Z",
-          "wordCount": 19967,
-          "title": "Citron Research closes GameStop short position",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/83ea5b70676c79524bb1a09e3810389c"
-        },
-        {
-          "id": "tesla-stock-musk-pay-package-5705e717?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/tesla-stock-musk-pay-package-5705e717?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-06-12T13:14:00.000Z",
-          "wordCount": null,
-          "title": "An Obvious Reason Musk’s Pay Package Will Pass",
-          "imageUrl": null
-        },
-        {
-          "id": "stock-market-performs-cpi-report-113800444.html",
-          "author": null,
-          "description": "Investors are bracing for a rare double feature Wednesday when a key inflation reading and a Fed meeting occur the same day.",
-          "link": "https://finance.yahoo.com/news/stock-market-performs-cpi-report-113800444.html",
-          "publishedOn": "2024-06-12T13:03:00.000Z",
-          "wordCount": 20517,
-          "title": "How the stock market performs when a CPI report and a Fed decision happen the same day",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/V0L2TpOlZqXNYrkiJ03yZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/d3a945f8b21de8b8cf5bad686f521ef8"
         }
       ]
     }
