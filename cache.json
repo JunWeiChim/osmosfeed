@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "d284a2639ea7002e3d960a72ae3af1bd",
+          "author": "Investopedia",
+          "description": "Online shopping across U.S. retailers hit $7.2 billion Tuesday as Amazon's Prime Day started, making it the biggest online shopping day of 2024 so far, according to Adobe Analytics.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca876ac6f810ab11299a8735a6bf3e2c960959ca22962cfc96433209c86a9936c2df1b68cce430ffa2ae22ebe48224aa22a47259d56d1b5e06",
+          "publishedOn": "2024-07-17T20:25:00.000Z",
+          "wordCount": 354,
+          "title": "Amazon's Prime Day Drove $7.2 Billion in Online Sales to U.S. Retailers in First Day, Adobe Says",
+          "imageUrl": null
+        },
+        {
           "id": "5f8b408ecdf39a3b7d38f3b5b5f22bb6",
           "author": "Investopedia",
           "description": "Second-quarter revenue and profits fell year-over-year as net interest income decreased at First Horizon.",
@@ -3427,6 +3437,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "article-6321138",
+          "author": null,
+          "description": "De Wereldhandelsorganisatie (WTO) heeft in een rapport kritiek geuit op China's subsidies voor de eigen industriesector. Volgens de organisatie uit Genève is de regering in Peking niet transparant genoeg over haar steun aan de industrie.",
+          "link": "https://www.nu.nl/economie/6321138/wereldhandelsorganisatie-uit-kritiek-op-industriesubsidies-van-china.html",
+          "publishedOn": "2024-07-17T21:00:57.000Z",
+          "wordCount": 445,
+          "title": "Wereldhandelsorganisatie uit kritiek op industriesubsidies van China",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/xxlxnwdazerp_sqr256/0/1/2666/2666/wereldhandelsorganisatie-uit-kritiek-op-industriesubsidies-van-china.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/xxlxnwdazerp_sqr256/0/1/2666/2666/wereldhandelsorganisatie-uit-kritiek-op-industriesubsidies-van-china.jpg"
+        },
         {
           "id": "article-6321120",
           "author": null,
@@ -8969,6 +8994,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8679474",
+          "author": "Lyle Niedens",
+          "description": "Historic gains as investors veer from high-profile tech shares",
+          "link": "https://www.investopedia.com/small-cap-stocks-soar-interest-rate-cuts-federal-reserve-8679474",
+          "publishedOn": "2024-07-17T21:06:55.000Z",
+          "wordCount": 6355,
+          "title": "Small-Cap Stocks Soar Alongside Investors' Rate-Cut Expectations",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/45C_kUHseCR9768YkcBXynXAF_w=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2161632822-aea9cdb7dbd849a9b8c01fdada54e592.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/45C_kUHseCR9768YkcBXynXAF_w=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2161632822-aea9cdb7dbd849a9b8c01fdada54e592.jpg"
+        },
+        {
+          "id": "8679431",
+          "author": "Terry Lane",
+          "description": "Housing starts and building permits were up in June, but not in the way economists had hoped.",
+          "link": "https://www.investopedia.com/june-housing-construction-rises-8679431",
+          "publishedOn": "2024-07-17T20:58:00.000Z",
+          "wordCount": 6208,
+          "title": "Why June's Rise in Housing Construction May Not Indicate a Home Building Surge",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/Lf2YD4yCt61GmPhgwY2Q33KaBZI=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2087336148-d578d065364543f199e0cf0b192e4f0c.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/Lf2YD4yCt61GmPhgwY2Q33KaBZI=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2087336148-d578d065364543f199e0cf0b192e4f0c.jpg"
+        },
+        {
+          "id": "8679465",
+          "author": "Aaron McDade",
+          "description": "Online shopping across U.S. retailers hit $7.2 billion Tuesday as Amazon's Prime Day started, making it the biggest online shopping day of 2024 so far, according to Adobe Analytics.",
+          "link": "https://www.investopedia.com/amazon-prime-day-first-day-sales-adobe-7-billion-8679465",
+          "publishedOn": "2024-07-17T20:25:53.000Z",
+          "wordCount": 6177,
+          "title": "Amazon's Prime Day Drove $7.2B in Online Sales to U.S. Retailers in First Day, Adobe Says",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ihVu8jkoyrU9MxanA8Dd38z4jlQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1155745556-3786d68ff5054030871c98e64f6fea4b.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ihVu8jkoyrU9MxanA8Dd38z4jlQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1155745556-3786d68ff5054030871c98e64f6fea4b.jpg"
+        },
         {
           "id": "8679250",
           "author": "Terry Lane",
@@ -15692,6 +15762,36 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "nvidia-asml-and-tsmc-stocks-got-hammered--heres-why-203405181.html",
+          "author": null,
+          "description": "Chip stocks got hammered on Wednesdays. Reasons why include a media report that the US is considering tighter export restrictions, and a broader rotation out of Big Tech.",
+          "link": "https://finance.yahoo.com/news/nvidia-asml-and-tsmc-stocks-got-hammered--heres-why-203405181.html",
+          "publishedOn": "2024-07-17T20:34:05.000Z",
+          "wordCount": 18592,
+          "title": "Nvidia, ASML, and TSMC stocks got hammered — here's why",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/8FlqBb.tFUaeNyLs.0JGRw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/f7de3f10-3ecd-11ef-befd-e0f560987845"
+        },
+        {
+          "id": "stock-market-news-today-tech-stocks-drubbed-as-nasdaq-sinks-27-worst-day-since-2022-152223807.html",
+          "author": null,
+          "description": "Techs were under dual pressure from worries about US export curbs on China and Donald Trump's stance on Taiwan.",
+          "link": "https://finance.yahoo.com/news/stock-market-news-today-tech-stocks-drubbed-as-nasdaq-sinks-27-worst-day-since-2022-152223807.html",
+          "publishedOn": "2024-07-17T20:09:25.000Z",
+          "wordCount": 21412,
+          "title": "Stock market news today: Tech stocks drubbed as Nasdaq sinks 2.7%, worst day since 2022",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/GuD6ZuFSDNBbJYLOgcyjXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/8956ce80-9a9b-11ee-bfeb-aecab89c5be0"
+        },
+        {
+          "id": "kinder-morgan-misses-second-quarter-200840646.html",
+          "author": null,
+          "description": "U.S. pipeline and terminal operator Kinder Morgan on Wednesday missed Wall Street estimates for second-quarter profit, weighed down by higher costs and weakness in its CO2 segment. Adjusted core profit from the transportation of CO2 fell about 6.3% to $164 million, from $175 million in the year-ago quarter. The segment earnings were impacted by lower crude and natural gas liquids volumes and CO2 sales, the company said.",
+          "link": "https://finance.yahoo.com/news/kinder-morgan-misses-second-quarter-200840646.html",
+          "publishedOn": "2024-07-17T20:08:40.000Z",
+          "wordCount": 17954,
+          "title": "Pipeline operator Kinder Morgan Q2 results miss estimates",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/07b92819f3841379cafe025954239311"
+        },
+        {
           "id": "nasdaq-100-suffers-worst-day-182746461.html",
           "author": null,
           "description": "It’s deep red on Wall Street on Wednesday, with tech stocks sharply falling amid a semiconductor broad-based selloff following news that the Biden administration is hastening export restrictions to China. Bloomberg reported on Wednesday that the U.S. administration has advised its allies to impose the strictest trade restrictions possible if companies such as Tokyo Electron Ltd. (OTCPK: TOELY) and ASML Holding NV (NASDAQ:ASML) persist in supplying advanced chips to China. Shares of the Dutch chi",
@@ -16040,6 +16140,16 @@
           "wordCount": null,
           "title": "Johnson & Johnson Earnings Top, But Dow Stock Lowers Guidance",
           "imageUrl": null
+        },
+        {
+          "id": "vanguards-hottest-etf-now-27-120000455.html",
+          "author": null,
+          "description": "Megacap technology companies are delivering impressive results, and the market is rewarding them for it.",
+          "link": "https://finance.yahoo.com/news/vanguards-hottest-etf-now-27-120000455.html",
+          "publishedOn": "2024-07-17T12:00:00.000Z",
+          "wordCount": 19214,
+          "title": "Vanguard's Hottest ETF Is Now Up 27.5% in 2024. Here's Why It Has More Room to Run in the Second Half of 2024 and Beyond.",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/0d01cb98da37cc1bfe8f96d66726574f"
         },
         {
           "id": "micron-super-micro-tech-chip-stocks-falling-9bb8f213?siteid=yhoof2&yptr=yahoo",
@@ -41340,76 +41450,6 @@
           "wordCount": 20546,
           "title": "Forget AMD: 2 Artificial Intelligence (AI) Stocks to Buy Instead",
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/3b9b324f12b5ee0831f3fbcb7a545794"
-        },
-        {
-          "id": "billionaire-david-tepper-25-portfolio-091200324.html",
-          "author": null,
-          "description": "Successful hedge fund manager David Tepper is betting big on Amazon, Microsoft, and Nvidia.",
-          "link": "https://finance.yahoo.com/news/billionaire-david-tepper-25-portfolio-091200324.html",
-          "publishedOn": "2024-06-18T09:12:00.000Z",
-          "wordCount": 20817,
-          "title": "Billionaire David Tepper Has 25% of His Portfolio Invested in 3 Brilliant AI Stocks",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ng9eX93YmkXEq.C9FFfx7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/b85e0138058fff573fe8a65c926b61c8"
-        },
-        {
-          "id": "nvidia-broadcom-announced-stock-splits-090600473.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/nvidia-broadcom-announced-stock-splits-090600473.html",
-          "publishedOn": "2024-06-18T09:06:00.000Z",
-          "wordCount": null,
-          "title": "Nvidia and Broadcom Have Each Announced Stock Splits: These Are the 3 Most-Logical Candidates to Become Wall Street's Next Stock-Split Stocks",
-          "imageUrl": null
-        },
-        {
-          "id": "more-companies-want-keep-401-090526854.html",
-          "author": null,
-          "description": "A rash of Americans will retire and decide what to do with their 401(k) in coming years. More employers want to hold them for you. Is it a good idea?",
-          "link": "https://finance.yahoo.com/news/more-companies-want-keep-401-090526854.html",
-          "publishedOn": "2024-06-18T09:05:26.000Z",
-          "wordCount": 20591,
-          "title": "More companies want you to keep your 401(k) with them after you retire. Should you?",
-          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
-        },
-        {
-          "id": "oil-corn-groups-team-lawsuit-090307262.html",
-          "author": null,
-          "description": "The U.S. Environmental Protection Agency this spring finalized new rules for models of semi-trucks, buses and other heavy-duty vehicles released from 2027 to 2032 in a bid to cut 1 billion tons of greenhouse gas emissions through 2055.  Heavy duty vehicles are big contributors to climate change, accounting for around 7% of national emissions, according to EPA data, and the standards formed a major part of Biden’s broader plan to fight global warming.",
-          "link": "https://finance.yahoo.com/news/oil-corn-groups-team-lawsuit-090307262.html",
-          "publishedOn": "2024-06-18T09:03:07.000Z",
-          "wordCount": 20069,
-          "title": "Oil and corn groups team up in lawsuit to halt Biden truck emissions rules",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/9e511bd933b86fa743a097628ff9dea2"
-        },
-        {
-          "id": "time-pounce-2-beaten-down-085100795.html",
-          "author": null,
-          "description": "Two time-tested Nasdaq-100 businesses with yields of up to 6.4% are ripe for the picking by opportunistic income seekers.",
-          "link": "https://finance.yahoo.com/news/time-pounce-2-beaten-down-085100795.html",
-          "publishedOn": "2024-06-18T08:51:00.000Z",
-          "wordCount": 21115,
-          "title": "Time to Pounce: 2 Beaten-Down, High-Yield Nasdaq-100 Stocks That Are Begging to Be Bought Right Now",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/UD2CmBtGIF1Mz58sXL6Weg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Nzk-/https://media.zenfs.com/en/motleyfool.com/3585e81dd0318fb7da0ed31d832ecef9"
-        },
-        {
-          "id": "too-buy-nvidia-stock-now-083000167.html",
-          "author": null,
-          "description": "Nvidia stock has soared more than 3,500% in five years.",
-          "link": "https://finance.yahoo.com/news/too-buy-nvidia-stock-now-083000167.html",
-          "publishedOn": "2024-06-18T08:30:00.000Z",
-          "wordCount": 20504,
-          "title": "Is It Too Late to Buy Nvidia Stock Now?",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/7QLYwGXrl_mS1LQdIhUZjg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/a0088aa00c1a89a2bbc46b19926c5f0f"
-        },
-        {
-          "id": "top-artificial-intelligence-ai-stock-081500085.html",
-          "author": null,
-          "description": "Adobe is monetizing AI in the enterprise-software space.",
-          "link": "https://finance.yahoo.com/news/top-artificial-intelligence-ai-stock-081500085.html",
-          "publishedOn": "2024-06-18T08:15:00.000Z",
-          "wordCount": 21081,
-          "title": "My Top Artificial Intelligence (AI) Stock to Buy Now (and It's Not Nvidia)",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/98fc505aca8c620e0b7cf8a700cd92cd"
         }
       ]
     }
