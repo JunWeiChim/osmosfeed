@@ -3358,6 +3358,36 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6321151",
+          "author": null,
+          "description": "De werkloosheid in ons land is in juni onveranderd gebleven ten opzichte van een maand eerder. In juni zat 3,6 procent van de beroepsbevolking zonder betaald werk, meldt statistiekbureau CBS.",
+          "link": "https://www.nu.nl/economie/6321151/werkloosheid-bleef-in-juni-steken-op-36-procent.html",
+          "publishedOn": "2024-07-18T05:42:05.000Z",
+          "wordCount": 445,
+          "title": "Werkloosheid bleef in juni steken op 3,6 procent",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/hnxx2twaqt1q_sqr256/477/0/3811/3811/werkloosheid-bleef-in-juni-steken-op-36-procent.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/hnxx2twaqt1q_sqr256/477/0/3811/3811/werkloosheid-bleef-in-juni-steken-op-36-procent.jpg"
+        },
+        {
+          "id": "article-6321148",
+          "author": null,
+          "description": "Supermarktconcern Jumbo laat weten dat het aantal winkeldiefstallen in de eerste zes maanden van dit jaar met ruim een derde is gedaald. Het bedrijf uit Veghel heeft afgelopen jaar extra maatregelen genomen, nadat er voor 100 miljoen euro aan producten was gestolen.",
+          "link": "https://www.nu.nl/economie/6321148/winkeldiefstallen-bij-jumbo-flink-gedaald-na-maatregelen.html",
+          "publishedOn": "2024-07-18T05:18:14.000Z",
+          "wordCount": 445,
+          "title": "Winkeldiefstallen bij Jumbo flink gedaald na maatregelen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/23dxgcsab59y_sqr256/489/0/3971/3971/winkeldiefstallen-bij-jumbo-flink-gedaald-na-maatregelen.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/23dxgcsab59y_sqr256/489/0/3971/3971/winkeldiefstallen-bij-jumbo-flink-gedaald-na-maatregelen.jpg"
+        },
+        {
           "id": "article-6321129",
           "author": null,
           "description": "De vijf grootste pensioenfondsen stonden er aan het einde van het tweede kwartaal weer iets beter voor. Hun buffers zijn ruimer richting de overstap naar het nieuwe pensioenstelsel. En dat terwijl rendementen op de beurs juist wat tegenvielen.",
@@ -15472,6 +15502,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "analysis-rotation-trade-takes-small-050454503.html",
+          "author": null,
+          "description": "U.S. small-cap stocks are having a long-awaited moment, ignited by expectations of interest rate cuts and improving prospects for the election of Republican presidential candidate Donald Trump, a proponent of policies seen as benefiting smaller domestic companies.  The small-company-focused Russell 2000 surged more than 11.5% over five days, the index's biggest gain in such a stretch since April 2020.  At the same time, tech and growth stocks have wobbled, reinforcing the view that small caps have benefited from a rotation out of this year’s biggest winners into unloved areas of the market.",
+          "link": "https://finance.yahoo.com/news/analysis-rotation-trade-takes-small-050454503.html",
+          "publishedOn": "2024-07-18T05:04:54.000Z",
+          "wordCount": 18650,
+          "title": "Analysis-Rotation trade takes small caps from dead money to Wall Street darlings",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/05f5f62a40683f515e2a4e8dcb320852"
+        },
+        {
           "id": "why-stock-markets-rotation-small-033356680.html",
           "author": null,
           "description": "",
@@ -15489,6 +15529,16 @@
           "publishedOn": "2024-07-18T00:29:16.000Z",
           "wordCount": null,
           "title": "The broadening stock market rally just flashed a super-rare bullish signal pointing to more big gains ahead",
+          "imageUrl": null
+        },
+        {
+          "id": "deere-slashes-diversity-initiatives-after-backlash-from-conservative-activist-24424500?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/business/deere-slashes-diversity-initiatives-after-backlash-from-conservative-activist-24424500?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-07-18T00:22:00.000Z",
+          "wordCount": null,
+          "title": "Deere Slashes Diversity Initiatives After Backlash From Conservative Activist",
           "imageUrl": null
         },
         {
@@ -15520,6 +15570,16 @@
           "wordCount": null,
           "title": "Dow Jones Futures: Nvidia, Chips Dive In Nasdaq's Worst Loss Since 2022; Taiwan Semi Earnings Due",
           "imageUrl": null
+        },
+        {
+          "id": "warren-buffett-buying-shares-company-224600659.html",
+          "author": null,
+          "description": "Berkshire Hathaway is loading up on this energy stock.",
+          "link": "https://finance.yahoo.com/news/warren-buffett-buying-shares-company-224600659.html",
+          "publishedOn": "2024-07-17T22:46:00.000Z",
+          "wordCount": 18592,
+          "title": "Warren Buffett Is Buying Shares of This Company. Should You Do the Same?",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/5e4ac0fb46530199034912482d69f99c"
         },
         {
           "id": "want-dividends-check-3-stocks-223200075.html",
@@ -40610,96 +40670,6 @@
           "wordCount": 20473,
           "title": "Why a $70B Fund Will Likely Load Up on Nvidia Stock, Dump Apple This Week",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/6zT2qeyHPDZ4Vq6jRXmK6g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/99e8e144de5d9bfc7e75becffdb74d5a"
-        },
-        {
-          "id": "vanguard-low-cost-investing-pioneer-181900499.html",
-          "author": null,
-          "description": "The account-closure fee is a first for Vanguard, long a provider of low-cost investing options and a pioneer in passively managed index funds, and it’s not sitting well with some customers.",
-          "link": "https://finance.yahoo.com/news/vanguard-low-cost-investing-pioneer-181900499.html",
-          "publishedOn": "2024-06-18T18:19:00.000Z",
-          "wordCount": 20906,
-          "title": "Vanguard, the low-cost investing pioneer, will now charge $100 to close an account — unless you’re a multimillionaire",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/2RCvO.0lp6y0nxo_m2LYmQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/0f2dfbe59b395a1ffb1110a6f1add2cb"
-        },
-        {
-          "id": "im-going-2-700-per-120000032.html",
-          "author": null,
-          "description": "Social Security plays a critical role in the retirement plans of millions of Americans, but how these benefits are taxed is sometimes overlooked. If you collect $2,700 per month in Social Security benefits, your check is well above the average retirement benefit of approximately $1,800 per month and it could mean that you’ll owe taxes […] The post I'm Going to Get $2,700 per Month From Social Security. How Can I Reduce My Taxes? appeared first on SmartReads by SmartAsset.",
-          "link": "https://finance.yahoo.com/news/im-going-2-700-per-120000032.html",
-          "publishedOn": "2024-06-18T18:00:30.000Z",
-          "wordCount": 20994,
-          "title": "My Social Security Benefit Will Be $2,700 per Month. Will I Have to Pay Taxes?",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/30761c7ac3c3dfb1e3488dd95b39446e"
-        },
-        {
-          "id": "jersey-fines-walmart-over-store-175620857.html",
-          "author": null,
-          "description": "Walmart, the world's largest retailer, agreed to pay $1.64 million to settle regulatory charges that its 64 New Jersey stores employed illegal pricing practices that made it hard for consumers to comparison-shop.  Matthew Platkin, New Jersey's attorney general, said on Tuesday that the settlement includes a $1.62 million civil fine, and is the largest obtained by the Office of Weights and Measures of the state Division of Consumer Affairs.  New Jersey is one of nine U.S. states that requires grocery retailers to display prices using standard, easy-to-understand measurements such as pounds and quarts.",
-          "link": "https://finance.yahoo.com/news/jersey-fines-walmart-over-store-175620857.html",
-          "publishedOn": "2024-06-18T17:56:20.000Z",
-          "wordCount": 20074,
-          "title": "New Jersey fines Walmart over in-store pricing practices",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/dbe8c3634c919568ef5111ac28d0643b"
-        },
-        {
-          "id": "chewy-stock-track-highest-close-174148872.html",
-          "author": null,
-          "description": "Bulls are dominating the options pits",
-          "link": "https://finance.yahoo.com/news/chewy-stock-track-highest-close-174148872.html",
-          "publishedOn": "2024-06-18T17:41:48.000Z",
-          "wordCount": 19861,
-          "title": "Chewy Stock on Track for Highest Close of 2024",
-          "imageUrl": "https://media.zenfs.com/en/schaeffers_investment_research_24/e8ba88ec73dc0a3487a13ae8005bf654"
-        },
-        {
-          "id": "warren-buffett-9-day-buying-173906465.html",
-          "author": null,
-          "description": "Berkshire Hathaway has a long relationship with the oil and gas giant Occidental.",
-          "link": "https://finance.yahoo.com/news/warren-buffett-9-day-buying-173906465.html",
-          "publishedOn": "2024-06-18T17:39:06.000Z",
-          "wordCount": 20464,
-          "title": "Warren Buffett has been on a 9-day buying tear with oil stock Occidental, and it could shed insight into Berkshire Hathaway’s bigger strategy, analyst says",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/MxDdfAhi0OabglsF9Mmbnw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjI-/https://media.zenfs.com/en/fortune_175/cbf730cb426a23c3895024271ac3f78b"
-        },
-        {
-          "id": "retirement-catch-22-173701520.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/retirement-catch-22-173701520.html",
-          "publishedOn": "2024-06-18T17:37:01.000Z",
-          "wordCount": null,
-          "title": "Wall Street wants boomers to work longer. But nobody wants to hire them.",
-          "imageUrl": null
-        },
-        {
-          "id": "nvidia-overtakes-microsoft-as-most-valuable-stock-in-the-world-172859451.html",
-          "author": null,
-          "description": "Nvidia is now the largest company by market cap, surpassing Microsoft and completing a stunning rise for the chipmaker over the last two years.",
-          "link": "https://finance.yahoo.com/news/nvidia-overtakes-microsoft-as-most-valuable-stock-in-the-world-172859451.html",
-          "publishedOn": "2024-06-18T17:28:59.000Z",
-          "wordCount": 20548,
-          "title": "Nvidia overtakes Microsoft as most valuable stock in the world",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/QxPcElfjJwBhG8rOfGtHIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/061aa5c0-1898-11ef-b77e-fecbc8c2ec4b"
-        },
-        {
-          "id": "ARGUS_2683_AnalystReport_1718731267000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "Find the latest Ameren Corporation (AEE) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_2683_AnalystReport_1718731267000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2024-06-18T17:21:07.000Z",
-          "wordCount": 15399,
-          "title": "Analyst Report: Ameren Corp.",
-          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
-        },
-        {
-          "id": "federal-delivered-bad-news-housing-171516596.html",
-          "author": null,
-          "description": "The Federal Reserve delivered a cautionary update this week, indicating fewer anticipated interest rate cuts than previously expected, which could extend the current high cost of borrowing for home loans, impacting the housing market.In its latest meeting on June 12, the Fed maintained interest rates at the current 5.25%-5.5% range but scaled back its projections to just one rate cut by year-end, contrary to earlier expectations of two, following a surprisingly cool Consumer Price Index (CPI) re",
-          "link": "https://finance.yahoo.com/news/federal-delivered-bad-news-housing-171516596.html",
-          "publishedOn": "2024-06-18T17:15:16.000Z",
-          "wordCount": 20495,
-          "title": "The Federal Reserve Delivered Bad News For The Housing Market This Week",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/34f004446e29ebaa9b00a0ac9159e16b"
         }
       ]
     }
