@@ -1761,6 +1761,16 @@
           "imageUrl": null
         },
         {
+          "id": "16d690c370dab5cb8b7c681e0ae7cd41",
+          "author": "Investopedia",
+          "description": "Microsoft shares fell in premarket trading Friday after the tech giant suffered a major cloud services outage linked to a system update by cybersecurity software firm CrowdStrike. Monitor these key chart levels.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b6ec4f010b6533f9cc32bb7fd3926c2544dca338075bd97542e48c826963fde871e21d0e327a4fce025f1a58138b12dee2f428126401f5718effaa3dc3a5ad0d0b3b0c9c99a9207479a078acb3c3dd8307f71",
+          "publishedOn": "2024-07-19T00:00:00.000Z",
+          "wordCount": 354,
+          "title": "Watch These Microsoft Stock Price Levels After Major Cloud Services Outage",
+          "imageUrl": null
+        },
+        {
           "id": "5ac9f6011138f49cec77ea766f01f2ce",
           "author": "Investopedia",
           "description": "Retail investors have poured into small-cap stocks amid hopes that recent economic data could embolden the Federal Reserve to start cutting interest rates, according to analysts at Vanda Research.",
@@ -3628,6 +3638,36 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6321108",
+          "author": null,
+          "description": "Bepakt en bezakt op reis met de elektrische auto én op je portemonnee letten? In dit artikel zetten we de beste bespaartips van de ANWB, BOVAG én NUjij'ers op een rij.",
+          "link": "https://www.nu.nl/nujij/6321108/voordelig-elektrisch-laden-in-het-buitenland-ijsje-zo-terugverdiend.html",
+          "publishedOn": "2024-07-19T11:40:32.000Z",
+          "wordCount": 445,
+          "title": "NU+ | Voordelig elektrisch laden in het buitenland: 'IJsje zo terugverdiend'",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/ny5xtyma2c7i_sqr256/1933/0/3487/3487/voordelig-elektrisch-laden-in-het-buitenland-ijsje-zo-terugverdiend.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/ny5xtyma2c7i_sqr256/1933/0/3487/3487/voordelig-elektrisch-laden-in-het-buitenland-ijsje-zo-terugverdiend.jpg"
+        },
+        {
+          "id": "article-6321346",
+          "author": null,
+          "description": "Netbeheerders en de zware industrie mogen vanaf volgend jaar afspraken maken over flexibeler gebruik van het stroomnet. Daarbij gebruiken fabrieken tijdelijk geen of minder elektriciteit, in ruil voor lagere tarieven.",
+          "link": "https://www.nu.nl/economie/6321346/flexibel-energiegebruik-van-zware-industrie-moet-bomvol-stroomnet-ontlasten.html",
+          "publishedOn": "2024-07-19T10:31:54.000Z",
+          "wordCount": 445,
+          "title": "Flexibel energiegebruik van zware industrie moet bomvol stroomnet ontlasten",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/4zmx5uxaukc7_sqr256/0/0/3840/3840/flexibel-energiegebruik-van-zware-industrie-moet-bomvol-stroomnet-ontlasten.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/4zmx5uxaukc7_sqr256/0/0/3840/3840/flexibel-energiegebruik-van-zware-industrie-moet-bomvol-stroomnet-ontlasten.jpg"
+        },
+        {
           "id": "article-6321346",
           "author": null,
           "description": "Netbeheerders willen bedrijven in de zware industrie soms tijdelijk afsluiten van het stroomnet. Dit moet vrijwillig gebeuren, in ruil voor lagere tarieven. Toezichthouder ACM meldt dat ze hier toestemming voor geeft, omdat dit netcongestie tegengaat.",
@@ -3671,6 +3711,21 @@
             "url": "https://images.nu.nl/m/r9kxy3lan9nx_sqr256/576/0/1383/1383/miljoenen-mensen-kunnen-niet-aan-het-werk-door-wereldwijde-computerproblemen.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/r9kxy3lan9nx_sqr256/576/0/1383/1383/miljoenen-mensen-kunnen-niet-aan-het-werk-door-wereldwijde-computerproblemen.jpg"
+        },
+        {
+          "id": "article-6321308",
+          "author": null,
+          "description": "",
+          "link": "https://www.nu.nl/tech/6321308/live-computerstoring-ziekenhuizen-krabbelen-op-geen-bewijzen-van-hackaanval.html",
+          "publishedOn": "2024-07-19T07:38:43.000Z",
+          "wordCount": 445,
+          "title": "Live computerstoring | Ziekenhuizen krabbelen op, geen bewijzen van hackaanval",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/ldtx02tahpc6_sqr256/1218/0/2829/2829/live-computerstoring-ziekenhuizen-krabbelen-op-geen-bewijzen-van-hackaanval.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/ldtx02tahpc6_sqr256/1218/0/2829/2829/live-computerstoring-ziekenhuizen-krabbelen-op-geen-bewijzen-van-hackaanval.jpg"
         },
         {
           "id": "article-6321308",
@@ -8959,6 +9014,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8680629",
+          "author": "Aaron McDade",
+          "description": "Thousands of flights across the globe were canceled or delayed Friday morning as a Microsoft outage related to a CrowdStrike software update impacted systems across industries.",
+          "link": "https://www.investopedia.com/global-tech-issues-hit-air-travel-grounding-flights-across-globe-8680629",
+          "publishedOn": "2024-07-19T12:11:30.000Z",
+          "wordCount": 6288,
+          "title": "Global Tech Issues Hit Air Travel, Grounding Flights Across Globe",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ICz3krSSA0c9JrizpP1GZabZ3Fw=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2162646406-69416ea0bd5c4866bf250d3b5c71ec14.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ICz3krSSA0c9JrizpP1GZabZ3Fw=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2162646406-69416ea0bd5c4866bf250d3b5c71ec14.jpg"
+        },
+        {
+          "id": "8680627",
+          "author": "Terry Lane",
+          "description": "News of the day for July 19, 2024",
+          "link": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-july-19-2024-8680627",
+          "publishedOn": "2024-07-19T11:58:33.000Z",
+          "wordCount": 6650,
+          "title": "5 Things to Know Before the Stock Market Opens",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/QpwfAzcYNra8wBnnp627NMsmgC4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1255728449-dc7584fc200b41cba99f41c2d552b454.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/QpwfAzcYNra8wBnnp627NMsmgC4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1255728449-dc7584fc200b41cba99f41c2d552b454.jpg"
+        },
+        {
+          "id": "8680618",
+          "author": "Timothy Smith",
+          "description": "Stock is Falling in Premarket Trading Friday",
+          "link": "https://www.investopedia.com/microsoft-stock-price-levels-cloud-services-outage-crowdtrike-cybersecurity-8680618",
+          "publishedOn": "2024-07-19T11:42:26.000Z",
+          "wordCount": 6122,
+          "title": "Watch These Microsoft Stock Price Levels After Major Cloud Services Outage",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/GxJnuuOIPZkgHY4v5_H5emhmxIU=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/MSFTChart-22d597b53c204bfa82ff6f91e7dff7b2.gif",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/GxJnuuOIPZkgHY4v5_H5emhmxIU=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/MSFTChart-22d597b53c204bfa82ff6f91e7dff7b2.gif"
+        },
         {
           "id": "8680616",
           "author": "Nisha Gopalan",
@@ -16027,6 +16127,76 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-as-crowdstrike-glitch-triggers-global-it-outage-microsoft-netflix-in-focus/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-07-19T12:22:54.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Fall As CrowdStrike Glitch Triggers Global IT Outage; Microsoft, Netflix In Focus",
+          "imageUrl": null
+        },
+        {
+          "id": "stock-market-news-today-dow-futures-slip-in-wake-of-global-outage-115904303.html",
+          "author": null,
+          "description": "Stocks are facing another rough ride after a global IT outage hit businesses worldwide, with weekly losses in play.",
+          "link": "https://finance.yahoo.com/news/stock-market-news-today-dow-futures-slip-in-wake-of-global-outage-115904303.html",
+          "publishedOn": "2024-07-19T11:59:04.000Z",
+          "wordCount": 18834,
+          "title": "Stock market news today: Dow futures slip in wake of global outage",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Z_mm0nBAOotTx.YiJWsegw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/7f51f2f0-4597-11ef-affb-0138aea1ce67"
+        },
+        {
+          "id": "ARGUS_40653_MarketOutlook_1721387155000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "Find the latest DuPont de Nemours, Inc. (DD) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_40653_MarketOutlook_1721387155000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-07-19T11:05:55.000Z",
+          "wordCount": 13884,
+          "title": "Daily Spotlight: Demand Shifts for U.S. Debt",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
+        },
+        {
+          "id": "ARGUS_40652_TechnicalAnalysis_1721386972000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "Find the latest Enterprise Products Partners L. (EPD) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_40652_TechnicalAnalysis_1721386972000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-07-19T11:02:52.000Z",
+          "wordCount": 13921,
+          "title": "Technical Assessment: Bullish in the Intermediate-Term",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
+        },
+        {
+          "id": "invest-50k-enterprise-products-partners-110010819.html",
+          "author": null,
+          "description": "Billionaire investors like Warren Buffet have built their wealth by focusing on dividend stocks, which offer a blend of stable income, high growth, and safety. One dividend aristocrat that fits this bill is Enterprise Products Partners LP ...",
+          "link": "https://finance.yahoo.com/news/invest-50k-enterprise-products-partners-110010819.html",
+          "publishedOn": "2024-07-19T11:00:10.000Z",
+          "wordCount": 18486,
+          "title": "Invest $50K in Enterprise Products Partners LP to Become a Dividend Millionaire",
+          "imageUrl": "https://media.zenfs.com/en/benzinga_79/e23ca6c28954b7c19f6de285f035e329"
+        },
+        {
+          "id": "ARGUS_40650_MarketSummary_1721386572000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "Find the latest United Airlines Holdings, Inc. (UAL) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_40650_MarketSummary_1721386572000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-07-19T10:56:12.000Z",
+          "wordCount": 13747,
+          "title": "Market Digest: ABT, CTAS, KEY, NOK, UAL, KMI, META, CFG, CEG1",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
+        },
+        {
+          "id": "blackwell-demand-benefit-both-nvidia-104500333.html",
+          "author": null,
+          "description": "Both look poised to benefit from continued AI chip demand.",
+          "link": "https://finance.yahoo.com/news/blackwell-demand-benefit-both-nvidia-104500333.html",
+          "publishedOn": "2024-07-19T10:45:00.000Z",
+          "wordCount": 18596,
+          "title": "Blackwell Demand to Benefit Both Nvidia and Taiwan Semiconductor. Is It Time to Buy Both Stocks?",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/d3eef31ba15b0541998e00f90d35174d"
+        },
+        {
           "id": "microsoft-windows-crowdstrike-outage-issue-21fcce2e?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "",
@@ -16085,6 +16255,16 @@
           "wordCount": null,
           "title": "CrowdStrike’s Pain Could Be Its Rivals’ Gain. Watch These Cybersecurity Stocks.",
           "imageUrl": null
+        },
+        {
+          "id": "viking-therapeutics-millionaire-maker-095000978.html",
+          "author": null,
+          "description": "This biotech stock fits the profile of a potentially big winner to a T.",
+          "link": "https://finance.yahoo.com/news/viking-therapeutics-millionaire-maker-095000978.html",
+          "publishedOn": "2024-07-19T09:50:00.000Z",
+          "wordCount": 18455,
+          "title": "Is Viking Therapeutics a Millionaire-Maker?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Z6K_dn1PU4UrGx_O7CAzOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/8df7072edbf966c8ed1fb0196094d842"
         },
         {
           "id": "3-chip-related-stocks-buy-094738900.html",
@@ -16285,6 +16465,16 @@
           "wordCount": 18212,
           "title": "Why SoundHound AI Stock Plummeted Today",
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/d7ab441a516848d06e0d0dd78a1c9d61"
+        },
+        {
+          "id": "project-2025-wants-radically-change-230008655.html",
+          "author": null,
+          "description": "Project 2025 is a contentious set of policy proposals from the conservative think tank, The Heritage Foundation, intended for implementation should a Republican president assume office in 2025. Economists and tax experts argue that the 900-page manifesto’s proposed reforms to the U.S. tax system would exacerbate economic inequality. Don't Miss: Are you richer than most people you know? Here’s the net worth you need at every age to be above average. How do billionaires pay less in income tax than",
+          "link": "https://finance.yahoo.com/news/project-2025-wants-radically-change-230008655.html",
+          "publishedOn": "2024-07-18T23:00:08.000Z",
+          "wordCount": 18580,
+          "title": "Project 2025 Wants To Radically Change US Tax Policy: Would You Pay More Or Less In Taxes?",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/ebd51fd4ab4bfd5fccabe68ff6983608"
         },
         {
           "id": "stock-market-flashing-warning-signs-222817492.html",
@@ -41785,16 +41975,6 @@
           "wordCount": null,
           "title": "Why Warren Buffett's record $189 billion cash pile isn't the market-crash signal some say it is",
           "imageUrl": null
-        },
-        {
-          "id": "huge-rare-earths-discovery-gamechanger-233000427.html",
-          "author": null,
-          "description": "Greenland’s massive rare earth deposit, acquired by a Nasdaq-listed company, could significantly reduce the West's dependence on China for critical minerals.",
-          "link": "https://finance.yahoo.com/news/huge-rare-earths-discovery-gamechanger-233000427.html",
-          "publishedOn": "2024-06-19T23:30:00.000Z",
-          "wordCount": 21982,
-          "title": "Huge Rare Earths Discovery is Gamechanger in Americas Trade War with China",
-          "imageUrl": "https://media.zenfs.com/en/oilprice.com/7937eec2f20e58b6544f3d8cd06dc9f9"
         }
       ]
     }
