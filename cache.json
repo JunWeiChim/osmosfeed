@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "cba90f7cee60c071612f8eebbc4742e0",
+          "author": "Investopedia",
+          "description": "Microsoft’s cloud services were hit by an outage, triggered by an update to CrowdStrike's security software, grounding planes and affecting businesses worldwide.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b6ec4f010b6533f9cc337b6e63b2a8a094bd139823fb480472f09d972d830c39d0d68d0f227bbfee66df7f88a2cb129a4290e97274a1b1e0bf1fcaad87b14cadab7adc981c1d14d1ed84f91",
+          "publishedOn": "2024-07-19T10:08:00.000Z",
+          "wordCount": 354,
+          "title": "Microsoft Outage Triggered by CrowdStrike Update Causes Global Chaos",
+          "imageUrl": null
+        },
+        {
           "id": "48346add3e407d09d61879e75312faff",
           "author": "Investopedia",
           "description": "Netflix reported second-quarter revenue and earnings beating analysts' estimates as subscribers surged, though the streaming giant issued softer-than-expected guidance for the third quarter.",
@@ -3618,6 +3628,36 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6321346",
+          "author": null,
+          "description": "Netbeheerders willen bedrijven in de zware industrie soms tijdelijk afsluiten van het stroomnet. Dit moet vrijwillig gebeuren, in ruil voor lagere tarieven. Toezichthouder ACM meldt dat ze hier toestemming voor geeft, omdat dit netcongestie tegengaat.",
+          "link": "https://www.nu.nl/economie/6321346/industrie-tijdelijk-afsluiten-van-elektriciteit-moet-drukte-op-stroomnet-tegengaan.html",
+          "publishedOn": "2024-07-19T10:31:54.000Z",
+          "wordCount": 445,
+          "title": "Industrie tijdelijk afsluiten van elektriciteit moet drukte op stroomnet tegengaan",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/4zmx5uxaukc7_sqr256/0/0/3840/3840/industrie-tijdelijk-afsluiten-van-elektriciteit-moet-drukte-op-stroomnet-tegengaan.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/4zmx5uxaukc7_sqr256/0/0/3840/3840/industrie-tijdelijk-afsluiten-van-elektriciteit-moet-drukte-op-stroomnet-tegengaan.jpg"
+        },
+        {
+          "id": "article-6321343",
+          "author": null,
+          "description": "Door een fout in een update voor de beveiligingssoftware van CrowdStrike startten miljoenen mensen op de wereld hun werkdag met computerproblemen. Wat is er aan de hand en is er al een oplossing? Vijf vragen en antwoorden over de wereldwijde computerstoring.",
+          "link": "https://www.nu.nl/tech/6321343/kan-ik-mijn-pc-herstarten-en-nog-5-vragen-over-de-wereldwijde-it-storing.html",
+          "publishedOn": "2024-07-19T10:14:49.000Z",
+          "wordCount": 445,
+          "title": "NU+ | Kan ik mijn pc herstarten? En nog 5 vragen over de wereldwijde IT-storing",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/3abxevxah6qd_sqr256/0/0/2264/2264/kan-ik-mijn-pc-herstarten-en-nog-5-vragen-over-de-wereldwijde-it-storing.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/3abxevxah6qd_sqr256/0/0/2264/2264/kan-ik-mijn-pc-herstarten-en-nog-5-vragen-over-de-wereldwijde-it-storing.jpg"
+        },
+        {
           "id": "article-6321309",
           "author": null,
           "description": "Miljoenen mensen kunnen vrijdag niet aan het werk door computerproblemen na een foutieve beveiligingsupdate  Daardoor staan vliegtuigen van verschillende luchtvaartmaatschappijen aan de grond, zijn vestigingen van McDonald's gesloten en zijn er problemen in ziekenhuizen.",
@@ -3631,6 +3671,21 @@
             "url": "https://images.nu.nl/m/r9kxy3lan9nx_sqr256/576/0/1383/1383/miljoenen-mensen-kunnen-niet-aan-het-werk-door-wereldwijde-computerproblemen.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/r9kxy3lan9nx_sqr256/576/0/1383/1383/miljoenen-mensen-kunnen-niet-aan-het-werk-door-wereldwijde-computerproblemen.jpg"
+        },
+        {
+          "id": "article-6321308",
+          "author": null,
+          "description": "",
+          "link": "https://www.nu.nl/tech/6321308/live-computerstoring-crowdstrike-komt-met-tijdelijke-oplossing-problemen-op-schiphol.html",
+          "publishedOn": "2024-07-19T07:38:43.000Z",
+          "wordCount": 445,
+          "title": "Live computerstoring | CrowdStrike komt met tijdelijke oplossing, problemen op Schiphol",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/gysx5aoakdyr_sqr256/0/0/5504/5504/live-computerstoring-crowdstrike-komt-met-tijdelijke-oplossing-problemen-op-schiphol.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/gysx5aoakdyr_sqr256/0/0/5504/5504/live-computerstoring-crowdstrike-komt-met-tijdelijke-oplossing-problemen-op-schiphol.jpg"
         },
         {
           "id": "article-6321308",
@@ -3665,6 +3720,21 @@
         {
           "id": "article-6321307",
           "author": null,
+          "description": "De grote wereldwijde computerstoring raakt ook vakantiegangers die met het vliegtuig naar hun bestemming gaan. Zo meldt KLM vrijdag dat er slechts beperkt vliegverkeer mogelijk is.",
+          "link": "https://www.nu.nl/economie/6321307/hinder-voor-vakantiegangers-doordat-luchtvaart-last-heeft-van-grote-it-storing.html",
+          "publishedOn": "2024-07-19T07:30:14.000Z",
+          "wordCount": 445,
+          "title": "Hinder voor vakantiegangers doordat luchtvaart last heeft van grote IT-storing",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/ynnx4bsa3ka9_sqr256/1007/0/3744/3744/hinder-voor-vakantiegangers-doordat-luchtvaart-last-heeft-van-grote-it-storing.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/ynnx4bsa3ka9_sqr256/1007/0/3744/3744/hinder-voor-vakantiegangers-doordat-luchtvaart-last-heeft-van-grote-it-storing.jpg"
+        },
+        {
+          "id": "article-6321307",
+          "author": null,
           "description": "Schiphol heeft problemen door een grote computerstoring. Dat liet een woordvoerder weten aan ANP. Ook Transavia verwacht dat het gevolgen heeft en laat weten een rommelige dag te verwachten.",
           "link": "https://www.nu.nl/economie/6321307/luchtvaart-geraakt-door-wereldwijde-computerstoring.html",
           "publishedOn": "2024-07-19T07:30:14.000Z",
@@ -3676,6 +3746,21 @@
             "url": "https://images.nu.nl/m/ynnx4bsa3ka9_sqr256/1007/0/3744/3744/luchtvaart-geraakt-door-wereldwijde-computerstoring.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/ynnx4bsa3ka9_sqr256/1007/0/3744/3744/luchtvaart-geraakt-door-wereldwijde-computerstoring.jpg"
+        },
+        {
+          "id": "article-6321302",
+          "author": null,
+          "description": "Miljoenen gebruikers van Windows 10-computers kunnen vrijdagochtend hun laptop niet opstarten. Ze zien alleen een blauw scherm. Van over de hele wereld melden bedrijven problemen, waaronder banken, vliegtuigmaatschappijen en mediabedrijven. Ook Schiphol ondervindt hinder.",
+          "link": "https://www.nu.nl/tech/6321302/grote-computerstoring-zorgt-over-de-hele-wereld-voor-problemen.html",
+          "publishedOn": "2024-07-19T06:53:30.000Z",
+          "wordCount": 445,
+          "title": "Grote computerstoring zorgt over de hele wereld voor problemen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/3abxevxah6qd_sqr256/0/0/2264/2264/grote-computerstoring-zorgt-over-de-hele-wereld-voor-problemen.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/3abxevxah6qd_sqr256/0/0/2264/2264/grote-computerstoring-zorgt-over-de-hele-wereld-voor-problemen.jpg"
         },
         {
           "id": "article-6321302",
@@ -15942,6 +16027,76 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "microsoft-windows-crowdstrike-outage-issue-21fcce2e?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/microsoft-windows-crowdstrike-outage-issue-21fcce2e?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-07-19T10:20:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft and CrowdStrike Outage Cripples Flights, Banks, and Markets. Here’s the Latest.",
+          "imageUrl": null
+        },
+        {
+          "id": "energy-transfer-continues-enhance-portfolio-101300798.html",
+          "author": null,
+          "description": "Energy Transfer continues to add new growth drivers.",
+          "link": "https://finance.yahoo.com/news/energy-transfer-continues-enhance-portfolio-101300798.html",
+          "publishedOn": "2024-07-19T10:13:00.000Z",
+          "wordCount": 18489,
+          "title": "Energy Transfer Continues to Enhance Its Portfolio and Ability to Pay Dividends",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/09w2PEi5KYtv.HWXXq35wA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/33ec3d4c378efc40551b31776ab73f03"
+        },
+        {
+          "id": "futures-fall-amid-tech-rout-101253602.html",
+          "author": null,
+          "description": "Major U.S. airlines ordered ground stops citing communications issues, while firms including some financial services and banks reported system outages that disrupted their operations.  Microsoft fell 2.7% in premarket trading after the cloud disruption.  The disruption comes after a grueling two sessions for Wall Street, as investors assessed second-quarter earnings and a move away from megacap tech stocks that have primarily driven the equity rally in 2024.",
+          "link": "https://finance.yahoo.com/news/futures-fall-amid-tech-rout-101253602.html",
+          "publishedOn": "2024-07-19T10:12:53.000Z",
+          "wordCount": 18224,
+          "title": "Futures fall amid tech rout, traders grapple with global cyber outage",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/1ab692d8569fa86e237c5573a728b788"
+        },
+        {
+          "id": "stock-market-movers-f51a16c5?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/stock-market-movers-f51a16c5?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-07-19T10:09:00.000Z",
+          "wordCount": null,
+          "title": "These Stocks Are Moving the Most Today: CrowdStrike, Microsoft, Netflix, Intuitive Surgical, Amex, Plug Power, and More",
+          "imageUrl": null
+        },
+        {
+          "id": "billionaire-founder-sold-over-13-100000462.html",
+          "author": null,
+          "description": "Large stock sales aren't always what they seem.",
+          "link": "https://finance.yahoo.com/news/billionaire-founder-sold-over-13-100000462.html",
+          "publishedOn": "2024-07-19T10:00:00.000Z",
+          "wordCount": 18439,
+          "title": "This Billionaire Founder Sold Over $13 Billion of His Company's Stock This Year Alone. Should Investors Be Worried?",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/2db6d45a602a3c4dd2044e3020b38ce8"
+        },
+        {
+          "id": "crowdstrike-stock-cybersecurity-palo-alto-797de19a?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/crowdstrike-stock-cybersecurity-palo-alto-797de19a?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-07-19T09:52:00.000Z",
+          "wordCount": null,
+          "title": "CrowdStrike’s Pain Could Be Its Rivals’ Gain. Watch These Cybersecurity Stocks.",
+          "imageUrl": null
+        },
+        {
+          "id": "3-chip-related-stocks-buy-094738900.html",
+          "author": null,
+          "description": "Here's why the recent sell-off could be a golden opportunity to buy these three chip stocks.",
+          "link": "https://finance.yahoo.com/news/3-chip-related-stocks-buy-094738900.html",
+          "publishedOn": "2024-07-19T09:47:38.000Z",
+          "wordCount": 18738,
+          "title": "3 Chip-Related Stocks to Buy After Export Restriction Fear Sparks Sell-Off",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Ki2YgZxzM_b7hnFM3HXwiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/571f28888ea1539261ecb603e77d344c"
+        },
+        {
           "id": "prediction-stock-benefit-even-more-094000418.html",
           "author": null,
           "description": "This stock has outperformed Nvidia so far this year.",
@@ -15960,6 +16115,26 @@
           "wordCount": 16389,
           "title": "Traders from London to Singapore struggle as cyber outage disrupts business",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/86d8ce36788b2e5078185c73807bd968"
+        },
+        {
+          "id": "5-5-yielding-dividend-stock-091900075.html",
+          "author": null,
+          "description": "Kinder Morgan's growth engine is shifting into a higher gear.",
+          "link": "https://finance.yahoo.com/news/5-5-yielding-dividend-stock-091900075.html",
+          "publishedOn": "2024-07-19T09:19:00.000Z",
+          "wordCount": 18579,
+          "title": "This 5.5%-Yielding Dividend Stock Supercharges Its Growth Engine by Adding Nearly $2 Billion of Fuel",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/saU71f9mDtrYC0KR0m4kwQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTU-/https://media.zenfs.com/en/motleyfool.com/7a61cb4da1c19ce4d030bffedea2c432"
+        },
+        {
+          "id": "nvidia-recently-completed-10-1-090600900.html",
+          "author": null,
+          "description": "Roughly a dozen amazing companies have announced a stock split in 2024. Three high-flying stocks look like logical candidates to join this exclusive club.",
+          "link": "https://finance.yahoo.com/news/nvidia-recently-completed-10-1-090600900.html",
+          "publishedOn": "2024-07-19T09:06:00.000Z",
+          "wordCount": 19182,
+          "title": "Nvidia Recently Completed a 10-for-1 Stock Split: Here Are the 3 Likeliest Candidates to Become Wall Street's Next Stock-Split Stocks",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/2Qqxd2Bftu9lX_f0GNkpvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/545080af1498ba0354874e7664b06c51"
         },
         {
           "id": "nvidia-broadcom-completed-10-1-084500045.html",
@@ -41620,16 +41795,6 @@
           "wordCount": 21982,
           "title": "Huge Rare Earths Discovery is Gamechanger in Americas Trade War with China",
           "imageUrl": "https://media.zenfs.com/en/oilprice.com/7937eec2f20e58b6544f3d8cd06dc9f9"
-        },
-        {
-          "id": "mcdonalds-ditches-ai-drive-thru-223000416.html",
-          "author": null,
-          "description": "SoundHound could be in line to replace the displaced technology.",
-          "link": "https://finance.yahoo.com/news/mcdonalds-ditches-ai-drive-thru-223000416.html",
-          "publishedOn": "2024-06-19T22:30:00.000Z",
-          "wordCount": 20516,
-          "title": "McDonald's Ditches AI Drive-Thru Voice Technology. What Could This Mean for SoundHound AI Stock?",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/7N8VkJfx.uNDkuER2aYGfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/72ce8eb9918239fe67528e216763711e"
         }
       ]
     }
