@@ -1991,6 +1991,26 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "5b1eac195727f5be2a83d8ab90536fc4",
+          "author": "Investopedia",
+          "description": "Mattel shares soared Monday following a report it received an acquisition offer from LVMH-backed private equity firm L Catterton.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b66d3f61aa9112a9c813ba8bf282c834856c623c837bfdf502e54d4798136d5df1621c0e721a6f0f134ede6c32ca63dfc231c8b2046075d41f2f5aedc65149184eef3829dcf",
+          "publishedOn": "2024-07-22T21:21:00.000Z",
+          "wordCount": 354,
+          "title": "Toy Maker Mattel's Stock Soars on Reported L Catterton Buyout Offer",
+          "imageUrl": null
+        },
+        {
+          "id": "60fc626985c0975634bbba7ea925f0d5",
+          "author": "Investopedia",
+          "description": "The S&P 500 gained almost 1.1% on Monday, July 22, as tech firms bounced back from last week’s losses and investors digested political developments and corporate earnings.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca952ac6ec1be84c74ddde68eef53b24815712c23e8175bd9d513841c826813cd5930321d7e326bef4ae2ef4e18a24a461fd2f0c8a795c1c5c0ff6e0e5db784cc7d1b3efd8cd9a8c585a8153d4876b779c2b392c90911fd8c65eb8912578",
+          "publishedOn": "2024-07-22T21:05:00.000Z",
+          "wordCount": 354,
+          "title": "S&P 500 Gains and Losses Today: Tesla, Nvidia, Tech Stocks Bounce Back to Start Week",
+          "imageUrl": null
+        },
+        {
           "id": "d95dc24a0f3e121756134643619e1810",
           "author": "Investopedia",
           "description": "Tesla shares gained Monday ahead of the electric vehicle maker's earnings report Tuesday, as CEO Elon Musk said the company will have humanoid robots in production for internal use in 2025.",
@@ -2068,6 +2088,16 @@
           "publishedOn": "2024-07-22T12:44:00.000Z",
           "wordCount": 354,
           "title": "Dow Jones Today: Stock Futures Point to Higher Open After Last Week's Tech-Led Selloff",
+          "imageUrl": null
+        },
+        {
+          "id": "c1f9b4299d2f3d658cb085deac0ca658",
+          "author": "Investopedia",
+          "description": "Copays and coinsurance are two types of out-of-pocket costs, but they vary depending on the health insurance plan you choose.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8775d3eb1ca9592ac78736b0e7282c81475a8c61d768e9c3146447d4629b20c4801b62c0e378a4e6ae23edf88f34e83be133429b3b5a455d09f8f7e5d27956de9fb2abdcca9c9510408d1b89927975",
+          "publishedOn": "2024-07-22T12:00:00.000Z",
+          "wordCount": 354,
+          "title": "Coinsurance vs. Copay: What's the Difference?",
           "imageUrl": null
         },
         {
@@ -9329,6 +9359,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8681615",
+          "author": "Aaron McDade",
+          "description": "Chipotle reports earnings after the bell Wednesday, with analysts expecting the restaurant chain's financial performance to improve year-over-year.",
+          "link": "https://www.investopedia.com/what-you-need-to-know-chipotle-earnings-wednesday-q2-8681615",
+          "publishedOn": "2024-07-22T21:29:18.000Z",
+          "wordCount": 6335,
+          "title": "What You Need To Know Ahead of Chipotle Earnings Wednesday",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/L1mUAsqr0XIdPFTL-Z5W80Kj7RU=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1980610887-1170df8b304c418ea880f14b52fa9122.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/L1mUAsqr0XIdPFTL-Z5W80Kj7RU=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1980610887-1170df8b304c418ea880f14b52fa9122.jpg"
+        },
+        {
+          "id": "8681816",
+          "author": "Andrew Kessel",
+          "description": "Mattel shares soared Monday following a report it received an acquisition offer from LVMH-backed private equity firm L Catterton.",
+          "link": "https://www.investopedia.com/mattel-stock-rallies-on-reported-l-catterton-acquisition-offer-8681816",
+          "publishedOn": "2024-07-22T21:21:42.000Z",
+          "wordCount": 6109,
+          "title": "Toy Maker Mattel's Stock Soars on Reported L Catterton Buyout Offer",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/QE6hUOGRTQ9lRGetSdO_VFimVyo=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1538361395-f5c12481407c46479b383ba986d9812d.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/QE6hUOGRTQ9lRGetSdO_VFimVyo=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1538361395-f5c12481407c46479b383ba986d9812d.jpg"
+        },
+        {
+          "id": "8681564",
+          "author": "Diccon Hyatt",
+          "description": "The Data Will Factor Into the Fed's Decision on When to Cut Interest Rates",
+          "link": "https://www.investopedia.com/june-2024-pce-inflation-preview-fed-interest-rates-8681564",
+          "publishedOn": "2024-07-22T21:12:23.000Z",
+          "wordCount": 6631,
+          "title": "What to to Expect From Friday's Closely Watched US Inflation Report",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/7WS7dExOWKPAT6bzIOiBtIDl3-s=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2156374372-793c748ea52244d5a9086f252361b23a.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/7WS7dExOWKPAT6bzIOiBtIDl3-s=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2156374372-793c748ea52244d5a9086f252361b23a.jpg"
+        },
         {
           "id": "8681866",
           "author": "Terry Lane",
@@ -16896,7 +16971,7 @@
           "author": null,
           "description": "",
           "link": "https://www.investors.com/news/technology/cdns-stock-cadence-q2-2024-earnings/?src=A00220&yptr=yahoo",
-          "publishedOn": "2024-07-22T20:18:11.000Z",
+          "publishedOn": "2024-07-22T20:58:11.000Z",
           "wordCount": null,
           "title": "Cadence Design Systems Beats Q2 Targets, But Guides Below Views",
           "imageUrl": null
@@ -16912,6 +16987,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/fdnG5vECBPNbe7zmpyhhMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/892eb2e0-478b-11ef-beb7-5a1b81b62f9d"
         },
         {
+          "id": "air-products-stock-slides-coo-195305858.html",
+          "author": null,
+          "description": "The COO of Air Products & Chemicals stepped down and the company set up a new management board. Shares were sharply off Monday after the news.",
+          "link": "https://finance.yahoo.com/news/air-products-stock-slides-coo-195305858.html",
+          "publishedOn": "2024-07-22T19:53:05.000Z",
+          "wordCount": 17952,
+          "title": "Air Products Stock Slides After COO Quits, Company Forms New Management Board",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/TUicLSl6o1UxGr_h0Jexew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDM-/https://media.zenfs.com/en/investopedia_245/92b9967f86a5b984df64cc4de067e179"
+        },
+        {
           "id": "google-parent-alphabet-to-report-q2-earnings-tuesday-with-ai-ad-spending-front-and-center-191643704.html",
           "author": null,
           "description": "Google parent Alphabet will report its Q2 earnings after the bell on Tuesday.",
@@ -16920,6 +17005,16 @@
           "wordCount": 18827,
           "title": "Google parent Alphabet to report Q2 earnings Tuesday with AI, ad spending front and center",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/4FFKjom.rO4qskb6xFUrQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/f189b330-4858-11ef-b7ef-b706444c51dd"
+        },
+        {
+          "id": "long-does-double-money-8-190011295.html",
+          "author": null,
+          "description": "Investing can sometimes require a significant amount of patience, but there are milestones along the way that can give an investor signs that they are moving in the right direction. One of these is doubling your money. This shows you are on your way ...",
+          "link": "https://finance.yahoo.com/news/long-does-double-money-8-190011295.html",
+          "publishedOn": "2024-07-22T19:00:11.000Z",
+          "wordCount": 18958,
+          "title": "How Long Does It Take to Double Your Money With An 8% High-Yield Investment?",
+          "imageUrl": "https://media.zenfs.com/en/benzinga_79/e067106bcf07442785ba826e09b8ad5d"
         },
         {
           "id": "kamala-harris-wealth-investments-12983bda?siteid=yhoof2&yptr=yahoo",
@@ -17139,6 +17234,16 @@
           "publishedOn": "2024-07-22T14:30:11.000Z",
           "wordCount": null,
           "title": "Amazon Stock Gets Pair Of Price Target Increases With Q2 Earnings Due",
+          "imageUrl": null
+        },
+        {
+          "id": "djt-trump-media-truth-social-stock-price-fed0e4af?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/djt-trump-media-truth-social-stock-price-fed0e4af?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-07-22T14:09:00.000Z",
+          "wordCount": null,
+          "title": "DJT Stock Falls After Biden Quits the Presidential Race",
           "imageUrl": null
         },
         {
@@ -17940,16 +18045,6 @@
           "wordCount": 19145,
           "title": "Joe Biden dropout fallout, inflation data, and the start of tech earnings: What to know this week",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/F1cxW5BGvW42gPEk_irSHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/738e0270-45d2-11ef-bfff-99c4160470d7"
-        },
-        {
-          "id": "heres-exactly-tell-qualify-spousal-180000880.html",
-          "author": null,
-          "description": "Spousal benefits are pretty common, but it takes more than simply saying \"I do\" to qualify for them.",
-          "link": "https://finance.yahoo.com/news/heres-exactly-tell-qualify-spousal-180000880.html",
-          "publishedOn": "2024-07-21T18:00:00.000Z",
-          "wordCount": 8341,
-          "title": "Here's Exactly How to Tell if You Qualify for Spousal Social Security Benefits",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/7be3dccd3eae479625883b0f53906c30"
         },
         {
           "id": "trump-tesla-musk-electric-vehicles-157932c9?siteid=yhoof2&yptr=yahoo",
@@ -42870,96 +42965,6 @@
           "wordCount": 20457,
           "title": "Gen X finally tops Boomer 401(k) balances, but will it be enough to retire?",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_yCvcHFq0IzlQ6MEtLebpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/usa_today_money_325/aa3ff78fc8ecae319d492b86e64ef55d"
-        },
-        {
-          "id": "stock-down-42-wall-street-100000962.html",
-          "author": null,
-          "description": "Should you follow Wall Street?",
-          "link": "https://finance.yahoo.com/news/stock-down-42-wall-street-100000962.html",
-          "publishedOn": "2024-06-23T10:00:00.000Z",
-          "wordCount": 20472,
-          "title": "This Stock Is Down 42% This Year, but Wall Street Sees a 73% Upside",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/652cc9779087d4c36641d1ce05353486"
-        },
-        {
-          "id": "maximizing-returns-ai-boom-why-095000731.html",
-          "author": null,
-          "description": "Nvidia's shares have skyrocketed, but they could have farther to go.",
-          "link": "https://finance.yahoo.com/news/maximizing-returns-ai-boom-why-095000731.html",
-          "publishedOn": "2024-06-23T09:50:00.000Z",
-          "wordCount": 20420,
-          "title": "Maximizing Returns in the AI Boom: Why Nvidia Is a Must-Have in Your Tech Portfolio",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/sH4hbbKWSc0dcas1s3vCSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTM-/https://media.zenfs.com/en/motleyfool.com/b98a5a4f76f35e4e58b030a4a0a7c0d6"
-        },
-        {
-          "id": "1-artificial-intelligence-ai-stock-094500620.html",
-          "author": null,
-          "description": "Artificial intelligence (AI) presents an incredible opportunity for investors, but not all AI stocks are created equal.",
-          "link": "https://finance.yahoo.com/news/1-artificial-intelligence-ai-stock-094500620.html",
-          "publishedOn": "2024-06-23T09:45:00.000Z",
-          "wordCount": 20706,
-          "title": "1 Artificial Intelligence (AI) Stock Down 67% That Could Get Slashed In Half Again",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/d01688419832a12b1fcb0bc2b0343ea1"
-        },
-        {
-          "id": "want-extra-100-annual-dividend-094200323.html",
-          "author": null,
-          "description": "It doesn't take much to boost your passive income stream with these top dividend-paying stocks.",
-          "link": "https://finance.yahoo.com/news/want-extra-100-annual-dividend-094200323.html",
-          "publishedOn": "2024-06-23T09:42:00.000Z",
-          "wordCount": 20449,
-          "title": "Want an Extra $100 in Annual Dividend Income? Invest $1,320 in These 3 High-Yield Stocks",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/KZM5iYtnLuAyhrx.9cUeRQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/motleyfool.com/4f2e0dff40e8883c2e20d5ea925ad388"
-        },
-        {
-          "id": "nvidia-microsoft-over-40-popular-093600965.html",
-          "author": null,
-          "description": "There is an ETF that might be a better option for investors interested in the Technology Select Sector SPDR Fund ETF.",
-          "link": "https://finance.yahoo.com/news/nvidia-microsoft-over-40-popular-093600965.html",
-          "publishedOn": "2024-06-23T09:36:00.000Z",
-          "wordCount": 20739,
-          "title": "Nvidia and Microsoft Will Make Up Over 40% of This Popular ETF. Here's Why This Alternative ETF Could Be a Better Option.",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/q657aCQTH__BtyRySMSlpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/16513650142737180e69a65177bc6bd4"
-        },
-        {
-          "id": "stock-split-watch-super-micro-092500462.html",
-          "author": null,
-          "description": "Investors are waiting for the company's first-ever stock split.",
-          "link": "https://finance.yahoo.com/news/stock-split-watch-super-micro-092500462.html",
-          "publishedOn": "2024-06-23T09:25:00.000Z",
-          "wordCount": 17838,
-          "title": "Stock-Split Watch: Is Super Micro Computer Next?",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/f686af91583fcb5e62da7e774907aa51"
-        },
-        {
-          "id": "energy-transfer-check-ultra-high-092400171.html",
-          "author": null,
-          "description": "Western Midstream offers a higher-yielding (and faster-growing) income stream.",
-          "link": "https://finance.yahoo.com/news/energy-transfer-check-ultra-high-092400171.html",
-          "publishedOn": "2024-06-23T09:24:00.000Z",
-          "wordCount": 20302,
-          "title": "If You Like Energy Transfer, You Should Check Out This Ultra-High-Yield Dividend Stock",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ByPKJ3HsdLfqFQX0tkcjCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/0622611706eaeb8f9d1541aaa57e65cd"
-        },
-        {
-          "id": "2-no-brainer-stocks-buy-092000697.html",
-          "author": null,
-          "description": "You can profit from the artificial intelligence (AI) boom with these stocks.",
-          "link": "https://finance.yahoo.com/news/2-no-brainer-stocks-buy-092000697.html",
-          "publishedOn": "2024-06-23T09:20:00.000Z",
-          "wordCount": 20528,
-          "title": "2 No-Brainer Stocks to Buy Right Now for Less Than $1,000",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/f_R81ac1bOVmx0x43KCk4g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/motleyfool.com/3f9d0d78298395bbb2b5f4d6f2a348a7"
-        },
-        {
-          "id": "2-growth-stocks-buy-now-091500915.html",
-          "author": null,
-          "description": "These two companies are positioned to control a growing share of the multitrillion-dollar global e-commerce market.",
-          "link": "https://finance.yahoo.com/news/2-growth-stocks-buy-now-091500915.html",
-          "publishedOn": "2024-06-23T09:15:00.000Z",
-          "wordCount": 20297,
-          "title": "2 Growth Stocks to Buy Now and Hold Forever",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Iq3F8VtH61DkS891xDTSZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/f3521c345d0a8b9ccfaca29c90a8739b"
         }
       ]
     }
