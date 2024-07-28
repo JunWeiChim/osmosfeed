@@ -9811,21 +9811,6 @@
             "url": "https://images.nu.nl/m/4wrxcj1a65jr_sqr256/213/0/2736/2736/conflict-op-de-rode-zee-duurt-voort-scheepvaart-zoekt-oplossingen.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/4wrxcj1a65jr_sqr256/213/0/2736/2736/conflict-op-de-rode-zee-duurt-voort-scheepvaart-zoekt-oplossingen.jpg"
-        },
-        {
-          "id": "article-6318381",
-          "author": null,
-          "description": "Het verbod op de verkoop van rookwaar wordt de nekslag voor honderden buurtsupermarkten en avondwinkels. Daarvoor waarschuwen niet alleen belangenorganisaties en experts: het wordt ook voorspeld in een rapport dat is opgesteld in opdracht van het ministerie van Volksgezondheid, Welzijn en Sport.",
-          "link": "https://www.nu.nl/economie/6318381/stoppen-met-tabaksverkoop-te-grote-uitdaging-voor-avondwinkel-en-buurtsuper.html",
-          "publishedOn": "2024-06-29T03:13:23.000Z",
-          "wordCount": 445,
-          "title": "Stoppen met tabaksverkoop (te) grote uitdaging voor avondwinkel en buurtsuper",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/hs3xfpnamt8j_sqr256/87/0/2695/2695/stoppen-met-tabaksverkoop-te-grote-uitdaging-voor-avondwinkel-en-buurtsuper.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/hs3xfpnamt8j_sqr256/87/0/2695/2695/stoppen-met-tabaksverkoop-te-grote-uitdaging-voor-avondwinkel-en-buurtsuper.jpg"
         }
       ]
     },
@@ -9834,6 +9819,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8684494",
+          "author": "Colin Laidley",
+          "description": "Amazon, Apple, Meta and Microsoft Will Release Quarterly Results This Week",
+          "link": "https://www.investopedia.com/how-big-tech-earnings-could-affect-the-market-amazon-apple-meta-microsoft-8684494",
+          "publishedOn": "2024-07-28T15:15:36.000Z",
+          "wordCount": 6926,
+          "title": "How This Week's Big Tech Earnings Could Affect the Broader Market",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ctWm695MlZaNTqr79qfOoii8OsY=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2150291221-fe8b70c0ab074f5384e4f066118ba1c6.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ctWm695MlZaNTqr79qfOoii8OsY=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2150291221-fe8b70c0ab074f5384e4f066118ba1c6.jpg"
+        },
         {
           "id": "8684188",
           "author": "Terry Lane",
@@ -18162,6 +18162,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "weeks-big-tech-earnings-could-151536600.html",
+          "author": null,
+          "description": "Amazon, Apple, Meta and Microsoft Will Release Quarterly Results This Week",
+          "link": "https://finance.yahoo.com/news/weeks-big-tech-earnings-could-151536600.html",
+          "publishedOn": "2024-07-28T15:15:36.000Z",
+          "wordCount": 20291,
+          "title": "How This Week's Big Tech Earnings Could Affect the Broader Market",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/YTeb87n_tqNCFm1H0X9Xvg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/7fb555b020c87278ed128c4c2d07b3a1"
+        },
+        {
           "id": "get-on-with-it-why-the-feds-first-rate-cut-wouldnt-be-that-big-of-a-deal-140218850.html",
           "author": null,
           "description": "Inflation metrics have been coming down for two years and are now at levels that are just a rounding error away from the Fed’s 2% target rate.",
@@ -18232,6 +18242,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/jVtO4XjxEEebh9av6u3VJg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/1789cac0-4b83-11ef-9f6c-bd992dadb723"
         },
         {
+          "id": "big-tech-earnings-arrive-nasdaq-130000793.html",
+          "author": null,
+          "description": "(Bloomberg) -- The violent rotation out of Big Tech has dragged the Nasdaq 100 Index down 8% in just over two weeks, leaving it on the cusp of a correction. Whether it can avoid that dubious milestone will likely come down to earnings from a quartet of companies worth nearly $10 trillion combined.Most Read from BloombergHarris’ Running-Mate Search Zeroes In on Three Top ContendersThat Sudden Market Drop Was Scary for Investors But Long OverdueTrump Gets Upstaged by RFK Jr.’s Claims of ‘Bitcoin F",
+          "link": "https://finance.yahoo.com/news/big-tech-earnings-arrive-nasdaq-130000793.html",
+          "publishedOn": "2024-07-28T13:00:00.000Z",
+          "wordCount": 20476,
+          "title": "Big Tech Earnings Arrive With Nasdaq 100 on Brink of Correction",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/b6047b0c88929a66ae4513309ac0d389"
+        },
+        {
           "id": "stock-split-stock-im-watching-125500439.html",
           "author": null,
           "description": "Many companies have performed stock splits this year as the bull market continues to run.",
@@ -18300,6 +18320,16 @@
           "wordCount": 20160,
           "title": "You Can Do Better Than the S&P 500. Buy This ETF Instead.",
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/675858d9f279f2321b6e8de0d0141a5e"
+        },
+        {
+          "id": "much-microsoft-pay-dividends-120000078.html",
+          "author": null,
+          "description": "Microsoft's growth story usually steals the spotlight, but the dividend streak could be another reason to take notice.",
+          "link": "https://finance.yahoo.com/news/much-microsoft-pay-dividends-120000078.html",
+          "publishedOn": "2024-07-28T12:00:00.000Z",
+          "wordCount": 19863,
+          "title": "How Much Will Microsoft Pay Out in Dividends This Year?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/zCs5Lgt.Im8XcrpWhIFNIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mzg-/https://media.zenfs.com/en/motleyfool.com/f094569d54abfe3fc22fa9cc8d03e82b"
         },
         {
           "id": "4-top-dividend-stocks-yielding-120000677.html",
@@ -18550,6 +18580,16 @@
           "wordCount": 20771,
           "title": "3 Stock Market Mistakes to Avoid in the Second Half of 2024",
           "imageUrl": "https://media.zenfs.com/en/motleyfool.com/10c79e85245dfec326b0a0b5abeacad9"
+        },
+        {
+          "id": "u-money-supply-increasing-again-081500935.html",
+          "author": null,
+          "description": "The mega-cap stocks that have been the biggest winners in the current bull market might not lead the way going forward.",
+          "link": "https://finance.yahoo.com/news/u-money-supply-increasing-again-081500935.html",
+          "publishedOn": "2024-07-28T08:15:00.000Z",
+          "wordCount": 20359,
+          "title": "U.S. Money Supply Is Increasing Again and Could Portend a Big Stock Market Move: 2 Vanguard ETFs to Buy Now",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/lqAK3iyP5YfT64gqxyIUkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/motleyfool.com/0e70f4425c361048428369441b005ca0"
         },
         {
           "id": "nvidia-stock-correction-25-years-080600645.html",
@@ -44379,16 +44419,6 @@
           "publishedOn": "2024-06-29T07:25:00.000Z",
           "wordCount": null,
           "title": "Want $1,000 in Super-Safe Dividend Income? Buy $11,862 of This Ultra-High-Dividend Yield Stock",
-          "imageUrl": null
-        },
-        {
-          "id": "stock-market-today-indexes-cap-040333850.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/stock-market-today-indexes-cap-040333850.html",
-          "publishedOn": "2024-06-29T04:03:33.000Z",
-          "wordCount": null,
-          "title": "Stock market today: Indexes cap stellar first half of 2024 with losses even after encouraging inflation report",
           "imageUrl": null
         }
       ]
