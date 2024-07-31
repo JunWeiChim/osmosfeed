@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "a79457f68a1e687025afd862d6a3d40a",
+          "author": "Investopedia",
+          "description": "GSK lifted its sales and earnings projections for the year, after a strong performance by its HIV and cancer drugs drove second-quarter sales higher.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8174ccaf1da05f36858b2beefe3b398a574b8e208d39a39f436642d279987ec59d5760cae021fffaf634eee78126e874bf7259d7671a",
+          "publishedOn": "2024-07-31T12:42:00.000Z",
+          "wordCount": 354,
+          "title": "GSK Becomes Latest Pharma Firm To Lift Outlook",
+          "imageUrl": null
+        },
+        {
           "id": "7136a6ccfb875448aa0b584abe682037",
           "author": "Investopedia",
           "description": "Microsoft executives gave investors an update on the tech giant's investments in artificial intelligence, capacity constraints, outlook, and more in the company's earnings call.",
@@ -4828,16 +4838,6 @@
           "publishedOn": "2024-07-02T11:24:00.000Z",
           "wordCount": 354,
           "title": "Watch These Key WTI Oil Price Levels As Chart Signals Possible Breakout",
-          "imageUrl": null
-        },
-        {
-          "id": "5cdc6ee75f2b5f941aa687fd8051c3fe",
-          "author": "Investopedia",
-          "description": "Tesla shares jumped more than 6% on Monday to their highest level since late January as optimism mounts ahead of the legacy EV maker’s highly anticipated second quarter deliveries report due Tuesday. Here are the key chart levels to monitor.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9166d3e117e848318d9d3deee63f3e834512d0248a3bbadf52394dd86ed83fd4841f60d0ab34a1b8e636afe58f26a03ea4380a8e314e1b561fb0f7add57e4fccc0afefd4d99485105c9d539fc53d37dc3177",
-          "publishedOn": "2024-07-02T01:44:00.000Z",
-          "wordCount": 354,
-          "title": "Watch These Tesla Stock Price Levels as EV Maker Releases Delivery Numbers",
           "imageUrl": null
         }
       ]
@@ -10314,6 +10314,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8686540",
+          "author": "Nisha Gopalan",
+          "description": "Shares of Dutch semiconductor-gear maker ASML Holding are rising on a report that the U.S. is on track to exclude some chip-equipment makers from its latest set of trade curbs.",
+          "link": "https://www.investopedia.com/asml-jumps-as-us-set-to-exempt-allies-from-china-chip-equipment-export-curbs-8686540",
+          "publishedOn": "2024-07-31T13:54:41.000Z",
+          "wordCount": 4788,
+          "title": "ASML Stock Jumps as US Expected to Exempt Some Nations From Chip-Equipment Export Curbs",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/pk263C5MyhcHlFxQFnfgPH2u8vo=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1950315198-5bac19e6ec3e4d99ad4372d1e8930add.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/pk263C5MyhcHlFxQFnfgPH2u8vo=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1950315198-5bac19e6ec3e4d99ad4372d1e8930add.jpg"
+        },
+        {
+          "id": "8686533",
+          "author": "Aaron McDade",
+          "description": "Boeing shares rose Wednesday as enthusiasm about the plane maker's new CEO offset second-quarter results that came in worse than analysts had expected.",
+          "link": "https://www.investopedia.com/boeing-names-new-ceo-reports-large-q2-loss-8686533",
+          "publishedOn": "2024-07-31T13:46:54.000Z",
+          "wordCount": 5564,
+          "title": "Boeing Names New CEO, Reports Large Q2 Loss",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/S-rD_qkPeqHavQxjJIT66cSFi3c=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2162402283-e73e88f9926c4c17b16916d3d613b0dd.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/S-rD_qkPeqHavQxjJIT66cSFi3c=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2162402283-e73e88f9926c4c17b16916d3d613b0dd.jpg"
+        },
         {
           "id": "8686539",
           "author": "Terry Lane",
@@ -19308,21 +19338,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/b-Hd_iVcR1L91cYrLepMhdKaYq8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/WTIChart-8817437355f84b858dc742246a386830.gif"
-        },
-        {
-          "id": "8672479",
-          "author": "Timothy Smith",
-          "description": "Tesla shares jumped more than 6% on Monday to their highest level since late January as optimism mounts ahead of the legacy EV maker’s highly anticipated second quarter deliveries report due Tuesday. Here are the key chart levels to monitor.",
-          "link": "https://www.investopedia.com/watch-these-tesla-stock-price-levels-as-ev-maker-releases-delivery-numbers-8672479",
-          "publishedOn": "2024-07-02T01:44:14.000Z",
-          "wordCount": 6058,
-          "title": "Watch These Tesla Stock Price Levels as EV Maker Releases Delivery Numbers",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Ff4LtEZjtyxFX15Grs9nBzoVnww=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/TSLAChart-b043ef07169943ba9fc12ef9bc152e76.gif",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Ff4LtEZjtyxFX15Grs9nBzoVnww=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/TSLAChart-b043ef07169943ba9fc12ef9bc152e76.gif"
         }
       ]
     },
@@ -19332,6 +19347,66 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "stock-market-news-today-stocks-rally-before-fed-decision-as-nvidia-surges-134308475.html",
+          "author": null,
+          "description": "A tech revival is helping lift stocks, with the Federal Reserve's rate decision on deck.",
+          "link": "https://finance.yahoo.com/news/stock-market-news-today-stocks-rally-before-fed-decision-as-nvidia-surges-134308475.html",
+          "publishedOn": "2024-07-31T13:43:08.000Z",
+          "wordCount": 22305,
+          "title": "Stock market news today: Stocks rally before Fed decision as Nvidia surges",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/6aW2RbYoBpp1_BMjFxii9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/b0d7c640-2dbb-11ef-bfed-e12f60b640db"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/teva-stock-teva-earninga-q2-2024/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-07-31T13:42:38.000Z",
+          "wordCount": null,
+          "title": "Teva Pharma Flirts With Breakout As Generic Drugs Drive Beat-And-Raise",
+          "imageUrl": null
+        },
+        {
+          "id": "humana-tumbles-warning-higher-hospital-122314984.html",
+          "author": null,
+          "description": "(Bloomberg) -- Humana Inc. shares tumbled after the company warned of higher-than-expected inpatient hospital admissions that point toward elevated costs for the insurer.Most Read from BloombergKamala Harris Wipes Out Trump’s Swing-State Lead in Election Dead HeatLuxury Heir Alleges His $13 Billion Hermès Fortune Has VanishedIntel to Cut Thousands of Jobs to Reduce Costs, Fund ReboundHamas Says Israel Killed Political Leader With Airstrike in IranTrump Attacks Harris, Jewish Husband Over Their S",
+          "link": "https://finance.yahoo.com/news/humana-tumbles-warning-higher-hospital-122314984.html",
+          "publishedOn": "2024-07-31T13:40:17.000Z",
+          "wordCount": 16574,
+          "title": "Humana Tumbles After Warning of Higher Hospital Admissions",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/VNV9iro76Y4M2CTe0UP.YQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/6c72bec0125a6beb79339c4a98487df1"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/sp-500-nuclear-power-cathie-wood-sam-altman/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-07-31T13:38:03.000Z",
+          "wordCount": null,
+          "title": "S&P 500 Nuclear Energy Stocks Storm Higher As Prices Surge 800% On Largest U.S. Power Grid",
+          "imageUrl": null
+        },
+        {
+          "id": "us-pay-fact-youre-not-131515018.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/us-pay-fact-youre-not-131515018.html",
+          "publishedOn": "2024-07-31T13:15:15.000Z",
+          "wordCount": null,
+          "title": "'All Of Us Pay For The Fact That You're Not Paying That Person Enough,' Says Mark Cuban About Entrepreneurs Who Won't Raise The Minimum Wage",
+          "imageUrl": null
+        },
+        {
+          "id": "why-im-not-touching-artificial-131300447.html",
+          "author": null,
+          "description": "AMD's stock is one of the worst-valued options in tech.",
+          "link": "https://finance.yahoo.com/news/why-im-not-touching-artificial-131300447.html",
+          "publishedOn": "2024-07-31T13:13:00.000Z",
+          "wordCount": 20610,
+          "title": "Why I'm Not Touching This Artificial Intelligence (AI) Chip Stock With a 10-Foot Pole in 2024",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/04667941462367376eb72cc235091ed2"
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -19340,6 +19415,16 @@
           "wordCount": null,
           "title": "Dow Jones Futures Rise Ahead Of Fed Decision, Powell; Nvidia Named 'Top Pick' (Live Coverage)",
           "imageUrl": null
+        },
+        {
+          "id": "factbox-boeings-ceo-kelly-ortberg-130121883.html",
+          "author": null,
+          "description": "The appointment comes after months of deliberation from Boeing as it tries to salvage its reputation and addresses questions around safety after an Alaska Airlines operated MAX 9 jet experienced a mid-air panel blowout.  WHO IS ORTBERG?  Ortberg, 64, is a Dubuque, Iowa native and has over three decades of experience in the aerospace industry.",
+          "link": "https://finance.yahoo.com/news/factbox-boeings-ceo-kelly-ortberg-130121883.html",
+          "publishedOn": "2024-07-31T13:01:21.000Z",
+          "wordCount": 19834,
+          "title": "Factbox-Who is Boeing's new CEO Kelly Ortberg?",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/d3aa7b3ad3bf956e9bbd03aacbaadf15"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -19380,6 +19465,16 @@
           "wordCount": 20384,
           "title": "Boeing taps Kelly Ortberg as new CEO, reports wider-than-expected Q2 loss and revenue miss",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/r604PSExg8KVTv66S4FBhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/74092490-4e93-11ef-bfbf-b5d6cea48369"
+        },
+        {
+          "id": "altria-earnings-stock-price-a3a5e52d?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/altria-earnings-stock-price-a3a5e52d?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-07-31T11:49:00.000Z",
+          "wordCount": null,
+          "title": "Altria Stock Drops After Earnings Miss, Narrowed Guidance",
+          "imageUrl": null
         },
         {
           "id": "altria-posts-lower-expected-quarterly-114024976.html",
@@ -20080,6 +20175,16 @@
           "wordCount": 19934,
           "title": "Nvidia and Other Chip Stocks Drag S&P 500, Nasdaq Lower Tuesday—Here’s Why",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/infcMgWv6g1rg32oiJFhWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/investopedia_245/a0b95eff011faa50553f5cfeed440cac"
+        },
+        {
+          "id": "treasury-conspiring-manipulate-markets-economy-183200669.html",
+          "author": null,
+          "description": "A newly published white paper is causing a stir on Wall Street and in Washington by accusing the Treasury Department of conspiring to boost the economy for political ends, and of risking a revival of inflation in the process.",
+          "link": "https://finance.yahoo.com/news/treasury-conspiring-manipulate-markets-economy-183200669.html",
+          "publishedOn": "2024-07-30T18:32:00.000Z",
+          "wordCount": 21108,
+          "title": "Is the Treasury conspiring to manipulate markets and the economy? A new paper sparks debate on Wall Street.",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/AGj86SoyzUOYapWSCiEwrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/11bdfe3825e6b80cc5427635225326bb"
         },
         {
           "id": "meta-to-report-second-quarter-earnings-with-ad-sales-ai-spending-top-of-mind-180439966.html",
