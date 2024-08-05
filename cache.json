@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "ef342dd1e6ade26f05165229b7c7fd71",
+          "author": "Investopedia",
+          "description": "CrowdStrike has informed Delta Air Lines that the cybersecurity company doesn't believe it's responsible for the carrier's handling of last month's global IT outage following a software update that led Delta to cancel thousands of flights.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8575c8f51bb6482b81853deee13b349c0951cc24c82ab48152244ac862973fd4df1c63d1ab31b7f9f721affbc325a422ed26068c3302075541f2e6bcd8705c848ae0fb8a9dcbd0",
+          "publishedOn": "2024-08-05T12:00:00.000Z",
+          "wordCount": 354,
+          "title": "CrowdStrike Says Not Responsible for Delta's Handling of Outage",
+          "imageUrl": null
+        },
+        {
           "id": "e0fbcf32fe6a5230fede5fe62de1536c",
           "author": "Investopedia",
           "description": "Warren Buffett's Berkshire Hathaway updated investors on its second-quarter financial results Saturday, revealing its cash pile rose to a record high as it made more cuts to its stake in Apple, while its operating profit surged as its insurance underwriting business made gains, and more.",
@@ -3060,6 +3070,16 @@
       "feedUrl": "https://rss.app/feeds/UWnMV6nTNN8mPDUG.xml",
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
+        {
+          "id": "7c3e5665764ac0e97186bb0cb61073d6",
+          "author": "Investopedia",
+          "description": "The global markets sell-off is deepening amid worries about the U.S. economy, extending losses late last week on worries that the country may be heading to a major slowdown.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca816bc8e01ea9112a8d8234eefd3c2bc2405ac6208036a2df43264ddf26823cc3801369d0ab34b0faf634affd9d60a02fe624008f2d02500555ada2fc8d",
+          "publishedOn": "2024-08-05T12:24:00.000Z",
+          "wordCount": 354,
+          "title": "Global Sell-Off Deepens Amid Worries About US Economy",
+          "imageUrl": null
+        },
         {
           "id": "0e2dda75220eb11257f6806a7128ae74",
           "author": "Investopedia",
@@ -10609,6 +10629,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8690155",
+          "author": "Nisha Gopalan",
+          "description": "Kellanova shares are jumping in premarket trading Monday on a report that candy giant Mars is in advanced talks to buy the maker of Pop-Tarts and Pringles in what could be one of the biggest M&A deals this year.",
+          "link": "https://www.investopedia.com/mars-reportedly-in-advanced-talks-to-buy-pringles-pop-tarts-maker-kellanova-8690155",
+          "publishedOn": "2024-08-05T12:51:30.000Z",
+          "wordCount": 5268,
+          "title": "Mars Reportedly in Advanced Talks To Buy Pringles, Pop-Tarts Maker Kellanova",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/wSV9_JWS0MJ9zLuT5PICLThD2o0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2154522030-17f3cbdfff5f477cab01546feef3c1da.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/wSV9_JWS0MJ9zLuT5PICLThD2o0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2154522030-17f3cbdfff5f477cab01546feef3c1da.jpg"
+        },
+        {
+          "id": "8690127",
+          "author": "Aaron McDade",
+          "description": "CrowdStrike has informed Delta Air Lines that the cybersecurity company doesn't believe it's responsible for the carrier's handling of last month's global IT outage following a software update that led Delta to cancel thousands of flights.",
+          "link": "https://www.investopedia.com/crowdstrike-says-not-responsible-for-delta-s-handling-of-outage-8690127",
+          "publishedOn": "2024-08-05T12:27:43.000Z",
+          "wordCount": 6328,
+          "title": "CrowdStrike Says Not Responsible for Delta's Handling of Outage",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/W5mObHl2EBvBZSp8rxrxr9kyzLY=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1252213737-8d3e70d948354a6e8f18a0522e90e9c4.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/W5mObHl2EBvBZSp8rxrxr9kyzLY=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1252213737-8d3e70d948354a6e8f18a0522e90e9c4.jpg"
+        },
+        {
+          "id": "8690144",
+          "author": "Nisha Gopalan",
+          "description": "The global markets sell-off is deepening amid worries about the U.S. economy, extending losses late last week on worries that the country may be heading to a major slowdown.",
+          "link": "https://www.investopedia.com/global-sell-off-deepens-amid-worries-about-us-economy-8690144",
+          "publishedOn": "2024-08-05T12:24:46.000Z",
+          "wordCount": 6223,
+          "title": "Global Sell-Off Deepens Amid Worries About US Economy",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/LkaUQmvMSI-En7_wR5Yp0TXs-QQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2165010449-0d496c4f9c414100b4cc4f993010c6f3.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/LkaUQmvMSI-En7_wR5Yp0TXs-QQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2165010449-0d496c4f9c414100b4cc4f993010c6f3.jpg"
+        },
         {
           "id": "8690115",
           "author": "Nisha Gopalan",
@@ -20382,6 +20447,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-stock-nvda-ai-chip/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-08-05T13:04:30.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Futures Plunge 1,300 Points In Stock Market Sell-Off; Nvidia Dives On AI Chip Delay (Live Coverage)",
+          "imageUrl": null
+        },
+        {
+          "id": "3-magnificent-dividend-stocks-buy-123000797.html",
+          "author": null,
+          "description": "These classic food brands are paying high yields -- a rare opportunity for income investors.",
+          "link": "https://finance.yahoo.com/news/3-magnificent-dividend-stocks-buy-123000797.html",
+          "publishedOn": "2024-08-05T12:30:00.000Z",
+          "wordCount": 20612,
+          "title": "3 Magnificent Dividend Stocks to Buy That Are Near 52-Week Lows",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/EW09PijqidHAGisNhfUp5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/6fd7d698e48d4964d8592b9aff5cbdb5"
+        },
+        {
           "id": "magnificent-seven-set-shed-1-121217049.html",
           "author": null,
           "description": "High-performing shares of Alphabet, Amazon, Meta Platforms, Microsoft and Tesla fell as much as 12.2% in premarket trading.  Chip stocks, the big winners of Wall Street's picks and shovels trade for AI, also tumbled, with Advanced Micro Devices, Intel, Super Micro Computer and Broadcom falling as much as 10.3%.",
@@ -20412,6 +20497,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_YSjQM_E1BNKXfXyCkyvQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/a1aa1c70-531a-11ef-b1fe-1ba308b20c65"
         },
         {
+          "id": "u-s-stock-futures-plunging-in-perfect-storm-for-market-selloff-DiifJoRCOslakPj37fg9?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "U.S. stock futures plunged on Monday, led lower by the technology sector, amid a global market selloff on fears that the U.S. is at risk of recession. Stocks could be poised for a correction after riding high, though the chance that the Federal Reserve soon cuts interest rates may ultimately be a cu",
+          "link": "https://www.barrons.com/livecoverage/stock-market-today-080524/card/u-s-stock-futures-plunging-in-perfect-storm-for-market-selloff-DiifJoRCOslakPj37fg9?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-08-05T11:30:22.000Z",
+          "wordCount": 7121,
+          "title": "U.S. Stock Futures Plunging in Perfect Storm for Market Selloff",
+          "imageUrl": null
+        },
+        {
           "id": "5-things-know-stock-market-111410434.html",
           "author": null,
           "description": "News of the day for August 5, 2024",
@@ -20430,6 +20525,16 @@
           "wordCount": 20005,
           "title": "US yields slide as traders bet on big Fed rate cuts after weak data",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/baeb7450b194daa06361f8e445791e0f"
+        },
+        {
+          "id": "want-leave-assets-heirs-irs-105000681.html",
+          "author": null,
+          "description": "Managing your taxes can be one of the most complex aspects of estate planning and a new IRS rule change continues that trend. The rule, published at the end of March, changes how the step-up in basis applies to assets held in an irrevocable trust. If you need help interpreting the IRS rule change or setting […] The post Want to Leave Assets to Heirs? IRS Rule Change Should Have You Rethinking Your Irrevocable Trust appeared first on SmartReads CMS - SmartAsset.",
+          "link": "https://finance.yahoo.com/news/want-leave-assets-heirs-irs-105000681.html",
+          "publishedOn": "2024-08-05T11:00:15.000Z",
+          "wordCount": 8159,
+          "title": "IRS Changes Could Rewrite Your Inheritance Strategy: What to Know",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/be55b9b56e329d2cdc9b74ed9d11bfb6"
         },
         {
           "id": "tesla-stock-elon-musk-sales-80edd9d5?siteid=yhoof2&yptr=yahoo",
