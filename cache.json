@@ -3181,6 +3181,26 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "c16ef48278337386697eaf7f99d9c36b",
+          "author": "Investopedia",
+          "description": "U.S. stock futures were higher Tuesday morning, one day after major indexes registered their biggest one-day decline in nearly two years amid concerns about the health of the economy and an ongoing selloff in technology stocks.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c214079366d768e3c60f7312823bc26584",
+          "publishedOn": "2024-08-06T12:53:00.000Z",
+          "wordCount": 354,
+          "title": "Dow Jones Today: Major US Stock Indexes Poised to Open Higher After Biggest One-Day Losses Since 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "10fe72158dd544dc3de5bb39c306f9f8",
+          "author": "Investopedia",
+          "description": "Japan's Nikkei rebounded Tuesday, closing up 10% after tanking 12% yesterday, the index's worst day since 1987.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca886ecce91aac112b8d8c37b6fc3e3ec24d518e32802ba5df462a5d96789c3dd297573e93b66dffadb579b2bfd87e",
+          "publishedOn": "2024-08-06T12:37:00.000Z",
+          "wordCount": 354,
+          "title": "Nikkei Rebounds in Best Day Since 2008",
+          "imageUrl": null
+        },
+        {
           "id": "807b817b16740e9dc5a791b3858cc533",
           "author": "Investopedia",
           "description": "Nvidia shares rose in premarket trading Tuesday, after dropping more than 6% the previous session amid a broad-based market selloff and following reports that the company's highly anticipated Blackwell chips will be delayed. Monitor these key levels.",
@@ -10944,6 +10964,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8690763",
+          "author": "Nisha Gopalan",
+          "description": "Japan's Nikkei rebounded Tuesday, closing up 10% after tanking 12% yesterday, the index's worst day since 1987.",
+          "link": "https://www.investopedia.com/nikkei-rebounds-in-best-day-since-2008-8690763",
+          "publishedOn": "2024-08-06T12:37:18.000Z",
+          "wordCount": 6182,
+          "title": "Nikkei Rebounds in Best Day Since 2008",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/mJ3mOMqVcfXqYOxZBzaTbHzj508=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2165009322-e7275f39d63241b08c9188b7e0765029.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/mJ3mOMqVcfXqYOxZBzaTbHzj508=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2165009322-e7275f39d63241b08c9188b7e0765029.jpg"
+        },
         {
           "id": "8690755",
           "author": "Staff Author",
@@ -21257,6 +21292,56 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "uber-q2-earnings-revenue-eps-122709700.html",
+          "author": null,
+          "description": "Uber Technologies, Inc (NYSE:UBER) reported fiscal second-quarter 2024 revenue growth of 16% year-on-year to $10.70 billion, beating the analyst consensus estimate of $10.57 billion. Uber’s GAAP EPS of 47 cents beat the analyst consensus estimate of 31 cents. The stock gained after the report. Revenue from Mobility grew to $6.13 billion, up 25% year over year. Delivery was $3.29 billion, up 8%, and Freight was $1.27 billion, flat year over year. Gross Bookings grew 19% year-over-year to $39.95 b",
+          "link": "https://finance.yahoo.com/news/uber-q2-earnings-revenue-eps-122709700.html",
+          "publishedOn": "2024-08-06T12:27:09.000Z",
+          "wordCount": 20097,
+          "title": "Uber Q2 Earnings: Revenue And EPS Beat, 30M Trips Per Day, CEO Highlights Record Growth And More",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/5658b7f704c81e87cb396d1893b98943"
+        },
+        {
+          "id": "got-1-000-invest-stocks-122300698.html",
+          "author": null,
+          "description": "From $1,000 to a fabulous financial future: Learn the simple steps to making your first investment count in the stock market.",
+          "link": "https://finance.yahoo.com/news/got-1-000-invest-stocks-122300698.html",
+          "publishedOn": "2024-08-06T12:23:00.000Z",
+          "wordCount": 20526,
+          "title": "Got $1,000 to Invest In Stocks? Put It In This Index Fund.",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/cfdae0a0e03ffe4b10844f0a06c7053b"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/celsius-stock-molson-coors-q2-earnings/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-08-06T12:05:18.000Z",
+          "wordCount": null,
+          "title": "Celsius Stock Pops On Record Quarter; Molson Coors Brews Up Beat",
+          "imageUrl": null
+        },
+        {
+          "id": "caterpillar-rises-profits-beat-estimates-120421512.html",
+          "author": null,
+          "description": "Caterpillar shares are rising in premarket trading Tuesday after the company's second-quarter profits beat analysts' estimates despite lower sales than expected.",
+          "link": "https://finance.yahoo.com/news/caterpillar-rises-profits-beat-estimates-120421512.html",
+          "publishedOn": "2024-08-06T12:04:21.000Z",
+          "wordCount": 19745,
+          "title": "Caterpillar Rises as Profits Beat Estimates Despite Lower Sales",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/MLB8tulbRwGdCzaACZOFfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/05d9f2490263d49f646c5f9b74933453"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-warren-buffett-leaves-investors-holding-the-bag-on-apple-stock/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-08-06T12:00:01.000Z",
+          "wordCount": null,
+          "title": "Warren Buffett Leaves 4 Investors Holding The Bag On Apple Stock",
+          "imageUrl": null
+        },
+        {
           "id": "investor-whiplash-as-stocks-come-roaring-back-after-massive-selloff-upF1sUqbghh5Paw9TSwF?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "Monday was a very bad day for stocks, especially in Japan. But traders seem able to swiftly shift gears—they’re retracing much of the losses on Tuesday.\nFutures for the three main U.S. indexes were marching higher after their worst day in more than a year. The Dow Jones Industrial Average added 274",
@@ -21407,6 +21492,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/XBrCZLtPmqLni4sbdLa4HQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/19082c53d18a0eaf177de19ab9da577b"
         },
         {
+          "id": "im-65-850-000-ira-113000237.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/im-65-850-000-ira-113000237.html",
+          "publishedOn": "2024-08-06T11:00:24.000Z",
+          "wordCount": null,
+          "title": "Is It Worth It to Convert $850k to a Roth IRA at Age 65 to Avoid RMDs?",
+          "imageUrl": null
+        },
+        {
           "id": "palantir-stock-soars-unbridled-demand-110000693.html",
           "author": null,
           "description": "The software company, originally focused on the U.S. government intelligence market, is rapidly expanding its commercial business.",
@@ -21425,6 +21520,16 @@
           "wordCount": 18682,
           "title": "3 Top Artificial Intelligence Stocks to Buy in August",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Pwz23uEl0yohqEY8N6b.WQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/cb6c1c783844bd4f0fb302f8d8d065d7"
+        },
+        {
+          "id": "citigroup-trading-division-hit-fresh-100154074.html",
+          "author": null,
+          "description": "(Bloomberg) -- Christine O’Reilly was with friends in Miami, when one of her biggest clients at Citigroup Inc. kept buzzing her phone.Most Read from BloombergSinger Akon’s Multibillion-Dollar Futuristic City in Africa Gets Final NoticeNew York City’s Outdoor Dining Sheds Will Start DisappearingThe 5 Coastal States That Face the Most Devastating Flood RiskParis Spent €1.4 Billion to Clean Up the Seine. Has It Worked?Africa’s Richest City Needs $12 Billion to Fix InfrastructureBenjamin Waters, a t",
+          "link": "https://finance.yahoo.com/news/citigroup-trading-division-hit-fresh-100154074.html",
+          "publishedOn": "2024-08-06T10:01:54.000Z",
+          "wordCount": 20881,
+          "title": "Citigroup’s Trading Division Hit With Fresh Toxic-Culture Claim",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/XYmMcCSXXnz0VXo8y8cG_g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/5d8fefa44b7d30f7ea49cc9ef521507b"
         },
         {
           "id": "stocks-still-have-the-same-problem-after-a-wild-monday-in-markets-morning-brief-100059162.html",
@@ -49375,16 +49480,6 @@
           "wordCount": 20473,
           "title": "Watch These Tesla Stock Price Levels After Last Week's Huge Rally",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/9kzv4jqQFCyvB1UCVhqj4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD00NzU-/https://media.zenfs.com/en/investopedia_245/a4b40b20891da920371d920d4e7b65f0"
-        },
-        {
-          "id": "card-skimmers-hard-spot-rise-171440370.html",
-          "author": null,
-          "description": "Credit card skimmers are on the rise, costing consumers $1 billion-a-year, police say. Here are some easy ways to spot the devices.",
-          "link": "https://finance.yahoo.com/news/card-skimmers-hard-spot-rise-171440370.html",
-          "publishedOn": "2024-07-08T01:14:40.000Z",
-          "wordCount": 20654,
-          "title": "Card skimmers are hard to spot and on the rise. Here's what you can do to protect yourself.",
-          "imageUrl": "https://media.zenfs.com/en/business_insider_articles_888/4a4c5807d580e6a41e0230f54b9d2239"
         }
       ]
     }
