@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "4efd1dd4f923dcf238ae70518b347054",
+          "author": "Investopedia",
+          "description": "Americans are reining in their travel spending, according to corporate earnings outlooks, raising questions about whether the slowdown reflects a normalization of travel demand or something more worrisome.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8f748af210b64874988f36a7f737248c094bd131933dbddf40244bd626933adf931660daab30bcf1ea2ee5a58a24b622ec3342833d5d0a5d0eb0e7bad06758cdc4bfb1d5ded4841c5a8b53d49c6c718d74632d9097538e944bb19f2a7fb6dd75",
+          "publishedOn": "2024-08-07T21:36:00.000Z",
+          "wordCount": 354,
+          "title": "Is the Post-Pandemic Travel Boom Finally Ending?",
+          "imageUrl": null
+        },
+        {
           "id": "be8dd7ace41164df4caab41e2f575b6b",
           "author": "Investopedia",
           "description": "Global Payments was among the S&P 500’s brightest stars Wednesday after a second-quarter revenue beat and a dose of optimism about the company’s streamlining efforts.",
@@ -11091,21 +11101,6 @@
             "url": "https://images.nu.nl/m/eynxqfjao78a_sqr256/2691/346/5005/5005/honderden-huurders-moeten-van-rechter-huurverhoging-gewoon-betalen.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/eynxqfjao78a_sqr256/2691/346/5005/5005/honderden-huurders-moeten-van-rechter-huurverhoging-gewoon-betalen.jpg"
-        },
-        {
-          "id": "article-6320086",
-          "author": null,
-          "description": "De hevige regenval in Frankrijk zorgt voor problemen met de tarweoogst. De grootste landbouwproducent van Europa verwacht dat de oogst van zachte tarwe dit jaar zal afnemen tot het laagste niveau in vier jaar.",
-          "link": "https://www.nu.nl/economie/6320086/regen-zorgt-in-frankrijk-voor-tegenvallende-tarweoogst.html",
-          "publishedOn": "2024-07-09T10:54:54.000Z",
-          "wordCount": 445,
-          "title": "Regen zorgt in Frankrijk voor tegenvallende tarweoogst",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/4w4x0jva672p_sqr256/140/0/4472/4472/regen-zorgt-in-frankrijk-voor-tegenvallende-tarweoogst.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/4w4x0jva672p_sqr256/140/0/4472/4472/regen-zorgt-in-frankrijk-voor-tegenvallende-tarweoogst.jpg"
         }
       ]
     },
@@ -11114,6 +11109,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8692000",
+          "author": "Andrew Kessel",
+          "description": "Amgen shares fell 5% Wednesday after the drug developer lowered its full-year earnings guidance.",
+          "link": "https://www.investopedia.com/amgen-stock-slides-on-lowered-guidance-8692000",
+          "publishedOn": "2024-08-07T22:57:20.000Z",
+          "wordCount": 6067,
+          "title": "Amgen Stock Slides on Lowered Guidance",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/d7t1rFQAQAsOUxq3p44sHbEn03I=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1491078338-f078852de51c4264956a3ee8a06504e0.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/d7t1rFQAQAsOUxq3p44sHbEn03I=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1491078338-f078852de51c4264956a3ee8a06504e0.jpg"
+        },
         {
           "id": "8691929",
           "author": "Michael Bromberg",
@@ -21816,6 +21826,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "why-lumen-stock-skyrocketed-again-220516332.html",
+          "author": null,
+          "description": "Lumen missed earnings expectations, but it actually had some great news for investors.",
+          "link": "https://finance.yahoo.com/news/why-lumen-stock-skyrocketed-again-220516332.html",
+          "publishedOn": "2024-08-07T22:05:16.000Z",
+          "wordCount": 19942,
+          "title": "Why Lumen Stock Skyrocketed Again Today",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/VDrXbuSEHL87NLTJ2T8ZwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/motleyfool.com/d3b17e58d041a90d061b23e3bc72aae8"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/warren-buffett-occidental-petroleum-earnings/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-08-07T20:30:42.000Z",
+          "wordCount": null,
+          "title": "Warren Buffett's Favorite Energy Stock Just Saw Q2 Earnings Growth Top 50%",
+          "imageUrl": null
+        },
         {
           "id": "guess-percent-retirees-1-million-203020539.html",
           "author": null,
@@ -50215,106 +50245,6 @@
           "wordCount": null,
           "title": "Daily – Vickers Top Insider Picks for 07/09/2024",
           "imageUrl": null
-        },
-        {
-          "id": "rich-avoid-paying-taxes-savings-150055760.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/rich-avoid-paying-taxes-savings-150055760.html",
-          "publishedOn": "2024-07-09T11:00:36.000Z",
-          "wordCount": null,
-          "title": "How to Avoid Taxes on a Savings Account",
-          "imageUrl": null
-        },
-        {
-          "id": "1-million-roth-ira-receive-120000338.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/1-million-roth-ira-receive-120000338.html",
-          "publishedOn": "2024-07-09T11:00:34.000Z",
-          "wordCount": null,
-          "title": "Can I Retire at 62 With $1 Million in a Roth IRA and a $2,250 Social Security Check?",
-          "imageUrl": null
-        },
-        {
-          "id": "were-67-2-5-million-125002002.html",
-          "author": null,
-          "description": "Picture this scenario: You and your spouse are both 67, have $2.5 million in savings and collect $40,000 in annual Social Security benefits. Is that enough to support a $100,000 lifestyle in retirement? This question is really multi-pronged. It’ll depend on when you both plan to retire, if you can you generate $100,000 per year […] The post We’re 67, Have $2.5 Million Saved and $40k in Social Security Benefits. Can We Live on $100k Per Year? appeared first on SmartReads by SmartAsset.",
-          "link": "https://finance.yahoo.com/news/were-67-2-5-million-125002002.html",
-          "publishedOn": "2024-07-09T11:00:13.000Z",
-          "wordCount": 6731,
-          "title": "We Have $2.5 Million Saved and $40k in Social Security Benefits at 67. Can We Live on $100k Per Year?",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/d6d5517afb5b578e7644ecd2e4c9fff3"
-        },
-        {
-          "id": "ARGUS_40534_TechnicalAnalysis_1720522720000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_40534_TechnicalAnalysis_1720522720000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2024-07-09T10:58:40.000Z",
-          "wordCount": null,
-          "title": "Technical Assessment: Bullish in the Intermediate-Term",
-          "imageUrl": null
-        },
-        {
-          "id": "prediction-2-stocks-worth-more-104500672.html",
-          "author": null,
-          "description": "Alphabet and Amazon have a shot at surpassing Nvidia over the next few years.",
-          "link": "https://finance.yahoo.com/news/prediction-2-stocks-worth-more-104500672.html",
-          "publishedOn": "2024-07-09T10:45:00.000Z",
-          "wordCount": 18542,
-          "title": "Prediction: 2 Stocks That Will Be Worth More Than Nvidia 5 Years From Now",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/0c848f4b2e9473f61121a82bc77ff45c"
-        },
-        {
-          "id": "ARGUS_40532_MarketSummary_1720521764000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_40532_MarketSummary_1720521764000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2024-07-09T10:42:44.000Z",
-          "wordCount": null,
-          "title": "Market Digest: GLW, MSFT, CHWY",
-          "imageUrl": null
-        },
-        {
-          "id": "highest-paying-trade-jobs-u-103906177.html",
-          "author": null,
-          "description": "With AI threatening to steal corporate jobs and recent graduates finding themselves “unemployable”, trade jobs are becoming increasingly attractive—and lucrative.",
-          "link": "https://finance.yahoo.com/news/highest-paying-trade-jobs-u-103906177.html",
-          "publishedOn": "2024-07-09T10:39:06.000Z",
-          "wordCount": 18318,
-          "title": "The most lucrative trade job in the U.S. pays over $100,000 per year—but you’ll have to be comfortable with tight spaces and heights",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Hjwd7_TrcG4ODen15ScV_w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTM-/https://media.zenfs.com/en/fortune_175/c0619c97403a49fbc71b3ca28b8f03c6"
-        },
-        {
-          "id": "best-stock-buy-now-amazon-103000229.html",
-          "author": null,
-          "description": "These companies' stocks hit record highs this week but could have a lot more to offer over the long term.",
-          "link": "https://finance.yahoo.com/news/best-stock-buy-now-amazon-103000229.html",
-          "publishedOn": "2024-07-09T10:30:00.000Z",
-          "wordCount": 18656,
-          "title": "Best Stock to Buy Right Now: Amazon vs. Apple",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/c1aef791a5ad37973064342166a22b7b"
-        },
-        {
-          "id": "ask-advisor-were-inheriting-house-103000718.html",
-          "author": null,
-          "description": "My spouse will inherit her father's house outright upon death and wants to sell it immediately. Would she be subjected to capital gains tax (above the $250,000 exclusion) on the sale and would it matter if only she is on the deed? Or would it make sense to have both of us on the deed to […] The post Ask an Advisor: We’re Inheriting a House. How Can We Avoid Capital Gains Tax When We Sell It? appeared first on SmartReads by SmartAsset.",
-          "link": "https://finance.yahoo.com/news/ask-advisor-were-inheriting-house-103000718.html",
-          "publishedOn": "2024-07-09T10:30:00.000Z",
-          "wordCount": 18920,
-          "title": "Ask an Advisor: We're Inheriting a House. How Can We Avoid Capital Gains Tax When We Sell It?",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/ee75a826b3080135fde0f9b4046e916d"
-        },
-        {
-          "id": "futures-higher-megacaps-chip-stocks-102658228.html",
-          "author": null,
-          "description": "The S&P 500 and the Nasdaq inched upwards to close at record highs on Monday, lifted by the rally in chip stocks as the Philadelphia semiconductor index rose to a more than two-week high.  That marked the 35th time this year the benchmark index has set a fresh closing record, as sharp gains in AI-linked stocks and technology shares have kept equity sentiment bright, offsetting the uncertainty around the central bank's rate-cut plans.  Investors will scrutinize Powell's Congressional testimony later in the day to gauge how the central bank is assessing recent economic data that points to a slowdown in the labor market, amid other signs of potential economic weakness.",
-          "link": "https://finance.yahoo.com/news/futures-higher-megacaps-chip-stocks-102658228.html",
-          "publishedOn": "2024-07-09T10:26:58.000Z",
-          "wordCount": 18346,
-          "title": "Futures higher as megacaps, chip stocks rise ahead of Powell comments",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/499965b926c38c3248d981c56e9f9a57"
         }
       ]
     }
