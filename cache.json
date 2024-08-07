@@ -11071,21 +11071,6 @@
             "url": "https://images.nu.nl/m/xatx8drajty7_sqr256/1776/7/3531/3531/porsche-verkoopt-minder-autos-vooral-in-china-en-noord-amerika.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/xatx8drajty7_sqr256/1776/7/3531/3531/porsche-verkoopt-minder-autos-vooral-in-china-en-noord-amerika.jpg"
-        },
-        {
-          "id": "article-6320035",
-          "author": null,
-          "description": "In de afgelopen twintig jaar zijn steeds meer Nederlandse huishoudens hun hypotheek gaan aflossen, blijkt uit een nieuw onderzoek van het Centraal Planbureau (CPB).",
-          "link": "https://www.nu.nl/economie/6320035/steeds-meer-mensen-lossen-hypotheek-af.html",
-          "publishedOn": "2024-07-09T06:41:48.000Z",
-          "wordCount": 445,
-          "title": "Steeds meer mensen lossen hypotheek af",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/opcx7mwafaik_sqr256/856/0/5451/5451/steeds-meer-mensen-lossen-hypotheek-af.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/opcx7mwafaik_sqr256/856/0/5451/5451/steeds-meer-mensen-lossen-hypotheek-af.jpg"
         }
       ]
     },
@@ -11094,6 +11079,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8691801",
+          "author": "Bill McColl",
+          "description": "Apartment giant Equity Residential has agreed to pay Blackstone Real Estate $964 million for 11 properties in its targeted Atlanta, Dallas/Fort Worth, and Denver markets.",
+          "link": "https://www.investopedia.com/equity-residential-buys-11-apartment-properties-from-blackstone-for-almost-usd1b-8691801",
+          "publishedOn": "2024-08-07T18:50:52.000Z",
+          "wordCount": 6192,
+          "title": "Equity Residential Buys 11 Apartment Properties From Blackstone for Almost $1B",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/K_P7gmTFgvQpp7tuyka0ib9xw-I=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1235786747-8ae550585a174e14b593c95b6f2152e9.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/K_P7gmTFgvQpp7tuyka0ib9xw-I=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1235786747-8ae550585a174e14b593c95b6f2152e9.jpg"
+        },
         {
           "id": "8691724",
           "author": "Andrew Kessel",
@@ -21677,6 +21677,46 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/research/magnificent-seven-stocks-to-buy-and-and-watch/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-08-07T18:18:42.000Z",
+          "wordCount": null,
+          "title": "Magnificent Seven Stocks: Nvidia Stock Reverses Lower; Tesla Slides",
+          "imageUrl": null
+        },
+        {
+          "id": "analysis-traders-lose-billions-big-181620204.html",
+          "author": null,
+          "description": "A wager that stock markets would stay calm has cost retail traders, hedge funds and pension funds billions after a selloff in global stocks, highlighting the risks of piling into a popular bet.  The CBOE VIX index, which tracks the stock market's expectation of volatility based on S&P 500 index options, posted its largest-ever intraday jump and closed at its highest since October 2020 on Monday as U.S. recession fears and a sharp position unwind have wiped off $6 trillion from global stocks in three weeks.  Investors in 10 of the biggest short-volatility exchange traded funds saw $4.1 billion of returns erased from highs reached earlier in the year, according to calculations by Reuters and data from LSEG and Morningstar.",
+          "link": "https://finance.yahoo.com/news/analysis-traders-lose-billions-big-181620204.html",
+          "publishedOn": "2024-08-07T18:16:20.000Z",
+          "wordCount": 20649,
+          "title": "Analysis-Traders lose billions on big volatility short after stocks rout",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/303bafbd7487d030f143b6f627bb2609"
+        },
+        {
+          "id": "gen-xer-retired-early-34-175802145.html",
+          "author": null,
+          "description": "Sam Dogen retired early at 34 and returned to work after a decade, but the micromanagement and stress led him to retire again after four months.",
+          "link": "https://finance.yahoo.com/news/gen-xer-retired-early-34-175802145.html",
+          "publishedOn": "2024-08-07T17:58:02.000Z",
+          "wordCount": 20915,
+          "title": "A Gen Xer who retired early at 34 returned to work a decade later. He only lasted 4 months.",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/t3Xtwt5owYzWjam5Y6L.lQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/eae373886cdb203e499f519cd6129a99"
+        },
+        {
+          "id": "nvidia-chip-stocks-fall-despite-piper-sandler-calling-out-tremendous-opportunity-after-sell-off-172211328.html",
+          "author": null,
+          "description": "Nvidia erases early morning gains as market rebound fades",
+          "link": "https://finance.yahoo.com/news/nvidia-chip-stocks-fall-despite-piper-sandler-calling-out-tremendous-opportunity-after-sell-off-172211328.html",
+          "publishedOn": "2024-08-07T17:22:11.000Z",
+          "wordCount": 20148,
+          "title": "Nvidia, chip stocks fall despite Piper Sandler calling out 'tremendous opportunity' after sell-off",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/5Pvo76UtX0NmP05absYjuQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/bfda1270-52db-11ef-bfdf-3fee6aefbea6"
+        },
+        {
           "id": "nvidia-stock-dips-despite-piper-sandler-calling-out-tremendous-opportunity-after-sell-off-172211005.html",
           "author": null,
           "description": "Nvidia extends its gains following a bullish note from Piper Sandler analysts.",
@@ -21687,6 +21727,26 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/5Pvo76UtX0NmP05absYjuQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/bfda1270-52db-11ef-bfdf-3fee6aefbea6"
         },
         {
+          "id": "super-micro-computer-stock-tumbles-as-soaring-revenue-misses-expectations-8ahIXwEAWUtao2b17JBg?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-08-07-2024/card/super-micro-computer-stock-tumbles-as-soaring-revenue-misses-expectations-8ahIXwEAWUtao2b17JBg?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-08-07T16:58:44.000Z",
+          "wordCount": null,
+          "title": "Super Micro Computer Stock Dives Despite Soaring Revenue",
+          "imageUrl": null
+        },
+        {
+          "id": "family-explorer-died-titan-sub-165025567.html",
+          "author": null,
+          "description": "The family of a French explorer who died in a submersible implosion have filed a wrongful death lawsuit seeking more than $50 million that accuses the sub’s operator of gross negligence.  Paul-Henri Nargeolet was among five people who died when the Titan submersible imploded during a voyage to the famed Titanic wreck site in the North Atlantic in June 2023.  No one survived the trip aboard the experimental submersible owned by OceanGate, a company in Washington state that has since suspended operations.",
+          "link": "https://finance.yahoo.com/news/family-explorer-died-titan-sub-165025567.html",
+          "publishedOn": "2024-08-07T16:50:25.000Z",
+          "wordCount": 20294,
+          "title": "Crew of Titan sub knew they were going to die before implosion, according to more than $50M lawsuit",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/zIQ4ocx_p0PJhH21Q77R7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/aa99c986220ed770be4cb5786d8315b2"
+        },
+        {
           "id": "why-mortgage-rates-will-probably-keep-falling-before-the-fed-cuts-rates-164716119.html",
           "author": null,
           "description": "The Federal Reserve is poised to cut interest rates this fall, a development that could drive mortgage rates lower. But some experts expect that borrowing costs could come down before that decision.",
@@ -21695,6 +21755,16 @@
           "wordCount": 20346,
           "title": "Why mortgage rates will probably keep falling before the Fed cuts rates",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/o5XBZh.cmPJLKl7NCqoMnA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/50239270-66ac-11ed-9f5f-2fea3cb48953"
+        },
+        {
+          "id": "berkshire-hathaway-warren-buffett-yen-carry-trade-93aa8239?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/berkshire-hathaway-warren-buffett-yen-carry-trade-93aa8239?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-08-07T16:43:00.000Z",
+          "wordCount": null,
+          "title": "Berkshire Hathaway Plays the Yen Carry Trade—the Right Way",
+          "imageUrl": null
         },
         {
           "id": "ARGUS_3550_AnalystReport_1723048908000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -22325,6 +22395,16 @@
           "wordCount": 20316,
           "title": "I Can't Think of a Better Vanguard ETF to Buy During the Stock Market Sell-Off Than This One",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/9IH5he0bJ4ZVpuiyUB08zg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/3529dd706dd54f8d6ce6ce20e2cc2a1c"
+        },
+        {
+          "id": "the-insurance-industry-is-winning-a-fight-to-kill-new-protections-for-retirement-savers-54030e41?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/personal-finance/retirement/the-insurance-industry-is-winning-a-fight-to-kill-new-protections-for-retirement-savers-54030e41?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-08-07T09:49:00.000Z",
+          "wordCount": null,
+          "title": "The Insurance Industry Is Winning a Fight to Kill New Protections for Retirement Savers",
+          "imageUrl": null
         },
         {
           "id": "heres-hands-down-best-stock-094400406.html",
@@ -50125,26 +50205,6 @@
           "wordCount": 7448,
           "title": "Nvidia Stock: 2 Post-Stock-Split Mistakes to Avoid to Make the Best Profits",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/._VoMmppzjQegYkchZpjGA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/7a5ac70caf96b74a91f429fe0f8d589e"
-        },
-        {
-          "id": "stock-market-today-japans-nikkei-064250760.html",
-          "author": null,
-          "description": "Asian shares were mostly higher Tuesday, with Tokyo's benchmark hitting another record, after Wall Street benchmarks reached more milestones.  Japan's benchmark Nikkei 225 jumped 2.0% to finish at a record high 41,580.17.  Technology-related shares led gains, with computer chip maker Tokyo Electron surging 3.8% and chip testing equipment maker Advantest up 4.1%.",
-          "link": "https://finance.yahoo.com/news/stock-market-today-japans-nikkei-064250760.html",
-          "publishedOn": "2024-07-09T06:42:50.000Z",
-          "wordCount": 18553,
-          "title": "Stock market today: Global stocks mostly rise, with Japan's Nikkei 225 index logging record close",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/fftxJ7ypHcKdIacE3_HnQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/18fdb0e367f323f80608b02a6e5ee454"
-        },
-        {
-          "id": "china-investors-nickname-shows-frustration-063151214.html",
-          "author": null,
-          "description": "(Bloomberg) -- Some of China’s 200 million mom-and-pop investors have given themselves a sarcastic new nickname in a show of frustration with the country’s failure to prop up the stock market.Most Read from BloombergMicrosoft Orders China Staff to Use iPhones for Work and Drop AndroidBiden’s Biggest Donors Left Powerless to Sway Him to End BidZyn Imitators Rush In as Online Sales Halt Worsens US ShortageBoeing to Plead Guilty to Fraud for Violating Deal Over 737 Max CrashesBiden Narrows Gap With",
-          "link": "https://finance.yahoo.com/news/china-investors-nickname-shows-frustration-063151214.html",
-          "publishedOn": "2024-07-09T06:31:51.000Z",
-          "wordCount": 18182,
-          "title": "China Investors’ New Nickname Shows Frustration With Market Rout",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/tW29xLXkIQP1nJviHnG3Vw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/0bfaad8fa6e3e8a3588fb37dee776519"
         }
       ]
     }
