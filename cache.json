@@ -3172,16 +3172,6 @@
           "wordCount": 354,
           "title": "BlackRock Assets Reach Record $10.6T as Revenue, Profits Rise",
           "imageUrl": null
-        },
-        {
-          "id": "de3c4d8e25ce0d6ae9cf28c2bf16827f",
-          "author": "Investopedia",
-          "description": "Google parent Alphabet is reportedly in talks with cybersecurity startup Wiz in a bid to shore up its cloud computing business.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8168c8e513a0113a879b34a7bf3828c2505ac6398b3ffc8752664dcf78d83fd0801d69d0f278b3f6f235ebfb8739ac23e7670a94315d450b5aaaa4ff802f",
-          "publishedOn": "2024-07-14T18:51:00.000Z",
-          "wordCount": 354,
-          "title": "Google Could Be Teeing Up Its Largest Acquisition Ever",
-          "imageUrl": null
         }
       ]
     },
@@ -5657,6 +5647,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "article-6324402",
+          "author": null,
+          "description": "De inname van kleine plastic flesjes met statiegeld blijft flink achter. Van alle plastic flessen die op de markt komen, is 69 procent ingezameld via de automaten. Net een kwart daarvan zijn kleine flesjes.",
+          "link": "https://www.nu.nl/economie/6324402/kleine-statiegeldflesjes-worden-maar-mondjesmaat-ingeleverd.html",
+          "publishedOn": "2024-08-13T07:11:16.000Z",
+          "wordCount": 445,
+          "title": "Kleine statiegeldflesjes worden maar mondjesmaat ingeleverd",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/63oxx3zayznt_sqr256/659/0/4167/4167/kleine-statiegeldflesjes-worden-maar-mondjesmaat-ingeleverd.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/63oxx3zayznt_sqr256/659/0/4167/4167/kleine-statiegeldflesjes-worden-maar-mondjesmaat-ingeleverd.jpg"
+        },
         {
           "id": "article-6324398",
           "author": null,
@@ -20918,21 +20923,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/0ZZQgM9wvvF2PsitHe9hikIFQ1M=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GOOGLChart-a0dfb1ff0b4d40639cb5584a5e033d42.gif"
-        },
-        {
-          "id": "8677798",
-          "author": "Taylor Tompkins",
-          "description": "Google parent Alphabet is reportedly in talks with cybersecurity startup Wiz in a bid to shore up its cloud computing business.",
-          "link": "https://www.investopedia.com/google-could-be-teeing-up-its-largest-acquisition-ever-8677798",
-          "publishedOn": "2024-07-14T18:51:26.000Z",
-          "wordCount": 6046,
-          "title": "Google Could Be Teeing Up Its Largest Acquisition Ever",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/M761GXp5ZUnjUPU0HWKuMsYU1eE=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2157160722-80f089d2f83846e2b0d11396c98761b2.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/M761GXp5ZUnjUPU0HWKuMsYU1eE=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2157160722-80f089d2f83846e2b0d11396c98761b2.jpg"
         }
       ]
     },
@@ -20941,6 +20931,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "asian-futures-gain-wall-street-224812862.html",
+          "author": null,
+          "description": "(Bloomberg) -- Asian stocks rose, recouping their losses from last week’s rout, bolstered by an advance in Japanese shares. Most Read from BloombergHow a Tiny Midwestern Town Became a Mecca for Modern ArchitectureHow Chicago’s Gigantic Merchandise Mart Is Still Thriving as Office SpaceLos Angeles Sees Remote Work Helping ‘No Car’ 2028 Olympic GamesGottheimer Calls for Rail Riders to Be Reimbursed for DelaysIn DNC, Chicago’s Embattled Transit System Faces a High-Profile TestJapan’s equities gaine",
+          "link": "https://finance.yahoo.com/news/asian-futures-gain-wall-street-224812862.html",
+          "publishedOn": "2024-08-13T05:55:04.000Z",
+          "wordCount": 21479,
+          "title": "Asian Stocks Fully Recover From Last Week’s Plunge: Markets Wrap",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/PUvvJhscMHF97J1xxx1FBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mzc-/https://media.zenfs.com/en/bloomberg_technology_68/a1c9cbffbff65c128998700ecc24d7f4"
+        },
         {
           "id": "analysis-fear-fades-us-stocks-050438708.html",
           "author": null,
@@ -21050,6 +21050,16 @@
           "wordCount": 20072,
           "title": "Here's Why Nvidia Stock Jumped Today",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/nS_ulRy802lY_RnnyS5kHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/abb127847336960eae79606db4093a3c"
+        },
+        {
+          "id": "expedia-ceo-travel-slowdown-is-real-but-things-may-get-better-for-the-holidays-210711791.html",
+          "author": null,
+          "description": "Expedia has a new CEO. Here's her attack plan on revitalizing the company.",
+          "link": "https://finance.yahoo.com/news/expedia-ceo-travel-slowdown-is-real-but-things-may-get-better-for-the-holidays-210711791.html",
+          "publishedOn": "2024-08-12T21:07:11.000Z",
+          "wordCount": 19720,
+          "title": "Expedia CEO: Travel slowdown is real, but things may get better for the holidays",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/nPaRDefxuaL80VM3HxUVaQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODQ-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/e4c242e0-57dd-11ef-ab3b-7cc4e51d5c6d"
         },
         {
           "id": "super-micro-computer-stock-climbs-205419628.html",
@@ -21330,6 +21340,16 @@
           "wordCount": 20444,
           "title": "Nvidia named top 'rebound' stock as Wall Street argues recent slump is overdone",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/d..fb3F0l1GRN_AomXHcbA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/099a3f40-58c5-11ef-bdfd-390db8ae7b03"
+        },
+        {
+          "id": "us-utilities-poised-ride-data-162122670.html",
+          "author": null,
+          "description": "U.S. electric utilities sounded bullish on demand from data centers powering the artificial intelligence boom after striking several supply deals during the second quarter, reinforcing market expectations of sales growth through the year.  Top utilities, including American Electric Power and NextEra Energy, signed contracts in the recently concluded quarter while others highlighted interest from technology companies.  \"We started to get some clarity about data center opportunities and the numbers are staggering,\" said Timothy Winter, portfolio manager at Gabelli Funds.",
+          "link": "https://finance.yahoo.com/news/us-utilities-poised-ride-data-162122670.html",
+          "publishedOn": "2024-08-12T16:21:22.000Z",
+          "wordCount": 20123,
+          "title": "US utilities poised to ride data center demand wave in second half",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/c3de5b2dfb83ee9e3271f4e6aeff655c"
         },
         {
           "id": "cathie-wood-goes-bargain-hunting-154500647.html",
@@ -49130,26 +49150,6 @@
           "wordCount": 18566,
           "title": "What investors should look for as Wall Street prices in a new political and financial outlook after the Trump shooting",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/i6sMqYb4Ukp8co9tY61i.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/51fc45e37eca32fdb87d14b2c8ae7bca"
-        },
-        {
-          "id": "2-no-brainer-stocks-buy-183000478.html",
-          "author": null,
-          "description": "These stocks have sound fundamentals, and they could soar in the coming years.",
-          "link": "https://finance.yahoo.com/news/2-no-brainer-stocks-buy-183000478.html",
-          "publishedOn": "2024-07-14T18:30:00.000Z",
-          "wordCount": 18628,
-          "title": "2 No-Brainer Stocks to Buy With $300 Right Now",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/g9qDsO9aN8zjSbS39Fhagw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/7558ae41bc7b2879da60b8a0579b0c81"
-        },
-        {
-          "id": "could-undervalued-stock-millionaire-one-182400847.html",
-          "author": null,
-          "description": "Pandemic spending is paying off for Amazon.",
-          "link": "https://finance.yahoo.com/news/could-undervalued-stock-millionaire-one-182400847.html",
-          "publishedOn": "2024-07-14T18:24:00.000Z",
-          "wordCount": 18438,
-          "title": "Could This Undervalued Stock Make You a Millionaire One Day?",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/2e373d983b7bd7e65f0213d4050da24e"
         }
       ]
     }
