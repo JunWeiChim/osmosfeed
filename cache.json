@@ -3371,6 +3371,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "b13c25da20165cfa6ffd63b1911084fd",
+          "author": "Investopedia",
+          "description": "Allstate sold its Employer Voluntary Benefits business to StanCorp Financial Group for $2 billion on Wednesday, helping send its shares to an all-time high.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca876bcbf10ba4483cc59d3daffe296086504c8e358828bd9d5b2e56967d9a3fc49c0e6dd1ff78b0f0ed25e4e19a3ee839e7231bcf275b075007b0f9bdd4674a84c6b9efc8c99a88074ac34691ca3f37df32",
+          "publishedOn": "2024-08-14T19:02:00.000Z",
+          "wordCount": 354,
+          "title": "Allstate Sells Its Employer Voluntary Benefits Unit; Stock Jumps To Record",
+          "imageUrl": null
+        },
+        {
           "id": "ea749c1195bbf86eb74532fa09bbd7ee",
           "author": "Investopedia",
           "description": "Victoria's Secret shares jumped in intraday trading Wednesday after the company named a new CEO and posted preliminary second-quarter adjusted EPS that topped prior guidance.",
@@ -10881,21 +10891,6 @@
             "url": "https://images.nu.nl/m/irzxfmda555j_sqr256/0/0/5464/5464/moederbedrijf-kruidvat-krijgt-6-ton-boete-voor-verzamelen-gevoelige-klantdata.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/irzxfmda555j_sqr256/0/0/5464/5464/moederbedrijf-kruidvat-krijgt-6-ton-boete-voor-verzamelen-gevoelige-klantdata.jpg"
-        },
-        {
-          "id": "article-6320874",
-          "author": null,
-          "description": "Veel koeriers en andere zzp'ers geven er de brui aan. Ook trekken minder mensen de ondernemersschoenen aan. De KVK turfde afgelopen kwartaal opvallend minder inschrijvingen van nieuwe bouwbedrijven. Daarnaast groeit het aantal mkb-bedrijven dat stopt.",
-          "link": "https://www.nu.nl/economie/6320874/koeriers-hangen-hun-bezorgtas-aan-de-wilgen.html",
-          "publishedOn": "2024-07-16T07:27:41.000Z",
-          "wordCount": 445,
-          "title": "Koeriers hangen hun bezorgtas aan de wilgen",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/187x2aeajta3_sqr256/2721/0/5462/5462/koeriers-hangen-hun-bezorgtas-aan-de-wilgen.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/187x2aeajta3_sqr256/2721/0/5462/5462/koeriers-hangen-hun-bezorgtas-aan-de-wilgen.jpg"
         }
       ]
     },
@@ -10904,6 +10899,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8695150",
+          "author": "Kyle Torpey",
+          "description": "Goldman Sachs, a traditional Wall Street firm considered a bitcoin skeptic, has disclosed a surprising investment in a recent regulatory filing—shares of spot bitcoin exchange-traded funds (ETFs).",
+          "link": "https://www.investopedia.com/goldman-sachs-held-more-than-usd400m-in-bitcoin-etfs-filing-shows-8695150",
+          "publishedOn": "2024-08-14T19:24:28.000Z",
+          "wordCount": 6920,
+          "title": "Goldman Sachs Held More Than $400M In Spot Bitcoin ETFs, Filing Shows",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/miuM41uAtIM4fpWxl3mVjybdyPA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/INV_GoldmanSachsSign_GettyImages-1638089906-d71fc24134d84262a12e05c2c5fea179.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/miuM41uAtIM4fpWxl3mVjybdyPA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/INV_GoldmanSachsSign_GettyImages-1638089906-d71fc24134d84262a12e05c2c5fea179.jpg"
+        },
+        {
+          "id": "8695141",
+          "author": "Terry Lane",
+          "description": "Mortgage demand reached its highest level since January 2023 as homeowners continued to take advantage of a decline in mortgage rates to refinance their home loans.",
+          "link": "https://www.investopedia.com/why-mortgage-demand-has-surged-highest-level-since-early-2023-8695141",
+          "publishedOn": "2024-08-14T19:22:40.000Z",
+          "wordCount": 6505,
+          "title": "Why Mortgage Demand Has Surged to Its Highest Level Since Early 2023",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/jaSq2g3tomONJU_0ZTjuBvHoR2w=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1603036391-17cd33b199e343cea252c8d02ecc0ea6.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/jaSq2g3tomONJU_0ZTjuBvHoR2w=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1603036391-17cd33b199e343cea252c8d02ecc0ea6.jpg"
+        },
+        {
+          "id": "8695416",
+          "author": "Diccon Hyatt",
+          "description": "Inflation may be falling, but one of the most important costs to household budgets, and the economy, unexpectedly jumped in July.",
+          "link": "https://www.investopedia.com/housing-cost-increase-casts-shadow-on-sunny-inflation-outlook-8695416",
+          "publishedOn": "2024-08-14T19:09:57.000Z",
+          "wordCount": 6798,
+          "title": "Rising Housing Costs Cast a Shadow On a Sunny Inflation Outlook",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ybkMi4uhIDCNRMxJvRvDTVwYrDw=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-110880872-fc808710d64040cd9d9649a3ae4b13d6.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ybkMi4uhIDCNRMxJvRvDTVwYrDw=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-110880872-fc808710d64040cd9d9649a3ae4b13d6.jpg"
+        },
         {
           "id": "8695274",
           "author": "Bill McColl",
@@ -21652,6 +21692,36 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "michael-burry-raises-alibaba-stake-192206804.html",
+          "author": null,
+          "description": "(Bloomberg) -- Michael Burry, the hedge fund manager famous for his 2008 bet against the US housing market and subsequent depiction in the book and movie The Big Short, further increased his stake in Alibaba Group Holding Ltd. while slashing his overall equity portfolio in half in the second quarter.Most Read from BloombergManchester Is Giving London a Run for Its MoneyBoston’s Broke and Broken Transit System Hurts Downtown RecoveryBiden Invests $100 Million to Fuel Housing ConstructionA Warehou",
+          "link": "https://finance.yahoo.com/news/michael-burry-raises-alibaba-stake-192206804.html",
+          "publishedOn": "2024-08-14T19:22:06.000Z",
+          "wordCount": 20947,
+          "title": "Michael Burry Raises Alibaba Stake, Cuts Stock Portfolio in Half",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/uJxqlearUZF.u_2SnMsMCQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/bloomberg_markets_842/9af9a468e9100f3d7603899f63ceb23e"
+        },
+        {
+          "id": "wall-street-fear-gauge-record-191418998.html",
+          "author": null,
+          "description": "Wall Street’s most-watched gauge of investor anxiety is continuing its speedy retreat from panic levels, suggesting that investors may be returning to strategies that bank on low stock volatility despite a near-meltdown in equities early this month.  The index hit 65 on Aug. 5 and closed at a four-year high of 38.57 on that day as investors roiled markets by unwinding several massive positions such as the yen-funded carry trade.  If the index's level holds into the close, the seven trading sessions it took the VIX to return to its long-term median of 17.6 will be the index’s quickest ever drop from 35, a level associated with a high degree of fear.",
+          "link": "https://finance.yahoo.com/news/wall-street-fear-gauge-record-191418998.html",
+          "publishedOn": "2024-08-14T19:14:18.000Z",
+          "wordCount": 21070,
+          "title": "Wall Street fear gauge in record retreat after last week's massive spike",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/e63de7f320b72196b8f91b6c39df1834"
+        },
+        {
+          "id": "disney-says-man-cant-sue-190047088.html",
+          "author": null,
+          "description": "Disney says its Disney+ terms of service prevent a wrongful death lawsuit centered on one of its theme park restaurants from moving forward.",
+          "link": "https://www.yahoo.com/news/disney-says-man-cant-sue-190047088.html",
+          "publishedOn": "2024-08-14T19:00:47.000Z",
+          "wordCount": 19216,
+          "title": "Disney says man can't sue for wrongful death because he signed up for Disney+, bought parks tickets",
+          "imageUrl": "https://media.zenfs.com/en/la_times_articles_853/a6763c61de792395fe4ee61ec5fdab16"
+        },
+        {
           "id": "shares-trumps-media-firm-near-173956125.html",
           "author": null,
           "description": "Shares of former U.S. President Donald Trump's media company dipped and neared record lows on Wednesday, following weak quarterly results and the Republican presidential candidate's return to social media platform X.  Trump's dwindling lead in polls and election betting markets in recent weeks has also hit the stock, which has been seen by some retail traders as a bet on whether Trump would win a second term.  Trump majority owns Trump Media & Technology Group, whose main asset is the Truth Social app popular among some conservatives.",
@@ -21700,6 +21770,26 @@
           "wordCount": null,
           "title": "Financial Guru Dave Ramsey Advises: Take Social Security at 62, But This Essential Step Is Non-Negotiable For Each Payment",
           "imageUrl": null
+        },
+        {
+          "id": "crowdstrike-stock-buy-a7bf331a?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/crowdstrike-stock-buy-a7bf331a?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-08-14T17:28:00.000Z",
+          "wordCount": null,
+          "title": "CrowdStrike Stock Will Bounce Back. This Analyst Says to Buy the Dip.",
+          "imageUrl": null
+        },
+        {
+          "id": "top-reits-just-hiked-dividends-170016965.html",
+          "author": null,
+          "description": "In a positive development for investors, two high-quality real estate investment trusts (REITs) announced dividend increases last week. Investors should take note of REITs that are increasing their dividends because this typically indicates strong ...",
+          "link": "https://finance.yahoo.com/news/top-reits-just-hiked-dividends-170016965.html",
+          "publishedOn": "2024-08-14T17:00:16.000Z",
+          "wordCount": 20272,
+          "title": "These Top REITs Just Hiked Their Dividends By Up To 8.9%",
+          "imageUrl": "https://media.zenfs.com/en/benzinga_79/b423daf56cf9af06762bdcfcd18ddbe3"
         },
         {
           "id": "2-top-dividend-stocks-dont-143700228.html",
@@ -22300,6 +22390,16 @@
           "wordCount": 20788,
           "title": "Walmart Earnings: What To Look For From WMT",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/TGPxZQ__rY3qgOCXU3il.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/stockstory_922/38789a008ce226609c06f366fc9e7eea"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/technology/micron-technology-getting-closer-to-key-technical-benchmark-2/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-08-14T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Micron Profit Soars Amid Artificial Intelligence Boom; Gets Rating Upgrade",
+          "imageUrl": null
         },
         {
           "id": "asian-stocks-track-us-rally-223044296.html",
@@ -50450,66 +50550,6 @@
           "wordCount": 8163,
           "title": "Could CRISPR Therapeutics Become the Next Vertex Pharmaceuticals?",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/u2rffm_JfQc9GzU9jBSDNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTY-/https://media.zenfs.com/en/motleyfool.com/cf7457a13248e6f7f3b887e10c664348"
-        },
-        {
-          "id": "meet-newest-artificial-intelligence-ai-081200672.html",
-          "author": null,
-          "description": "Nvidia has been a stunning investment, but Wall Street sees Super Micro Computer as a better AI stock to buy right now.",
-          "link": "https://finance.yahoo.com/news/meet-newest-artificial-intelligence-ai-081200672.html",
-          "publishedOn": "2024-07-16T08:12:00.000Z",
-          "wordCount": 18636,
-          "title": "Meet the Newest Artificial Intelligence (AI) Stock in the Nasdaq-100. Buy It Before Nvidia Stock, According to Wall Street.",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/hWwrLxPT3_ve7gF1RcRfdg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/3f7920bfd08f0cf58c778b55fa5b9415"
-        },
-        {
-          "id": "hot-nuclear-stock-300-where-081200873.html",
-          "author": null,
-          "description": "Investors are betting that small modular reactors will benefit from the artificial intelligence boom.",
-          "link": "https://finance.yahoo.com/news/hot-nuclear-stock-300-where-081200873.html",
-          "publishedOn": "2024-07-16T08:12:00.000Z",
-          "wordCount": 18668,
-          "title": "This Hot Nuclear Stock Is Up 300% This Year: Where Will It Land by the End of 2024?",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/fa9ca3bf6d0040336e6550f77f658a9b"
-        },
-        {
-          "id": "want-collect-1-000-safe-080600449.html",
-          "author": null,
-          "description": "Three high-octane monthly dividend stocks -- sporting an average yield of 9.92% -- have the sustained catalysts needed to make their patient investors notably richer.",
-          "link": "https://finance.yahoo.com/news/want-collect-1-000-safe-080600449.html",
-          "publishedOn": "2024-07-16T08:06:00.000Z",
-          "wordCount": 19305,
-          "title": "Want to Collect $1,000 in Safe Monthly Dividend Income? Invest $121,000 Into the Following 3 Ultra-High-Yield Dividend Stocks.",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/fBnzu8XqueE1kFfR5g.I.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTQ-/https://media.zenfs.com/en/motleyfool.com/5743f8b7ab190f3192441d8d7498f09c"
-        },
-        {
-          "id": "the-true-bull-market-may-finally-wake-up-as-investors-eye-rate-cuts-080027716.html",
-          "author": null,
-          "description": "Investors have been rotating to stocks outside of Big Tech in what could be the start of a new leg of the bull market.",
-          "link": "https://finance.yahoo.com/news/the-true-bull-market-may-finally-wake-up-as-investors-eye-rate-cuts-080027716.html",
-          "publishedOn": "2024-07-16T08:00:27.000Z",
-          "wordCount": 8525,
-          "title": "The true bull market may finally 'wake up' as investors eye rate cuts",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/1yaUW.KazB9wGvg9OTv2lg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/05a3f1f0-857d-11ed-b777-458eed6ecafa"
-        },
-        {
-          "id": "stock-market-crash-coming-2024-080000418.html",
-          "author": null,
-          "description": "People like to see what history might be telling them.",
-          "link": "https://finance.yahoo.com/news/stock-market-crash-coming-2024-080000418.html",
-          "publishedOn": "2024-07-16T08:00:00.000Z",
-          "wordCount": 18520,
-          "title": "Is a Stock Market Crash Coming in 2024? This Is How Long the Average Bull Market Lasts.",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/u1CNIZyBw_DEZe24O4T9eA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05NjQ-/https://media.zenfs.com/en/motleyfool.com/360a53fa8a6adeb03af8124335bf8ba4"
-        },
-        {
-          "id": "intel-only-alternative-tsmc-says-073441330.html",
-          "author": null,
-          "description": "Analysts at Northland Capital Markets slashed their Intel (NASDAQ:INTC) estimates due to recent export restriction targeting Huawei, server CPU share loss to its peer AMD (NASDAQ:AMD), and expectations that PC demand slow down in the second half of 2024 (2H:24)",
-          "link": "https://finance.yahoo.com/news/intel-only-alternative-tsmc-says-073441330.html",
-          "publishedOn": "2024-07-16T07:34:41.000Z",
-          "wordCount": 18060,
-          "title": "Intel is the only alternative to TSMC says Northland, sees 100% upside potential",
-          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
         }
       ]
     }
