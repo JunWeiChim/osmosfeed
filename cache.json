@@ -3371,6 +3371,26 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "3cc4e7ca8f2a31e1635fb85dfa60ce76",
+          "author": "Investopedia",
+          "description": "H&R Block shares are soaring Friday, a day after the tax-prep firm reported better-than-forecast fourth-quarter results, a dividend increase, and a $1.5 billion buyback program.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8e2ac6ec1be84e748a8237a0f9773e9b4b5cc87d8f2dbc8251664bd5269032c39c1362c4f578b0f0e234afec873bac28ec240bcf264e014009b0abfe80210d9d83",
+          "publishedOn": "2024-08-16T13:48:00.000Z",
+          "wordCount": 354,
+          "title": "H&R Block Stock Jumps on Earnings Beat, Dividend Raise",
+          "imageUrl": null
+        },
+        {
+          "id": "4765b6616c03d84ee93d36c98ded98e4",
+          "author": "Investopedia",
+          "description": "Major indexes are poised to open lower Friday as investors take some profits after six consecutive sessions of gains for U.S. stocks.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c214079266d768e3c60f7312823dc16088",
+          "publishedOn": "2024-08-16T13:10:00.000Z",
+          "wordCount": 354,
+          "title": "Dow Jones Today: Stock Futures Point to Lower Open for Major Indexes",
+          "imageUrl": null
+        },
+        {
           "id": "2962c76e027e07f1013397946b2fc7f7",
           "author": "Investopedia",
           "description": "Nvidia shares have surged since the middle of last week, helping lead a broader rally for U.S. stocks. Monitor these key chart levels in the AI darling.",
@@ -3408,6 +3428,16 @@
           "publishedOn": "2024-08-15T21:01:00.000Z",
           "wordCount": 354,
           "title": "S&P 500 Gains and Losses Today: Ulta Beauty Surges as Berkshire Divulges Stake",
+          "imageUrl": null
+        },
+        {
+          "id": "567bdd67d60997a5aa905b6a65341c4d",
+          "author": "Investopedia",
+          "description": "Dell Technologies shares jumped Thursday, adding to recent gains as analysts highlighted the legacy computing company's opportunity to gain from surging demand for artificial intelligence.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8262cbee52b648368b8575b3e0332e8a094cd622823db5df107e09d265d839c4810e21ccf030a0b8e26df5ed8b26e824ec380acf3d5c454404e4bef08f2e0f9985ee",
+          "publishedOn": "2024-08-15T20:49:00.000Z",
+          "wordCount": 354,
+          "title": "Dell's Stock Price Surged 25% in Just Over a Week—Here’s Why",
           "imageUrl": null
         },
         {
@@ -10809,6 +10839,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8696464",
+          "author": "Bill McColl",
+          "description": "A U.S. appeals court ruled in favor of Bayer-owned Monsanto in a lawsuit alleging the company failed to warn customers about the cancer risk of its Roundup weed killer.",
+          "link": "https://www.investopedia.com/appeals-court-rules-in-favor-of-bayer-owned-monsanto-in-roundup-cancer-case-8696464",
+          "publishedOn": "2024-08-16T14:08:20.000Z",
+          "wordCount": 6383,
+          "title": "Appeals Court Rules in Favor of Bayer-Owned Monsanto in Roundup Cancer Case",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/OXzlAQTruf1a0KHm8wrTNCNDYw8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1262815724-1a34e68054704973880ac306dd12b3a7.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/OXzlAQTruf1a0KHm8wrTNCNDYw8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1262815724-1a34e68054704973880ac306dd12b3a7.jpg"
+        },
+        {
+          "id": "8696441",
+          "author": "Nisha Gopalan",
+          "description": "H&R Block shares are soaring Friday, a day after the tax-prep firm reported better-than-forecast fourth-quarter results, a dividend increase, and a $1.5 billion buyback program.",
+          "link": "https://www.investopedia.com/h-and-r-block-stock-jumps-on-earnings-beat-dividend-raise-8696441",
+          "publishedOn": "2024-08-16T13:48:21.000Z",
+          "wordCount": 5457,
+          "title": "H&R Block Stock Jumps on Earnings Beat, Dividend Raise",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/MRQij2WPVJO0gHoHPicU09Kc2V0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2165828237-c6f2cf743565448c943d3e0be7adf05d.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/MRQij2WPVJO0gHoHPicU09Kc2V0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2165828237-c6f2cf743565448c943d3e0be7adf05d.jpg"
+        },
         {
           "id": "8696419",
           "author": "Timothy Smith",
@@ -21383,21 +21443,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/WvB6hEEpXYea_dirZ8iaSBp9Oqc=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/KREChart-1922086f0b40498bbf96e252bc1a675a.gif"
-        },
-        {
-          "id": "8679778",
-          "author": "Timothy Smith",
-          "description": "The Semiconductor Fund Fell 7% Wednesday",
-          "link": "https://www.investopedia.com/watch-these-soxx-etf-price-levels-chipmakers-8679778",
-          "publishedOn": "2024-07-18T01:54:47.000Z",
-          "wordCount": 6531,
-          "title": "Watch These SOXX ETF Price Levels Amid Concerns Over Chip Trade Restrictions",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/M9lMuweeOaCXyhqZSVaGstlLVu4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/SOXXChart-00fe66449112414996d9b15d1e8aa554.gif",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/M9lMuweeOaCXyhqZSVaGstlLVu4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/SOXXChart-00fe66449112414996d9b15d1e8aa554.gif"
         }
       ]
     },
@@ -21406,6 +21451,36 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "tesla-stock-price-today-technical-analysis-8733e794?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/tesla-stock-price-today-technical-analysis-8733e794?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-08-16T13:15:00.000Z",
+          "wordCount": null,
+          "title": "Tesla Stock Is Down. Where the Charts Say It Goes Next.",
+          "imageUrl": null
+        },
+        {
+          "id": "stocks-poised-close-best-week-113335188.html",
+          "author": null,
+          "description": "(Bloomberg) -- A flurry of data showing the American economy’s resilience has put US stocks on course for their strongest week of the year.Most Read from BloombergManchester Is Giving London a Run for Its MoneyBoston’s Broke and Broken Transit System Hurts Downtown RecoveryA Floating Island in Baltimore Raises Hope for a Waterfront RevivalA Warehouse Store Promises Housing for South LA, in BulkThe Cross-Continental Race Using Only Public TransitThe latest readings, from inflation to jobless clai",
+          "link": "https://finance.yahoo.com/news/stocks-poised-close-best-week-113335188.html",
+          "publishedOn": "2024-08-16T13:05:17.000Z",
+          "wordCount": 21213,
+          "title": "Stocks Lose Steam as US Housing Data Disappoint: Markets Wrap",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_technology_68/736fc3d12a822560d4d68c0c0e6ded35"
+        },
+        {
+          "id": "us-single-family-housing-starts-124608549.html",
+          "author": null,
+          "description": "U.S. single-family homebuilding fell sharply in July as higher mortgage rates and house prices kept prospective buyers on the sidelines, suggesting that the housing market remained depressed at the start of the third quarter.  Single-family housing starts, which account for the bulk of homebuilding, tumbled 14.1% to a seasonally adjusted annual rate of 851,000 units last month, the Commerce Department's Census Bureau said on Thursday.  Homebuilding has now declined for five straight months.",
+          "link": "https://finance.yahoo.com/news/us-single-family-housing-starts-124608549.html",
+          "publishedOn": "2024-08-16T12:46:08.000Z",
+          "wordCount": 20755,
+          "title": "US single-family housing starts tumble in July",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/6aea78f899c9afac7ddd09645ba1ba83"
+        },
         {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
@@ -21445,6 +21520,16 @@
           "wordCount": 20925,
           "title": "5 Things to Know Before the Stock Market Opens",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/O374n53GWKmVd5Y2Al6KqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/b3476c4bcd258eda664d9767bb46fb4d"
+        },
+        {
+          "id": "3-top-dividend-etfs-investors-114500379.html",
+          "author": null,
+          "description": "You won't have to worry about tracking individual dividend stocks anymore with these funds.",
+          "link": "https://finance.yahoo.com/news/3-top-dividend-etfs-investors-114500379.html",
+          "publishedOn": "2024-08-16T11:45:00.000Z",
+          "wordCount": 21450,
+          "title": "3 Top Dividend ETFs That Investors can Buy and Hold for Decades",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/CrtOK5Y8PtZQ87M4T39R9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/817152559e05a667c93e4384ab336793"
         },
         {
           "id": "stock-market-today-stock-futures-fall-after-markets-claw-back-august-losses-112332034.html",
@@ -21505,6 +21590,16 @@
           "wordCount": null,
           "title": "I Have $1.5 Million in an IRA at 62 – Should I Move $150K Yearly to a Roth to Avoid RMDs?",
           "imageUrl": null
+        },
+        {
+          "id": "vanguard-says-retirees-add-least-130039245.html",
+          "author": null,
+          "description": "Approximately 80% of all Americans aged 60 and older are homeowners, and housing wealth accounts for about 48% of the median wealth of that group. As retirees near large cities, and strong housing markets, start retiring, they realize they can … Continue reading → The post Vanguard Says Retirees Can Add at Least $100k to Retirement Savings By Doing This appeared first on SmartAsset Blog.",
+          "link": "https://finance.yahoo.com/news/vanguard-says-retirees-add-least-130039245.html",
+          "publishedOn": "2024-08-16T11:00:14.000Z",
+          "wordCount": 21793,
+          "title": "Want to Add $100K to Your Retirement? Vanguard Recommends This Strategy",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/028aea6427131efa56a7f59e4efe4ec0"
         },
         {
           "id": "best-stocks-invest-50-000-101000384.html",
@@ -21577,6 +21672,16 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/9m.jfNtt1k33W76MC1bp9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/099b364e4e020c13b93dafe56d8bf944"
         },
         {
+          "id": "red-flag-costco-stock-091000695.html",
+          "author": null,
+          "description": "Costco just announced big news, again.",
+          "link": "https://finance.yahoo.com/news/red-flag-costco-stock-091000695.html",
+          "publishedOn": "2024-08-16T09:10:00.000Z",
+          "wordCount": 21174,
+          "title": "Is This a Red Flag for Costco Stock?",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/84ea9ceda6a5b73c058f4a1cd2712a24"
+        },
+        {
           "id": "warren-buffetts-once-silent-warning-090600423.html",
           "author": null,
           "description": "The Oracle of Omaha's actions speak far louder than his words.",
@@ -21585,6 +21690,16 @@
           "wordCount": 21754,
           "title": "Warren Buffett's Once-Silent Warning to Wall Street Has Turned Into a $277 Billion Deafening Roar",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/a4jUy4uupt5yTuSc2xVLbw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/ac0f70a8c19558bb7db31bdf11e220ed"
+        },
+        {
+          "id": "jetblues-third-largest-shareholder-one-090016356.html",
+          "author": null,
+          "description": "(Bloomberg) -- JetBlue Airways Corp.’s third-biggest shareholder isn’t an institutional investor, an activist firm or even an internet-famous meme stock trader. He's just a guy trying to make a buck.Most Read from BloombergManchester Is Giving London a Run for Its MoneyBoston’s Broke and Broken Transit System Hurts Downtown RecoveryA Floating Island in Baltimore Raises Hope for a Waterfront RevivalA Warehouse Store Promises Housing for South LA, in BulkThe Cross-Continental Race Using Only Publi",
+          "link": "https://finance.yahoo.com/news/jetblues-third-largest-shareholder-one-090016356.html",
+          "publishedOn": "2024-08-16T09:00:16.000Z",
+          "wordCount": 21531,
+          "title": "Florida Man Spends His GameStop Riches to Build $132 Million JetBlue Stake",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/oM.lA.JDGHfi0WdLdsnWaA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/d38e044112047a61245343e1109bea42"
         },
         {
           "id": "billionaire-david-tepper-just-slashed-085000041.html",
@@ -21715,6 +21830,16 @@
           "wordCount": 20895,
           "title": "Applied Materials’ Middle-of-Road Sales Forecast Underwhelms",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/orhdOLPz2_6EIVdffwdUkQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/c6533d54c23e8212da3bfeb0b0c0fbcf"
+        },
+        {
+          "id": "alibaba-long-awaited-china-stock-002047551.html",
+          "author": null,
+          "description": "(Bloomberg) -- Chinese investors finally being able to buy shares of Alibaba Group Holding Ltd. may provide a much-needed boost for the e-commerce firm’s stock, with an inflow of up to about $20 billion into next year.Most Read from BloombergManchester Is Giving London a Run for Its MoneyBoston’s Broke and Broken Transit System Hurts Downtown RecoveryA Warehouse Store Promises Housing for South LA, in BulkBiden Invests $100 Million to Fuel Housing ConstructionThe Cross-Continental Race Using Onl",
+          "link": "https://finance.yahoo.com/news/alibaba-long-awaited-china-stock-002047551.html",
+          "publishedOn": "2024-08-16T00:20:47.000Z",
+          "wordCount": 21292,
+          "title": "Alibaba’s Long-Awaited China Stock Link May Provide Timely Boost",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/xedyG2SmtT.pkwz.IoDxSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDQ-/https://media.zenfs.com/en/bloomberg_technology_68/569a2fdfeb984270406c6a6ecc8f8b16"
         },
         {
           "id": "alibaba-long-awaited-china-stock-002047002.html",
