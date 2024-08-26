@@ -4928,6 +4928,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6325959",
+          "author": null,
+          "description": "Telegram-baas Pavel Durov zit nog steeds vast in Frankrijk. Hij wordt onderzocht door de nationale cybercrime-eenheid en het nationale fraudebureau, zegt een woordvoerder van de Franse politie maandag tegen persbureau Reuters.",
+          "link": "https://www.nu.nl/tech/6325959/telegram-oprichter-pavel-durov-zit-nog-steeds-vast-in-frankrijk.html",
+          "publishedOn": "2024-08-26T15:09:16.000Z",
+          "wordCount": 417,
+          "title": "Telegram-oprichter Pavel Durov zit nog steeds vast in Frankrijk",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/vlnxunwah8nl_sqr256/928/422/2955/2955/telegram-oprichter-pavel-durov-zit-nog-steeds-vast-in-frankrijk.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/vlnxunwah8nl_sqr256/928/422/2955/2955/telegram-oprichter-pavel-durov-zit-nog-steeds-vast-in-frankrijk.jpg"
+        },
+        {
           "id": "article-6325955",
           "author": null,
           "description": "De Autoriteit Consument & Markt (ACM) heeft toestemming gegeven voor de overname van het geplaagde IT-bedrijf Centric van zakenman Gerard Sanderink. Het bedrijf is verkocht aan een groep Nederlandse ondernemers.",
@@ -9509,6 +9524,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8701463",
+          "author": "Andrew Kessel",
+          "description": "The Canadian government is implementing a 100% tariff on electric vehicles produced in China, the country's finance department said Monday.",
+          "link": "https://www.investopedia.com/canada-joins-us-with-100-percent-tariff-on-chinese-evs-8701463",
+          "publishedOn": "2024-08-26T18:53:52.000Z",
+          "wordCount": 5499,
+          "title": "Canada Joins US With 100% Tariff on Chinese EVs",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/ApkmhT2i5NwszHWcUXA3RoeRfEs=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2167831581-583d324801094adfaf91f7e3b8ea85f5.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/ApkmhT2i5NwszHWcUXA3RoeRfEs=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2167831581-583d324801094adfaf91f7e3b8ea85f5.jpg"
+        },
+        {
+          "id": "8699754",
+          "author": "Naomi Buchanan",
+          "description": "Marvell Technology reports fiscal second-quarter earnings after the bell Thursday, with investors likely watching for signs of a potential turnaround in sales and updates on its artificial intelligence initiatives.",
+          "link": "https://www.investopedia.com/marvell-technology-q2-fy-2025-earnings-preview-8699754",
+          "publishedOn": "2024-08-26T18:47:52.000Z",
+          "wordCount": 5714,
+          "title": "What You Need To Know Ahead of Marvell Technology's Earnings Report",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/i33ppyl8F0tjQCfdsba6x13Xapo=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1679337219-67830b73e8d741b4b343271edb098ccb.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/i33ppyl8F0tjQCfdsba6x13Xapo=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1679337219-67830b73e8d741b4b343271edb098ccb.jpg"
+        },
         {
           "id": "8701338",
           "author": "Andrew Kessel",
@@ -18800,6 +18845,16 @@
           "wordCount": 20885,
           "title": "Why PDD Holdings Stock Plunged Today",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/nkAmZeswuwMc71eeHbD3jQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/abd434cd58c155bfbb6bb54bd06836e0"
+        },
+        {
+          "id": "stock-market-today-sp-500-nasdaq-slump-as-tech-lags-nvidia-shares-slip-160224537.html",
+          "author": null,
+          "description": "Stocks are eyeing a bid for fresh record highs after Jerome Powell made it crystal clear the Fed is ready to pivot to lowering rates in September.",
+          "link": "https://finance.yahoo.com/news/stock-market-today-sp-500-nasdaq-slump-as-tech-lags-nvidia-shares-slip-160224537.html",
+          "publishedOn": "2024-08-26T16:02:24.000Z",
+          "wordCount": 23122,
+          "title": "Stock market today: S&P 500, Nasdaq slump as tech lags, Nvidia shares slip",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/iUJDiRbhkyhbfb8PUoyAiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/87ffefd0-6377-11ef-bdeb-ede74b03625c"
         },
         {
           "id": "stock-market-today-sp-500-nasdaq-slump-as-nvidia-struggles-ahead-of-earnings-160224358.html",
@@ -46390,46 +46445,6 @@
           "wordCount": 20409,
           "title": "Missed Out on Nvidia? This Spectacular ETF May Be a Better Buy Anyway",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/yLqYJ5WT_Y1QaDut81OLyg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/48e26aeed9731e6038d6516bfb68525b"
-        },
-        {
-          "id": "1-top-artificial-intelligence-ai-070700143.html",
-          "author": null,
-          "description": "This AI stock could deliver better-than-expected results thanks to TSMC's supply chain investments.",
-          "link": "https://finance.yahoo.com/news/1-top-artificial-intelligence-ai-070700143.html",
-          "publishedOn": "2024-07-28T07:07:00.000Z",
-          "wordCount": 20478,
-          "title": "1 Top Artificial Intelligence (AI) Stock to Buy Following TSMC's Latest Quarterly Report",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/3dd05689f9327a7c51c927fa8515db82"
-        },
-        {
-          "id": "forget-nvidia-billionaire-daniel-loeb-070500903.html",
-          "author": null,
-          "description": "While Nvidia is currently leading the AI revolution, the stock simply isn't for everyone.",
-          "link": "https://finance.yahoo.com/news/forget-nvidia-billionaire-daniel-loeb-070500903.html",
-          "publishedOn": "2024-07-28T07:05:00.000Z",
-          "wordCount": 20720,
-          "title": "Forget Nvidia: Billionaire Daniel Loeb Owns $2.2 Billion Worth of These 3 Brilliant Artificial Intelligence (AI) Stocks Instead",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/s5xYeJZU32t3zlo0sKOKrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTU-/https://media.zenfs.com/en/motleyfool.com/c215a277f06c467388ef594e939d9391"
-        },
-        {
-          "id": "banks-stocks-insider-buys-ad4bf828?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/banks-stocks-insider-buys-ad4bf828?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-07-28T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Three Banks See Big Insider Stock Buys",
-          "imageUrl": null
-        },
-        {
-          "id": "almost-half-warren-buffetts-400-070000378.html",
-          "author": null,
-          "description": "This top tech enterprise has produced a fantastic return in recent years.",
-          "link": "https://finance.yahoo.com/news/almost-half-warren-buffetts-400-070000378.html",
-          "publishedOn": "2024-07-28T07:00:00.000Z",
-          "wordCount": 20193,
-          "title": "Almost Half of Warren Buffett's $400 Billion Portfolio Is Invested in Only 1 Stock",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/GG2UtUD_plbjDAjps1aqhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/df3c5c32d0f859215c3c6b7d15738377"
         }
       ]
     }
