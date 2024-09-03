@@ -2341,6 +2341,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "46ba06e2b2eb43c407b10a1c04f69be6",
+          "author": "Investopedia",
+          "description": "The S&P 500's consumer staples sector was recently up about 1.1%, rising as tech stocks were pulling the benchmark index lower, making it the best-performing sector on the day so far.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8462c2f052ac4f748a9b22b9fb342ac2454c8e239139a19e473809c8639421d481577ecaf530ffe1e623eaa59d39aa2fe23942862640074341a5a4f88c210991",
+          "publishedOn": "2024-09-03T17:29:00.000Z",
+          "wordCount": 354,
+          "title": "Beer Is Buzzing as Staples Shares Rise, Tech Stocks Droop",
+          "imageUrl": null
+        },
+        {
           "id": "85ab33b6568db7cf1059200070d0f8b9",
           "author": "Investopedia",
           "description": "Wells Fargo warned about Boeing's free cash flow and downgraded the stock.",
@@ -9796,21 +9806,6 @@
             "url": "https://images.nu.nl/m/fe6xse8aop5h_sqr256/1173/0/3009/3009/postnl-wil-geld-van-den-haag-zien-om-de-bezorging-op-peil-te-houden.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/fe6xse8aop5h_sqr256/1173/0/3009/3009/postnl-wil-geld-van-den-haag-zien-om-de-bezorging-op-peil-te-houden.jpg"
-        },
-        {
-          "id": "article-6323387",
-          "author": null,
-          "description": "De koersen van bitcoin en ether, de twee grootste cryptomunten ter wereld, zijn maandag gezakt naar de laagste niveaus sinds de eerste maanden van dit jaar. Dit komt doordat veel beleggers zoeken naar veilige beleggingen, uit vrees voor een recessie in de Verenigde Staten.",
-          "link": "https://www.nu.nl/economie/6323387/bitcoin-en-ether-kelderen-naar-laagste-niveaus-in-maanden.html",
-          "publishedOn": "2024-08-05T05:18:09.000Z",
-          "wordCount": 445,
-          "title": "Bitcoin en ether kelderen naar laagste niveaus in maanden",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/wwnxn1ga636m_sqr256/407/0/3333/3333/bitcoin-en-ether-kelderen-naar-laagste-niveaus-in-maanden.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/wwnxn1ga636m_sqr256/407/0/3333/3333/bitcoin-en-ether-kelderen-naar-laagste-niveaus-in-maanden.jpg"
         }
       ]
     },
@@ -9819,6 +9814,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8704131",
+          "author": "Aaron McDade",
+          "description": "HP Enterprise reports earnings after the bell Wednesday, with analysts expecting strong AI demand and recovery in sectors like cloud storage to boost the company's results.",
+          "link": "https://www.investopedia.com/what-you-need-to-know-ahead-of-hp-enterprise-s-earnings-q3-fy-2024-preview-8704131",
+          "publishedOn": "2024-09-03T18:11:43.000Z",
+          "wordCount": 5804,
+          "title": "What You Need To Know Ahead of HP Enterprise's Earnings",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/fxWPls-s2CP2h7LQQX5r0oR6_j0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1898131063-8026e3de38094e67bfeaf32d8295abde.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/fxWPls-s2CP2h7LQQX5r0oR6_j0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1898131063-8026e3de38094e67bfeaf32d8295abde.jpg"
+        },
+        {
+          "id": "8705608",
+          "author": "David Marino-Nachison",
+          "description": "The S&P 500's consumer staples sector was recently up about 1.1%, rising as tech stocks were pulling the benchmark index lower, making it the best-performing sector on the day so far.",
+          "link": "https://www.investopedia.com/beer-is-buzzing-as-staples-shares-rise-tech-stocks-droop-8705608",
+          "publishedOn": "2024-09-03T17:29:48.000Z",
+          "wordCount": 6388,
+          "title": "Beer Is Buzzing as Staples Shares Rise, Tech Stocks Droop",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/FQ986IoiR-pzI1vh-Q6WvFPfOQc=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2008386743-a057c8df8acb48a39f8f75dc924fa5b3.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/FQ986IoiR-pzI1vh-Q6WvFPfOQc=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2008386743-a057c8df8acb48a39f8f75dc924fa5b3.jpg"
+        },
+        {
+          "id": "8705568",
+          "author": "Bill McColl",
+          "description": "Oilfield services provider Halliburton said it has and will continue to incur costs related to a cyberattack last month.",
+          "link": "https://www.investopedia.com/halliburton-says-it-faces-financial-losses-from-an-august-cyberattack-8705568",
+          "publishedOn": "2024-09-03T17:13:30.000Z",
+          "wordCount": 6335,
+          "title": "Halliburton Says It Faces Financial Losses From an August Cyberattack",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/jM6o9vQT_TPyTULiqfjcP17RYeY=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1234770760-771c0ec29a0b48258a73a90e15db3cd4.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/jM6o9vQT_TPyTULiqfjcP17RYeY=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1234770760-771c0ec29a0b48258a73a90e15db3cd4.jpg"
+        },
         {
           "id": "8705486",
           "author": "Colin Laidley",
@@ -18367,6 +18407,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "nvidia-stock-tumbles-to-lowest-level-since-mid-august-173835458.html",
+          "author": null,
+          "description": "Nvidia stock tanked more than 7% on Tuesday as investors rotated out of tech.",
+          "link": "https://finance.yahoo.com/news/nvidia-stock-tumbles-to-lowest-level-since-mid-august-173835458.html",
+          "publishedOn": "2024-09-03T17:38:35.000Z",
+          "wordCount": 20645,
+          "title": "Nvidia stock tumbles to lowest level since mid-August",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/vXuvMDXgBDWsMZiKtRCoMw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/4379c2b0-566a-11ef-bfbd-b3561d279f17"
+        },
+        {
           "id": "stock-market-today-nasdaq-leads-rough-kickoff-to-september-as-nvidia-sell-off-continues-155725332.html",
           "author": null,
           "description": "Wall Street is hunkering down after a roller-coaster August, with the prospect of a potentially stormy September ahead.",
@@ -18385,6 +18435,16 @@
           "wordCount": 21677,
           "title": "3 Dividend Stocks to Double Up on Right Now",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/sWS5Vq48me1GUmV9VDbn_w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTM-/https://media.zenfs.com/en/motleyfool.com/46d084c93d148f16be8154d0857209ec"
+        },
+        {
+          "id": "homeowners-17-trillion-home-equity-155318806.html",
+          "author": null,
+          "description": "According to a recent report, homeowners across the United States are sitting on a goldmine — $17 trillion worth of home equity. This represents the portion of a home’s value that a homeowner truly owns, after accounting for mortgage debt. With property values soaring, many Americans have seen their home equity grow significantly, often without even realizing it. Don't Miss: Elon Musk’s secret mansion in Austin revealed through court filings. Here’s how to invest in the city’s growth before pric",
+          "link": "https://finance.yahoo.com/news/homeowners-17-trillion-home-equity-155318806.html",
+          "publishedOn": "2024-09-03T15:53:18.000Z",
+          "wordCount": 21837,
+          "title": "Homeowners Have $17 Trillion In Home Equity. Grant Cardone Says, 'Imagine If That Money Was Invested Earning 6% - 8 - 10 Or 12%'",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/da9a3f5d22b4a06120cffb31526fca43"
         },
         {
           "id": "heres-why-ge-aerospace-stock-154527666.html",
@@ -18665,6 +18725,16 @@
           "wordCount": null,
           "title": "Technical Assessment: Bullish in the Intermediate-Term",
           "imageUrl": null
+        },
+        {
+          "id": "departing-salesforce-cfo-pulled-off-105715780.html",
+          "author": null,
+          "description": "The tenure of Amy Weaver as finance chief has coincided with a period of growth at the company.",
+          "link": "https://finance.yahoo.com/news/departing-salesforce-cfo-pulled-off-105715780.html",
+          "publishedOn": "2024-09-03T10:57:15.000Z",
+          "wordCount": 21285,
+          "title": "Departing Salesforce CFO pulled off an ‘extremely rare’ C-suite move",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/WP6R.yNFzLXa4J7nKEWTog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/fortune_175/befeb5cd4e7562827dfadb34a93238e4"
         },
         {
           "id": "2-ai-stocks-could-create-104500876.html",
@@ -46445,26 +46515,6 @@
           "wordCount": 20550,
           "title": "Global Stock Rout Deepens, Nasdaq Futures Slump: Markets Wrap",
           "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/71b80b78fe6c5d309144412ad72234f8"
-        },
-        {
-          "id": "tsmc-leads-taiwan-slump-index-053954339.html",
-          "author": null,
-          "description": "(Bloomberg) -- Taiwan’s benchmark stock index plunged by a record, as the tech-heavy gauge took the brunt of a selloff triggered by fear of a deeper US economic slowdown.Most Read from BloombergSinger Akon’s Multibillion-Dollar Futuristic City in Africa Gets Final NoticeWhat a Beautiful Bus Stop Can DoValencia Follows Barcelona in Crackdown on Short-Term RentalsA Vast Wetland Park Seeks to Slake a Thirsty MegacityUber and Lyft Strike NYC Deal to Scale Back Driver LockoutsThe Taiex gauge ended 8.",
-          "link": "https://finance.yahoo.com/news/tsmc-leads-taiwan-slump-index-053954339.html",
-          "publishedOn": "2024-08-05T06:15:32.000Z",
-          "wordCount": 19802,
-          "title": "TSMC Drags Down Taiwan as Index Suffers Worst Day in 57 Years",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/OXP2mpw6Cmf8zEuPCyG5GQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/433bf3da19e4e531f6990abd80e19fc2"
-        },
-        {
-          "id": "intensifying-yen-rally-sinks-japan-053020546.html",
-          "author": null,
-          "description": "(Bloomberg) -- Turmoil in Japan’s financial markets intensified Monday as the yen extended its rebound against the dollar to almost 13% from July’s low and stocks headed for a bear market. Yields on benchmark Japanese government bonds tumbled by the most in two decades. Most Read from BloombergSinger Akon’s Multibillion-Dollar Futuristic City in Africa Gets Final NoticeWhat a Beautiful Bus Stop Can DoValencia Follows Barcelona in Crackdown on Short-Term RentalsA Vast Wetland Park Seeks to Slake",
-          "link": "https://finance.yahoo.com/news/intensifying-yen-rally-sinks-japan-053020546.html",
-          "publishedOn": "2024-08-05T05:30:20.000Z",
-          "wordCount": 20065,
-          "title": "Intensifying Yen Rally Sinks Japan Stocks, Rattles Global Market",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/871c9fe5f8fc4bdecc09ed571cc482e7"
         }
       ]
     }
