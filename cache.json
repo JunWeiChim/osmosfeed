@@ -2431,6 +2431,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "644c62f6be20108b9a69983ba7e2edf3",
+          "author": "Investopedia",
+          "description": "Futures tied to major U.S. stock indexes were lower Friday ahead of the eagerly anticipated release of labor market data that will shed light on the health of the economy and provide clues about the outlook for interest rate cuts.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c214069366d768e3c60f73138b3cc16186",
+          "publishedOn": "2024-09-06T11:15:00.000Z",
+          "wordCount": 354,
+          "title": "Dow Jones Today: Stock Futures Move Lower Ahead of Highly Anticipated August Jobs Report",
+          "imageUrl": null
+        },
+        {
           "id": "ece21fe3db574c0fd984a0c1b25d207a",
           "author": "Investopedia",
           "description": "Apple is expected to unveil its highly anticipated iPhone 16 supercharged with artificial intelligence features on Monday. Here's how the event could affect Apple's stock price.",
@@ -4637,6 +4647,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "article-6327249",
+          "author": null,
+          "description": "Telegram-oprichter en -directeur Pavel Durov heeft voor het eerst sinds zijn arrestatie in Frankrijk van zich laten horen. Hij werd aangehouden omdat zijn berichtendienst te weinig zou doen tegen criminaliteit op het platform. De topman belooft beterschap.",
+          "link": "https://www.nu.nl/tech/6327249/telegram-belooft-criminaliteit-aan-te-pakken-maar-dreigt-ook-met-vertrek-uit-eu.html",
+          "publishedOn": "2024-09-06T12:19:25.000Z",
+          "wordCount": 417,
+          "title": "Telegram belooft criminaliteit aan te pakken, maar dreigt ook met vertrek uit EU",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/f8cxmzaa1wbh_sqr256/1258/0/4659/4659/telegram-belooft-criminaliteit-aan-te-pakken-maar-dreigt-ook-met-vertrek-uit-eu.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/f8cxmzaa1wbh_sqr256/1258/0/4659/4659/telegram-belooft-criminaliteit-aan-te-pakken-maar-dreigt-ook-met-vertrek-uit-eu.jpg"
+        },
         {
           "id": "article-6326996",
           "author": null,
@@ -9819,6 +9844,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8707228",
+          "author": "Nisha Gopalan",
+          "description": "News of the day for September 6, 2024",
+          "link": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-september-06-2024-8707228",
+          "publishedOn": "2024-09-06T11:44:16.000Z",
+          "wordCount": 6765,
+          "title": "5 Things to Know Before the Stock Market Opens",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/eNOjqbRt3jJLTXZ8FddLA-insFw=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2167165728-2eb1d922c2c94c2faca312ecdc59f08d.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/eNOjqbRt3jJLTXZ8FddLA-insFw=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2167165728-2eb1d922c2c94c2faca312ecdc59f08d.jpg"
+        },
+        {
+          "id": "8707422",
+          "author": "Timothy Smith",
+          "description": "Bitcoin has been losing ground as investors brace for the highly anticipated August jobs report, a key piece of economic data that could drive the cryptocurrency's next move. Monitor these key chart levels.",
+          "link": "https://www.investopedia.com/watch-these-key-bitcoin-price-levels-as-jobs-report-fed-interest-rate-decision-loom-8707422",
+          "publishedOn": "2024-09-06T11:39:11.000Z",
+          "wordCount": 6917,
+          "title": "Watch These Key Bitcoin Price Levels as Jobs Report, Fed Rate Decision Loom",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/MA4be7IgdEaGj07rPrrMn1vZG2c=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/BTCChart-81ffbb3def38418eb52c0fe36c771cae.gif",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/MA4be7IgdEaGj07rPrrMn1vZG2c=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/BTCChart-81ffbb3def38418eb52c0fe36c771cae.gif"
+        },
         {
           "id": "8707374",
           "author": "Timothy Smith",
@@ -18163,21 +18218,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/GzAxlD36XBupkeOT-uIOGs58Pzg=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2164988658-582f45a9cc464f98b4871e9a7cc2747a.jpg"
-        },
-        {
-          "id": "8692196",
-          "author": "Terry Lane",
-          "description": "Consumers slowed their borrowing in June, according to data released by the Federal Reserve on Wednesday, in yet another sign of the toll that elevated interest rates and economic uncertainty are taking on the engine of the U.S. economy.",
-          "link": "https://www.investopedia.com/slower-consumer-credit-growth-points-to-spending-slowdown-8692196",
-          "publishedOn": "2024-08-07T23:20:40.000Z",
-          "wordCount": 6385,
-          "title": "Consumer Borrowing Points to Spending Slowdown",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/hxMl1Aue7XAwikfr5BM0vQTy7Ag=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2164308699-dc9c7179de8948c4ba316f8dd1362296.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/hxMl1Aue7XAwikfr5BM0vQTy7Ag=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2164308699-dc9c7179de8948c4ba316f8dd1362296.jpg"
         }
       ]
     },
@@ -18187,6 +18227,46 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "5-things-know-stock-market-114416727.html",
+          "author": null,
+          "description": "News of the day for September 6, 2024",
+          "link": "https://finance.yahoo.com/news/5-things-know-stock-market-114416727.html",
+          "publishedOn": "2024-09-06T11:44:16.000Z",
+          "wordCount": 21307,
+          "title": "5 Things to Know Before the Stock Market Opens",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Ge9rajsYwXOEWafSYpK9FQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/4abe5641b1821cdb3086d2d728810638"
+        },
+        {
+          "id": "may-rethink-where-retirement-income-110000342.html",
+          "author": null,
+          "description": "A growing number of workers report that their primary source of retirement income will come from their 401(k) workplace savings plan, according to a new retirement study from Schwab. In 2022, workers said 37% of their retirement money would come from 401(k) cash. That figure has now risen to 40% of workers. Consider working with […] The post You May Need to Rethink Where Your Retirement Income Will Come From appeared first on SmartReads by SmartAsset.",
+          "link": "https://finance.yahoo.com/news/may-rethink-where-retirement-income-110000342.html",
+          "publishedOn": "2024-09-06T11:00:24.000Z",
+          "wordCount": 21844,
+          "title": "Think You Know Where Your Retirement Income Will Come From? Think Again",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/c7c42918f441fd884c068bbb90e158aa"
+        },
+        {
+          "id": "youll-never-guess-much-high-150925653.html",
+          "author": null,
+          "description": "If you’ve got more money, you’ve got more retirement options. High-income earners have substantial resources at their disposal, presenting the potential for massive gains and crushing losses. However, practical strategies and careful financial decisions can help you retire as a multi-millionaire. High-income earners often have different retirement needs than others. Here’s how much high-income earners […] The post How Much High-Income Earners Have Saved for Retirement appeared first on SmartRead",
+          "link": "https://finance.yahoo.com/news/youll-never-guess-much-high-150925653.html",
+          "publishedOn": "2024-09-06T11:00:00.000Z",
+          "wordCount": 22262,
+          "title": "You Won't Believe How Much High-Income Earners Save for Retirement",
+          "imageUrl": "https://media.zenfs.com/en/smartasset_475/179e43e5d82512e780f8b4085284496e"
+        },
+        {
+          "id": "load-super-micro-computer-stock-104500890.html",
+          "author": null,
+          "description": "Supermicro's stock has plummeted in just a month's time.",
+          "link": "https://finance.yahoo.com/news/load-super-micro-computer-stock-104500890.html",
+          "publishedOn": "2024-09-06T10:45:00.000Z",
+          "wordCount": 21806,
+          "title": "Should You Load Up on Super Micro Computer Stock While It's Down 60% From Its All-Time High?",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/40ea7494db46baca678320a646d0d906"
+        },
+        {
           "id": "stock-market-today-nasdaq-futures-lead-markets-lower-ahead-of-crucial-jobs-report-103835660.html",
           "author": null,
           "description": "The pivotal August jobs report will provide clues to the size of the Fed's rate cut this month and the health of the economy.",
@@ -18195,6 +18275,26 @@
           "wordCount": 21418,
           "title": "Stock market today: Nasdaq futures lead markets lower ahead of crucial jobs report",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/WRy_TF1kzYYtEJ9aL3oz2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/393feeb0-6c1c-11ef-bffe-527c323d0acf"
+        },
+        {
+          "id": "worried-super-micro-computer-solid-103000820.html",
+          "author": null,
+          "description": "The growing demand for AI servers is giving this hardware specialist's business a nice boost.",
+          "link": "https://finance.yahoo.com/news/worried-super-micro-computer-solid-103000820.html",
+          "publishedOn": "2024-09-06T10:30:00.000Z",
+          "wordCount": 11387,
+          "title": "Worried About Super Micro Computer? Here Is a Solid Artificial Intelligence (AI) Stock to Buy Hand Over Fist Instead.",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/17241bc502d3b686b571d9dcc1bcea92"
+        },
+        {
+          "id": "got-5-000-3-high-101500171.html",
+          "author": null,
+          "description": "These stocks offer above-average yields ranging between 2.8% and 5.1%.",
+          "link": "https://finance.yahoo.com/news/got-5-000-3-high-101500171.html",
+          "publishedOn": "2024-09-06T10:15:00.000Z",
+          "wordCount": 21854,
+          "title": "Got $5,000? These 3 High-Yielding Dividend Stocks Are Trading Near Their 52-Week Lows",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/EIv1axnPLYKjeIIpvNqeuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/motleyfool.com/a1417db113b5730f417816ebaad1aa64"
         },
         {
           "id": "futures-drop-investors-brace-payrolls-100941342.html",
@@ -18235,6 +18335,16 @@
           "wordCount": 22223,
           "title": "Prediction: 3 Time-Tested Dow Stocks That Can Double Your Money by 2030",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/nuO2boRW2KmC_6c9oHp.Lg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzA-/https://media.zenfs.com/en/motleyfool.com/74c19fa24a1ba7e13593f21798621ffe"
+        },
+        {
+          "id": "much-kinder-morgan-pay-dividends-091300088.html",
+          "author": null,
+          "description": "The pipeline operator has one of the highest yields in the S&P 500.",
+          "link": "https://finance.yahoo.com/news/much-kinder-morgan-pay-dividends-091300088.html",
+          "publishedOn": "2024-09-06T09:13:00.000Z",
+          "wordCount": 21335,
+          "title": "How Much Will Kinder Morgan Pay Out in Dividends This Year?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ZEn_55BCKerDR1YxTprDcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/e6b3cb61af0c88590062a04bd6fabd4b"
         },
         {
           "id": "34-warren-buffetts-318-billion-090600569.html",
@@ -18325,6 +18435,16 @@
           "wordCount": 21848,
           "title": "Dollar Is Under Pressure Before Key US Jobs Data: Markets Wrap",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/1XLMt5X7bhDv604ulOfW8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODE-/https://media.zenfs.com/en/bloomberg_markets_842/0673b4d567d7150a747a79260176857f"
+        },
+        {
+          "id": "retirement-savings-withdrawal-rate-cash-bonds-c1c356f4?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/retirement-savings-withdrawal-rate-cash-bonds-c1c356f4?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-09-06T05:30:00.000Z",
+          "wordCount": null,
+          "title": "Retirees, It’s Time to Give Yourself a Raise. How to Keep the Cash Flowing for Decades.",
+          "imageUrl": null
         },
         {
           "id": "capital-gains-tax-harris-trump-congress-fcd5ef43?siteid=yhoof2&yptr=yahoo",
@@ -45484,16 +45604,6 @@
           "publishedOn": "2024-08-08T00:42:40.000Z",
           "wordCount": null,
           "title": "A sharp reversal in the stock market's fear gauge means the worst is over for investors, Fundstrat says",
-          "imageUrl": null
-        },
-        {
-          "id": "lumen-ai-share-price-63dd0faf?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/lumen-ai-share-price-63dd0faf?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-08-07T23:29:00.000Z",
-          "wordCount": null,
-          "title": "Lumen is an AI Rocket. Is it the Next Super Micro?",
           "imageUrl": null
         }
       ]
