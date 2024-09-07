@@ -4659,16 +4659,6 @@
           "wordCount": 354,
           "title": "Zillow Stock Soars as Real Estate Company Names New CEO, Reports Revenue Growth",
           "imageUrl": null
-        },
-        {
-          "id": "071070371033389bbb3a89d0ec1e4e9f",
-          "author": "Investopedia",
-          "description": "Palantir shares surged Thursday after the company announced an agreement with Microsoft to provide the U.S. government with access to their artificial intelligence and cloud products.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9666cbe311b1552bc59d2cacf131609c514dc4359675be9c0f264dd8799a20de940e21d3e727a6fbe632f1e0873de82efb2301853d410f1e0df4bebcd63a4cda9fb1adccc98b89184b800a8a926d608665272c86d70ad6c954bd9022",
-          "publishedOn": "2024-08-08T19:10:00.000Z",
-          "wordCount": 354,
-          "title": "Palantir Stock Surges on Microsoft Partnership Bringing AI to US Government Agencies",
-          "imageUrl": null
         }
       ]
     },
@@ -4677,6 +4667,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "article-6327319",
+          "author": null,
+          "description": "De Starliner-capsule van Boeing is veilig geland in de Amerikaanse staat New Mexico. De problemen waar bij de landing voor werd gevreesd, bleven uit.",
+          "link": "https://www.nu.nl/tech/6327319/lege-boeing-starliner-succesvol-geland-in-amerikaanse-woestijn.html",
+          "publishedOn": "2024-09-07T05:15:48.000Z",
+          "wordCount": 417,
+          "title": "Lege Boeing Starliner succesvol geland in Amerikaanse woestijn",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/p32x8mqa308o_sqr256/585/0/2329/2329/lege-boeing-starliner-succesvol-geland-in-amerikaanse-woestijn.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/p32x8mqa308o_sqr256/585/0/2329/2329/lege-boeing-starliner-succesvol-geland-in-amerikaanse-woestijn.jpg"
+        },
         {
           "id": "article-6327319",
           "author": null,
@@ -18293,51 +18298,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/SebdojGfa-9AmwW-ESDc3-oxe9o=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1569123406-0b125ec965624b029e52858117a941e8.jpg"
-        },
-        {
-          "id": "8692491",
-          "author": "Naomi Buchanan",
-          "description": "Palantir shares surged Thursday after the company announced an agreement with Microsoft to provide the U.S. government with access to their artificial intelligence and cloud products.",
-          "link": "https://www.investopedia.com/palantir-stock-surges-on-microsoft-partnership-bringing-ai-to-us-government-agencies-8692491",
-          "publishedOn": "2024-08-08T19:10:18.000Z",
-          "wordCount": 6272,
-          "title": "Palantir Stock Surges on Microsoft Partnership Bringing AI to US Government Agencies",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/SiEjG3TlXvnkA5GNg_XjWPBRAUk=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1246026356-7a99130df074460aaa9d725464db8bc5.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/SiEjG3TlXvnkA5GNg_XjWPBRAUk=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1246026356-7a99130df074460aaa9d725464db8bc5.jpg"
-        },
-        {
-          "id": "8692675",
-          "author": "Terry Lane",
-          "description": "The average 30-year, fixed-rate mortgage fell to 6.47%, Freddie Mac said, while the 15-year fixed rate came in at 5.63%—both at their lowest points in more than a year.",
-          "link": "https://www.investopedia.com/mortgage-rates-lowest-in-a-year-freddie-mac-says-8692675",
-          "publishedOn": "2024-08-08T18:59:59.000Z",
-          "wordCount": 6573,
-          "title": "Mortgage Rates Haven’t Been This Low in More Than a Year, Freddie Mac Says",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/AM_OTlHKMSDABch4GQfXRDFosB8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-21532835691-0a11679b4980463e9b3ea4dd3fb5765d.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/AM_OTlHKMSDABch4GQfXRDFosB8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-21532835691-0a11679b4980463e9b3ea4dd3fb5765d.jpg"
-        },
-        {
-          "id": "8692683",
-          "author": "Bill McColl",
-          "description": "Yeti posted quarterly profit and sales that exceeded forecasts on strong demand for its coolers.",
-          "link": "https://www.investopedia.com/booming-cooler-sales-help-yeti-beat-profit-and-sales-estimates-8692683",
-          "publishedOn": "2024-08-08T18:25:39.000Z",
-          "wordCount": 6160,
-          "title": "Booming Cooler Sales Help Yeti Beat Profit and Sales Estimates",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/IOheTajd5BUiOlkhGP4vp_A4iK0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2165179942-0c9b4e0489e6478ab4f1e98cfb3a6e19.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/IOheTajd5BUiOlkhGP4vp_A4iK0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2165179942-0c9b4e0489e6478ab4f1e98cfb3a6e19.jpg"
         }
       ]
     },
@@ -18374,6 +18334,16 @@
           "publishedOn": "2024-09-07T01:41:52.000Z",
           "wordCount": null,
           "title": "Buy the September dip in stocks as the market heads into the best 3-month stretch of the year, strategist says",
+          "imageUrl": null
+        },
+        {
+          "id": "the-august-jobs-report-dashes-hopes-for-a-big-interest-rate-cut-44111616?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/the-august-jobs-report-dashes-hopes-for-a-big-interest-rate-cut-44111616?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-09-06T22:40:00.000Z",
+          "wordCount": null,
+          "title": "The August Jobs Report Dashes Hopes for a Big Interest-Rate Cut",
           "imageUrl": null
         },
         {
@@ -45505,36 +45475,6 @@
           "wordCount": 20572,
           "title": "Do You Know How Much You Must Save Each Month To Retire With $1 Million By 65? Here's A Breakdown At Each Age",
           "imageUrl": "https://media.zenfs.com/en/Benzinga/e219454835eb08a2699cbc7bcd7238f4"
-        },
-        {
-          "id": "former-trump-hotel-heads-back-190017046.html",
-          "author": null,
-          "description": "The election isn’t the only drama happening in Washington, DC. The battle over the former Trump Hotel has ended in a foreclosure auction, sending the rights for the hotel back to the lender, BDT & MSD Partners, the merchant bank owned by Warren ...",
-          "link": "https://finance.yahoo.com/news/former-trump-hotel-heads-back-190017046.html",
-          "publishedOn": "2024-08-08T19:00:17.000Z",
-          "wordCount": 20672,
-          "title": "Former Trump Hotel Heads Back To The Lender In Foreclosure Auction",
-          "imageUrl": "https://media.zenfs.com/en/benzinga_79/375a5fbdccb558fac20c8a8f76735999"
-        },
-        {
-          "id": "dutch-bros-earnings-stock-price-75d21502?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/dutch-bros-earnings-stock-price-75d21502?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-08-08T18:56:00.000Z",
-          "wordCount": null,
-          "title": "Dutch Bros Stock Has Plunged. Analysts Say Buy Now.",
-          "imageUrl": null
-        },
-        {
-          "id": "startup-ceo-says-vc-firm-183813089.html",
-          "author": null,
-          "description": "(Bloomberg) -- Everyone involved agrees on the basic facts about March 8, 2022 — a venture capitalist and a startup co-founder spent a big night on the sidelines of a Miami conference. There, agreement ends. Cailin Hardell says the middle-aged VC investor and another CEO backed by his firm got her drunk and sexually assaulted her. They maintain the encounter was consensual. Most Read from BloombergHow a Tiny Midwestern Town Became a Mecca for Modern ArchitectureAfrica’s Richest City Needs $12 Bi",
-          "link": "https://finance.yahoo.com/news/startup-ceo-says-vc-firm-183813089.html",
-          "publishedOn": "2024-08-08T18:38:13.000Z",
-          "wordCount": 21452,
-          "title": "Startup CEO Says VC Firm Punished Her for Reporting Sex Assault",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/x_nhPC2egOJE5.e9HbrihA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjY1/https://media.zenfs.com/en/bloomberg_markets_842/0e3577aab716acd501673e2ee10794a0"
         }
       ]
     }
