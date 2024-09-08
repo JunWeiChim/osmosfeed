@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-08T15:15:30.110Z</updated>
+    <updated>2024-09-08T16:18:10.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -152,6 +152,16 @@
         <link href="https://finance.yahoo.com/news/3-no-brainer-dividend-stocks-113000667.html"/>
         <updated>2024-09-08T11:30:00.000Z</updated>
         <summary type="html"><![CDATA[These stocks pay great dividends and could be long-term winners.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia Loses $470 Billion in Value in a Week. Should Investors Be Worried?]]></title>
+        <id>nvidia-loses-470-billion-value-112500134.html</id>
+        <link href="https://finance.yahoo.com/news/nvidia-loses-470-billion-value-112500134.html"/>
+        <updated>2024-09-08T11:25:00.000Z</updated>
+        <summary type="html"><![CDATA[A week is all it took for Nvidia to lose almost half a trillion in market capitalization.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -39941,15 +39951,6 @@ Revenue came in at $30.0 billion which was above t]]></summary>
         <summary type="html"><![CDATA[Vakantiegangers kiezen vaker voor alternatieve bestemmingen nu het massatoerisme in verschillende Europese landen en steden toeneemt. Zo zijn landen als Albanië, Servië, Noord-Macedonië, Kirgizië en Kazachstan meer in trek.]]></summary>
         <author>
             <name>NU - Economie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stock market today: Stocks end higher as investors claw back most losses after big rout]]></title>
-        <id>stock-market-today-stocks-end-041633604.html</id>
-        <link href="https://finance.yahoo.com/news/stock-market-today-stocks-end-041633604.html"/>
-        <updated>2024-08-10T04:16:33.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
         </author>
     </entry>
 </feed>
