@@ -24,6 +24,26 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "377f2f12e18659ef4f93b663e66cbed3",
+          "author": "Investopedia",
+          "description": "SpaceX launched the four astronauts taking part in its Polaris Dawn orbit early Tuesday morning. The astronauts are scheduled to perform dozens of experiments during their multi-day orbit, including the world's first commercial spacewalk.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9577c6e11abd113a878328aff72e289c094fcc3c842ab8810f2f45cc65d83fd087146fcbab6de5a5ba74b2b9",
+          "publishedOn": "2024-09-10T14:11:00.000Z",
+          "wordCount": 354,
+          "title": "SpaceX Completes Polaris Dawn Launch",
+          "imageUrl": null
+        },
+        {
+          "id": "0b00492a881a48afd59c372a42174f8c",
+          "author": "Investopedia",
+          "description": "The EU's Court of Justice on Tueday ruled against Alphabet's Google, which had appealed a 2.4-billion-euro ($2.7 billion) fine for abusing its dominant position by favoring its own shopping services over those of its competitors.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8168c8e513a01135879d3db0bf3f38c2454fd3358434fc9d446651c86fc77e8690576acae830ffadb470bbbcde7e",
+          "publishedOn": "2024-09-10T13:43:00.000Z",
+          "wordCount": 354,
+          "title": "Google Loses EU Appeal of $2.7B Fine",
+          "imageUrl": null
+        },
+        {
           "id": "56c83f2c150ee87ec9e272a2fa669d9a",
           "author": "Investopedia",
           "description": "Apple must pay a 13-billion-euro ($14.4 billion) tax bill after the EU's Court of Justice on Tuesday overturned a lower court ruling on Irish tax breaks for the tech giant.",
@@ -18773,21 +18793,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/WBw7B-TmY7xNPdPowoHv3VuwBp4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/AKAMChart-d3ee319b2a82429ebd977ea54df967a0.gif"
-        },
-        {
-          "id": "8693752",
-          "author": "Timothy Smith",
-          "description": "Fund Significantly Boosted its Nvidia Stake While Slicing Its Apple Stake in June",
-          "link": "https://www.investopedia.com/watch-these-xlk-tech-sector-etf-price-levels-amid-recent-volatility-8693752",
-          "publishedOn": "2024-08-12T02:53:03.000Z",
-          "wordCount": 6926,
-          "title": "Watch These XLK Tech Sector ETF Price Levels Amid Recent Volatility",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/4VnaEZgKyqOoaN2-91TnYfP9j0A=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/XLKChart-d05878ba54d542dbae4fa3161eb5ebcc.gif",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/4VnaEZgKyqOoaN2-91TnYfP9j0A=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/XLKChart-d05878ba54d542dbae4fa3161eb5ebcc.gif"
         }
       ]
     },
@@ -18796,6 +18801,36 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "the-fed-backpedals-and-unveils-a-scaled-back-proposal-for-bank-capital-requirements-142309642.html",
+          "author": null,
+          "description": "The Federal Reserve unveiled it’s planning to scale back an proposal to raise capital requirements for banks after politicians and the banking industry pushed back on the initial plan, warning it could restrict lending and hurt the economy.",
+          "link": "https://finance.yahoo.com/news/the-fed-backpedals-and-unveils-a-scaled-back-proposal-for-bank-capital-requirements-142309642.html",
+          "publishedOn": "2024-09-10T14:23:09.000Z",
+          "wordCount": 22139,
+          "title": "The Fed backpedals and unveils a scaled-back proposal for bank capital requirements",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/g8hgGZTn5q2NthxTw38b3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/edb29fa0-3ef9-11ef-afab-15378c0af3eb"
+        },
+        {
+          "id": "choose-wisely-morgan-stanley-says-140845623.html",
+          "author": null,
+          "description": "The big news recently concerned the August jobs report, which came in below expectations. The softness in the jobs market spooked investors, and market watchers are now looking to the Fed’s next meeting, and an anticipated cut in the key funds rate. So, where does the stock market go from here? The overall trend of the past year remains bullish, and investors aren’t fleeing the market – yet. But the question remains, where should investors start putting their money? A recent report from Morgan S",
+          "link": "https://finance.yahoo.com/news/choose-wisely-morgan-stanley-says-140845623.html",
+          "publishedOn": "2024-09-10T14:08:45.000Z",
+          "wordCount": 22494,
+          "title": "‘Choose Wisely’: Morgan Stanley Says Buy These Defensive, Quality Stocks",
+          "imageUrl": "https://media.zenfs.com/en/tipranks_452/7862067ae93a6b25bd0b03c71a5cc577"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-apple-stock-aapl-oracle-earnings/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-09-10T13:50:50.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Falls As Apple Loses $14 Billion Court Battle; AI Giant Oracle Surges On Earnings",
+          "imageUrl": null
+        },
         {
           "id": "1-healthcare-stock-sell-now-134500570.html",
           "author": null,
@@ -46395,16 +46430,6 @@
           "wordCount": 19989,
           "title": "Foreign Investors Pull Record Amount of Money From China",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_DTo.x27HhCkY8sPb43OBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDQ-/https://media.zenfs.com/en/bloomberg_markets_842/079207291298ca1949555ab54a3f04cc"
-        },
-        {
-          "id": "traders-wary-going-back-stocks-025247867.html",
-          "author": null,
-          "description": "(Bloomberg) -- After one of the wildest weeks in recent market history — the S&P 500 Index posted both its biggest one-day slump and best rebound since 2022 — traders could be forgiven for not wanting to jump back in fully into stocks. Some are now are looking into options. Most Read from BloombergHow a Tiny Midwestern Town Became a Mecca for Modern ArchitectureHow Chicago’s Gigantic Merchandise Mart Is Still Thriving as Office SpaceLos Angeles Sees Remote Work Helping ‘No Car’ 2028 Olympic Game",
-          "link": "https://finance.yahoo.com/news/traders-wary-going-back-stocks-025247867.html",
-          "publishedOn": "2024-08-12T02:52:47.000Z",
-          "wordCount": 20287,
-          "title": "Traders Wary of Going Back to All-In on Stocks Weigh Up Options",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/33699ff7d01a607864fccface8077f92"
         }
       ]
     }
