@@ -4818,6 +4818,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6327804",
+          "author": null,
+          "description": "Berichtjes, appjes en andere chatberichten die ministers en staatssecretarissen versturen, worden nog niet altijd op de juiste manier bewaard. Sinds vorig jaar gelden hiervoor nieuwe richtlijnen. Die werden opgesteld na gedoe rondom de sms-berichten van toenmalig premier Mark Rutte.",
+          "link": "https://www.nu.nl/algemeen/6327804/ministeries-komen-belofte-niet-na-zakelijke-appjes-niet-op-juiste-manier-bewaard.html",
+          "publishedOn": "2024-09-11T13:33:52.000Z",
+          "wordCount": 417,
+          "title": "Ministeries komen belofte niet na: zakelijke appjes niet op juiste manier bewaard",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/315x7ehan7ei_sqr256/311/0/4912/4912/ministeries-komen-belofte-niet-na-zakelijke-appjes-niet-op-juiste-manier-bewaard.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/315x7ehan7ei_sqr256/311/0/4912/4912/ministeries-komen-belofte-niet-na-zakelijke-appjes-niet-op-juiste-manier-bewaard.jpg"
+        },
+        {
           "id": "article-6327793",
           "author": null,
           "description": "De verpakkingen van vrije-uitloopeieren waren misleidend voor consumenten tijdens de ophokplicht voor pluimvee, oordeelt de Reclame Code Commissie (RCC) woensdag. Het gaat bijvoorbeeld om een plaatje van een kip die op het gras loopt, terwijl kippen in werkelijkheid binnen zaten.",
@@ -10374,6 +10389,51 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8710136",
+          "author": "Diccon Hyatt",
+          "description": "Prices for gas, food, and other important consumer items fell or stayed flat in August. However, one stubbornly rising category kept inflation from cooling down as much as it might have otherwise.",
+          "link": "https://www.investopedia.com/inflation-fell-in-august-with-one-major-exception-8710136",
+          "publishedOn": "2024-09-11T13:58:36.000Z",
+          "wordCount": 6800,
+          "title": "Inflation Fell In August, With One Major Exception",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/nzu3Jic8rkhRY-BCf0CbHhomoAI=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2166812678-f952a339931b4f13890eaec4e2475ab2.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/nzu3Jic8rkhRY-BCf0CbHhomoAI=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2166812678-f952a339931b4f13890eaec4e2475ab2.jpg"
+        },
+        {
+          "id": "8710100",
+          "author": "Aaron McDade",
+          "description": "South Korean tech giant Samsung Electronics is set to cut an unspecified number of overseas jobs, with some segments facing layoffs of up to 30%, according to a report Wednesday.",
+          "link": "https://www.investopedia.com/samsung-reportedly-cutting-up-to-30-percent-of-global-jobs-in-certain-units-8710100",
+          "publishedOn": "2024-09-11T13:57:19.000Z",
+          "wordCount": 6534,
+          "title": "Samsung Reportedly Cutting Up To 30% of Global Jobs in Certain Units",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/h89K3VxhBXrqTohrXDCTCKlskFc=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2163961154-00da02e67a2c40538ebbcc36f49491cd.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/h89K3VxhBXrqTohrXDCTCKlskFc=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2163961154-00da02e67a2c40538ebbcc36f49491cd.jpg"
+        },
+        {
+          "id": "8710096",
+          "author": "Nisha Gopalan",
+          "description": "Amazon said it plans to spend 8 billion pounds ($10.5 billion) to build and operate data centers in the U.K. over the next five years, in a massive expansion of its cloud and artificial intelligence infrastructure.",
+          "link": "https://www.investopedia.com/amazon-to-invest-usd10-5b-in-uk-over-next-five-years-in-cloud-ai-push-8710096",
+          "publishedOn": "2024-09-11T13:49:00.000Z",
+          "wordCount": 6479,
+          "title": "Amazon To Invest $10.5B in UK Over Next 5 Years in Cloud, AI Push",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/_eR6NlbDTvs52LCX6SscXqPzaGA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2168262416-097609be371d4826ae7625d4928bbe52.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/_eR6NlbDTvs52LCX6SscXqPzaGA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2168262416-097609be371d4826ae7625d4928bbe52.jpg"
+        },
         {
           "id": "8710087",
           "author": "Timothy Smith",
@@ -18913,21 +18973,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/zcDkAaL9m6XrXQcgSYpTbB4Gu_A=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GOOGLChart-fe9c927856d1400c8d2b993ec31fe300.gif"
-        },
-        {
-          "id": "8694332",
-          "author": "Timothy Smith",
-          "description": "Shares Surged More Than 9% on Monday",
-          "link": "https://www.investopedia.com/watch-these-barrick-gold-price-levels-as-stock-regains-luster-after-earnings-beat-8694332",
-          "publishedOn": "2024-08-13T01:50:37.000Z",
-          "wordCount": 6614,
-          "title": "Watch These Barrick Gold Price Levels As Stock Regains Luster After Earnings Beat",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/E1EvNbReaYfRlhHIWyr4J_6v4WA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GOLDChart-11bb6363c0d441c09478f6b9e5d0fb0f.gif",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/E1EvNbReaYfRlhHIWyr4J_6v4WA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GOLDChart-11bb6363c0d441c09478f6b9e5d0fb0f.gif"
         }
       ]
     },
@@ -18936,6 +18981,46 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-gamestop-gme-stock/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-09-11T13:52:12.000Z",
+          "wordCount": null,
+          "title": "Dow Jones Sells Off On Surprise Inflation Report; GameStop Plunges On Sales Miss, Share Offering",
+          "imageUrl": null
+        },
+        {
+          "id": "2-warren-buffett-stocks-screaming-133700885.html",
+          "author": null,
+          "description": "Berkshire Hathaway owns dozens of stocks, but these two look like especially strong buys right now.",
+          "link": "https://finance.yahoo.com/news/2-warren-buffett-stocks-screaming-133700885.html",
+          "publishedOn": "2024-09-11T13:37:00.000Z",
+          "wordCount": 21933,
+          "title": "2 Warren Buffett Stocks That Are Screaming Buys Right Now",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/CWIvJMGmN2PphziXJbDx_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/07a7cf16a7bb36bd1a0eef5f31efd965"
+        },
+        {
+          "id": "inflation-consumer-prices-rise-at-slowest-pace-since-early-2021-132305109.html",
+          "author": null,
+          "description": "The Consumer Price Index (CPI) increased 2.5% over the prior year in August, a deceleration from July's 2.9% annual gain in prices.",
+          "link": "https://finance.yahoo.com/news/inflation-consumer-prices-rise-at-slowest-pace-since-early-2021-132305109.html",
+          "publishedOn": "2024-09-11T13:23:05.000Z",
+          "wordCount": 22035,
+          "title": "Inflation: Consumer prices rise at slowest pace since early 2021",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Xw43pE2Ve.uWRG1wdiGBAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/74370db0-6f95-11ef-b2d4-27674712e4a6"
+        },
+        {
+          "id": "forget-palantir-2-tech-stocks-131000796.html",
+          "author": null,
+          "description": "Innodata and Datadog might deserve more attention than this hot AI stock.",
+          "link": "https://finance.yahoo.com/news/forget-palantir-2-tech-stocks-131000796.html",
+          "publishedOn": "2024-09-11T13:10:00.000Z",
+          "wordCount": 21915,
+          "title": "Forget Palantir: 2 Tech Stocks to Buy Instead",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/YyfXln0fesk3E6FAsQW_eA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/motleyfool.com/c4f22fbbdec17207c64afe934f835ec0"
+        },
         {
           "id": "inflation-consumer-price-increases-hit-lowest-annual-inflation-rate-since-early-2021-123551031.html",
           "author": null,
@@ -18955,6 +19040,16 @@
           "wordCount": 21465,
           "title": "Small Aug CPI rise seen sealing 25 bp cut next week",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/954ba9bb2103b66d09e8fac1f4185519"
+        },
+        {
+          "id": "trump-closing-being-able-sell-125214628.html",
+          "author": null,
+          "description": "Donald Trump has more than last night's debate with Vice President Kamala Harris on his mind, as the former president can start selling shares of Truth Social's parent company next week if he wants when a lockup provision ends.  The first day that Trump can begin selling shares of Trump Media & Technology Group Corp., if he chooses to do so, is Sept. 19.  A lockup provision generally prevents company insiders from selling newly issued shares for six months.",
+          "link": "https://finance.yahoo.com/news/trump-closing-being-able-sell-125214628.html",
+          "publishedOn": "2024-09-11T12:52:14.000Z",
+          "wordCount": 21641,
+          "title": "Trump closing in on being able to sell his shares of Truth Social's parent company. But will he?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/kZHEAW7WaqpNZuv_4.hz9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/aa2a91d3e1e28e88882d6858294c878d"
         },
         {
           "id": "us-consumer-prices-rise-moderately-123510635.html",
@@ -18995,6 +19090,16 @@
           "wordCount": 22120,
           "title": "Buy These 4 High-Yield Dividend Stocks Today and Sleep Soundly for a Decade",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/HueSu6n9he_9a_cKQcY9Ag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTk-/https://media.zenfs.com/en/motleyfool.com/bcb2fce2bb183446cd281d98b14035f0"
+        },
+        {
+          "id": "t-ceo-john-stankey-flags-121225953.html",
+          "author": null,
+          "description": "AT&T Inc. (NYSE:T) shares are trading lower premarket Wednesday. On Tuesday, the company’s chief executive officer, John Stankey, stated that they are observing stable, though normalizing, trends in the wireless industry. The company disclosed satisfaction with the performance of the Mobility business in the third quarter. Stankey said that fiber penetration rates are surpassing initial projections. While a work stoppage is currently affecting some fiber installations, it is not expected to sign",
+          "link": "https://finance.yahoo.com/news/t-ceo-john-stankey-flags-121225953.html",
+          "publishedOn": "2024-09-11T12:12:25.000Z",
+          "wordCount": 21568,
+          "title": "AT&T CEO John Stankey Flags Normalizing Wireless Trends And Strong Fiber Growth: Details",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/151ff0d238b96b599ce4bf681f892d82"
         },
         {
           "id": "?src=A00220&yptr=yahoo",
@@ -19084,6 +19189,26 @@
           "publishedOn": "2024-09-11T10:54:19.000Z",
           "wordCount": 14112,
           "title": "Daily Spotlight: Raising 3Q GDP Growth Forecast",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
+        },
+        {
+          "id": "ARGUS_6188_AnalystReport_1726052024000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "Find the latest CAVA Group, Inc. (CAVA) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_6188_AnalystReport_1726052024000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-09-11T10:53:44.000Z",
+          "wordCount": 13872,
+          "title": "Analyst Report: Cava Group Inc",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
+        },
+        {
+          "id": "ARGUS_3282_AnalystReport_1726052024000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "Find the latest Oracle Corporation (ORCL) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_3282_AnalystReport_1726052024000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-09-11T10:53:44.000Z",
+          "wordCount": 14073,
+          "title": "Analyst Report: Oracle Corp.",
           "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
         },
         {
@@ -19665,6 +19790,16 @@
           "wordCount": 21777,
           "title": "Does Super Micro Computer's Delayed Filing Change Its Investment Thesis?",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/NZAsZsLWkGm_OOJbaEq..g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/54a9b733390ccca1dddfd8dda6212a65"
+        },
+        {
+          "id": "nvidia-expected-grow-quickly-2026-171900125.html",
+          "author": null,
+          "description": "An overwhelming number of analysts still rate Nvidia a buy, and they expect a significant gain for the stock over the next year.",
+          "link": "https://finance.yahoo.com/news/nvidia-expected-grow-quickly-2026-171900125.html",
+          "publishedOn": "2024-09-10T17:19:00.000Z",
+          "wordCount": 22761,
+          "title": "Nvidia is expected to grow quickly through 2026. These companies may grow faster.",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/MtfJ9KipLy4AsbAwCLc4FQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/7d44542b82f3b2f637411d613d04ec3d"
         },
         {
           "id": "nvidia-faces-investor-scrutiny-over-171203643.html",
@@ -46394,16 +46529,6 @@
           "publishedOn": "2024-08-13T04:25:47.000Z",
           "wordCount": null,
           "title": "Stock market today: Indexes close mixed before fresh inflation data",
-          "imageUrl": null
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-musk-trump/?src=A00220&yptr=yahoo",
-          "publishedOn": "2024-08-13T01:32:08.000Z",
-          "wordCount": null,
-          "title": "Dow Jones Futures: Musk-Trump Event Encounters 'Massive DDOS Attack;' Market Rally Needs This Signal",
           "imageUrl": null
         }
       ]
