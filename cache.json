@@ -2641,6 +2641,26 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "9bb7db820b6c297efa00c3c926b27d42",
+          "author": "Investopedia",
+          "description": "GameStop shares plummeted in premarket trading on Wednesday after the video gamer retailer announced a 20 million share offering and reported a big drop in sales. Monitor these important post-earnings chart levels.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9166d3e117e848318d9d3deef53b208a574bcc20c828a39b412e09d76e8336dd81576dd0ab26a6fae02baff88238a821ec3e1ccf314e1a5d05f3f4bb946451c8c0b3efd5ca9f82074780198acb3d34d836767e",
+          "publishedOn": "2024-09-11T12:47:00.000Z",
+          "wordCount": 354,
+          "title": "Watch These GameStop Price Levels as Stock Plummets",
+          "imageUrl": null
+        },
+        {
+          "id": "0bb6a19316270dcb6449ac8eafad6227",
+          "author": "Investopedia",
+          "description": "Stock futures were lower Wednesday as investors awaited a critical reading on inflation that will be closely watched by Federal Reserve officials as they consider cutting interest rates for the first time in four years.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8268d0af15aa523c9bc32cacf63b34c214069261d768e3c60f73138a3bc56a82",
+          "publishedOn": "2024-09-11T11:53:00.000Z",
+          "wordCount": 354,
+          "title": "Dow Jones Today: Stock Futures Lower Ahead of Closely Watched Inflation Report",
+          "imageUrl": null
+        },
+        {
           "id": "136cd314afbc190db4d136f87637f61f",
           "author": "Investopedia",
           "description": "Trump Media & Technology Group shares sank following Tuesday night's debate between former president Donald Trump and Vice President Kamala Harris.",
@@ -10354,6 +10374,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8710087",
+          "author": "Timothy Smith",
+          "description": "GameStop shares plummeted in premarket trading on Wednesday after the video gamer retailer announced a 20 million share offering and reported a big drop in sales. Monitor these important post-earnings chart levels.",
+          "link": "https://www.investopedia.com/watch-these-gamestop-price-levels-as-stock-plummets-earnings-share-offering-8710087",
+          "publishedOn": "2024-09-11T12:47:39.000Z",
+          "wordCount": 6589,
+          "title": "Watch These GameStop Price Levels as Stock Plummets",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/1sa035FtafvmHewCxER3jb7_hqQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GMEChart-ce2d21e3f5144e8c929a6ec7c8dcab33.gif",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/1sa035FtafvmHewCxER3jb7_hqQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GMEChart-ce2d21e3f5144e8c929a6ec7c8dcab33.gif"
+        },
         {
           "id": "8710090",
           "author": "Aaron McDade",
@@ -18902,6 +18937,66 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "inflation-consumer-price-increases-hit-lowest-annual-inflation-rate-since-early-2021-123551031.html",
+          "author": null,
+          "description": "The Consumer Price Index (CPI) increased 2.5% over the prior year in August, which was a deceleration compared to July's 2.9% annual gain in prices.",
+          "link": "https://finance.yahoo.com/news/inflation-consumer-price-increases-hit-lowest-annual-inflation-rate-since-early-2021-123551031.html",
+          "publishedOn": "2024-09-11T13:04:50.000Z",
+          "wordCount": 21944,
+          "title": "Inflation: Consumer price increases hit lowest annual inflation rate since early 2021",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Xw43pE2Ve.uWRG1wdiGBAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/74370db0-6f95-11ef-b2d4-27674712e4a6"
+        },
+        {
+          "id": "small-aug-cpi-rise-seen-125303815.html",
+          "author": null,
+          "description": "U.S. consumer prices rose marginally in August, but underlying inflation showed some stickiness, which could discourage the Federal Reserve from delivering a half-point interest rate cut next week. The consumer price index increased 0.2% last month after climbing 0.2% in July, the Labor Department said on Wednesday. In the 12 months through August, the CPI advanced 2.5%.",
+          "link": "https://finance.yahoo.com/news/small-aug-cpi-rise-seen-125303815.html",
+          "publishedOn": "2024-09-11T12:53:03.000Z",
+          "wordCount": 21465,
+          "title": "Small Aug CPI rise seen sealing 25 bp cut next week",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/954ba9bb2103b66d09e8fac1f4185519"
+        },
+        {
+          "id": "us-consumer-prices-rise-moderately-123510635.html",
+          "author": null,
+          "description": "U.S. consumer prices rose marginally in August, but underlying inflation showed some stickiness, which could discourage the Federal Reserve from delivering a half-point interest rate cut next week.  The consumer price index increased 0.2% last month after climbing 0.2% in July, the Labor Department's Bureau of Labor Statistics said on Wednesday.  In the 12 months through August, the CPI advanced 2.5%.",
+          "link": "https://finance.yahoo.com/news/us-consumer-prices-rise-moderately-123510635.html",
+          "publishedOn": "2024-09-11T12:35:10.000Z",
+          "wordCount": 21446,
+          "title": "US consumer prices rise moderately in August",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/4c06e57bd292aaceac3cfb3852fd6fd5"
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/news/donald-trump-stock-djt-presidential-debate-kamala-harris/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-09-11T12:30:01.000Z",
+          "wordCount": null,
+          "title": "This Donald Trump Stock Market Sentiment Indicator Signals He Lost The Presidential Debate",
+          "imageUrl": null
+        },
+        {
+          "id": "3-speculative-tech-stocks-could-123000521.html",
+          "author": null,
+          "description": "AST SpaceMobile, Intuitive Machines, and QuantumScape could skyrocket.",
+          "link": "https://finance.yahoo.com/news/3-speculative-tech-stocks-could-123000521.html",
+          "publishedOn": "2024-09-11T12:30:00.000Z",
+          "wordCount": 21990,
+          "title": "3 Speculative Tech Stocks That Could Go Parabolic",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/__WN.RAB8CtHxsD8wLjh5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01Nzk-/https://media.zenfs.com/en/motleyfool.com/893a3374e91b510e0c68f997e1af5729"
+        },
+        {
+          "id": "buy-4-high-yield-dividend-121500367.html",
+          "author": null,
+          "description": "Stable demand in the energy sector makes it a great hunting ground for high-yield dividend stocks.",
+          "link": "https://finance.yahoo.com/news/buy-4-high-yield-dividend-121500367.html",
+          "publishedOn": "2024-09-11T12:15:00.000Z",
+          "wordCount": 22120,
+          "title": "Buy These 4 High-Yield Dividend Stocks Today and Sleep Soundly for a Decade",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/HueSu6n9he_9a_cKQcY9Ag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTk-/https://media.zenfs.com/en/motleyfool.com/bcb2fce2bb183446cd281d98b14035f0"
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -18910,6 +19005,16 @@
           "wordCount": null,
           "title": "Peter Thiel Made A Fortune On Palantir — Here Are His 3 Other Bets",
           "imageUrl": null
+        },
+        {
+          "id": "popular-stock-quietly-ramping-artificial-120000038.html",
+          "author": null,
+          "description": "Semiconductor makers have been big winners in artificial intelligence, but not all chip businesses have enjoyed the same level of success.",
+          "link": "https://finance.yahoo.com/news/popular-stock-quietly-ramping-artificial-120000038.html",
+          "publishedOn": "2024-09-11T12:00:00.000Z",
+          "wordCount": 22017,
+          "title": "This Popular Stock Has Been Quietly Ramping Up Its Artificial Intelligence Capabilities. Is Now the Time to Buy?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/t82HPcHKpRjrRzddRCrANA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/24d575170664f765a723c8b94e0faece"
         },
         {
           "id": "prediction-nvidia-stock-may-tumble-113000510.html",
@@ -18930,6 +19035,16 @@
           "wordCount": 21939,
           "title": "1 Warren Buffett Dividend Growth Stock That Deserves a Spot in Your Portfolio",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_Mzljtin8KyjrHfH5IxJkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/motleyfool.com/44d50737668194d0e9955e9ad14e254f"
+        },
+        {
+          "id": "stock-market-today-sp-500-dow-futures-slip-as-investors-digest-fresh-inflation-reading-111124915.html",
+          "author": null,
+          "description": "Investors are looking to August's CPI reading to lift the uncertainty around the size of the Fed's first rate cut in years.",
+          "link": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-dow-futures-slip-as-investors-digest-fresh-inflation-reading-111124915.html",
+          "publishedOn": "2024-09-11T11:11:24.000Z",
+          "wordCount": 22443,
+          "title": "Stock market today: S&P 500, Dow futures slip as investors digest fresh inflation reading",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/BN5ATjGsc0se_lJtFwCZrQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/59ee0320-7006-11ef-9ded-428a711e39bd"
         },
         {
           "id": "stock-market-today-sp-500-dow-futures-slip-with-key-cpi-inflation-print-on-deck-111124500.html",
@@ -19002,6 +19117,16 @@
           "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
         },
         {
+          "id": "ARGUS_41171_TopBottomInsiderActivity_1726051069000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/research/reports/ARGUS_41171_TopBottomInsiderActivity_1726051069000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "publishedOn": "2024-09-11T10:37:49.000Z",
+          "wordCount": null,
+          "title": "Daily – Vickers Top Buyers & Sellers for 09/11/2024",
+          "imageUrl": null
+        },
+        {
           "id": "ARGUS_41170_InsiderActivity_1726051069000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "author": null,
           "description": "Find the latest Sunrise Realty Trust, Inc. (SUNS) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance",
@@ -19010,6 +19135,16 @@
           "wordCount": 13826,
           "title": "Daily – Vickers Top Insider Picks for 09/11/2024",
           "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
+        },
+        {
+          "id": "trump-media-djt-stock-harris-record-low-63db8d00?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/trump-media-djt-stock-harris-record-low-63db8d00?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-09-11T10:27:00.000Z",
+          "wordCount": null,
+          "title": "Trump Media Stock Hits Record Low After Debate With Harris",
+          "imageUrl": null
         },
         {
           "id": "nearly-5-yielding-passive-income-101700016.html",
@@ -19080,6 +19215,16 @@
           "wordCount": 21912,
           "title": "3 Dividend Growth Stocks That Raised Their Payouts by 400%-Plus in 10 Years",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/o3lpKC4YmVi0ogrnP6Ssog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/e6de51414ee2be21fa06b8c028f7eab5"
+        },
+        {
+          "id": "social-security-cola-increase-2025-5d720809?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/personal-finance/retirement/social-security-cola-increase-2025-5d720809?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-09-11T09:30:00.000Z",
+          "wordCount": null,
+          "title": "Retirees Will Get a Smaller Social Security Raise in 2025—and That’s OK",
+          "imageUrl": null
         },
         {
           "id": "2-beaten-down-stocks-could-093000993.html",
@@ -46259,16 +46404,6 @@
           "publishedOn": "2024-08-13T01:32:08.000Z",
           "wordCount": null,
           "title": "Dow Jones Futures: Musk-Trump Event Encounters 'Massive DDOS Attack;' Market Rally Needs This Signal",
-          "imageUrl": null
-        },
-        {
-          "id": "morgan-stanley-just-added-3-003052200.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/morgan-stanley-just-added-3-003052200.html",
-          "publishedOn": "2024-08-13T00:30:52.000Z",
-          "wordCount": null,
-          "title": "Morgan Stanley just added these 3 safe stocks to their 'buy' list with the market expected to stay choppy",
           "imageUrl": null
         }
       ]
