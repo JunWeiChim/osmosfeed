@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "6c562582826cbf73591980d63d1d52df",
+          "author": "Investopedia",
+          "description": "The S&P 500 ended 0.3% lower on Wednesday, Sept. 18, 2024, as the Federal Reserve announced its first interest-rate cut since March 2020.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca952ac6ec1be84c74ddde68eef53b24815712c23e8175bd9d513841c826813cd5930321d1e326bff0e76de6fa813db661e839429531460f5b18b0ffa7ca6414cdc0a3a5c9818d8f074b8f0ac29d27618d6b2f2791d70ad7c152bf992b",
+          "publishedOn": "2024-09-18T21:15:00.000Z",
+          "wordCount": 354,
+          "title": "S&P 500 Gains and Losses Today: ResMed Drops as Weight-Loss Drugs Threaten Demand",
+          "imageUrl": null
+        },
+        {
           "id": "5d15257807276eb724a4021a4d6c3158",
           "author": "Investopedia",
           "description": "Super Micro Computer shares are trading for less than half of their 2024 high, but the server maker has new bull that sees a recovery ahead.",
@@ -10911,21 +10921,6 @@
             "url": "https://images.nu.nl/m/0tdxdoyaxyh0_sqr256/421/0/4016/4016/eu-voert-importheffing-van-9-procent-in-op-teslas-uit-china.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/0tdxdoyaxyh0_sqr256/421/0/4016/4016/eu-voert-importheffing-van-9-procent-in-op-teslas-uit-china.jpg"
-        },
-        {
-          "id": "article-6325236",
-          "author": null,
-          "description": "Ghana heeft de ambitie om een oliespeler van belang te worden in West-Afrika. Daarvoor wordt een raffinaderij met een capaciteit voor 300.000 vaten per dag uit de grond gestampt.",
-          "link": "https://www.nu.nl/economie/6325236/ghana-pompt-11-miljard-euro-in-olie.html",
-          "publishedOn": "2024-08-20T10:17:46.000Z",
-          "wordCount": 445,
-          "title": "Ghana pompt 11 miljard euro in olie",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/5ojxvf8aioa4_sqr256/0/0/2726/2726/ghana-pompt-11-miljard-euro-in-olie.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/5ojxvf8aioa4_sqr256/0/0/2726/2726/ghana-pompt-11-miljard-euro-in-olie.jpg"
         }
       ]
     },
@@ -19832,6 +19827,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "stocks-continue-rally-sharp-fed-222133874.html",
+          "author": null,
+          "description": "(Bloomberg) -- US equities will climb through the rest of the year with the Federal Reserve’s aggressive interest-rate cut bolstering the chances of a soft landing for the economy, according to a survey of Bloomberg Terminal subscribers.Most Read from BloombergCalifornia’s Anti-Speeding Bill Can Be a Traffic Safety BreakthroughAOC Proposes $30 Billion Social Housing AuthorityNew York City’s Transit System Plans $65.4 Billion of Upgrades for Grand Central, SubwaysTo Build a Happier City, Design f",
+          "link": "https://finance.yahoo.com/news/stocks-continue-rally-sharp-fed-222133874.html",
+          "publishedOn": "2024-09-18T22:21:33.000Z",
+          "wordCount": 24347,
+          "title": "Stocks Will Continue to Rally After Sharp Fed Rate Cut, Investors Say",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/JOPBKKplg_LwF.zqqFo7RA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/8ac88fe1b94c02d3e7004c92f5c3e083"
+        },
+        {
+          "id": "fed-put-back-heres-why-220228015.html",
+          "author": null,
+          "description": "",
+          "link": "https://finance.yahoo.com/news/fed-put-back-heres-why-220228015.html",
+          "publishedOn": "2024-09-18T22:02:28.000Z",
+          "wordCount": null,
+          "title": "The 'Fed put' is back. Here's why central bankers will want to support the stock market, according to Fundstrat's Tom Lee.",
+          "imageUrl": null
+        },
+        {
           "id": "morning-bid-fed-goes-big-215019460.html",
           "author": null,
           "description": "",
@@ -19860,6 +19875,16 @@
           "wordCount": null,
           "title": "Dow Jones Futures: Stock Market Reverses Lower Despite Big Fed Rate Cut; What To Do Now",
           "imageUrl": null
+        },
+        {
+          "id": "super-micro-stocks-newest-bull-201320512.html",
+          "author": null,
+          "description": "Super Micro Computer shares are trading for less than half of their 2024 high, but the server maker has new bull that sees a recovery ahead.",
+          "link": "https://finance.yahoo.com/news/super-micro-stocks-newest-bull-201320512.html",
+          "publishedOn": "2024-09-18T20:13:20.000Z",
+          "wordCount": 23977,
+          "title": "Super Micro Stock's Newest Bull Says It's 'The Coolest Kid in AI Town'",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/vDAqRbgq5Dg.gdxQuHqWeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/ebb5972beed78d6964d2bf6d92bfd152"
         },
         {
           "id": "federal-reserve-cuts-interest-rates-by-half-a-percentage-point-stocks-end-lower-180501733.html",
@@ -47060,136 +47085,6 @@
           "wordCount": null,
           "title": "Analyst Report: Alibaba Group Holding Ltd",
           "imageUrl": null
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/technology/medtronic-stock-medtronic-earning-q1-2025/?src=A00220&yptr=yahoo",
-          "publishedOn": "2024-08-20T11:12:31.000Z",
-          "wordCount": null,
-          "title": "Medtronic Posts Modest Beat-And-Raise Report For Fiscal First Quarter",
-          "imageUrl": null
-        },
-        {
-          "id": "3-cheap-tech-stocks-buy-110300437.html",
-          "author": null,
-          "description": "These tech stocks are flying under the radar but could be big winners in the long run.",
-          "link": "https://finance.yahoo.com/news/3-cheap-tech-stocks-buy-110300437.html",
-          "publishedOn": "2024-08-20T11:03:00.000Z",
-          "wordCount": 21534,
-          "title": "3 Cheap Tech Stocks to Buy Right Now",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/0aebe1a35af2ab803969f250ec8dd8a8"
-        },
-        {
-          "id": "ARGUS_40967_MarketOutlook_1724151682000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "Find the latest Meta Platforms, Inc. (META) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_40967_MarketOutlook_1724151682000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2024-08-20T11:01:22.000Z",
-          "wordCount": 13938,
-          "title": "Daily Spotlight: Dollar Strength Reflects U.S. Economic Trends",
-          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
-        },
-        {
-          "id": "7-yielding-energy-stock-just-110100560.html",
-          "author": null,
-          "description": "Enterprise Products Partners is an income-producing machine.",
-          "link": "https://finance.yahoo.com/news/7-yielding-energy-stock-just-110100560.html",
-          "publishedOn": "2024-08-20T11:01:00.000Z",
-          "wordCount": 21295,
-          "title": "This 7%-Yielding Energy Stock Just Raised Its Dividend for the 26th Year in a Row",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ARx4YV8nQX1gfpiyqS7.5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/164c88ca76c1c77667a984800565593a"
-        },
-        {
-          "id": "trust-fund-vs-more-essential-151540181.html",
-          "author": null,
-          "description": "Estate planning involves both trust funds and wills to help ensure the smooth transition of assets to your beneficiaries. A trust fund is a legal entity that holds and manages assets on behalf of another individual or organization. A will, on the other hand, is a legal document that directs the distribution of assets after […] The post Trust Fund vs. Will for Estate Planning appeared first on SmartReads by SmartAsset.",
-          "link": "https://finance.yahoo.com/news/trust-fund-vs-more-essential-151540181.html",
-          "publishedOn": "2024-08-20T11:00:46.000Z",
-          "wordCount": 21545,
-          "title": "Deciding Between a Trust Fund and a Will: Which One Protects Your Legacy Best?",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/14413a9b6aaa2174095300d6f1c533f2"
-        },
-        {
-          "id": "im-selling-house-downsize-retirement-123000978.html",
-          "author": null,
-          "description": "When you sell your primary home, the IRS allows you to exclude a significant portion of the profit from your taxes. This exclusion – $250,000 for single filers and $500,000 for married, joint filers – is large enough that many sellers don't end up paying federal taxes on the capital gains from a home sale. […] The post I’m Selling My House to Downsize for Retirement, and I'll Net $620k. Do I Have to Pay Capital Gains Taxes? appeared first on SmartReads by SmartAsset.",
-          "link": "https://finance.yahoo.com/news/im-selling-house-downsize-retirement-123000978.html",
-          "publishedOn": "2024-08-20T11:00:05.000Z",
-          "wordCount": 21961,
-          "title": "Downsizing for Retirement: Will My $620k Profit on My House Trigger Capital Gains Taxes?",
-          "imageUrl": "https://media.zenfs.com/en/smartasset_475/576bfc7a626bcab81bfd8a382a023145"
-        },
-        {
-          "id": "unstoppable-ai-stock-next-big-110000914.html",
-          "author": null,
-          "description": "Many companies often rally after executing a split, and this company is an ideal candidate to follow suit.",
-          "link": "https://finance.yahoo.com/news/unstoppable-ai-stock-next-big-110000914.html",
-          "publishedOn": "2024-08-20T11:00:00.000Z",
-          "wordCount": 21276,
-          "title": "Is This Unstoppable AI Stock The Next Big Stock Split?",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/c13d6cd34a677333e275067a70020628"
-        },
-        {
-          "id": "ARGUS_40964_MarketSummary_1724151580000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "Find the latest Alibaba Group Holding Limited (BABA) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_40964_MarketSummary_1724151580000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2024-08-20T10:59:40.000Z",
-          "wordCount": 13919,
-          "title": "Market Digest: CNI, AMGN, EL, PSA, GEN, DEO, APO, BABA, VNT",
-          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
-        },
-        {
-          "id": "prediction-boeing-might-sell-defense-105000069.html",
-          "author": null,
-          "description": "Here's a simple, one-step solution to turn Boeing profitable again.",
-          "link": "https://finance.yahoo.com/news/prediction-boeing-might-sell-defense-105000069.html",
-          "publishedOn": "2024-08-20T10:50:00.000Z",
-          "wordCount": 21187,
-          "title": "Prediction: Boeing Might Sell Its Defense Business",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/l1W7pFow17hJ9yucUtHP9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/c08db2dd2dcf4b44a352aef6c0f3014a"
-        },
-        {
-          "id": "cathie-wood-goes-bargain-hunting-104000378.html",
-          "author": null,
-          "description": "The recent stock market dip provided some discounts.",
-          "link": "https://finance.yahoo.com/news/cathie-wood-goes-bargain-hunting-104000378.html",
-          "publishedOn": "2024-08-20T10:40:00.000Z",
-          "wordCount": 21244,
-          "title": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/4cb8a1c9b29359cf694a15672f5176af"
-        },
-        {
-          "id": "billionaire-paul-singer-just-sold-103000481.html",
-          "author": null,
-          "description": "Why Singer may have taken a position in Arm Holdings.",
-          "link": "https://finance.yahoo.com/news/billionaire-paul-singer-just-sold-103000481.html",
-          "publishedOn": "2024-08-20T10:30:00.000Z",
-          "wordCount": 21427,
-          "title": "Billionaire Paul Singer Just Sold Nvidia to Buy This Chip Stock",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/rTv0TnzH4Wd13lAZJkAoJg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/motleyfool.com/1d76050892b2c4f5d2451510fc0ca2d2"
-        },
-        {
-          "id": "ARGUS_40962_InsiderActivity_1724149357000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_40962_InsiderActivity_1724149357000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2024-08-20T10:22:37.000Z",
-          "wordCount": null,
-          "title": "Daily – Vickers Top Insider Picks for 08/20/2024",
-          "imageUrl": null
-        },
-        {
-          "id": "ARGUS_40963_TopBottomInsiderActivity_1724149357000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "author": null,
-          "description": "Find the latest GeneDx Holdings Corp. (WGS) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_40963_TopBottomInsiderActivity_1724149357000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "publishedOn": "2024-08-20T10:22:37.000Z",
-          "wordCount": 13718,
-          "title": "Daily – Vickers Top Buyers & Sellers for 08/20/2024",
-          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
         }
       ]
     }
