@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-25T02:49:44.282Z</updated>
+    <updated>2024-09-25T03:22:55.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -150,6 +150,16 @@
         <link href="https://finance.yahoo.com/news/why-taiwan-semiconductor-shares-rose-205645809.html"/>
         <updated>2024-09-24T20:56:45.000Z</updated>
         <summary type="html"><![CDATA[The U.S. approved a big new investment in chip plants.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luminar Technologies Surged Today on Potential Trade Protections]]></title>
+        <id>luminar-technologies-surged-today-potential-205207131.html</id>
+        <link href="https://finance.yahoo.com/news/luminar-technologies-surged-today-potential-205207131.html"/>
+        <updated>2024-09-24T20:52:07.000Z</updated>
+        <summary type="html"><![CDATA[Can trade protections save the company?]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -41104,26 +41114,6 @@ Revenue came in at $30.0 billion which was above t]]></summary>
         <summary type="html"><![CDATA[Outback Steakhouse parent Bloomin’ Brands named ex-Delta Air Lines Chief Operating Officer Michael Spanos its new CEO.]]></summary>
         <author>
             <name>Investopedia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegram-oprichter Pavel Durov zit nog steeds vast in Frankrijk]]></title>
-        <id>article-6325959</id>
-        <link href="https://www.nu.nl/tech/6325959/telegram-oprichter-pavel-durov-zit-nog-steeds-vast-in-frankrijk.html"/>
-        <updated>2024-08-26T15:09:16.000Z</updated>
-        <summary type="html"><![CDATA[Telegram-baas Pavel Durov zit nog steeds vast in Frankrijk. Hij wordt onderzocht door de nationale cybercrime-eenheid en het nationale fraudebureau, zegt een woordvoerder van de Franse politie maandag tegen persbureau Reuters.]]></summary>
-        <author>
-            <name>NU - Economie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overname Centric van veelbesproken Sanderink goedgekeurd door waakhond]]></title>
-        <id>article-6325955</id>
-        <link href="https://www.nu.nl/economie/6325955/overname-centric-van-veelbesproken-sanderink-goedgekeurd-door-waakhond.html"/>
-        <updated>2024-08-26T15:02:11.000Z</updated>
-        <summary type="html"><![CDATA[De Autoriteit Consument & Markt (ACM) heeft toestemming gegeven voor de overname van het geplaagde IT-bedrijf Centric van zakenman Gerard Sanderink. Het bedrijf is verkocht aan een groep Nederlandse ondernemers.]]></summary>
-        <author>
-            <name>NU - Economie</name>
         </author>
     </entry>
 </feed>
