@@ -10381,21 +10381,6 @@
             "url": "https://images.nu.nl/m/ivoxb8katpsa_sqr256/0/0/4521/4521/studeren-is-duur-hoe-druk-je-de-kosten.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/ivoxb8katpsa_sqr256/0/0/4521/4521/studeren-is-duur-hoe-druk-je-de-kosten.jpg"
-        },
-        {
-          "id": "article-6326398",
-          "author": null,
-          "description": "Studenten worden vanaf maandag weer klaargestoomd voor hun toekomstige banen. Het maakt ze weinig uit dat een studie in de ICT een beter arbeidsmarktperspectief biedt dan een studie in de richting journalistiek. Is dat zorgelijk?",
-          "link": "https://www.nu.nl/economie/6326398/het-maakt-studenten-niet-uit-of-een-studie-weinig-kans-op-werk-geeft.html",
-          "publishedOn": "2024-08-31T13:44:11.000Z",
-          "wordCount": 417,
-          "title": "NU+ | Het maakt studenten niet uit of een studie weinig kans op werk geeft",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/qujxchpaawj0_sqr256/243/0/3796/3796/het-maakt-studenten-niet-uit-of-een-studie-weinig-kans-op-werk-geeft.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/qujxchpaawj0_sqr256/243/0/3796/3796/het-maakt-studenten-niet-uit-of-een-studie-weinig-kans-op-werk-geeft.jpg"
         }
       ]
     },
@@ -10404,6 +10389,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8720260",
+          "author": "Timothy Smith",
+          "description": "Gold prices will likely remain in focus on Monday after setting record highs last week. Monitor these key chart levels.",
+          "link": "https://www.investopedia.com/watch-these-gold-price-levels-as-precious-metal-trades-near-record-high-8720260",
+          "publishedOn": "2024-09-30T02:21:15.000Z",
+          "wordCount": 6297,
+          "title": "Watch These Gold Price Levels as Precious Metal Trades Near Record High",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/iv0EGKzoVaOaZK7amSfNO0Yh1Lo=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GOLDChart-82d346678b3b466f92a6fb717993033e.gif",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/iv0EGKzoVaOaZK7amSfNO0Yh1Lo=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GOLDChart-82d346678b3b466f92a6fb717993033e.gif"
+        },
         {
           "id": "8718986",
           "author": "Terry Lane",
@@ -18452,6 +18452,46 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "japan-stocks-set-fall-rate-224439187.html",
+          "author": null,
+          "description": "(Bloomberg) -- Japanese stocks will likely tumble after Shigeru Ishiba’s surprise victory in the ruling party’s leadership race raised expectations that interest rates will increase. Most Read from BloombergA 7,000-Year-Old City Emerges as a Haven from Dubai’s Sky-High RentsClimate Migrants Stand to Overwhelm World’s MegacitiesNew Rowhouses in London That Offer a Bridge to the 19th CenturyVanderbilt Leases Struggling NYC Seminary for Campus ExpansionNJ Transit, Amtrak Trains Delayed After Derail",
+          "link": "https://finance.yahoo.com/news/japan-stocks-set-fall-rate-224439187.html",
+          "publishedOn": "2024-09-30T02:14:25.000Z",
+          "wordCount": 24395,
+          "title": "Japanese Stocks Falter as Ishiba’s Win Wrongfoots Easing Bets",
+          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/0c440069de83f62a67cb9cb6dc265d71"
+        },
+        {
+          "id": "chinese-stocks-soar-most-since-013553349.html",
+          "author": null,
+          "description": "(Bloomberg) -- Chinese shares look poised to enter the bull market, after authorities rolled out fresh property easing steps as part of a stimulus package unveiled last week. Most Read from BloombergA 7,000-Year-Old City Emerges as a Haven from Dubai’s Sky-High RentsClimate Migrants Stand to Overwhelm World’s MegacitiesNew Rowhouses in London That Offer a Bridge to the 19th CenturyVanderbilt Leases Struggling NYC Seminary for Campus ExpansionWhere Cargo Bikes Are Freeing Cities From Polluting Va",
+          "link": "https://finance.yahoo.com/news/chinese-stocks-soar-most-since-013553349.html",
+          "publishedOn": "2024-09-30T02:11:42.000Z",
+          "wordCount": 23893,
+          "title": "Chinese Stocks Soar Most Since 2015, Heading for Bull Market",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/wdb.CNbQib3MawLrvnSyWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/fec4374b4cf46a42810773baffe5f805"
+        },
+        {
+          "id": "crypto-billionaire-zhao-vows-more-012904700.html",
+          "author": null,
+          "description": "(Bloomberg) -- Billionaire Changpeng Zhao pledged to keep investing in the blockchain sector as well as artificial intelligence and biotechnology, in the crypto mogul’s first public comments since his release from US custody.Most Read from BloombergA 7,000-Year-Old City Emerges as a Haven from Dubai’s Sky-High RentsClimate Migrants Stand to Overwhelm World’s MegacitiesNew Rowhouses in London That Offer a Bridge to the 19th CenturyVanderbilt Leases Struggling NYC Seminary for Campus ExpansionWher",
+          "link": "https://finance.yahoo.com/news/crypto-billionaire-zhao-vows-more-012904700.html",
+          "publishedOn": "2024-09-30T01:29:04.000Z",
+          "wordCount": 23966,
+          "title": "Crypto Billionaire Zhao Vows More Tech Investment After Leaving US Custody",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/PUMjiIpfswe1V8w9okgOVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/ece9d98bd293dba59b74680df68e0b37"
+        },
+        {
+          "id": "japans-nikkei-index-sinks-4-005832373.html",
+          "author": null,
+          "description": "Japan’s benchmark Nikkei 225 index tumbled nearly 5% early Monday after the country’s ruling Liberal Democrats chose Shigeru Ishiba, a former defense minister, as the next prime minister.  Ishiba is due Tuesday to succeed current Prime Minister Fumio Kishida, who resigned as his popularity rating sank.  After winning the party’s vote on Friday, Ishiba said he would mostly continue with Kishida’s approach to trying to revive Japan’s sluggish economic growth.",
+          "link": "https://finance.yahoo.com/news/japans-nikkei-index-sinks-4-005832373.html",
+          "publishedOn": "2024-09-30T00:58:32.000Z",
+          "wordCount": 23886,
+          "title": "Japan's Nikkei index sinks 4.7% after ruling party chooses Ishiba as next prime minister",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        },
+        {
           "id": "japan-stocks-poised-fall-rate-224912045.html",
           "author": null,
           "description": "(Bloomberg) -- Japanese stocks are set to slump early Monday after ruling party elections raised expectations of further central bank interest rate hikes. Traders will also be closely watching events in the Middle East.Most Read from BloombergA 7,000-Year-Old City Emerges as a Haven from Dubai’s Sky-High RentsClimate Migrants Stand to Overwhelm World’s MegacitiesNew Rowhouses in London That Offer a Bridge to the 19th CenturyVanderbilt Leases Struggling NYC Seminary for Campus ExpansionNJ Transit",
@@ -18960,6 +19000,16 @@
           "wordCount": 24671,
           "title": "A Bull Market Is Here: 2 Magnificent S&P 500 Dividend Stocks Down 50% and 61% to Buy Right Now",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/GCW_MVNsqpmMvnXW17IMJw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/motleyfool.com/1241c52d8516a401292151592ed3db43"
+        },
+        {
+          "id": "where-berkshire-hathaway-stock-5-070600447.html",
+          "author": null,
+          "description": "What does the next five years look like for the legendary company?",
+          "link": "https://finance.yahoo.com/news/where-berkshire-hathaway-stock-5-070600447.html",
+          "publishedOn": "2024-09-29T07:06:00.000Z",
+          "wordCount": 24527,
+          "title": "Where Will Berkshire Hathaway Stock Be in 5 Years?",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/5ecda620342b3584d5064dad80315e48"
         },
         {
           "id": "analyst-3-auto-stocks-070000340.html",
@@ -44370,66 +44420,6 @@
           "wordCount": null,
           "title": "Banks May Think Twice Before Lowering Savings Account Rates in Lockstep with the Fed",
           "imageUrl": null
-        },
-        {
-          "id": "2-monster-stocks-hold-next-144300321.html",
-          "author": null,
-          "description": "These emerging brands can help you build lasting wealth.",
-          "link": "https://finance.yahoo.com/news/2-monster-stocks-hold-next-144300321.html",
-          "publishedOn": "2024-08-31T14:43:00.000Z",
-          "wordCount": 21442,
-          "title": "2 Monster Stocks to Hold for the Next 20 Years",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/MZnUGRu.z9SMjBRJ1rnBww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDM-/https://media.zenfs.com/en/motleyfool.com/5b76ce316aee475ee7608568c1232201"
-        },
-        {
-          "id": "stocks-does-donald-trump-own-140021169.html",
-          "author": null,
-          "description": "As Donald Trump campaigns for a return to the White House, his latest financial disclosure offers a look into the investment strategy of the businessman-turned-politician.The Aug. 13, 2024, filing shows a portfolio that spans from high-flying tech stocks to reliable dividend payers. Outside of the individual stocks Trump owns, his disclosure lists real estate holdings valued in the hundreds of millions, and government bonds valued in the millions. Don't Miss: This billion-dollar fund has investe",
-          "link": "https://finance.yahoo.com/news/stocks-does-donald-trump-own-140021169.html",
-          "publishedOn": "2024-08-31T14:00:21.000Z",
-          "wordCount": 21379,
-          "title": "What Stocks Does Donald Trump Own? New Financial Disclosure Revealed",
-          "imageUrl": "https://media.zenfs.com/en/Benzinga/4ad2eaad50f2746b858a07812ede575f"
-        },
-        {
-          "id": "14-trillion-passive-income-investment-133500965.html",
-          "author": null,
-          "description": "Freestanding commercial real estate is a goldmine of passive income.",
-          "link": "https://finance.yahoo.com/news/14-trillion-passive-income-investment-133500965.html",
-          "publishedOn": "2024-08-31T13:35:00.000Z",
-          "wordCount": 21607,
-          "title": "A $14 Trillion Passive Income Investment Opportunity Is Hiding in Plain Sight (and It's Easier to Access Than You Think)",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/78f88651b48619d690cbae114388def9"
-        },
-        {
-          "id": "3-reasons-buy-general-motors-133200554.html",
-          "author": null,
-          "description": "The automaker trades for a ridiculously cheap valuation even though it has massive potential.",
-          "link": "https://finance.yahoo.com/news/3-reasons-buy-general-motors-133200554.html",
-          "publishedOn": "2024-08-31T13:32:00.000Z",
-          "wordCount": 21407,
-          "title": "3 Reasons to Buy General Motors Stock Like There's No Tomorrow",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/E5ceulT4MPLzccUo7tG6Zw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/0bc0eb1ebff79d4d0a6111b420df6705"
-        },
-        {
-          "id": "prediction-artificial-intelligence-ai-stock-133100646.html",
-          "author": null,
-          "description": "Check out how it hopes to disrupt a gigantic target market.",
-          "link": "https://finance.yahoo.com/news/prediction-artificial-intelligence-ai-stock-133100646.html",
-          "publishedOn": "2024-08-31T13:31:00.000Z",
-          "wordCount": 21709,
-          "title": "Prediction: This Artificial Intelligence (AI) Stock Is Going to Make Big Moves in 2025. Here's Why.",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/iWebAwwfhKESAtKNN4hD1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/motleyfool.com/32fdf7a9063cf4c140643e72630ec90c"
-        },
-        {
-          "id": "forget-walmart-target-buy-underrated-133000284.html",
-          "author": null,
-          "description": "TJX's comparable-sales growth was similar to Walmart's last quarter, and it's trading at a much lower earnings multiple.",
-          "link": "https://finance.yahoo.com/news/forget-walmart-target-buy-underrated-133000284.html",
-          "publishedOn": "2024-08-31T13:30:00.000Z",
-          "wordCount": 21415,
-          "title": "Forget Walmart and Target, Buy This Underrated Retail Stock Instead",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/50f4efd9accaca7b5360bdb0f38c4b70"
         }
       ]
     }
