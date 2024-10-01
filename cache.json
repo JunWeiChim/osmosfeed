@@ -2921,6 +2921,26 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "90f8e656985999a83c695620728e171b",
+          "author": "Investopedia",
+          "description": "The S&P 500 fell 0.9% on Tuesday, Oct. 1, 2024, amid concerns about the economic impact of a strike by workers at major port facilities.",
+          "link": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-port-strike-humana-dell-paychex-oil-8721413",
+          "publishedOn": "2024-10-01T21:13:00.000Z",
+          "wordCount": 6347,
+          "title": "S&P 500 Gains and Losses Today: Index Falls as Port Workers Begin Strike",
+          "imageUrl": "https://www.investopedia.com/thmb/b33zHJD2kFX6g_-0_8ghUM6KC5M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2158289909-8f6ec80ddf5845a08b4457494e3ba988.jpg"
+        },
+        {
+          "id": "a6609dd1efd3c9cb3b39f1054000e0cb",
+          "author": "Investopedia",
+          "description": "Shares of government services firm Amentum tumbled Tuesday, giving back gains from the stock's first day of trading after joining the S&P 500.",
+          "link": "https://www.investopedia.com/amentum-stock-reverses-its-gains-after-joining-s-and-p-500-8721520",
+          "publishedOn": "2024-10-01T21:07:00.000Z",
+          "wordCount": 6432,
+          "title": "Amentum Stock Reverses Its Gains After Joining S&P 500",
+          "imageUrl": "https://www.investopedia.com/thmb/GbmYlNG74KpbvyxBcT2I21jVo2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV_SP500_GettyImages-1241275559-8492e9ac5ff140439d0ae72f78a2035e.jpg"
+        },
+        {
           "id": "1bea3d8a4c672ebaa1aa03189637855f",
           "author": "Investopedia",
           "description": "Crude oil jumped Tuesday as Iran fired missiles into Israel, in an escalation of tensions in the Middle East.",
@@ -11029,6 +11049,36 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8721606",
+          "author": "Andrew Kessel",
+          "description": "Nike shares tumbled in extended trading Tuesday after the company withdrew its full-year forecast ahead of its transition to a new CEO later this month.",
+          "link": "https://www.investopedia.com/nike-stock-swoons-as-apparel-giant-withdraws-full-year-outlook-ahead-of-ceo-change-8721606",
+          "publishedOn": "2024-10-01T22:01:51.000Z",
+          "wordCount": 6146,
+          "title": "Nike Stock Swoons as Apparel Giant Withdraws Full-Year Outlook Ahead of CEO Change",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/uHBs_dy2_kOWbEA2TDBfVWoHl4c=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2159030835-705cd59c928f4c2fab8088bdcc02fc98.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/uHBs_dy2_kOWbEA2TDBfVWoHl4c=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2159030835-705cd59c928f4c2fab8088bdcc02fc98.jpg"
+        },
+        {
+          "id": "8721413",
+          "author": "Michael Bromberg",
+          "description": "The S&P 500 fell 0.9% on Tuesday, Oct. 1, 2024, amid concerns about the economic impact of a strike by workers at major port facilities.",
+          "link": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-port-strike-humana-dell-paychex-oil-8721413",
+          "publishedOn": "2024-10-01T21:13:50.000Z",
+          "wordCount": 6337,
+          "title": "S&P 500 Gains and Losses Today: Index Falls as Port Workers Begin Strike",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/IGaUyyLLbJ22yyQaotNv7ShIvAk=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2158289909-8f6ec80ddf5845a08b4457494e3ba988.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/IGaUyyLLbJ22yyQaotNv7ShIvAk=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2158289909-8f6ec80ddf5845a08b4457494e3ba988.jpg"
+        },
         {
           "id": "8721520",
           "author": "Michael Bromberg",
@@ -19782,6 +19832,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "nike-stock-tumbles-as-company-withdraws-guidance-amid-ceo-change-202320693.html",
+          "author": null,
+          "description": "Nike is set to release its first earnings report since announcing a new CEO will be starting with the apparel giant in October.",
+          "link": "https://finance.yahoo.com/news/nike-stock-tumbles-as-company-withdraws-guidance-amid-ceo-change-202320693.html",
+          "publishedOn": "2024-10-01T20:23:20.000Z",
+          "wordCount": 24349,
+          "title": "Nike stock tumbles as company withdraws guidance amid CEO change",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/gcXieCFe3Ed_4CzCRy5MDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/582185a0-7f5e-11ef-bf5b-1fcc2e2b3b49"
+        },
+        {
           "id": "nike-stock-wavers-as-revenue-falls-short-of-wall-street-estimates-202320591.html",
           "author": null,
           "description": "Nike is set to release its first earnings report since announcing a new CEO will be starting with the apparel giant in October.",
@@ -20080,6 +20140,16 @@
           "wordCount": null,
           "title": "Nvidia Is No Longer The Top S&P 500 Stock In 2024. Meet The New King.",
           "imageUrl": null
+        },
+        {
+          "id": "taiwan-semiconductors-2-nm-breakthrough-114331744.html",
+          "author": null,
+          "description": "Taiwan Semiconductor Manufacturing Co (NYSE:TSM) has multiple reasons to celebrate; the latest is China’s comment on its technology moat. National Science and Technology Council (NSTC) Minister Wu Cheng-wen said China lags behind Taiwan Semiconductor’s advanced technology semiconductor manufacturing by at least a decade, the Taipei Times cites from a Legislative Yuan Education and Culture Committee meeting Monday. Cheng-wen credited the Taiwanese contract chipmaker’s lead to its progress to 2 na",
+          "link": "https://finance.yahoo.com/news/taiwan-semiconductors-2-nm-breakthrough-114331744.html",
+          "publishedOn": "2024-10-01T11:43:31.000Z",
+          "wordCount": 24242,
+          "title": "Taiwan Semiconductor's 2-Nm Breakthrough Puts Taiwan a Decade Ahead of China's Semiconductor Industry: Report",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/82c88ac4dace04e14b5352be30f13f92"
         },
         {
           "id": "upcoming-stock-splits-week-september-113516762.html",
@@ -45830,166 +45900,6 @@
           "wordCount": 20988,
           "title": "Intel CEO to propose cost reduction measures",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/aGOBDRljP6_vWzdSjbuCZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/verdict_626/d99c7d3192224881d2d6bd9b03914133"
-        },
-        {
-          "id": "could-only-buy-1-dividend-101100607.html",
-          "author": null,
-          "description": "Brookfield Infrastructure is a wealth-creating and income-producing machine.",
-          "link": "https://finance.yahoo.com/news/could-only-buy-1-dividend-101100607.html",
-          "publishedOn": "2024-09-02T10:11:00.000Z",
-          "wordCount": 21565,
-          "title": "If I Could Only Buy 1 Dividend Stock in September, This Would Be My Top Choice",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/qM4QhvYSfAezdGfw2uTmnQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/c59fc3516a5ce1a1d175e06535d231a0"
-        },
-        {
-          "id": "prediction-bitcoin-could-see-massive-100900516.html",
-          "author": null,
-          "description": "Bitcoin could have plenty more in store for investors by the end of the year.",
-          "link": "https://finance.yahoo.com/news/prediction-bitcoin-could-see-massive-100900516.html",
-          "publishedOn": "2024-09-02T10:09:00.000Z",
-          "wordCount": 21572,
-          "title": "Prediction: Bitcoin Could See a Massive Jump by 2025 for These 3 Reasons",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/WlQ_VhNK0Jpm.Rsl9QWZig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/ad0d7587c1a493e27c84a58ce454b73b"
-        },
-        {
-          "id": "hp-confirms-pursue-mike-lynch-100740331.html",
-          "author": null,
-          "description": "Hewlett Packard moved to end speculation that it would end its case against Lynch over PR concerns.",
-          "link": "https://finance.yahoo.com/news/hp-confirms-pursue-mike-lynch-100740331.html",
-          "publishedOn": "2024-09-02T10:07:40.000Z",
-          "wordCount": 21124,
-          "title": "HP confirms it will pursue Mike Lynch’s grieving family for $4 billion",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/tdIkMgb6QRuJ0.7G58Tsyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/fortune_175/248efde41f1eef898525b4d56eb447b1"
-        },
-        {
-          "id": "customers-indian-crypto-exchange-wazirx-100501376.html",
-          "author": null,
-          "description": "Customers of WazirX, the Indian cryptocurrency exchange that suffered a $234 million hack in July, are unlikely to recover their funds in full through the ongoing restructuring process, a company legal adviser said on Monday.  George Gwee, a director at restructuring firm Kroll working with WazirX, said that at least 43% of the money any customer had in WazirX is unlikely to be recovered.  Last week, WazirX asked a Singapore High Court for six months' protection while it restructures its liabilities.",
-          "link": "https://finance.yahoo.com/news/customers-indian-crypto-exchange-wazirx-100501376.html",
-          "publishedOn": "2024-09-02T10:05:01.000Z",
-          "wordCount": 21130,
-          "title": "Customers of Indian crypto exchange WazirX unlikely to recover full funds",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/vzCjL12O984H.9NXMY1R6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mzk-/https://media.zenfs.com/en/techcrunch_350/82b247d2f528c7a023bec3a34aabbf74"
-        },
-        {
-          "id": "3-no-brainer-artificial-intelligence-100300300.html",
-          "author": null,
-          "description": "AI spending is forecast to triple over the next few years. These companies are positioned to benefit.",
-          "link": "https://finance.yahoo.com/news/3-no-brainer-artificial-intelligence-100300300.html",
-          "publishedOn": "2024-09-02T10:03:00.000Z",
-          "wordCount": 22020,
-          "title": "3 No-Brainer Artificial Intelligence (AI) Stocks to Buy With $200 Right Now",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Ku2dbebpH2Tc9SBfxgbdyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/6e6fab76a851251efca95079aff2bf80"
-        },
-        {
-          "id": "cd-rates-today-monday-september-2-2024-100052892.html",
-          "author": null,
-          "description": "Compare the best CD rates available today vs. the national average.",
-          "link": "https://finance.yahoo.com/personal-finance/cd-rates-today-monday-september-2-2024-100052892.html",
-          "publishedOn": "2024-09-02T10:00:52.000Z",
-          "wordCount": 21101,
-          "title": "CD rates today, September 2, 2024 (earn up to 4.70% APY)",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/YNb1M9UxogCoxhCtpOUusg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e1-4f64-11ef-bcf5-d7c22925c744"
-        },
-        {
-          "id": "savings-interest-rates-today-monday-september-2-2024-100045382.html",
-          "author": null,
-          "description": "Compare the best savings interest rates available today vs. the national average.",
-          "link": "https://finance.yahoo.com/personal-finance/savings-interest-rates-today-monday-september-2-2024-100045382.html",
-          "publishedOn": "2024-09-02T10:00:45.000Z",
-          "wordCount": 21133,
-          "title": "Savings interest rates today, September 2, 2024 (earn up to 5.50% APY)",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/1RCI97U8KV1L2ZurZW7kOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/0a4cca40-4b7b-11ef-abf9-2f9f6d2c2f16"
-        },
-        {
-          "id": "mortgage-refinance-rates-today-monday-september-2-2024-100034593.html",
-          "author": null,
-          "description": "These are today's mortgage and refinance rates. ARM rates are much higher than fixed rates right now. The 30-year fixed rate is under 6%. Lock in your rate today.",
-          "link": "https://finance.yahoo.com/personal-finance/mortgage-refinance-rates-today-monday-september-2-2024-100034593.html",
-          "publishedOn": "2024-09-02T10:00:34.000Z",
-          "wordCount": 21699,
-          "title": "Mortgage and refinance rates today, September 2, 2024: Are ARMs still a good deal?",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/blq3t9wTi4tOOBJGHA0yLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/480de4d0-03ec-11ef-bfff-fe31b82eccd6"
-        },
-        {
-          "id": "billionaire-bill-gates-54-trust-095100633.html",
-          "author": null,
-          "description": "The Bill & Melinda Gates Foundation Trust has big positions in Microsoft and Berkshire Hathaway.",
-          "link": "https://finance.yahoo.com/news/billionaire-bill-gates-54-trust-095100633.html",
-          "publishedOn": "2024-09-02T09:51:00.000Z",
-          "wordCount": 21714,
-          "title": "Billionaire Bill Gates Has 54% of His Trust Invested in 2 Brilliant Stocks",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/A_l4B.iSSvoUU7iGzfiAkw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/866eb76aa9c240182044f03995558ea5"
-        },
-        {
-          "id": "much-higher-p-500-jumping-095000062.html",
-          "author": null,
-          "description": "If history is a guide, investors can be optimistic about the rest of the year.",
-          "link": "https://finance.yahoo.com/news/much-higher-p-500-jumping-095000062.html",
-          "publishedOn": "2024-09-02T09:50:00.000Z",
-          "wordCount": 21402,
-          "title": "How Much Higher Will the S&P 500 Go This Year After Jumping Nearly 19%? Here's What History Shows.",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Y7eG4U3i__oiD_U8YEEAYg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/motleyfool.com/9fb7bbb6686eaaa1595400ba55e99629"
-        },
-        {
-          "id": "nvidia-stock-price-investment-opportunity-2a82215d?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/nvidia-stock-price-investment-opportunity-2a82215d?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-09-02T09:47:00.000Z",
-          "wordCount": null,
-          "title": "Nvidia Earnings Were Good, but Not Perfect. 3 Things You May Have Missed.",
-          "imageUrl": null
-        },
-        {
-          "id": "tired-laboring-income-dividend-stocks-093200490.html",
-          "author": null,
-          "description": "These companies produce lots of passive income.",
-          "link": "https://finance.yahoo.com/news/tired-laboring-income-dividend-stocks-093200490.html",
-          "publishedOn": "2024-09-02T09:32:00.000Z",
-          "wordCount": 21566,
-          "title": "Tired of Laboring for Your Income? These Dividend Stocks Can Put Your Money to Work and Make You Some Passive Income.",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/eYQ.C2EP_BS2.UVSco1daA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/f48544b98ae49ed340500b38671d14b5"
-        },
-        {
-          "id": "nvidia-ai-servers-data-centers-ab7ad6a0?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.wsj.com/tech/ai/nvidia-ai-servers-data-centers-ab7ad6a0?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-09-02T09:30:00.000Z",
-          "wordCount": null,
-          "title": "Nvidia Takes an Added Role Amid AI Craze: Data-Center Designer",
-          "imageUrl": null
-        },
-        {
-          "id": "chinese-tycoons-using-stock-borrow-093000536.html",
-          "author": null,
-          "description": "Facing liquidity challenges, affluent people in Hong Kong and mainland China are increasingly turning to private lenders and using stocks as collateral for borrowing. As public capital markets have yet to fully recover, traditional banks remain cautious about lending. Meanwhile, property market woes continue, leaving stocks as the best collateral option for some ultra-high-net-worth individuals (UHNWIs) to generate liquidity. \"The liquidity constraints felt by UHNWIs are very real,\" said Gordon",
-          "link": "https://finance.yahoo.com/news/chinese-tycoons-using-stock-borrow-093000536.html",
-          "publishedOn": "2024-09-02T09:30:00.000Z",
-          "wordCount": 21492,
-          "title": "Chinese tycoons are using stock to borrow from private lenders as bank liquidity dries up",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/jUhsMvc9gTQtrFhnr2BlBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMzc4/https://media.zenfs.com/en/south_china_morning_post_us_228/00f599de2a2a6c6c8ea831e4b57ed10d"
-        },
-        {
-          "id": "csc-holdings-buy-stake-cs-093000684.html",
-          "author": null,
-          "description": "Hong Kong-listed CSC Holdings, chaired by former Hang Seng Bank CEO Raymond Or Ching-fai, will buy a stake in Citystate Savings Bank (CS Bank) of the Philippines for 736 million pesos (US$13 million), in an effort to expand into Southeast Asia's financial markets. On Monday, CSC said it would buy 26.8 per cent of all the issued and outstanding capital stock of CS Bank, a licensed thrift bank that is listed on the Philippine Stock Exchange. Thrift banks generally focus on accepting savings deposi",
-          "link": "https://finance.yahoo.com/news/csc-holdings-buy-stake-cs-093000684.html",
-          "publishedOn": "2024-09-02T09:30:00.000Z",
-          "wordCount": 21352,
-          "title": "CSC Holdings to buy stake in CS Bank of the Philippines for US$13 million",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/LXX913JA8KCZstYYpGu_JQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Njk-/https://media.zenfs.com/en/south_china_morning_post_us_228/be1a2cb07ab67176345664c0114ac593"
-        },
-        {
-          "id": "top-hong-kong-insurer-hsbc-093000787.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/top-hong-kong-insurer-hsbc-093000787.html",
-          "publishedOn": "2024-09-02T09:30:00.000Z",
-          "wordCount": null,
-          "title": "Top Hong Kong insurer HSBC Life targets Asia's rich, Greater Bay Area retirees for growth",
-          "imageUrl": null
         }
       ]
     }
