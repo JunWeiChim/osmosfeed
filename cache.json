@@ -2561,6 +2561,16 @@
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
         {
+          "id": "963d32dd67a6b2372ed7ef0f96fa50a3",
+          "author": "Investopedia",
+          "description": "Investors were once again resetting on Monday after last week's strong jobs report upended the market's predictions about how aggressively the Federal Reserve will cut interest rates over the next year.",
+          "link": "https://www.investopedia.com/wall-street-interest-rate-cut-expectations-jobs-report-inflation-8724360",
+          "publishedOn": "2024-10-07T18:17:00.000Z",
+          "wordCount": 6825,
+          "title": "Why Wall Street's Hopes for Big Interest Rate Cuts Have Dimmed, and What's Next",
+          "imageUrl": "https://www.investopedia.com/thmb/6aBAbLHFkUKBMMlJ7NGjdy2Pgmk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2176503298-f78aecc26ed244c9b02992297efc6f1b.jpg"
+        },
+        {
           "id": "22eba7280e041ffd7b0d39a171a91405",
           "author": "Investopedia",
           "description": "Super Micro Computer shares soared Monday as the server maker reported booming demand for artificial intelligence is driving shipments of its CPUs.",
@@ -10729,6 +10739,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8724360",
+          "author": "Colin Laidley",
+          "description": "After a Strong Jobs Report, Some Are Pricing in the Chance the Fed Won't Cut in November",
+          "link": "https://www.investopedia.com/wall-street-interest-rate-cut-expectations-jobs-report-inflation-8724360",
+          "publishedOn": "2024-10-07T18:17:53.000Z",
+          "wordCount": 6806,
+          "title": "Why Wall Street's Hopes for Big Interest Rate Cuts Have Dimmed, and What's Next",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/evRowyX_k7fgUbY69MB5rx0Wmv0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2176503298-f78aecc26ed244c9b02992297efc6f1b.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/evRowyX_k7fgUbY69MB5rx0Wmv0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2176503298-f78aecc26ed244c9b02992297efc6f1b.jpg"
+        },
         {
           "id": "8724244",
           "author": "Andrew Kessel",
@@ -18912,6 +18937,26 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "scholar-rock-shares-quadruple-on-positive-drug-study-results-ZW8z0A55mrFVtTUDE5Iq?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-10-07-2024/card/scholar-rock-shares-quadruple-on-positive-drug-study-results-ZW8z0A55mrFVtTUDE5Iq?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-10-07T17:29:27.000Z",
+          "wordCount": null,
+          "title": "Scholar Rock Shares Quadruple On Positive Drug-Study Results",
+          "imageUrl": null
+        },
+        {
+          "id": "super-micro-computer-is-having-a-super-day-ESODdBXl1NI0XRcSmtOM?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-10-07-2024/card/super-micro-computer-is-having-a-super-day-ESODdBXl1NI0XRcSmtOM?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-10-07T17:18:23.000Z",
+          "wordCount": null,
+          "title": "Super Micro Computer Is Having a Super Day",
+          "imageUrl": null
+        },
+        {
           "id": "super-micro-computer-stock-surges-165635373.html",
           "author": null,
           "description": "Super Micro Computer shares soared Monday as the server maker reported booming demand for artificial intelligence is driving shipments of its GPUs.",
@@ -18930,6 +18975,16 @@
           "wordCount": 24160,
           "title": "Why Super Micro Computer Stock Popped Monday",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/VR5aRVuZzvi32bX7GD33wg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/28879c43e5bdee17d882acef1fa50173"
+        },
+        {
+          "id": "40-44-co-founders-left-164516628.html",
+          "author": null,
+          "description": "Billionaire investor Mark Cuban was recently a guest on the All-In Podcast with Chamath Palihapitiya, Jason Calacanis and David Sacks. Cuban made a bold claim, joking that 40 of the 44 co-founders of OpenAI have left the company. While this statement caught the attention of everyone in the room, Cuban later clarified he was exaggerating to make a point, drawing a comparison to the turnover seen in Donald Trump's cabinet during his presidency. Don't Miss: Amid the ongoing EV revolution, previousl",
+          "link": "https://finance.yahoo.com/news/40-44-co-founders-left-164516628.html",
+          "publishedOn": "2024-10-07T16:45:16.000Z",
+          "wordCount": 24673,
+          "title": "'40 Of The 44 Co-Founders Left,' Says Mark Cuban. Argues, 'There's Nothing That Says That OpenAI Is Going To Win'",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/7c2ee957eacd8768b9701eb3ee72dbaf"
         },
         {
           "id": "super-micro-shares-surge-ai-164038782.html",
@@ -44730,26 +44785,6 @@
           "wordCount": 22151,
           "title": "As Volkswagen weighs its first closure of a German auto plant, workers aren't the only ones worried",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Rcc3DhPVPj5jBwXna73IxA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/ca426c5af4ff7ecefe5ae86f2f44a1c2"
-        },
-        {
-          "id": "dividend-growth-stocks-etf-market-ebb0b28b?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/dividend-growth-stocks-etf-market-ebb0b28b?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-09-08T07:00:00.000Z",
-          "wordCount": null,
-          "title": "5 Dividend Growth Stocks—and an ETF—Offering Shelter From a Wobbly Market",
-          "imageUrl": null
-        },
-        {
-          "id": "ecb-poised-cut-rates-again-200000950.html",
-          "author": null,
-          "description": "(Bloomberg) -- The European Central Bank will probably cut interest rates on Thursday in a prelude to a US move the following week, as the global monetary cycle tilts toward more synchronized easing.Most Read from BloombergWorld's Second Tallest Tower Spurs Debate About Who Needs ItThe Plan for the World’s Most Ambitious Skyscraper RenovationUC Berkeley Gives Transfer Students a Purpose-Built Home on CampusRome May Start Charging Entry to the Trevi FountainMadrid to Ban E-Scooter Rentals, Follow",
-          "link": "https://finance.yahoo.com/news/ecb-poised-cut-rates-again-200000950.html",
-          "publishedOn": "2024-09-08T06:42:06.000Z",
-          "wordCount": 22552,
-          "title": "ECB Is Poised to Cut Rates Again in Warm-Up Act for the Fed",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/GM7qGB8cVO40X9ctRCYsfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/2ce207fd5582fefe0e08f87c1fd23510"
         }
       ]
     }
