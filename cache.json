@@ -10875,6 +10875,21 @@
       "siteUrl": "https://www.investopedia.com",
       "articles": [
         {
+          "id": "8725405",
+          "author": "Nisha Gopalan",
+          "description": "The U.S. Department of Justice (DOJ) has submitted a filing giving a federal court a framework for restructuring Alphabet's Google, including breaking up the tech giant for an illegal monopoly over search.",
+          "link": "https://www.investopedia.com/doj-mulls-breakup-of-google-to-improve-search-competition-8725405",
+          "publishedOn": "2024-10-09T10:53:11.000Z",
+          "wordCount": 6281,
+          "title": "DOJ Mulls Breakup of Google To Improve Search Competition",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/7iAuTBoD0t9_aKhlQekjk_PVQ7I=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2166130918-4357b2f74c424d3f996a59d1fc87dd49.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/7iAuTBoD0t9_aKhlQekjk_PVQ7I=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2166130918-4357b2f74c424d3f996a59d1fc87dd49.jpg"
+        },
+        {
           "id": "8725354",
           "author": "Timothy Smith",
           "description": "Palantir shares jumped more than 6% on Tuesday to a record high on optimism about the analytics software provider's opportunities during the AI boom. Monitor these key chart levels.",
@@ -19133,21 +19148,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/2aYfWOuVYviQHvi7OBQHvqSUBTk=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/ORCLChart-b84dc38ad1de41e48288466fabdcde31.gif"
-        },
-        {
-          "id": "8708599",
-          "author": "Bill McColl",
-          "description": "A new report on the state of U.S. electric vehicle infrastructure showed that development of electric vehicles is growing, though disparities by region continue.",
-          "link": "https://www.investopedia.com/us-ev-infrastructure-development-improving-regional-disparities-continue-8708599",
-          "publishedOn": "2024-09-09T22:31:38.000Z",
-          "wordCount": 6303,
-          "title": "EV Infrastructure Development Improving, But Regional Disparities Continue",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/gIKxNchNc3SHo6Qf5sbyZdPB5g8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2168114086-a7fd2f7b9b0a471b8d1797033284da44.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/gIKxNchNc3SHo6Qf5sbyZdPB5g8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2168114086-a7fd2f7b9b0a471b8d1797033284da44.jpg"
         }
       ]
     },
@@ -19156,6 +19156,26 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "futures-slip-markets-await-fed-100603982.html",
+          "author": null,
+          "description": "Shares of Alphabet fell 1.4% in premarket trading after the U.S. Department of Justice said it may ask a judge to force Google to divest parts of its business, including the Chrome internet browser and Android operating system.  Indexes closed higher on Tuesday, recovering from Monday's selloff, with technology stocks leading the gains as U.S. Treasury yields eased.  Minutes from the Fed's September meeting, when policymakers kicked off policy easing with a 50-basis-point rate cut, are due later in the day.",
+          "link": "https://finance.yahoo.com/news/futures-slip-markets-await-fed-100603982.html",
+          "publishedOn": "2024-10-09T10:06:03.000Z",
+          "wordCount": 24214,
+          "title": "Futures slip as markets await Fed minutes; Alphabet drops",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/96ca1af51f7cc290cc235aa269c264a7"
+        },
+        {
+          "id": "no-landing-chatter-returns-as-markets-question-inflations-defeat-morning-brief-095734857.html",
+          "author": null,
+          "description": "The stock market is back to thinking about the \"no landing\" scenario. It's not as undesirable as a hard landing, but an overheating economy clouds the picture for investors.",
+          "link": "https://finance.yahoo.com/news/no-landing-chatter-returns-as-markets-question-inflations-defeat-morning-brief-095734857.html",
+          "publishedOn": "2024-10-09T09:57:34.000Z",
+          "wordCount": 24501,
+          "title": "'No landing' chatter returns as markets question inflation's defeat: Morning Brief",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/XLyABD8XckfNXn.whPW.IQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/ca1bc700-85a9-11ef-acff-0f718629062d"
+        },
         {
           "id": "2-dividend-stocks-double-now-092000430.html",
           "author": null,
@@ -19205,6 +19225,26 @@
           "wordCount": 25005,
           "title": "38.3% of Warren Buffett's $315 Billion Portfolio Is Invested in 3 Artificial Intelligence (AI) Stocks",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/2Zq9_e9WsImsKhOfaoRzzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/30bcd291d0bb962494581b63d5caf15d"
+        },
+        {
+          "id": "1-vanguard-index-fund-could-084400540.html",
+          "author": null,
+          "description": "Workers with median earnings can build sizable portfolios that pay hefty amounts of passive income in retirement.",
+          "link": "https://finance.yahoo.com/news/1-vanguard-index-fund-could-084400540.html",
+          "publishedOn": "2024-10-09T08:44:00.000Z",
+          "wordCount": 24556,
+          "title": "1 Vanguard Index Fund Could Turn $500 Per Month Into a $968,400 Portfolio That Pays $16,000 in Annual Dividend Income",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_IaYwpoHWzE8YVMrX_jQKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMDM0/https://media.zenfs.com/en/motleyfool.com/99095e426897cd1cb3f257e721eee6d1"
+        },
+        {
+          "id": "1-vanguard-etf-could-soar-083400863.html",
+          "author": null,
+          "description": "The Federal Reserve is slashing interest rates, which is great news for small-cap stocks.",
+          "link": "https://finance.yahoo.com/news/1-vanguard-etf-could-soar-083400863.html",
+          "publishedOn": "2024-10-09T08:34:00.000Z",
+          "wordCount": 25070,
+          "title": "1 Vanguard ETF That Could Soar 37.3% Before the End of 2024, According to a Select Wall Street Analyst",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/vBqbvBiY2BrdhpFbWp2zgw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/motleyfool.com/7b4773ddbb295f9296c164fbf4659121"
         },
         {
           "id": "incredible-high-yield-dividend-stock-081600603.html",
@@ -44875,26 +44915,6 @@
           "wordCount": null,
           "title": "The stock market is headed for a tough 8 weeks but could see a 10% rally into year-end, Fundstrat's Tom Lee says",
           "imageUrl": null
-        },
-        {
-          "id": "intel-faces-uphill-battle-as-its-stock-hovers-near-record-lows-goldman-sachs-analyst-223646226.html",
-          "author": null,
-          "description": "The inflection point for Intel can't be seen just yet, says Goldman Sachs.",
-          "link": "https://finance.yahoo.com/news/intel-faces-uphill-battle-as-its-stock-hovers-near-record-lows-goldman-sachs-analyst-223646226.html",
-          "publishedOn": "2024-09-09T22:36:46.000Z",
-          "wordCount": 21762,
-          "title": "Intel faces 'uphill battle' as its stock hovers near record lows: Goldman Sachs analyst",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/DDXmasEm5W8SblgKUQhXAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/0ffb3270-5093-11ef-b7ee-a8cb58903534"
-        },
-        {
-          "id": "the-ai-supercycle-is-just-beginning-amd-ceo-222338313.html",
-          "author": null,
-          "description": "AMD CEO Dr. Lisa Su sets the table for a host of new AI chip rollouts.",
-          "link": "https://finance.yahoo.com/news/the-ai-supercycle-is-just-beginning-amd-ceo-222338313.html",
-          "publishedOn": "2024-09-09T22:23:38.000Z",
-          "wordCount": 21848,
-          "title": "The AI supercycle is just beginning: AMD CEO",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/dgi8jzelkhVzvSWzRsLvTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/a9ddeb60-6ef9-11ef-bfc5-a2fb35a92854"
         }
       ]
     }
