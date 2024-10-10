@@ -24,6 +24,26 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "ae75839b1341ae8ca95c0f6965718622",
+          "author": "Investopedia",
+          "description": "CrowdStrike shares topped the S&P 500 Thursday after RBC Capital included the stock among its top picks in the software space.",
+          "link": "https://www.investopedia.com/crowdstrike-stock-surges-analyst-cheers-recovery-from-outage-8726662",
+          "publishedOn": "2024-10-10T20:23:00.000Z",
+          "wordCount": 6401,
+          "title": "An Analyst Cheered Crowdstrike's Recovery From Outages—and its Stock Surged",
+          "imageUrl": "https://www.investopedia.com/thmb/fu3jmIpcWijQKevn-Ek2WHyHWKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1255728449-dc7584fc200b41cba99f41c2d552b454.jpg"
+        },
+        {
+          "id": "ed50ed8e32d07454e2040b3241451e0e",
+          "author": "Investopedia",
+          "description": "Another earnings season is right around the corner and it's looking to be a ho-hum one. But some experts say that might not be such a bad thing for investors.",
+          "link": "https://www.investopedia.com/wall-street-set-low-bar-for-q4-2024-earnings-what-that-means-for-your-stock-portfolio-8725979",
+          "publishedOn": "2024-10-10T20:01:00.000Z",
+          "wordCount": 6790,
+          "title": "Wall Street Has Set a Low Bar for Earnings. Is That a Good Omen for Your Portfolio?",
+          "imageUrl": "https://www.investopedia.com/thmb/RsfgHeKDlLl-5douRkxKngvk4z0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2171693005-a19fa66c488c455baf8648603c7751e3.jpg"
+        },
+        {
           "id": "e4121aeb658208ebb4ba0a809ebfe827",
           "author": "Investopedia",
           "description": "Tilray Brands CEO Irwin Simon said the 2024 presidential election is likely to improve the legal cannabis industry in the U.S.—regardless of who wins.",
@@ -11016,21 +11036,6 @@
             "url": "https://images.nu.nl/m/3lnxie3aquai_sqr256/0/0/4177/4177/agenten-schoonmakers-en-ov-personeel-voeren-stakingen-komende-weken-op.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/3lnxie3aquai_sqr256/0/0/4177/4177/agenten-schoonmakers-en-ov-personeel-voeren-stakingen-komende-weken-op.jpg"
-        },
-        {
-          "id": "article-6327775",
-          "author": null,
-          "description": "Kledingconcern Inditex, het moederbedrijf van winkelketens Zara en Bershka, heeft sinds augustus aanzienlijk meer kleding verkocht dan in dezelfde periode vorig jaar. Vooral de herfst- en wintercollecties zijn in trek.",
-          "link": "https://www.nu.nl/economie/6327775/moederbedrijf-zara-ziet-verkopen-stijgen-herfst-en-wintercollecties-zijn-in-trek.html",
-          "publishedOn": "2024-09-11T09:15:08.000Z",
-          "wordCount": 417,
-          "title": "Moederbedrijf Zara ziet verkopen stijgen, herfst- en wintercollecties zijn in trek",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/2rsx8fmak548_sqr256/1536/0/5094/5094/moederbedrijf-zara-ziet-verkopen-stijgen-herfst-en-wintercollecties-zijn-in-trek.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/2rsx8fmak548_sqr256/1536/0/5094/5094/moederbedrijf-zara-ziet-verkopen-stijgen-herfst-en-wintercollecties-zijn-in-trek.jpg"
         }
       ]
     },
@@ -11039,6 +11044,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8726662",
+          "author": "Michael Bromberg",
+          "description": "CrowdStrike shares topped the S&P 500 Thursday after RBC Capital included the stock among its top picks in the software space.",
+          "link": "https://www.investopedia.com/crowdstrike-stock-surges-analyst-cheers-recovery-from-outage-8726662",
+          "publishedOn": "2024-10-10T20:23:33.000Z",
+          "wordCount": 6401,
+          "title": "An Analyst Cheered Crowdstrike's Recovery From Outages—and its Stock Surged",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/QpwfAzcYNra8wBnnp627NMsmgC4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1255728449-dc7584fc200b41cba99f41c2d552b454.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/QpwfAzcYNra8wBnnp627NMsmgC4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1255728449-dc7584fc200b41cba99f41c2d552b454.jpg"
+        },
         {
           "id": "8726485",
           "author": "Diccon Hyatt",
@@ -19495,6 +19515,16 @@
           "wordCount": 24344,
           "title": "Why First Solar Stock Burned Shareholders on Thursday",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/HnmeL6X0ZmbJ2azRqlV2Ig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzU-/https://media.zenfs.com/en/motleyfool.com/9ab321707ceefd13b08f7b6b9041fc2a"
+        },
+        {
+          "id": "amd-ai-chips-nvidia-gpu-2ec7c211?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/amd-ai-chips-nvidia-gpu-2ec7c211?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-10-10T19:34:00.000Z",
+          "wordCount": null,
+          "title": "AMD Stock Tumbles After Unveiling New AI Chip. It Might Not Beat Nvidia’s Blackwell.",
+          "imageUrl": null
         },
         {
           "id": "tesla-stock-short-sellers-favorite-185545686.html",
@@ -45645,56 +45675,6 @@
           "wordCount": 21837,
           "title": "Trump Media slumps as bets on Harris victory rise after presidential debate",
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/c494e4da9f8f7bdbc94ed975ab9901b7"
-        },
-        {
-          "id": "nvidias-50-billion-share-buyback-090600158.html",
-          "author": null,
-          "description": "A hefty buyback program won't mask mounting red flags for Wall Street's artificial intelligence (AI) darling.",
-          "link": "https://finance.yahoo.com/news/nvidias-50-billion-share-buyback-090600158.html",
-          "publishedOn": "2024-09-11T09:06:00.000Z",
-          "wordCount": 22130,
-          "title": "Nvidia's $50 Billion Share Buyback Is the Ultimate Smoke-and-Mirrors Campaign",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/a3QzY8N2COI1l2KeisjhwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/26711ac1d78e59a867626a95063ba4ab"
-        },
-        {
-          "id": "history-says-nasdaq-soar-2-090000296.html",
-          "author": null,
-          "description": "Wall Street analysts forecast substantial upside for Amazon and Zscaler.",
-          "link": "https://finance.yahoo.com/news/history-says-nasdaq-soar-2-090000296.html",
-          "publishedOn": "2024-09-11T09:00:00.000Z",
-          "wordCount": 22115,
-          "title": "History Says the Nasdaq Will Soar: 2 Growth Stocks With 26% and 38% Upside to Buy Now, According to Wall Street",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/pGRVFLy783ygjhUkvZcaUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/4c538a06ce9acea26addd5168d4f8ace"
-        },
-        {
-          "id": "3-stocks-havent-cheap-more-084700739.html",
-          "author": null,
-          "description": "A couple of the stocks featured here are trading around their all-time lows.",
-          "link": "https://finance.yahoo.com/news/3-stocks-havent-cheap-more-084700739.html",
-          "publishedOn": "2024-09-11T08:47:00.000Z",
-          "wordCount": 22029,
-          "title": "3 Stocks That Haven't Been This Cheap in More Than 5 Years",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ueV3aISDTHZTerBd.YjbQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTg-/https://media.zenfs.com/en/motleyfool.com/b6a2ed9625e8ab1218427db5b5406239"
-        },
-        {
-          "id": "2-stock-split-stocks-not-084100305.html",
-          "author": null,
-          "description": "Among the 13 prominent companies to have announced or completed a stock split in 2024, there are two whose valuations make no sense.",
-          "link": "https://finance.yahoo.com/news/2-stock-split-stocks-not-084100305.html",
-          "publishedOn": "2024-09-11T08:41:00.000Z",
-          "wordCount": 22121,
-          "title": "2 Stock-Split Stocks Not Named Nvidia That Are Priced for Perfection",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/PneSQgcsqmh23RFvfMiF9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTE-/https://media.zenfs.com/en/motleyfool.com/99efc51392b26d6304231f346743084f"
-        },
-        {
-          "id": "history-says-being-added-p-083500408.html",
-          "author": null,
-          "description": "Should investors buy this tech stock following news that it is being included in the index?",
-          "link": "https://finance.yahoo.com/news/history-says-being-added-p-083500408.html",
-          "publishedOn": "2024-09-11T08:35:00.000Z",
-          "wordCount": 22225,
-          "title": "History Says Being Added to S&P 500 Will Have This Impact on Palantir Stock",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/71cc6fa5968ecdd5c7d9155e7eb9ccd8"
         }
       ]
     }
