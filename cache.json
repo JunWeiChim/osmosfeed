@@ -4818,6 +4818,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6331076",
+          "author": null,
+          "description": "De verkoop van zonnepaneelsystemen gaat dit jaar flink onderuit. Huishoudens zijn huiverig om er nog in te investeren vanwege het verdwijnen van de salderingsregeling en de komst van terugleverkosten. Maar zonnepanelen zijn nog steeds rendabel, blijkt uit berekeningen.",
+          "link": "https://www.nu.nl/tech/6331076/zonnepanelenverkoop-flink-gedaald-terwijl-investering-nog-steeds-rendabel-is.html",
+          "publishedOn": "2024-10-10T03:02:52.000Z",
+          "wordCount": 401,
+          "title": "Zonnepanelenverkoop flink gedaald terwijl investering nog steeds rendabel is",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/ehqxl9rafdql_sqr256/0/0/4000/4000/zonnepanelenverkoop-flink-gedaald-terwijl-investering-nog-steeds-rendabel-is.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/ehqxl9rafdql_sqr256/0/0/4000/4000/zonnepanelenverkoop-flink-gedaald-terwijl-investering-nog-steeds-rendabel-is.jpg"
+        },
+        {
           "id": "article-6331145",
           "author": null,
           "description": "Ratan Tata, de voormalige baas van Tata Group, is op 86-jarige leeftijd overleden. De Indiër gaf meer dan twintig jaar leiding aan de bedrijvengroep, waar ook de hoogovens in het Noord-Hollandse IJmuiden onder vallen.",
@@ -10929,6 +10944,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8726067",
+          "author": "Timothy Smith",
+          "description": "Oracle shares hit a record high Wednesday on enthusiasm for the company's reach into the artificial intelligence market. Monitor these important chart levels.",
+          "link": "https://www.investopedia.com/oracle-price-levels-to-watch-as-stock-sets-record-high-8726067",
+          "publishedOn": "2024-10-10T02:49:30.000Z",
+          "wordCount": 6676,
+          "title": "Oracle Price Levels to Watch as Stock Sets Record High",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/HQGLMH1Cj7R7CS27vJhDPtpyOAo=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/ORCLChart-59d0612581734564bdc2ed2472e8f941.gif",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/HQGLMH1Cj7R7CS27vJhDPtpyOAo=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/ORCLChart-59d0612581734564bdc2ed2472e8f941.gif"
+        },
         {
           "id": "8725752",
           "author": "Terry Lane",
@@ -19398,21 +19428,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/zpInkmeKqqsJltO1H-Btdzl35-s=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1692354788-5a21b85ea1dd46db83351aa3e053d376.jpg"
-        },
-        {
-          "id": "8709453",
-          "author": "David Marino-Nachison",
-          "description": "Retail investors and hedge funds were net buyers of equities last week as major U.S. indexes fell, according to new research.",
-          "link": "https://www.investopedia.com/retail-investors-and-hedge-funds-bought-the-dip-last-week-bank-of-america-says-8709453",
-          "publishedOn": "2024-09-10T15:17:22.000Z",
-          "wordCount": 6382,
-          "title": "Retail Investors and Hedge Funds Bought the Dip Last Week, Bank of America Says",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/yjT6RtiOnFBSTrYnkCN9cSH9Xtc=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2165384302-dbd08555052241738b855114061355ca.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/yjT6RtiOnFBSTrYnkCN9cSH9Xtc=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2165384302-dbd08555052241738b855114061355ca.jpg"
         }
       ]
     },
@@ -19421,6 +19436,16 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "palantirs-shyam-sankar-says-ai-021519438.html",
+          "author": null,
+          "description": "Palantir Technologies, Inc. (NYSE:PLTR) shares have been on a tear ever since the company was added to the S&P 500 Index. The stock inflection has followed an inflection in the company’s fundamentals, and on Tuesday the data analytics company’s CTO Shyam Sankar acknowledged that the company is facing a surge in demand. Offering Business Value: “This is a unique moment for Palantir,” said Sankar in an interview with CNBC. The commercial business is seeing tailwinds, the rate of the adoption of ar",
+          "link": "https://finance.yahoo.com/news/palantirs-shyam-sankar-says-ai-021519438.html",
+          "publishedOn": "2024-10-10T02:15:19.000Z",
+          "wordCount": 24703,
+          "title": "Palantir's Shyam Sankar Says AI Is Experiential And If You Pay Consultants To Help You Think About Deployment 'You're Just Lighting Money On Fire'",
+          "imageUrl": "https://media.zenfs.com/en/Benzinga/3c89eb004bb6b2aa3baca0f37ec51812"
+        },
         {
           "id": "one-wall-streets-biggest-bears-010910630.html",
           "author": null,
@@ -19479,6 +19504,16 @@
           "publishedOn": "2024-10-09T21:52:38.000Z",
           "wordCount": null,
           "title": "Stock market today: US stocks trade mixed with Fed minutes and rate outlook in focus",
+          "imageUrl": null
+        },
+        {
+          "id": "?src=A00220&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.investors.com/research/ibd-stock-of-the-day/carnival-stock-breaks-out-cruise-lines/?src=A00220&yptr=yahoo",
+          "publishedOn": "2024-10-09T20:34:21.000Z",
+          "wordCount": null,
+          "title": "Carnival, IBD Stock Of The Day, Breaks Out As Cruise Lines Sail On Q3 Momentum",
           "imageUrl": null
         },
         {
@@ -45250,66 +45285,6 @@
           "wordCount": 21624,
           "title": "Ally's stock drops 15% as its credit challenges grow",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/TMIJlkBeenZDGpxXBmMeyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/american_banker_655/2749d3232c4578499eec2dd939da064e"
-        },
-        {
-          "id": "why-sirius-xm-stock-dropped-151413958.html",
-          "author": null,
-          "description": "If the satellite radio company can't generate as much cash as it promised, is its stock still a buy?",
-          "link": "https://finance.yahoo.com/news/why-sirius-xm-stock-dropped-151413958.html",
-          "publishedOn": "2024-09-10T15:14:13.000Z",
-          "wordCount": 21477,
-          "title": "Why Sirius XM Stock Dropped an Unlucky 7% Today",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/PdZWdgTL6V.TnHTp9v.hoA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/motleyfool.com/85747ec316946fdcdcfe5db66d086979"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/technology/palo-alto-stock-cybersecurity-consolidation-platformization/?src=A00220&yptr=yahoo",
-          "publishedOn": "2024-09-10T15:04:57.000Z",
-          "wordCount": null,
-          "title": "Palo Alto CEO: Some Midsize Cybersecurity Firms Headed to Graveyard",
-          "imageUrl": null
-        },
-        {
-          "id": "fed-cut-rates-25-basis-150434026.html",
-          "author": null,
-          "description": "The Federal Reserve will lower interest rates by 25 basis points at each of the U.S. central bank's three remaining policy meetings in 2024, according to a majority of economists in a Reuters poll that found only nine of 101 expected a half-percentage-point cut next week.  With inflation approaching the Fed's 2% target and some signs of an economic slowdown, policymakers have made it clear \"the time has come\" to start reducing the federal funds rate, which has been held in the 5.25%-5.50% range since July 2023.  After the release on Friday of a mixed jobs report for August, interest rate futures contracts briefly priced in more than a 50% chance of a half-percentage-point cut next week, but the chances have narrowed to about one in four.",
-          "link": "https://finance.yahoo.com/news/fed-cut-rates-25-basis-150434026.html",
-          "publishedOn": "2024-09-10T15:04:34.000Z",
-          "wordCount": 21873,
-          "title": "Fed to cut rates by 25 basis points on Sept. 18, twice more in 2024: Reuters poll",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/6a0351d755449e3e05384083b319dbfb"
-        },
-        {
-          "id": "stock-market-today-nasdaq-edges-higher-dow-falls-as-inflation-report-looms-150211487.html",
-          "author": null,
-          "description": "Investors are gearing up for a consumer inflation print seen as crucial to determining the size of the first US interest-rate cut in years.",
-          "link": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-edges-higher-dow-falls-as-inflation-report-looms-150211487.html",
-          "publishedOn": "2024-09-10T15:02:11.000Z",
-          "wordCount": 24165,
-          "title": "Stock market today: Nasdaq edges higher, Dow falls as inflation report looms",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/7HM2DDujd61C1A9FZ8.ujw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/63a7d080-6b51-11ef-9ff3-1efbbd0bba88"
-        },
-        {
-          "id": "ally-financial-flags-intensifying-credit-145544653.html",
-          "author": null,
-          "description": "Delinquencies in the company's retail auto business rose about a cumulative 20 basis points in July and August compared to its expectations, Hutchinson told investors at a financial conference in New York.  \"Our borrower is struggling with high inflation and cost of living, and now more recently, a weakening employment picture,\" Hutchinson said.",
-          "link": "https://finance.yahoo.com/news/ally-financial-flags-intensifying-credit-145544653.html",
-          "publishedOn": "2024-09-10T14:55:44.000Z",
-          "wordCount": 21167,
-          "title": "Ally Financial flags 'intensifying' credit challenges, shares slump",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/f6bb2d4cdcb2ed889339ff62a739175a"
-        },
-        {
-          "id": "ally-stock-price-jpmorgan-consumer-credit-regulations-5f7b22c4?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/ally-stock-price-jpmorgan-consumer-credit-regulations-5f7b22c4?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2024-09-10T14:48:00.000Z",
-          "wordCount": null,
-          "title": "Bank Stocks Are Falling. Ally’s Credit Concerns Trump Lighter Regulatory Touch.",
-          "imageUrl": null
         }
       ]
     }
