@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "ece2d9e570df508c45481f1e74f9befe",
+          "author": "Investopedia",
+          "description": "Johnson & Johnson reports earnings before the opening bell Tuesday, with revenue and profit projected to grow from the same time last year.",
+          "link": "https://www.investopedia.com/what-you-need-to-know-ahead-of-johnson-and-johnson-s-earnings-q3-fy-2024-preview-8725081",
+          "publishedOn": "2024-10-11T09:00:00.000Z",
+          "wordCount": 6575,
+          "title": "What You Need to Know Ahead of Johnson & Johnson's Earnings",
+          "imageUrl": "https://www.investopedia.com/thmb/ZvwfckLDHePPy1dPcLB2B86OFjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2170898851-293da84174094ebabe16ef3a03ac7ccc.jpg"
+        },
+        {
           "id": "27b8981510e0f307450fab28ad6630f4",
           "author": "Investopedia",
           "description": "Tesla unveiled its highly anticipated \"Cybercab\" robotaxi and more at the electric vehicle maker's “We, Robot” event Thursday.",
@@ -2482,16 +2492,6 @@
           "wordCount": 354,
           "title": "SpaceX Polaris Dawn Crew Completes First Commercial Spacewalk",
           "imageUrl": null
-        },
-        {
-          "id": "8ea009078737219b9c685bbf43c3d637",
-          "author": "Investopedia",
-          "description": "Apple's iPhone 16 sales could benefit from better trade-in offers from the major cellular carriers compared to last year's iPhone 15 launch, analysts said.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8777d7ee1ae8482b898a3deefb34609c4553c623c83abe9d513f09cd6e873acb9d1421d7eb3ab0fcef25afe99a39e825f922008c3102590541a5a4f98924089c",
-          "publishedOn": "2024-09-11T21:21:00.000Z",
-          "wordCount": 354,
-          "title": "Here's Why Analysts Think iPhone 16 Sales Could Start Strong",
-          "imageUrl": null
         }
       ]
     },
@@ -4648,6 +4648,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6331266",
+          "author": null,
+          "description": "Volgens Tata Steel kost het 1 miljard euro om een deel van de gigantische grondstoffenvelden van de staalfabrikant in IJmuiden te overkappen. Milieugroepen vrezen dat Tata die kosten expres te hoog inschat en willen voorkomen dat de overheid de portemonnee moet trekken.",
+          "link": "https://www.nu.nl/klimaat/6331266/enorme-grondstoffenhal-tata-steel-gaat-miljard-kosten-moeten-ze-zelf-betalen.html",
+          "publishedOn": "2024-10-11T10:06:48.000Z",
+          "wordCount": 401,
+          "title": "Enorme grondstoffenhal Tata Steel gaat miljard kosten: 'Moeten ze zelf betalen'",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/z53xzc4ayj74_sqr256/84/0/3244/3244/enorme-grondstoffenhal-tata-steel-gaat-miljard-kosten-moeten-ze-zelf-betalen.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/z53xzc4ayj74_sqr256/84/0/3244/3244/enorme-grondstoffenhal-tata-steel-gaat-miljard-kosten-moeten-ze-zelf-betalen.jpg"
+        },
+        {
           "id": "article-6331312",
           "author": null,
           "description": "De vaste hypotheekrentes lijken hun dieptepunt achter de rug te hebben nadat ze sinds juni alleen maar daalden. Er zijn al enkele aanbieders die de rente op een lening voor een huis alweer ophogen, meldt De Hypotheker.",
@@ -4676,6 +4691,21 @@
             "url": "https://images.nu.nl/m/zrwxgy3aafeo_sqr256/576/2/2487/2487/moederbedrijf-tiktok-schrapt-wereldwijd-enkele-honderden-banen.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/zrwxgy3aafeo_sqr256/576/2/2487/2487/moederbedrijf-tiktok-schrapt-wereldwijd-enkele-honderden-banen.jpg"
+        },
+        {
+          "id": "article-6331306",
+          "author": null,
+          "description": "Elon Musk presenteerde donderdag Tesla's zelfrijdende taxi, de Cybercab. De wagen moet volgens de CEO in 2026 in productie worden genomen en zal minder dan 30.000 dollar (ruim 27.000 euro) kosten.",
+          "link": "https://www.nu.nl/tech-wetenschap/6331306/tesla-ceo-musk-wil-zelfrijdende-auto-cybercab-in-2026-gaan-produceren.html",
+          "publishedOn": "2024-10-11T08:08:51.000Z",
+          "wordCount": 401,
+          "title": "Tesla-CEO Musk wil zelfrijdende auto Cybercab in 2026 gaan produceren",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/5a8xskgak27a_sqr256/352/0/653/653/tesla-ceo-musk-wil-zelfrijdende-auto-cybercab-in-2026-gaan-produceren.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/5a8xskgak27a_sqr256/352/0/653/653/tesla-ceo-musk-wil-zelfrijdende-auto-cybercab-in-2026-gaan-produceren.jpg"
         },
         {
           "id": "article-6331306",
@@ -19033,36 +19063,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/9pja0QyK4s21EeSV7I04Mwnh3wg=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2087324382-d01ae467630b46ff90380593e9004ccb.jpg"
-        },
-        {
-          "id": "8710573",
-          "author": "Andrew Kessel",
-          "description": "Nvidia shares surged 8% Wednesday after CEO Jensen Huang said the company is seeing \"incredible\" demand.",
-          "link": "https://www.investopedia.com/nvidia-ceo-says-chipmaker-is-seeing-incredible-demand-sending-stock-higher-wednesday-8710573",
-          "publishedOn": "2024-09-11T21:46:50.000Z",
-          "wordCount": 6369,
-          "title": "Nvidia CEO Says Chipmaker Is Seeing ‘Incredible’ Demand, Sending Stock Higher Wednesday",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/Wp1hH42JMwqQn71IFq6CQ3cW8QE=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2155127379-2233e42a56ca4368999121ee7dfe869c.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/Wp1hH42JMwqQn71IFq6CQ3cW8QE=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2155127379-2233e42a56ca4368999121ee7dfe869c.jpg"
-        },
-        {
-          "id": "8710315",
-          "author": "Aaron McDade",
-          "description": "Apple's iPhone 16 sales could benefit from better trade-in offers from the major cellular carriers compared to last year's iPhone 15 launch, analysts said.",
-          "link": "https://www.investopedia.com/apple-trade-in-sales-boost-verizon-tmobile-att-iphone-16-8710315",
-          "publishedOn": "2024-09-11T21:21:49.000Z",
-          "wordCount": 6571,
-          "title": "Here's Why Analysts Think iPhone 16 Sales Could Start Strong",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/So0SNicsP3sgFcPTq3DHoIsnFHs=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2170418002-e21de60d15cc4e7eb0e45d55cc0c2bd9.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/So0SNicsP3sgFcPTq3DHoIsnFHs=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2170418002-e21de60d15cc4e7eb0e45d55cc0c2bd9.jpg"
         }
       ]
     },
@@ -19072,6 +19072,36 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "futures-fall-investors-brace-earnings-092532300.html",
+          "author": null,
+          "description": "Shares of Tesla dropped 5.8% in premarket trading after the EV maker unveiled its long awaited robotaxi, but did not provide details on how fast it could ramp up production or deal with potential regulatory hurdles.  JPMorgan Chase and Wells Fargo slipped about 0.2% each ahead of their scheduled results before the bell.  Wall Street closed slightly lower on Thursday after a keenly watched Consumer Price Index report showed inflation rose higher than expected in September, but an uptick in jobless claims pointed to potential weakness in the labor market.",
+          "link": "https://finance.yahoo.com/news/futures-fall-investors-brace-earnings-092532300.html",
+          "publishedOn": "2024-10-11T09:25:32.000Z",
+          "wordCount": 24251,
+          "title": "Futures fall as investors brace for earnings season; Tesla dips",
+          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/435716290c7a5318cf821df802371357"
+        },
+        {
+          "id": "morgan-stanley-thinks-blackwell-chips-091000737.html",
+          "author": null,
+          "description": "Nvidia's stock price may not see a significant boost given high valuation multiples, unless there are positive signs from insiders' behaviour.",
+          "link": "https://finance.yahoo.com/news/morgan-stanley-thinks-blackwell-chips-091000737.html",
+          "publishedOn": "2024-10-11T09:10:00.000Z",
+          "wordCount": 24648,
+          "title": "Morgan Stanley Thinks Blackwell Chips Could Generate $10 Billion in Sales for Nvidia by Q4. Here's 1 Other Figure I'm More Interested to See.",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/.M6DTgDatrvdc_C.2OCB7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/f4b123c7cf30da034980d6916bca3b54"
+        },
+        {
+          "id": "too-buy-nvidia-stock-evidence-084000732.html",
+          "author": null,
+          "description": "Nvidia's volatility has been unnerving for some investors in recent months, but the available evidence is painting a clear picture.",
+          "link": "https://finance.yahoo.com/news/too-buy-nvidia-stock-evidence-084000732.html",
+          "publishedOn": "2024-10-11T08:40:00.000Z",
+          "wordCount": 10019,
+          "title": "Is It Too Late to Buy Nvidia Stock? Evidence Is Piling Up That Provides a Compelling Answer.",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/zzbe3PRj.2v9eYZlMLBz5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/eb956b92990ebf48b7799dc656e2b5e7"
+        },
+        {
           "id": "2-magnificent-seven-stocks-buy-082700269.html",
           "author": null,
           "description": "Investors are eagerly awaiting a fresh round of earnings reports from the world's largest technology companies.",
@@ -19080,6 +19110,16 @@
           "wordCount": 24892,
           "title": "2 \"Magnificent Seven\" Stocks to Buy Hand Over Fist in October",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/bLKRu8FvKm5sH1SNxd9AoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjY-/https://media.zenfs.com/en/motleyfool.com/1b561e65d5fcbd22c7f42b43323207d7"
+        },
+        {
+          "id": "meet-unstoppable-growth-stock-could-080200237.html",
+          "author": null,
+          "description": "Robust growth and secular tailwinds should help drive this tech titan to new heights.",
+          "link": "https://finance.yahoo.com/news/meet-unstoppable-growth-stock-could-080200237.html",
+          "publishedOn": "2024-10-11T08:02:00.000Z",
+          "wordCount": 24828,
+          "title": "Meet the Unstoppable Growth Stock That Could Join Apple, Nvidia, and Microsoft in the $3 Trillion Club by 2029",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_XCRe2wWn8OAFumC2j4GSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjE-/https://media.zenfs.com/en/motleyfool.com/520e0da8e0553a0680b6256cc654c40b"
         },
         {
           "id": "want-decade-growing-passive-income-070500336.html",
@@ -19292,6 +19332,16 @@
           "imageUrl": null
         },
         {
+          "id": "celsius-celh-stock-trades-why-190501381.html",
+          "author": null,
+          "description": "Shares of energy drink company Celsius (NASDAQ:CELH) jumped 14.9% in the morning session after Wall Street analysts provided positive updates on the company. Stifel observed improving sales trends, adding, \"Energy drink trends should accelerate led by comparables, innovation, [and] pricing.\" Additionally, Piper Sandler's findings confirmed Celsius's popularity among teenagers. These updates are supportive of improved demand for Celsius's offerings, while underscoring the company's strong positio",
+          "link": "https://finance.yahoo.com/news/celsius-celh-stock-trades-why-190501381.html",
+          "publishedOn": "2024-10-10T19:05:01.000Z",
+          "wordCount": 24200,
+          "title": "Celsius (CELH) Stock Trades Up, Here Is Why",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/DtGlUStoWr3SCX7LzicZww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/stockstory_922/95646226e521e1bf9666756e0cab3c3a"
+        },
+        {
           "id": "why-pro-trader-tom-sosnoff-says-to-bet-on-yourself-instead-of-passive-index-funds-190057935.html",
           "author": null,
           "description": "Tastytrade co-founder Tom Sosnoff argues that investors ought to consider going against the passive grain and investing actively. But he isn't using returns in his argument.",
@@ -19330,6 +19380,16 @@
           "wordCount": 16344,
           "title": "Big Finish to 3Q24",
           "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
+        },
+        {
+          "id": "why-strong-earnings-and-cash-flow-are-key-to-navigating-value-traps-181838014.html",
+          "author": null,
+          "description": "Michaella Gallina, chief financial officer of the consultancy group, Wave HQ, and vice president of investor relations at H&R Block, gives her unique take on value investing.",
+          "link": "https://finance.yahoo.com/news/why-strong-earnings-and-cash-flow-are-key-to-navigating-value-traps-181838014.html",
+          "publishedOn": "2024-10-10T18:18:38.000Z",
+          "wordCount": 25326,
+          "title": "Why strong earnings and cash flow are key to navigating value traps",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/R8EoQ3qdvdGFYjTQ7iqJ1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/726e6870-84da-11ef-bb7f-a53066983e11"
         },
         {
           "id": "first-solar-stock-sinks-price-180309786.html",
@@ -44670,66 +44730,6 @@
           "wordCount": 21630,
           "title": "Nvidia Soared Today Thanks to AI News -- Is It Time to Buy the Stock?",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/O17cltr_N4c6IqKPed8SUg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/f107dc3354f7786ef01b5e82e9f40d8d"
-        },
-        {
-          "id": "forget-apple-billionaires-buying-magnificent-220000362.html",
-          "author": null,
-          "description": "Several legendary investors have high hopes for this \"Magnificent Seven\" stock.",
-          "link": "https://finance.yahoo.com/news/forget-apple-billionaires-buying-magnificent-220000362.html",
-          "publishedOn": "2024-09-11T22:00:00.000Z",
-          "wordCount": 21774,
-          "title": "Forget Apple: Billionaires Are Buying Up This \"Magnificent Seven\" Stock Instead",
-          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/a6079bec117e509624cf3f83965f8f03"
-        },
-        {
-          "id": "nvidia-ceo-says-chipmaker-seeing-214650827.html",
-          "author": null,
-          "description": "Nvidia shares surged 8% Wednesday after CEO Jensen Huang said the company is seeing \"incredible\" demand.",
-          "link": "https://finance.yahoo.com/news/nvidia-ceo-says-chipmaker-seeing-214650827.html",
-          "publishedOn": "2024-09-11T21:46:50.000Z",
-          "wordCount": 21368,
-          "title": "Nvidia CEO Says Chipmaker Is Seeing ‘Incredible’ Demand, Sending Stock Higher Wednesday",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/m16ZBLQk7HRgjYwvmEzZmQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/a50d95b04af0eff7e3f6fe85fce06dd4"
-        },
-        {
-          "id": "norfolk-southern-negotiating-ceos-exit-213120661.html",
-          "author": null,
-          "description": "NEW YORK (Reuters) -Norfolk Southern on Wednesday fired its chief executive officer, Alan Shaw, and promoted its chief financial officer to run the railroad after an internal probe into allegations Shaw had violated company ethics policies.  The company tapped Mark George as president and chief executive, ending days of frenzied speculation about the future of Shaw since the company acknowledged on Sunday that it was probing allegations Shaw had an inappropriate relationship with a direct report.",
-          "link": "https://finance.yahoo.com/news/norfolk-southern-negotiating-ceos-exit-213120661.html",
-          "publishedOn": "2024-09-11T21:31:20.000Z",
-          "wordCount": 21401,
-          "title": "Norfolk Southern terminates CEO, appoints CFO to lead company",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/2d8f130e52e07e9776ec9384f4af3d02"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/research/donald-trump-stock-buy-now-trump-media-technology-group-tmtg-stock-dwac-stock-spac/?src=A00220&yptr=yahoo",
-          "publishedOn": "2024-09-11T21:25:43.000Z",
-          "wordCount": null,
-          "title": "This Is The Ultimate Donald Trump Stock: Is DJT A Buy As It Plunges After Harris Debate?",
-          "imageUrl": null
-        },
-        {
-          "id": "ibm-2-7-billion-charge-211938504.html",
-          "author": null,
-          "description": "Under the deal, nearly $6 billion of IBM's defined benefit pension obligations will be transferred to Prudential Insurance Company of America.  A defined benefit plan guarantees a specific payout to employees upon retirement, completely funded by the employer without any contribution from the employee.  The deal stipulates that, starting next year, Prudential will take full responsibility for paying out the pension benefits of nearly 32,000 participants enrolled in IBM's plan.",
-          "link": "https://finance.yahoo.com/news/ibm-2-7-billion-charge-211938504.html",
-          "publishedOn": "2024-09-11T21:19:38.000Z",
-          "wordCount": 21309,
-          "title": "IBM to take $2.7 billion charge related to transfer of pension obligations",
-          "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/e47862e719c631a2d7dac416569f30b4"
-        },
-        {
-          "id": "uaws-rift-stellantis-raises-fear-211932427.html",
-          "author": null,
-          "description": "To Ruth Breeden, who assembles Ram trucks in this Detroit suburb, a simmering dispute between the United Auto Workers and Stellantis isn't merely about whether her employer will reopen a distant factory in Illinois.  To her, the standoff is a danger sign for all UAW workers.  Stellantis had pledged to reopen the factory in Belvidere, Illinois, under a contract it forged last year with the union.",
-          "link": "https://finance.yahoo.com/news/uaws-rift-stellantis-raises-fear-211932427.html",
-          "publishedOn": "2024-09-11T21:19:32.000Z",
-          "wordCount": 22316,
-          "title": "UAW's rift with Stellantis raises fear that some US auto jobs could vanish",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/vJjFGRrQqa4PAwnfE50sAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/768c94ba64879302e3e646435fc3d27a"
         }
       ]
     }
