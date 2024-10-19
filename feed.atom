@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-19T17:13:12.161Z</updated>
+    <updated>2024-10-19T18:19:24.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -190,6 +190,16 @@
         <link href="https://finance.yahoo.com/news/3-bargain-stocks-buy-market-113000852.html"/>
         <updated>2024-10-19T11:30:00.000Z</updated>
         <summary type="html"><![CDATA[Yes, bargains can still be found in the stock market.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Stocks to Invest $50,000 in Right Now]]></title>
+        <id>best-stocks-invest-50-000-111500070.html</id>
+        <link href="https://finance.yahoo.com/news/best-stocks-invest-50-000-111500070.html"/>
+        <updated>2024-10-19T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[These two AI stocks could be core holdings.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -40106,26 +40116,6 @@ Dow Jones Industrial Average futur]]></summary>
         <updated>2024-09-20T06:30:00.000Z</updated>
         <author>
             <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bedrijven investeren in juli minder in gebouwen en vliegtuigen]]></title>
-        <id>article-6328856</id>
-        <link href="https://www.nu.nl/economie/6328856/bedrijven-investeren-in-juli-minder-in-gebouwen-en-vliegtuigen.html"/>
-        <updated>2024-09-20T05:41:22.000Z</updated>
-        <summary type="html"><![CDATA[Bedrijven hebben in juli opnieuw minder geïnvesteerd. Ondernemingen gaven 1,2 procent minder uit dan in dezelfde maand vorig jaar. Vooral aan gebouwen en vliegtuigen werd minder besteed.]]></summary>
-        <author>
-            <name>NU - Economie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consumenten weer iets positiever over economisch klimaat]]></title>
-        <id>article-6328853</id>
-        <link href="https://www.nu.nl/economie/6328853/consumenten-weer-iets-positiever-over-economisch-klimaat.html"/>
-        <updated>2024-09-20T05:18:04.000Z</updated>
-        <summary type="html"><![CDATA[De stemming onder consumenten is in september minder negatief dan een maand eerder. Mensen zijn iets positiever over het economisch klimaat en ook de koopbereidheid is verbeterd. In augustus waren consumenten nog even negatief als in juli.]]></summary>
-        <author>
-            <name>NU - Economie</name>
         </author>
     </entry>
 </feed>
