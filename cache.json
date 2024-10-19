@@ -24,6 +24,26 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "7c1089d7a6e5878760b08114dfca434d",
+          "author": "Investopedia",
+          "description": "Some investors want to spice up their retirement plans with exposure to private equity. Experts say that might not be right for everyone.",
+          "link": "https://www.investopedia.com/retirement-investors-interested-private-equity-experts-urge-caution-8730026",
+          "publishedOn": "2024-10-19T09:00:00.000Z",
+          "wordCount": 6602,
+          "title": "Retirement Investors Are Interested in Private Equity. Experts Urge Caution.",
+          "imageUrl": "https://www.investopedia.com/thmb/oUh6qquv_VQfgXA9um-1U7DsayQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/PrivateEquityInRetirementPlans_InvestorsWantInExpertsAreNotSoSure-8711733927794012a2d0b20aabf947ca.jpg"
+        },
+        {
+          "id": "5549c8d174efedb1e250942711ee3024",
+          "author": "Investopedia",
+          "description": "Coca-Cola will report its third-quarter earnings before the market opens on Wednesday. Investors will be watching to see how the company fares compared with rival PepsiCo.",
+          "link": "https://www.investopedia.com/what-you-need-to-know-ahead-of-coca-cola-earnings-pepsi-rival-8730022",
+          "publishedOn": "2024-10-19T09:00:00.000Z",
+          "wordCount": 6379,
+          "title": "What You Need To Know Ahead of Coca-Cola’s Earnings",
+          "imageUrl": "https://www.investopedia.com/thmb/W-DILNSHhWu3IP_LT7r3RiufS6M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV_CokeErnsRecap_2Q23_GettyImages-1484916701-a0de2f544a0645778a4d7527ef823c43.jpg"
+        },
+        {
           "id": "49aaa5f48ea91d34c53cf5f237e407a9",
           "author": "Investopedia",
           "description": "The Federal Home Loan Bank (FHLB) System is a consortium of regional banks created to keep cash flowing to the nation's lending institutions, businesses, and consumers.",
@@ -2522,26 +2542,6 @@
           "wordCount": 354,
           "title": "Tech Stocks Pull Back Friday, Hitting the Brakes on Fed-Fueled Rally",
           "imageUrl": null
-        },
-        {
-          "id": "7eaaa832ff91f6a8fb14b8b1cd4fb83a",
-          "author": "Investopedia",
-          "description": "Nike shares surged in extended trading Thursday after the global shoe and athletic apparel company named Elliott Hill its CEO, replacing John Donahoe.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca886ecce752b648368b8575b1fb29289c095ec524802afc974e274dd47f817ed99b16608ee834bff0e76de1ed8160fd7bb87f5ada62",
-          "publishedOn": "2024-09-19T21:49:00.000Z",
-          "wordCount": 354,
-          "title": "Nike Stock Rises After Elliott Hill Named CEO",
-          "imageUrl": null
-        },
-        {
-          "id": "e83d7de327f4577b7dc1b12831ccac88",
-          "author": "Investopedia",
-          "description": "FedEx shares tumbled in extended trading Thursday after the company missed analysts' expectations with its fiscal first-quarter results and slashed its full-year outlook.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8062c3e707e84f2d878d33eef43b21835712c236913da3df51234dcb7b90219c81166dd0ee30a1b8e535eee4c334a02dfb6708973d4b095d0ff8bef08e260c9c8be3",
-          "publishedOn": "2024-09-19T21:15:00.000Z",
-          "wordCount": 354,
-          "title": "FedEx Stock Falls After Shipper Slashes Full-Year Outlook",
-          "imageUrl": null
         }
       ]
     },
@@ -4977,6 +4977,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "article-6332266",
+          "author": null,
+          "description": "Het moederbedrijf van Google, Alphabet, hoeft van de rechter niet op korte termijn zijn appwinkel aan te passen om concurrentie meer ruimte te geven. Volgens een eerdere uitspraak moest dat voor 1 november gebeuren, maar de rechter gaf Alphabet vrijdag uitstel.",
+          "link": "https://www.nu.nl/tech/6332266/google-krijgt-meer-tijd-om-appwinkel-aan-te-passen.html",
+          "publishedOn": "2024-10-19T09:53:21.000Z",
+          "wordCount": 401,
+          "title": "Google krijgt meer tijd om appwinkel aan te passen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/uppxsthateqn_sqr256/969/0/4746/4746/google-krijgt-meer-tijd-om-appwinkel-aan-te-passen.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/uppxsthateqn_sqr256/969/0/4746/4746/google-krijgt-meer-tijd-om-appwinkel-aan-te-passen.jpg"
+        },
+        {
+          "id": "article-6332004",
+          "author": null,
+          "description": "Onbetrouwbare uitzendbureaus maken nog altijd misbruik van arbeidsmigranten. Zo raken Oost-Europese arbeiders dakloos doordat ze per direct worden ontslagen. Dat leidt in sommige gevallen tot schrijnende situaties. Het kabinet pleit dan ook voor een harde aanpak.",
+          "link": "https://www.nu.nl/economie/6332004/uitgebuite-arbeidsmigranten-raken-dakloos-bij-ontslag-met-grote-gevolgen.html",
+          "publishedOn": "2024-10-19T09:16:58.000Z",
+          "wordCount": 401,
+          "title": "Uitgebuite arbeidsmigranten raken dakloos bij ontslag, met grote gevolgen",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/zvrxvu9af6m6_sqr256/2812/0/5643/5643/uitgebuite-arbeidsmigranten-raken-dakloos-bij-ontslag-met-grote-gevolgen.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/zvrxvu9af6m6_sqr256/2812/0/5643/5643/uitgebuite-arbeidsmigranten-raken-dakloos-bij-ontslag-met-grote-gevolgen.jpg"
+        },
         {
           "id": "article-6332194",
           "author": null,
@@ -18853,21 +18883,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/OXb7MzQgfJWChqbvMrd8IgwXaEg=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/DJIChart-6295a76973a247418f8079758fc57a77.gif"
-        },
-        {
-          "id": "8715586",
-          "author": "David Marino-Nachison",
-          "description": "Nike shares surged in extended trading Thursday after the global shoe and athletic apparel company named Elliott Hill its CEO, replacing John Donahoe.",
-          "link": "https://www.investopedia.com/nike-stock-rises-after-elliott-hill-named-ceo-8715586",
-          "publishedOn": "2024-09-19T21:49:14.000Z",
-          "wordCount": 6455,
-          "title": "Nike Stock Rises After Elliott Hill Named CEO",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/nekvzljDgx-QtmAdqlAXfW4PTnU=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/INV_Nike_GettyImages-1694835486-77b3039e28b44abf8eee99d077cb341d.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/nekvzljDgx-QtmAdqlAXfW4PTnU=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/INV_Nike_GettyImages-1694835486-77b3039e28b44abf8eee99d077cb341d.jpg"
         }
       ]
     },
@@ -18876,6 +18891,46 @@
       "feedUrl": "https://finance.yahoo.com/news/rssindex",
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
+        {
+          "id": "1-super-semiconductor-etf-could-085200292.html",
+          "author": null,
+          "description": "This exchange-traded fund could be a millionaire-maker as the artificial intelligence revolution gathers steam.",
+          "link": "https://finance.yahoo.com/news/1-super-semiconductor-etf-could-085200292.html",
+          "publishedOn": "2024-10-19T08:52:00.000Z",
+          "wordCount": 25098,
+          "title": "1 Super Semiconductor ETF That Could Turn $400 Per Month Into $1 Million, With Nvidia's Help",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/OQMkvnz1hf3QTxGsmKKivw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/922753763a9531654d3f04d3a7a628d8"
+        },
+        {
+          "id": "2-incredibly-cheap-reliable-dividend-083500835.html",
+          "author": null,
+          "description": "If you are looking for dividends that keep flowing no matter what the energy market brings, these two stocks are right for you.",
+          "link": "https://finance.yahoo.com/news/2-incredibly-cheap-reliable-dividend-083500835.html",
+          "publishedOn": "2024-10-19T08:35:00.000Z",
+          "wordCount": 25032,
+          "title": "2 Incredibly Cheap and Reliable Dividend Stocks With Yields Up to 5.5% to Buy Now",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/a3037f662c9e386ddbd9bf837f1cc53c"
+        },
+        {
+          "id": "billionaire-ken-griffin-sold-most-082500478.html",
+          "author": null,
+          "description": "Ken Griffin, one of the most successful hedge fund managers in history, slashed Citadel's stake in Nvidia in the second quarter.",
+          "link": "https://finance.yahoo.com/news/billionaire-ken-griffin-sold-most-082500478.html",
+          "publishedOn": "2024-10-19T08:25:00.000Z",
+          "wordCount": 24933,
+          "title": "Billionaire Ken Griffin Sold Most of Citadel's Nvidia Stock and Is Buying This Stock-Split AI Stock Instead",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/8mfcFBT2XiOA3cKlSrlQ2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/c26d11115696c9d23cee2749e76ca2bc"
+        },
+        {
+          "id": "want-safe-dividend-income-2024-075200851.html",
+          "author": null,
+          "description": "A strong yield doesn't mean much if the underlying payment can't be sustained.",
+          "link": "https://finance.yahoo.com/news/want-safe-dividend-income-2024-075200851.html",
+          "publishedOn": "2024-10-19T07:52:00.000Z",
+          "wordCount": 25036,
+          "title": "Want Safe Dividend Income in 2024 and Beyond? Invest in the Following 3 Ultra-High-Yield Stocks.",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/d831a79cd7de17dfdc2d30e2899559b0"
+        },
         {
           "id": "2-millionaire-maker-artificial-intelligence-075000034.html",
           "author": null,
@@ -19047,6 +19102,16 @@
           "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/bd0cc95a4f2da44d3903841139378630"
         },
         {
+          "id": "millennials-generation-wealth-gap-economy-0959a124?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/millennials-generation-wealth-gap-economy-0959a124?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-10-18T20:45:00.000Z",
+          "wordCount": null,
+          "title": "Millennials Aren’t Falling Behind After All. This Data Reveals the Generation’s Deeper Problem.",
+          "imageUrl": null
+        },
+        {
           "id": "costco-stock-price-d27beb92?siteid=yhoof2&yptr=yahoo",
           "author": null,
           "description": "",
@@ -19055,6 +19120,16 @@
           "wordCount": null,
           "title": "Costco Stock Is Booming. 4 Ways the Retailer Can Keep Growing.",
           "imageUrl": null
+        },
+        {
+          "id": "netflix-stock-secures-fresh-record-after-earnings-subscriber-growth-top-estimates-201411214.html",
+          "author": null,
+          "description": "Netflix stock is rising after the streaming giant beat third quarter EPS and revenue estimates. Here's what to know.",
+          "link": "https://finance.yahoo.com/news/netflix-stock-secures-fresh-record-after-earnings-subscriber-growth-top-estimates-201411214.html",
+          "publishedOn": "2024-10-18T20:14:11.000Z",
+          "wordCount": 25346,
+          "title": "Netflix stock secures fresh record after earnings, subscriber growth top estimates",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Nzz9n04Nd1smZxmg32u_KQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-05/d8f49170-d51c-11ec-b763-fc1244449d42"
         },
         {
           "id": "mrna-licensing-agreements-surge-800-201409978.html",
@@ -19295,6 +19370,16 @@
           "wordCount": 24852,
           "title": "Jerome Powell has accidentally jammed the property market—especially for the ultrarich",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/qyecxHF3leiiurV6jlCFcQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/43fecfeae8ffab9143b700bce94b00e2"
+        },
+        {
+          "id": "trump-election-stock-market-tech-bitcoin-bonds-3487ff85?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.barrons.com/articles/trump-election-stock-market-tech-bitcoin-bonds-3487ff85?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2024-10-18T14:40:00.000Z",
+          "wordCount": null,
+          "title": "The Stock Market Doesn’t Care If Trump Wins the Election. Here’s What Does.",
+          "imageUrl": null
         },
         {
           "id": "intel-stock-rises-report-might-141850212.html",
@@ -19705,6 +19790,16 @@
           "wordCount": 24616,
           "title": "Internships at Wall Street titan listed with $250k salary—and it doesn’t even require any finance industry experience",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/V2i8fZdS3Oe.2lwOCr9OhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/2f595ca00bdcc24fdd6a876da9b47e57"
+        },
+        {
+          "id": "3-stocks-turned-10-000-085000439.html",
+          "author": null,
+          "description": "Fortunes have been made in recent years with these soaring stocks.",
+          "link": "https://finance.yahoo.com/news/3-stocks-turned-10-000-085000439.html",
+          "publishedOn": "2024-10-18T08:50:00.000Z",
+          "wordCount": 24579,
+          "title": "These 3 Stocks Turned $10,000 Into More Than $250,000 Over the Last 5 Years",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/WqAF9Rg6X1rtuhnQA_kt1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/motleyfool.com/d4b93d31381a83ceb2fcccd76c5b3950"
         },
         {
           "id": "big-tobacco-proposes-nearly-24-084205063.html",
@@ -45005,26 +45100,6 @@
           "wordCount": 24028,
           "title": "S&P 500, Dow hit record highs after Fed cuts rates. What it means for your 401(k).",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/i9ucwwkIWmU4NyOiHNii_w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/usa_today_money_325/e831f381fdf2dbe774b48e1086443e9d"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/research/new-magnificent-seven-nvidia-arista-networks-ge-aerospace-spotify/?src=A00220&yptr=yahoo",
-          "publishedOn": "2024-09-19T21:43:40.000Z",
-          "wordCount": null,
-          "title": "The New Magnificent Seven? These Stocks Not Named Nvidia Are Clearing Entries",
-          "imageUrl": null
-        },
-        {
-          "id": "why-intuitive-machines-stock-rocketed-213625287.html",
-          "author": null,
-          "description": "There's nothing like a potentially massive government contract to win the hearts of both investors and analysts.",
-          "link": "https://finance.yahoo.com/news/why-intuitive-machines-stock-rocketed-213625287.html",
-          "publishedOn": "2024-09-19T21:36:25.000Z",
-          "wordCount": 24043,
-          "title": "Why Intuitive Machines Stock Rocketed 24% Skyward on Thursday",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/2u52oM3P71GTbRaJ9x5l8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/bef9a867368ba5d68cee0779ccec4597"
         }
       ]
     }
