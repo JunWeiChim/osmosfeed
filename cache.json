@@ -12368,6 +12368,21 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6334685",
+          "author": null,
+          "description": "Verschillende steden in ons land worstelen met arbeidsmigratie. Het gaat daarbij vaak om problemen rond huisvesting, uitbuiting en onderbetaling. Ook in Den Haag, waar enkele tienduizenden arbeidsmigranten uit Oost-Europa wonen, is dit aan de orde van de dag.",
+          "link": "https://www.nu.nl/economie/6334685/in-het-haagse-kleine-centrum-is-het-een-komen-en-gaan-van-arbeidsmigranten.html",
+          "publishedOn": "2024-11-09T17:26:51.000Z",
+          "wordCount": 401,
+          "title": "In het Haagse 'kleine centrum' is het een komen en gaan van arbeidsmigranten",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/giyxl3yasyjd_sqr256/228/0/5451/5451/in-het-haagse-kleine-centrum-is-het-een-komen-en-gaan-van-arbeidsmigranten.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/giyxl3yasyjd_sqr256/228/0/5451/5451/in-het-haagse-kleine-centrum-is-het-een-komen-en-gaan-van-arbeidsmigranten.jpg"
+        },
+        {
           "id": "article-6334808",
           "author": null,
           "description": "Booking Holdings, het Amerikaanse moederbedrijf van onder meer Booking.com, wil zijn personeelsbestand inkrimpen. Het is nog niet bekend hoeveel banen er verdwijnen en of er banen worden geschrapt bij de hotelboekingssite.",
@@ -18156,21 +18171,6 @@
             "url": "https://images.nu.nl/m/58wxj83ad3pg_sqr256/1840/0/3660/3660/nederlandse-export-krimpt-weer-na-korte-opleving.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/58wxj83ad3pg_sqr256/1840/0/3660/3660/nederlandse-export-krimpt-weer-na-korte-opleving.jpg"
-        },
-        {
-          "id": "article-6331300",
-          "author": null,
-          "description": "In september is het aantal fallissementen van bedrijven weer flink opgelopen na een dipje in augustus. In de eerste negen maanden van 2024 waren er zelfs 40 procent meer bankroeten dan in dezelfde periode in 2023.",
-          "link": "https://www.nu.nl/economie/6331300/meer-bedrijven-leggen-het-loodje-aantal-faillissementen-stijgt-met-40-procent.html",
-          "publishedOn": "2024-10-11T06:00:32.000Z",
-          "wordCount": 401,
-          "title": "Meer bedrijven leggen het loodje: aantal faillissementen stijgt met 40 procent",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/m1nxj6na6kjk_sqr256/527/167/847/847/meer-bedrijven-leggen-het-loodje-aantal-faillissementen-stijgt-met-40-procent.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/m1nxj6na6kjk_sqr256/527/167/847/847/meer-bedrijven-leggen-het-loodje-aantal-faillissementen-stijgt-met-40-procent.jpg"
         }
       ]
     },
@@ -26497,6 +26497,16 @@
       "siteUrl": "https://finance.yahoo.com/",
       "articles": [
         {
+          "id": "prospects-dividend-favorite-realty-income-161700782.html",
+          "author": null,
+          "description": "Will tenant struggles impact the stock?",
+          "link": "https://finance.yahoo.com/news/prospects-dividend-favorite-realty-income-161700782.html",
+          "publishedOn": "2024-11-09T16:17:00.000Z",
+          "wordCount": 36478,
+          "title": "Do the Prospects for Dividend Favorite Realty Income Look Strong, or Is Trouble Brewing?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/u7ZIZyzHuVno_DWfmjhUfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODQ-/https://media.zenfs.com/en/motleyfool.com/90df1d6e7e56684d5356552c0988cc89"
+        },
+        {
           "id": "whats-next-for-nuclear-stocks-after-regulatory-pushback-160027265.html",
           "author": null,
           "description": "The nuclear energy boom is a story the market ran with. Then came a regulatory wrist slap that briefly stopped the nuclear energy stock rally in its tracks.",
@@ -26505,6 +26515,26 @@
           "wordCount": 37081,
           "title": "What’s next for nuclear stocks after regulatory pushback?",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/6Vz4Y1q5bsLTP45w2yOzig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/abfed7e0-9e12-11ef-bb97-0882bfcc2cef"
+        },
+        {
+          "id": "think-too-buy-nvidia-heres-160000953.html",
+          "author": null,
+          "description": "Data centers are in a long-term transition to accelerated computing.",
+          "link": "https://finance.yahoo.com/news/think-too-buy-nvidia-heres-160000953.html",
+          "publishedOn": "2024-11-09T16:00:00.000Z",
+          "wordCount": 35465,
+          "title": "Think It's Too Late to Buy Nvidia? Here's the Biggest Reason Why There's Still Time.",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/HWiH3dmNhkqFv_pLD5.Frw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/e2b2c105e03ac9a9596e270665e2a252"
+        },
+        {
+          "id": "warren-buffett-invested-99-billion-151600842.html",
+          "author": null,
+          "description": "Berkshire Hathaway has been trimming its equity portfolio, but it's still heavily exposed to these two components.",
+          "link": "https://finance.yahoo.com/news/warren-buffett-invested-99-billion-151600842.html",
+          "publishedOn": "2024-11-09T15:16:00.000Z",
+          "wordCount": 36537,
+          "title": "Warren Buffett Invested $99 Billion of His Portfolio in 2 Stocks That Could Rise 19% and 20%, According to a Couple of Wall Street Analysts",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/jj3993Xb1Ry.f6RbGi4.FA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/761a44caa8859f5d2928734a86a2120d"
         },
         {
           "id": "palantir-stock-vs-microsoft-stock-150932495.html",
@@ -26595,6 +26625,16 @@
           "wordCount": 36237,
           "title": "Move Over Nvidia and Palantir, This AI Juggernaut Is Up 628% Year to Date. Can the Stock's Momentum Continue?",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/akO3FbcxN1Ar1ECkW59YWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDA-/https://media.zenfs.com/en/motleyfool.com/a4b66ee19ceb166c411bcf04f6af5a01"
+        },
+        {
+          "id": "secret-exxonmobil-transformed-much-more-134500235.html",
+          "author": null,
+          "description": "The energy giant's strategy has fundamentally improved its ability to make money.",
+          "link": "https://finance.yahoo.com/news/secret-exxonmobil-transformed-much-more-134500235.html",
+          "publishedOn": "2024-11-09T13:45:00.000Z",
+          "wordCount": 36202,
+          "title": "The Secret to How ExxonMobil Has Transformed Into a Much More Profitable Energy Company",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/O0bO1.MgdvCrg0A9NNtSiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/motleyfool.com/b2051a56cc770ac5036ebc7e04854dba"
         },
         {
           "id": "2-monster-stocks-hold-next-133000915.html",
