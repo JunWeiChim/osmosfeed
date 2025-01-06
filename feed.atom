@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-06T07:15:38.508Z</updated>
+    <updated>2025-01-06T08:20:30.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -541,6 +541,15 @@
         <link href="https://finance.yahoo.com/news/top-warren-buffett-stock-could-104600754.html"/>
         <updated>2025-01-05T10:46:00.000Z</updated>
         <summary type="html"><![CDATA[Excluding the stock positions Buffett trimmed throughout 2024, this is by far the famed investor's biggest bet.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Centerview Partners Considers a Deal of Its Own After Record Year]]></title>
+        <id>centerview-partners-bank-deals-3c24db25?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.wsj.com/finance/centerview-partners-bank-deals-3c24db25?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2025-01-05T10:30:00.000Z</updated>
         <author>
             <name>Yahoo Finance</name>
         </author>
