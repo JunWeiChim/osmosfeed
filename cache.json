@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "e4020e18c1394dd77bbb2fd1ce6ccca5",
+          "author": "Learn about our",
+          "description": "Coming up: earnings from Big Tech, the latest jobs report, consumer sentiment data, and more.",
+          "link": "https://www.investopedia.com/what-to-expect-in-the-markets-this-week-8783286",
+          "publishedOn": "2025-02-02T10:00:00.000Z",
+          "wordCount": 8789,
+          "title": "What To Expect in the Markets This Week",
+          "imageUrl": "https://www.investopedia.com/thmb/nGm0htCKQ-lRlIYerKQKT1QOXWI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2166130918-50c04a338cd4480c94e44de0f875beca.jpg"
+        },
+        {
           "id": "69b9d88bd9bb9b0bcb99fce5f0e160ab",
           "author": "Learn about our",
           "description": "President Donald Trump ordered 25% tariffs on Mexico, 25% tariffs on Canada, and 10% tariffs on China. The three countries account for two-fifths of imports.",
@@ -7842,16 +7852,6 @@
           "wordCount": 7215,
           "title": "Microsoft Slated to Invest $80 Billion in AI-Enabled Data Centers This Fiscal Year",
           "imageUrl": "https://www.investopedia.com/thmb/0xFqiBsJWeCulwOq7fn4lltRqhE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2033638662-344dd79f527646f5be4093050889e860.jpg"
-        },
-        {
-          "id": "7569694447f57f029c6697c96958cede",
-          "author": "Learn about our",
-          "description": "The S&P 500 added 1.3% on Friday, Jan. 3, ending a streak of five straight down days as stocks looked to regain their momentum to start the new trading year.",
-          "link": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-index-jumps-as-supermicro-and-tesla-bounce-back-8768721",
-          "publishedOn": "2025-01-03T21:53:05.000Z",
-          "wordCount": 7287,
-          "title": "S&P 500 Gains and Losses Today: Index Jumps as Supermicro and Tesla Bounce Back",
-          "imageUrl": "https://www.investopedia.com/thmb/sxkpKwCJdklgJvqLN1QfO7_2wFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1231124954-fac4ab8390b34b8690301febddb0a92b.jpg"
         }
       ]
     },
@@ -7860,6 +7860,16 @@
       "feedUrl": "https://rss.app/feeds/UWnMV6nTNN8mPDUG.xml",
       "siteUrl": "https://www.investopedia.com/markets-news-4427704",
       "articles": [
+        {
+          "id": "e4020e18c1394dd77bbb2fd1ce6ccca5",
+          "author": "Learn about our",
+          "description": "Coming up: earnings from Big Tech, the latest jobs report, consumer sentiment data, and more.",
+          "link": "https://www.investopedia.com/what-to-expect-in-the-markets-this-week-8783286",
+          "publishedOn": "2025-02-02T10:00:00.000Z",
+          "wordCount": 8780,
+          "title": "What To Expect in the Markets This Week",
+          "imageUrl": "https://www.investopedia.com/thmb/nGm0htCKQ-lRlIYerKQKT1QOXWI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2166130918-50c04a338cd4480c94e44de0f875beca.jpg"
+        },
         {
           "id": "69b9d88bd9bb9b0bcb99fce5f0e160ab",
           "author": "Learn about our",
@@ -15729,16 +15739,6 @@
           "wordCount": 7206,
           "title": "Microsoft Slated to Invest $80 Billion in AI-Enabled Data Centers This Fiscal Year",
           "imageUrl": "https://www.investopedia.com/thmb/0xFqiBsJWeCulwOq7fn4lltRqhE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2033638662-344dd79f527646f5be4093050889e860.jpg"
-        },
-        {
-          "id": "7569694447f57f029c6697c96958cede",
-          "author": "Learn about our",
-          "description": "The S&P 500 added 1.3% on Friday, Jan. 3, ending a streak of five straight down days as stocks looked to regain their momentum to start the new trading year.",
-          "link": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-index-jumps-as-supermicro-and-tesla-bounce-back-8768721",
-          "publishedOn": "2025-01-03T21:53:05.000Z",
-          "wordCount": 7287,
-          "title": "S&P 500 Gains and Losses Today: Index Jumps as Supermicro and Tesla Bounce Back",
-          "imageUrl": "https://www.investopedia.com/thmb/sxkpKwCJdklgJvqLN1QfO7_2wFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1231124954-fac4ab8390b34b8690301febddb0a92b.jpg"
         }
       ]
     },
@@ -20824,6 +20824,21 @@
       "feedUrl": "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
       "siteUrl": "https://www.investopedia.com",
       "articles": [
+        {
+          "id": "8783286",
+          "author": "Terry Lane",
+          "description": "Coming Up: Big Tech Earnings, the Latest Jobs Report, Consumer Sentiment Data, and More",
+          "link": "https://www.investopedia.com/what-to-expect-in-the-markets-this-week-8783286",
+          "publishedOn": "2025-02-02T10:00:00.000Z",
+          "wordCount": 8789,
+          "title": "What To Expect in the Markets This Week",
+          "enclosure": {
+            "url": "https://www.investopedia.com/thmb/sn41Yu6mks_w65D7obbYw0I2fcA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2166130918-50c04a338cd4480c94e44de0f875beca.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://www.investopedia.com/thmb/sn41Yu6mks_w65D7obbYw0I2fcA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2166130918-50c04a338cd4480c94e44de0f875beca.jpg"
+        },
         {
           "id": "8783771",
           "author": "Taylor Tompkins",
@@ -29013,21 +29028,6 @@
             "length": "0"
           },
           "imageUrl": "https://www.investopedia.com/thmb/ZuHxYAqvUlyOZOvJx7RGEtTtNWU=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2033638662-344dd79f527646f5be4093050889e860.jpg"
-        },
-        {
-          "id": "8768721",
-          "author": "Michael Bromberg",
-          "description": "The S&P 500 added 1.3% on Friday, Jan. 3, ending a streak of five straight down days as stocks looked to regain their momentum to start the new trading year.",
-          "link": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-index-jumps-as-supermicro-and-tesla-bounce-back-8768721",
-          "publishedOn": "2025-01-03T21:53:05.000Z",
-          "wordCount": 7278,
-          "title": "S&P 500 Gains and Losses Today: Index Jumps as Supermicro and Tesla Bounce Back",
-          "enclosure": {
-            "url": "https://www.investopedia.com/thmb/xJGLNTcF0HCFy2_-WKLekOurOUA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1231124954-fac4ab8390b34b8690301febddb0a92b.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://www.investopedia.com/thmb/xJGLNTcF0HCFy2_-WKLekOurOUA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1231124954-fac4ab8390b34b8690301febddb0a92b.jpg"
         }
       ]
     },
@@ -29267,6 +29267,36 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ovrcHtWjuWeW708CWElIWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d0-4f64-11ef-a7fe-afb55aa695d3"
         },
         {
+          "id": "savings-interest-rates-today-saturday-february-1-2025-110022009.html",
+          "author": null,
+          "description": "If you’re searching for today’s best savings interest rates, we’ve narrowed down some of the top offers. Learn more about savings interest rates today.",
+          "link": "https://finance.yahoo.com/personal-finance/banking/article/savings-interest-rates-today-saturday-february-1-2025-110022009.html",
+          "publishedOn": "2025-02-01T11:00:22.000Z",
+          "wordCount": 37561,
+          "title": "Savings interest rates today, February 1, 2025 (best account provides 4.75% APY)",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/aRDcY28ieSeI9vEdf5zsPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/ca22a990-4b79-11ef-bb75-05cc1913c137"
+        },
+        {
+          "id": "money-market-account-rates-today-saturday-february-1-2025-110014342.html",
+          "author": null,
+          "description": "If you’re searching for today’s best money market account rates, we’ve narrowed down some of the top offers. Learn more about money market account rates today.",
+          "link": "https://finance.yahoo.com/personal-finance/banking/article/money-market-account-rates-today-saturday-february-1-2025-110014342.html",
+          "publishedOn": "2025-02-01T11:00:14.000Z",
+          "wordCount": 37470,
+          "title": "Money market account rates today, February 1, 2025 (best account provides 4.75% APY)",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/.LWYA5j.RKi8aA13EgBJiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/799dbc20-dd1b-11ee-bbf7-30d046c32605"
+        },
+        {
+          "id": "mortgage-refinance-rates-today-saturday-february-1-2025-110002982.html",
+          "author": null,
+          "description": "These are today's mortgage and refinance rates. The 30-year rate has been decreasing, but rates could start rising again soon. Lock in your rate today.",
+          "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-saturday-february-1-2025-110002982.html",
+          "publishedOn": "2025-02-01T11:00:02.000Z",
+          "wordCount": 40271,
+          "title": "Mortgage and refinance rates today, February 1, 2025: The 30-year rate decreases for a full week",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/fK9okicBoD2VGZ7E4.6v7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/86ef4c20-03dd-11ef-b7af-5ddf7b57fe6e"
+        },
+        {
           "id": "the-stock-market-is-sensitive--yet-clearly-optimistic-chart-of-the-week-105449069.html",
           "author": null,
           "description": "Tech stocks fell sharply after the market realized the implications of DeepSeek's AI models. But they returned to where they were a week prior before dipping once again on Trump news. Which all points to a deeply sensitive — but optimistic — market.",
@@ -29275,6 +29305,26 @@
           "wordCount": 34869,
           "title": "The stock market is sensitive — yet clearly optimistic: Chart of the Week",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/y6qQPtr8_gCqgGGhSbFrGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODk-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/909084a0-e015-11ef-8f5f-54dd748ccfb8"
+        },
+        {
+          "id": "prediction-market-bets-test-limits-c52f556d?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/finance/regulation/prediction-market-bets-test-limits-c52f556d?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2025-02-01T10:30:00.000Z",
+          "wordCount": null,
+          "title": "Want to Bet on the L.A. Wildfires? Prediction Markets Are Getting Edgy",
+          "imageUrl": null
+        },
+        {
+          "id": "upss-boss-is-under-pressure-from-unhappy-investorsits-own-retirees-f01a8dd3?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/business/logistics/upss-boss-is-under-pressure-from-unhappy-investorsits-own-retirees-f01a8dd3?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2025-02-01T10:30:00.000Z",
+          "wordCount": null,
+          "title": "UPS’s Boss Is Under Pressure From Unhappy Investors—Its Own Retirees",
+          "imageUrl": null
         },
         {
           "id": "tencent-backed-webank-eyes-web3-093000081.html",
@@ -29295,6 +29345,46 @@
           "wordCount": 34930,
           "title": "JD.com-backed gadget platform ATRenew banks on China's trade-in subsidy to spur volume",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/QVd48UHuE.8_uTgeddoCIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTU-/https://media.zenfs.com/en/south_china_morning_post_us_228/ce710e7db5da5ebb8a558e85fd191130"
+        },
+        {
+          "id": "verizon-sees-more-40-billion-083300663.html",
+          "author": null,
+          "description": "Like most companies, Verizon Communications (NYSE: VZ) is looking at how it can best leverage the power of artificial intelligence (AI).  The telecom giant is already using the technology to enhance the customer experience and drive efficiencies in its business.  It sees an even greater market opportunity to leverage its assets to connect the AI ecosystem.",
+          "link": "https://finance.yahoo.com/news/verizon-sees-more-40-billion-083300663.html",
+          "publishedOn": "2025-02-01T08:33:00.000Z",
+          "wordCount": 34985,
+          "title": "Verizon Sees a More Than $40 Billion AI Opportunity by 2030",
+          "imageUrl": "https://media.zenfs.com/en/motleyfool.com/a241069549a0cdede96d6ead1658da38"
+        },
+        {
+          "id": "1-index-fund-buy-soars-081500325.html",
+          "author": null,
+          "description": "Goldman Sachs strategists set their 2025 target for the S&P 500 (SNPINDEX: ^GSPC) at 6,500.  Goldman Sachs recently updated its long-term forecast to account for the S&P 500's historically expensive valuation and nearly unprecedented concentration.  Goldman Sachs thinks an equal-weight fund could outperform the S&P 500 by as much as 8 percentage points annually, implying a total return of 184% in the next decade.",
+          "link": "https://finance.yahoo.com/news/1-index-fund-buy-soars-081500325.html",
+          "publishedOn": "2025-02-01T08:15:00.000Z",
+          "wordCount": 35111,
+          "title": "1 Index Fund to Buy Before It Soars 184%, According to Certain Wall Street Analysts",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/yES3rkgklBjCtSxFOyHEQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODI-/https://media.zenfs.com/en/motleyfool.com/f315c2e129f0088e0fc87a51d21d5967"
+        },
+        {
+          "id": "tesla-stock-vs-palantir-stock-080500021.html",
+          "author": null,
+          "description": "Shares of Tesla (NASDAQ: TSLA) and Palantir Technologies (NASDAQ: PLTR) have advanced 109% and 385%, respectively, in the past year.  Ken Griffin of Citadel bought 1.1 million shares of Tesla, increasing his position by 396%.  Tesla now ranks among his 25 largest holdings excluding options.",
+          "link": "https://finance.yahoo.com/news/tesla-stock-vs-palantir-stock-080500021.html",
+          "publishedOn": "2025-02-01T08:05:00.000Z",
+          "wordCount": 35564,
+          "title": "Tesla Stock vs. Palantir Stock: Billionaires Buy One and Sell the Other",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/JXNAp.QIl5gqH.gY3LzPcA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/e79484950472e606b18f7e4490380cda"
+        },
+        {
+          "id": "reeves-claims-workers-rights-boost-080000484.html",
+          "author": null,
+          "description": "“First and foremost, it is businesses, investors and entrepreneurs who drive economic growth,” Rachel Reeves declared in her set-piece speech on growth. Labour was building a “government that systematically removes the barriers that they face – one by one – and has their back”, the Chancellor boasted.",
+          "link": "https://finance.yahoo.com/news/reeves-claims-workers-rights-boost-080000484.html",
+          "publishedOn": "2025-02-01T08:00:00.000Z",
+          "wordCount": 35195,
+          "title": "Jobless France could become a vision of Britain’s future – here’s why",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/2Ea.6PukySsSKCPIMqDkTQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/ec18651c61b281cf01f7d16ad51d7cb6"
         },
         {
           "id": "investing-buy-stocks-dollar-cost-averaging-cf07c979?siteid=yhoof2&yptr=yahoo",
@@ -86624,226 +86714,6 @@
           "publishedOn": "2025-01-03T22:15:00.000Z",
           "wordCount": null,
           "title": "Best Stock to Buy Right Now: Walmart vs. Costco",
-          "imageUrl": null
-        },
-        {
-          "id": "argentina-unveils-1-billion-repo-184626349.html",
-          "author": null,
-          "description": "(Bloomberg) -- Argentina unveiled a $1 billion repurchase agreement with five international lenders that will help replenish foreign reserves at its central bank, a key victory for President Javier Milei as he works to stabilize South America’s second-largest economy.Most Read from BloombergIs This Weird Dome the Future of Watching Sports?NYC Congestion Pricing to Take Effect After Years of DelaysNYPD Seeking Gunmen After 10 People Wounded Outside Queens VenueBurned-Out Parents Need Better Publi",
-          "link": "https://finance.yahoo.com/news/argentina-unveils-1-billion-repo-184626349.html",
-          "publishedOn": "2025-01-03T22:11:20.000Z",
-          "wordCount": 36144,
-          "title": "Milei Scores Win With $1 Billion Repo From Five Top Banks",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/GGUTJY2j3add7wLAE3FqnQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/c43f0fa382a70bed69907d439a8e4e15"
-        },
-        {
-          "id": "us-vehicle-sales-rose-2-220751821.html",
-          "author": null,
-          "description": "New vehicle sales in the U.S. rose 2.7% last year as prices and interest rates eased a bit, making SUVs, cars and trucks a little more affordable.  Despite high sales prices that averaged more than $47,000, automakers sold just over 16 million vehicles in the U.S. last year, Motorintelligence.com said Friday.  Electric vehicle sales rose 8.8% for the year to just under 1.3 million, beating 2023's record of 1.19 million.",
-          "link": "https://finance.yahoo.com/news/us-vehicle-sales-rose-2-220751821.html",
-          "publishedOn": "2025-01-03T22:07:51.000Z",
-          "wordCount": 35751,
-          "title": "US new vehicle sales rose 2.7% last year as prices and interest rates dropped a little",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Y7Vgv3Iovz2eo4Ly1oQf4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/8c8b445a8359430a0ad13fdb6bd97b2c"
-        },
-        {
-          "id": "asian-stocks-drop-dour-day-222622487.html",
-          "author": null,
-          "description": "(Bloomberg) -- Investors have finally been induced to buy the dip in US stocks. After a five-day drop that shaved more than a trillion dollars off share prices, Wall Street put the longest equities losing streak since April behind it.Most Read from BloombergIs This Weird Dome the Future of Watching Sports?NYC Congestion Pricing to Take Effect After Years of DelaysNYPD Seeking Gunmen After 10 People Wounded Outside Queens VenueBurned-Out Parents Need Better Public SpacesDetroit’s Michigan Central",
-          "link": "https://finance.yahoo.com/news/asian-stocks-drop-dour-day-222622487.html",
-          "publishedOn": "2025-01-03T22:07:49.000Z",
-          "wordCount": 37060,
-          "title": "Stocks Snap Five-Day Drop as Dollar Retreats: Markets Wrap",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/rSrBVuRc5VA7JrmtMsHuEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/6811b4a0-c485-11ef-8ef7-17c5d593326c"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/research/swing-trading/why-we-lightened-up-on-nasdaq-100-exposure-to-end-the-year/?src=A00220&yptr=yahoo",
-          "publishedOn": "2025-01-03T21:59:20.000Z",
-          "wordCount": null,
-          "title": "Why We Lightened Up On Nasdaq 100 Exposure To End The Year",
-          "imageUrl": null
-        },
-        {
-          "id": "meta-stock-is-a-buy-and-netflix-is-set-for-more-sports-streaming-analysts-say-dcf2cf51?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/meta-stock-is-a-buy-and-netflix-is-set-for-more-sports-streaming-analysts-say-dcf2cf51?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2025-01-03T21:59:00.000Z",
-          "wordCount": null,
-          "title": "Meta Stock Is a Buy and Netflix Is Set for More Sports Streaming, Analysts Say",
-          "imageUrl": null
-        },
-        {
-          "id": "financial-services-roundup-market-talk-7b223a12?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.wsj.com/finance/investing/financial-services-roundup-market-talk-7b223a12?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2025-01-03T21:56:00.000Z",
-          "wordCount": null,
-          "title": "Financial Services Roundup: Market Talk",
-          "imageUrl": null
-        },
-        {
-          "id": "energy-utilities-roundup-market-talk-be8b8de1?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-be8b8de1?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2025-01-03T21:53:00.000Z",
-          "wordCount": null,
-          "title": "Energy & Utilities Roundup: Market Talk",
-          "imageUrl": null
-        },
-        {
-          "id": "auto-transport-roundup-market-talk-86cd2bb0?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.wsj.com/business/autos/auto-transport-roundup-market-talk-86cd2bb0?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2025-01-03T21:52:00.000Z",
-          "wordCount": null,
-          "title": "Auto & Transport Roundup: Market Talk",
-          "imageUrl": null
-        },
-        {
-          "id": "tech-media-telecom-roundup-market-talk-c491bdbd?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-c491bdbd?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2025-01-03T21:51:00.000Z",
-          "wordCount": null,
-          "title": "Tech, Media & Telecom Roundup: Market Talk",
-          "imageUrl": null
-        },
-        {
-          "id": "rivian-stock-soars-after-beating-delivery-expectations-hRGX2DIuLQigS3iv5Zo0?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-01-03-2025/card/rivian-stock-soars-after-beating-delivery-expectations-hRGX2DIuLQigS3iv5Zo0?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2025-01-03T21:50:09.000Z",
-          "wordCount": null,
-          "title": "Rivian Stock Soars After Beating Delivery Expectations",
-          "imageUrl": null
-        },
-        {
-          "id": "nvidia-stock-jumped-today-artificial-214725008.html",
-          "author": null,
-          "description": "Nvidia stock has skyrocketed 200% over the last year. Can the AI frontrunner serve up more wins in 2025 and beyond?",
-          "link": "https://finance.yahoo.com/news/nvidia-stock-jumped-today-artificial-214725008.html",
-          "publishedOn": "2025-01-03T21:47:25.000Z",
-          "wordCount": 35661,
-          "title": "Nvidia Stock Jumped Today -- Is the Artificial Intelligence (AI) Leader a Buy for 2025?",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/WS_EiSJcQldS0RplJTjs5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODY-/https://media.zenfs.com/en/motleyfool.com/1aedc88a4646c170ed4a26b0df227c9d"
-        },
-        {
-          "id": "why-ai-chip-stocks-nvidia-213730892.html",
-          "author": null,
-          "description": "Here's what was so positive about what Microsoft had to say, and why it may have tamped down some recent market fears.  In a blog post this morning, Microsoft Vice President Brad Smith wrote bullishly on the prospects and importance of generative artificial intelligence.",
-          "link": "https://finance.yahoo.com/news/why-ai-chip-stocks-nvidia-213730892.html",
-          "publishedOn": "2025-01-03T21:37:30.000Z",
-          "wordCount": 36382,
-          "title": "Why AI Chip Stocks Nvidia, Taiwan Semiconductor Manufacturing, and Arm Holdings Rallied Today",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Fj3VE7LLhf9G3FsjRIUJnw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzM-/https://media.zenfs.com/en/motleyfool.com/6af4d3b5c025a4399d9959f0b0bdcf16"
-        },
-        {
-          "id": "bitcoin-etfs-start-2025-record-213112017.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/news/bitcoin-etfs-start-2025-record-213112017.html",
-          "publishedOn": "2025-01-03T21:31:12.000Z",
-          "wordCount": null,
-          "title": "Bitcoin ETFs Start 2025 With Record Outflows",
-          "imageUrl": null
-        },
-        {
-          "id": "landsea-homes-landbridge-and-more-stocks-see-action-from-activist-investors-fec4b09d?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/landsea-homes-landbridge-and-more-stocks-see-action-from-activist-investors-fec4b09d?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2025-01-03T21:31:00.000Z",
-          "wordCount": null,
-          "title": "Landsea Homes, LandBridge, and More Stocks See Action From Activist Investors",
-          "imageUrl": null
-        },
-        {
-          "id": "new-rules-of-investing-mark-haefele-book-fb4466e9?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/new-rules-of-investing-mark-haefele-book-fb4466e9?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2025-01-03T21:30:00.000Z",
-          "wordCount": null,
-          "title": "Another Crypto Risk Lurks. Governments Could Be Tempted to Confiscate Your Coins.",
-          "imageUrl": null
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/news/technology/reddit-stock-2025-buy-sell-ai-search/?src=A00220&yptr=yahoo",
-          "publishedOn": "2025-01-03T21:28:48.000Z",
-          "wordCount": null,
-          "title": "Reddit Stock Jumps Near High. Analyst Says Search Will Be Key Theme For 2025.",
-          "imageUrl": null
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.investors.com/research/ibd-stock-of-the-day/spotify-stock-actionable-new-year-bounce/?src=A00220&yptr=yahoo",
-          "publishedOn": "2025-01-03T21:22:21.000Z",
-          "wordCount": null,
-          "title": "Spotify, IBD Stock Of The Day, Is Actionable After New Year's Bounce",
-          "imageUrl": null
-        },
-        {
-          "id": "risk-appetites-dim-week-angst-212215454.html",
-          "author": null,
-          "description": "(Bloomberg) -- The turning of the calendar is an occasion to look ahead. For Wall Street at New Year’s, the verdict on the future is one of trepidation.Most Read from BloombergIs This Weird Dome the Future of Watching Sports?NYC Congestion Pricing to Take Effect After Years of DelaysNYPD Seeking Gunmen After 10 People Wounded Outside Queens VenueBurned-Out Parents Need Better Public SpacesDetroit’s Michigan Central Is the Building Revival Story of 2024While spirits perked up on Friday, traders a",
-          "link": "https://finance.yahoo.com/news/risk-appetites-dim-week-angst-212215454.html",
-          "publishedOn": "2025-01-03T21:22:15.000Z",
-          "wordCount": 36649,
-          "title": "Risk Appetites Dim in Week of New Year’s Angst on Wall Street",
-          "imageUrl": "https://media.zenfs.com/en/bloomberg_markets_842/ee3c6cd0b1b178faa1ed021949abac95"
-        },
-        {
-          "id": "tesla-ev-stock-ford-gm-a3bf755d?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/tesla-ev-stock-ford-gm-a3bf755d?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2025-01-03T21:22:00.000Z",
-          "wordCount": null,
-          "title": "Ford, GM Grew EV Sales Faster Than Tesla. What It Means for the Stocks.",
-          "imageUrl": null
-        },
-        {
-          "id": "us-steel-stock-biden-block-nippon-f42ee918?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/us-steel-stock-biden-block-nippon-f42ee918?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2025-01-03T21:20:00.000Z",
-          "wordCount": null,
-          "title": "U.S. Steel Decries ‘Unlawful’ Biden Block of Nippon Steel Takeover",
-          "imageUrl": null
-        },
-        {
-          "id": "boeing-tesla-u-s-steel-unity-software-18233b0f?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.wsj.com/finance/stocks/boeing-tesla-u-s-steel-unity-software-18233b0f?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2025-01-03T21:16:00.000Z",
-          "wordCount": null,
-          "title": "The Score: Boeing, Tesla, U.S. Steel and More Stocks That Defined the Week",
-          "imageUrl": null
-        },
-        {
-          "id": "teslas-stock-price-bear-market-deliveries-89591d5d?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/teslas-stock-price-bear-market-deliveries-89591d5d?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2025-01-03T21:15:00.000Z",
-          "wordCount": null,
-          "title": "Tesla Stock Jumped After Analyst Price Target Increase. So Much for the Bear Market.",
           "imageUrl": null
         }
       ]
