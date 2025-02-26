@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T04:19:32.081Z</updated>
+    <updated>2025-02-26T05:15:53.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Een kortere werkweek? Het kan alleen in bepaalde sectoren]]></title>
+        <id>article-6347153</id>
+        <link href="https://www.nu.nl/economie/6347153/een-kortere-werkweek-het-kan-alleen-in-bepaalde-sectoren.html"/>
+        <updated>2025-02-26T05:12:43.000Z</updated>
+        <summary type="html"><![CDATA[De vierdaagse werkweek krijgt langzaam voet aan de grond op de werkvloer. Maar het is de vraag of dit in alle sectoren en bij alle bedrijven mogelijk is, aangezien veel mensen al in deeltijd werken.]]></summary>
+        <author>
+            <name>NU - Economie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What's Next for Bitcoin After Cryptocurrency Falls Below $90K? Key Levels to Watch]]></title>
         <id>62c9c69bc08a90d9ae8d20fe237a5b98</id>
@@ -692,6 +702,16 @@
         <link href="https://finance.yahoo.com/news/ai-stocks-battered-heading-break-175038300.html"/>
         <updated>2025-02-25T17:50:38.000Z</updated>
         <summary type="html"><![CDATA[Artificial intelligence-linked shares fell on Tuesday, in lead-up to AI bellwether Nvidia's quarterly earnings, which could offer clarity on demand and justify the sector's lofty valuations.  Technology stocks globally sold off this week after a TD Cowen analyst note said Microsoft has canceled leases for sizeable data center capacity in the U.S., with at least two private data-center operators.  AI-darling Nvidia dropped 2.1% ahead of its highly anticipated quarterly earnings on Wednesday, where investors will focus on demand for its pricey AI chips after low-cost AI models from China's DeepSeek rattled the industry.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Intel Stock Is Sinking Today]]></title>
+        <id>why-intel-stock-sinking-today-175030441.html</id>
+        <link href="https://finance.yahoo.com/news/why-intel-stock-sinking-today-175030441.html"/>
+        <updated>2025-02-25T17:50:30.000Z</updated>
+        <summary type="html"><![CDATA[Shares of Intel (NASDAQ: INTC) are falling on Tuesday.  The drop comes as the S&P 500 (SNPINDEX: ^GSPC) slipped 0.8% and the Nasdaq Composite (NASDAQINDEX: ^IXIC) lost 1.4%.  Intel saw its shares fall in the midst of escalating trade tensions, as well as news that officials had no knowledge of a possible deal with Taiwan Semiconductor that had helped boost Intel's stock earlier in the month.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -3085,11 +3105,48 @@ Trump said tariffs on Canada and Mexico would go ahead on schedule next month fo
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Warren Buffett May Not Think Berkshire Hathaway Stock Is Cheap]]></title>
+        <id>warren-buffett-berkshire-hathaway-stock-buybacks-ab9f720f?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.barrons.com/articles/warren-buffett-berkshire-hathaway-stock-buybacks-ab9f720f?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2025-02-24T18:33:00.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Block Stock Is Still Falling. One Analyst Sees an Opportunity.]]></title>
+        <id>block-stock-buy-sell-69746042?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.barrons.com/articles/block-stock-buy-sell-69746042?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2025-02-24T18:13:00.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Stock Hits All-Time High Amid Generative AI Transformer Push, Eyes New Buy Point]]></title>
+        <id>?src=A00220&amp;yptr=yahoo</id>
+        <link href="https://www.investors.com/research/clearwater-analytics-ai-stock-software-cwan-stock/?src=A00220&amp;yptr=yahoo"/>
+        <updated>2025-02-24T18:07:03.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microsoft is canceling data center leases, analysts say — and the stock slips]]></title>
         <id>microsoft-canceling-data-center-leases-180358722.html</id>
         <link href="https://finance.yahoo.com/news/microsoft-canceling-data-center-leases-180358722.html"/>
         <updated>2025-02-24T18:03:58.000Z</updated>
         <summary type="html"><![CDATA[Microsoft (MSFT) shares fell slightly on Monday following an analyst report that the company canceled some U.S. data center leases, potentially signaling an oversupply of AI infrastructure.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fed expected to respond strongly to inflation, job market conditions, research shows]]></title>
+        <id>fed-expected-respond-strongly-inflation-180207678.html</id>
+        <link href="https://finance.yahoo.com/news/fed-expected-respond-strongly-inflation-180207678.html"/>
+        <updated>2025-02-24T18:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Investors and economists expect the U.S. central bank to respond "strongly and systematically"  to changes in inflation and the labor market, according to research published on Monday by the San Francisco Fed that underscores the current sensitivity of financial markets to U.S. economic data.  The Fed's perceived responsiveness to economic data picked up notably in 2022, driven first by inflation data and, last year, by labor market data, based on the analysis of perceptions embedded in professional forecasts and in bond market moves published in the regional Fed bank's latest Economic Letter.  The findings are in line with the Fed's actual response to inflation, which rose in 2021 but did not trigger any interest rate hikes until 2022.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -3135,6 +3192,15 @@ Trump said tariffs on Canada and Mexico would go ahead on schedule next month fo
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nike Stock Jumps After Jefferies Upgrade]]></title>
+        <id>nike-stock-jumps-after-jefferies-upgrade-Ha2WyDsiENQ0ZMG83ZaO?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-02-24-2025/card/nike-stock-jumps-after-jefferies-upgrade-Ha2WyDsiENQ0ZMG83ZaO?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2025-02-24T17:48:07.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Strategy’s Latest Convertible Bond Spurs Talk of Crypto Fatigue]]></title>
         <id>strategy-latest-convertible-bond-spurs-173931140.html</id>
         <link href="https://finance.yahoo.com/news/strategy-latest-convertible-bond-spurs-173931140.html"/>
@@ -3170,6 +3236,16 @@ Trump said tariffs on Canada and Mexico would go ahead on schedule next month fo
         <link href="https://finance.yahoo.com/news/theres-an-ugly-trend-developing-in-the-stock-market-173015701.html"/>
         <updated>2025-02-24T17:30:15.000Z</updated>
         <summary type="html"><![CDATA[Keep an eye on the market's leadership stocks. They could be flashing a warning sign.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Nvidia stock looks super cheap compared to other AI names, according to Yahoo Finance readers]]></title>
+        <id>why-nvidia-stock-looks-super-cheap-compared-to-other-ai-names-according-to-yahoo-finance-readers-172801714.html</id>
+        <link href="https://finance.yahoo.com/news/why-nvidia-stock-looks-super-cheap-compared-to-other-ai-names-according-to-yahoo-finance-readers-172801714.html"/>
+        <updated>2025-02-24T17:28:01.000Z</updated>
+        <summary type="html"><![CDATA[Readers shared their views with Yahoo Finance on why Nvidia's stock may look "cheap" on a price-to-earnings ratio basis.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -79477,281 +79553,6 @@ The Nasdaq Compos]]></summary>
 The blue-chip index was up 56 points, or up 0.1%, after trading lower for much of the morning. The S&P 500 was still down 1.8%. The Nasdaq Composite slid 3%.
 
 A majority of Dow and S&P 500 stocks were rising, but both index]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MicroStrategy Adds Another Billion in Bitcoin, Will Sell More Shares For Future Buys]]></title>
-        <id>299c4861804038155c3596d0719de257</id>
-        <link href="https://www.investopedia.com/microstrategy-adds-another-billion-in-bitcoin-will-sell-more-shares-for-future-buys-8780833"/>
-        <updated>2025-01-27T17:10:23.000Z</updated>
-        <summary type="html"><![CDATA[The bitcoin treasury company purchased 10,107 bitcoin for approximately $1.1 billion over the past week.]]></summary>
-        <author>
-            <name>Learn about our</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MicroStrategy Adds Another Billion in Bitcoin, Will Sell More Shares For Future Buys]]></title>
-        <id>299c4861804038155c3596d0719de257</id>
-        <link href="https://www.investopedia.com/microstrategy-adds-another-billion-in-bitcoin-will-sell-more-shares-for-future-buys-8780833"/>
-        <updated>2025-01-27T17:10:23.000Z</updated>
-        <summary type="html"><![CDATA[The bitcoin treasury company purchased 10,107 bitcoin for approximately $1.1 billion over the past week.]]></summary>
-        <author>
-            <name>Learn about our</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MicroStrategy Adds Another Billion Worth Of Bitcoin, Will Sell More Shares For Future Buys]]></title>
-        <id>8780833</id>
-        <link href="https://www.investopedia.com/microstrategy-adds-another-billion-in-bitcoin-will-sell-more-shares-for-future-buys-8780833"/>
-        <updated>2025-01-27T17:10:23.000Z</updated>
-        <summary type="html"><![CDATA[The bitcoin treasury company purchased 10,107 bitcoin for approximately $1.1 billion over the past week.]]></summary>
-        <author>
-            <name>Kyle Torpey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viaplay-abonnees moeten meer gaan betalen om zonder reclame te blijven kijken]]></title>
-        <id>article-6343795</id>
-        <link href="https://www.nu.nl/economie/6343795/viaplay-abonnees-moeten-meer-gaan-betalen-om-zonder-reclame-te-blijven-kijken.html"/>
-        <updated>2025-01-27T17:09:05.000Z</updated>
-        <summary type="html"><![CDATA[Het streamingplatform Viaplay verhoogt de prijzen voor gebruikers die zonder reclame willen blijven kijken. Klanten die niet meer geld willen betalen, zijn vanaf maart aangewezen op een jaarlijks opzegbaar abonnement met reclame.]]></summary>
-        <author>
-            <name>NU - Economie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What DeepSeek Means for the U.S.-China Tech Battle]]></title>
-        <id>deepseek-china-u-s-tech-battle-5dffc5e6?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/articles/deepseek-china-u-s-tech-battle-5dffc5e6?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-01-27T17:09:00.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walgreens Stock Falls on Concerns Potential Buyout Deal is ‘Dead’]]></title>
-        <id>walgreens-stock-falls-on-concerns-potential-buyout-deal-is-dead--37Xcxm23a7FkoeKWJMr1?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-01-27-2025/card/walgreens-stock-falls-on-concerns-potential-buyout-deal-is-dead--37Xcxm23a7FkoeKWJMr1?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-01-27T17:06:54.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Options Traders Bet on More Volatility Ahead]]></title>
-        <id>options-traders-bet-on-more-volatility-ahead-XHjWCDIB03aHCxMh0hBK?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-01-27-2025/card/options-traders-bet-on-more-volatility-ahead-XHjWCDIB03aHCxMh0hBK?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-01-27T17:03:55.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Analytics Name Remains In Buy Zone Despite Day Of Heavy AI Selling]]></title>
-        <id>?src=A00220&amp;yptr=yahoo</id>
-        <link href="https://www.investors.com/research/data-analytics-ai-stock-exlservice-exls/?src=A00220&amp;yptr=yahoo"/>
-        <updated>2025-01-27T17:01:01.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple, Meta Platforms rise to lead 'Magnificent 7' stocks amid AI washout]]></title>
-        <id>apple-meta-platforms-rise-to-lead-magnificent-7-stocks-amid-ai-washout-170018784.html</id>
-        <link href="https://finance.yahoo.com/news/apple-meta-platforms-rise-to-lead-magnificent-7-stocks-amid-ai-washout-170018784.html"/>
-        <updated>2025-01-27T17:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Apple stock jumped Monday, proving itself resilient to the widespread AI stock selloff Monday prompted by the release of Chinese firm DeepSeek’s new cost effective artificial intelligence model.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla, BMW Sue EU as Tension Mounts on Chinese EV Tariffs]]></title>
-        <id>tesla-bmw-sue-eu-as-tension-mounts-on-chinese-ev-tariffs-9d82e8ef?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.wsj.com/business/autos/tesla-bmw-sue-eu-as-tension-mounts-on-chinese-ev-tariffs-9d82e8ef?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-01-27T16:59:00.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Stock Movers Now: Nvidia, Broadcom, Vistra, and More]]></title>
-        <id>1150963f72519604e9ef22e39bb234f1</id>
-        <link href="https://www.investopedia.com/top-stock-movers-now-nvidia-broadcom-vistra-and-more-8780883"/>
-        <updated>2025-01-27T16:50:07.000Z</updated>
-        <summary type="html"><![CDATA[The S&P 500 and Nasdaq plunged at midday when Chinese artificial intelligence startup DeepSeek shook up the sector with a lower-cost large language model.]]></summary>
-        <author>
-            <name>Learn about our</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Stock Movers Now: Nvidia, Broadcom, Vistra, and More]]></title>
-        <id>1150963f72519604e9ef22e39bb234f1</id>
-        <link href="https://www.investopedia.com/top-stock-movers-now-nvidia-broadcom-vistra-and-more-8780883"/>
-        <updated>2025-01-27T16:50:07.000Z</updated>
-        <summary type="html"><![CDATA[The S&P 500 and Nasdaq plunged at midday when Chinese artificial intelligence startup DeepSeek shook up the sector with a lower-cost large language model.]]></summary>
-        <author>
-            <name>Learn about our</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Stock Movers Now: Nvidia, Broadcom, Vistra, and More]]></title>
-        <id>8780883</id>
-        <link href="https://www.investopedia.com/top-stock-movers-now-nvidia-broadcom-vistra-and-more-8780883"/>
-        <updated>2025-01-27T16:50:07.000Z</updated>
-        <summary type="html"><![CDATA[The S&P 500 and Nasdaq plunged at midday when Chinese artificial intelligence startup DeepSeek shook up the sector with a lower-cost large language model.]]></summary>
-        <author>
-            <name>Bill McColl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exclusive-Enel, KKR among potential bidders for UK's Cubico, sources say]]></title>
-        <id>exclusive-enel-kkr-among-potential-164907484.html</id>
-        <link href="https://finance.yahoo.com/news/exclusive-enel-kkr-among-potential-164907484.html"/>
-        <updated>2025-01-27T16:49:07.000Z</updated>
-        <summary type="html"><![CDATA[Italy's Enel and private equity group KKR are among potential bidders for Britain-based Cubico Sustainable Investments, people with knowledge of the process said.  Two of Canada's biggest pension funds - the Montreal-based Public Sector Pension (PSP) Investment Board and the Ontario Teachers' Pension Plan (OTPP) - have been considering a sale of the renewable energy firm, which could be valued at about $6 billion or more, including debt, sources previously told Reuters.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The S&P Tech and Utilities Sectors Are Having Their Worst Days in Years]]></title>
-        <id>the-s-p-tech-and-utilities-sectors-are-having-their-worst-days-in-years-bQqKmqy1YghHafPPGUrw?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/livecoverage/stock-market-today-012725/card/the-s-p-tech-and-utilities-sectors-are-having-their-worst-days-in-years-bQqKmqy1YghHafPPGUrw?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-01-27T16:47:51.000Z</updated>
-        <summary type="html"><![CDATA[The DeepSeek selloff is hammering the S&P 500’s tech and utilities sectors.
-The S&P 500 tech sector is down 5.8% today, and on track for its biggest decline since Sept. 3, 2020, according to Dow Jones Market Data. The utilities sector is down 4%, on track for its worst day since Oct. 2, 2023.
-
-The]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle, Super Micro Pummeled in Rout of AI Infrastructure Stocks]]></title>
-        <id>oracle-super-micro-pummeled-in-rout-of-ai-infrastructure-stocks-IEpToxXvxmCwls8K6vZu?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-01-27-2025/card/oracle-super-micro-pummeled-in-rout-of-ai-infrastructure-stocks-IEpToxXvxmCwls8K6vZu?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-01-27T16:44:51.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Bull Says Tech Selloff is a ‘Golden Buying Opportunity’]]></title>
-        <id>ai-bull-says-tech-sellof-is-a-golden-buying-opportunity-eEsRZAKBKfPOOk8WYyJn?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-01-27-2025/card/ai-bull-says-tech-sellof-is-a-golden-buying-opportunity-eEsRZAKBKfPOOk8WYyJn?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-01-27T16:44:16.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump's second term illuminates bullish path for gold in 2025]]></title>
-        <id>trumps-second-term-illuminates-bullish-164331561.html</id>
-        <link href="https://finance.yahoo.com/news/trumps-second-term-illuminates-bullish-164331561.html"/>
-        <updated>2025-01-27T16:43:31.000Z</updated>
-        <summary type="html"><![CDATA[Gold prices look set for a record-breaking 2025 as heightened economic uncertainty and inflation concern under U.S. President Donald Trump's second term boost demand, despite dollar strength and reduced Federal Reserve rate-cut expectations.  The poll of 36 analysts and traders returned a median forecast of $2,756 per troy ounce of gold in 2025, up from $2,674 predicted in a poll three months ago.  Spot gold prices hit a record high of $2,790.15 in late October and were last at $2,742 on Monday.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 tax deductions for homeowners to lower their income tax]]></title>
-        <id>tax-deductions-for-homeowners-164247589.html</id>
-        <link href="https://finance.yahoo.com/personal-finance/taxes/article/tax-deductions-for-homeowners-164247589.html"/>
-        <updated>2025-01-27T16:42:47.000Z</updated>
-        <summary type="html"><![CDATA[There are several tax deductions for homeowners, from interest paid on your mortgage to specific home improvements. Find out if you qualify for these tax breaks.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Voters Could Shake Up Fed Meetings This Year]]></title>
-        <id>new-voters-could-shake-up-fed-meetings-this-year-6a7000af?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.wsj.com/articles/new-voters-could-shake-up-fed-meetings-this-year-6a7000af?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-01-27T16:42:00.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-exposed power stocks get crushed as fears about DeepSeek trigger stock market sell-off]]></title>
-        <id>ai-exposed-power-stocks-get-crushed-as-fears-about-deepseek-trigger-stock-market-sell-off-164007338.html</id>
-        <link href="https://finance.yahoo.com/news/ai-exposed-power-stocks-get-crushed-as-fears-about-deepseek-trigger-stock-market-sell-off-164007338.html"/>
-        <updated>2025-01-27T16:40:07.000Z</updated>
-        <summary type="html"><![CDATA[AI-exposed power stocks tumbled alongside a tech selloff as Chinese startup DeepSeek sparked investor concerns over AI chip spending by US companies.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time to 'panic' or 'overblown'? Wall Street weighs how DeepSeek could shake up the AI trade]]></title>
-        <id>time-to-panic-or-overblown-wall-street-weighs-how-deepseek-could-shake-up-the-ai-trade-163804060.html</id>
-        <link href="https://finance.yahoo.com/news/time-to-panic-or-overblown-wall-street-weighs-how-deepseek-could-shake-up-the-ai-trade-163804060.html"/>
-        <updated>2025-01-27T16:38:04.000Z</updated>
-        <summary type="html"><![CDATA[AI stocks fell across the board as the investment community absorbed news of a potentially more cost-effective Chinese AI model — and began to question the Western world’s gargantuan spending on AI infrastructure.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Have Your Property Taxes and Insurance Ballooned? You’re Not Alone. Here’s Why These Costs Can Exceed Mortgage Payments For Many]]></title>
-        <id>34a2ad268b4b0bd213f51910d69ccca9</id>
-        <link href="https://www.investopedia.com/property-taxes-and-homeowners-insurance-now-outstrip-mortgage-payments-for-many-8773262"/>
-        <updated>2025-01-27T16:28:15.000Z</updated>
-        <summary type="html"><![CDATA[Higher property taxes and increased homeowner’s insurance premiums add to housing costs, forcing homeowners to search for ways to reduce their expenses.]]></summary>
-        <author>
-            <name>Learn about our</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Have Your Property Taxes and Insurance Ballooned? You’re Not Alone. Here’s Why These Costs Can Exceed Mortgage Payments For Many]]></title>
-        <id>34a2ad268b4b0bd213f51910d69ccca9</id>
-        <link href="https://www.investopedia.com/property-taxes-and-homeowners-insurance-now-outstrip-mortgage-payments-for-many-8773262"/>
-        <updated>2025-01-27T16:28:15.000Z</updated>
-        <summary type="html"><![CDATA[Higher property taxes and increased homeowner’s insurance premiums add to housing costs, forcing homeowners to search for ways to reduce their expenses.]]></summary>
-        <author>
-            <name>Learn about our</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akero Therapeutics Stock Doubles on Liver Disease Drug Trial Results]]></title>
-        <id>507ab0311f2e74e6407f5974b0269672</id>
-        <link href="https://www.investopedia.com/akero-therapeutics-stock-doubles-on-liver-disease-drug-trial-results-8780840"/>
-        <updated>2025-01-27T16:27:37.000Z</updated>
-        <summary type="html"><![CDATA[Akero Therapeutics shares traded near their all-time high as the drugmaker reported positive results in a study of its treatment for liver disease.]]></summary>
-        <author>
-            <name>Learn about our</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akero Therapeutics Stock Doubles on Liver Disease Drug Trial Results]]></title>
-        <id>507ab0311f2e74e6407f5974b0269672</id>
-        <link href="https://www.investopedia.com/akero-therapeutics-stock-doubles-on-liver-disease-drug-trial-results-8780840"/>
-        <updated>2025-01-27T16:27:37.000Z</updated>
-        <summary type="html"><![CDATA[Akero Therapeutics shares traded near their all-time high as the drugmaker reported positive results in a study of its treatment for liver disease.]]></summary>
-        <author>
-            <name>Learn about our</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akero Therapeutics Stock Doubles on Liver Disease Drug Trial Results]]></title>
-        <id>8780840</id>
-        <link href="https://www.investopedia.com/akero-therapeutics-stock-doubles-on-liver-disease-drug-trial-results-8780840"/>
-        <updated>2025-01-27T16:27:37.000Z</updated>
-        <summary type="html"><![CDATA[Akero Therapeutics shares traded near their all-time high as the drugmaker reported positive results in a study of its treatment for liver disease.]]></summary>
-        <author>
-            <name>Bill McColl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek Risks Bite Investors Who Clung to Big Tech’s Dominance]]></title>
-        <id>deepseek-risks-bite-investors-clung-162054665.html</id>
-        <link href="https://finance.yahoo.com/news/deepseek-risks-bite-investors-clung-162054665.html"/>
-        <updated>2025-01-27T16:20:54.000Z</updated>
-        <summary type="html"><![CDATA[(Bloomberg) -- What do you get when an established market narrative is suddenly flipped upside down, with stretched investor sentiment and positioning, right before one of the busiest earnings weeks of the season? About a trillion dollars of market value erased. Most Read from BloombergWhat Happened to Hanging Out on the Street?Vienna Embraces Heat Pumps to Ditch Russian GasBillionaire Developer Caruso Slams LA Leadership Over WildfiresHow Sanctuary Cities Are Preparing for Another Showdown With]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
