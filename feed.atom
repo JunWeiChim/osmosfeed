@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-23T08:24:17.540Z</updated>
+    <updated>2025-05-23T09:18:47.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="https://www.nu.nl/economie/6356561/netbeheerder-enexis-betaalt-huishoudens-voor-het-dimmen-van-zonnepanelen.html"/>
         <updated>2025-05-23T08:10:10.000Z</updated>
         <summary type="html"><![CDATA[Netbeheerders experimenteren met het tijdelijk verlagen van de stroomopwek via zonnepanelen. Dit noemen ze 'dimmen'. Tijdens uren met veel aanbod van stroom moet dat de druk op het overvolle net verlichten. Enexis start met een pilot in Waalwijk en Helmond.]]></summary>
+        <author>
+            <name>NU - Economie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jongeren zijn steeds meer geld kwijt aan woonlasten: bijna helft van hun inkomen]]></title>
+        <id>article-6356754</id>
+        <link href="https://www.nu.nl/economie/6356754/jongeren-zijn-steeds-meer-geld-kwijt-aan-woonlasten-bijna-helft-van-hun-inkomen.html"/>
+        <updated>2025-05-23T06:52:50.000Z</updated>
+        <summary type="html"><![CDATA[Jongeren tot 34 jaar met een private huurwoning zijn een steeds groter deel van hun inkomen kwijt aan woonuitgaven. Gemiddeld gaat het om 46 procent. Tien jaar geleden was dat nog 39 procent.]]></summary>
         <author>
             <name>NU - Economie</name>
         </author>
@@ -3028,6 +3038,35 @@ That follows weak 20-year bond auction that rattled investors]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ken Griffin Says "Holding Cash Would've Been the Best." But Is Defense Really the Right Play for Long-Term Investors?]]></title>
+        <id>ken-griffin-says-holding-cash-220100614.html</id>
+        <link href="https://finance.yahoo.com/news/ken-griffin-says-holding-cash-220100614.html"/>
+        <updated>2025-05-21T22:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Ken Griffin's comments show that there can be benefits to holding cash.  There are good arguments both for being fully invested and for keeping some dry power on the sidelines, and the volatility of the current stock market with a trade war brewing and the risk of a recession rising is causing some investors to rethink their strategies.  One of them is Ken Griffin, the head of Citadel, which is generally considered to be the best-performing hedge fund of all time.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPY Attracts $6.1B in Assets as S 500 Ends Win Streak]]></title>
+        <id>spy-attracts-6-1b-assets-220000200.html</id>
+        <link href="https://finance.yahoo.com/news/spy-attracts-6-1b-assets-220000200.html"/>
+        <updated>2025-05-21T22:00:00.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to save cash: 7 ways to protect and grow your liquid savings]]></title>
+        <id>how-to-save-cash-215642060.html</id>
+        <link href="https://finance.yahoo.com/personal-finance/banking/article/how-to-save-cash-215642060.html"/>
+        <updated>2025-05-21T21:56:42.000Z</updated>
+        <summary type="html"><![CDATA[Cash can be lost, damaged, or stolen. So if you have cash savings, consider moving your money to a federally insured, interest-bearing account.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Should you borrow money during a recession? See when it makes sense.]]></title>
         <id>should-you-borrow-money-during-a-recession-see-when-it-makes-sense-215430249.html</id>
         <link href="https://finance.yahoo.com/personal-finance/personal-loans/article/should-you-borrow-money-during-a-recession-see-when-it-makes-sense-215430249.html"/>
@@ -3038,11 +3077,89 @@ That follows weak 20-year bond auction that rattled investors]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Trump to Extend Chevron’s License to Operate in Venezuela]]></title>
+        <id>trump-extend-chevron-license-operate-215338483.html</id>
+        <link href="https://finance.yahoo.com/news/trump-extend-chevron-license-operate-215338483.html"/>
+        <updated>2025-05-21T21:53:38.000Z</updated>
+        <summary type="html"><![CDATA[It was announced recently that the Trump administration is considering a plan to extend Chevron Corporation (NYSE:CVX)’s license to operate in Venezuela. Let’s shed some light on the development. It was reported by Bloomberg this week that the White House is set to extend Chevron Corporation (NYSE:CVX)’s deadline to halt its operations by another 60 […]]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shopify Inc. (SHOP) Launches AI Store Builder for Merchants as Part of Latest Updates]]></title>
+        <id>shopify-inc-shop-launches-ai-215324429.html</id>
+        <link href="https://finance.yahoo.com/news/shopify-inc-shop-launches-ai-215324429.html"/>
+        <updated>2025-05-21T21:53:24.000Z</updated>
+        <summary type="html"><![CDATA[On Wednesday, Shopify Inc. (NASDAQ:SHOP) rolled out a series of new AI-powered features designed to enhance customer experience. These included the “AI Store Builder” to help merchants quickly set up online storefronts using descriptive keywords. While the company has launched several AI tools in the past, this is the first integrated feature that fully automates […]]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First XRP futures ETF to launch May 22]]></title>
+        <id>first-xrp-futures-etf-launch-215210664.html</id>
+        <link href="https://finance.yahoo.com/news/first-xrp-futures-etf-launch-215210664.html"/>
+        <updated>2025-05-21T21:52:10.000Z</updated>
+        <summary type="html"><![CDATA[Volatility Shares will launch 1x XRP futures ETF on May 22.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urban Outfitters Sales, Earnings Jump on Strength Across Retail Banners]]></title>
+        <id>urban-outfitters-sales-earnings-jump-on-strength-across-retail-banners-53c41af4?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.wsj.com/business/retail/urban-outfitters-sales-earnings-jump-on-strength-across-retail-banners-53c41af4?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2025-05-21T21:52:00.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Josh Hawley blasts Allstate CEO for making $26M last year — while company can’t ‘afford’ to pay out claims]]></title>
         <id>josh-hawley-blasts-allstate-ceo-214700596.html</id>
         <link href="https://finance.yahoo.com/news/josh-hawley-blasts-allstate-ceo-214700596.html"/>
         <updated>2025-05-21T21:47:00.000Z</updated>
         <summary type="html"><![CDATA[Property and casualty insurers pulled in a record $169 billion in profit in 2024.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AT&T to Buy Lumen’s Mass Markets Fiber Business for $5.75 Billion]]></title>
+        <id>at-t-to-buy-lumens-mass-markets-fiber-business-for-5-75-billion-4e363bc2?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.wsj.com/business/telecom/at-t-to-buy-lumens-mass-markets-fiber-business-for-5-75-billion-4e363bc2?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2025-05-21T21:46:00.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crown Castle Inc. (CCI) Trims Dividend by 32%]]></title>
+        <id>crown-castle-inc-cci-trims-214501044.html</id>
+        <link href="https://finance.yahoo.com/news/crown-castle-inc-cci-trims-214501044.html"/>
+        <updated>2025-05-21T21:45:01.000Z</updated>
+        <summary type="html"><![CDATA[On May 21, Crown Castle Inc. (NYSE:CCI) declared a quarterly dividend of $1.0625 per share, a 32% decrease from the previous dividend of $1.565. Crown Castle Inc. (NYSE:CCI) is a Texas-based real estate investment trust company that specializes in providing infrastructure for wireless communication. The company owns and manages over 40,000 cell towers and around […]]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nike set to raise prices next week, plans to sell on Amazon again]]></title>
+        <id>nike-raise-prices-next-week-213831311.html</id>
+        <link href="https://finance.yahoo.com/news/nike-raise-prices-next-week-213831311.html"/>
+        <updated>2025-05-21T21:38:31.000Z</updated>
+        <summary type="html"><![CDATA[The company, which sources a significant portion of its footwear from China and Vietnam, will increase prices on apparel and equipment for adults between $2 and $10, while footwear priced between $100 and $150 will see a $5 hike, CNBC reported.  Nike will also return to selling products on Amazon for the first time in six years, the Information reported, as the footwear maker works to regain market share from newer and trendier competitors, amid a turnaround under CEO Elliott Hill.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 Qatar Economic Forum Day Two Highlight]]></title>
+        <id>2025-qatar-economic-forum-day-213534721.html</id>
+        <link href="https://finance.yahoo.com/video/2025-qatar-economic-forum-day-213534721.html"/>
+        <updated>2025-05-21T21:35:34.000Z</updated>
+        <summary type="html"><![CDATA[Highlight from day two of the 2025 Qatar Economic Forum, Powered by Bloomberg. International CEOs share unique perspectives on how the global economy is transforming in Doha, Qatar.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -3065,6 +3182,85 @@ That follows weak 20-year bond auction that rattled investors]]></summary>
         <summary type="html"><![CDATA[Shares of Nvidia-backed cloud computing company CoreWeave soared 19% Wednesday after the company announced an upsized $2 billion debt offering.]]></summary>
         <author>
             <name>Andrew Kessel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Nvidia-Backed CoreWeave's Stock Popped 19% Wednesday]]></title>
+        <id>why-nvidia-backed-coreweaves-stock-213514145.html</id>
+        <link href="https://finance.yahoo.com/news/why-nvidia-backed-coreweaves-stock-213514145.html"/>
+        <updated>2025-05-21T21:35:14.000Z</updated>
+        <summary type="html"><![CDATA[Shares of Nvidia-backed cloud computing company CoreWeave soared 19% Wednesday after the company announced an upsized $2 billion debt offering.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia CEO shares blunt message on China chip sales ban]]></title>
+        <id>nvidia-ceo-delivers-blunt-one-213300376.html</id>
+        <link href="https://finance.yahoo.com/news/nvidia-ceo-delivers-blunt-one-213300376.html"/>
+        <updated>2025-05-21T21:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Jensen Huang recently sounded off on the previous administration's AI policy.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Health Care Roundup: Market Talk]]></title>
+        <id>health-care-roundup-market-talk-ff99f437?siteid=yhoof2&amp;yptr=yahoo</id>
+        <link href="https://www.wsj.com/health/health-care-roundup-market-talk-ff99f437?siteid=yhoof2&amp;yptr=yahoo"/>
+        <updated>2025-05-21T21:24:00.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Target sales plummet amid tariffs, inflation and boycotts]]></title>
+        <id>target-sales-plummet-amid-tariffs-212051259.html</id>
+        <link href="https://finance.yahoo.com/news/target-sales-plummet-amid-tariffs-212051259.html"/>
+        <updated>2025-05-21T21:20:51.000Z</updated>
+        <summary type="html"><![CDATA[Target sales plunged in the first quarter amid concerns about Trump's tariffs, inflation and backlash to its pull back on DEI]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China’s GPRIMG Enters Long-Term LNG Supply Agreement with ConocoPhillips]]></title>
+        <id>china-gprimg-enters-long-term-211941971.html</id>
+        <link href="https://finance.yahoo.com/news/china-gprimg-enters-long-term-211941971.html"/>
+        <updated>2025-05-21T21:19:41.000Z</updated>
+        <summary type="html"><![CDATA[China’s Guangdong Pearl River Investment Management Group (GPRIMG) made headlines at the 29th World Gas Conference in Beijing with the announcement of its first long-term LNG purchase agreement, struck with U.S. energy major ConocoPhillips (NYSE:COP). The deal was signed on May 20 and disclosed through GPRIMG’s official WeChat account. It marks a significant step in the […]]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Hits All-Time High Before Crashing. Ethereum and Dogecoin Are Along for the Ride Down.]]></title>
+        <id>bitcoin-hits-time-high-crashing-211634797.html</id>
+        <link href="https://finance.yahoo.com/news/bitcoin-hits-time-high-crashing-211634797.html"/>
+        <updated>2025-05-21T21:16:34.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin hit an all-time high today but that didn't last long.  The drop in Bitcoin and crypto more broadly was driven by a weak bond auction from the Treasury Department, which caused a market drop across the board.  Bitcoin (CRYPTO: BTC) was on fire early in the day on Wednesday, only to crash as the market dropped.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Truist Slashes Price Target on VF Corporation (VFC) After Q4 Report, Maintains Hold Rating]]></title>
+        <id>truist-slashes-price-target-vf-211517042.html</id>
+        <link href="https://finance.yahoo.com/news/truist-slashes-price-target-vf-211517042.html"/>
+        <updated>2025-05-21T21:15:17.000Z</updated>
+        <summary type="html"><![CDATA[On May 21, Truist analyst Joseph Civello lowered the price target on V.F. Corporation (NYSE:VFC) from $24 to $13, while keeping a Hold rating on the stock. The decline in price target comes after the company released its Q4 2025 results. V.F. Corporation (NYSE:VFC) is an international apparel, footwear, and clothing accessories company. It owns […]]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trillions in SMA assets ripe for tax-friendly ETF 'exit valve']]></title>
+        <id>trillions-sma-assets-ripe-tax-211401791.html</id>
+        <link href="https://finance.yahoo.com/news/trillions-sma-assets-ripe-tax-211401791.html"/>
+        <updated>2025-05-21T21:14:01.000Z</updated>
+        <summary type="html"><![CDATA[The increasingly popular Section 351 process offers many low-basis investment portfolios an exit ramp — without incurring any capital gains.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
         </author>
     </entry>
     <entry>
@@ -3672,6 +3868,16 @@ That follows weak 20-year bond auction that rattled investors]]></summary>
         <id>job-career-recent-graduates-advice-d5073cd4?siteid=yhoof2&amp;yptr=yahoo</id>
         <link href="https://www.barrons.com/advisor/articles/job-career-recent-graduates-advice-d5073cd4?siteid=yhoof2&amp;yptr=yahoo"/>
         <updated>2025-05-21T20:08:00.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stock market today: Dow sheds 800 points, S&P 500, Nasdaq slide as Treasury yields surge, bitcoin hits record]]></title>
+        <id>stock-market-today-dow-sheds-800-points-sp-500-nasdaq-slide-as-treasury-yields-surge-bitcoin-hits-record-200551005.html</id>
+        <link href="https://finance.yahoo.com/news/live/stock-market-today-dow-sheds-800-points-sp-500-nasdaq-slide-as-treasury-yields-surge-bitcoin-hits-record-200551005.html"/>
+        <updated>2025-05-21T20:05:51.000Z</updated>
+        <summary type="html"><![CDATA[Anxieties about Trump's budget bill and the US debt have helped push up US bond yields.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -141912,442 +142118,6 @@ The Nikkei Stock Average closed up 0.5% at 35039.15, supported by financial and 
         <link href="https://finance.yahoo.com/news/chipotle-ceo-says-chain-has-no-plans-to-raise-prices-amid-consumer-pullback-212144181.html"/>
         <updated>2025-04-23T21:21:44.000Z</updated>
         <summary type="html"><![CDATA[Chipotle CEO Scott Boatwright talks tariffs, price increases, and more.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heard on the Street Recap: Either Sadness or Euphoria]]></title>
-        <id>heard-on-the-street-recap-either-sadness-or-euphoria-0VWiBgKzwk3NTqSGdRG9?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-23-25/card/heard-on-the-street-recap-either-sadness-or-euphoria-0VWiBgKzwk3NTqSGdRG9?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-04-23T21:17:43.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's Going On With IonQ Stock On Wednesday?]]></title>
-        <id>whats-going-ionq-stock-wednesday-211625754.html</id>
-        <link href="https://finance.yahoo.com/news/whats-going-ionq-stock-wednesday-211625754.html"/>
-        <updated>2025-04-23T21:16:25.000Z</updated>
-        <summary type="html"><![CDATA[IonQ, Inc. (NYSE:IONQ) shares gained on Wednesday. The company unveiled a distribution agreement with Toyota Tsusho Corporation, marking the company’s official entry into the Japanese market. The partnership, revealed during the Shanghai International Automobile Industry Exhibition, is set to fast-track the adoption of quantum computing technologies in Japan by leveraging Toyota Tsusho’s deep commercial networks and tech-forward positioning. Niccolo de Masi, President, and CEO of IonQ, emphasize]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Texas Instruments Stock Climbs on Better-Than-Expected Earnings, Outlook]]></title>
-        <id>35496a79b4aade53827a90bcad38eb17</id>
-        <link href="https://www.investopedia.com/texas-instruments-earnings-q1-fy2025-11718177"/>
-        <updated>2025-04-23T21:10:10.000Z</updated>
-        <summary type="html"><![CDATA[Texas Instruments posted better-than-expected earnings for the first quarter and issued a strong outlook, sending shares higher in extended trading Wednesday.]]></summary>
-        <author>
-            <name>Investopedia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Texas Instruments Stock Climbs on Better-Than-Expected Earnings, Outlook]]></title>
-        <id>35496a79b4aade53827a90bcad38eb17</id>
-        <link href="https://www.investopedia.com/texas-instruments-earnings-q1-fy2025-11718177"/>
-        <updated>2025-04-23T21:10:10.000Z</updated>
-        <summary type="html"><![CDATA[Texas Instruments posted better-than-expected earnings for the first quarter and issued a strong outlook, sending shares higher in extended trading Wednesday.]]></summary>
-        <author>
-            <name>Investopedia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Texas Instruments Stock Climbs on Better-Than-Expected Earnings, Outlook]]></title>
-        <id>11718177</id>
-        <link href="https://www.investopedia.com/texas-instruments-earnings-q1-fy2025-11718177"/>
-        <updated>2025-04-23T21:10:10.000Z</updated>
-        <summary type="html"><![CDATA[Texas Instruments posted better-than-expected earnings for the first quarter and issued a strong outlook, sending shares higher in extended trading Wednesday.]]></summary>
-        <author>
-            <name>Andrew Kessel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Financial Services Roundup: Market Talk]]></title>
-        <id>financial-services-roundup-market-talk-51ebc9e8?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.wsj.com/finance/banking/financial-services-roundup-market-talk-51ebc9e8?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-04-23T21:02:00.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is NVIDIA (NVDA) Among the Best Guru Stocks to Buy According to Wall Street Analysts?]]></title>
-        <id>nvidia-nvda-among-best-guru-210036909.html</id>
-        <link href="https://finance.yahoo.com/news/nvidia-nvda-among-best-guru-210036909.html"/>
-        <updated>2025-04-23T21:00:36.000Z</updated>
-        <summary type="html"><![CDATA[We recently published a list of 11 Best Guru Stocks to Buy According to Wall Street Analysts. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other Guru stocks to invest in. Wall Street seems to be breathing a little easier after the initial panic over President […]]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investment Bank Says TSLA Stock Is Attractive for Long-Term Investors]]></title>
-        <id>investment-bank-says-tsla-stock-205957135.html</id>
-        <link href="https://finance.yahoo.com/news/investment-bank-says-tsla-stock-205957135.html"/>
-        <updated>2025-04-23T20:59:57.000Z</updated>
-        <summary type="html"><![CDATA[Investment bank Cantor Fitzgerald cut its price target on TSLA to $355 from $425. However, the bank kept an Overweight rating on the shares, as it believes that the automaker’s long-term outlook remains bright. Tesla’s Potential Growth Catalysts Among Tesla’s upcoming, potential, positive drivers are its robotaxi launch and its unveiling of a relatively inexpensive […]]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basic Materials Roundup: Market Talk]]></title>
-        <id>energy-utilities-roundup-market-talk-42803c7a?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.wsj.com/business/energy-utilities-roundup-market-talk-42803c7a?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-04-23T20:59:00.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S&P 500 Gains and Losses Today: Tech Stocks Jump as Trump Softens Stance on Fed and Trade]]></title>
-        <id>486a054a9dd8b7c6c91ac5380f3f7e26</id>
-        <link href="https://www.investopedia.com/s-and-p-500-gains-and-losses-today-tech-stocks-jump-as-trump-softens-stance-on-fed-and-trade-11720817"/>
-        <updated>2025-04-23T20:58:18.000Z</updated>
-        <summary type="html"><![CDATA[The S&P 500 advanced 1.7% on Wednesday, April 23, as comments from the White House pointed to stability at the Fed and the possibility of easing trade tensions.]]></summary>
-        <author>
-            <name>Learn about our</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S&P 500 Gains and Losses Today: Tech Stocks Jump as Trump Softens Stance on Fed and Trade]]></title>
-        <id>486a054a9dd8b7c6c91ac5380f3f7e26</id>
-        <link href="https://www.investopedia.com/s-and-p-500-gains-and-losses-today-tech-stocks-jump-as-trump-softens-stance-on-fed-and-trade-11720817"/>
-        <updated>2025-04-23T20:58:18.000Z</updated>
-        <summary type="html"><![CDATA[The S&P 500 advanced 1.7% on Wednesday, April 23, as comments from the White House pointed to stability at the Fed and the possibility of easing trade tensions.]]></summary>
-        <author>
-            <name>Learn about our</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S&P 500 Gains and Losses Today: Tech Stocks Jump as Trump Softens Stance on Fed and Trade]]></title>
-        <id>11720817</id>
-        <link href="https://www.investopedia.com/s-and-p-500-gains-and-losses-today-tech-stocks-jump-as-trump-softens-stance-on-fed-and-trade-11720817"/>
-        <updated>2025-04-23T20:58:18.000Z</updated>
-        <summary type="html"><![CDATA[The S&P 500 advanced 1.7% on Wednesday, April 23, as comments from the White House pointed to stability at the Fed and the possibility of easing trade tensions.]]></summary>
-        <author>
-            <name>Michael Bromberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UnitedHealth Group (UNH): One of the Best Stocks That Will Always Grow]]></title>
-        <id>unitedhealth-group-unh-one-best-205809421.html</id>
-        <link href="https://finance.yahoo.com/news/unitedhealth-group-unh-one-best-205809421.html"/>
-        <updated>2025-04-23T20:58:09.000Z</updated>
-        <summary type="html"><![CDATA[We recently published a list of 10 Best Stocks That Will Always Grow. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other best stocks that will always grow. The Looming Risk of a Recession in the US Threats of an impending recession are looming over […]]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech, Media & Telecom Roundup: Market Talk]]></title>
-        <id>tech-media-telecom-roundup-market-talk-80ceca8c?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-80ceca8c?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-04-23T20:56:00.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auto & Transport Roundup: Market Talk]]></title>
-        <id>auto-transport-roundup-market-talk-00dcaa77?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.wsj.com/business/auto-transport-roundup-market-talk-00dcaa77?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-04-23T20:53:00.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin, Ethereum, and Dogecoin Soar as "Risk On" Trade Continues]]></title>
-        <id>bitcoin-ethereum-dogecoin-soar-risk-205300372.html</id>
-        <link href="https://finance.yahoo.com/news/bitcoin-ethereum-dogecoin-soar-risk-205300372.html"/>
-        <updated>2025-04-23T20:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Investors continued to buy risk assets on Wednesday, including growth stocks, tech stocks, and cryptocurrencies, following a sharp move higher on Tuesday.  Bitcoin (CRYPTO: BTC) is up 2.9% since the stock market closed yesterday, Ethereum (CRYPTO: ETH) is up 5.1%, and Dogecoin (CRYPTO: DOGE) is up 6.2%.  It's the trade war that has caused concern that the U.S. will go into a recession, and that has caused a decline in Bitcoin and the market overall.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whirlpool Says Tariffs Will Level the Appliance Playing Field]]></title>
-        <id>whirlpool-says-tariffs-will-level-the-appliance-playing-field-3NB0v6sDXZvoynq0Xais?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-23-25/card/whirlpool-says-tariffs-will-level-the-appliance-playing-field-3NB0v6sDXZvoynq0Xais?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-04-23T20:51:43.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boeing Stock Surges on Earnings. There Is Still a Lot of Uncertainty Ahead.]]></title>
-        <id>boeing-earnings-stock-price-5f458152?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/articles/boeing-earnings-stock-price-5f458152?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-04-23T20:51:00.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chipotle Lowers Revenue Forecast as Consumer Spending Slows]]></title>
-        <id>6d8fad56f62e37f6e496f9fc09711a90</id>
-        <link href="https://www.investopedia.com/chipotle-earnings-q1-fy2025-11719638"/>
-        <updated>2025-04-23T20:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Chipotle reported first-quarter revenue that missed Wall Street's expectations and lowered its full-year sales outlook, sending shares lower in extended trading Wednesday.]]></summary>
-        <author>
-            <name>Investopedia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chipotle Lowers Revenue Forecast as Consumer Spending Slows]]></title>
-        <id>6d8fad56f62e37f6e496f9fc09711a90</id>
-        <link href="https://www.investopedia.com/chipotle-earnings-q1-fy2025-11719638"/>
-        <updated>2025-04-23T20:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Chipotle reported first-quarter revenue that missed Wall Street's expectations and lowered its full-year sales outlook, sending shares lower in extended trading Wednesday.]]></summary>
-        <author>
-            <name>Investopedia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chipotle Lowers Its Sales Outlook as Consumer Spending Slows]]></title>
-        <id>11719638</id>
-        <link href="https://www.investopedia.com/chipotle-earnings-q1-fy2025-11719638"/>
-        <updated>2025-04-23T20:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Chipotle reported first-quarter revenue that missed Wall Street's expectations and lowered its full-year sales outlook, sending shares lower in extended trading Wednesday.]]></summary>
-        <author>
-            <name>Andrew Kessel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chipotle Lowers Its Sales Outlook as Consumer Spending Slows]]></title>
-        <id>chipotle-lowers-sales-outlook-consumer-205023103.html</id>
-        <link href="https://finance.yahoo.com/news/chipotle-lowers-sales-outlook-consumer-205023103.html"/>
-        <updated>2025-04-23T20:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Chipotle reported first-quarter revenue that missed Wall Street's expectations and lowered its full-year sales outlook, sending shares lower in extended trading Wednesday.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chipotle’s Comparable Sales Dropped Year Over Year. Recession Fears Are Hitting Restaurants.]]></title>
-        <id>chipotle-stock-price-earnings-news-3ee84fd2?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/articles/chipotle-stock-price-earnings-news-3ee84fd2?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-04-23T20:48:00.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berkshire Hathaway, Coca-Cola, and Other Stable Stocks That Have Avoided the Market Chaos]]></title>
-        <id>berkshire-hathaway-coke-stock-price-volatility-a0ea66bf?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/articles/berkshire-hathaway-coke-stock-price-volatility-a0ea66bf?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-04-23T20:48:00.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Duolingo Stock Surges On Fresh Buy Rating, Street-High Price Target]]></title>
-        <id>?src=A00220&amp;yptr=yahoo</id>
-        <link href="https://www.investors.com/news/technology/duolingo-stock-surges-morgan-stanley-buy-rating/?src=A00220&amp;yptr=yahoo"/>
-        <updated>2025-04-23T20:46:44.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EQT announces accretive acquisition of certain assets from Olympus Energy]]></title>
-        <id>eqt-announces-accretive-acquisition-certain-204548474.html</id>
-        <link href="https://finance.yahoo.com/news/eqt-announces-accretive-acquisition-certain-204548474.html"/>
-        <updated>2025-04-23T20:45:48.000Z</updated>
-        <summary type="html"><![CDATA[The Company has entered into a purchase agreement with Olympus Energy Holdings Hyperion Midstream and Bow & Arrow Land Company, collectively, Olympus Energy, pursuant to which the Company has agreed to acquire the upstream and midstream assets of Olympus Energy for total consideration of $1.8B. Consideration is composed of approximately 26M shares of EQT common stock, representing $1.3B based on the 20-day volume-weighted average price as of April 21, and $500M in cash, as adjusted pursuant to c]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exhausted by Trump Reversals, Traders Get No Relief From Rebound]]></title>
-        <id>exhausted-trump-reversals-traders-no-204432812.html</id>
-        <link href="https://finance.yahoo.com/news/exhausted-trump-reversals-traders-no-204432812.html"/>
-        <updated>2025-04-23T20:44:32.000Z</updated>
-        <summary type="html"><![CDATA[(Bloomberg) -- Any other time, it would have been a signal that the worst of the stock-market’s slide is nearing an end, one that would have set off buy signals at trading desks across Wall Street.Most Read from BloombergTrump Gives New York ‘One Last Chance’ to End Congestion FeeDOGE Visits National Gallery of Art to Discuss Museum’s Legal StatusWhy Car YouTuber Matt Farah Is Fighting for Walkable CitiesThe Racial Wealth Gap Is Not Just About MoneyBackyard Micro-Flats Aim to Ease South Africa’s]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Gold Miner Stocks Plunged Today on a Great day for the Markets]]></title>
-        <id>why-gold-miner-stocks-plunged-204300601.html</id>
-        <link href="https://finance.yahoo.com/news/why-gold-miner-stocks-plunged-204300601.html"/>
-        <updated>2025-04-23T20:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Shares of gold mining stocks Barrick Gold (NYSE: GOLD), Newmont Mining (NYSE: NEM), Gold Fields (NYSE: GFI), and AngloGold Ashanti (NYSE: AU) were all down today, falling 4.6%, 2.6%, 6%, and 5.1%, respectively.  The declines were all the more notable as the broader market indexes were up strongly on the day.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Southwest Airlines drops forecast as US trade war shakes industry]]></title>
-        <id>southwest-airlines-pulls-profit-outlook-204255618.html</id>
-        <link href="https://finance.yahoo.com/news/southwest-airlines-pulls-profit-outlook-204255618.html"/>
-        <updated>2025-04-23T20:42:55.000Z</updated>
-        <summary type="html"><![CDATA[CHICAGO (Reuters) -Southwest Airlines became the latest U.S. carrier on Wednesday to withdraw its financial forecast as President Donald Trump's trade war has created the biggest uncertainty for the industry since the COVID-19 pandemic.  With the trade war raising the prospect of slower economic growth and higher inflation, both tourists and corporations are sitting tight, leading to a pullback in travel spending.  Southwest said it is not able to reaffirm its previous forecast of $1.7 billion in earnings before interest and taxes in 2025 and about $3.8 billion in 2026.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lions Gate shareholders approve split of studio and Starz business, source says]]></title>
-        <id>lions-gate-shareholders-approve-split-204034246.html</id>
-        <link href="https://finance.yahoo.com/news/lions-gate-shareholders-approve-split-204034246.html"/>
-        <updated>2025-04-23T20:40:34.000Z</updated>
-        <summary type="html"><![CDATA[The split is intended to streamline operations and better position the company to compete in an industry where customers are shifting from cable TV to streaming services such as Amazon Prime Video, YouTube and Netflix.  The standalone Lionsgate Studios business includes the company's Motion Picture Group, Television Studio operations, and a library of more than 20,000 film and television titles.  In December, Bloomberg News reported that activist investor Anson Funds Management had taken a stake in Lionsgate Studios and was urging the company to explore strategic options, including a potential sale.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top CDs Today, April 23, 2025 - Stash Your Savings Until 2027 and Guarantee 4.28% APY]]></title>
-        <id>5bb43cac41c1945332e71824c4d5d12c</id>
-        <link href="https://www.investopedia.com/top-cds-today-april-23-2025-stash-your-savings-until-2027-and-guarantee-4-28-apy-11720794"/>
-        <updated>2025-04-23T20:37:11.000Z</updated>
-        <summary type="html"><![CDATA[Long-term savers have options to safeguard their cash, no matter what happens to the economy in the short term. Earn 4.28% to 4.32% for 2 to 5 years.]]></summary>
-        <author>
-            <name>Learn about our</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top CDs Today, April 23, 2025 - Stash Your Savings Until 2027 and Guarantee 4.28% APY]]></title>
-        <id>5bb43cac41c1945332e71824c4d5d12c</id>
-        <link href="https://www.investopedia.com/top-cds-today-april-23-2025-stash-your-savings-until-2027-and-guarantee-4-28-apy-11720794"/>
-        <updated>2025-04-23T20:37:11.000Z</updated>
-        <summary type="html"><![CDATA[Long-term savers have options to safeguard their cash, no matter what happens to the economy in the short term. Earn 4.28% to 4.32% for 2 to 5 years.]]></summary>
-        <author>
-            <name>Learn about our</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avoid 'Jordan's revenge' and find slam-dunk savings for athletes]]></title>
-        <id>avoid-jordans-revenge-slam-dunk-203708221.html</id>
-        <link href="https://finance.yahoo.com/news/avoid-jordans-revenge-slam-dunk-203708221.html"/>
-        <updated>2025-04-23T20:37:08.000Z</updated>
-        <summary type="html"><![CDATA[The headache of filing dozens of state or international returns due to the so-called jock tax comes with opportunities to tap into savings, experts say.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oklo announces Sam Altman to step down as chairman]]></title>
-        <id>oklo-announces-sam-altman-step-203634272.html</id>
-        <link href="https://finance.yahoo.com/news/oklo-announces-sam-altman-step-203634272.html"/>
-        <updated>2025-04-23T20:36:34.000Z</updated>
-        <summary type="html"><![CDATA[Oklo (OKLO) “announced that Sam Altman will step down as Chairman of the Board. Altman has helped guide Oklo’s development since its beginning, and has helped position it to execute on its mission. Jacob DeWitte, Oklo CEO and Co-Founder, will serve as Chairman and Board Member.” Published first on TheFly – the ultimate source for real-time, market-moving breaking financial news. Try Now>> See today’s best-performing stocks on TipRanks >> Read More on OKLO: OpenAI CEO Altman stepping down as Oklo]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steel Dynamics sees ‘solid’ domestic steel consumption in 2025]]></title>
-        <id>steel-dynamics-sees-solid-domestic-203551088.html</id>
-        <link href="https://finance.yahoo.com/news/steel-dynamics-sees-solid-domestic-203551088.html"/>
-        <updated>2025-04-23T20:35:51.000Z</updated>
-        <summary type="html"><![CDATA[“We remain constructive that market conditions are in place for domestic steel consumption to be solid through 2025 and into the following years,” said Millett. “Order entry activity improved across our businesses and steel pricing firmed in the first quarter 2025. However, we have seen some uncertainty from certain customers related to recent trade actions. Overall, we believe demand for lower-carbon emission, U.S. produced steel products coupled with lower imports will support steel pricing an]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hedge Funds Can Protect Portfolios: Steffen]]></title>
-        <id>hedge-funds-protect-portfolios-steffen-203502699.html</id>
-        <link href="https://finance.yahoo.com/video/hedge-funds-protect-portfolios-steffen-203502699.html"/>
-        <updated>2025-04-23T20:35:02.000Z</updated>
-        <summary type="html"><![CDATA[Wells Fargo Global Alternative Investment Strategist Mark Steffen discusses the recent market volatility and believes hedge funds can really help smooth over the bumps in the road. He speaks with Scarlet Fu on "Bloomberg Markets."]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM Set to Benefit From Focus on AI, Automation as Clients Seek Efficiency in Uncertain Economy, CFO Says]]></title>
-        <id>ibm-set-to-benefit-from-focus-on-ai-automation-as-clients-seek-efficiency-in-uncertain-economy-cfo-says-a373c8a7?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.wsj.com/business/earnings/ibm-set-to-benefit-from-focus-on-ai-automation-as-clients-seek-efficiency-in-uncertain-economy-cfo-says-a373c8a7?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-04-23T20:35:00.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exclusive-GM to increase production at Ohio transmission facility]]></title>
-        <id>exclusive-gm-increase-production-ohio-203343014.html</id>
-        <link href="https://finance.yahoo.com/news/exclusive-gm-increase-production-ohio-203343014.html"/>
-        <updated>2025-04-23T20:33:43.000Z</updated>
-        <summary type="html"><![CDATA[DETROIT (Reuters) -General Motors is increasing production of transmissions at its Toledo, Ohio facility, shifting away from EV drive unit manufacturing toward parts for gasoline vehicles, the company confirmed Wednesday.  Reuters first reported that GM would increase production at the Indiana assembly plant in early April after U.S. President Donald Trump announced 25% tariffs on auto imports.  A spokesperson for the automaker said the production shift in Toledo is not related to tariffs.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GE Vernova Stock Jumps. Earnings Have Investors Doing the ‘Electric Boogie.’]]></title>
-        <id>ge-vernova-gev-earnings-stock-price-b30d5e27?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/articles/ge-vernova-gev-earnings-stock-price-b30d5e27?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-04-23T20:30:00.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Software Stocks Like Microsoft Face Less Risk From Tariffs, According to Morningstar]]></title>
-        <id>077d9f26db84cb508f56e3f39fe188dd</id>
-        <link href="https://www.investopedia.com/why-software-stocks-like-microsoft-face-less-risk-from-tariffs-according-to-morningstar-11720362"/>
-        <updated>2025-04-23T20:29:57.000Z</updated>
-        <summary type="html"><![CDATA[Tech investors looking to reduce their risk in an unpredictable trade environment could turn to software names like Adobe and Microsoft over tech firms that depend more on hardware sales, Morningstar analysts wrote.]]></summary>
-        <author>
-            <name>Investopedia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Software Stocks Like Microsoft Face Less Risk From Tariffs, According to Morningstar]]></title>
-        <id>077d9f26db84cb508f56e3f39fe188dd</id>
-        <link href="https://www.investopedia.com/why-software-stocks-like-microsoft-face-less-risk-from-tariffs-according-to-morningstar-11720362"/>
-        <updated>2025-04-23T20:29:57.000Z</updated>
-        <summary type="html"><![CDATA[Tech investors looking to reduce their risk in an unpredictable trade environment could turn to software names like Adobe and Microsoft over tech firms that depend more on hardware sales, Morningstar analysts wrote.]]></summary>
-        <author>
-            <name>Investopedia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Software Stocks Like Microsoft Face Less Risk From Tariffs, According to Morningstar]]></title>
-        <id>11720362</id>
-        <link href="https://www.investopedia.com/why-software-stocks-like-microsoft-face-less-risk-from-tariffs-according-to-morningstar-11720362"/>
-        <updated>2025-04-23T20:29:57.000Z</updated>
-        <summary type="html"><![CDATA[Tech investors looking to reduce their risk in an unpredictable trade environment could turn to software names like Adobe and Microsoft over tech firms that depend more on hardware sales, Morningstar analysts wrote.]]></summary>
-        <author>
-            <name>Andrew Kessel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ServiceNow Bumps Up Annual Guidance as Government Business Grows]]></title>
-        <id>servicenow-bumps-up-annual-guidance-as-government-business-grows-1f8c42ec?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.wsj.com/business/earnings/servicenow-bumps-up-annual-guidance-as-government-business-grows-1f8c42ec?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-04-23T20:29:00.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[General Dynamics Stock Falls Despite Earnings Beat]]></title>
-        <id>general-dynamics-earnings-stock-price-6d55d383?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/articles/general-dynamics-earnings-stock-price-6d55d383?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2025-04-23T20:26:00.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prominent short seller Andrew Left fails to end US SEC fraud case]]></title>
-        <id>prominent-short-seller-andrew-left-202455430.html</id>
-        <link href="https://finance.yahoo.com/news/prominent-short-seller-andrew-left-202455430.html"/>
-        <updated>2025-04-23T20:24:55.000Z</updated>
-        <summary type="html"><![CDATA[A federal judge rejected Andrew Left's bid to dismiss a U.S. Securities and Exchange Commission civil lawsuit accusing the prominent short seller of fraudulently manipulating stock prices, and profiting from trades that contradicted his public statements.  In a decision released on Wednesday, U.S. District Judge Sherilyn Peace Garnett in Los Angeles said reasonable investors would want to know if Left and his firm Citron Research were following their own stock recommendations.  Garnett said the law supports the SEC theory that defendants who declare their trade positions for investors to follow "have a duty to tell the whole truth -- namely their underlying intent to trade inconsistently with their published target prices."]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
