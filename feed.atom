@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-25T04:25:01.156Z</updated>
+    <updated>2025-08-25T05:18:35.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -1230,6 +1230,16 @@
         <link href="https://finance.yahoo.com/news/huge-news-remitly-global-investors-204100918.html"/>
         <updated>2025-08-23T20:41:00.000Z</updated>
         <summary type="html"><![CDATA[The remittance provider keeps expanding its product portfolio.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expect health insurance prices to rise next year, brokers and experts say]]></title>
+        <id>expect-health-insurance-prices-rise-203620117.html</id>
+        <link href="https://finance.yahoo.com/news/expect-health-insurance-prices-rise-203620117.html"/>
+        <updated>2025-08-23T20:36:20.000Z</updated>
+        <summary type="html"><![CDATA[Pricey prescriptions and nagging medical costs are swamping some insurers and employers now.  Patients may start paying for it next year.  Health insurance will grow more expensive in many corners of the market in 2026, and coverage may shrink.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
