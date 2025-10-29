@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "43d9b63f874df05d60c96265aeb12e8b",
+          "author": "Learn about our",
+          "description": "The Federal Reserve's policy committee won't necessarily cut interest rates in December, contrary to what financial markets had expected.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8062c3af1cad5d309ac328ace53f2183094bcb228a2fa2df412448df268232c5970821cce878b4e0f735f0edc33fa438ec670c9720020d4b1cf8f0bcd86350c6dca5ef8b9dc1d44c19db49",
+          "publishedOn": "2025-10-29T19:45:03.000Z",
+          "wordCount": 354,
+          "title": "Fed Chair Powell Says December Interest Rate Cut Is ‘Far From’ Guaranteed",
+          "imageUrl": null
+        },
+        {
           "id": "43c575fb5ffb9676e40028e8549c6bca",
           "author": "Learn about our",
           "description": "The Federal Reserve has once again cut its benchmark interest rate, aiming to revive the stagnant job market and prevent a surge in unemployment by lowering borrowing costs.",
@@ -797,6 +807,21 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "article-6374142",
+          "author": null,
+          "description": "De Amerikaanse centrale bank Federal Reserve (Fed) verlaagt de rente woensdag met 0,25 procentpunt. Dat gebeurt te midden van de shutdown van de Amerikaanse overheid. Het is de tweede keer dit jaar dat de rente wordt verlaagd.",
+          "link": "https://www.nu.nl/economie/6374142/amerikaanse-bank-gaat-deels-mee-met-wens-trump-en-verlaagt-rente-opnieuw.html",
+          "publishedOn": "2025-10-29T18:33:07.000Z",
+          "wordCount": 380,
+          "title": "Amerikaanse bank gaat deels mee met wens Trump en verlaagt rente opnieuw",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/h40xy84alwqr_sqr256/971/0/3967/3967/amerikaanse-bank-gaat-deels-mee-met-wens-trump-en-verlaagt-rente-opnieuw.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/h40xy84alwqr_sqr256/971/0/3967/3967/amerikaanse-bank-gaat-deels-mee-met-wens-trump-en-verlaagt-rente-opnieuw.jpg"
+        },
         {
           "id": "article-6374142",
           "author": null,
@@ -6450,6 +6475,16 @@
           "imageUrl": "https://media.zenfs.com/en/insidermonkey.com/8614b34d67e7b9be662032060277b4b3"
         },
         {
+          "id": "commvault-revenue-rises-on-continuing-demand-but-profit-slips-c06f26ec?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/business/earnings/commvault-revenue-rises-on-continuing-demand-but-profit-slips-c06f26ec?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2025-10-28T12:01:00.000Z",
+          "wordCount": null,
+          "title": "Commvault Revenue Rises on Continuing Demand but Profit Slips",
+          "imageUrl": null
+        },
+        {
           "id": "?src=A00220&yptr=yahoo",
           "author": null,
           "description": "",
@@ -6458,6 +6493,56 @@
           "wordCount": null,
           "title": "$10,000 To Invest? Does S&P 500, Nasdaq 100 Or Dow Pay Off Most?",
           "imageUrl": null
+        },
+        {
+          "id": "amazon-may-replace-600k-jobs-120000633.html",
+          "author": null,
+          "description": "Whether you’re as relaxed as Buffett regarding automation or not, you can control how prepared you are for any disruptions. Here’s what you can do now.",
+          "link": "https://finance.yahoo.com/news/amazon-may-replace-600k-jobs-120000633.html",
+          "publishedOn": "2025-10-28T12:00:00.000Z",
+          "wordCount": 44747,
+          "title": "Amazon may replace 600K jobs with robots — but here’s why Warren Buffett argues Americans shouldn’t fear automation",
+          "imageUrl": "https://media.zenfs.com/en/moneywise_327/4f01196973f496ebcb7bed77ceebbb37"
+        },
+        {
+          "id": "figment-scales-coinbase-prime-staking-120000356.html",
+          "author": null,
+          "description": "Institutions can now stake Solana, Avalanche, and other PoS assets in custody via Coinbase Prime, just as ETF-driven staking demand ramps up.",
+          "link": "https://finance.yahoo.com/news/figment-scales-coinbase-prime-staking-120000356.html",
+          "publishedOn": "2025-10-28T12:00:00.000Z",
+          "wordCount": 43207,
+          "title": "Figment Scales Coinbase Prime Staking as 2 ETFs With Yield Launch This Week",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/d5KplzL5yeMSaWjIzQuxfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/coindesk_75/600601c87b4247bedbaa68b7667882ab"
+        },
+        {
+          "id": "key-asset-xrp-grew-34x-120000017.html",
+          "author": null,
+          "description": "Capital often flows toward where it can get a yield.",
+          "link": "https://finance.yahoo.com/news/key-asset-xrp-grew-34x-120000017.html",
+          "publishedOn": "2025-10-28T12:00:00.000Z",
+          "wordCount": 46410,
+          "title": "This Key Asset on XRP Grew by 34X, and It's Just Getting Started",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/1.Bit2Q1d_wYKHbh6zC03w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/motleyfool.com/c57321032ae6acd0ca1a1e9c992e0a64"
+        },
+        {
+          "id": "hasbro-mattel-signal-retail-orders-115900902.html",
+          "author": null,
+          "description": "The companies are expecting a strong finish to the year after delays in purchasing weighed on company revenues. Hasbro is also leveraging its U.S. operations and moving away from China.",
+          "link": "https://finance.yahoo.com/news/hasbro-mattel-signal-retail-orders-115900902.html",
+          "publishedOn": "2025-10-28T11:59:00.000Z",
+          "wordCount": 44319,
+          "title": "Hasbro, Mattel signal retail orders to bounce back for the holidays",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/SV6_ksOAs.Hkbxk0kchlyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/manufacturing_dive_692/e63853fe674383f00d28bbce3654f895"
+        },
+        {
+          "id": "tyson-foods-earnings-preview-expect-115709410.html",
+          "author": null,
+          "description": "What should investors expect from Tyson Foods’ upcoming Q4 earnings?",
+          "link": "https://finance.yahoo.com/news/tyson-foods-earnings-preview-expect-115709410.html",
+          "publishedOn": "2025-10-28T11:57:09.000Z",
+          "wordCount": 43281,
+          "title": "Tyson Foods Earnings Preview: What to Expect",
+          "imageUrl": "https://media.zenfs.com/en/barchart_com_477/bc1be4295e5da85038de52cc004ce753"
         },
         {
           "id": "walmart-wmt-continues-market-share-115525368.html",
@@ -6488,6 +6573,246 @@
           "wordCount": 45859,
           "title": "Under Trump, millions of Americans could pay $0 in federal income tax — here’s whose bill may be eliminated entirely",
           "imageUrl": "https://media.zenfs.com/en/moneywise_ecomm_711/813afdfa4cb8ef63fd3aedc23ed8e611"
+        },
+        {
+          "id": "vertiv-vrt-producs-gold-standard-115451783.html",
+          "author": null,
+          "description": "We recently published 10 Latest Stocks Jim Cramer Talked About. Vertiv Holdings Co (NYSE:VRT) is one of the stocks Jim Cramer recently discussed. Vertiv Holdings Co (NYSE:VRT) continues to be one of Cramer’s top stocks in the data center space. In this appearance, he shared how the firm’s air conditioning systems have positioned it in […]",
+          "link": "https://finance.yahoo.com/news/vertiv-vrt-producs-gold-standard-115451783.html",
+          "publishedOn": "2025-10-28T11:54:51.000Z",
+          "wordCount": 44844,
+          "title": "Vertiv (VRT)’s Producs Are The “Gold Standard,” Says Jim Cramer",
+          "imageUrl": "https://media.zenfs.com/en/insidermonkey.com/80284310c9118bfa8142eed376bf12ea"
+        },
+        {
+          "id": "jim-cramer-didn-t-hold-115441808.html",
+          "author": null,
+          "description": "We recently published 10 Latest Stocks Jim Cramer Talked About. Newmont Corporation (NYSE:NEM) is one of the stocks Jim Cramer recently discussed. Newmont Corporation (NYSE:NEM) became a part of the discussion as Cramer and co-host Carl Quintanilla discussed gold prices. When discussing gold miners, Cramer has repeatedly praised Agnico Eagle. In this appearance, he commented […]",
+          "link": "https://finance.yahoo.com/news/jim-cramer-didn-t-hold-115441808.html",
+          "publishedOn": "2025-10-28T11:54:41.000Z",
+          "wordCount": 44791,
+          "title": "Jim Cramer Didn’t Hold Back When Dicsussing Newmont (NEM)’s Earnings",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/hNQcE3RZRRAeo3vNyly_Gw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/230304ffd3d7bca232a53fe7114e4d8e"
+        },
+        {
+          "id": "tesla-tsla-earnings-call-brilliant-115424845.html",
+          "author": null,
+          "description": "We recently published 10 Latest Stocks Jim Cramer Talked About. Tesla, Inc. (NASDAQ:TSLA) is one of the stocks Jim Cramer recently discussed. Tesla, Inc. (NASDAQ:TSLA)’s latest earnings report saw Cramer once again assert that investors need to evaluate the firm in the context of robotics and other emerging technologies as opposed to vehicle deliveries. Tesla, […]",
+          "link": "https://finance.yahoo.com/news/tesla-tsla-earnings-call-brilliant-115424845.html",
+          "publishedOn": "2025-10-28T11:54:24.000Z",
+          "wordCount": 43660,
+          "title": "Tesla (TSLA)’s Earnings Call Was “Brilliant,” Says Jim Cramer",
+          "imageUrl": "https://media.zenfs.com/en/insidermonkey.com/8dbba0a1888a45a50bb2297e733cf328"
+        },
+        {
+          "id": "jetblue-quarterly-loss-widens-demand-expected-to-continue-improving-3a67764b?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/business/earnings/jetblue-quarterly-loss-widens-demand-expected-to-continue-improving-3a67764b?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2025-10-28T11:54:00.000Z",
+          "wordCount": null,
+          "title": "JetBlue Quarterly Loss Widens, Demand Expected to Continue Improving",
+          "imageUrl": null
+        },
+        {
+          "id": "boston-beer-sam-begs-examination-115349390.html",
+          "author": null,
+          "description": "We recently published 10 Latest Stocks Jim Cramer Talked About. The Boston Beer Company, Inc. (NYSE:SAM) is one of the stocks Jim Cramer recently discussed. At the start of the year, Cramer regularly discussed the beer market as he commented that beer was losing favor with younger people. As a result, he was surprised by […]",
+          "link": "https://finance.yahoo.com/news/boston-beer-sam-begs-examination-115349390.html",
+          "publishedOn": "2025-10-28T11:53:49.000Z",
+          "wordCount": 44405,
+          "title": "Boston Beer (SAM) “Begs An Examination,” Due To Poor Beer Market, Says Jim Cramer",
+          "imageUrl": "https://media.zenfs.com/en/insidermonkey.com/4548c627d998b7e919703ab47e6f5b6e"
+        },
+        {
+          "id": "uber-uber-stock-says-jim-115334581.html",
+          "author": null,
+          "description": "We recently published 10 Latest Stocks Jim Cramer Talked About. Uber Technologies Inc. (NYSE:UBER) is one of the stocks Jim Cramer recently discussed. Cramer briefly discussed ride-sharing services provider Uber Technologies Inc. (NYSE:UBER) and its CEO, Dara Khosrowshahi. The firm has been investing aggressively in the autonomous ridesharing market recently. Uber Technologies Inc. (NYSE:UBER) partnered […]",
+          "link": "https://finance.yahoo.com/news/uber-uber-stock-says-jim-115334581.html",
+          "publishedOn": "2025-10-28T11:53:34.000Z",
+          "wordCount": 44917,
+          "title": "Uber (UBER)’s An “Up Stock,” Says Jim Cramer",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/LqfH0R3qbshC1cT40h259Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/6da5a38ae63a690bd555c3a5d9851bb0"
+        },
+        {
+          "id": "best-buy-bby-sneaking-says-115317189.html",
+          "author": null,
+          "description": "We recently published 10 Latest Stocks Jim Cramer Talked About. Best Buy Co., Inc. (NYSE:BBY) is one of the stocks Jim Cramer recently discussed. Cramer discussed Best Buy Co., Inc. (NYSE:BBY) late during the show and tied it in with Intel’s latest earnings report. During the earnings, Intel CFO David Zinsner had outlined that Intel […]",
+          "link": "https://finance.yahoo.com/news/best-buy-bby-sneaking-says-115317189.html",
+          "publishedOn": "2025-10-28T11:53:17.000Z",
+          "wordCount": 44788,
+          "title": "Best Buy (BBY)’s “Been Sneaking Up,” Says Jim Cramer",
+          "imageUrl": "https://media.zenfs.com/en/insidermonkey.com/a3d0839d5531979934fcde31ac34224b"
+        },
+        {
+          "id": "bank-korea-warns-stablecoin-depeg-115305228.html",
+          "author": null,
+          "description": "The central bank warned that private stablecoin issuers lack the institutional trust needed for stable currency, citing depegging risks.",
+          "link": "https://finance.yahoo.com/news/bank-korea-warns-stablecoin-depeg-115305228.html",
+          "publishedOn": "2025-10-28T11:53:05.000Z",
+          "wordCount": 43691,
+          "title": "Bank of Korea Warns on Stablecoin Depeg Risks, Says Banks Should Lead",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/JtvKpH9hqqGJHZ.bQ9wB1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/5926a9f8ac8d53a41c76b637129b6ccf"
+        },
+        {
+          "id": "m-hearing-good-things-palantir-115304001.html",
+          "author": null,
+          "description": "We recently published 10 Latest Stocks Jim Cramer Talked About. Palantir Technologies Inc. (NASDAQ:PLTR) is one of the stocks Jim Cramer recently discussed. When discussing analytics firm Palantir Technologies Inc. (NASDAQ:PLTR), Cramer commented on its share price and role in the defense contractor ecosystem: “[On whether PLTR could muscle through 190] Yes I can and […]",
+          "link": "https://finance.yahoo.com/news/m-hearing-good-things-palantir-115304001.html",
+          "publishedOn": "2025-10-28T11:53:04.000Z",
+          "wordCount": 44860,
+          "title": "I’m Hearing Good Things About Palantir (PLTR), Says Jim Cramer",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/UCQUgV8Y4oeLVuntUCi16g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/insidermonkey.com/99d3c1a2db557ce7049bdbc10b710862"
+        },
+        {
+          "id": "wynn-resorts-wynn-amaingly-well-115250886.html",
+          "author": null,
+          "description": "We recently published 10 Latest Stocks Jim Cramer Talked About. Wynn Resorts, Limited (NASDAQ:WYNN) is one of the stocks Jim Cramer recently discussed. Cramer frequently discusses casino and hospitality company Wynn Resorts, Limited (NASDAQ:WYNN) in his morning show. Most of the time, he mentions the firm’s CEO, Craig Billings, and praises him. This time, he […]",
+          "link": "https://finance.yahoo.com/news/wynn-resorts-wynn-amaingly-well-115250886.html",
+          "publishedOn": "2025-10-28T11:52:50.000Z",
+          "wordCount": 43117,
+          "title": "Wynn Resorts (WYNN) Is “Amaingly Well Run,” Says Jim Cramer",
+          "imageUrl": "https://media.zenfs.com/en/insidermonkey.com/a35ab227d4ce097d1244be995f0db08a"
+        },
+        {
+          "id": "halliburton-umbilical-less-installation-services-115232085.html",
+          "author": null,
+          "description": "The agreement leverages Halliburton's ROCS, which was recently used in the GoM.",
+          "link": "https://finance.yahoo.com/news/halliburton-umbilical-less-installation-services-115232085.html",
+          "publishedOn": "2025-10-28T11:52:32.000Z",
+          "wordCount": 42830,
+          "title": "Halliburton to provide umbilical-less installation services for Shell",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/HQoBhFakCT12T6tt4TU5Yw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/offshore_technology_431/09b7d796f0d689069c85371969bdb547"
+        },
+        {
+          "id": "american-tower-swings-to-a-profit-amid-strong-cell-phone-ai-demand-085114c9?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/business/earnings/american-tower-swings-to-a-profit-amid-strong-cell-phone-ai-demand-085114c9?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2025-10-28T11:49:00.000Z",
+          "wordCount": null,
+          "title": "American Tower Swings to a Profit Amid Strong Cell-Phone, AI Demand",
+          "imageUrl": null
+        },
+        {
+          "id": "tereos-lvmh-ga-scale-plant-114833325.html",
+          "author": null,
+          "description": "Avantium, a company specialising in renewable and circular polymer materials, has entered into a Memorandum of Understanding (MoU) with Tereos, a producer of sugar, starch, alcohol, and bioethanol, and LVMH Gaïa, the scientific and environmental research division of LVMH.",
+          "link": "https://finance.yahoo.com/news/tereos-lvmh-ga-scale-plant-114833325.html",
+          "publishedOn": "2025-10-28T11:48:33.000Z",
+          "wordCount": 43412,
+          "title": "Tereos, LVMH Gaïa to scale plant-based polymer with Avantium technology",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/uxEJ23lTHR0nh8avhl6cTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/just_style_482/8017d117d56f9206010f49341d2c160d"
+        },
+        {
+          "id": "bitcoin-miner-core-scientific-upgraded-114805168.html",
+          "author": null,
+          "description": "The investment bank upgraded the stock to buy from neutral and set a new price target of $25.",
+          "link": "https://finance.yahoo.com/news/bitcoin-miner-core-scientific-upgraded-114805168.html",
+          "publishedOn": "2025-10-28T11:48:05.000Z",
+          "wordCount": 43233,
+          "title": "Bitcoin Miner Core Scientific Upgraded to Buy on AI Data Center Boom: H.C. Wainwright",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/o9NDF7JWottLSA5H_BrLNQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/coindesk_75/1fc24543d526f12c963cffea5de62937"
+        },
+        {
+          "id": "google-ruth-porat-unlock-ai-114710821.html",
+          "author": null,
+          "description": "\"I think we are living in an extraordinary time,\" Porat said at the Fortune Global Forum.",
+          "link": "https://finance.yahoo.com/news/google-ruth-porat-unlock-ai-114710821.html",
+          "publishedOn": "2025-10-28T11:47:10.000Z",
+          "wordCount": 44470,
+          "title": "Google’s Ruth Porat: To unlock AI’s upside, rethink every process",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/Bz1jMC5q0dcRwlNQyzydmQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/7891ad24087eb0f70eec91c1530da384"
+        },
+        {
+          "id": "hold-green-brick-partners-grbk-114500552.html",
+          "author": null,
+          "description": "Greenlight Capital, an investment management company, released its third-quarter 2025 investor letter. A copy of the letter can be downloaded here. The Greenlight Capital funds returned -3.6% in the quarter, net of fees and expenses, compared to 8.1% for the S&P 500 index. The fund returned 0.4% in YTD compared to 14.8% for the index. […]",
+          "link": "https://finance.yahoo.com/news/hold-green-brick-partners-grbk-114500552.html",
+          "publishedOn": "2025-10-28T11:45:00.000Z",
+          "wordCount": 45037,
+          "title": "Should You Hold Green Brick Partners (GRBK)?",
+          "imageUrl": "https://media.zenfs.com/en/insidermonkey.com/c1458cc1519a692886745f899f1c1136"
+        },
+        {
+          "id": "fund-managers-are-all-in-ZWqbGqmCa8rUup60kp9z?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-28-2025/card/fund-managers-are-all-in-ZWqbGqmCa8rUup60kp9z?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2025-10-28T11:44:24.000Z",
+          "wordCount": null,
+          "title": "Fund Managers Are All-In",
+          "imageUrl": null
+        },
+        {
+          "id": "banijay-to-buy-majority-stake-in-tipico-group-at-5-4-billion-valuation-676196f0?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/business/deals/banijay-to-buy-majority-stake-in-tipico-group-at-5-4-billion-valuation-676196f0?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2025-10-28T11:44:00.000Z",
+          "wordCount": null,
+          "title": "Banijay to Buy Majority Stake in Tipico Group at $5.4 Billion Valuation",
+          "imageUrl": null
+        },
+        {
+          "id": "kyndryl-holdings-kd-reversed-earlier-114334083.html",
+          "author": null,
+          "description": "Greenlight Capital, an investment management company, released its third-quarter 2025 investor letter. A copy of the letter can be downloaded here. The Greenlight Capital funds returned -3.6% in the quarter, net of fees and expenses, compared to 8.1% for the S&P 500 index. The fund returned 0.4% in YTD compared to 14.8% for the index. […]",
+          "link": "https://finance.yahoo.com/news/kyndryl-holdings-kd-reversed-earlier-114334083.html",
+          "publishedOn": "2025-10-28T11:43:34.000Z",
+          "wordCount": 44857,
+          "title": "Kyndryl Holdings (KD) Reversed the Earlier Gains",
+          "imageUrl": "https://media.zenfs.com/en/insidermonkey.com/cc0eb25b432ee00073c1da8ad67115de"
+        },
+        {
+          "id": "greenlight-capital-coya-therapeutics-coya-114137445.html",
+          "author": null,
+          "description": "Greenlight Capital, an investment management company, released its third-quarter 2025 investor letter. A copy of the letter can be downloaded here. The Greenlight Capital funds returned -3.6% in the quarter, net of fees and expenses, compared to 8.1% for the S&P 500 index. The fund returned 0.4% in YTD compared to 14.8% for the index. […]",
+          "link": "https://finance.yahoo.com/news/greenlight-capital-coya-therapeutics-coya-114137445.html",
+          "publishedOn": "2025-10-28T11:41:37.000Z",
+          "wordCount": 45072,
+          "title": "Here’s Greenlight Capital’s Update on Coya Therapeutics (COYA)",
+          "imageUrl": "https://media.zenfs.com/en/insidermonkey.com/e7081c405f1c0523fcdf8d58869c03ca"
+        },
+        {
+          "id": "morning-bid-gold-sold-stocks-113934575.html",
+          "author": null,
+          "description": "and global markets today , Editor-At-Large, Finance and Markets As U. stock indexes hit new records on Monday ahead of a likely Federal Reserve interest rate cut and megacap earnings later this week, gold's retreat deepened - extending back below $4,000 per ounce and now down more than 10% from this month's peak.",
+          "link": "https://finance.yahoo.com/news/morning-bid-gold-sold-stocks-113934575.html",
+          "publishedOn": "2025-10-28T11:39:34.000Z",
+          "wordCount": 44961,
+          "title": "Morning Bid: Gold sold, stocks stall",
+          "imageUrl": "https://media.zenfs.com/en/reuters.com/a2bb73edb110b71d6fb20f9b51b792a9"
+        },
+        {
+          "id": "greenlight-capital-exited-long-term-113928427.html",
+          "author": null,
+          "description": "Greenlight Capital, an investment management company, released its third-quarter 2025 investor letter. A copy of the letter can be downloaded here. The Greenlight Capital funds returned -3.6% in the quarter, net of fees and expenses, compared to 8.1% for the S&P 500 index. The fund returned 0.4% in YTD compared to 14.8% for the index. […]",
+          "link": "https://finance.yahoo.com/news/greenlight-capital-exited-long-term-113928427.html",
+          "publishedOn": "2025-10-28T11:39:28.000Z",
+          "wordCount": 45246,
+          "title": "Greenlight Capital Exited Its Long-Term Investment in Teck Resources (TECK)",
+          "imageUrl": "https://media.zenfs.com/en/insidermonkey.com/b044e3c1210f471226817542c91e2bb8"
+        },
+        {
+          "id": "sherwin-williams-profit-higher-as-same-store-sales-rise-ccb91de5?siteid=yhoof2&yptr=yahoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.wsj.com/business/retail/sherwin-williams-profit-higher-as-same-store-sales-rise-ccb91de5?siteid=yhoof2&yptr=yahoo",
+          "publishedOn": "2025-10-28T11:39:00.000Z",
+          "wordCount": null,
+          "title": "Sherwin-Williams’ Profit Higher as Same-Store Sales Rise",
+          "imageUrl": null
+        },
+        {
+          "id": "unitedhealth-lifts-2025-profit-forecast-113833686.html",
+          "author": null,
+          "description": "By Sriparna Roy and Sneha S K (Reuters) -UnitedHealth on Tuesday raised its annual profit forecast and said it aims to grow in 2026, in a sign that the turnaround efforts under new CEO Stephen Hemsley were gaining steam. Shares of the company rose over 3% in premarket trading after third-quarter earnings came ahead of Wall Street expectations as the U.",
+          "link": "https://finance.yahoo.com/news/unitedhealth-lifts-2025-profit-forecast-113833686.html",
+          "publishedOn": "2025-10-28T11:38:33.000Z",
+          "wordCount": 43586,
+          "title": "UnitedHealth lifts 2025 profit forecast, aims for growth in 2026",
+          "imageUrl": "https://media.zenfs.com/en/reuters.com/aad7df458845ad93be32ca854e8aee14"
         },
         {
           "id": "ARGUS_3630_AnalystReport_1761650703000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
