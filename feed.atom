@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-29T23:18:25.296Z</updated>
+    <updated>2025-12-30T01:38:10.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
@@ -4190,6 +4190,16 @@ Going back to 2019, daily trading volume on the major U.S. exchanges averaged 9.
         <link href="https://finance.yahoo.com/news/suze-orman-5-best-tips-130038597.html"/>
         <updated>2025-12-28T14:03:03.000Z</updated>
         <summary type="html"><![CDATA[Financial guru Suze Orman has some surprisingly doable advice for squeezing savings out of even the tightest budget.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kraken’s xStocks Brings Tokenized US Shares to TON and Telegram]]></title>
+        <id>kraken-xstocks-brings-tokenized-us-140250704.html</id>
+        <link href="https://finance.yahoo.com/news/kraken-xstocks-brings-tokenized-us-140250704.html"/>
+        <updated>2025-12-28T14:02:50.000Z</updated>
+        <summary type="html"><![CDATA[Kraken backed platform xStocks launched on the TON crypto blockchain, letting Telegram users outside the US trade tokenized versions of US stocks and ETFs directly inside the chat app. The move adds a new on-chain venue to an already crowded race for tokenized stocks, where Solana and Ethereum hosts already ...]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
