@@ -24,6 +24,16 @@
       "siteUrl": "https://www.investopedia.com/company-news-4427705",
       "articles": [
         {
+          "id": "535c5d28ad93f07fa41b9520935b5903",
+          "author": "Learn about our",
+          "description": "Gas now averages over $4.50, but varies widely by state. Whether you’re commuting or road-tripping, knowing where prices drop across state lines can help you spend less.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad02ad4f61eb1592ac59930a6e03f6088454c8e399675b0860f2741da78817e84c21969cdf278b1fde621f2ed9c60a42ffb251c91795b005641fffcbadd724b84c5bfb6d2819e86055dc31fd4de626c8f6e632886d703cdc353a4982277b8da70d798",
+          "publishedOn": "2026-05-11T21:52:35.000Z",
+          "wordCount": 354,
+          "title": "6 States Where Gas Is at Least 50¢ Cheaper Across the Border—With Gaps as High as $1.35",
+          "imageUrl": null
+        },
+        {
           "id": "cab8ed18f93c8cba26e0c63e08a5500b",
           "author": "Learn about our",
           "description": "Stock futures were little changed after the S&P 500 and Nasdaq Composite ended last week at fresh records. Meanwhile, oil prices rose after President Donald Trump called Iran's peace proposal response \"totally unacceptable.\"",
@@ -1051,6 +1061,16 @@
           "imageUrl": null
         },
         {
+          "id": "f66bd9910bb0f16dfc5bc3e00f7e5a00",
+          "author": "Learn about our",
+          "description": "Oil prices plummeted to their lowest level in more than a month on Friday after Iran declared the Strait of Hormuz \"completely open\" for the duration of a 10-day ceasefire between Israel and Lebanon.",
+          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8f75c6ec52a1593a848f2aa6e1773e9b565eca24c837b7df4a2456d67e8f7ed29d177ccfe321b7f9fa6dedf88b23e82de72e428d3d4345431ef4f0adca3a5ddbdda6efcede8c8a0503870dd5926f69c56f3c289bd75e859207e7c67d63bed979d39ccb61bf",
+          "publishedOn": "2026-04-17T12:00:00.000Z",
+          "wordCount": 354,
+          "title": "Iran Declares Strait of Hormuz ‘Completely Open’—And Oil Prices Drop",
+          "imageUrl": null
+        },
+        {
           "id": "c59b886c0f39a8485ca4b52497070fb2",
           "author": "Learn about our",
           "description": "UnitedHealth Group's latest quarterly results are due Tuesday morning, with traders pricing in the possibility the stock could return to positive territory for the year following the report.",
@@ -1387,6 +1407,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "article-6395437",
+          "author": null,
+          "description": "Een Europese CO2-heffing op aardgas en benzine kan huishoudens vanaf 2028 tientallen euro's per maand gaan kosten. Dat kan vooral armere huishoudens hard raken, waarschuwt het Planbureau voor de Leefomgeving (PBL). Zij hebben hulp bij verduurzaming of compensatie nodig.",
+          "link": "https://www.nu.nl/klimaat/6395437/co2-taks-maakt-gas-en-benzine-vanaf-2028-duurder-hulp-nodig-voor-armsten.html",
+          "publishedOn": "2026-05-11T21:06:42.000Z",
+          "wordCount": 380,
+          "title": "CO2-taks maakt gas en benzine vanaf 2028 duurder: 'Hulp nodig voor armsten'",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/fefxdmpaxymk_sqr256/632/0/3658/3658/co2-taks-maakt-gas-en-benzine-vanaf-2028-duurder-hulp-nodig-voor-armsten.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/fefxdmpaxymk_sqr256/632/0/3658/3658/co2-taks-maakt-gas-en-benzine-vanaf-2028-duurder-hulp-nodig-voor-armsten.jpg"
+        },
+        {
+          "id": "article-6395492",
+          "author": null,
+          "description": "Gerard Piqué heeft maandag een boete van 200.000 euro gekregen vanwege handel met voorkennis. Het is de tweede keer in zeer korte tijd dat de Spaanse oud-topvoetballer in opspraak komt met een straf.",
+          "link": "https://www.nu.nl/voetbal/6395492/oud-topvoetballer-gerard-pique-weer-in-opspraak-boete-van-200000-euro.html",
+          "publishedOn": "2026-05-11T19:10:32.000Z",
+          "wordCount": 380,
+          "title": "Oud-topvoetballer Gerard Piqué wéér in opspraak: boete van 200.000 euro",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/yc0x4weapgv2_sqr256/546/0/1861/1861/oud-topvoetballer-gerard-pique-weer-in-opspraak-boete-van-200000-euro.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/yc0x4weapgv2_sqr256/546/0/1861/1861/oud-topvoetballer-gerard-pique-weer-in-opspraak-boete-van-200000-euro.jpg"
+        },
         {
           "id": "article-6395492",
           "author": null,
@@ -7041,36 +7091,6 @@
             "url": "https://images.nu.nl/m/w33xigsa8ewc_sqr256/1414/0/3932/3932/hack-bij-bookingcom-boekingsinformatie-klanten-ingezien.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/w33xigsa8ewc_sqr256/1414/0/3932/3932/hack-bij-bookingcom-boekingsinformatie-klanten-ingezien.jpg"
-        },
-        {
-          "id": "article-6392009",
-          "author": null,
-          "description": "Aziatische en Arabische toeristen komen momenteel minder vaak naar ons land vanwege de oorlog in het Midden-Oosten. Dat heeft gevolgen voor de horeca en hotels op populaire bestemmingen, zoals Giethoorn en de Keukenhof, waar veel mensen uit het Verre Oosten heen gaan.",
-          "link": "https://www.nu.nl/economie/6392009/aziatische-toerist-mijdt-nederland-vanwege-oorlog-midden-oosten.html",
-          "publishedOn": "2026-04-12T09:30:08.000Z",
-          "wordCount": 380,
-          "title": "Aziatische toerist mijdt Nederland vanwege oorlog Midden-Oosten",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/gxdxkuoaglq0_sqr256/475/0/3020/3020/aziatische-toerist-mijdt-nederland-vanwege-oorlog-midden-oosten.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/gxdxkuoaglq0_sqr256/475/0/3020/3020/aziatische-toerist-mijdt-nederland-vanwege-oorlog-midden-oosten.jpg"
-        },
-        {
-          "id": "article-6392009",
-          "author": null,
-          "description": "Aziatische en Arabische toeristen komen momenteel minder vaak naar ons land vanwege de oorlog in het Midden-Oosten. Dat heeft gevolgen voor de horeca en hotels op populaire bestemmingen, zoals Giethoorn en de Keukenhof, waar veel mensen uit het Verre Oosten heen gaan.",
-          "link": "https://www.nu.nl/economie/6392009/giethoorn-en-keukenhof-geraakt-door-iranoorlog-minder-aziatische-toeristen.html",
-          "publishedOn": "2026-04-12T09:30:08.000Z",
-          "wordCount": 380,
-          "title": "Giethoorn en Keukenhof geraakt door Iranoorlog: 'Minder Aziatische toeristen'",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/gxdxkuoaglq0_sqr256/475/0/3020/3020/giethoorn-en-keukenhof-geraakt-door-iranoorlog-minder-aziatische-toeristen.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/gxdxkuoaglq0_sqr256/475/0/3020/3020/giethoorn-en-keukenhof-geraakt-door-iranoorlog-minder-aziatische-toeristen.jpg"
         }
       ]
     },
@@ -9620,6 +9640,26 @@
           "imageUrl": "https://s.yimg.com/os/en/marketbeat_955/289e69509ef6e17ecb911deeb2efe741"
         },
         {
+          "id": "disney-stock-popped-earnings-results-150002240.html",
+          "author": null,
+          "description": "Disney’s earnings beat showed parks and cruises still have pricing power while streaming losses continue to narrow.",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/disney-stock-popped-earnings-results-150002240.html",
+          "publishedOn": "2026-05-10T15:00:02.000Z",
+          "wordCount": 6968,
+          "title": "Disney Stock Popped on Earnings Results. Cruise Ships Are Cash Cows",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/7WNnj6a1Vw9pTp3Ux.2i1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/83e80e5e52a52b8a6e584bb2edd6a950"
+        },
+        {
+          "id": "tesla-stock-winning-streak-china-150002270.html",
+          "author": null,
+          "description": "Tesla just reported its sixth consecutive month of higher year-over-year China-made EV sales.",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-winning-streak-china-150002270.html",
+          "publishedOn": "2026-05-10T15:00:02.000Z",
+          "wordCount": 7478,
+          "title": "Tesla Stock Is on a Winning Streak with China-Made EVs. Its Imports to Europe Are Increasing.",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/KHDvftwQ.7yA6tJOhsUJeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/barchart_com_477/6c15fbbdd03e4415a8f0043baeb35b48"
+        },
+        {
           "id": "despite-lincoln-park-retail-boom-150000758.html",
           "author": null,
           "description": "LLJ Ventures' Leonardo Simpser and Midland Loan Services' David Harrison 1123-1131 West Armitage Avenue (LLJ Ventures, LinkedIn, Mid-America Real Estate Group)Strolling down Lincoln Park’s Armitage Avenue lately, you’d be hard-pressed to find many empty storefronts. Retailers are flocking to Chicago’s spendy North Side, cementing the high-street corridor as a premier playground for boutiques and digitally native brands establishing a brick-and-mortar presence. Even in a booming real estate scene",
@@ -9638,6 +9678,36 @@
           "wordCount": 5912,
           "title": "Is Tempus AI (TEM) The Best AI Healthcare Stock to Buy?",
           "imageUrl": "https://s.yimg.com/os/en/insidermonkey.com/cb4ae8376e844aea59686c54398d07cb"
+        },
+        {
+          "id": "mcdonalds-stock-falls-1-lows-140003926.html",
+          "author": null,
+          "description": "McDonald's reported 3.8% higher Q1 comparable store sales. However, the market is worried about higher gas prices and their effect on lower-income families. Fears seem overdone with MCD below 1-year lows.",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-stock-falls-1-lows-140003926.html",
+          "publishedOn": "2026-05-10T14:00:03.000Z",
+          "wordCount": 8283,
+          "title": "McDonald's Stock Falls Through 1-Year Lows - Are Sales Slowdown Fears Overdone?",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/O4Dx0UYj0qx79aV.YjYMAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/barchart_com_477/7fcf3c1b2c10126e45ded74a515cd25b"
+        },
+        {
+          "id": "why-hard-times-software-stocks-140002339.html",
+          "author": null,
+          "description": "The charts suggest that software stocks are stabilizing. 1 wildcard catalyst could take them much, much higher.",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/why-hard-times-software-stocks-140002339.html",
+          "publishedOn": "2026-05-10T14:00:02.000Z",
+          "wordCount": 7916,
+          "title": "Why the Hard Times for Software Stocks May Be Over, At Least for a Little While",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/8gHwx2mKIRnOMKdFApkFVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/ac3288324a2ac3f2fff832e265843d6d"
+        },
+        {
+          "id": "dan-ives-t-clearer-palantir-140002451.html",
+          "author": null,
+          "description": "The Wedbush analyst is dismissive of the investor panic over the sell-off in PLTR.",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-t-clearer-palantir-140002451.html",
+          "publishedOn": "2026-05-10T14:00:02.000Z",
+          "wordCount": 7786,
+          "title": "Dan Ives Can’t Make It Any Clearer: Palantir Stock Is Still a ‘Golden Goose’ Despite Q1 Earnings Fears",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/S0trE7iCIrx0ubw7xJI5CQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/e0bbafafc23898bac8f3a8e81361cfcc"
         },
         {
           "id": "legendary-investor-made-estimated-100-140000604.html",
@@ -9710,6 +9780,26 @@
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/bsPDWym9xI61GdlWM5glXA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjM-/https://media.zenfs.com/en/barchart_com_477/e1ba282fa6bef4759ec1fdc0d4620664"
         },
         {
+          "id": "jpmorgan-urges-investors-buy-dips-131800580.html",
+          "author": null,
+          "description": "JPMorgan strategist Mislav Matejka is advising investors to stay focused on the bigger picture and view market pullbacks as opportunities, arguing that fears of a lasting stagflation shock may be exaggerated. In a recent note, Matejka acknowledged that the MSCI World index has staged what the bank called a “V-shaped rebound,” but warned that the apparent strength may be misleading.",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-urges-investors-buy-dips-131800580.html",
+          "publishedOn": "2026-05-10T13:18:00.000Z",
+          "wordCount": 5722,
+          "title": "JPMorgan urges investors to buy dips as stagflation fears seen overstated",
+          "imageUrl": "https://s.yimg.com/os/en/investorshub_458/0caaa0034ddc49c146f46249071b648d"
+        },
+        {
+          "id": "baillie-gifford-dumps-248-000-131447776.html",
+          "author": null,
+          "description": "MercadoLibre delivers e-commerce, fintech, and logistics solutions across Latin America, supporting merchants and digital consumers alike.",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/baillie-gifford-dumps-248-000-131447776.html",
+          "publishedOn": "2026-05-10T13:14:47.000Z",
+          "wordCount": 7353,
+          "title": "Baillie Gifford Dumps 248,000 MercadoLibre (MELI) Shares Worth About $479 Million",
+          "imageUrl": "https://s.yimg.com/os/en/motleyfool.com/c2be141052df25b8d0a87e7be03c304c"
+        },
+        {
           "id": "mark-cuban-lived-student-making-131000864.html",
           "author": null,
           "description": "The maverick businessman weighs in.",
@@ -9718,6 +9808,66 @@
           "wordCount": 8826,
           "title": "Mark Cuban ‘lived like a student’ after making his first $2 million. Here’s what he did and how you can learn from it",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/26JjqSPcwOXNuwFkccwc7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_ecomm_711/37ca735cd63a5a44a6854ddd462e628d"
+        },
+        {
+          "id": "frontview-reit-q1-earnings-call-130733130.html",
+          "author": null,
+          "description": "FrontView REIT (NYSE:FVR) reported a stronger first quarter and raised its full-year AFFO per share outlook, as management highlighted acquisition activity, portfolio repositioning and improving operating metrics during the company’s first quarter 2026 earnings call. Chairman and Co-CEO Stephen Pre",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/frontview-reit-q1-earnings-call-130733130.html",
+          "publishedOn": "2026-05-10T13:07:33.000Z",
+          "wordCount": 10322,
+          "title": "FrontView REIT Q1 Earnings Call Highlights",
+          "imageUrl": "https://s.yimg.com/os/en/marketbeat_955/9eef24454d3497fb7e8957a19de51451"
+        },
+        {
+          "id": "genpact-q1-earnings-call-highlights-130733400.html",
+          "author": null,
+          "description": "Genpact (NYSE:G) reported what executives described as a record start to fiscal 2026, with first-quarter revenue rising 6.7% year over year to $1.296 billion as demand accelerated for its Advanced Technology Solutions business, including data and AI, digital technologies, advisory and agentic offeri",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/genpact-q1-earnings-call-highlights-130733400.html",
+          "publishedOn": "2026-05-10T13:07:33.000Z",
+          "wordCount": 7575,
+          "title": "Genpact Q1 Earnings Call Highlights",
+          "imageUrl": "https://s.yimg.com/os/en/marketbeat_955/af688f4dcc6c38ef77a328dadfbfa2c5"
+        },
+        {
+          "id": "cameco-touts-nuclear-demand-surge-130733608.html",
+          "author": null,
+          "description": "Cameco (NYSE:CCJ) used its 2026 annual meeting of shareholders to highlight growing global support for nuclear energy, review its 2025 operational and financial progress, and complete routine shareholder votes, including the election of directors and approval of its executive compensation approach.",
+          "link": "https://finance.yahoo.com/sectors/energy/articles/cameco-touts-nuclear-demand-surge-130733608.html",
+          "publishedOn": "2026-05-10T13:07:33.000Z",
+          "wordCount": 7702,
+          "title": "Cameco Touts Nuclear Demand Surge, Strong 2025 Results at Annual Meeting",
+          "imageUrl": "https://s.yimg.com/os/en/marketbeat_955/8512e2fa3fbd903f24c818414c6f76b4"
+        },
+        {
+          "id": "six-flags-entertainment-q1-earnings-130732365.html",
+          "author": null,
+          "description": "Six Flags Entertainment (NYSE:FUN) reported improved first-quarter 2026 operating trends, with management pointing to higher attendance, stronger guest spending and tighter cost controls, while also cautioning investors not to extrapolate the seasonally small quarter across the full year. On the co",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/six-flags-entertainment-q1-earnings-130732365.html",
+          "publishedOn": "2026-05-10T13:07:32.000Z",
+          "wordCount": 8375,
+          "title": "Six Flags Entertainment Q1 Earnings Call Highlights",
+          "imageUrl": "https://s.yimg.com/os/en/marketbeat_955/275c4cc6f17a228f410744239c6fde19"
+        },
+        {
+          "id": "fortis-q1-earnings-call-highlights-130732449.html",
+          "author": null,
+          "description": "Fortis (NYSE:FTS) said it opened 2026 with first-quarter results in line with management expectations, as the regulated utility operator continued to advance a multiyear capital program and highlighted growing data center-related demand across parts of its service territory. President and CEO David",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/fortis-q1-earnings-call-highlights-130732449.html",
+          "publishedOn": "2026-05-10T13:07:32.000Z",
+          "wordCount": 8354,
+          "title": "Fortis Q1 Earnings Call Highlights",
+          "imageUrl": "https://s.yimg.com/os/en/marketbeat_955/96fb39f54dc1266c94b661453c104fb0"
+        },
+        {
+          "id": "fubotv-q2-earnings-call-highlights-130732313.html",
+          "author": null,
+          "description": "fuboTV (NYSE:FUBO) reported what executives described as its strongest second quarter on an adjusted EBITDA basis, as the company completed its first full quarter following its business combination with Hulu + Live TV and outlined plans to use broader packaging, advertising integration and product t",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/fubotv-q2-earnings-call-highlights-130732313.html",
+          "publishedOn": "2026-05-10T13:07:32.000Z",
+          "wordCount": 8342,
+          "title": "fuboTV Q2 Earnings Call Highlights",
+          "imageUrl": "https://s.yimg.com/os/en/marketbeat_955/91614c1d2bea396a0ea283d42b613cce"
         },
         {
           "id": "ai-demand-powered-303-rally-130002368.html",
@@ -103218,176 +103368,6 @@
           "wordCount": 10042,
           "title": "‘We aren't in it to make 5% or 6%': Warren Buffett calls Iran war market dip 'nothing.’ What he sees that others don't",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/EW.ZFpTmY.5HKqud2P8dVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_ecomm_711/51a218ab8f8e184dfacba4422a1d378b"
-        },
-        {
-          "id": "social-security-surprise-could-upend-100600462.html",
-          "author": null,
-          "description": "It's something you need to plan for.",
-          "link": "https://finance.yahoo.com/economy/policy/articles/social-security-surprise-could-upend-100600462.html",
-          "publishedOn": "2026-04-12T10:06:00.000Z",
-          "wordCount": 7943,
-          "title": "This Social Security Surprise Could Upend Your Retirement Budget",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/iry26Zoz5ZirWboEWUWbbw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/motleyfool.com/ff4813d2aa73070ac96939698e3cb400"
-        },
-        {
-          "id": "sherwin-williams-q1-2026-earnings-100522639.html",
-          "author": null,
-          "description": "Sherwin-Williams is scheduled to report its first-quarter results later this month, and analysts expect a modest single-digit increase in earnings.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/sherwin-williams-q1-2026-earnings-100522639.html",
-          "publishedOn": "2026-04-12T10:05:22.000Z",
-          "wordCount": 6999,
-          "title": "Sherwin-Williams’ Q1 2026 Earnings: What to Expect",
-          "imageUrl": "https://s.yimg.com/os/en/barchart_com_477/7b2d76b1764ef0cfc1b0008f2b9f04cb"
-        },
-        {
-          "id": "fed-shifting-focus-job-market-100115599.html",
-          "author": null,
-          "description": "The Federal Reserve is increasingly worried about the fragility of the U.S. labor market, signaling a potential shift in the focus of monetary policy as risks to employment begin to rival lingering inflation concerns. A Vulnerable Labor Market “The minutes suggest that the FOMC is somewhat more sensitive to labor market vulnerabilities than to inflation risk,” noted prominent economist Mohamed El-Erian following the release of the minutes from the March 17-18 meeting. While the central bank vote",
-          "link": "https://finance.yahoo.com/economy/policy/articles/fed-shifting-focus-job-market-100115599.html",
-          "publishedOn": "2026-04-12T10:01:15.000Z",
-          "wordCount": 7003,
-          "title": "Fed Shifting Focus? Job Market Risks May Be Outweighing Inflation Fears, Highlights El-Erian Citing Fed Minutes",
-          "imageUrl": "https://s.yimg.com/os/en/Benzinga/c8b7c55c296d6845c7d9692d1ba22498"
-        },
-        {
-          "id": "much-portfolio-cryptocurrency-100100434.html",
-          "author": null,
-          "description": "There's a very straightforward answer here.",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/much-portfolio-cryptocurrency-100100434.html",
-          "publishedOn": "2026-04-12T10:01:00.000Z",
-          "wordCount": 7187,
-          "title": "How Much of Your Portfolio Should Be in Cryptocurrency?",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/8MifffgOhI7qbc8vreQsjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTk-/https://media.zenfs.com/en/motleyfool.com/9010a2b0f7ba6004d873e2b9d1dbc52c"
-        },
-        {
-          "id": "heloc-home-equity-loan-interest-rates-today-sunday-april-12-2026-100100584.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-april-12-2026-100100584.html",
-          "publishedOn": "2026-04-12T10:01:00.000Z",
-          "wordCount": null,
-          "title": "HELOC and home equity loan rates Sunday, April 12, 2026: Rates remain relatively flat",
-          "imageUrl": null
-        },
-        {
-          "id": "earnings-preview-expect-archer-daniels-100014924.html",
-          "author": null,
-          "description": "Archer-Daniels-Midland Company is set to report its fiscal first-quarter results shortly, and analysts are anticipating its earnings to decline in single digit.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-archer-daniels-100014924.html",
-          "publishedOn": "2026-04-12T10:00:14.000Z",
-          "wordCount": 6988,
-          "title": "Earnings Preview: What to Expect From Archer-Daniels-Midland’s Report",
-          "imageUrl": "https://s.yimg.com/os/en/barchart_com_477/f5a2dc2a86b194d1188acbc084cab3b5"
-        },
-        {
-          "id": "top-10-p-500-ceo-100006220.html",
-          "author": null,
-          "description": "How much money would each employee at their respective company make if their CEO's pay was distributed equally amongst them?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/top-10-p-500-ceo-100006220.html",
-          "publishedOn": "2026-04-12T10:00:06.000Z",
-          "wordCount": 8056,
-          "title": "If the Top 10 S&P 500 CEO Salaries Were Distributed Equally Among Workers, How Much Money Would Each Person Make?",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/yBij7eHF9X4XcjOb3hgg9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/c76214515fc6edcccb6be355f396f423"
-        },
-        {
-          "id": "financial-expert-warns-one-ira-100000048.html",
-          "author": null,
-          "description": "If you manage your own finances online, consider getting some outside advice before making a big move — so you don’t make a costly mistake you can’t take back.",
-          "link": "https://finance.yahoo.com/markets/options/articles/financial-expert-warns-one-ira-100000048.html",
-          "publishedOn": "2026-04-12T10:00:00.000Z",
-          "wordCount": 8890,
-          "title": "Financial expert warns of the one IRA conversion mistake that could cost you ‘well over 30% of every dollar'",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/bqPO1IgW3sMwZHT3lZYz9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_327/b5caaf870cd42026938954bd90c8f585"
-        },
-        {
-          "id": "us-bitcoin-etfs-log-biggest-100000853.html",
-          "author": null,
-          "description": "US spot Bitcoin ETFs pulled in more than $786 million last week, marking their strongest weekly inflow since February.",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/us-bitcoin-etfs-log-biggest-100000853.html",
-          "publishedOn": "2026-04-12T10:00:00.000Z",
-          "wordCount": 6813,
-          "title": "US Bitcoin ETFs Log Biggest Weekly Inflow Since February",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/TtwxwwJ3mBYmzSyVs04pJw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/0a13f93b494cdbc00e383c7a118c7b36"
-        },
-        {
-          "id": "best-cd-rates-today-sunday-april-12-2026-100000515.html",
-          "author": null,
-          "description": "If you're searching for today's best CD rates, we've narrowed down some of the top offers. Learn more about CD rates today.",
-          "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-april-12-2026-100000515.html",
-          "publishedOn": "2026-04-12T10:00:00.000Z",
-          "wordCount": 38446,
-          "title": "Best CD rates today, April 12, 2026 (lock in up to 4.05% APY)",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/9xZhsl9JDBre6CMmLno6Gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e0-4f64-11ef-afb3-0ed5867646a0"
-        },
-        {
-          "id": "mortgage-refinance-interest-rates-today-sunday-april-12-2026-100000017.html",
-          "author": null,
-          "description": "These are today's mortgage and refinance rates.  The Zillow lender marketplace is reporting an average 30-year fixed mortgage of 6.15%, down seven basis points from last weekend.",
-          "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-april-12-2026-100000017.html",
-          "publishedOn": "2026-04-12T10:00:00.000Z",
-          "wordCount": 39559,
-          "title": "Mortgage and refinance interest rates today, April 12, 2026: Rates fall further since last weekend",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/I199q7waIrtuQGBJaPIm2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/6f016ae0-03e6-11ef-97ff-13785de87be3"
-        },
-        {
-          "id": "best-money-market-account-rates-today-sunday-april-12-2026-100000199.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-april-12-2026-100000199.html",
-          "publishedOn": "2026-04-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Best money market account rates today, April 12, 2026 (best account provides 4.01% APY)",
-          "imageUrl": null
-        },
-        {
-          "id": "best-high-yield-savings-interest-rates-today-sunday-april-12-2026-100000526.html",
-          "author": null,
-          "description": "",
-          "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-sunday-april-12-2026-100000526.html",
-          "publishedOn": "2026-04-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Best high-yield savings interest rates today, April 12, 2026 (Earn up to 4% APY)",
-          "imageUrl": null
-        },
-        {
-          "id": "heres-expect-paccar-next-earnings-095637367.html",
-          "author": null,
-          "description": "PACCAR is set to release its first-quarter results later this month, with analysts projecting a double-digit decline in earnings.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-paccar-next-earnings-095637367.html",
-          "publishedOn": "2026-04-12T09:56:37.000Z",
-          "wordCount": 7296,
-          "title": "Here's What to Expect From PACCAR’s Next Earnings Report",
-          "imageUrl": "https://s.yimg.com/os/en/barchart_com_477/e7efb8739d31cb7b91fa354b539ce678"
-        },
-        {
-          "id": "expect-veralto-q1-2026-earnings-095321390.html",
-          "author": null,
-          "description": "Veralto is ready to deliver Q1 2026 earnings soon, and analysts expect the company’s earnings to rise in the low single digits.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/expect-veralto-q1-2026-earnings-095321390.html",
-          "publishedOn": "2026-04-12T09:53:21.000Z",
-          "wordCount": 6955,
-          "title": "What to Expect From Veralto’s Q1 2026 Earnings Report",
-          "imageUrl": "https://s.yimg.com/os/en/barchart_com_477/545018d3d1041df4a959c34b253c16cd"
-        },
-        {
-          "id": "let-not-naive-ray-dalio-090500188.html",
-          "author": null,
-          "description": "Big changes are in progress abroad and at home.",
-          "link": "https://finance.yahoo.com/economy/policy/articles/let-not-naive-ray-dalio-090500188.html",
-          "publishedOn": "2026-04-12T09:05:00.000Z",
-          "wordCount": 11220,
-          "title": "‘Let’s not be naive’: Ray Dalio says economic world order ‘is gone’ — warns of US ‘civil war.’ Preserve your wealth now",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/7LME3F75OYOYlMq9KBf5Aw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_ecomm_711/ff8b1118eb6d792d971d3c3d94f1295b"
-        },
-        {
-          "id": "colorado-couple-both-married-other-090000701.html",
-          "author": null,
-          "description": "The last thing you want is for your money to get tied up in someone else’s divorce.",
-          "link": "https://finance.yahoo.com/markets/articles/colorado-couple-both-married-other-090000701.html",
-          "publishedOn": "2026-04-12T09:00:00.000Z",
-          "wordCount": 8648,
-          "title": "Colorado couple who are both married to other people should not combine their bills or debts, The Ramsey Show says",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/2sYJ9ZSWTcXRO4ufSIf1Zw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_327/353d9dcee3d4a6f7402153e444321b17"
         }
       ]
     }
