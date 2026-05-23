@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-22T22:05:48.527Z</updated>
+    <updated>2026-05-23T00:05:09.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morgan Stanley resets PANW stock price target on demand trends]]></title>
+        <id>morgan-stanley-resets-panw-stock-223300963.html</id>
+        <link href="https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-panw-stock-223300963.html"/>
+        <updated>2026-05-22T22:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Palo Alto Networks (PANW) just picked up another vote of confidence from Wall Street, and it arrived at a busy moment for the stock. Shares closed at $247.55 on May 18, near a fresh all-time high reached days earlier. For a stock that fell roughly 20% over the prior year, that swing matters to ...]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT Can Now Connect to Your Financial Accounts—Experts Warn Against Sharing Too Much]]></title>
         <id>e6bf72aedf289214760b8bf19066e52a</id>
@@ -24,6 +34,36 @@
         <summary type="html"><![CDATA[OpenAI’s new personal finance features may feel similar to budgeting apps, but experts say AI conversations can create different privacy concerns.]]></summary>
         <author>
             <name>Learn about our</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intuit earnings put Morgan Stanley stock forecast to the test]]></title>
+        <id>intuit-earnings-put-morgan-stanley-191300823.html</id>
+        <link href="https://finance.yahoo.com/markets/stocks/articles/intuit-earnings-put-morgan-stanley-191300823.html"/>
+        <updated>2026-05-22T19:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Intuit’s latest earnings report gave investors fresh evidence for the bull case Morgan Stanley laid out before the company’s fiscal third-quarter results, while also leaving some of Wall Street’s biggest concerns around TurboTax and artificial intelligence unresolved. The company reported fiscal ...]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The next financial edge may sit in infrastructure control]]></title>
+        <id>next-financial-edge-may-sit-180300016.html</id>
+        <link href="https://finance.yahoo.com/markets/stocks/articles/next-financial-edge-may-sit-180300016.html"/>
+        <updated>2026-05-22T18:03:00.000Z</updated>
+        <summary type="html"><![CDATA[For decades, the dominant question in capital markets was who could trade faster, price better, and access liquidity more efficiently than everyone else. High-frequency trading firms spent billions reducing latency by microseconds. Investment banks built global distribution networks. Exchanges ...]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon allegedly made millions from this now illegal policy]]></title>
+        <id>amazon-allegedly-made-millions-now-170700373.html</id>
+        <link href="https://finance.yahoo.com/economy/policy/articles/amazon-allegedly-made-millions-now-170700373.html"/>
+        <updated>2026-05-22T17:07:00.000Z</updated>
+        <summary type="html"><![CDATA[If it seems like everything is expensive these days, it might not be just because of inflation. When tariffs were raised, those costs were either passed onto consumers or companies. And now that some of the tariffs from the past year have been deemed unconstituitional, companies want their money ...]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
         </author>
     </entry>
     <entry>
@@ -836,6 +876,36 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cotton Falling at Thursday’s Midday]]></title>
+        <id>cotton-falling-thursday-midday-172053004.html</id>
+        <link href="https://finance.yahoo.com/markets/commodities/articles/cotton-falling-thursday-midday-172053004.html"/>
+        <updated>2026-05-21T17:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Cotton futures are trading with contracts down 300 to 366 points on the Thursday session. The US dollar index was $0.306 higher at $99.320. Crude oil is up $1.75 on the day to $100.08. USDA’s Export Sales report from Thursday morning showed 131,792 RB of cotton sold for 2025/26 in...]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soybeans Easing Lower on Thursday]]></title>
+        <id>soybeans-easing-lower-thursday-172053368.html</id>
+        <link href="https://finance.yahoo.com/markets/commodities/articles/soybeans-easing-lower-thursday-172053368.html"/>
+        <updated>2026-05-21T17:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Soybeans are trading with 2 to 4 cent losses in most contracts on Thursday. The cmdtyView national average Cash Bean price is down 3 1/4 cents at $11.34 1/2. Soymeal futures are down 80 cents to $1.30 on the day, with Soy Oil futures 2 to 12 points lower. Export...]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corn Holding Steady at Midday]]></title>
+        <id>corn-holding-steady-midday-172053262.html</id>
+        <link href="https://finance.yahoo.com/markets/commodities/articles/corn-holding-steady-midday-172053262.html"/>
+        <updated>2026-05-21T17:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Corn futures are trading with contracts steady to fractionally higher on Thursday. The CmdtyView national average Cash Corn price is up 3/4 cent to $4.26 1/2. USDA’s Export Sales data showed 2.125 MMT in old crop corn business, which exceeded the 0.8-1.6 MMT estimates for the week of 5/14. That...]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why Kevin Warsh Will Have to Defy Trump on Interest Rate Cuts]]></title>
         <id>why-kevin-warsh-defy-trump-171921469.html</id>
         <link href="https://finance.yahoo.com/economy/policy/articles/why-kevin-warsh-defy-trump-171921469.html"/>
@@ -906,6 +976,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Exclusive-Modal Labs valued at $4.65 billion as AI coding takes off]]></title>
+        <id>exclusive-modal-labs-valued-4-170258984.html</id>
+        <link href="https://finance.yahoo.com/sectors/technology/articles/exclusive-modal-labs-valued-4-170258984.html"/>
+        <updated>2026-05-21T17:02:58.000Z</updated>
+        <summary type="html"><![CDATA[AI startup Modal raised $355 million in a new round of financing, valuing the company at $4.65 billion, ‌CEO Erik Bernhardsson told Reuters.  AI startups have been whipped by two ‌shifts this year: the surge in AI coding and the increasing scarcity of computing power.  The company's ⁠new round is led by Redpoint Ventures and General Catalyst, which will have a board seat.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['It's hard work to make nothing': Small businesses struggle with declining profits as gas, shipping prices rise]]></title>
         <id>its-hard-work-to-make-nothing-small-businesses-struggle-with-declining-profits-as-gas-shipping-prices-rise-165928735.html</id>
         <link href="https://finance.yahoo.com/economy/article/its-hard-work-to-make-nothing-small-businesses-struggle-with-declining-profits-as-gas-shipping-prices-rise-165928735.html"/>
@@ -926,10 +1006,60 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Did Amazon Just Deliver a Sweeping Blow to IonQ?]]></title>
+        <id>did-amazon-just-deliver-sweeping-164900975.html</id>
+        <link href="https://finance.yahoo.com/markets/stocks/articles/did-amazon-just-deliver-sweeping-164900975.html"/>
+        <updated>2026-05-21T16:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon recently sold its remaining stake in IonQ stock.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Luxury Retailers' Earnings Top Views As Affluent Consumers Keep Splurging]]></title>
         <id>?src=A00220&amp;yptr=yahoo</id>
         <link href="https://www.investors.com/news/ralph-lauren-rl-stock-williams-sonoma-wsm-stock-luxury-retailers-earnings/?src=A00220&amp;yptr=yahoo"/>
         <updated>2026-05-21T16:48:35.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Africa’s payments paradox: Why complexity is the market’s greatest advantage]]></title>
+        <id>africa-payments-paradox-why-complexity-164818104.html</id>
+        <link href="https://finance.yahoo.com/markets/crypto/articles/africa-payments-paradox-why-complexity-164818104.html"/>
+        <updated>2026-05-21T16:48:18.000Z</updated>
+        <summary type="html"><![CDATA[Tim Davis explains why Africa’s fragmented payments landscape should be viewed as an opportunity rather than a barrier for fintechs and payments providers looking to scale across the continent]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prediction: POET Stock’s Outlook Just Turned Bleak]]></title>
+        <id>prediction-poet-stock-outlook-just-164656289.html</id>
+        <link href="https://finance.yahoo.com/markets/stocks/articles/prediction-poet-stock-outlook-just-164656289.html"/>
+        <updated>2026-05-21T16:46:56.000Z</updated>
+        <summary type="html"><![CDATA[POET Technologies (NASDAQ:POET) has been one of the wildest small-cap AI infrastructure stories of 2026, with shares riding a 133.49% year-to-date rally on a marquee Lumilens supply agreement. After running this name through our proprietary model, the rally has gotten ahead of the fundamentals. Earlier this month, we’d a buy call for the stock with ... Prediction: POET Stock’s Outlook Just Turned Bleak]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia's Impressive Earnings Fall Flat with Investors. Has the Stock Lost Its Edge?]]></title>
+        <id>nvidias-impressive-earnings-fall-flat-164438084.html</id>
+        <link href="https://finance.yahoo.com/markets/stocks/articles/nvidias-impressive-earnings-fall-flat-164438084.html"/>
+        <updated>2026-05-21T16:44:38.000Z</updated>
+        <summary type="html"><![CDATA[Investors Are Looking for AI Stocks Thought to Have More Upside]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Costco Stock Dropped Today]]></title>
+        <id>why-costco-stock-dropped-today-164414097.html</id>
+        <link href="https://finance.yahoo.com/markets/stocks/articles/why-costco-stock-dropped-today-164414097.html"/>
+        <updated>2026-05-21T16:44:14.000Z</updated>
+        <summary type="html"><![CDATA[Kroger is great, but Costco is better.]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -945,6 +1075,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[An Apparent Short Squeeze Is Brewing in T1 Energy Stock]]></title>
+        <id>apparent-short-squeeze-brewing-t1-164033448.html</id>
+        <link href="https://finance.yahoo.com/markets/stocks/articles/apparent-short-squeeze-brewing-t1-164033448.html"/>
+        <updated>2026-05-21T16:40:33.000Z</updated>
+        <summary type="html"><![CDATA[T1 Energy stock experiences a powerful short squeeze following Fuzzy Panda’s short report. Roth Capital and Situational Awareness are also bullish on TE shares.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SpaceX Finally Filed and the S-1? Well, She’s a Lot]]></title>
         <id>spacex-finally-filed-1-well-162727025.html</id>
         <link href="https://finance.yahoo.com/markets/stocks/articles/spacex-finally-filed-1-well-162727025.html"/>
@@ -955,10 +1095,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Intuit Is Slashing More Than 3,000 Jobs. Why Wall Street Is Punishing INTU Stock for the AI Pivot.]]></title>
+        <id>intuit-slashing-more-3-000-162528452.html</id>
+        <link href="https://finance.yahoo.com/markets/stocks/articles/intuit-slashing-more-3-000-162528452.html"/>
+        <updated>2026-05-21T16:25:28.000Z</updated>
+        <summary type="html"><![CDATA[The layoffs will represent about 17% of its personnel.]]></summary>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Multiple Sclerosis-Focused Biotech Quadruples Its Profit, Raises Sales Forecast]]></title>
         <id>?src=A00220&amp;yptr=yahoo</id>
         <link href="https://www.investors.com/research/tgtx-stock-tg-therapeutics-multiple-sclerosis-biotech-2/?src=A00220&amp;yptr=yahoo"/>
         <updated>2026-05-21T16:24:11.000Z</updated>
+        <author>
+            <name>Yahoo Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rising Crude Oil Prices Support Ethanol and Sugar Prices]]></title>
+        <id>rising-crude-oil-prices-support-162400956.html</id>
+        <link href="https://finance.yahoo.com/markets/commodities/articles/rising-crude-oil-prices-support-162400956.html"/>
+        <updated>2026-05-21T16:24:00.000Z</updated>
+        <summary type="html"><![CDATA[July NY world sugar #11 (SBN26 ) today is up +0.14 (+0.95%), and Aug London ICE white sugar #5 (SWQ26 ) is up +3.00 (+0.68%). Sugar prices are moving higher today as strength in crude oil prices spurred short covering in sugar futures. Crude oil (CLN26 ) jumped by more...]]></summary>
         <author>
             <name>Yahoo Finance</name>
         </author>
@@ -89553,618 +89713,6 @@ Zeeuwse Vlaketunnel was anderhalve week dicht en als reactie pakten mensen massa
         <link href="https://finance.yahoo.com/markets/stocks/articles/teslas-25-billion-spending-plan-120631772.html"/>
         <updated>2026-04-23T12:06:31.000Z</updated>
         <summary type="html"><![CDATA[Tesla CEO Elon Musk is asking investors to take a leap of faith on his costly bets in self-driving technology and humanoid ‌robots that have yet to generate meaningful revenue.  It raises a key question for investors: whether ‌Tesla's rising spending can be justified without the kind of established, high-margin cash engines that allow Big Tech peers to fund ​bigger investments.  "If you think that Elon Musk's view that Optimus will be ultimately their most worthy, most value-creating platform, and you think you're skeptical, then the capex doesn't make sense, and it's probably not a good investment," said Seth Goldstein, a Morningstar analyst, on Tesla's humanoid robot, a still-in-development system Musk has said could be ‌mass-produced.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investors Plow $1 Billion Into This ETF In Just 10 Days]]></title>
-        <id>?src=A00220&amp;yptr=yahoo</id>
-        <link href="https://www.investors.com/etfs-and-funds/etfs/ram-stocks-investors-plow-1-billion-into-this-etf-in-just-10-days/?src=A00220&amp;yptr=yahoo"/>
-        <updated>2026-04-23T12:00:51.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[America's Greatest Opportunities: How Price Club Offered A Lesson On Fundamentals]]></title>
-        <id>?src=A00220&amp;yptr=yahoo</id>
-        <link href="https://www.investors.com/how-to-invest/price-club-stock-americas-greatest-opportunities/?src=A00220&amp;yptr=yahoo"/>
-        <updated>2026-04-23T12:00:40.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This REIT Has Increased Distributions For 36 Straight Years]]></title>
-        <id>?src=A00220&amp;yptr=yahoo</id>
-        <link href="https://www.investors.com/research/the-income-investor/nnn-reit-stock-real-estate-investment-trust/?src=A00220&amp;yptr=yahoo"/>
-        <updated>2026-04-23T12:00:24.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breakout Watch: CashAI Fuels Big Demand For This Feisty Fintech]]></title>
-        <id>?src=A00220&amp;yptr=yahoo</id>
-        <link href="https://www.investors.com/research/ibd-stock-analysis/dave-stock-cashai-davegpt-bankroll-fintech-growth/?src=A00220&amp;yptr=yahoo"/>
-        <updated>2026-04-23T12:00:21.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cannabis Stocks Soared—Than Sank. Here's What Investors Need to Know.]]></title>
-        <id>cc01ce02b7cfba6bc418863ee470f6ab</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8566c9ec1ea7552ac59d2cacf1313ec25750c222803cfc864a2a4a9678943ddadf1269d1e378a1b8f428e3fcc324ab3aec391b8d265c455d09f8f7e5cd7814c2dcb9b597c198951c449b1fc9922734d93f7b7fc2ce03"/>
-        <updated>2026-04-23T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cannabis stocks and funds that hold them surged after the Trump administration moved it from the government most restrictive drug category to one that can be obtainable with a prescription.]]></summary>
-        <author>
-            <name>Learn about our</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Traders Chased a Trump Bump in Spirit Airlines Stock. It's a Risky Move.]]></title>
-        <id>c3aa08584352f0e0e000adac0d455b10</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9275c6e61ab74f748b8639b0f73e608e094bd1258828fc9057265496629b7ec282137ecaf278b3fcf12cebe68b3ee83ffd250c8979461c1e1fb0f2e5cb7e4ac2cbfbafd5da9cca13429707d6de3b34d133787acdc8"/>
-        <updated>2026-04-23T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Spirit Airlines stock jumped Wednesday following reports the Trump administration is considering taking a stake in the beleaguered carrier as part of a financial assistance package.]]></summary>
-        <author>
-            <name>Learn about our</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Things to Know Before the Stock Market Opens]]></title>
-        <id>5a023a973719901955fdd4f4c2380397</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df5623419678813cd2995761c2f43eb7e1ae2ff2ed803ee82df938068e791d5b1e5eada1fe9426089087e0f48f95"/>
-        <updated>2026-04-23T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Stocks futures are lower this morning after major indexes hit fresh record highs yesterday, as investors monitor developments in the Middle East and digest a flurry of earnings reports. Here's what investors need to know today.]]></summary>
-        <author>
-            <name>Learn about our</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Familiebedrijf Ritter Sport schrapt voor het eerst in 114 jaar banen]]></title>
-        <id>article-6393568</id>
-        <link href="https://www.nu.nl/economie/6393568/familiebedrijf-ritter-sport-schrapt-voor-het-eerst-in-114-jaar-banen.html"/>
-        <updated>2026-04-23T11:55:28.000Z</updated>
-        <summary type="html"><![CDATA[De Duitse chocolademaker Ritter Sport gaat voor het eerst in zijn 114-jarige bestaan banen schrappen om kosten te besparen. Het familiebedrijf heeft te maken met gestegen kosten voor cacao, energie en verpakkingsmaterialen. Daarom verdwijnen er banen op het hoofdkantoor in Waldenbuch.]]></summary>
-        <author>
-            <name>NU - Economie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earnings Preview: What to Expect From Molson Coors' Report]]></title>
-        <id>earnings-preview-expect-molson-coors-115515103.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-molson-coors-115515103.html"/>
-        <updated>2026-04-23T11:55:15.000Z</updated>
-        <summary type="html"><![CDATA[Molson Coors will release its first-quarter earnings next week, and analysts anticipate a double-digit profit dip.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jim Cramer Called Johnson & Johnson “The Best Drug Stock, or at Least the Second-Best”]]></title>
-        <id>jim-cramer-called-johnson-johnson-115426051.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-called-johnson-johnson-115426051.html"/>
-        <updated>2026-04-23T11:54:26.000Z</updated>
-        <summary type="html"><![CDATA[Johnson & Johnson (NYSE:JNJ) was among Jim Cramer’s stock calls on Mad Money recently. Cramer highlighted buying the stock for the Charitable Trust, as he stated: We bought the stock of Johnson & Johnson today for the Charitable Trust… Are we crazy? No, we’re not crazy. We’re buying what may be the best drug stock, […]]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jim Cramer Says “I Got to Reopen the File on Biogen”]]></title>
-        <id>jim-cramer-says-got-reopen-115424679.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-got-reopen-115424679.html"/>
-        <updated>2026-04-23T11:54:24.000Z</updated>
-        <summary type="html"><![CDATA[Biogen Inc. (NASDAQ:BIIB) was among Jim Cramer’s stock calls on Mad Money recently. Toward the end of the lightning round, a caller asked what Cramer thinks of the stock, and he commented: Well, I read the upgrade today by Wells Fargo, and it talked about a bunch of revenue streams. including Alzheimer’s, and it was […]]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jim Cramer on Flex Ltd.: “I Just Can’t Recommend It Here, It’s Too High”]]></title>
-        <id>jim-cramer-flex-ltd-just-115423109.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-flex-ltd-just-115423109.html"/>
-        <updated>2026-04-23T11:54:23.000Z</updated>
-        <summary type="html"><![CDATA[Flex Ltd. (NASDAQ:FLEX) was among Jim Cramer’s stock calls on Mad Money recently. Responding to a caller’s query about the stock, Cramer said: Oh, that thing is just a rocket ship. Again, you know, this is the problem…. it is just a monster. And everyone keeps raising the price target, raising the price target, and […]]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jim Cramer on Infleqtion: “Take a Little Profit and You Can Buy It Back Lower”]]></title>
-        <id>jim-cramer-infleqtion-little-profit-115420164.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-infleqtion-little-profit-115420164.html"/>
-        <updated>2026-04-23T11:54:20.000Z</updated>
-        <summary type="html"><![CDATA[Infleqtion, Inc. (NYSE:INFQ) was among Jim Cramer’s stock calls on Mad Money recently. When a caller mentioned the stock got a “big boost” at NVIDIA’s GTC conference, Cramer remarked: I know, I know. Look, this is a parabolic move right at the end. I think you take a little profit and you can buy it […]]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jim Cramer on ON Semiconductor: “Bit of a Mystery to Me”]]></title>
-        <id>jim-cramer-semiconductor-bit-mystery-115410776.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-semiconductor-bit-mystery-115410776.html"/>
-        <updated>2026-04-23T11:54:10.000Z</updated>
-        <summary type="html"><![CDATA[ON Semiconductor Corporation (NASDAQ:ON) was among Jim Cramer’s stock calls on Mad Money recently. Cramer mentioned the company during the episode and said: Finally, rounding out the top 10 performers in the S&P 500 since the bottom is ON Semiconductor, which ended up in fifth place, up 49%. Bit of a mystery to me. ON […]]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jim Cramer on Berkshire Hathaway: “To Leave the Stock Now Is a Big Mistake”]]></title>
-        <id>jim-cramer-berkshire-hathaway-leave-115404205.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-berkshire-hathaway-leave-115404205.html"/>
-        <updated>2026-04-23T11:54:04.000Z</updated>
-        <summary type="html"><![CDATA[Berkshire Hathaway Inc. (NYSE:BRK-B) was among Jim Cramer’s stock calls on Mad Money recently. Noting that the stock has underperformed the S&P 500 by about 45% over the last 12 months, a caller asked whether they should still own it. In response, Cramer said: Yes, look, I read the Greg Abel articles, and I think […]]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jim Cramer on General Mills: “A Lot of These Companies Just Have to Combine”]]></title>
-        <id>jim-cramer-general-mills-lot-115403618.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-general-mills-lot-115403618.html"/>
-        <updated>2026-04-23T11:54:03.000Z</updated>
-        <summary type="html"><![CDATA[General Mills, Inc. (NYSE:GIS) was among Jim Cramer’s stock calls on Mad Money recently. A caller asked whether the company can reaccelerate its organic growth or if performance will remain stagnant, and will rely on price increases and the pet food segment, “while core categories remain flat or declining.” Cramer replied: Okay, Mills doesn’t want […]]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jim Cramer on Cleveland-Cliffs: “It’s Emblematic of the Broader Manufacturing Economy”]]></title>
-        <id>jim-cramer-cleveland-cliffs-emblematic-115401722.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-cleveland-cliffs-emblematic-115401722.html"/>
-        <updated>2026-04-23T11:54:01.000Z</updated>
-        <summary type="html"><![CDATA[Cleveland-Cliffs Inc. (NYSE:CLF) was among Jim Cramer’s stock calls on Mad Money recently. Cramer mentioned the stock during the episode and remarked: One major company reported Cleveland-Cliffs, big steel company, big time steel. It saw its stock dip 2% in response to its earnings, but the results were better than the share price would suggest. […]]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Tesla investors should love this version of CEO Elon Musk]]></title>
-        <id>why-tesla-investors-should-love-this-version-of-ceo-elon-musk-115307738.html</id>
-        <link href="https://finance.yahoo.com/news/why-tesla-investors-should-love-this-version-of-ceo-elon-musk-115307738.html"/>
-        <updated>2026-04-23T11:53:07.000Z</updated>
-        <summary type="html"><![CDATA[A subdued, superfocused Musk is what Tesla investors need in what is arguably the most important moment for the company in years.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indian food delivery giant Zomato drops pricing clause after pushback, source says]]></title>
-        <id>indian-food-delivery-giant-zomato-114622214.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/indian-food-delivery-giant-zomato-114622214.html"/>
-        <updated>2026-04-23T11:46:22.000Z</updated>
-        <summary type="html"><![CDATA[India's biggest food delivery app Zomato has agreed to drop a contract term that penalized restaurants for offering cheaper meals to walk-in diners, a company ‌source said, after opposition from eateries who said the policy undermined their pricing decisions.  Eternal's Zomato app has ‌24 million consumers and 300,000 listed restaurants.  As demand for food delivery boomed, Eternal shares have more than doubled since their 2021 listing ​and the company is valued at nearly $26 billion.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin and ethereum price today, Thursday, April 23, 2026: Strong opening for bitcoin, but traders still cautious]]></title>
-        <id>bitcoin-and-ethereum-price-today-thursday-april-23-2026-strong-opening-for-bitcoin-but-traders-still-cautious-114021085.html</id>
-        <link href="https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-23-2026-strong-opening-for-bitcoin-but-traders-still-cautious-114021085.html"/>
-        <updated>2026-04-23T11:40:21.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin opened at $78,192.98 on Thursday, but retreated to $77,464.56 by 7:10 a.m. ET.  Ethereum opened at $2,375.12 on Thursday, but the price fell to $2,316.88 by 7:10 a.m. ET.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nearly half of Gen Z workers are actively trying to ‘sabotage’ their workplace’s AI strategies — but it's backfiring]]></title>
-        <id>nearly-half-gen-z-workers-113500240.html</id>
-        <link href="https://finance.yahoo.com/sectors/technology/articles/nearly-half-gen-z-workers-113500240.html"/>
-        <updated>2026-04-23T11:35:00.000Z</updated>
-        <summary type="html"><![CDATA[For the first generation raised on smartphones and social media, AI in the workplace feels less like progress and more like a threat to their financial futures.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More people are turning to AI to help navigate tight finances]]></title>
-        <id>more-people-are-turning-to-ai-to-help-navigate-tight-finances-113321794.html</id>
-        <link href="https://finance.yahoo.com/economy/article/more-people-are-turning-to-ai-to-help-navigate-tight-finances-113321794.html"/>
-        <updated>2026-04-23T11:33:21.000Z</updated>
-        <summary type="html"><![CDATA[Americans expect inflation and everyday costs to be major factors in their financial well-being this year, and more are counting on artificial intelligence to help them navigate.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analysis-Biggest IPO wave in history promises $3 trillion in value – with no profits]]></title>
-        <id>analysis-biggest-ipo-wave-history-111941853.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/analysis-biggest-ipo-wave-history-111941853.html"/>
-        <updated>2026-04-23T11:30:50.000Z</updated>
-        <summary type="html"><![CDATA[By Shashwat Chauhan, Purvi Agarwal and Medha Singh April 23 (Reuters) - SpaceX, OpenAI and Anthropic are shaping up to deliver the largest wave of initial public offerings in history and the three]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Space Stock Just Proved the Bears Wrong Again—Here's What Comes Next]]></title>
-        <id>space-stock-just-proved-bears-113002370.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/space-stock-just-proved-bears-113002370.html"/>
-        <updated>2026-04-23T11:30:02.000Z</updated>
-        <summary type="html"><![CDATA[AST SpaceMobile’s recent dip highlights how short-term setbacks can obscure long-term progress, especially as major regulatory wins reshape its competitive position. The key question now is execution—not viability.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schiphol geeft luchtvaartmaatschappijen korting vanwege hoge kerosineprijs]]></title>
-        <id>article-6393563</id>
-        <link href="https://www.nu.nl/economie/6393563/schiphol-geeft-luchtvaartmaatschappijen-korting-vanwege-hoge-kerosineprijs.html"/>
-        <updated>2026-04-23T11:25:32.000Z</updated>
-        <summary type="html"><![CDATA[Schiphol geeft luchtvaartmaatschappijen korting op zijn havengelden vanwege de hoge kerosinekosten. Dat zijn de tarieven die luchtvaartmaatschappijen betalen voor het landen, het parkeren van vliegtuigen en het gebruik van terminals.]]></summary>
-        <author>
-            <name>NU - Economie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analyst Report: Newmont Corp]]></title>
-        <id>ARGUS_3235_AnalystReport_1776943394000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei</id>
-        <link href="https://finance.yahoo.com/research/reports/ARGUS_3235_AnalystReport_1776943394000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei"/>
-        <updated>2026-04-23T11:23:14.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analyst Report: AGNC Investment Corp]]></title>
-        <id>ARGUS_5888_AnalystReport_1776943394000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei</id>
-        <link href="https://finance.yahoo.com/research/reports/ARGUS_5888_AnalystReport_1776943394000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei"/>
-        <updated>2026-04-23T11:23:14.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analyst Report: AT&T Inc]]></title>
-        <id>ARGUS_3432_AnalystReport_1776943394000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei</id>
-        <link href="https://finance.yahoo.com/research/reports/ARGUS_3432_AnalystReport_1776943394000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei"/>
-        <updated>2026-04-23T11:23:14.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analyst Report: Halliburton Co]]></title>
-        <id>ARGUS_3031_AnalystReport_1776943394000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei</id>
-        <link href="https://finance.yahoo.com/research/reports/ARGUS_3031_AnalystReport_1776943394000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei"/>
-        <updated>2026-04-23T11:23:14.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobileye lifts annual revenue forecast as auto industry demand recovers]]></title>
-        <id>mobileye-raises-annual-revenue-forecast-112121570.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/mobileye-raises-annual-revenue-forecast-112121570.html"/>
-        <updated>2026-04-23T11:21:21.000Z</updated>
-        <summary type="html"><![CDATA[Mobileye Global raised its annual revenue forecast on Thursday, buoyed by robust demand for its advanced driver-assistance systems ‌as automakers placed more orders after working through an inventory ‌glut last year.  Car manufacturers are now restocking inventories after grappling with years of pandemic-related surplus, benefiting Mobileye at ‌a time when a ⁠growing shift toward self-driving technologies is already boosting demand for its chips and software.  Mobileye said its first-quarter results reflect ⁠a stronger-than-expected start to 2026.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's What to Expect From Keysight Technologies' Next Earnings Report]]></title>
-        <id>heres-expect-keysight-technologies-next-111808826.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/heres-expect-keysight-technologies-next-111808826.html"/>
-        <updated>2026-04-23T11:18:08.000Z</updated>
-        <summary type="html"><![CDATA[Keysight Technologies is scheduled to release its fiscal second-quarter earnings soon, and analysts project a double-digit profit growth.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technical Assessment: Bullish in the Intermediate-Term]]></title>
-        <id>ARGUS_46825_TechnicalAnalysis_1776942515000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei</id>
-        <link href="https://finance.yahoo.com/research/reports/ARGUS_46825_TechnicalAnalysis_1776942515000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei"/>
-        <updated>2026-04-23T11:08:35.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Market Digest: HAL, NEM, T, PM, AGNC]]></title>
-        <id>ARGUS_46823_MarketSummary_1776942494000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei</id>
-        <link href="https://finance.yahoo.com/research/reports/ARGUS_46823_MarketSummary_1776942494000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei"/>
-        <updated>2026-04-23T11:08:14.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex-Wall Street trader now drives for Uber and Lyft — how he's surviving high gas prices putting other drivers in the red]]></title>
-        <id>ex-wall-street-trader-now-110500141.html</id>
-        <link href="https://finance.yahoo.com/economy/articles/ex-wall-street-trader-now-110500141.html"/>
-        <updated>2026-04-23T11:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Uber drivers were taking home $15 to $18 an hour before spiking gas prices.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arista Stock Hits 52-Week High Amid Google's AI Data Center Shift]]></title>
-        <id>?src=A00220&amp;yptr=yahoo</id>
-        <link href="https://www.investors.com/news/technology/arista-stock-high-google-cloud-ai-data-centers/?src=A00220&amp;yptr=yahoo"/>
-        <updated>2026-04-23T11:03:26.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These Chip Stocks Power Sector's Latest Advance]]></title>
-        <id>?src=A00220&amp;yptr=yahoo</id>
-        <link href="https://www.investors.com/news/chip-stocks-power-chips-texas-instruments/?src=A00220&amp;yptr=yahoo"/>
-        <updated>2026-04-23T11:00:39.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Before You Trust AI With Retirement Withdrawals, Read This]]></title>
-        <id>?src=A00220&amp;yptr=yahoo</id>
-        <link href="https://www.investors.com/etfs-and-funds/personal-finance/retirement-withdrawals-are-risky-with-ai/?src=A00220&amp;yptr=yahoo"/>
-        <updated>2026-04-23T11:00:19.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long Straddle Screener Results for April 23]]></title>
-        <id>long-straddle-screener-results-april-110002085.html</id>
-        <link href="https://finance.yahoo.com/markets/options/articles/long-straddle-screener-results-april-110002085.html"/>
-        <updated>2026-04-23T11:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Volatility has eased in recent days as the market digests the tech sector continues to lead the way. However, volatility could rear its ugly head again at any time.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First look: Union Pacific Q1 earnings]]></title>
-        <id>first-look-union-pacific-q1-110000940.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/first-look-union-pacific-q1-110000940.html"/>
-        <updated>2026-04-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Union Pacific reported first quarter income improved from a year ago as improved pricing and higher fuel surcharge revenue offset a narrow decline in carload freight. The post First look: Union Pacific Q1 earnings appeared first on FreightWaves.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gold and silver prices today, Thursday, April 23: Gold and silver falling as oil prices soar]]></title>
-        <id>gold-and-silver-prices-today-thursday-april-23-gold-and-silver-falling-as-oil-prices-soar-105853319.html</id>
-        <link href="https://finance.yahoo.com/personal-finance/investing/article/gold-and-silver-prices-today-thursday-april-23-gold-and-silver-falling-as-oil-prices-soar-105853319.html"/>
-        <updated>2026-04-23T10:58:53.000Z</updated>
-        <summary type="html"><![CDATA[Gold and silver prices are both down this morning as oil prices soar amid continued tensions in the Middle East. Gold opened at $4,759.20, and fell to $4,706.80 as of 6:20 a.m. ET.  Silver opened at $77.84, and fell to $75.18 as of 6:20 a.m. ET.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markets Dive From Record Highs Amid Fresh Iran Tensions. Stock Futures Drop.]]></title>
-        <id>stock-futures-dive-as-iran-tensions-halt-record-breaking-rally-PkrAveJBreQR4eRnsPKf?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/livecoverage/stock-market-news-today-042326/card/stock-futures-dive-as-iran-tensions-halt-record-breaking-rally-PkrAveJBreQR4eRnsPKf?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2026-04-23T10:55:21.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Iran Cease-Fire Rallied Markets but There Are 4 Other Factors Keeping Investors Optimistic]]></title>
-        <id>the-iran-cease-fire-rallied-markets-but-there-are-4-other-factors-keeping-investors-optimistic-7d6c754c?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/articles/the-iran-cease-fire-rallied-markets-but-there-are-4-other-factors-keeping-investors-optimistic-7d6c754c?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2026-04-23T10:55:00.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stock Market Today: Futures Fall After S&P 500, Nasdaq Close at Latest Record Highs; ServiceNow, IBM Shares Sink]]></title>
-        <id>3026c01881e1c9418eb2bdb9717b774a</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9573c8e114e851389a853db7bf2e228b45468e348a2ffc984d2541c826867ed09c1e21d3ab60e2a5ae70b6badd7ff57ebf675ed36d1a5e055aa9"/>
-        <updated>2026-04-23T10:54:29.000Z</updated>
-        <summary type="html"><![CDATA[Stock futures pointed lower Thursday, a day after the benchmark S&P 500 and tech-heavy Nasdaq set their latest closing records, as oil prices continued to rise amid continued U.S.-Iran tensions over the Strait of Hormuz.]]></summary>
-        <author>
-            <name>Learn about our</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HSBC Private Bank and Premier Wealth gets new Asia CIO]]></title>
-        <id>hsbc-private-bank-premier-wealth-105347565.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/hsbc-private-bank-premier-wealth-105347565.html"/>
-        <updated>2026-04-23T10:53:47.000Z</updated>
-        <summary type="html"><![CDATA[Desmond Kuang is currently CIO, China, and interim head of wealth and premier solutions, China.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Think Beyond the Headlines: These 3 Stocks Could Create Wealth for Generations]]></title>
-        <id>think-beyond-headlines-3-stocks-105300851.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/think-beyond-headlines-3-stocks-105300851.html"/>
-        <updated>2026-04-23T10:53:00.000Z</updated>
-        <summary type="html"><![CDATA[These somewhat boring and overlooked companies are building durable growth engines that could compound into generational wealth for their long-term shareholders.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Liberty founders slam Justin Sun lawsuit alleging extortion, insolvency and of using ‘the Trump brand to profit through fraud’]]></title>
-        <id>world-liberty-founders-slam-justin-105124466.html</id>
-        <link href="https://finance.yahoo.com/markets/crypto/articles/world-liberty-founders-slam-justin-105124466.html"/>
-        <updated>2026-04-23T10:51:24.000Z</updated>
-        <summary type="html"><![CDATA[Justin Sun has sued a crypto project linked to Donald Trump. The lawsuit accuses the project of extortion, insolvency and “fraud.” World Liberty Financial has hit back against the claims.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Market Fear Index Rises on Strait of Hormuz Tensions]]></title>
-        <id>market-fear-index-rises-on-strait-of-hormuz-tensions-ETzk0JCzVdzkWbeab8NX?siteid=yhoof2&amp;yptr=yahoo</id>
-        <link href="https://www.barrons.com/livecoverage/stock-market-news-today-042326/card/market-fear-index-rises-on-strait-of-hormuz-tensions-ETzk0JCzVdzkWbeab8NX?siteid=yhoof2&amp;yptr=yahoo"/>
-        <updated>2026-04-23T10:50:50.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM beats Q1 expectations, but shares fall on softer software momentum]]></title>
-        <id>ibm-beats-q1-expectations-shares-105004502.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/ibm-beats-q1-expectations-shares-105004502.html"/>
-        <updated>2026-04-23T10:50:04.000Z</updated>
-        <summary type="html"><![CDATA[Technology group IBM (NYSE:IBM) reported first-quarter results that exceeded market expectations on Wednesday, with revenue rising 6% at constant currency. Despite the solid performance, the company’s shares dropped more than 7% in premarket trading on Thursday, with analysts pointing to weaker-than-expected growth in the software division as a key concern.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[President Donald Trump's Right-Hand Man at the Federal Reserve Is Reconsidering His Interest-Rate Outlook. Are Rate Cuts Off the Table in 2026?]]></title>
-        <id>president-donald-trumps-hand-man-105000805.html</id>
-        <link href="https://finance.yahoo.com/economy/policy/articles/president-donald-trumps-hand-man-105000805.html"/>
-        <updated>2026-04-23T10:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Last year, Trump appointed Stephen Miran to the Federal Reserve's Board of Governors.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Al ruim 350.000 mensen doen mee aan massaclaim tegen Odido na datalek]]></title>
-        <id>article-6393559</id>
-        <link href="https://www.nu.nl/economie/6393559/al-ruim-350000-mensen-doen-mee-aan-massaclaim-tegen-odido-na-datalek.html"/>
-        <updated>2026-04-23T10:48:21.000Z</updated>
-        <summary type="html"><![CDATA[Meer dan 350.000 mensen hebben zich sinds maandag aangemeld voor de massaclaim tegen Odido. Dat zegt Consumers United in Court (CUIC), de privacystichting die een collectieve procedure tegen het telecombedrijf is gestart.]]></summary>
-        <author>
-            <name>NU - Economie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Bid: Tech checked as oil boils]]></title>
-        <id>morning-bid-tech-checked-oil-104541247.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/morning-bid-tech-checked-oil-104541247.html"/>
-        <updated>2026-04-23T10:45:41.000Z</updated>
-        <summary type="html"><![CDATA[By Mike Dolan April 23 (Reuters) - What matters in U.S. and global markets today By Mike Dolan, Editor-At-Large for Finance and Markets While stock markets have impressively filtered out much of the]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lidl gaat varkensvoer maken van onverkoopbare voedselrestanten]]></title>
-        <id>article-6393554</id>
-        <link href="https://www.nu.nl/economie/6393554/lidl-gaat-varkensvoer-maken-van-onverkoopbare-voedselrestanten.html"/>
-        <updated>2026-04-23T10:44:31.000Z</updated>
-        <summary type="html"><![CDATA[Lidl gaat als eerste supermarkt in Europa onverkoopbare voedselproducten verwerken tot varkensvoer. De proef, die vier weken duurt en in tien filialen wordt uitgevoerd, moet jaarlijks 330 volgeladen vrachtwagens aan verspild voedsel voorkomen, namelijk 10 miljoen kilo.]]></summary>
-        <author>
-            <name>NU - Economie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thermo Fisher posts quarterly results beat as lab products, biopharma services grow]]></title>
-        <id>thermo-fisher-posts-quarterly-results-104317620.html</id>
-        <link href="https://finance.yahoo.com/sectors/healthcare/articles/thermo-fisher-posts-quarterly-results-104317620.html"/>
-        <updated>2026-04-23T10:43:17.000Z</updated>
-        <summary type="html"><![CDATA[April 23 () - Thermo Fisher Scientific on Thursday reported first-quarter profit and revenue above Wall Street ‌estimates, as growth in its laboratory products and ‌biopharma services business helped offset softness in analytical instruments and specialty diagnostics. Shares ​of the company, however, were down 3.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stocks Slip Before the Open on U.S.-Iran Talks Uncertainty, Earnings and PMI Data in Focus]]></title>
-        <id>stocks-slip-open-u-iran-103331501.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/stocks-slip-open-u-iran-103331501.html"/>
-        <updated>2026-04-23T10:33:31.000Z</updated>
-        <summary type="html"><![CDATA[June S&P 500 E-Mini futures (ESM26) are down -0.53%, and June Nasdaq 100 E-Mini futures (NQM26) are down -0.56% this morning as stalled U.S.-Iran talks and heightened tensions in the Strait of Hormuz pushed oil prices higher, dampening risk sentiment.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lockheed Martin posts lower quarterly profit as delays weigh]]></title>
-        <id>lockheed-martin-posts-lower-quarterly-103316656.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-posts-lower-quarterly-103316656.html"/>
-        <updated>2026-04-23T10:33:16.000Z</updated>
-        <summary type="html"><![CDATA[By Mike Stone and Aishwarya Jain April 23 (Reuters) - Lockheed Martin reported a lower first-quarter profit on Thursday, as high costs on fixed-price contracts and production slowdowns on some]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Norway wealth fund: assessing whether to invest in SpaceX]]></title>
-        <id>norway-wealth-fund-assessing-whether-102315840.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/norway-wealth-fund-assessing-whether-102315840.html"/>
-        <updated>2026-04-23T10:23:15.000Z</updated>
-        <summary type="html"><![CDATA[OSLO, April 23 (Reuters) - Norway's $2.2 trillion sovereign wealth fund, the world's largest, is assessing whether to invest in SpaceX, the fund's deputy CEO told Reuters on Thursday.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exclusive-Advent-owned firm investigated in Brazil for alleged links to organized crime]]></title>
-        <id>exclusive-advent-owned-firm-investigated-101302265.html</id>
-        <link href="https://finance.yahoo.com/economy/articles/exclusive-advent-owned-firm-investigated-101302265.html"/>
-        <updated>2026-04-23T10:20:39.000Z</updated>
-        <summary type="html"><![CDATA[By Fabio Teixeira and Ricardo Brito RIO DE JANEIRO/BRASILIA, April 23 (Reuters) - Caldic, a global chemicals distributor majority-owned by U.S. private equity firm Advent International, is under]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix boosts share buyback plan by $25 billion after failed Warner Bros bid]]></title>
-        <id>netflix-announces-25-billion-share-101845782.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/netflix-announces-25-billion-share-101845782.html"/>
-        <updated>2026-04-23T10:18:45.000Z</updated>
-        <summary type="html"><![CDATA[Netflix said on Thursday its board has authorized an additional $25 billion share repurchase program, resuming ‌capital returns after the streaming giant walked away from a $72 ‌billion deal to buy Warner Bros Discovery's assets.  The new ​authorization is on top of a buyback approved in December 2024 and has no expiration date.  Netflix had about $6.8 billion remaining under its previous buyback plan as of March-end.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US drivers turn to EV rentals as gasoline prices surge]]></title>
-        <id>us-drivers-turn-ev-rentals-100928829.html</id>
-        <link href="https://finance.yahoo.com/sectors/energy/articles/us-drivers-turn-ev-rentals-100928829.html"/>
-        <updated>2026-04-23T10:09:28.000Z</updated>
-        <summary type="html"><![CDATA[By Aishwarya Jain and Nathan Gomes April 23 (Reuters) - Early signs of a shift toward electric vehicles have emerged for U.S. car rental companies as customers become wary of paying more at the pump]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canada wants to stop sending defense dollars to the US — and it could hit jobs, contracts and portfolios]]></title>
-        <id>canada-wants-stop-sending-defense-100900330.html</id>
-        <link href="https://finance.yahoo.com/economy/policy/articles/canada-wants-stop-sending-defense-100900330.html"/>
-        <updated>2026-04-23T10:09:00.000Z</updated>
-        <summary type="html"><![CDATA[A shift in Canada’s policy could hit Americans right in their retirement investments.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exclusive-SpaceX IPO filing shows Elon Musk can retain board control]]></title>
-        <id>exclusive-spacex-ipo-filing-shows-100631924.html</id>
-        <link href="https://finance.yahoo.com/markets/stocks/articles/exclusive-spacex-ipo-filing-shows-100631924.html"/>
-        <updated>2026-04-23T10:06:31.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX is telling prospective investors its board will not need a majority of directors who are independent of the company, ‌according to an excerpt of its IPO filing reviewed by Reuters, underscoring how founder Elon Musk is retaining control ‌of the rocket and artificial intelligence maker.  In a departure from the vast majority of public companies, SpaceX said it would maintain "controlled company status" after its $1.75 ​trillion IPO, expected this summer.  It only must have an audit committee composed entirely of independent directors, the document stated.]]></summary>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily – Vickers Top Buyers & Sellers for 04/23/2026]]></title>
-        <id>ARGUS_46822_TopBottomInsiderActivity_1776938759000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei</id>
-        <link href="https://finance.yahoo.com/research/reports/ARGUS_46822_TopBottomInsiderActivity_1776938759000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei"/>
-        <updated>2026-04-23T10:05:59.000Z</updated>
-        <author>
-            <name>Yahoo Finance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily – Vickers Top Insider Picks for 04/23/2026]]></title>
-        <id>ARGUS_46821_InsiderActivity_1776938759000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei</id>
-        <link href="https://finance.yahoo.com/research/reports/ARGUS_46821_InsiderActivity_1776938759000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei"/>
-        <updated>2026-04-23T10:05:59.000Z</updated>
         <author>
             <name>Yahoo Finance</name>
         </author>
