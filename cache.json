@@ -258,6 +258,36 @@
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
         {
+          "id": "article-6410753",
+          "author": null,
+          "description": "In de rubriek Schermtijd schrijft techverslaggever Rutger Otto wekelijks over het internet. Dit keer: de terugkeer van Hyves is een nobele maar schier onmogelijke onderneming.",
+          "link": "https://www.nu.nl/tech/6410753/hyves-trekt-aandacht-met-nostalgie-nu-de-gezelligheid-nog.html",
+          "publishedOn": "2026-09-26T06:34:07.000Z",
+          "wordCount": 380,
+          "title": "Schermtijd | Hyves trekt aandacht met nostalgie, nu de gezelligheid nog",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/sf3xj6yakqu8_sqr256/407/0/1075/1075/hyves-trekt-aandacht-met-nostalgie-nu-de-gezelligheid-nog.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/sf3xj6yakqu8_sqr256/407/0/1075/1075/hyves-trekt-aandacht-met-nostalgie-nu-de-gezelligheid-nog.jpg"
+        },
+        {
+          "id": "article-6411052",
+          "author": null,
+          "description": "Modellen van OpenAI hebben toegang verkregen tot openbare informatie op websites van de Amerikaanse overheid, melden Amerikaanse media. Het gaat om websites van het Census Bureau en de Securities and Exchange Commission. De bots zouden op \"ongebruikelijke wijze\" te werk zijn gegaan.",
+          "link": "https://www.nu.nl/tech/6411052/modellen-openai-kregen-toegang-tot-websites-amerikaanse-overheid.html",
+          "publishedOn": "2026-09-26T04:23:11.000Z",
+          "wordCount": 380,
+          "title": "Modellen OpenAI kregen toegang tot websites Amerikaanse overheid",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/t10xpuhasn9a_sqr256/99/1/682/682/modellen-openai-kregen-toegang-tot-websites-amerikaanse-overheid.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/t10xpuhasn9a_sqr256/99/1/682/682/modellen-openai-kregen-toegang-tot-websites-amerikaanse-overheid.jpg"
+        },
+        {
           "id": "article-6410804",
           "author": null,
           "description": "Het kabinet wil met het Actieplan Versnelling Woningbouw de woningnood aanpakken door meer en sneller te bouwen. Maar om de woningmarkt weer in beweging te krijgen is het volgens experts vooral nodig om meer middenhuurwoningen te bouwen.",
@@ -6031,36 +6061,6 @@
             "url": "https://images.nu.nl/m/1ewx9vbay0t0_sqr256/410/0/3456/3456/ondanks-regen-staat-het-grondwater-nog-zeer-laag-en-maatregelen-blijven-uit.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/1ewx9vbay0t0_sqr256/410/0/3456/3456/ondanks-regen-staat-het-grondwater-nog-zeer-laag-en-maatregelen-blijven-uit.jpg"
-        },
-        {
-          "id": "article-6407751",
-          "author": null,
-          "description": "Na twee korte trailers verscheen donderdagavond op Netflix een uitgebreide blik van 26 minuten op de langverwachte game Grand Theft Auto VI (GTA VI). Een aantal beelden was voorafgaand aan de presentatie al gelekt, tot afgrijzen van ontwikkelaar Rockstar Games.",
-          "link": "https://www.nu.nl/tech/6407751/nieuwe-beelden-gta-vi-tonen-enorme-spelwereld-vol-realistische-details.html",
-          "publishedOn": "2026-08-27T19:58:32.000Z",
-          "wordCount": 380,
-          "title": "Nieuwe beelden GTA VI tonen enorme spelwereld vol realistische details",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/0qbxmewavt0z_sqr256/1167/0/2160/2160/nieuwe-beelden-gta-vi-tonen-enorme-spelwereld-vol-realistische-details.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/0qbxmewavt0z_sqr256/1167/0/2160/2160/nieuwe-beelden-gta-vi-tonen-enorme-spelwereld-vol-realistische-details.jpg"
-        },
-        {
-          "id": "article-6407801",
-          "author": null,
-          "description": "De coalitie is het nog niet eens over de begroting voor volgend jaar. De partijleiders van D66, VVD en CDA overlegden donderdag urenlang, maar kwamen er niet uit. Het overleg wordt vrijdag hervat. De plannen moeten uiterlijk maandag af zijn.",
-          "link": "https://www.nu.nl/politiek/6407801/coalitie-na-uren-praten-nog-niet-eens-over-begroting-vrijdag-nieuw-overleg.html",
-          "publishedOn": "2026-08-27T19:42:31.000Z",
-          "wordCount": 380,
-          "title": "Coalitie na uren praten nog niet eens over begroting, vrijdag nieuw overleg",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/ykxxqlnaq5qe_sqr256/1125/0/4000/4000/coalitie-na-uren-praten-nog-niet-eens-over-begroting-vrijdag-nieuw-overleg.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/ykxxqlnaq5qe_sqr256/1125/0/4000/4000/coalitie-na-uren-praten-nog-niet-eens-over-begroting-vrijdag-nieuw-overleg.jpg"
         }
       ]
     },
@@ -51178,226 +51178,6 @@
           "wordCount": 5338,
           "title": "Deutsche (DB) Completed a €1B Buyback and Started Another €500M Program. Is Its 60% Payout Target Sustainable?",
           "imageUrl": "https://s.yimg.com/lo/mysterio/api/ae51c7a51c7cf11a8ed4a2f1b3757346a992d77bfe138c287f15790db557ad63/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F666484a7dbf9a580c51efd5fef381187.jpg"
-        },
-        {
-          "id": "regeneron-regn-rare-disease-win-210410578.html",
-          "author": null,
-          "description": "The FDA approved Pasatru, whose generic name is garetosmab, of Regeneron Pharmaceuticals, Inc. (NASDAQ:REGN) for adults with fibrodysplasia ossificans progressiva. FOP is an ultra-rare genetic disorder in which bone forms inside muscles, tendons, and ligaments, progressively restricting movement. In a 56-week Phase 3 trial involving 63 adults, the approved 3-milligram-per-kilogram dose reduced the number of […]",
-          "link": "https://finance.yahoo.com/healthcare/articles/regeneron-regn-rare-disease-win-210410578.html",
-          "publishedOn": "2026-08-27T21:04:10.000Z",
-          "wordCount": 6151,
-          "title": "Can Regeneron (REGN)’s Rare-Disease Win Move the Earnings Needle?",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/fa00680c81a73e8e2fa7b44a7a4aa5b92f2d597db683100a014b8ac9ee290b57/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F9b67531d4ce9e2fbb21fef60675f48d3.jpg"
-        },
-        {
-          "id": "build-bear-workshop-inc-q2-210400513.html",
-          "author": null,
-          "description": "Moby summary of Build-A-Bear Workshop, Inc.'s Q2 2026 earnings call",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/build-bear-workshop-inc-q2-210400513.html",
-          "publishedOn": "2026-08-27T21:04:00.000Z",
-          "wordCount": 5210,
-          "title": "Build-A-Bear Workshop, Inc. Q2 2026 Earnings Call Summary",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/ec7e87d5ee96ffd3fa5e69b304263070d6d656fb9955261835593ca12677fa45/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F7c110e1709d44cecd34f4d919a80a549.png"
-        },
-        {
-          "id": "spicy-stocks-why-bnp-thinks-210351744.html",
-          "author": null,
-          "description": "BNP Paribas sees OpenAI’s Jalapeño, a custom AI inference chip developed with Broadcom, as a positive for AVGO stock as demand for specialized AI infrastructure grows.",
-          "link": "https://finance.yahoo.com/technology/ai/articles/spicy-stocks-why-bnp-thinks-210351744.html",
-          "publishedOn": "2026-08-27T21:03:51.000Z",
-          "wordCount": 9001,
-          "title": "Spicy Stocks: Why BNP Thinks Jalapeño Could Benefit Broadcom Stock",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/ddbaaf2413257bafeda714f01ae16590481f18f139ab358a390bd2a8268f40bd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F56bb7c0cf1da2ef4e19fe554941caf54.jpg"
-        },
-        {
-          "id": "target-tgt-rallied-2026-turnaround-210334424.html",
-          "author": null,
-          "description": "Target Corporation (NYSE:TGT) enters its fiscal second-quarter report with its shares up significantly in 2026. Consensus estimates call for revenue to increase 3.5% to $26.09 billion, adjusted earnings to rise 14% to $2.34 per share, and comparable sales to grow 2.4%. That follows a first quarter in which net sales increased 6.7%, comparable sales rose […]",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/target-tgt-rallied-2026-turnaround-210334424.html",
-          "publishedOn": "2026-08-27T21:03:34.000Z",
-          "wordCount": 5231,
-          "title": "Target (TGT) Rallied in 2026. Can its Turnaround Start Producing Margin Growth?",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/740da8794a703c5d82f384802f8c463ccc11f2457d192e9959622a78ab534fde/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fdca0515b44fd05ad50207f5792fe26d0.jpg"
-        },
-        {
-          "id": "malibu-boats-inc-q4-2026-210258069.html",
-          "author": null,
-          "description": "Moby summary of Malibu Boats, Inc.'s Q4 2026 earnings call",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/malibu-boats-inc-q4-2026-210258069.html",
-          "publishedOn": "2026-08-27T21:02:58.000Z",
-          "wordCount": 5250,
-          "title": "Malibu Boats, Inc. Q4 2026 Earnings Call Summary",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/4759fb9ccfa352d48d11235e72256792f4f556c9028d43ccf893f3bb95c2c87f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2Fe92a3ab7ade52d083831711d964c1e3a.png"
-        },
-        {
-          "id": "lucky-strike-entertainment-corporation-q4-210206884.html",
-          "author": null,
-          "description": "Moby summary of Lucky Strike Entertainment Corporation's Q4 2026 earnings call",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/lucky-strike-entertainment-corporation-q4-210206884.html",
-          "publishedOn": "2026-08-27T21:02:06.000Z",
-          "wordCount": 5328,
-          "title": "Lucky Strike Entertainment Corporation Q4 2026 Earnings Call Summary",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/d7a6d833626a30fe6c430b373766a4fcbfa402de40c021716748090ad06114fb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F4fdffaa52605dbc29343e35b87037d6e.png"
-        },
-        {
-          "id": "best-buy-co-inc-q2-210141783.html",
-          "author": null,
-          "description": "Moby summary of Best Buy Co., Inc.'s Q2 2027 earnings call",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/best-buy-co-inc-q2-210141783.html",
-          "publishedOn": "2026-08-27T21:01:41.000Z",
-          "wordCount": 5256,
-          "title": "Best Buy Co., Inc. Q2 2027 Earnings Call Summary",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/c17e8b7c58fb0d4242f94859666b538157da1cbb99dc16e534be8d5728ea0be0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F083fdebc126e1ac18095a600d717a810.png"
-        },
-        {
-          "id": "etf-league-tables-vaneck-inflows-210008842.html",
-          "author": null,
-          "description": "Table below reflects daily flows on August 26, 2026 and asset totals as of that date.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-vaneck-inflows-210008842.html",
-          "publishedOn": "2026-08-27T21:00:08.000Z",
-          "wordCount": 10482,
-          "title": "ETF League Tables: VanEck Inflows Top $600M",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/9e2007b1a31fc8297f7bdd219e39ed9cda22a222e715cb7a6d6f2f34782649bf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Findexuniverse.com%2F685c6a7e1fcae476c06ee752a956ffca.png"
-        },
-        {
-          "id": "daily-etf-flows-gldm-rounds-210004064.html",
-          "author": null,
-          "description": "Here are the daily ETF fund flows for August 26, 2026.",
-          "link": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-gldm-rounds-210004064.html",
-          "publishedOn": "2026-08-27T21:00:04.000Z",
-          "wordCount": 4834,
-          "title": "Daily ETF Flows: GLDM Rounds Out Top 10",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/eb82c08e7c1554cd674842b52969b07d81f31b26535bd25e0047923df02e7982/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Findexuniverse.com%2F1d45f9488d95ad21b16acbe33a9dfed0.png"
-        },
-        {
-          "id": "europe-heads-winter-gas-storage-210000056.html",
-          "author": null,
-          "description": "Europe is losing the battle with Asia for scarce LNG cargoes, pushing TTF gas and northwest European LNG prices to their highest levels since 2023.",
-          "link": "https://finance.yahoo.com/energy/articles/europe-heads-winter-gas-storage-210000056.html",
-          "publishedOn": "2026-08-27T21:00:00.000Z",
-          "wordCount": 6639,
-          "title": "Europe Heads Into Winter With Gas Storage at a Two-Decade Low",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/9f12ae23080b8c533d7e66dbfb828116516bac285b305b86c5a197d62087450f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F896b19d782425dc3bfcc12c3e5d4ab44.jpg"
-        },
-        {
-          "id": "hormel-foods-corporation-q3-2026-205723015.html",
-          "author": null,
-          "description": "Moby summary of Hormel Foods Corporation's Q3 2026 earnings call",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/hormel-foods-corporation-q3-2026-205723015.html",
-          "publishedOn": "2026-08-27T20:57:23.000Z",
-          "wordCount": 5204,
-          "title": "Hormel Foods Corporation Q3 2026 Earnings Call Summary",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/85dcb84d6c78c1c0555910a97aa4f66e42531be29be684eb451ebc5a5e3636eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2Fa9060ea21fed98c73d32589cc1c1cfb0.png"
-        },
-        {
-          "id": "dollar-tree-inc-q2-2027-205711253.html",
-          "author": null,
-          "description": "Moby summary of Dollar Tree, Inc.'s Q2 2027 earnings call",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-tree-inc-q2-2027-205711253.html",
-          "publishedOn": "2026-08-27T20:57:11.000Z",
-          "wordCount": 5240,
-          "title": "Dollar Tree, Inc. Q2 2027 Earnings Call Summary",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/b577960f6d2956076f7edbb60fab08691d7d0a930a4fe6215d5dbced2548e48c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F5c8a44c0ae25c147f3a75100d8b0840b.png"
-        },
-        {
-          "id": "healthequity-inc-q2-2027-earnings-205557128.html",
-          "author": null,
-          "description": "Moby summary of HealthEquity, Inc.'s Q2 2027 earnings call",
-          "link": "https://finance.yahoo.com/healthcare/articles/healthequity-inc-q2-2027-earnings-205557128.html",
-          "publishedOn": "2026-08-27T20:55:57.000Z",
-          "wordCount": 5288,
-          "title": "HealthEquity, Inc. Q2 2027 Earnings Call Summary",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/55cd79cfbade83816527819c406b7458a883bf5a77b47a2c65b20d3fc7b04346/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F938f22508b7c685f5238216f9e100ace.png"
-        },
-        {
-          "id": "burlington-stores-inc-q2-2026-205154035.html",
-          "author": null,
-          "description": "Moby summary of Burlington Stores, Inc.'s Q2 2026 earnings call",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/burlington-stores-inc-q2-2026-205154035.html",
-          "publishedOn": "2026-08-27T20:51:54.000Z",
-          "wordCount": 5273,
-          "title": "Burlington Stores, Inc. Q2 2026 Earnings Call Summary",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/3f23ee878916f7972a0fd0ffc87cddf484f8a5f33f0afce0363c2db7c4527246/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F01aa052851cd3e3e9d61d6518698f7c3.png"
-        },
-        {
-          "id": "aviat-networks-inc-q4-2026-205148570.html",
-          "author": null,
-          "description": "Moby summary of Aviat Networks, Inc.'s Q4 2026 earnings call",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/aviat-networks-inc-q4-2026-205148570.html",
-          "publishedOn": "2026-08-27T20:51:48.000Z",
-          "wordCount": 5130,
-          "title": "Aviat Networks, Inc. Q4 2026 Earnings Call Summary",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/da0271b8b1c044f80b62321e54a65c92d3a871b9724f5b5da220d51aedb9133f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2Fb72b7bf811b9cc11e2751c5481fcfea2.png"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "SentinelOne stock fell amid Q2 earnings and revenue that edged by estimates while October quarter sales guidance met expectations.",
-          "link": "https://www.investors.com/news/technology/sentinelone-stock-sentinelone-earnings-news-q22026/?src=A00220&yptr=yahoo",
-          "publishedOn": "2026-08-27T20:51:15.000Z",
-          "wordCount": 6873,
-          "title": "SentinelOne Stock Falls As Revenue Beat, Guidance Underwhelm",
-          "imageUrl": "https://www.investors.com/wp-content/uploads/2021/06/Stock-SentinelOne-01-shutt.jpg"
-        },
-        {
-          "id": "almonty-alm-authorized-300m-buyback-204941563.html",
-          "author": null,
-          "description": "Almonty Industries Inc. (NASDAQ:ALM) began a 36-month share-repurchase authorization on August 24 that permits the company to buy up to 14.4 million common shares, representing approximately 5% of shares outstanding as of August 14, for as much as US$300 million. The headline amount overstates what Almonty Industries Inc. (NASDAQ:ALM) would spend at its current valuation. […]",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/almonty-alm-authorized-300m-buyback-204941563.html",
-          "publishedOn": "2026-08-27T20:49:41.000Z",
-          "wordCount": 5942,
-          "title": "Almonty (ALM) Authorized a $300M Buyback Before Sangdong Fully Ramps. Is that the Best Use of Capital?",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/5122bf514f0c7f786b3e983a1ad424fbdf4fd14aadfaafd3a695e2e4699d1bdb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fc22788afba40f2573bd715da009c7d23.jpg"
-        },
-        {
-          "id": "alibaba-raises-10-billion-ai-204901400.html",
-          "author": null,
-          "description": "On August 25, BofA Securities analyst Joyce Ju reiterated a Buy rating and $172.00 price target on Alibaba Group Holding Limited (NYSE:BABA). The rating affirmation follows one of the largest capital raises by Alibaba. The tech giant raised HK$80 billion ($10.2 billion) in Hong Kong’s largest follow-on share offering to invest in its AI infrastructure. The […]",
-          "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-raises-10-billion-ai-204901400.html",
-          "publishedOn": "2026-08-27T20:49:01.000Z",
-          "wordCount": 6413,
-          "title": "Alibaba Raises $10 Billion for AI — Why BofA Is Looking Past the Dilution",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/a1238af030eb7a828de1e83ae5d42b0fdfbda66febebd3b11fea36dfc71cb1a3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F1844667d47d18dd338d89812a7535a0a.png"
-        },
-        {
-          "id": "canada-goose-goos-faces-additional-204839568.html",
-          "author": null,
-          "description": "Canada Goose Holdings Inc. (NYSE:GOOS) shares closed at $8.28 on August 24, down 5.3%, after Wells Fargo downgraded the stock to Underweight. The call followed a new 50% U.S. duty on certain Canadian imports, including apparel. The duties were originally scheduled for August 19 but took effect on August 22 after a three-day suspension. The […]",
-          "link": "https://finance.yahoo.com/economy/policy/articles/canada-goose-goos-faces-additional-204839568.html",
-          "publishedOn": "2026-08-27T20:48:39.000Z",
-          "wordCount": 5263,
-          "title": "Canada Goose (GOOS) Faces an Additional 50% U.S. Tariff on Certain Canadian Apparel Imports. Can Pricing Protect Margins?",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/f74f686f2bce01115d236b8863209c7ef4cb6f158a9bf4c8d41fbdd91ec7eada/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fe98adc53bd0f305511d27e057c835a93.jpg"
-        },
-        {
-          "id": "what-to-do-with-settlement-money-190618678.html",
-          "author": null,
-          "description": "Receiving a settlement payment can be a great opportunity to set yourself up for financial success. Here are 5 ways to put that money to good use.",
-          "link": "https://finance.yahoo.com/personal-finance/banking/article/what-to-do-with-settlement-money-190618678.html",
-          "publishedOn": "2026-08-27T19:06:18.000Z",
-          "wordCount": 5650,
-          "title": "Just received a settlement? Here are 5 smart ways to use the money.",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/31741ff1d309db81dde88a9202b4d4aaf30de7e34a25c08746e150e62ef16e1b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-08%2F51572b60-45d2-11ee-aeff-9b92a1de1103"
-        },
-        {
-          "id": "generali-global-assistance-travel-insurance-185817160.html",
-          "author": null,
-          "description": "Generali Global Assistance offers three distinct travel insurance plans with all the essentials you need for your next trip, but there's no annual plan option.",
-          "link": "https://finance.yahoo.com/personal-finance/insurance/review/generali-global-assistance-travel-insurance-185817160.html",
-          "publishedOn": "2026-08-27T18:58:17.000Z",
-          "wordCount": 4205,
-          "title": "Generali Global Assistance travel insurance review: 4.4 out of 5 stars",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/dea1fc38963edff18c89b48eaa06075f9f3c76566be249cab38fe039f4c1977d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F3fa5ec9d-4b38-4e97-b15f-4b8796022104"
-        },
-        {
-          "id": "nvidia-could-hit-a-13-trillion-market-cap-analyst-says-180519193.html",
-          "author": null,
-          "description": "Talk about an Nvidia bull!",
-          "link": "https://finance.yahoo.com/markets/stocks/article/nvidia-could-hit-a-13-trillion-market-cap-analyst-says-180519193.html",
-          "publishedOn": "2026-08-27T18:05:19.000Z",
-          "wordCount": 6384,
-          "title": "Nvidia could hit a $13 trillion market cap, analyst says",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/521f29951b7ecbd3684cc5b600837e7d6ced4d5f5e63c089ad83f6849e028020/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Ff24c40ca-a0ba-4184-9da6-36de58afe0b9"
         }
       ]
     }
