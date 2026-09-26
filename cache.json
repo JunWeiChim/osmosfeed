@@ -249,36 +249,6 @@
           "wordCount": 354,
           "title": "5 Things to Know Before the Stock Market Opens on Friday",
           "imageUrl": null
-        },
-        {
-          "id": "ec128fcbb1ee818c03e6bdf7f29cc370",
-          "author": "Learn about our",
-          "description": "The tech-focused Nasdaq Composite finished with sharp gains Thursday, and the benchmark S&P 500 and blue-chip Dow Jones Industrial Average also advanced, following a blowout earnings report from chipmaking giant Nvidia.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca9573c8e114e851389a853db7bf2e228b45468e348a2ffc984d2541c826867ed09c1e21d3ab60e2a5ae70babad97ff57ebf675ed0641951015fa9",
-          "publishedOn": "2026-08-27T12:00:00.000Z",
-          "wordCount": 354,
-          "title": "Markets News, Aug. 27, 2026: Nvidia Stock Powers Higher After Earnings, Driving Tech Gains; Nasdaq Closes Sharply Higher",
-          "imageUrl": null
-        },
-        {
-          "id": "f77f46c054356319c6ea0faf13a50093",
-          "author": "Learn about our",
-          "description": "A report that Wendy’s may be taken private caused shares to soar two weeks ago.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817ca8b66d5e91ab1112c988a39b7f7773a8a4a5bda23c82bb993502e5796799023de800e21d7f43cb3fbae2eeda58222ab2bec384292264a18521ef4fdaf946358c2d7fbb2c8c58f86014bc31cce9727728d686378c7ca04d9c353ba",
-          "publishedOn": "2026-08-27T12:00:00.000Z",
-          "wordCount": 354,
-          "title": "Wendy’s Shares Tumble on Report Trian No Longer Preparing Take-Private Bid",
-          "imageUrl": null
-        },
-        {
-          "id": "c4cbcf490ccf2d7a04c0e28cad9f3f83",
-          "author": "Learn about our Learn about our",
-          "description": "Stock futures are rising this morning as Nvidia’s blockbuster results power the AI trade. Here’s what investors need to know today.",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c76d8a38e180a1f311a3bbbe08ce18817cad32ad3ea16ab5b2ac59a37eef9342298095dc6368a2ab4df5623419678813cd2995761c2f43eb7e1ae2ff2ed803ee823e7671b8a215d1b570de4bea9cc704cdac6fbf08d81cbd74718c34f95c33c3cda357b",
-          "publishedOn": "2026-08-27T12:00:00.000Z",
-          "wordCount": 354,
-          "title": "5 Things to Know Before the Stock Market Opens on Thursday",
-          "imageUrl": null
         }
       ]
     },
@@ -287,6 +257,36 @@
       "feedUrl": "https://www.nu.nl/rss/Economie",
       "siteUrl": "https://www.nu.nl/economie",
       "articles": [
+        {
+          "id": "article-6410804",
+          "author": null,
+          "description": "Het kabinet wil met het Actieplan Versnelling Woningbouw de woningnood aanpakken door meer en sneller te bouwen. Maar om de woningmarkt weer in beweging te krijgen is het volgens experts vooral nodig om meer middenhuurwoningen te bouwen.",
+          "link": "https://www.nu.nl/economie/6410804/tekort-aan-middenhuur-zet-doorstroming-op-woningmarkt-verder-onder-druk.html",
+          "publishedOn": "2026-09-26T03:08:51.000Z",
+          "wordCount": 380,
+          "title": "Tekort aan middenhuur zet doorstroming op woningmarkt verder onder druk",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/q9yx1ayagxz0_sqr256/1999/0/4000/4000/tekort-aan-middenhuur-zet-doorstroming-op-woningmarkt-verder-onder-druk.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/q9yx1ayagxz0_sqr256/1999/0/4000/4000/tekort-aan-middenhuur-zet-doorstroming-op-woningmarkt-verder-onder-druk.jpg"
+        },
+        {
+          "id": "article-6411049",
+          "author": null,
+          "description": "Oplichters hebben in februari 95 miljoen euro gestolen van de grootste bank van Italië, Intesa Sanpaolo, door met kunstmatige intelligentie de identiteit van topmannen na te bootsen. Ruim de helft van het bedrag is teruggehaald, maar zo'n 36 miljoen euro is nog altijd spoorloos.",
+          "link": "https://www.nu.nl/tech/6411049/ai-oplichters-doen-zich-voor-als-topman-en-stelen-95-miljoen-euro-van-bank-italie.html",
+          "publishedOn": "2026-09-25T21:25:23.000Z",
+          "wordCount": 380,
+          "title": "AI-oplichters doen zich voor als topman en stelen 95 miljoen euro van bank Italië",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://images.nu.nl/m/vnaxeuvai44n_sqr256/865/0/3264/3264/ai-oplichters-doen-zich-voor-als-topman-en-stelen-95-miljoen-euro-van-bank-italie.jpg"
+          },
+          "imageUrl": "https://images.nu.nl/m/vnaxeuvai44n_sqr256/865/0/3264/3264/ai-oplichters-doen-zich-voor-als-topman-en-stelen-95-miljoen-euro-van-bank-italie.jpg"
+        },
         {
           "id": "article-6411049",
           "author": null,
@@ -6061,36 +6061,6 @@
             "url": "https://images.nu.nl/m/ykxxqlnaq5qe_sqr256/1125/0/4000/4000/coalitie-na-uren-praten-nog-niet-eens-over-begroting-vrijdag-nieuw-overleg.jpg"
           },
           "imageUrl": "https://images.nu.nl/m/ykxxqlnaq5qe_sqr256/1125/0/4000/4000/coalitie-na-uren-praten-nog-niet-eens-over-begroting-vrijdag-nieuw-overleg.jpg"
-        },
-        {
-          "id": "article-6407762",
-          "author": null,
-          "description": "Het aantal meldingen over mislukte en slecht uitgevoerde botox- en fillerbehandelingen is vorig jaar vervijfvoudigd. De Inspectie Gezondheidszorg en Jeugd ontving in 2025 in totaal 175 meldingen en vraagt om extra aandacht voor de risico's van dit soort ingrepen.",
-          "link": "https://www.nu.nl/economie/6407762/meldingen-over-slecht-uitgevoerde-botox-en-fillerbehandelingen-vervijfvoudigd.html",
-          "publishedOn": "2026-08-27T15:12:03.000Z",
-          "wordCount": 380,
-          "title": "Meldingen over slecht uitgevoerde botox- en fillerbehandelingen vervijfvoudigd",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/prsxotpapk8t_sqr256/1017/0/2160/2160/meldingen-over-slecht-uitgevoerde-botox-en-fillerbehandelingen-vervijfvoudigd.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/prsxotpapk8t_sqr256/1017/0/2160/2160/meldingen-over-slecht-uitgevoerde-botox-en-fillerbehandelingen-vervijfvoudigd.jpg"
-        },
-        {
-          "id": "article-6407739",
-          "author": null,
-          "description": "Steeds meer Nederlanders leveren hun statiegeldblikjes of -flesjes in. De wettelijke inzameldoelstelling van 90 procent blijft wel nog steeds net buiten bereik. Die norm is nog niet gehaald sinds de invoering van statiegeld op kleinere plastic flessen en blikjes.",
-          "link": "https://www.nu.nl/economie/6407739/recordaantal-statiegeldflesjes-ingeleverd-doel-lijkt-binnen-bereik.html",
-          "publishedOn": "2026-08-27T13:23:37.000Z",
-          "wordCount": 380,
-          "title": "Recordaantal statiegeldflesjes ingeleverd, doel lijkt binnen bereik",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://images.nu.nl/m/5njx9mqawgmb_sqr256/178/0/5504/5504/recordaantal-statiegeldflesjes-ingeleverd-doel-lijkt-binnen-bereik.jpg"
-          },
-          "imageUrl": "https://images.nu.nl/m/5njx9mqawgmb_sqr256/178/0/5504/5504/recordaantal-statiegeldflesjes-ingeleverd-doel-lijkt-binnen-bereik.jpg"
         }
       ]
     },
@@ -51428,376 +51398,6 @@
           "wordCount": 6384,
           "title": "Nvidia could hit a $13 trillion market cap, analyst says",
           "imageUrl": "https://s.yimg.com/lo/mysterio/api/521f29951b7ecbd3684cc5b600837e7d6ced4d5f5e63c089ad83f6849e028020/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Ff24c40ca-a0ba-4184-9da6-36de58afe0b9"
-        },
-        {
-          "id": "bank-america-doubles-down-nvidia-153054071.html",
-          "author": null,
-          "description": "Bank of America’s analysis had more to do with what the company is hiding in its balance sheet than what it reported for Q2 2027.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html",
-          "publishedOn": "2026-08-27T15:30:54.000Z",
-          "wordCount": 5628,
-          "title": "Bank of America doubles down on Nvidia stock",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/e07200a054e8fcac99d8be2f019ab4f988b7982275fe120a51e711345622c2c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F2848906b1db250fd2fbf7d892da14e9e.jpg"
-        },
-        {
-          "id": "ago-specialty-retail-stock-outperforming-134803658.html",
-          "author": null,
-          "description": "Build-A-Bear is getting slaughtered after earnings, while NVDA is saving the market with stellar results.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/ago-specialty-retail-stock-outperforming-134803658.html",
-          "publishedOn": "2026-08-27T13:48:03.000Z",
-          "wordCount": 6008,
-          "title": "A Year Ago, This Specialty Retail Stock Was Outperforming Nvidia. Now, It’s Crashing After Earnings.",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/d8cccc2c2e79ff9f794cf2bdb1fda3750ec1b1545807270ceaa1519ef220a7c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F916cfc305c0ed57547938e7610013518.jpg"
-        },
-        {
-          "id": "atrenew-rere-secondhand-tech-giant-134627979.html",
-          "author": null,
-          "description": "On August 20, ATRenew (NYSE:RERE) reported second-quarter results that beat the high end of its own guidance, with revenue climbing 32.4% year over year to RMB 6.6 billion. Net income jumped 78.6% to RMB 129.1 million, and the company kept buying back shares even as it pushed into new markets overseas. For a business built […]",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/atrenew-rere-secondhand-tech-giant-134627979.html",
-          "publishedOn": "2026-08-27T13:46:27.000Z",
-          "wordCount": 6066,
-          "title": "ATRenew (RERE): Secondhand Tech Giant Quietly Posting Record Profits",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/50163f41d0f8e189f5561a11e2b09a6f4ec517710677ac307d775cfaadc7c7d9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F498e7a32e2c40dabce73be9c8aa38a94.jpg"
-        },
-        {
-          "id": "binance-cz-says-bitcoin-could-134400658.html",
-          "author": null,
-          "description": "Changpeng 'CZ' Zhao, the co-founder of cryptocurrency exchange Binance, says that Bitcoin (CRYPTO: $BTC) co...",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/binance-cz-says-bitcoin-could-134400658.html",
-          "publishedOn": "2026-08-27T13:44:00.000Z",
-          "wordCount": 5641,
-          "title": "Binance’s CZ Says Bitcoin Could Surpass Gold In Market Value",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/0653ff27a43c23c2b508af14b95995a0d5102bba7812df24bf04dacc5e2c4bb6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F477ba04756e3d0abde0b06842e6b57b7.jpg"
-        },
-        {
-          "id": "nobody-plans-retire-alone-sun-134310199.html",
-          "author": null,
-          "description": "Sun City budgets are built for two, but a surprising number of households eventually run on one income, one Social Security check, and a tax code that punishes single filers at the same income level. The costs that wait for a survivor are not what most couples see coming.",
-          "link": "https://finance.yahoo.com/real-estate/articles/nobody-plans-retire-alone-sun-134310199.html",
-          "publishedOn": "2026-08-27T13:43:10.000Z",
-          "wordCount": 6083,
-          "title": "Nobody Plans to Retire Alone in Sun City, Arizona. Here’s What It Costs When It Happens",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/3d8313ba068cd16966afd8449a5b43f8ca9d4e3d10c40b881d6b9aed50820a70/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F2f9f25649dd30b7259648ce60e142907.jpg"
-        },
-        {
-          "id": "blackrock-sees-continued-strength-bitcoin-134300997.html",
-          "author": null,
-          "description": "Asset manager BlackRock (NYSE: $BLK) sees continued strength in Bitcoin (CRYPTO: $BTC) now that its price has broke...",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/blackrock-sees-continued-strength-bitcoin-134300997.html",
-          "publishedOn": "2026-08-27T13:43:00.000Z",
-          "wordCount": 8048,
-          "title": "BlackRock Sees Continued Strength In Bitcoin",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/6e556e6352c8471c8093856711ac81d100ebabe4c5f33e680d7eb5d908a6e2c9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F2202f69f2deb14bf7d1068c4937f6024.jpg"
-        },
-        {
-          "id": "google-moves-ai-responsibility-team-134146705.html",
-          "author": null,
-          "description": "The roughly 90-person unit will join Google's global affairs organization, which handles lobbying and public policy, starting in September",
-          "link": "https://finance.yahoo.com/technology/ai/articles/google-moves-ai-responsibility-team-134146705.html",
-          "publishedOn": "2026-08-27T13:41:46.000Z",
-          "wordCount": 5215,
-          "title": "Google moves AI responsibility team out of DeepMind",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/a658e28df4f924ddd6ddd4e0b5266a769e51cff8104f106637600f0e09984add/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fc8de65ab8f7ef0875f5c2ce8dbad8baf.jpg"
-        },
-        {
-          "id": "nvidia-stock-usually-gets-a-post-earnings-hangover-this-time-it-could-be-an-afterparty--OU6M7f6jJmUAcGQIkjPJ?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-27-2026/card/nvidia-stock-usually-gets-a-post-earnings-hangover-this-time-it-could-be-an-afterparty--OU6M7f6jJmUAcGQIkjPJ?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2026-08-27T13:41:12.000Z",
-          "wordCount": null,
-          "title": "Nvidia Stock Usually Gets a Post-Earnings Hangover. This Time It’s Looking Like an Afterparty.",
-          "imageUrl": null
-        },
-        {
-          "id": "nutanix-stock-cloud-agentic-ai-partnerships-amd-nvidia-5699c763?siteid=yhoof2&yptr=yahoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.barrons.com/articles/nutanix-stock-cloud-agentic-ai-partnerships-amd-nvidia-5699c763?siteid=yhoof2&yptr=yahoo",
-          "publishedOn": "2026-08-27T13:41:00.000Z",
-          "wordCount": null,
-          "title": "Nutanix Surges as Cloud and Agentic AI Partnerships With AMD Pay Off",
-          "imageUrl": null
-        },
-        {
-          "id": "kohl-recesson-133741597.html",
-          "author": null,
-          "description": "Kohl's, McDonald's, and Walmart are all flashing the same warning sign, and it points to a crisis already swallowing half the country before most economists will admit it exists.",
-          "link": "https://finance.yahoo.com/economy/articles/kohl-recesson-133741597.html",
-          "publishedOn": "2026-08-27T13:37:41.000Z",
-          "wordCount": 5792,
-          "title": "The Kohl’s Recesson",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/75fdb465e2cfa8bfe2ccb3642d678a95e56bbd770bce9122a9a3eb4525f94d95/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F770dceae67d396124d396984c272e459.jpg"
-        },
-        {
-          "id": "futu-futu-posts-record-quarter-133641688.html",
-          "author": null,
-          "description": "On August 20, Futu Holdings Limited (NASDAQ:FUTU) reported the strongest quarter in its history, with trading volume pushing past HK$6 trillion for the first time. Buried inside those numbers, though, is a reminder that the company’s oldest and largest client base isn’t as untouchable as it once looked, with asset outflows tied to new compliance […]",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/futu-futu-posts-record-quarter-133641688.html",
-          "publishedOn": "2026-08-27T13:36:41.000Z",
-          "wordCount": 7001,
-          "title": "Futu (FUTU) Posts Record Quarter Despite Regulatory Headwinds",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/dab090bedfc01bf91f78c0f1c4b9cfedd9be3adf5ee10629b05c9d593520a8d0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3779188024c4075b063732b56f9b9cfa.jpg"
-        },
-        {
-          "id": "hormel-foods-narrows-sales-forecast-133559171.html",
-          "author": null,
-          "description": "The company now sees its annual net sales rising 1-2% on an organic basis, versus its earlier growth forecast of 1-4%.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/hormel-foods-narrows-sales-forecast-133559171.html",
-          "publishedOn": "2026-08-27T13:35:59.000Z",
-          "wordCount": 6541,
-          "title": "Hormel Foods narrows sales forecast",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/4f453afb6ed5dc5e98e99ede0d0e003ab8b6d34eca904d2ac436ef5dcf3b6f37/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjust_food_692%2Ff18f4ba5802ed64c3820dd30bf86f78e.jpg"
-        },
-        {
-          "id": "titan-machinery-shares-slip-q2-133040476.html",
-          "author": null,
-          "description": "Titan Machinery Inc. (NASDAQ:TITN) shares fell 2.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/titan-machinery-shares-slip-q2-133040476.html",
-          "publishedOn": "2026-08-27T13:30:40.000Z",
-          "wordCount": 6583,
-          "title": "Titan Machinery shares slip after Q2 earnings miss despite revenue beat",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/65f29822a7400fc665ac2718c2782d45315b72181417f81f95642d64a6e46e64/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2F5df46f5a426f0756c0b97dac2b9271cd.png"
-        },
-        {
-          "id": "totalenergies-exits-russia-sanctioned-arctic-133000174.html",
-          "author": null,
-          "description": "TotalEnergies has transferred its 10% Arctic LNG 2 stake to Novatek subsidiary NordLine while retaining rights to around $1.3 billion in shareholder-loan repayments.",
-          "link": "https://finance.yahoo.com/energy/articles/totalenergies-exits-russia-sanctioned-arctic-133000174.html",
-          "publishedOn": "2026-08-27T13:30:00.000Z",
-          "wordCount": 4458,
-          "title": "TotalEnergies Exits Russia’s Sanctioned Arctic LNG 2 Project",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/7ce86bf486985488928f2e103df920b6e25875483d1181b013d09147df3f706a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F585e26e8e75639b85157a5d6f58bb205.jpg"
-        },
-        {
-          "id": "burlington-stores-shares-fall-despite-132916264.html",
-          "author": null,
-          "description": "Burlington Stores Inc. (NYSE:BURL) shares declined 2.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/burlington-stores-shares-fall-despite-132916264.html",
-          "publishedOn": "2026-08-27T13:29:16.000Z",
-          "wordCount": 6470,
-          "title": "Burlington Stores shares fall despite strong Q2 earnings growth",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/86ced4aefce010fcb44bc9549195fa5e10890592b5458ce9859ff16e7f5141d7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2F9d90e54a4c7753cec42e62df3cbf36bf.png"
-        },
-        {
-          "id": "alluvial-fund-views-vistance-networks-132849841.html",
-          "author": null,
-          "description": "Alluvial Capital Management’s Q2 2026 investor letter for the Alluvial Fund reported a 4.9% return, with a year-to-date increase to 8.0%. A copy of the letter can be downloaded here. While these results are acceptable, they are overshadowed by the impressive performance of small-cap and micro-cap stocks, particularly in AI and semiconductor sectors. The portfolio […]",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/alluvial-fund-views-vistance-networks-132849841.html",
-          "publishedOn": "2026-08-27T13:28:49.000Z",
-          "wordCount": 7019,
-          "title": "Alluvial Fund’s Views on Vistance Networks (VISN)",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/5ebbf8db57cb025ab16edca761ad9c8621d659039f3024cca94e7a280c55b536/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F26565a94efcd662ff24ad1439a340469.jpg"
-        },
-        {
-          "id": "td-bank-shares-gain-third-132814487.html",
-          "author": null,
-          "description": "Toronto Dominion Bank (NYSE:TD) shares moved higher in U. S.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/td-bank-shares-gain-third-132814487.html",
-          "publishedOn": "2026-08-27T13:28:14.000Z",
-          "wordCount": 6463,
-          "title": "TD Bank shares gain as third-quarter earnings and revenue increase",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/f372da84dc436cf26276cd4cef4ae063d4ac90b91a2302b54e0027dc8d2e6339/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2F5d66d2491a4947ada230d834d01be81f.png"
-        },
-        {
-          "id": "dollar-tree-beats-second-quarter-132800595.html",
-          "author": null,
-          "description": "Dollar Tree, Inc. (NASDAQ:DLTR) reported second quarter fiscal 2026 results that beat Wall Street estimates for both revenue and earnings, while raising its full-year adjusted earnings outlook. Net sales increased 7% year over year to $4.9 billion, topping analyst estimates of roughly $4.85...",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-tree-beats-second-quarter-132800595.html",
-          "publishedOn": "2026-08-27T13:28:00.000Z",
-          "wordCount": 6727,
-          "title": "Dollar Tree beats second quarter estimates as tariff refunds boost earnings",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/c7b77ba0a5295add7702f55ca92e10cf1a90e2bebc25bc2f63903f24d311682b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fproactive_us_504%2F08190bf494892f3940328843e8a2717f.jpg"
-        },
-        {
-          "id": "sportradar-shares-gain-expanding-polymarket-132711387.html",
-          "author": null,
-          "description": "Sportradar Group AG (NASDAQ:SRAD) shares gained 6% on Thursday after the company announced a significant expansion of its partnership with Polymarket, extending the relationship to cover more than 20 sports leagues and competitions worldwide. The expanded agreement adds a range of major sporting properties, including the Bundesliga, Euroleague Basketball, the Chinese Basketball Association, the National Basketball League, Tennis Grand Slams and UTR Pro events.",
-          "link": "https://finance.yahoo.com/media-advertising/articles/sportradar-shares-gain-expanding-polymarket-132711387.html",
-          "publishedOn": "2026-08-27T13:27:11.000Z",
-          "wordCount": 7578,
-          "title": "Sportradar shares gain after expanding Polymarket partnership",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/bc863aa58766003cd75d328f603a45b075ccf9b1a67d9df5dd1f01b8a834a7b8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2F40b7eaefec3db280dbac95e69e1be11e.png"
-        },
-        {
-          "id": "nvidia-hidden-40-billion-business-132559281.html",
-          "author": null,
-          "description": "Nvidia's data center customer list is changing fast, and the new buyers look nothing like the hyperscalers who built the company's dominance. Whether that signals genuine strength or a subtler kind of risk depends on who is actually paying the bills.",
-          "link": "https://finance.yahoo.com/technology/articles/nvidia-hidden-40-billion-business-132559281.html",
-          "publishedOn": "2026-08-27T13:25:59.000Z",
-          "wordCount": 6339,
-          "title": "Nvidia’s Hidden $40 Billion Business Beyond Big Tech Is Growing Twice as Fast",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/8e56a52a3234cc12d1fa16004e255e7babf29dde3db25b69a0e6662c61a3d9e6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F26898de1865515f7cd4c38a5f092d261.jpg"
-        },
-        {
-          "id": "amazon-trades-24x-2027-earnings-132553350.html",
-          "author": null,
-          "description": "Citizens’ analyst Andrew Boone recently reiterated a Market Outperform rating on Amazon.com, Inc. (NASDAQ:AMZN) with a $315 price target. The firm noted that Amazon trades at 23.8x 2027E GAAP EPS and 10.9x 2027E EBITDA. However, it believes that the stock deserves to trade at a higher valuation. Why Amazon Deserves a Higher Valuation Citizens believes that […]",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-trades-24x-2027-earnings-132553350.html",
-          "publishedOn": "2026-08-27T13:25:53.000Z",
-          "wordCount": 6057,
-          "title": "Amazon Trades at 24x 2027 Earnings. Citizens Says It Should Be Worth 29x",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/deb8f116945609454f2b2bd71ad9b059c8f8d956b9012cdcd93a8f8445270ecc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F912573c6f9ee1d138f17f4bc114d18ed.jpg"
-        },
-        {
-          "id": "insider-iconic-retailer-dumps-stock-132501447.html",
-          "author": null,
-          "description": "Matthew A. Liegel's 7% equity reduction follows a 70% one-year stock rally, leaving him with $2.03 million in direct holdings.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/insider-iconic-retailer-dumps-stock-132501447.html",
-          "publishedOn": "2026-08-27T13:25:01.000Z",
-          "wordCount": 7028,
-          "title": "Insider at Iconic Retailer Dumps Stock Valued at Over $150,000, Following 70% Rally",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/4e6d73cb7241fe6d3b9833e9d52e5cdd521e4d9121bc5d1e5958f332f706e4a3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F6df4b60a8ec56b07e8006b55fcfdc96a.png"
-        },
-        {
-          "id": "talen-energy-corporation-tln-transformed-132238702.html",
-          "author": null,
-          "description": "Alluvial Capital Management’s Q2 2026 investor letter for the Alluvial Fund reported a 4.9% return, with a year-to-date increase to 8.0%. A copy of the letter can be downloaded here. While these results are acceptable, they are overshadowed by the impressive performance of small-cap and micro-cap stocks, particularly in AI and semiconductor sectors. The portfolio […]",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/talen-energy-corporation-tln-transformed-132238702.html",
-          "publishedOn": "2026-08-27T13:22:38.000Z",
-          "wordCount": 7044,
-          "title": "How Talen Energy Corporation (TLN) Transformed Bankruptcy into a High-Yield Masterclass",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/e72e5db19d3cb031964ba604fa2e53a47eecd7de83aef8532aceb3e707665e81/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fd687c20573ecbe7bbe124233e4937e06.jpg"
-        },
-        {
-          "id": "wall-street-analysts-target-price-131928496.html",
-          "author": null,
-          "description": "Although Jack Henry & Associates has underperformed the broader market over the past year, Wall Street analysts maintain a moderately optimistic outlook about the stock’s prospects.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-131928496.html",
-          "publishedOn": "2026-08-27T13:19:28.000Z",
-          "wordCount": 5846,
-          "title": "What Are Wall Street Analysts' Target Price for Jack Henry & Associates Stock?",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/b0586f5d0325692a7d236c0f4f5881f752c3e296e763acf5aa312acb3092b808/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F8898bc2f3fc7ca81eebd5aeb8b8e3e9a.jpg"
-        },
-        {
-          "id": "alphabet-515-target-looks-ambitious-131132685.html",
-          "author": null,
-          "description": "Citizens’ $515 price target for Alphabet Inc. (NASDAQ:GOOGL) may look like a stretch, sitting at a street-high above the $425 average. However, this aggressive target is based on something concrete, representing approximately 32 times its 2027 estimated GAAP earnings per share for the company. Analyst Andrew Boone reiterated the target on August 26, along with […]",
-          "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-515-target-looks-ambitious-131132685.html",
-          "publishedOn": "2026-08-27T13:11:32.000Z",
-          "wordCount": 5369,
-          "title": "Alphabet’s $515 Target Looks Ambitious — But Google Cloud Is Growing 82%",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/be3423394453e8a06acdf2484b7feea87b649e521f3df1170feaf7a2e8d06034/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Faf2bb6bdbc4f56cfaf197a2118a94cf1.jpg"
-        },
-        {
-          "id": "bitcoin-and-ethereum-prices-today-thursday-august-27-2026-down-from-highs-but-prices-holding-strong-131109209.html",
-          "author": null,
-          "description": "Bitcoin opened at $79,026.75 on Thursday, August 27, 2026, up 0.6% compared to Wednesday's opening price. As of 8:50 a.m. ET, the price moved up to $79,317.69. Ethereum opened at $12,506.74, up 2.6% from Wednesday's opening price. Ethereum moved down this morning to $2,499.05 as of 8:50 a.m. ET.",
-          "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-27-2026-down-from-highs-but-prices-holding-strong-131109209.html",
-          "publishedOn": "2026-08-27T13:11:09.000Z",
-          "wordCount": 3588,
-          "title": "Bitcoin and ethereum prices today, Thursday, August 27, 2026: Down from highs, but prices holding strong",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/7f01ff25b8e01a2739c75b57e31b5a895c116c4bcdc3961b45dccd9e008ee285/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fethereum_%2520_bitcoin_0304.jpg"
-        },
-        {
-          "id": "top-1-us-boomers-shout-130500218.html",
-          "author": null,
-          "description": "You’re one in a hundred if you can answer ‘yes’ to all five questions about your personal finances in retirement.",
-          "link": "https://finance.yahoo.com/markets/articles/top-1-us-boomers-shout-130500218.html",
-          "publishedOn": "2026-08-27T13:05:00.000Z",
-          "wordCount": 6533,
-          "title": "You’re in the top 1% US boomers if you can shout ‘no’ to these 3 questions — how bulletproof is your nest egg?",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/7764d9e88ecd3edd88ae4d69273566315b1551c5ad78938c27f50bd6fd29e277/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F3a7622ace9bbd73098fe4dcb9037fdfa.jpg"
-        },
-        {
-          "id": "eur-usd-usd-jpy-usd-130222892.html",
-          "author": null,
-          "description": "EUR/USD targets 1.1600 as USD/JPY and USD/CAD remain bullish on dips, keeping US dollar strength in focus ahead of the Jackson Hole speeches.",
-          "link": "https://finance.yahoo.com/markets/currencies/articles/eur-usd-usd-jpy-usd-130222892.html",
-          "publishedOn": "2026-08-27T13:02:22.000Z",
-          "wordCount": 5765,
-          "title": "EUR/USD, USD/JPY and USD/CAD Favor Dollar Ahead of Jackson Hole",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/d439e58df0bd8773614f07c918edf385e9bc5569a4bb867d1269b1b64a7f6f59/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2Fad3f4618ff46e070914af0e3a73153d3.jpg"
-        },
-        {
-          "id": "?src=A00220&yptr=yahoo",
-          "author": null,
-          "description": "Stock Market Today: The Dow Jones index falls, but tech futures rally Thursday as Nvidia, Salesforce and CrowdStrike surge on earnings.",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-salesforce-crm-crowdstrike-crwd/?src=A00220&yptr=yahoo",
-          "publishedOn": "2026-08-27T13:01:49.000Z",
-          "wordCount": 7376,
-          "title": "Stock Market Today: Tech Futures Rally As Nvidia, Salesforce, CrowdStrike Surge On Earnings News (Live Coverage)",
-          "imageUrl": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet-031317-shutter.jpg"
-        },
-        {
-          "id": "zoom-beat-every-estimate-fell-130057593.html",
-          "author": null,
-          "description": "Zoom Communications Inc. (NASDAQ:ZM) delivered a clean Q2 2027 print. Total revenue grew 4.9% year over year to $1.28 billion, beating estimates of $1.27 billion, while EPS of $1.55 beat the $1.48 consensus. Revenue growth was backed by 7.8% growth in Enterprise revenue, its strongest growth rate in three years. Remaining performance obligations also grew 14% […]",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/zoom-beat-every-estimate-fell-130057593.html",
-          "publishedOn": "2026-08-27T13:00:57.000Z",
-          "wordCount": 6799,
-          "title": "Zoom Beat Every Estimate and Fell Anyway. Citizens Says That’s Exactly the Point",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/03d1319271c6e7d75ba6d137094aa7ce055c369aa5206650aa28e5e257b3e680/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F2ac535b759ecf7fc5feb9bce3b0eebd2.jpg"
-        },
-        {
-          "id": "asian-stocks-rise-third-day-020028496.html",
-          "author": null,
-          "description": "By Gregor Stuart Hunter and Danilo Masoni SINGAPORE/MILAN, Aug 27 (Reuters) - Stocks steadied on Thursday after Nvidia's strong sales growth forecast bolstered technology shares, while geopolitical",
-          "link": "https://finance.yahoo.com/news/asian-stocks-rise-third-day-020028496.html",
-          "publishedOn": "2026-08-27T13:00:00.000Z",
-          "wordCount": 6032,
-          "title": "World stocks steady as Nvidia boost tempers Jackson Hole caution",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/222aa4b82748907ea2d44517b9bab0a346b8814dda4b2b6bf4319327662cba8b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0db5403cbfcfc555c9596f6c63fc4c39.jpg"
-        },
-        {
-          "id": "arrive-logistics-plans-1-000-130000157.html",
-          "author": null,
-          "description": "Mubadala Capital has acquired a majority stake in Austin, Texas-based freight brokerage Arrive Logistics. The post Arrive Logistics plans 1,000 hires after Mubadala majority investment appeared first on FreightWaves.",
-          "link": "https://finance.yahoo.com/small-business/articles/arrive-logistics-plans-1-000-130000157.html",
-          "publishedOn": "2026-08-27T13:00:00.000Z",
-          "wordCount": 6171,
-          "title": "Arrive Logistics plans 1,000 hires after Mubadala majority investment",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/12394747c3a2f9b13f624be94397a84bb3df5a3754927372f2fcf3d5f40b1010/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffreightwaves_373%2F14dc56a1d33ab36d3273556e3d831786.png"
-        },
-        {
-          "id": "keeping-close-watch-garrett-motion-125516235.html",
-          "author": null,
-          "description": "Alluvial Capital Management’s Q2 2026 investor letter for the Alluvial Fund reported a 4.9% return, with a year-to-date increase to 8.0%. A copy of the letter can be downloaded here. While these results are acceptable, they are overshadowed by the impressive performance of small-cap and micro-cap stocks, particularly in AI and semiconductor sectors. The portfolio […]",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/keeping-close-watch-garrett-motion-125516235.html",
-          "publishedOn": "2026-08-27T12:55:16.000Z",
-          "wordCount": 6079,
-          "title": "Keeping a Close Watch: Garrett Motion’s (GTX) Rising Share Price and Future Returns",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/aaffabdf12001c1958e657430ab30e0ec4df79a0b272d9fbd80bfeadbf3e42fa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Feb26f89f2ee9d9aab2b2b1764034d32a.jpg"
-        },
-        {
-          "id": "regeneron-pharmaceuticals-regn-adjusts-course-124300443.html",
-          "author": null,
-          "description": "Sound Shore Management, an investment management firm, has released its investor letter for the second quarter of 2026. The letter can be downloaded here. The Sound Shore Fund’s Investor Class (SSHFX) and Institutional Class (SSHVX) rose 10.48% and 10.58% in the second quarter of 2026, trailing the Russell 1000 Value Index’s 13.87% and the S&P 500’s […]",
-          "link": "https://finance.yahoo.com/healthcare/articles/regeneron-pharmaceuticals-regn-adjusts-course-124300443.html",
-          "publishedOn": "2026-08-27T12:43:00.000Z",
-          "wordCount": 5355,
-          "title": "Regeneron Pharmaceuticals (REGN) Adjusts Course Amid Mixed Results in Melanoma Drug Trials",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/5510923a347256c1a5e40edc72bbaa9499b81df9d0f68b4cbfc7b34e4c87f52d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fbae404889492a528436e130b89e988f3.jpg"
-        },
-        {
-          "id": "silver-prices-today-thursday-august-27-2026-silver-prices-steady-following-inflation-report-123011918.html",
-          "author": null,
-          "description": "Silver September futures opened at $68.09 per ounce on Thursday, August 27, 2026, up 0.1% from Wednesday's closing price. Silver prices inched higher this morning, reaching $68.99 as of 8:17 a.m. ET.",
-          "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-august-27-2026-silver-prices-steady-following-inflation-report-123011918.html",
-          "publishedOn": "2026-08-27T12:30:11.000Z",
-          "wordCount": 4424,
-          "title": "Silver prices today, Thursday, August 27, 2026: Silver prices steady following inflation report",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/5d8bd110f82db63524747694f22539446e9d352fac0c3dc596ff80e4f497ecf4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-12%2F01dc5a90-df88-11f0-bfff-e5a5c38339cf"
-        },
-        {
-          "id": "think-600k-isn-t-enough-123000055.html",
-          "author": null,
-          "description": "Your retirement savings don’t stop working when you do. Supplemental income, spending plans and investment returns can help your money last.",
-          "link": "https://finance.yahoo.com/markets/articles/think-600k-isn-t-enough-123000055.html",
-          "publishedOn": "2026-08-27T12:30:00.000Z",
-          "wordCount": 7648,
-          "title": "Think $600K isn’t enough to retire? Here’s how your nest egg could actually keep growing after you stop working",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/a23dee881fcbaf31567c91f1f80d00f0cf4455c7c5bb295b09e033072970d53b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F3c130197f54f30513ec2e102af88aef6.jpg"
-        },
-        {
-          "id": "gold-prices-today-thursday-august-27-2026-prices-pull-back-after-pce-report-ahead-of-warsh-speech-121341759.html",
-          "author": null,
-          "description": "Gold December futures opened at $4,650 per troy ounce on Thursday, August 27, 2026, down just 0.1% compared to Wednesday's closing price. The price of gold moved back up this morning, trading at $4,648.90 as of 7:59 a.m. ET.",
-          "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-27-2026-prices-pull-back-after-pce-report-ahead-of-warsh-speech-121341759.html",
-          "publishedOn": "2026-08-27T12:13:41.000Z",
-          "wordCount": 3488,
-          "title": "Gold prices today, Thursday, August 27, 2026: Prices pull back after PCE report, ahead of Warsh speech",
-          "imageUrl": "https://s.yimg.com/lo/mysterio/api/4fd82b30434a934e3d85065632c2281f1ffbf45ecd077168c2e16927ab6e0557/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fthursday.png"
         }
       ]
     }
