@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JunWeiChim.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-30T20:23:47.339Z</updated>
+    <updated>2026-10-31T00:21:31.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://JunWeiChim.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://JunWeiChim.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple gaat Nvidia voorbij en is waardevolste beursbedrijf ter wereld]]></title>
+        <id>article-6415001</id>
+        <link href="https://www.nu.nl/economie/6415001/apple-gaat-nvidia-voorbij-en-is-waardevolste-beursbedrijf-ter-wereld.html"/>
+        <updated>2026-10-30T21:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Apple is sinds vrijdag het waardevolste beursbedrijf ter wereld. Het bedrijf is NVIDIA voorbijgegaan, omdat het aandeel van NVIDIA flink daalde na slechte kwartaalcijfers van Intel. Ook Apple verloor wat waarde, maar minder dan NVIDIA.]]></summary>
+        <author>
+            <name>NU - Economie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Volkswagen pauzeert ontwikkeling elektrische Golf wegens geldgebrek]]></title>
         <id>article-6414981</id>
@@ -4403,76 +4413,6 @@ Steeds meer zelfstandigen stoppen ermee of gaan in loondienst nu de Belastingdie
         <link href="https://www.nu.nl/economie/6411646/ruim-27-miljoen-euro-geboden-op-vakantieparken-peter-gillis.html"/>
         <updated>2026-10-01T12:25:26.000Z</updated>
         <summary type="html"><![CDATA[De drie vakantieparken van Peter Gillis hebben donderdag 27,25 miljoen euro opgebracht bij een gedwongen veiling. Dat is net iets meer dan de schuld die hij bij zijn schuldeiser heeft, al zijn de parken nog niet definitief verkocht.]]></summary>
-        <author>
-            <name>NU - Economie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oostenrijk maakt goedkope pakketjes opnieuw duurder]]></title>
-        <id>article-6411632</id>
-        <link href="https://www.nu.nl/economie/6411632/oostenrijk-maakt-goedkope-pakketjes-opnieuw-duurder.html"/>
-        <updated>2026-10-01T11:54:41.000Z</updated>
-        <summary type="html"><![CDATA[Goedkoop shoppen bij webwinkels als SHEIN en AliExpress wordt steeds minder goedkoop in Europa. Oostenrijk voert donderdag een extra heffing van 2 euro per pakket in. Dat komt boven op de Europese heffingen die dit jaar al zijn ingevoerd.]]></summary>
-        <author>
-            <name>NU - Economie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scheepsbouwer Damen claimt 4,7 miljard van Duitsland na stopzetten project]]></title>
-        <id>article-6411638</id>
-        <link href="https://www.nu.nl/economie/6411638/scheepsbouwer-damen-claimt-47-miljard-van-duitsland-na-stopzetten-project.html"/>
-        <updated>2026-10-01T11:50:35.000Z</updated>
-        <summary type="html"><![CDATA[De Nederlandse scheepsbouwer Damen wil 4,7 miljard euro van Duitsland zien. Het bedrijf claimt dat bedrag nadat de Duitse regering een groot fregattenproject heeft stopgezet.]]></summary>
-        <author>
-            <name>NU - Economie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kabinet wil kleine spaarder en belegger in box 3 ontzien na kritiek vanuit Kamer]]></title>
-        <id>article-6411627</id>
-        <link href="https://www.nu.nl/politiek/6411627/kabinet-wil-kleine-spaarder-en-belegger-in-box-3-ontzien-na-kritiek-vanuit-kamer.html"/>
-        <updated>2026-10-01T10:45:12.000Z</updated>
-        <summary type="html"><![CDATA[Het kabinet is bereid om de plannen voor box 3 aan te passen zodat kleine spaarders en beleggers niet worden geraakt. Minister Eelco Heinen (Financiën) spreekt van een "helder signaal" uit de Tweede Kamer.]]></summary>
-        <author>
-            <name>NU - Economie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vakbonden dreigen met stakingen in streekvervoer vanwege uitblijven cao]]></title>
-        <id>article-6411623</id>
-        <link href="https://www.nu.nl/economie/6411623/vakbonden-dreigen-met-stakingen-in-streekvervoer-vanwege-uitblijven-cao.html"/>
-        <updated>2026-10-01T10:33:58.000Z</updated>
-        <summary type="html"><![CDATA[Vakbonden FNV en CNV dreigen met stakingen in het streekvervoer als de werkgevers niet aan hun ultimatum voldoen. Buschauffeurs en andere werknemers zullen dan tot Kerst een dag per week het werk neerleggen.]]></summary>
-        <author>
-            <name>NU - Economie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moeilijk om hackende AI-agents tegen te houden: ‘Huidige situatie is catch 22’]]></title>
-        <id>article-6411515</id>
-        <link href="https://www.nu.nl/tech/6411515/moeilijk-om-hackende-ai-agents-tegen-te-houden-huidige-situatie-is-catch-22.html"/>
-        <updated>2026-10-01T09:02:04.000Z</updated>
-        <summary type="html"><![CDATA[Het regende de afgelopen maanden beveiligingsincidenten bij AI-bedrijven zoals OpenAI en Anthropic. Het gaat dan over zogenaamde AI-agents die op eigen houtje websites van bedrijven en organisaties hacken. "Er moet iets gebeuren maar we zitten in een catch 22", zeggen deskundigen.]]></summary>
-        <author>
-            <name>NU - Economie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackende AI zorgt voor problemen en regelgeving lijkt niet in zicht]]></title>
-        <id>article-6411515</id>
-        <link href="https://www.nu.nl/tech/6411515/hackende-ai-zorgt-voor-problemen-en-regelgeving-lijkt-niet-in-zicht.html"/>
-        <updated>2026-10-01T09:02:04.000Z</updated>
-        <summary type="html"><![CDATA[Het regende de afgelopen maanden beveiligingsincidenten bij AI-bedrijven zoals OpenAI en Anthropic. Het gaat dan over zogenaamde AI-agents die op eigen houtje websites van bedrijven en organisaties hacken. "Er moet iets gebeuren maar we zitten in een catch 22", zeggen deskundigen.]]></summary>
-        <author>
-            <name>NU - Economie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meer nieuwe personenauto's verkocht, elektrische verkoop bereikt hoogtepunt]]></title>
-        <id>article-6411608</id>
-        <link href="https://www.nu.nl/economie/6411608/meer-nieuwe-personenautos-verkocht-elektrische-verkoop-bereikt-hoogtepunt.html"/>
-        <updated>2026-10-01T08:40:33.000Z</updated>
-        <summary type="html"><![CDATA[De verkoop van nieuwe personenauto's in ons land is in september toegenomen ten opzichte van dezelfde maand vorig jaar. Vooral hybride en elektrische auto's zijn gewild. In totaal werden 36.259 wagens geregistreerd, een stijging van 12,6 procent.]]></summary>
         <author>
             <name>NU - Economie</name>
         </author>
